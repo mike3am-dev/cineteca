@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-22T05:20:39.926Z",
+  "aggiornato": "2026-08-23T05:22:42.039Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -16,21 +16,22 @@
   ],
   "gruppi": [
     {
-      "soggetto": "Michael",
+      "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
-      "quante": 1,
+      "quante": 6,
       "link": [
-        "https://movieplayer.it/news/michael-2-jaafar-jackson-affronteremo-accuse-abusi-minori_170686/"
+        "https://fumettologica.it/2026/08/spider-man-brand-new-day-record-incassi-italia/",
+        "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-parola-al-villain-del-film-che-futuro-avra-william-bill-metzger-nel-mcu-718442",
+        "https://cinefilos.it/tutto-film/approfondimenti/spider-man-brand-new-day-new-avengers-problema-doomsday-718439"
       ]
     },
     {
-      "soggetto": "Spider-Man: Brand New Day",
+      "soggetto": "Michael",
       "tipo": "film",
-      "quante": 3,
+      "quante": 2,
       "link": [
-        "https://www.badtaste.it/articoli/spider-man-brand-new-day-fa-la-storia-in-italia-e-il-cinecomic-piu-visto-di-sempre",
-        "https://movieplayer.it/news/spider-man-brand-new-day-incasso-film-italia-record_170677/",
-        "https://www.screenweek.it/spider-man-brand-new-day-risaliamo-alle-origini-delle-ragnatele-organiche/"
+        "https://www.badtaste.it/articoli/michael-2-affrontera-gli-anni-piu-controversi-del-re-del-pop-jaafar-jackson-anticipa-cosa-vedremo-nel-film",
+        "https://movieplayer.it/news/michael-2-jaafar-jackson-affronteremo-accuse-abusi-minori_170686/"
       ]
     },
     {
@@ -70,7 +71,7 @@
     {
       "soggetto": "Ryan Gosling",
       "tipo": "attore",
-      "quante": 4,
+      "quante": 3,
       "link": [
         "https://movieplayer.it/news/ghost-rider-ryan-gosling-data-uscita-2028-anno-marvel-tre-film-cinema_170634/",
         "https://movieplayer.it/news/ghost-rider-provino-ryan-gosling-convinto-marvel-sei-minuti-pitch_170689/",
@@ -90,9 +91,10 @@
     {
       "soggetto": "Odissea",
       "tipo": "film",
-      "quante": 2,
+      "quante": 3,
       "link": [
         "https://www.badtaste.it/articoli/odissea-torna-in-vetta-al-box-office-italiano-il-kolossal-di-nolan-supera-spider-man-a-ferragosto",
+        "https://www.badtaste.it/articoli/odissea-ha-una-data-per-luscita-in-digitale-e-blu-ray-ecco-quando-potremo-rivederlo-a-casa",
         "https://www.badtaste.it/articoli/odissea-batte-deadpool-wolverine-e-fa-la-storia-ryan-reynolds-reagisce-al-sorpasso-a-modo-suo"
       ]
     },
@@ -168,6 +170,82 @@
       "evidenza": true
     },
     {
+      "titolo": "Spider-Man: Brand New Day è il cinecomic con il maggiore incasso di sempre in Italia",
+      "link": "https://fumettologica.it/2026/08/spider-man-brand-new-day-record-incassi-italia/",
+      "sommario": "Spider-Man: Brand New Day è diventato il cinecomic con il maggiore incasso di sempre in Italia. Secondo i dati Cinetel aggiornati al 20 agosto, il nuovo film di Sony Pictures e Marvel Studios con Tom Holland nei panni di Peter Parker ha incassato 33,7 milioni ",
+      "data": "2026-08-22T09:52:22.000Z",
+      "fonte": "Fumettologica",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 11,
+      "prevendite": false,
+      "vistoIl": "2026-08-23T05:22:42.026Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Spider-Man: Brand New Day, parola al “villain” del film. Che futuro avrà William “Bill” Metzger nel MCU",
+      "link": "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-parola-al-villain-del-film-che-futuro-avra-william-bill-metzger-nel-mcu-718442",
+      "sommario": "Spider-Man: Brand New Day, parola al “villain” del film. Che futuro avrà William “Bill” Metzger nel MCU Spider-Man: Brand New Day potrebbe non aver ancora chiuso la storia di William “Bill” Metzger. Il nuovo personaggio interpretato da Tramell Tillman, introdo",
+      "data": "2026-08-22T10:17:25.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-23T05:22:42.024Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Spider-Man: Brand New Day ha già mostrato il vero problema dei New Avengers prima di Avengers: Doomsday",
+      "link": "https://cinefilos.it/tutto-film/approfondimenti/spider-man-brand-new-day-new-avengers-problema-doomsday-718439",
+      "sommario": "Spider-Man: Brand New Day ha già mostrato il vero problema dei New Avengers prima di Avengers: Doomsday Spider-Man: Brand New Day non porta realmente in azione i New Avengers, ma potrebbe aver detto sulla nuova squadra molto più di quanto sembri. La presenza d",
+      "data": "2026-08-22T09:51:42.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-23T05:22:42.024Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Michael 2 affronterà gli anni più controversi del Re del Pop: Jaafar Jackson anticipa cosa vedremo nel film",
+      "link": "https://www.badtaste.it/articoli/michael-2-affrontera-gli-anni-piu-controversi-del-re-del-pop-jaafar-jackson-anticipa-cosa-vedremo-nel-film",
+      "sommario": "Michael 2 entrerà nel periodo più controverso della vita di Michael Jackson: Jaafar Jackson anticipa come il sequel affronterà le accuse e gli ultimi anni della star.",
+      "data": "2026-08-22T07:15:22.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Michael",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Michael",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-23T05:22:41.982Z",
+      "evidenza": false
+    },
+    {
       "titolo": "Michael 2, Jaafar Jackson: \"Affronteremo anche le accuse di abusi su minori\"",
       "link": "https://movieplayer.it/news/michael-2-jaafar-jackson-affronteremo-accuse-abusi-minori_170686/",
       "sommario": "In un'intervista rilasciata a GQ Middle East, l'attore ha spiegato che il nuovo film offrirà una prospettiva più ampia sugli eventi che hanno segnato gli ultimi anni della carriera dello zio, cercando di raccontare anche il suo punto di vista. Dopo il clamoros",
@@ -184,63 +262,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-08-22T05:20:39.881Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man: Brand New Day fa la storia in Italia: è il cinecomic più visto di sempre",
-      "link": "https://www.badtaste.it/articoli/spider-man-brand-new-day-fa-la-storia-in-italia-e-il-cinecomic-piu-visto-di-sempre",
-      "sommario": "Spider-Man: Brand New Day continua la sua corsa al box office e conquista un primato storico in Italia: il film con Tom Holland supera i 4,1 milioni di spettatori e diventa il cinecomic più visto di sempre.",
-      "data": "2026-08-21T06:15:52.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-22T05:20:39.872Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man è il supereroe preferito degli italiani: Brand New Day è il cinecomic più visto nei nostri cinema",
-      "link": "https://movieplayer.it/news/spider-man-brand-new-day-incasso-film-italia-record_170677/",
-      "sommario": "Numeri da record al botteghino italiano per Spider-Man: Brand New Day. Il film con Tom Holland e Zendaya è il cinecomic più visto sul grande schermo. Record. Nell'epoca dei cinecomic ad alto budget la sfida era alquanto complicata. Con 33.262.422 milioni di eu",
-      "data": "2026-08-20T14:32:00.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-21T05:26:18.133Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man: Brand New Day, risaliamo alle origini delle ragnatele organiche",
-      "link": "https://www.screenweek.it/spider-man-brand-new-day-risaliamo-alle-origini-delle-ragnatele-organiche/",
-      "sommario": "Ora che possiede le ragnatele organiche, lo Spidey di Tom Holland si aggiunge a una lista di varianti ragnesche dotate di questa capacità.",
-      "data": "2026-08-05T04:49:11.000Z",
-      "fonte": "ScreenWeek",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-21T05:26:18.166Z",
       "evidenza": false
     },
     {
@@ -500,6 +521,25 @@
       "rilievo": 12,
       "prevendite": false,
       "vistoIl": "2026-08-18T05:22:02.620Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Odissea ha una data per l’uscita in digitale e Blu-ray: ecco quando potremo rivederlo a casa",
+      "link": "https://www.badtaste.it/articoli/odissea-ha-una-data-per-luscita-in-digitale-e-blu-ray-ecco-quando-potremo-rivederlo-a-casa",
+      "sommario": "Odissea di Christopher Nolan potrebbe arrivare in digitale e Blu-ray a novembre: ecco la data per l’uscita home video del kolossal.",
+      "data": "2026-08-22T06:15:33.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Odissea",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Odissea",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-23T05:22:41.983Z",
       "evidenza": false
     },
     {
