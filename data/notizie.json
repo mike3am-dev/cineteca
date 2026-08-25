@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-24T05:32:28.360Z",
+  "aggiornato": "2026-08-25T05:25:19.249Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -18,11 +18,11 @@
     {
       "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
-      "quante": 5,
+      "quante": 4,
       "link": [
         "https://fumettologica.it/2026/08/spider-man-brand-new-day-record-incassi-italia/",
-        "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio",
-        "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-parola-al-villain-del-film-che-futuro-avra-william-bill-metzger-nel-mcu-718442"
+        "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
+        "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio"
       ]
     },
     {
@@ -189,6 +189,25 @@
       "evidenza": false
     },
     {
+      "titolo": "\"È emozionante\" Sadie Sink commenta il suo futuro nel MCU dopo Spider-Man: Brand New Day",
+      "link": "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
+      "sommario": "Sadie Sink racconta i due anni trascorsi a custodire il segreto su Jean Grey e svela come si è preparata al ruolo, mentre il nuovo cast degli X-Men del MCU continua a prendere forma.",
+      "data": "2026-08-24T08:00:34.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-25T05:25:19.202Z",
+      "evidenza": false
+    },
+    {
       "titolo": "Spider-Man: Brand New Day prepara già il terreno per gli X-Men? Tramell Tillman rompe il silenzio",
       "link": "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio",
       "sommario": "Tramell Tillman parla dei nuovi X-Men dell'MCU e del futuro di Bill Metzger dopo Spider-Man: Brand New Day, aprendo alla possibilità di un nuovo incontro con i mutanti.",
@@ -205,25 +224,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-08-24T05:32:28.301Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man: Brand New Day, parola al “villain” del film. Che futuro avrà William “Bill” Metzger nel MCU",
-      "link": "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-parola-al-villain-del-film-che-futuro-avra-william-bill-metzger-nel-mcu-718442",
-      "sommario": "Spider-Man: Brand New Day, parola al “villain” del film. Che futuro avrà William “Bill” Metzger nel MCU Spider-Man: Brand New Day potrebbe non aver ancora chiuso la storia di William “Bill” Metzger. Il nuovo personaggio interpretato da Tramell Tillman, introdo",
-      "data": "2026-08-22T10:17:25.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-23T05:22:42.024Z",
       "evidenza": false
     },
     {
