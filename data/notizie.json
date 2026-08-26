@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-25T05:25:19.249Z",
+  "aggiornato": "2026-08-26T05:27:33.037Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -10,19 +10,17 @@
   ],
   "segnalazioniPrevendita": [],
   "evidenza": [
-    "https://movieplayer.it/news/avengers-doomsday-dune-3-record-piu-spider-man-preparatevi-dunesday_170640/",
-    "https://movieplayer.it/news/dune-3-denis-villeneuve-rassicura-fan-dopo-assalto-prevendite_170635/",
-    "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351"
+    "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351",
+    "https://movieplayer.it/news/spider-man-brand-new-day-pronto-superare-titanic-box-office_170737/",
+    "https://www.badtaste.it/articoli/oceania-batte-odissea-e-spider-man-brand-new-day-regna-al-box-office-italiano"
   ],
   "gruppi": [
     {
-      "soggetto": "Spider-Man: Brand New Day",
+      "soggetto": "Couture",
       "tipo": "film",
-      "quante": 4,
+      "quante": 1,
       "link": [
-        "https://fumettologica.it/2026/08/spider-man-brand-new-day-record-incassi-italia/",
-        "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
-        "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio"
+        "https://www.screenweek.it/couture-e-un-racconto-corale-sincero-ma-anche-irrisolto/"
       ]
     },
     {
@@ -69,6 +67,24 @@
       ]
     },
     {
+      "soggetto": "Spider-Man: Brand New Day",
+      "tipo": "film",
+      "quante": 4,
+      "link": [
+        "https://movieplayer.it/news/avengers-doomsday-dune-3-record-piu-spider-man-preparatevi-dunesday_170640/",
+        "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
+        "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio"
+      ]
+    },
+    {
+      "soggetto": "Denis Villeneuve",
+      "tipo": "regista",
+      "quante": 1,
+      "link": [
+        "https://movieplayer.it/news/dune-3-denis-villeneuve-rassicura-fan-dopo-assalto-prevendite_170635/"
+      ]
+    },
+    {
       "soggetto": "Ryan Gosling",
       "tipo": "attore",
       "quante": 3,
@@ -81,71 +97,15 @@
     {
       "soggetto": "La Fine di Oak Street",
       "tipo": "film",
-      "quante": 5,
+      "quante": 3,
       "link": [
         "https://www.badtaste.it/recensioni/la-fine-di-oak-street-la-recensione-cosa-resta-dei-blockbuster",
         "https://movieplayer.it/news/fine-oak-street-anne-hathaway-ewan-mcgregor-finale-cambiato_170618/",
         "https://movieplayer.it/news/la-fine-di-oak-street-finale-spiegato-teoria-scientifica-dinosauri_170593/"
       ]
-    },
-    {
-      "soggetto": "Odissea",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://www.badtaste.it/articoli/odissea-torna-in-vetta-al-box-office-italiano-il-kolossal-di-nolan-supera-spider-man-a-ferragosto",
-        "https://www.badtaste.it/articoli/odissea-ha-una-data-per-luscita-in-digitale-e-blu-ray-ecco-quando-potremo-rivederlo-a-casa",
-        "https://www.badtaste.it/articoli/odissea-batte-deadpool-wolverine-e-fa-la-storia-ryan-reynolds-reagisce-al-sorpasso-a-modo-suo"
-      ]
-    },
-    {
-      "soggetto": "The End of Oak Street",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://www.badtaste.it/articoli/the-end-of-oak-street-parte-male-al-box-office-per-anne-hathaway-e-tra-i-peggiori-debutti-della-sua-carriera"
-      ]
     }
   ],
   "notizie": [
-    {
-      "titolo": "Avengers: Doomsday ha già superato un record di Spider-Man: Brand New Day al botteghino",
-      "link": "https://movieplayer.it/news/avengers-doomsday-dune-3-record-piu-spider-man-preparatevi-dunesday_170640/",
-      "sommario": "Le prevendite di Avengers: Doomsday stanno viaggiando a un ritmo superiore rispetto a Spider-Man: Brand New Day, mentre i biglietti IMAX 70mm di Dune: Parte Tre registrano già numerosi sold out. Per gli analisti il Natale 2026 potrebbe trasformarsi in uno degl",
-      "data": "2026-08-18T14:00:24.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 13,
-      "prevendite": true,
-      "vistoIl": "2026-08-19T05:22:24.229Z",
-      "evidenza": true
-    },
-    {
-      "titolo": "Dune 3, Denis Villeneuve rassicura i fan dopo l'assalto alle prevendite: \"Vi abbiamo ascoltato\"",
-      "link": "https://movieplayer.it/news/dune-3-denis-villeneuve-rassicura-fan-dopo-assalto-prevendite_170635/",
-      "sommario": "L'entusiasmo per Dune: Parte Tre ha già mandato in tilt le prevendite delle proiezioni premium, al punto che Denis Villeneuve è intervenuto con un messaggio rivolto ai fan. L'attesa per Dune: Parte Tre si sta facendo sentire ben prima dell'arrivo del film nell",
-      "data": "2026-08-18T10:00:55.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Denis Villeneuve",
-      "soggettoTipo": "regista",
-      "citati": [
-        {
-          "nome": "Denis Villeneuve",
-          "tipo": "regista"
-        }
-      ],
-      "rilievo": 13,
-      "prevendite": true,
-      "vistoIl": "2026-08-19T05:22:24.244Z",
-      "evidenza": true
-    },
     {
       "titolo": "Odissea di Christopher Nolan entra nella storia del box office con un nuovo record",
       "link": "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351",
@@ -170,11 +130,11 @@
       "evidenza": true
     },
     {
-      "titolo": "Spider-Man: Brand New Day è il cinecomic con il maggiore incasso di sempre in Italia",
-      "link": "https://fumettologica.it/2026/08/spider-man-brand-new-day-record-incassi-italia/",
-      "sommario": "Spider-Man: Brand New Day è diventato il cinecomic con il maggiore incasso di sempre in Italia. Secondo i dati Cinetel aggiornati al 20 agosto, il nuovo film di Sony Pictures e Marvel Studios con Tom Holland nei panni di Peter Parker ha incassato 33,7 milioni ",
-      "data": "2026-08-22T09:52:22.000Z",
-      "fonte": "Fumettologica",
+      "titolo": "Spider-Man: Brand New Day pronto a superare Titanic al box office: sarà il nuovo “re del mondo”?",
+      "link": "https://movieplayer.it/news/spider-man-brand-new-day-pronto-superare-titanic-box-office_170737/",
+      "sommario": "Il cinecomic con Tom Holland continua la sua corsa nelle sale e si prepara a scavalcare il kolossal di James Cameron nella classifica mondiale. Spider-Man: Brand New Day continua a macinare record al box office e ora punta a un bersaglio dal peso storico: Tita",
+      "data": "2026-08-25T09:30:00.000Z",
+      "fonte": "MoviePlayer",
       "soggetto": "Spider-Man: Brand New Day",
       "soggettoTipo": "film",
       "citati": [
@@ -185,14 +145,14 @@
       ],
       "rilievo": 11,
       "prevendite": false,
-      "vistoIl": "2026-08-23T05:22:42.026Z",
-      "evidenza": false
+      "vistoIl": "2026-08-26T05:27:33.012Z",
+      "evidenza": true
     },
     {
-      "titolo": "\"È emozionante\" Sadie Sink commenta il suo futuro nel MCU dopo Spider-Man: Brand New Day",
-      "link": "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
-      "sommario": "Sadie Sink racconta i due anni trascorsi a custodire il segreto su Jean Grey e svela come si è preparata al ruolo, mentre il nuovo cast degli X-Men del MCU continua a prendere forma.",
-      "data": "2026-08-24T08:00:34.000Z",
+      "titolo": "Oceania batte Odissea e Spider-Man: Brand New Day: regna al box office italiano",
+      "link": "https://www.badtaste.it/articoli/oceania-batte-odissea-e-spider-man-brand-new-day-regna-al-box-office-italiano",
+      "sommario": "Oceania debutta al primo posto del box office italiano e interrompe il dominio di Odissea e Spider-Man: il live action Disney supera i 5 milioni in cinque giorni.",
+      "data": "2026-08-25T07:30:20.000Z",
       "fonte": "BadTaste",
       "soggetto": "Spider-Man: Brand New Day",
       "soggettoTipo": "film",
@@ -202,28 +162,28 @@
           "tipo": "film"
         }
       ],
-      "rilievo": 7,
+      "rilievo": 11,
       "prevendite": false,
-      "vistoIl": "2026-08-25T05:25:19.202Z",
-      "evidenza": false
+      "vistoIl": "2026-08-26T05:27:33.005Z",
+      "evidenza": true
     },
     {
-      "titolo": "Spider-Man: Brand New Day prepara già il terreno per gli X-Men? Tramell Tillman rompe il silenzio",
-      "link": "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio",
-      "sommario": "Tramell Tillman parla dei nuovi X-Men dell'MCU e del futuro di Bill Metzger dopo Spider-Man: Brand New Day, aprendo alla possibilità di un nuovo incontro con i mutanti.",
-      "data": "2026-08-23T14:15:33.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Spider-Man: Brand New Day",
+      "titolo": "Couture è un racconto corale sincero, ma anche irrisolto",
+      "link": "https://www.screenweek.it/couture-e-un-racconto-corale-sincero-ma-anche-irrisolto/",
+      "sommario": "Alice Winocour si immerge nella Fashion Week parigina con Angelina Jolie, Anyier Anei ed Ella Rumpf, moltiplicando i punti di vista sul mondo della moda.",
+      "data": "2026-08-26T05:12:40.000Z",
+      "fonte": "ScreenWeek",
+      "soggetto": "Couture",
       "soggettoTipo": "film",
       "citati": [
         {
-          "nome": "Spider-Man: Brand New Day",
+          "nome": "Couture",
           "tipo": "film"
         }
       ],
       "rilievo": 7,
       "prevendite": false,
-      "vistoIl": "2026-08-24T05:32:28.301Z",
+      "vistoIl": "2026-08-26T05:27:33.018Z",
       "evidenza": false
     },
     {
@@ -387,6 +347,82 @@
       "evidenza": false
     },
     {
+      "titolo": "Avengers: Doomsday ha già superato un record di Spider-Man: Brand New Day al botteghino",
+      "link": "https://movieplayer.it/news/avengers-doomsday-dune-3-record-piu-spider-man-preparatevi-dunesday_170640/",
+      "sommario": "Le prevendite di Avengers: Doomsday stanno viaggiando a un ritmo superiore rispetto a Spider-Man: Brand New Day, mentre i biglietti IMAX 70mm di Dune: Parte Tre registrano già numerosi sold out. Per gli analisti il Natale 2026 potrebbe trasformarsi in uno degl",
+      "data": "2026-08-18T14:00:24.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 13,
+      "prevendite": true,
+      "vistoIl": "2026-08-19T05:22:24.229Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "\"È emozionante\" Sadie Sink commenta il suo futuro nel MCU dopo Spider-Man: Brand New Day",
+      "link": "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
+      "sommario": "Sadie Sink racconta i due anni trascorsi a custodire il segreto su Jean Grey e svela come si è preparata al ruolo, mentre il nuovo cast degli X-Men del MCU continua a prendere forma.",
+      "data": "2026-08-24T08:00:34.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-25T05:25:19.202Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Spider-Man: Brand New Day prepara già il terreno per gli X-Men? Tramell Tillman rompe il silenzio",
+      "link": "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio",
+      "sommario": "Tramell Tillman parla dei nuovi X-Men dell'MCU e del futuro di Bill Metzger dopo Spider-Man: Brand New Day, aprendo alla possibilità di un nuovo incontro con i mutanti.",
+      "data": "2026-08-23T14:15:33.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-24T05:32:28.301Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Dune 3, Denis Villeneuve rassicura i fan dopo l'assalto alle prevendite: \"Vi abbiamo ascoltato\"",
+      "link": "https://movieplayer.it/news/dune-3-denis-villeneuve-rassicura-fan-dopo-assalto-prevendite_170635/",
+      "sommario": "L'entusiasmo per Dune: Parte Tre ha già mandato in tilt le prevendite delle proiezioni premium, al punto che Denis Villeneuve è intervenuto con un messaggio rivolto ai fan. L'attesa per Dune: Parte Tre si sta facendo sentire ben prima dell'arrivo del film nell",
+      "data": "2026-08-18T10:00:55.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Denis Villeneuve",
+      "soggettoTipo": "regista",
+      "citati": [
+        {
+          "nome": "Denis Villeneuve",
+          "tipo": "regista"
+        }
+      ],
+      "rilievo": 13,
+      "prevendite": true,
+      "vistoIl": "2026-08-19T05:22:24.244Z",
+      "evidenza": false
+    },
+    {
       "titolo": "Ghost Rider con Ryan Gosling ha una data d'uscita: il 2028 sarà l'anno Marvel con tre film al cinema",
       "link": "https://movieplayer.it/news/ghost-rider-ryan-gosling-data-uscita-2028-anno-marvel-tre-film-cinema_170634/",
       "sommario": "Dopo l'annuncio del casting al Comic-Con, Disney ha fissato la data d'uscita di Ghost Rider con Ryan Gosling, che si aggiunge a X-Men e Black Panther 3 in un 2028 ricchissimo per i fan della Casa delle Idee. Il futuro del Marvel Cinematic Universe prende sempr",
@@ -498,86 +534,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-08-15T05:18:59.257Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Odissea torna in vetta al box office italiano: il kolossal di Nolan supera Spider-Man a Ferragosto",
-      "link": "https://www.badtaste.it/articoli/odissea-torna-in-vetta-al-box-office-italiano-il-kolossal-di-nolan-supera-spider-man-a-ferragosto",
-      "sommario": "Odissea di Christopher Nolan riconquista la vetta del box office italiano a Ferragosto, superando Spider-Man: Brand New Day dopo due settimane.",
-      "data": "2026-08-17T08:00:46.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        },
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 12,
-      "prevendite": false,
-      "vistoIl": "2026-08-18T05:22:02.620Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Odissea ha una data per l’uscita in digitale e Blu-ray: ecco quando potremo rivederlo a casa",
-      "link": "https://www.badtaste.it/articoli/odissea-ha-una-data-per-luscita-in-digitale-e-blu-ray-ecco-quando-potremo-rivederlo-a-casa",
-      "sommario": "Odissea di Christopher Nolan potrebbe arrivare in digitale e Blu-ray a novembre: ecco la data per l’uscita home video del kolossal.",
-      "data": "2026-08-22T06:15:33.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-23T05:22:41.983Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Odissea batte Deadpool & Wolverine e fa la storia, Ryan Reynolds reagisce al sorpasso a modo suo",
-      "link": "https://www.badtaste.it/articoli/odissea-batte-deadpool-wolverine-e-fa-la-storia-ryan-reynolds-reagisce-al-sorpasso-a-modo-suo",
-      "sommario": "Odissea di Christopher Nolan è riuscito a fare la storia, strappando a Deadpool & Wolverine un record storico. Ryan Reynolds ha reagito a questa notizia a modo suo.",
-      "data": "2026-08-21T07:45:43.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-22T05:20:39.870Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "The End of Oak Street parte male al box office: per Anne Hathaway è tra i peggiori debutti della sua carriera",
-      "link": "https://www.badtaste.it/articoli/the-end-of-oak-street-parte-male-al-box-office-per-anne-hathaway-e-tra-i-peggiori-debutti-della-sua-carriera",
-      "sommario": "The End of Oak Street delude al debutto al box office americano: il film con Anne Hathaway ed Ewan McGregor rischia uno dei peggiori esordi della carriera dell'attrice.",
-      "data": "2026-08-16T06:30:57.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "The End of Oak Street",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The End of Oak Street",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 11,
-      "prevendite": false,
-      "vistoIl": "2026-08-17T05:28:38.039Z",
       "evidenza": false
     }
   ]
