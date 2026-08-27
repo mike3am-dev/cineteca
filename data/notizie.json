@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-26T05:27:33.037Z",
+  "aggiornato": "2026-08-27T16:02:25.989Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -15,6 +15,38 @@
     "https://www.badtaste.it/articoli/oceania-batte-odissea-e-spider-man-brand-new-day-regna-al-box-office-italiano"
   ],
   "gruppi": [
+    {
+      "soggetto": "Tony - Diario di un giovane cuoco",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain"
+      ]
+    },
+    {
+      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
+      ]
+    },
+    {
+      "soggetto": "Backrooms",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://movieplayer.it/news/backrooms-streaming-hbo-max-data-scena-chiave-potrebbe-mancare_170762/"
+      ]
+    },
+    {
+      "soggetto": "Artificial",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://movieplayer.it/news/andrew-garfield-recitato-artificial-ia-danneggiando-umanita_170756/"
+      ]
+    },
     {
       "soggetto": "Couture",
       "tipo": "film",
@@ -64,44 +96,6 @@
       "quante": 1,
       "link": [
         "https://movieplayer.it/news/the-batman-2-nuovi-video-mostrano-indizi-atmosfera-gotham-matt-reeves_170656/"
-      ]
-    },
-    {
-      "soggetto": "Spider-Man: Brand New Day",
-      "tipo": "film",
-      "quante": 4,
-      "link": [
-        "https://movieplayer.it/news/avengers-doomsday-dune-3-record-piu-spider-man-preparatevi-dunesday_170640/",
-        "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
-        "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio"
-      ]
-    },
-    {
-      "soggetto": "Denis Villeneuve",
-      "tipo": "regista",
-      "quante": 1,
-      "link": [
-        "https://movieplayer.it/news/dune-3-denis-villeneuve-rassicura-fan-dopo-assalto-prevendite_170635/"
-      ]
-    },
-    {
-      "soggetto": "Ryan Gosling",
-      "tipo": "attore",
-      "quante": 3,
-      "link": [
-        "https://movieplayer.it/news/ghost-rider-ryan-gosling-data-uscita-2028-anno-marvel-tre-film-cinema_170634/",
-        "https://movieplayer.it/news/ghost-rider-provino-ryan-gosling-convinto-marvel-sei-minuti-pitch_170689/",
-        "https://www.badtaste.it/articoli/data-di-uscita-per-ahsoka-2-e-nuovi-dettagli-su-ryan-gosling-in-starfighter-gli-annunci-di-star-wars-al-d23"
-      ]
-    },
-    {
-      "soggetto": "La Fine di Oak Street",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://www.badtaste.it/recensioni/la-fine-di-oak-street-la-recensione-cosa-resta-dei-blockbuster",
-        "https://movieplayer.it/news/fine-oak-street-anne-hathaway-ewan-mcgregor-finale-cambiato_170618/",
-        "https://movieplayer.it/news/la-fine-di-oak-street-finale-spiegato-teoria-scientifica-dinosauri_170593/"
       ]
     }
   ],
@@ -166,6 +160,86 @@
       "prevendite": false,
       "vistoIl": "2026-08-26T05:27:33.005Z",
       "evidenza": true
+    },
+    {
+      "titolo": "Tony – Diario di un giovane cuoco, la recensione: Dominic Sessa ci racconta Bourdain",
+      "link": "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain",
+      "sommario": "Basato sull’autobiografia Kitchen Confidential, Tony – Diario di un giovane cuoco è un accattivante coming of age sulle prime esperienze di Anthony Bourdain in ambito culinario.",
+      "data": "2026-08-27T11:00:25.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Tony - Diario di un giovane cuoco",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Tony - Diario di un giovane cuoco",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-27T16:02:25.950Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "The Dog Stars si perde fra accenni introspettivi e western post-apocalittico",
+      "link": "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/",
+      "sommario": "",
+      "data": "2026-08-26T14:46:46.000Z",
+      "fonte": "ScreenWeek",
+      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Dog Stars",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-08-27T16:02:25.976Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Backrooms arriva in streaming su HBO Max: svelata la data di uscita, ma una scena chiave potrebbe mancare",
+      "link": "https://movieplayer.it/news/backrooms-streaming-hbo-max-data-scena-chiave-potrebbe-mancare_170762/",
+      "sommario": "L'apprezzatissimo horror di Kane Parsons debutterà sulla piattaforma a settembre, ma resta il dubbio sulla versione estesa: vedremo anche il montaggio con 15 minuti aggiuntivi? Dopo il passaggio nelle sale, il ritorno al cinema in versione ampliata e l'uscita ",
+      "data": "2026-08-26T12:58:23.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Backrooms",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Backrooms",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-27T16:02:25.973Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Andrew Garfield dopo aver recitato in Artificial: \"L'IA sta danneggiando l'anima dell'umanità\"",
+      "link": "https://movieplayer.it/news/andrew-garfield-recitato-artificial-ia-danneggiando-umanita_170756/",
+      "sommario": "Andrew Garfield ha parlato del lavoro svolto per interpretare Sam Altman nel nuovo film di Luca Guadagnino, Artificial, chiarendo di non aver mai incontrato personalmente il CEO di OpenAI, ma di avere un'idea precisa sull'Intelligenza artificiale. Interpretare",
+      "data": "2026-08-26T11:00:56.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Artificial",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Artificial",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-27T16:02:25.976Z",
+      "evidenza": false
     },
     {
       "titolo": "Couture è un racconto corale sincero, ma anche irrisolto",
@@ -344,196 +418,6 @@
       "rilievo": 8,
       "prevendite": false,
       "vistoIl": "2026-08-20T05:23:41.603Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Avengers: Doomsday ha già superato un record di Spider-Man: Brand New Day al botteghino",
-      "link": "https://movieplayer.it/news/avengers-doomsday-dune-3-record-piu-spider-man-preparatevi-dunesday_170640/",
-      "sommario": "Le prevendite di Avengers: Doomsday stanno viaggiando a un ritmo superiore rispetto a Spider-Man: Brand New Day, mentre i biglietti IMAX 70mm di Dune: Parte Tre registrano già numerosi sold out. Per gli analisti il Natale 2026 potrebbe trasformarsi in uno degl",
-      "data": "2026-08-18T14:00:24.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 13,
-      "prevendite": true,
-      "vistoIl": "2026-08-19T05:22:24.229Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "\"È emozionante\" Sadie Sink commenta il suo futuro nel MCU dopo Spider-Man: Brand New Day",
-      "link": "https://www.badtaste.it/articoli/e-emozionante-sadie-sink-commenta-il-suo-futuro-nel-mcu-dopo-spider-man-brand-new-day",
-      "sommario": "Sadie Sink racconta i due anni trascorsi a custodire il segreto su Jean Grey e svela come si è preparata al ruolo, mentre il nuovo cast degli X-Men del MCU continua a prendere forma.",
-      "data": "2026-08-24T08:00:34.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-25T05:25:19.202Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man: Brand New Day prepara già il terreno per gli X-Men? Tramell Tillman rompe il silenzio",
-      "link": "https://www.badtaste.it/articoli/spider-man-brand-new-day-prepara-gia-il-terreno-per-gli-x-men-tramell-tillman-rompe-il-silenzio",
-      "sommario": "Tramell Tillman parla dei nuovi X-Men dell'MCU e del futuro di Bill Metzger dopo Spider-Man: Brand New Day, aprendo alla possibilità di un nuovo incontro con i mutanti.",
-      "data": "2026-08-23T14:15:33.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-24T05:32:28.301Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Dune 3, Denis Villeneuve rassicura i fan dopo l'assalto alle prevendite: \"Vi abbiamo ascoltato\"",
-      "link": "https://movieplayer.it/news/dune-3-denis-villeneuve-rassicura-fan-dopo-assalto-prevendite_170635/",
-      "sommario": "L'entusiasmo per Dune: Parte Tre ha già mandato in tilt le prevendite delle proiezioni premium, al punto che Denis Villeneuve è intervenuto con un messaggio rivolto ai fan. L'attesa per Dune: Parte Tre si sta facendo sentire ben prima dell'arrivo del film nell",
-      "data": "2026-08-18T10:00:55.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Denis Villeneuve",
-      "soggettoTipo": "regista",
-      "citati": [
-        {
-          "nome": "Denis Villeneuve",
-          "tipo": "regista"
-        }
-      ],
-      "rilievo": 13,
-      "prevendite": true,
-      "vistoIl": "2026-08-19T05:22:24.244Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Ghost Rider con Ryan Gosling ha una data d'uscita: il 2028 sarà l'anno Marvel con tre film al cinema",
-      "link": "https://movieplayer.it/news/ghost-rider-ryan-gosling-data-uscita-2028-anno-marvel-tre-film-cinema_170634/",
-      "sommario": "Dopo l'annuncio del casting al Comic-Con, Disney ha fissato la data d'uscita di Ghost Rider con Ryan Gosling, che si aggiunge a X-Men e Black Panther 3 in un 2028 ricchissimo per i fan della Casa delle Idee. Il futuro del Marvel Cinematic Universe prende sempr",
-      "data": "2026-08-18T09:00:28.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Ryan Gosling",
-      "soggettoTipo": "attore",
-      "citati": [
-        {
-          "nome": "Ryan Gosling",
-          "tipo": "attore"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-19T05:22:24.244Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Ghost Rider, il provino di Ryan Gosling che ha convinto la Marvel: una presentazione di soli 6 minuti",
-      "link": "https://movieplayer.it/news/ghost-rider-provino-ryan-gosling-convinto-marvel-sei-minuti-pitch_170689/",
-      "sommario": "Ryan Gosling non si limiterà a interpretare Ghost Rider nel Marvel Cinematic Universe: è stato proprio lui a proporre l'idea del film. Ora Shawn Levy racconta come quella presentazione abbia conquistato lui e Kevin Feige in pochissimi minuti, alimentando le as",
-      "data": "2026-08-21T14:00:12.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Ryan Gosling",
-      "soggettoTipo": "attore",
-      "citati": [
-        {
-          "nome": "Ryan Gosling",
-          "tipo": "attore"
-        }
-      ],
-      "rilievo": 3,
-      "prevendite": false,
-      "vistoIl": "2026-08-22T05:20:39.877Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Data di uscita per Ahsoka 2 e nuovi dettagli su Ryan Gosling in Starfighter: gli annunci di Star Wars al D23",
-      "link": "https://www.badtaste.it/articoli/data-di-uscita-per-ahsoka-2-e-nuovi-dettagli-su-ryan-gosling-in-starfighter-gli-annunci-di-star-wars-al-d23",
-      "sommario": "Ahsoka 2 ecco quando debutta la seconda stagione. Trailer ufficiale: Anakin torna, Thrawn dichiara guerra e nuove battaglie epiche. Tutti i dettagli sulla seconda stagione.",
-      "data": "2026-08-15T12:09:04.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Ryan Gosling",
-      "soggettoTipo": "attore",
-      "citati": [
-        {
-          "nome": "Ryan Gosling",
-          "tipo": "attore"
-        }
-      ],
-      "rilievo": 3,
-      "prevendite": false,
-      "vistoIl": "2026-08-16T05:21:36.079Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "La fine di Oak Street, la recensione: cosa resta dei blockbuster",
-      "link": "https://www.badtaste.it/recensioni/la-fine-di-oak-street-la-recensione-cosa-resta-dei-blockbuster",
-      "sommario": "Il nuovo, atteso film di David Robert Mithcell è un progetto ambizioso e sulla carta a dir poco intrigante: un blockbuster folle e paradossale sulla crisi, forse soffocato dalla troppa nostalgia.",
-      "data": "2026-08-17T11:06:37.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "La Fine di Oak Street",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "La Fine di Oak Street",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-18T05:22:02.618Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "La fine di Oak Street, Anne Hathaway ed Ewan McGregor spiegano il finale cambiato: \"Non riuscivo a capire\"",
-      "link": "https://movieplayer.it/news/fine-oak-street-anne-hathaway-ewan-mcgregor-finale-cambiato_170618/",
-      "sommario": "Anne Hathaway ed Ewan McGregor hanno raccontato alcuni retroscena di La fine di Oak Street, il nuovo film di David Robert Mitchell. I due attori hanno parlato del finale, modificato poco prima dell'inizio delle riprese con un cambiamento che ha trasformato il ",
-      "data": "2026-08-17T10:00:46.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "La Fine di Oak Street",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "La Fine di Oak Street",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-18T05:22:02.629Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "La fine di Oak Street: il finale si basa su una teoria scientifica che (incredibilmente) esiste davvero",
-      "link": "https://movieplayer.it/news/la-fine-di-oak-street-finale-spiegato-teoria-scientifica-dinosauri_170593/",
-      "sommario": "La spiegazione del finale de La fine di Oak Street passa dai 'wormhole', un'ipotesi della fisica teorica resa celebre da Carl Sagan e trasformata dal film nella chiave per spiegare l'arrivo dei dinosauri nel 1982 I dinosauri al cinema non sono certo una novità",
-      "data": "2026-08-14T15:20:04.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "La Fine di Oak Street",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "La Fine di Oak Street",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-15T05:18:59.257Z",
       "evidenza": false
     }
   ]
