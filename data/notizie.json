@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-27T16:02:25.989Z",
+  "aggiornato": "2026-08-28T17:06:09.564Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -10,25 +10,34 @@
   ],
   "segnalazioniPrevendita": [],
   "evidenza": [
-    "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351",
     "https://movieplayer.it/news/spider-man-brand-new-day-pronto-superare-titanic-box-office_170737/",
-    "https://www.badtaste.it/articoli/oceania-batte-odissea-e-spider-man-brand-new-day-regna-al-box-office-italiano"
+    "https://www.badtaste.it/articoli/oceania-batte-odissea-e-spider-man-brand-new-day-regna-al-box-office-italiano",
+    "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
   ],
   "gruppi": [
+    {
+      "soggetto": "La casa - Il rogo del Male",
+      "tipo": "film",
+      "quante": 2,
+      "link": [
+        "https://movieplayer.it/news/gf-vip-giacomo-gallani-giancarlo-danto-possibili-concorrenti_170803/",
+        "https://www.badtaste.it/articoli/manca-di-umorismo-la-star-delloriginale-la-casa-spiega-cosa-non-funziona-negli-ultimi-film"
+      ]
+    },
+    {
+      "soggetto": "Toy Story 5",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://movieplayer.it/news/toy-story-5-su-disney-data-streaming_170804/"
+      ]
+    },
     {
       "soggetto": "Tony - Diario di un giovane cuoco",
       "tipo": "film",
       "quante": 1,
       "link": [
         "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain"
-      ]
-    },
-    {
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
       ]
     },
     {
@@ -65,6 +74,14 @@
       ]
     },
     {
+      "soggetto": "Odissea",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351"
+      ]
+    },
+    {
       "soggetto": "Obsession",
       "tipo": "film",
       "quante": 1,
@@ -81,48 +98,9 @@
         "https://www.screenweek.it/insidious-fuori-dallaltrove-leredita-del-trauma/",
         "https://www.screenweek.it/insidious-fuori-dallaltrove-il-trailer-finale-del-film/"
       ]
-    },
-    {
-      "soggetto": "La casa - Il rogo del Male",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://www.badtaste.it/articoli/manca-di-umorismo-la-star-delloriginale-la-casa-spiega-cosa-non-funziona-negli-ultimi-film"
-      ]
-    },
-    {
-      "soggetto": "The Batman: Part II",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://movieplayer.it/news/the-batman-2-nuovi-video-mostrano-indizi-atmosfera-gotham-matt-reeves_170656/"
-      ]
     }
   ],
   "notizie": [
-    {
-      "titolo": "Odissea di Christopher Nolan entra nella storia del box office con un nuovo record",
-      "link": "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351",
-      "sommario": "Odissea di Christopher Nolan entra nella storia del box office con un nuovo record Odissea (The Odyssey) di Christopher Nolan continua una corsa al box office che, a poco più di un mese dall’uscita, ha ormai assunto dimensioni storiche. Dopo aver superato il m",
-      "data": "2026-08-21T14:46:02.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        },
-        {
-          "nome": "Christopher Nolan",
-          "tipo": "regista"
-        }
-      ],
-      "rilievo": 12,
-      "prevendite": false,
-      "vistoIl": "2026-08-22T05:20:39.914Z",
-      "evidenza": true
-    },
     {
       "titolo": "Spider-Man: Brand New Day pronto a superare Titanic al box office: sarà il nuovo “re del mondo”?",
       "link": "https://movieplayer.it/news/spider-man-brand-new-day-pronto-superare-titanic-box-office_170737/",
@@ -162,25 +140,6 @@
       "evidenza": true
     },
     {
-      "titolo": "Tony – Diario di un giovane cuoco, la recensione: Dominic Sessa ci racconta Bourdain",
-      "link": "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain",
-      "sommario": "Basato sull’autobiografia Kitchen Confidential, Tony – Diario di un giovane cuoco è un accattivante coming of age sulle prime esperienze di Anthony Bourdain in ambito culinario.",
-      "data": "2026-08-27T11:00:25.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Tony - Diario di un giovane cuoco",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Tony - Diario di un giovane cuoco",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-27T16:02:25.950Z",
-      "evidenza": false
-    },
-    {
       "titolo": "The Dog Stars si perde fra accenni introspettivi e western post-apocalittico",
       "link": "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/",
       "sommario": "",
@@ -201,6 +160,82 @@
       "rilievo": 8,
       "prevendite": false,
       "vistoIl": "2026-08-27T16:02:25.976Z",
+      "evidenza": true
+    },
+    {
+      "titolo": "GF Vip, Giacomo e Giancarlo verso la Casa: ecco chi sono i due possibili concorrenti",
+      "link": "https://movieplayer.it/news/gf-vip-giacomo-gallani-giancarlo-danto-possibili-concorrenti_170803/",
+      "sommario": "Nuove indiscrezioni sul cast del GF Vip: Giacomo Gallani e Giancarlo Danto sarebbero tra i possibili protagonisti della nuova edizione condotta da Ilary Blasi Mancano ormai poche settimane all'inizio della nuova edizione del Grande Fratello Vip e le indiscrezi",
+      "data": "2026-08-28T13:42:00.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "La casa - Il rogo del Male",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "La casa - Il rogo del Male",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-28T17:06:09.518Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "\"Manca di umorismo\": la star dell'originale La Casa spiega cosa non funziona negli ultimi film",
+      "link": "https://www.badtaste.it/articoli/manca-di-umorismo-la-star-delloriginale-la-casa-spiega-cosa-non-funziona-negli-ultimi-film",
+      "sommario": "L'amatissimo interprete di Ash Williams ha rivelato cosa non funziona nei ultimi film de \"La casa\", ovvero la mancanza di umorismo e di colore.",
+      "data": "2026-08-19T10:22:27.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "La casa - Il rogo del Male",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "La casa - Il rogo del Male",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-20T05:23:41.587Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Toy Story 5 arriva su Disney+: dopo il miliardo al cinema, Woody e Buzz puntano allo streaming",
+      "link": "https://movieplayer.it/news/toy-story-5-su-disney-data-streaming_170804/",
+      "sommario": "Dopo il successo al cinema, Woody, Buzz e Jessie tornano su Disney+ in un'avventura che mette i giocattoli di sempre di fronte alla nuova sfida dell'infanzia digitale. Dopo aver conquistato il pubblico al cinema e superato il miliardo di dollari al box office ",
+      "data": "2026-08-28T13:07:31.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Toy Story 5",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Toy Story 5",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-28T17:06:09.518Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Tony – Diario di un giovane cuoco, la recensione: Dominic Sessa ci racconta Bourdain",
+      "link": "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain",
+      "sommario": "Basato sull’autobiografia Kitchen Confidential, Tony – Diario di un giovane cuoco è un accattivante coming of age sulle prime esperienze di Anthony Bourdain in ambito culinario.",
+      "data": "2026-08-27T11:00:25.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Tony - Diario di un giovane cuoco",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Tony - Diario di un giovane cuoco",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-27T16:02:25.950Z",
       "evidenza": false
     },
     {
@@ -299,6 +334,29 @@
       "evidenza": false
     },
     {
+      "titolo": "Odissea di Christopher Nolan entra nella storia del box office con un nuovo record",
+      "link": "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351",
+      "sommario": "Odissea di Christopher Nolan entra nella storia del box office con un nuovo record Odissea (The Odyssey) di Christopher Nolan continua una corsa al box office che, a poco più di un mese dall’uscita, ha ormai assunto dimensioni storiche. Dopo aver superato il m",
+      "data": "2026-08-21T14:46:02.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Odissea",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Odissea",
+          "tipo": "film"
+        },
+        {
+          "nome": "Christopher Nolan",
+          "tipo": "regista"
+        }
+      ],
+      "rilievo": 12,
+      "prevendite": false,
+      "vistoIl": "2026-08-22T05:20:39.914Z",
+      "evidenza": false
+    },
+    {
       "titolo": "Obsession, la star Inde Navarrette avrebbe rinunciato a 2,5 milioni di dollari per entrare nel MCU",
       "link": "https://movieplayer.it/news/obsession-star-inde-navarrette-rinunciato-25-milioni-dollari-mcu_170667/",
       "sommario": "Secondo quanto riportato da Page Six Hollywood, la star di Obsession avrebbe rinunciato non soltanto a entrare in Heat 2, ma anche a un cachet da 2,5 milioni. Dopo il successo di Obsession, la carriera di Inde Navarrette sembra aver preso una direzione ben pre",
@@ -376,48 +434,6 @@
       "rilievo": 11,
       "prevendite": false,
       "vistoIl": "2026-08-20T05:23:41.635Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "\"Manca di umorismo\": la star dell'originale La Casa spiega cosa non funziona negli ultimi film",
-      "link": "https://www.badtaste.it/articoli/manca-di-umorismo-la-star-delloriginale-la-casa-spiega-cosa-non-funziona-negli-ultimi-film",
-      "sommario": "L'amatissimo interprete di Ash Williams ha rivelato cosa non funziona nei ultimi film de \"La casa\", ovvero la mancanza di umorismo e di colore.",
-      "data": "2026-08-19T10:22:27.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "La casa - Il rogo del Male",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "La casa - Il rogo del Male",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-20T05:23:41.587Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "The Batman 2, nuovi video dal set mostrano indizi sull'atmosfera del film e la Gotham di Matt Reeves",
-      "link": "https://movieplayer.it/news/the-batman-2-nuovi-video-mostrano-indizi-atmosfera-gotham-matt-reeves_170656/",
-      "sommario": "Nuovi filmati dal set di The Batman - Parte II offrono uno sguardo inedito sulla Gotham immaginata da Matt Reeves, nuovi indizi sull'atmosfera del film e sul ruolo crescente della polizia cittadina. Le riprese di The Batman - Parte II proseguono a pieno ritmo ",
-      "data": "2026-08-19T10:00:00.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-08-20T05:23:41.603Z",
       "evidenza": false
     }
   ]
