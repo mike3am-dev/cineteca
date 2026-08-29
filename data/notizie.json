@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-28T17:06:09.564Z",
+  "aggiornato": "2026-08-29T11:26:55.637Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -15,6 +15,23 @@
     "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
   ],
   "gruppi": [
+    {
+      "soggetto": "Spider-Man: Brand New Day",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305"
+      ]
+    },
+    {
+      "soggetto": "Killers of the Flower Moon",
+      "tipo": "film",
+      "quante": 2,
+      "link": [
+        "https://www.badtaste.it/articoli/killers-of-the-flower-moon-la-storia-vera-e-ancora-piu-terribile-cosa-accadde-davvero-agli-osage",
+        "https://www.badtaste.it/articoli/killers-of-the-flower-moon-spiegazione-del-finale-cosa-significa-davvero-lultima-scena-del-film"
+      ]
+    },
     {
       "soggetto": "La casa - Il rogo del Male",
       "tipo": "film",
@@ -80,24 +97,6 @@
       "link": [
         "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351"
       ]
-    },
-    {
-      "soggetto": "Obsession",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://movieplayer.it/news/obsession-star-inde-navarrette-rinunciato-25-milioni-dollari-mcu_170667/"
-      ]
-    },
-    {
-      "soggetto": "Insidious: Fuori dall'Altrove",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://www.badtaste.it/recensioni/insidious-fuori-dallaltrove-la-recensione-squadra-che-vince-si-cambia",
-        "https://www.screenweek.it/insidious-fuori-dallaltrove-leredita-del-trauma/",
-        "https://www.screenweek.it/insidious-fuori-dallaltrove-il-trailer-finale-del-film/"
-      ]
     }
   ],
   "notizie": [
@@ -161,6 +160,63 @@
       "prevendite": false,
       "vistoIl": "2026-08-27T16:02:25.976Z",
       "evidenza": true
+    },
+    {
+      "titolo": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita",
+      "link": "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305",
+      "sommario": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita Dopo il debutto di Charlie Cox nel MCU in Spider-Man: No Way Home, Spider-Man: Brand New Day consolida ulteriormente questo legame con un sottile collegamento a Dare",
+      "data": "2026-08-29T08:26:06.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-29T11:26:55.628Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Killers of the Flower Moon, la storia vera è ancora più terribile: cosa accadde davvero agli Osage",
+      "link": "https://www.badtaste.it/articoli/killers-of-the-flower-moon-la-storia-vera-e-ancora-piu-terribile-cosa-accadde-davvero-agli-osage",
+      "sommario": "Killers of the Flower Moon racconta una storia vera: scopriamo cosa accadde davvero agli Osage e perché le vittime potrebbero essere state molte di più.",
+      "data": "2026-08-29T07:15:27.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Killers of the Flower Moon",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Killers of the Flower Moon",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-29T11:26:55.595Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Killers of the Flower Moon, spiegazione del finale: cosa significa davvero l’ultima scena del film",
+      "link": "https://www.badtaste.it/articoli/killers-of-the-flower-moon-spiegazione-del-finale-cosa-significa-davvero-lultima-scena-del-film",
+      "sommario": "Come finisce Killers of the Flower Moon? Spieghiamo il finale del film di Martin Scorsese, dal programma radiofonico all’ultima scena dedicata agli Osage.",
+      "data": "2026-08-29T06:00:13.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Killers of the Flower Moon",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Killers of the Flower Moon",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-29T11:26:55.597Z",
+      "evidenza": false
     },
     {
       "titolo": "GF Vip, Giacomo e Giancarlo verso la Casa: ecco chi sono i due possibili concorrenti",
@@ -354,86 +410,6 @@
       "rilievo": 12,
       "prevendite": false,
       "vistoIl": "2026-08-22T05:20:39.914Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Obsession, la star Inde Navarrette avrebbe rinunciato a 2,5 milioni di dollari per entrare nel MCU",
-      "link": "https://movieplayer.it/news/obsession-star-inde-navarrette-rinunciato-25-milioni-dollari-mcu_170667/",
-      "sommario": "Secondo quanto riportato da Page Six Hollywood, la star di Obsession avrebbe rinunciato non soltanto a entrare in Heat 2, ma anche a un cachet da 2,5 milioni. Dopo il successo di Obsession, la carriera di Inde Navarrette sembra aver preso una direzione ben pre",
-      "data": "2026-08-20T10:30:54.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Obsession",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Obsession",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-21T05:26:18.136Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Insidious - Fuori dall'altrove, la recensione: squadra che vince, si cambia",
-      "link": "https://www.badtaste.it/recensioni/insidious-fuori-dallaltrove-la-recensione-squadra-che-vince-si-cambia",
-      "sommario": "Il sesto capitolo di Insidious cambia famiglia e regista ma non la sostanza: un horror che strizza l'occhio ai videogiocatori, tra fascino a metà e formula ripetitiva",
-      "data": "2026-08-19T16:25:20.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Insidious: Fuori dall'Altrove",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Insidious: Fuori dall'Altrove",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 11,
-      "prevendite": false,
-      "vistoIl": "2026-08-20T05:23:41.585Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Insidious: Fuori dall'Altrove, l'eredità del trauma",
-      "link": "https://www.screenweek.it/insidious-fuori-dallaltrove-leredita-del-trauma/",
-      "sommario": "Il sesto capitolo della saga, diretto da Jacob Chase, alza la posta in gioco tra momenti di disgusto e ovvie interpretazioni psicanalitiche.",
-      "data": "2026-08-19T10:09:04.000Z",
-      "fonte": "ScreenWeek",
-      "soggetto": "Insidious: Fuori dall'Altrove",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Insidious: Fuori dall'Altrove",
-          "tipo": "film"
-        },
-        {
-          "nome": "Insidious: Out of the Further",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-08-20T05:23:41.623Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Insidious: Fuori dall'Altrove, il trailer finale del film",
-      "link": "https://www.screenweek.it/insidious-fuori-dallaltrove-il-trailer-finale-del-film/",
-      "sommario": "",
-      "data": "2026-08-05T14:15:53.000Z",
-      "fonte": "ScreenWeek",
-      "soggetto": "Insidious: Fuori dall'Altrove",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Insidious: Fuori dall'Altrove",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 11,
-      "prevendite": false,
-      "vistoIl": "2026-08-20T05:23:41.635Z",
       "evidenza": false
     }
   ]
