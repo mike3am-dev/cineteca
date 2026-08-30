@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-29T11:26:55.637Z",
+  "aggiornato": "2026-08-30T10:13:25.414Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -12,24 +12,33 @@
   "evidenza": [
     "https://movieplayer.it/news/spider-man-brand-new-day-pronto-superare-titanic-box-office_170737/",
     "https://www.badtaste.it/articoli/oceania-batte-odissea-e-spider-man-brand-new-day-regna-al-box-office-italiano",
-    "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
+    "https://www.badtaste.it/articoli/the-batman-2-scarlett-johansson-sulla-batmobile-le-foto-dal-set-potrebbero-aver-svelato-il-suo-ruolo"
   ],
   "gruppi": [
+    {
+      "soggetto": "Killers of the Flower Moon",
+      "tipo": "film",
+      "quante": 4,
+      "link": [
+        "https://cinefilos.it/tutto-film/approfondimenti/killers-of-the-flower-moon-spiegazione-finale-film-719302",
+        "https://movieplayer.it/news/killers-of-the-flower-moon-storia-vera-film-martin-scorsese_170812/",
+        "https://www.badtaste.it/articoli/killers-of-the-flower-moon-la-storia-vera-e-ancora-piu-terribile-cosa-accadde-davvero-agli-osage"
+      ]
+    },
+    {
+      "soggetto": "James Cameron",
+      "tipo": "regista",
+      "quante": 1,
+      "link": [
+        "https://www.badtaste.it/articoli/il-transatlantico-di-james-cameron-torna-su-netflix-ma-in-versione-horror-un-film-che-non-puoi-perdere"
+      ]
+    },
     {
       "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
       "quante": 1,
       "link": [
         "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305"
-      ]
-    },
-    {
-      "soggetto": "Killers of the Flower Moon",
-      "tipo": "film",
-      "quante": 2,
-      "link": [
-        "https://www.badtaste.it/articoli/killers-of-the-flower-moon-la-storia-vera-e-ancora-piu-terribile-cosa-accadde-davvero-agli-osage",
-        "https://www.badtaste.it/articoli/killers-of-the-flower-moon-spiegazione-del-finale-cosa-significa-davvero-lultima-scena-del-film"
       ]
     },
     {
@@ -58,6 +67,14 @@
       ]
     },
     {
+      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
+      ]
+    },
+    {
       "soggetto": "Backrooms",
       "tipo": "film",
       "quante": 1,
@@ -79,23 +96,6 @@
       "quante": 1,
       "link": [
         "https://www.screenweek.it/couture-e-un-racconto-corale-sincero-ma-anche-irrisolto/"
-      ]
-    },
-    {
-      "soggetto": "Michael",
-      "tipo": "film",
-      "quante": 2,
-      "link": [
-        "https://www.badtaste.it/articoli/michael-2-affrontera-gli-anni-piu-controversi-del-re-del-pop-jaafar-jackson-anticipa-cosa-vedremo-nel-film",
-        "https://movieplayer.it/news/michael-2-jaafar-jackson-affronteremo-accuse-abusi-minori_170686/"
-      ]
-    },
-    {
-      "soggetto": "Odissea",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351"
       ]
     }
   ],
@@ -139,45 +139,64 @@
       "evidenza": true
     },
     {
-      "titolo": "The Dog Stars si perde fra accenni introspettivi e western post-apocalittico",
-      "link": "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/",
-      "sommario": "",
-      "data": "2026-08-26T14:46:46.000Z",
-      "fonte": "ScreenWeek",
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "titolo": "The Batman 2, Scarlett Johansson sulla Batmobile: le foto dal set potrebbero aver svelato il suo ruolo",
+      "link": "https://www.badtaste.it/articoli/the-batman-2-scarlett-johansson-sulla-batmobile-le-foto-dal-set-potrebbero-aver-svelato-il-suo-ruolo",
+      "sommario": "Nuove foto dal set di The Batman - Part II mostrano la controfigura di Scarlett Johansson sulla Batmobile insieme a Batman, alimentando le teorie sul misterioso ruolo dell'attrice nel sequel.",
+      "data": "2026-08-29T15:20:55.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "The Batman: Part II",
       "soggettoTipo": "film",
       "citati": [
         {
-          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
+          "nome": "The Batman: Part II",
           "tipo": "film"
         },
         {
-          "nome": "The Dog Stars",
+          "nome": "The Batman",
           "tipo": "film"
         }
       ],
       "rilievo": 8,
       "prevendite": false,
-      "vistoIl": "2026-08-27T16:02:25.976Z",
+      "vistoIl": "2026-08-30T10:13:25.374Z",
       "evidenza": true
     },
     {
-      "titolo": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita",
-      "link": "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305",
-      "sommario": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita Dopo il debutto di Charlie Cox nel MCU in Spider-Man: No Way Home, Spider-Man: Brand New Day consolida ulteriormente questo legame con un sottile collegamento a Dare",
-      "data": "2026-08-29T08:26:06.000Z",
+      "titolo": "Killers of the Flower Moon, la spiegazione del finale: cosa significa l’ultima scena?",
+      "link": "https://cinefilos.it/tutto-film/approfondimenti/killers-of-the-flower-moon-spiegazione-finale-film-719302",
+      "sommario": "Killers of the Flower Moon, la spiegazione del finale: cosa significa l’ultima scena? Killers of the Flower Moon (leggi qui la nostra recensione), diretto da Martin Scorsese, racconta una delle pagine più oscure della storia americana attraverso la tragedia de",
+      "data": "2026-08-29T17:45:31.000Z",
       "fonte": "Cinefilos",
-      "soggetto": "Spider-Man: Brand New Day",
+      "soggetto": "Killers of the Flower Moon",
       "soggettoTipo": "film",
       "citati": [
         {
-          "nome": "Spider-Man: Brand New Day",
+          "nome": "Killers of the Flower Moon",
           "tipo": "film"
         }
       ],
       "rilievo": 7,
       "prevendite": false,
-      "vistoIl": "2026-08-29T11:26:55.628Z",
+      "vistoIl": "2026-08-30T10:13:25.400Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Killers of the Flower Moon stasera su Rai 4, la storia vera dietro il film di Scorsese",
+      "link": "https://movieplayer.it/news/killers-of-the-flower-moon-storia-vera-film-martin-scorsese_170812/",
+      "sommario": "Il film di Martin Scorsese racconta gli omicidi della Nazione Osage negli anni Venti e una complessa storia di avidità e potere che ha sconvolto l'America. Riparte su Rai 4 il ciclo Country Crime, che propone questa sera, 28 agosto alle 21:20, l'ultimo capolav",
+      "data": "2026-08-29T15:51:43.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Killers of the Flower Moon",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Killers of the Flower Moon",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-08-30T10:13:25.380Z",
       "evidenza": false
     },
     {
@@ -200,22 +219,41 @@
       "evidenza": false
     },
     {
-      "titolo": "Killers of the Flower Moon, spiegazione del finale: cosa significa davvero l’ultima scena del film",
-      "link": "https://www.badtaste.it/articoli/killers-of-the-flower-moon-spiegazione-del-finale-cosa-significa-davvero-lultima-scena-del-film",
-      "sommario": "Come finisce Killers of the Flower Moon? Spieghiamo il finale del film di Martin Scorsese, dal programma radiofonico all’ultima scena dedicata agli Osage.",
-      "data": "2026-08-29T06:00:13.000Z",
+      "titolo": "Il transatlantico di James Cameron torna su Netflix, ma in versione horror: un film che non puoi perdere",
+      "link": "https://www.badtaste.it/articoli/il-transatlantico-di-james-cameron-torna-su-netflix-ma-in-versione-horror-un-film-che-non-puoi-perdere",
+      "sommario": "Su Netflix, il thriller soprannaturale su una replica del transatlantico che salpa verso il relitto originale.",
+      "data": "2026-08-29T12:00:43.000Z",
       "fonte": "BadTaste",
-      "soggetto": "Killers of the Flower Moon",
+      "soggetto": "James Cameron",
+      "soggettoTipo": "regista",
+      "citati": [
+        {
+          "nome": "James Cameron",
+          "tipo": "regista"
+        }
+      ],
+      "rilievo": 3,
+      "prevendite": false,
+      "vistoIl": "2026-08-30T10:13:25.376Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita",
+      "link": "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305",
+      "sommario": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita Dopo il debutto di Charlie Cox nel MCU in Spider-Man: No Way Home, Spider-Man: Brand New Day consolida ulteriormente questo legame con un sottile collegamento a Dare",
+      "data": "2026-08-29T08:26:06.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Spider-Man: Brand New Day",
       "soggettoTipo": "film",
       "citati": [
         {
-          "nome": "Killers of the Flower Moon",
+          "nome": "Spider-Man: Brand New Day",
           "tipo": "film"
         }
       ],
       "rilievo": 7,
       "prevendite": false,
-      "vistoIl": "2026-08-29T11:26:55.597Z",
+      "vistoIl": "2026-08-29T11:26:55.628Z",
       "evidenza": false
     },
     {
@@ -295,6 +333,29 @@
       "evidenza": false
     },
     {
+      "titolo": "The Dog Stars si perde fra accenni introspettivi e western post-apocalittico",
+      "link": "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/",
+      "sommario": "",
+      "data": "2026-08-26T14:46:46.000Z",
+      "fonte": "ScreenWeek",
+      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Dog Stars",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-08-27T16:02:25.976Z",
+      "evidenza": false
+    },
+    {
       "titolo": "Backrooms arriva in streaming su HBO Max: svelata la data di uscita, ma una scena chiave potrebbe mancare",
       "link": "https://movieplayer.it/news/backrooms-streaming-hbo-max-data-scena-chiave-potrebbe-mancare_170762/",
       "sommario": "L'apprezzatissimo horror di Kane Parsons debutterà sulla piattaforma a settembre, ma resta il dubbio sulla versione estesa: vedremo anche il montaggio con 15 minuti aggiuntivi? Dopo il passaggio nelle sale, il ritorno al cinema in versione ampliata e l'uscita ",
@@ -349,67 +410,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-08-26T05:27:33.018Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Michael 2 affronterà gli anni più controversi del Re del Pop: Jaafar Jackson anticipa cosa vedremo nel film",
-      "link": "https://www.badtaste.it/articoli/michael-2-affrontera-gli-anni-piu-controversi-del-re-del-pop-jaafar-jackson-anticipa-cosa-vedremo-nel-film",
-      "sommario": "Michael 2 entrerà nel periodo più controverso della vita di Michael Jackson: Jaafar Jackson anticipa come il sequel affronterà le accuse e gli ultimi anni della star.",
-      "data": "2026-08-22T07:15:22.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Michael",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Michael",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-23T05:22:41.982Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Michael 2, Jaafar Jackson: \"Affronteremo anche le accuse di abusi su minori\"",
-      "link": "https://movieplayer.it/news/michael-2-jaafar-jackson-affronteremo-accuse-abusi-minori_170686/",
-      "sommario": "In un'intervista rilasciata a GQ Middle East, l'attore ha spiegato che il nuovo film offrirà una prospettiva più ampia sugli eventi che hanno segnato gli ultimi anni della carriera dello zio, cercando di raccontare anche il suo punto di vista. Dopo il clamoros",
-      "data": "2026-08-21T11:00:20.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Michael",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Michael",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-22T05:20:39.881Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Odissea di Christopher Nolan entra nella storia del box office con un nuovo record",
-      "link": "https://cinefilos.it/business/odissea-christopher-nolan-record-box-office-718351",
-      "sommario": "Odissea di Christopher Nolan entra nella storia del box office con un nuovo record Odissea (The Odyssey) di Christopher Nolan continua una corsa al box office che, a poco più di un mese dall’uscita, ha ormai assunto dimensioni storiche. Dopo aver superato il m",
-      "data": "2026-08-21T14:46:02.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        },
-        {
-          "nome": "Christopher Nolan",
-          "tipo": "regista"
-        }
-      ],
-      "rilievo": 12,
-      "prevendite": false,
-      "vistoIl": "2026-08-22T05:20:39.914Z",
       "evidenza": false
     }
   ]
