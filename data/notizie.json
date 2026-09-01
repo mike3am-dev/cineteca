@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-31T11:17:09.849Z",
+  "aggiornato": "2026-09-01T09:41:57.319Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -18,8 +18,9 @@
     {
       "soggetto": "The Batman: Part II",
       "tipo": "film",
-      "quante": 2,
+      "quante": 3,
       "link": [
+        "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-batmobile-distrutte-foto-set-719494",
         "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-foto-set-sospetti-talia-al-ghul-damian-wayne-719362",
         "https://www.badtaste.it/articoli/the-batman-2-scarlett-johansson-sulla-batmobile-le-foto-dal-set-potrebbero-aver-svelato-il-suo-ruolo"
       ]
@@ -27,8 +28,9 @@
     {
       "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
       "tipo": "film",
-      "quante": 2,
+      "quante": 3,
       "link": [
+        "https://cinefilos.it/cinema-news/2026/paul-mescal-ridley-scott-escluso-the-dog-stars-dopo-il-gladiatore-ii-719484",
         "https://www.badtaste.it/recensioni/the-dog-stars-la-recensione-ridley-scott-abbraccia-la-fine-e-il-cambiamento",
         "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
       ]
@@ -36,7 +38,7 @@
     {
       "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
-      "quante": 4,
+      "quante": 3,
       "link": [
         "https://www.badtaste.it/articoli/spider-man-brand-new-day-non-si-ferma-piu-mentre-il-nuovo-film-di-ridley-scott-affonda-al-box-office",
         "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305",
@@ -170,6 +172,29 @@
       "evidenza": true
     },
     {
+      "titolo": "The Batman – Parte II: la Batmobile è completamente distrutta nelle nuove foto dal set!",
+      "link": "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-batmobile-distrutte-foto-set-719494",
+      "sommario": "The Batman – Parte II: la Batmobile è completamente distrutta nelle nuove foto dal set! Le nuove immagini (le si può vedere qui, qui e qui) provenienti dal set di Glasgow di The Batman – Parte II mostrano quella che sembra essere la Batmobile gravemente danneg",
+      "data": "2026-09-01T09:22:30.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "The Batman: Part II",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Batman: Part II",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Batman",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-09-01T09:41:57.312Z",
+      "evidenza": false
+    },
+    {
       "titolo": "The Batman – Parte II: nuove foto dal set alimentano i sospetti su Talia al Ghul e Damian Wayne",
       "link": "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-foto-set-sospetti-talia-al-ghul-damian-wayne-719362",
       "sommario": "The Batman – Parte II: nuove foto dal set alimentano i sospetti su Talia al Ghul e Damian Wayne Nuove immagini dal set (si possono vedere qui, qui e qui) di The Batman – Parte II stanno alimentando una delle teorie più interessanti sul sequel diretto da Matt R",
@@ -213,6 +238,33 @@
       "rilievo": 8,
       "prevendite": false,
       "vistoIl": "2026-08-30T10:13:25.374Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Paul Mescal, Ridley Scott lo avrebbe escluso da The Dog Stars dopo Il Gladiatore II",
+      "link": "https://cinefilos.it/cinema-news/2026/paul-mescal-ridley-scott-escluso-the-dog-stars-dopo-il-gladiatore-ii-719484",
+      "sommario": "Paul Mescal, Ridley Scott lo avrebbe escluso da The Dog Stars dopo Il Gladiatore II Paul Mescal sarebbe stato escluso da The Dog Stars (leggi qui la recensione) per una decisione di Ridley Scott maturata dopo Il Gladiatore II. Secondo nuove indiscrezioni, il r",
+      "data": "2026-09-01T08:51:41.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Dog Stars",
+          "tipo": "film"
+        },
+        {
+          "nome": "Il gladiatore II",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 9,
+      "prevendite": false,
+      "vistoIl": "2026-09-01T09:41:57.312Z",
       "evidenza": false
     },
     {
