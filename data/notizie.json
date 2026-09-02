@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-01T09:41:57.319Z",
+  "aggiornato": "2026-09-02T09:13:53.661Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -10,39 +10,47 @@
   ],
   "segnalazioniPrevendita": [],
   "evidenza": [
+    "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-robert-pattinson-rivela-riprese-sequel-difficili-719705",
     "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-supera-avatar-2-e-sale-al-terzo-posto-dei-film-con-i-maggiori-incassi-719372",
-    "https://movieplayer.it/news/the-dog-stars-peggior-debutto-ridley-scott-ultimi-cinque-anni_170828/",
-    "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/"
+    "https://movieplayer.it/news/the-dog-stars-peggior-debutto-ridley-scott-ultimi-cinque-anni_170828/"
   ],
   "gruppi": [
     {
       "soggetto": "The Batman: Part II",
       "tipo": "film",
-      "quante": 3,
+      "quante": 4,
       "link": [
+        "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
         "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-batmobile-distrutte-foto-set-719494",
-        "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-foto-set-sospetti-talia-al-ghul-damian-wayne-719362",
-        "https://www.badtaste.it/articoli/the-batman-2-scarlett-johansson-sulla-batmobile-le-foto-dal-set-potrebbero-aver-svelato-il-suo-ruolo"
+        "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-foto-set-sospetti-talia-al-ghul-damian-wayne-719362"
+      ]
+    },
+    {
+      "soggetto": "Odissea",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax"
       ]
     },
     {
       "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
       "tipo": "film",
-      "quante": 3,
+      "quante": 4,
       "link": [
         "https://cinefilos.it/cinema-news/2026/paul-mescal-ridley-scott-escluso-the-dog-stars-dopo-il-gladiatore-ii-719484",
-        "https://www.badtaste.it/recensioni/the-dog-stars-la-recensione-ridley-scott-abbraccia-la-fine-e-il-cambiamento",
-        "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/"
+        "https://cinefilos.it/cinema-news/2026/hideo-kojima-recensisce-the-dog-stars-ridley-scott-719689",
+        "https://www.badtaste.it/recensioni/the-dog-stars-la-recensione-ridley-scott-abbraccia-la-fine-e-il-cambiamento"
       ]
     },
     {
       "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
-      "quante": 3,
+      "quante": 6,
       "link": [
-        "https://www.badtaste.it/articoli/spider-man-brand-new-day-non-si-ferma-piu-mentre-il-nuovo-film-di-ridley-scott-affonda-al-box-office",
-        "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305",
-        "https://movieplayer.it/news/spider-man-brand-new-day-pronto-superare-titanic-box-office_170737/"
+        "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
+        "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta",
+        "https://movieplayer.it/news/andrew-garfield-spider-man-gay-michael-b-jordan-chiunque-costume_170845/"
       ]
     },
     {
@@ -95,17 +103,32 @@
       "link": [
         "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain"
       ]
-    },
-    {
-      "soggetto": "Backrooms",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://movieplayer.it/news/backrooms-streaming-hbo-max-data-scena-chiave-potrebbe-mancare_170762/"
-      ]
     }
   ],
   "notizie": [
+    {
+      "titolo": "The Batman – Parte II: Robert Pattinson rivela perché le riprese del sequel sono “molto più difficili”",
+      "link": "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-robert-pattinson-rivela-riprese-sequel-difficili-719705",
+      "sommario": "The Batman – Parte II: Robert Pattinson rivela perché le riprese del sequel sono “molto più difficili” Robert Pattinson ha confermato che le riprese di The Batman – Parte II proseguiranno a Londra fino alla fine del 2026, fornendo un’indicazione concreta sulle",
+      "data": "2026-09-02T08:58:25.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "The Batman: Part II",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Batman: Part II",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Batman",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 12,
+      "prevendite": false,
+      "vistoIl": "2026-09-02T09:13:53.648Z",
+      "evidenza": true
+    },
     {
       "titolo": "Spider-Man: Brand New Day supera Avatar 2 e sale al terzo posto dei film con i maggiori incassi",
       "link": "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-supera-avatar-2-e-sale-al-terzo-posto-dei-film-con-i-maggiori-incassi-719372",
@@ -153,23 +176,27 @@
       "evidenza": true
     },
     {
-      "titolo": "Spider-Man: Brand New Day ha superato Avengers: Endgame negli incassi in Nord America",
-      "link": "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
-      "sommario": "Spider-Man: Brand New Day supera Avengers: Endgame e diventa il secondo maggiore incasso di sempre al box office nordamericano. Spider-Man: Brand New Day ha superato Avengers: Endgame negli incassi in Nord America leggi l’articolo su Fumettologica .",
-      "data": "2026-08-31T09:09:45.000Z",
-      "fonte": "Fumettologica",
-      "soggetto": "Spider-Man: Brand New Day",
+      "titolo": "The Batman 2, cosa sta succedendo sul set? Robert Pattinson: \"È molto più difficile adesso\"",
+      "link": "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
+      "sommario": "Robert Pattinson torna nei panni di Batman per il sequel di Matt Reeves e confessa che interpretare il Cavaliere Oscuro oggi è più faticoso, soprattutto nelle scene d'azione. Tornare a Gotham non è mai semplice, ma per Robert Pattinson questa volta il vero ost",
+      "data": "2026-09-02T09:00:45.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "The Batman: Part II",
       "soggettoTipo": "film",
       "citati": [
         {
-          "nome": "Spider-Man: Brand New Day",
+          "nome": "The Batman: Part II",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Batman",
           "tipo": "film"
         }
       ],
-      "rilievo": 11,
+      "rilievo": 8,
       "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.838Z",
-      "evidenza": true
+      "vistoIl": "2026-09-02T09:13:53.631Z",
+      "evidenza": false
     },
     {
       "titolo": "The Batman – Parte II: la Batmobile è completamente distrutta nelle nuove foto dal set!",
@@ -218,26 +245,22 @@
       "evidenza": false
     },
     {
-      "titolo": "The Batman 2, Scarlett Johansson sulla Batmobile: le foto dal set potrebbero aver svelato il suo ruolo",
-      "link": "https://www.badtaste.it/articoli/the-batman-2-scarlett-johansson-sulla-batmobile-le-foto-dal-set-potrebbero-aver-svelato-il-suo-ruolo",
-      "sommario": "Nuove foto dal set di The Batman - Part II mostrano la controfigura di Scarlett Johansson sulla Batmobile insieme a Batman, alimentando le teorie sul misterioso ruolo dell'attrice nel sequel.",
-      "data": "2026-08-29T15:20:55.000Z",
+      "titolo": "Odissea, svelato il formato del Blu-ray 4K: a casa sarà ancora più vicino al vero IMAX",
+      "link": "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax",
+      "sommario": "Odissea si prepara all’arrivo in home video e il Blu-ray 4K promette di valorizzare il lavoro di Christopher Nolan: il formato 1.78:1 sfrutterà tutto lo schermo dei televisori 16:9, avvicinandosi all’esperienza IMAX.",
+      "data": "2026-09-02T07:15:21.000Z",
       "fonte": "BadTaste",
-      "soggetto": "The Batman: Part II",
+      "soggetto": "Odissea",
       "soggettoTipo": "film",
       "citati": [
         {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
+          "nome": "Odissea",
           "tipo": "film"
         }
       ],
-      "rilievo": 8,
+      "rilievo": 7,
       "prevendite": false,
-      "vistoIl": "2026-08-30T10:13:25.374Z",
+      "vistoIl": "2026-09-02T09:13:53.584Z",
       "evidenza": false
     },
     {
@@ -268,6 +291,29 @@
       "evidenza": false
     },
     {
+      "titolo": "Hideo Kojima “recensisce” il film post-apocalittico The Dog Stars di Ridley Scott",
+      "link": "https://cinefilos.it/cinema-news/2026/hideo-kojima-recensisce-the-dog-stars-ridley-scott-719689",
+      "sommario": "Hideo Kojima “recensisce” il film post-apocalittico The Dog Stars di Ridley Scott Hideo Kojima ha commentato The Dog Stars (leggi qui la recensione), il nuovo film di fantascienza post-apocalittica diretto da Ridley Scott, e le sue parole sembrano suggerire un",
+      "data": "2026-09-02T07:30:04.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Dog Stars",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-09-02T09:13:53.649Z",
+      "evidenza": false
+    },
+    {
       "titolo": "The Dog Stars, la recensione: Ridley Scott abbraccia la fine (e il cambiamento)",
       "link": "https://www.badtaste.it/recensioni/the-dog-stars-la-recensione-ridley-scott-abbraccia-la-fine-e-il-cambiamento",
       "sommario": "Il nuovo film del regista britannico, tratto dal romanzo di Peter Heller, è un'operazione completamente imprevista: un western post apocalittico in cui a dominare sono i sentimenti degli uomini. Un film stralunato, a tratti persino banale, che trova la sua for",
@@ -291,34 +337,11 @@
       "evidenza": false
     },
     {
-      "titolo": "The Dog Stars si perde fra accenni introspettivi e western post-apocalittico",
-      "link": "https://www.screenweek.it/the-dog-stars-si-perde-fra-accenni-introspettivi-e-western-post-apocalittico/",
-      "sommario": "",
-      "data": "2026-08-26T14:46:46.000Z",
-      "fonte": "ScreenWeek",
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Dog Stars",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-08-27T16:02:25.976Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man: Brand New Day non si ferma più, mentre il nuovo film di Ridley Scott affonda al box office",
-      "link": "https://www.badtaste.it/articoli/spider-man-brand-new-day-non-si-ferma-piu-mentre-il-nuovo-film-di-ridley-scott-affonda-al-box-office",
-      "sommario": "Spider-Man: Brand New Day domina il box office per il quinto weekend e si avvicina a un record storico, mentre The Dog Stars di Ridley Scott debutta con appena 8 milioni di dollari.",
-      "data": "2026-08-31T06:15:17.000Z",
-      "fonte": "BadTaste",
+      "titolo": "Spider-Man: Brand New Day ha superato Avengers: Endgame negli incassi in Nord America",
+      "link": "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
+      "sommario": "Spider-Man: Brand New Day supera Avengers: Endgame e diventa il secondo maggiore incasso di sempre al box office nordamericano. Spider-Man: Brand New Day ha superato Avengers: Endgame negli incassi in Nord America leggi l’articolo su Fumettologica .",
+      "data": "2026-08-31T09:09:45.000Z",
+      "fonte": "Fumettologica",
       "soggetto": "Spider-Man: Brand New Day",
       "soggettoTipo": "film",
       "citati": [
@@ -329,15 +352,15 @@
       ],
       "rilievo": 11,
       "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.795Z",
+      "vistoIl": "2026-08-31T11:17:09.838Z",
       "evidenza": false
     },
     {
-      "titolo": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita",
-      "link": "https://cinefilos.it/serie-tv/approfondimento/daredevil-rinascita-3-collegamento-spider-man-719305",
-      "sommario": "Rivelato l’importante collegamento con Spider-Man nella terza stagione di Daredevil: Rinascita Dopo il debutto di Charlie Cox nel MCU in Spider-Man: No Way Home, Spider-Man: Brand New Day consolida ulteriormente questo legame con un sottile collegamento a Dare",
-      "data": "2026-08-29T08:26:06.000Z",
-      "fonte": "Cinefilos",
+      "titolo": "Sapevi che esiste uno Spider-Man gay? La proposta che Andrew Garfield fece nel 2013 torna alla ribalta",
+      "link": "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta",
+      "sommario": "Nel 2013 Andrew Garfield propose uno Spider-Man gay con Michael B. Jordan. La provocazione che cambiò il dibattito sulla rappresentazione dei supereroi.",
+      "data": "2026-09-01T15:09:43.000Z",
+      "fonte": "BadTaste",
       "soggetto": "Spider-Man: Brand New Day",
       "soggettoTipo": "film",
       "citati": [
@@ -348,14 +371,14 @@
       ],
       "rilievo": 7,
       "prevendite": false,
-      "vistoIl": "2026-08-29T11:26:55.628Z",
+      "vistoIl": "2026-09-02T09:13:53.629Z",
       "evidenza": false
     },
     {
-      "titolo": "Spider-Man: Brand New Day pronto a superare Titanic al box office: sarà il nuovo “re del mondo”?",
-      "link": "https://movieplayer.it/news/spider-man-brand-new-day-pronto-superare-titanic-box-office_170737/",
-      "sommario": "Il cinecomic con Tom Holland continua la sua corsa nelle sale e si prepara a scavalcare il kolossal di James Cameron nella classifica mondiale. Spider-Man: Brand New Day continua a macinare record al box office e ora punta a un bersaglio dal peso storico: Tita",
-      "data": "2026-08-25T09:30:00.000Z",
+      "titolo": "Spider-Man gay? Andrew Garfield pensa che i tempi siano maturi e ha già in mente un interprete",
+      "link": "https://movieplayer.it/news/andrew-garfield-spider-man-gay-michael-b-jordan-chiunque-costume_170845/",
+      "sommario": "L'attore torna sulla provocazione lanciata nel 2013: perché Peter Parker non potrebbe innamorarsi di un uomo? A distanza di anni, Garfield non ha cambiato idea e rilancia il suo messaggio di inclusività. Sono passati più di dieci anni da quando Andrew Garfield",
+      "data": "2026-09-01T11:00:30.000Z",
       "fonte": "MoviePlayer",
       "soggetto": "Spider-Man: Brand New Day",
       "soggettoTipo": "film",
@@ -365,9 +388,9 @@
           "tipo": "film"
         }
       ],
-      "rilievo": 11,
+      "rilievo": 7,
       "prevendite": false,
-      "vistoIl": "2026-08-26T05:27:33.012Z",
+      "vistoIl": "2026-09-02T09:13:53.636Z",
       "evidenza": false
     },
     {
@@ -539,25 +562,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-08-27T16:02:25.950Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Backrooms arriva in streaming su HBO Max: svelata la data di uscita, ma una scena chiave potrebbe mancare",
-      "link": "https://movieplayer.it/news/backrooms-streaming-hbo-max-data-scena-chiave-potrebbe-mancare_170762/",
-      "sommario": "L'apprezzatissimo horror di Kane Parsons debutterà sulla piattaforma a settembre, ma resta il dubbio sulla versione estesa: vedremo anche il montaggio con 15 minuti aggiuntivi? Dopo il passaggio nelle sale, il ritorno al cinema in versione ampliata e l'uscita ",
-      "data": "2026-08-26T12:58:23.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Backrooms",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Backrooms",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-27T16:02:25.973Z",
       "evidenza": false
     }
   ]
