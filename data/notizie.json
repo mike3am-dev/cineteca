@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-02T09:13:53.661Z",
+  "aggiornato": "2026-09-03T09:21:34.230Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -16,21 +16,38 @@
   ],
   "gruppi": [
     {
+      "soggetto": "Odissea",
+      "tipo": "film",
+      "quante": 2,
+      "link": [
+        "https://cinefilos.it/cinema-news/2026/elliot-page-proposte-dopo-odissea-719937",
+        "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax"
+      ]
+    },
+    {
       "soggetto": "The Batman: Part II",
       "tipo": "film",
       "quante": 4,
       "link": [
+        "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
         "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
-        "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-batmobile-distrutte-foto-set-719494",
-        "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-foto-set-sospetti-talia-al-ghul-damian-wayne-719362"
+        "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-batmobile-distrutte-foto-set-719494"
       ]
     },
     {
-      "soggetto": "Odissea",
+      "soggetto": "Harry Potter e la pietra filosofale — 25° anniversario",
       "tipo": "film",
       "quante": 1,
       "link": [
-        "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax"
+        "https://www.screenweek.it/harry-potter-e-la-pietra-filosofale-teaser-della-serie-per-hbo-max/"
+      ]
+    },
+    {
+      "soggetto": "Chris Pratt",
+      "tipo": "attore",
+      "quante": 1,
+      "link": [
+        "https://www.badtaste.it/articoli/millie-bobby-brown-e-chris-pratt-nel-film-dei-russo-piu-costoso-di-netflix-che-divide-pubblico-e-critica"
       ]
     },
     {
@@ -46,7 +63,7 @@
     {
       "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
-      "quante": 6,
+      "quante": 3,
       "link": [
         "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
         "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta",
@@ -86,22 +103,6 @@
       "link": [
         "https://movieplayer.it/news/gf-vip-giacomo-gallani-giancarlo-danto-possibili-concorrenti_170803/",
         "https://www.badtaste.it/articoli/manca-di-umorismo-la-star-delloriginale-la-casa-spiega-cosa-non-funziona-negli-ultimi-film"
-      ]
-    },
-    {
-      "soggetto": "Toy Story 5",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://movieplayer.it/news/toy-story-5-su-disney-data-streaming_170804/"
-      ]
-    },
-    {
-      "soggetto": "Tony - Diario di un giovane cuoco",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain"
       ]
     }
   ],
@@ -176,6 +177,67 @@
       "evidenza": true
     },
     {
+      "titolo": "Elliot Page non ha ricevuto proposte dopo Odissea, ma ritiene di poter “realizzare alcuni dei miei lavori migliori”",
+      "link": "https://cinefilos.it/cinema-news/2026/elliot-page-proposte-dopo-odissea-719937",
+      "sommario": "Elliot Page non ha ricevuto proposte dopo Odissea, ma ritiene di poter “realizzare alcuni dei miei lavori migliori” Nonostante l’intensa interpretazione di Sinone in Odissea di Christopher Nolan, Elliot Page non ha ricevuto quella nuova ondata di proposte che ",
+      "data": "2026-09-03T07:22:36.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Odissea",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Odissea",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-09-03T09:21:34.195Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Odissea, svelato il formato del Blu-ray 4K: a casa sarà ancora più vicino al vero IMAX",
+      "link": "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax",
+      "sommario": "Odissea si prepara all’arrivo in home video e il Blu-ray 4K promette di valorizzare il lavoro di Christopher Nolan: il formato 1.78:1 sfrutterà tutto lo schermo dei televisori 16:9, avvicinandosi all’esperienza IMAX.",
+      "data": "2026-09-02T07:15:21.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Odissea",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Odissea",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-09-02T09:13:53.584Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "“Sento la mia età, è molto più difficile”: Robert Pattinson racconta la fatica sul set di The Batman 2",
+      "link": "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
+      "sommario": "Robert Pattinson racconta la fatica sul set di The Batman: Part II: le scene di combattimento sono più dure rispetto al primo film, ma l’attore promette un sequel “davvero fantastico”.",
+      "data": "2026-09-03T06:45:32.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "The Batman: Part II",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Batman: Part II",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Batman",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-09-03T09:21:34.171Z",
+      "evidenza": false
+    },
+    {
       "titolo": "The Batman 2, cosa sta succedendo sul set? Robert Pattinson: \"È molto più difficile adesso\"",
       "link": "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
       "sommario": "Robert Pattinson torna nei panni di Batman per il sequel di Matt Reeves e confessa che interpretare il Cavaliere Oscuro oggi è più faticoso, soprattutto nelle scene d'azione. Tornare a Gotham non è mai semplice, ma per Robert Pattinson questa volta il vero ost",
@@ -222,45 +284,41 @@
       "evidenza": false
     },
     {
-      "titolo": "The Batman – Parte II: nuove foto dal set alimentano i sospetti su Talia al Ghul e Damian Wayne",
-      "link": "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-foto-set-sospetti-talia-al-ghul-damian-wayne-719362",
-      "sommario": "The Batman – Parte II: nuove foto dal set alimentano i sospetti su Talia al Ghul e Damian Wayne Nuove immagini dal set (si possono vedere qui, qui e qui) di The Batman – Parte II stanno alimentando una delle teorie più interessanti sul sequel diretto da Matt R",
-      "data": "2026-08-31T09:58:26.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "The Batman: Part II",
+      "titolo": "Harry Potter e la Pietra Filosofale, teaser della serie per HBO Max",
+      "link": "https://www.screenweek.it/harry-potter-e-la-pietra-filosofale-teaser-della-serie-per-hbo-max/",
+      "sommario": "Quirrell, Lord Voldemort e lo Specchio delle Brame nel nuovo teaser trailer di Harry Potter e la Pietra Filosofale",
+      "data": "2026-09-02T16:22:10.000Z",
+      "fonte": "ScreenWeek",
+      "soggetto": "Harry Potter e la pietra filosofale — 25° anniversario",
       "soggettoTipo": "film",
       "citati": [
         {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
+          "nome": "Harry Potter e la pietra filosofale — 25° anniversario",
           "tipo": "film"
         }
       ],
-      "rilievo": 8,
+      "rilievo": 11,
       "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.836Z",
+      "vistoIl": "2026-09-03T09:21:34.188Z",
       "evidenza": false
     },
     {
-      "titolo": "Odissea, svelato il formato del Blu-ray 4K: a casa sarà ancora più vicino al vero IMAX",
-      "link": "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax",
-      "sommario": "Odissea si prepara all’arrivo in home video e il Blu-ray 4K promette di valorizzare il lavoro di Christopher Nolan: il formato 1.78:1 sfrutterà tutto lo schermo dei televisori 16:9, avvicinandosi all’esperienza IMAX.",
-      "data": "2026-09-02T07:15:21.000Z",
+      "titolo": "Millie Bobby Brown e Chris Pratt nel film dei Russo più costoso di Netflix, che divide pubblico e critica",
+      "link": "https://www.badtaste.it/articoli/millie-bobby-brown-e-chris-pratt-nel-film-dei-russo-piu-costoso-di-netflix-che-divide-pubblico-e-critica",
+      "sommario": "Il film su Netflix che divide critica e pubblico: 15% su Rotten Tomatoes vs 74% degli spettatori. Analisi del fenomeno del film dei fratelli Russo.",
+      "data": "2026-09-02T16:00:03.000Z",
       "fonte": "BadTaste",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
+      "soggetto": "Chris Pratt",
+      "soggettoTipo": "attore",
       "citati": [
         {
-          "nome": "Odissea",
-          "tipo": "film"
+          "nome": "Chris Pratt",
+          "tipo": "attore"
         }
       ],
-      "rilievo": 7,
+      "rilievo": 3,
       "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.584Z",
+      "vistoIl": "2026-09-03T09:21:34.174Z",
       "evidenza": false
     },
     {
@@ -524,44 +582,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-08-20T05:23:41.587Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Toy Story 5 arriva su Disney+: dopo il miliardo al cinema, Woody e Buzz puntano allo streaming",
-      "link": "https://movieplayer.it/news/toy-story-5-su-disney-data-streaming_170804/",
-      "sommario": "Dopo il successo al cinema, Woody, Buzz e Jessie tornano su Disney+ in un'avventura che mette i giocattoli di sempre di fronte alla nuova sfida dell'infanzia digitale. Dopo aver conquistato il pubblico al cinema e superato il miliardo di dollari al box office ",
-      "data": "2026-08-28T13:07:31.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Toy Story 5",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Toy Story 5",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-28T17:06:09.518Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Tony – Diario di un giovane cuoco, la recensione: Dominic Sessa ci racconta Bourdain",
-      "link": "https://www.badtaste.it/recensioni/tony-diario-di-un-giovane-cuoco-la-recensione-dominic-sessa-ci-racconta-bourdain",
-      "sommario": "Basato sull’autobiografia Kitchen Confidential, Tony – Diario di un giovane cuoco è un accattivante coming of age sulle prime esperienze di Anthony Bourdain in ambito culinario.",
-      "data": "2026-08-27T11:00:25.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Tony - Diario di un giovane cuoco",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Tony - Diario di un giovane cuoco",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-27T16:02:25.950Z",
       "evidenza": false
     }
   ]
