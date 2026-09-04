@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-03T09:21:34.230Z",
+  "aggiornato": "2026-09-04T09:14:38.715Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -16,10 +16,27 @@
   ],
   "gruppi": [
     {
+      "soggetto": "Obsession",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://cinefilos.it/cinema-news/2026/inde-navarrette-obsession-protagonista-the-waffle-house-index-720095"
+      ]
+    },
+    {
+      "soggetto": "Denis Villeneuve",
+      "tipo": "regista",
+      "quante": 1,
+      "link": [
+        "https://cinefilos.it/cinema-news/2026/nicole-kidman-voleva-recitare-dune-720092"
+      ]
+    },
+    {
       "soggetto": "Odissea",
       "tipo": "film",
-      "quante": 2,
+      "quante": 3,
       "link": [
+        "https://movieplayer.it/news/odissea-2-paul-schrader-folle-lo-fara-perdera-fortuna_170880/",
         "https://cinefilos.it/cinema-news/2026/elliot-page-proposte-dopo-odissea-719937",
         "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax"
       ]
@@ -27,7 +44,7 @@
     {
       "soggetto": "The Batman: Part II",
       "tipo": "film",
-      "quante": 4,
+      "quante": 3,
       "link": [
         "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
         "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
@@ -63,11 +80,11 @@
     {
       "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
-      "quante": 3,
+      "quante": 4,
       "link": [
         "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
-        "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta",
-        "https://movieplayer.it/news/andrew-garfield-spider-man-gay-michael-b-jordan-chiunque-costume_170845/"
+        "https://movieplayer.it/news/andrew-garfield-spider-man-brand-new-day-nega-avengers-doomsday_170886/",
+        "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta"
       ]
     },
     {
@@ -86,23 +103,6 @@
         "https://cinefilos.it/tutto-film/approfondimenti/killers-of-the-flower-moon-spiegazione-finale-film-719302",
         "https://movieplayer.it/news/killers-of-the-flower-moon-storia-vera-film-martin-scorsese_170812/",
         "https://www.badtaste.it/articoli/killers-of-the-flower-moon-la-storia-vera-e-ancora-piu-terribile-cosa-accadde-davvero-agli-osage"
-      ]
-    },
-    {
-      "soggetto": "James Cameron",
-      "tipo": "regista",
-      "quante": 1,
-      "link": [
-        "https://www.badtaste.it/articoli/il-transatlantico-di-james-cameron-torna-su-netflix-ma-in-versione-horror-un-film-che-non-puoi-perdere"
-      ]
-    },
-    {
-      "soggetto": "La casa - Il rogo del Male",
-      "tipo": "film",
-      "quante": 2,
-      "link": [
-        "https://movieplayer.it/news/gf-vip-giacomo-gallani-giancarlo-danto-possibili-concorrenti_170803/",
-        "https://www.badtaste.it/articoli/manca-di-umorismo-la-star-delloriginale-la-casa-spiega-cosa-non-funziona-negli-ultimi-film"
       ]
     }
   ],
@@ -175,6 +175,63 @@
       "prevendite": false,
       "vistoIl": "2026-08-31T11:17:09.809Z",
       "evidenza": true
+    },
+    {
+      "titolo": "Inde Navarrette, dopo Obsession sarà protagonista di The Waffle House Index",
+      "link": "https://cinefilos.it/cinema-news/2026/inde-navarrette-obsession-protagonista-the-waffle-house-index-720095",
+      "sommario": "Inde Navarrette, dopo Obsession sarà protagonista di The Waffle House Index Inde Navarrette sarà la protagonista di The Waffle House Index, nuovo film di Apple Original Films prodotto da Plan B, confermando una fase particolarmente importante per la giovane at",
+      "data": "2026-09-04T08:55:21.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Obsession",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Obsession",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-09-04T09:14:38.706Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Nicole Kidman voleva recitare in Dune, ma Denis Villeneuve non l’ha mai chiamata: “È devastante”",
+      "link": "https://cinefilos.it/cinema-news/2026/nicole-kidman-voleva-recitare-dune-720092",
+      "sommario": "Nicole Kidman voleva recitare in Dune, ma Denis Villeneuve non l’ha mai chiamata: “È devastante” Nicole Kidman avrebbe voluto far parte del mondo di Dune, la saga fantascientifica diretta da Denis Villeneuve, ma il regista non le ha mai proposto un ruolo. A ri",
+      "data": "2026-09-04T08:48:18.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Denis Villeneuve",
+      "soggettoTipo": "regista",
+      "citati": [
+        {
+          "nome": "Denis Villeneuve",
+          "tipo": "regista"
+        }
+      ],
+      "rilievo": 3,
+      "prevendite": false,
+      "vistoIl": "2026-09-04T09:14:38.706Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "Odissea 2 si farà? Paul Schrader pensa di sì: \"Qualche folle lo farà e perderà una fortuna\"",
+      "link": "https://movieplayer.it/news/odissea-2-paul-schrader-folle-lo-fara-perdera-fortuna_170880/",
+      "sommario": "Paul Schrader applaude il film di Christopher Nolan, ma non crede che Hollywood possa replicarne facilmente il successo. Secondo lo sceneggiatore di Taxi Driver, un eventuale sequel di The Odyssey rischierebbe di trasformarsi in un disastro finanziario. Il suc",
+      "data": "2026-09-03T10:00:58.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Odissea",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Odissea",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-09-04T09:14:38.684Z",
+      "evidenza": false
     },
     {
       "titolo": "Elliot Page non ha ricevuto proposte dopo Odissea, ma ritiene di poter “realizzare alcuni dei miei lavori migliori”",
@@ -414,6 +471,25 @@
       "evidenza": false
     },
     {
+      "titolo": "Andrew Garfield non ha visto Spider-Man: Brand New Day e nega categoricamente: \"Non sono in Doomsday\"",
+      "link": "https://movieplayer.it/news/andrew-garfield-spider-man-brand-new-day-nega-avengers-doomsday_170886/",
+      "sommario": "Andrew Garfield nega il ritorno del suo Spider-Man nel nuovo film del MCU e spiega perché non ha ancora scritto a Tom Holland dopo Brand New Day. Andrew Garfield e le smentite sul suo Spider-Man sono ormai una storia ricorrente. L'attore britannico è tornato a",
+      "data": "2026-09-03T12:30:00.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "Spider-Man: Brand New Day",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Spider-Man: Brand New Day",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-09-04T09:14:38.681Z",
+      "evidenza": false
+    },
+    {
       "titolo": "Sapevi che esiste uno Spider-Man gay? La proposta che Andrew Garfield fece nel 2013 torna alla ribalta",
       "link": "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta",
       "sommario": "Nel 2013 Andrew Garfield propose uno Spider-Man gay con Michael B. Jordan. La provocazione che cambiò il dibattito sulla rappresentazione dei supereroi.",
@@ -430,25 +506,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-09-02T09:13:53.629Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man gay? Andrew Garfield pensa che i tempi siano maturi e ha già in mente un interprete",
-      "link": "https://movieplayer.it/news/andrew-garfield-spider-man-gay-michael-b-jordan-chiunque-costume_170845/",
-      "sommario": "L'attore torna sulla provocazione lanciata nel 2013: perché Peter Parker non potrebbe innamorarsi di un uomo? A distanza di anni, Garfield non ha cambiato idea e rilancia il suo messaggio di inclusività. Sono passati più di dieci anni da quando Andrew Garfield",
-      "data": "2026-09-01T11:00:30.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.636Z",
       "evidenza": false
     },
     {
@@ -525,63 +582,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-08-29T11:26:55.595Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Il transatlantico di James Cameron torna su Netflix, ma in versione horror: un film che non puoi perdere",
-      "link": "https://www.badtaste.it/articoli/il-transatlantico-di-james-cameron-torna-su-netflix-ma-in-versione-horror-un-film-che-non-puoi-perdere",
-      "sommario": "Su Netflix, il thriller soprannaturale su una replica del transatlantico che salpa verso il relitto originale.",
-      "data": "2026-08-29T12:00:43.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "James Cameron",
-      "soggettoTipo": "regista",
-      "citati": [
-        {
-          "nome": "James Cameron",
-          "tipo": "regista"
-        }
-      ],
-      "rilievo": 3,
-      "prevendite": false,
-      "vistoIl": "2026-08-30T10:13:25.376Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "GF Vip, Giacomo e Giancarlo verso la Casa: ecco chi sono i due possibili concorrenti",
-      "link": "https://movieplayer.it/news/gf-vip-giacomo-gallani-giancarlo-danto-possibili-concorrenti_170803/",
-      "sommario": "Nuove indiscrezioni sul cast del GF Vip: Giacomo Gallani e Giancarlo Danto sarebbero tra i possibili protagonisti della nuova edizione condotta da Ilary Blasi Mancano ormai poche settimane all'inizio della nuova edizione del Grande Fratello Vip e le indiscrezi",
-      "data": "2026-08-28T13:42:00.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "La casa - Il rogo del Male",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "La casa - Il rogo del Male",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-28T17:06:09.518Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "\"Manca di umorismo\": la star dell'originale La Casa spiega cosa non funziona negli ultimi film",
-      "link": "https://www.badtaste.it/articoli/manca-di-umorismo-la-star-delloriginale-la-casa-spiega-cosa-non-funziona-negli-ultimi-film",
-      "sommario": "L'amatissimo interprete di Ash Williams ha rivelato cosa non funziona nei ultimi film de \"La casa\", ovvero la mancanza di umorismo e di colore.",
-      "data": "2026-08-19T10:22:27.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "La casa - Il rogo del Male",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "La casa - Il rogo del Male",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-20T05:23:41.587Z",
       "evidenza": false
     }
   ]
