@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-04T09:14:38.715Z",
+  "aggiornato": "2026-09-05T08:44:05.881Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -15,6 +15,32 @@
     "https://movieplayer.it/news/the-dog-stars-peggior-debutto-ridley-scott-ultimi-cinque-anni_170828/"
   ],
   "gruppi": [
+    {
+      "soggetto": "Dune - Parte tre",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://cinefilos.it/cinema-news/2026/dune-parte-tre-durata-film-record-trilogia-villeneuve-720282"
+      ]
+    },
+    {
+      "soggetto": "The Batman: Part II",
+      "tipo": "film",
+      "quante": 4,
+      "link": [
+        "https://cinefilos.it/cinema-news/2026/the-batman-part-2-nuove-foto-set-batsuit-batman-720277",
+        "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
+        "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/"
+      ]
+    },
+    {
+      "soggetto": "La casa - Il rogo del Male",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/"
+      ]
+    },
     {
       "soggetto": "Obsession",
       "tipo": "film",
@@ -42,16 +68,6 @@
       ]
     },
     {
-      "soggetto": "The Batman: Part II",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
-        "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
-        "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-batmobile-distrutte-foto-set-719494"
-      ]
-    },
-    {
       "soggetto": "Harry Potter e la pietra filosofale — 25° anniversario",
       "tipo": "film",
       "quante": 1,
@@ -70,7 +86,7 @@
     {
       "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
       "tipo": "film",
-      "quante": 4,
+      "quante": 3,
       "link": [
         "https://cinefilos.it/cinema-news/2026/paul-mescal-ridley-scott-escluso-the-dog-stars-dopo-il-gladiatore-ii-719484",
         "https://cinefilos.it/cinema-news/2026/hideo-kojima-recensisce-the-dog-stars-ridley-scott-719689",
@@ -80,29 +96,11 @@
     {
       "soggetto": "Spider-Man: Brand New Day",
       "tipo": "film",
-      "quante": 4,
+      "quante": 3,
       "link": [
         "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
         "https://movieplayer.it/news/andrew-garfield-spider-man-brand-new-day-nega-avengers-doomsday_170886/",
         "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta"
-      ]
-    },
-    {
-      "soggetto": "Javier Bardem",
-      "tipo": "attore",
-      "quante": 1,
-      "link": [
-        "https://www.badtaste.it/articoli/da-evento-mondiale-a-flop-dimenticato-javier-bardem-e-penelope-cruz-nel-film-problematico-su-prime-video"
-      ]
-    },
-    {
-      "soggetto": "Killers of the Flower Moon",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://cinefilos.it/tutto-film/approfondimenti/killers-of-the-flower-moon-spiegazione-finale-film-719302",
-        "https://movieplayer.it/news/killers-of-the-flower-moon-storia-vera-film-martin-scorsese_170812/",
-        "https://www.badtaste.it/articoli/killers-of-the-flower-moon-la-storia-vera-e-ancora-piu-terribile-cosa-accadde-davvero-agli-osage"
       ]
     }
   ],
@@ -175,6 +173,117 @@
       "prevendite": false,
       "vistoIl": "2026-08-31T11:17:09.809Z",
       "evidenza": true
+    },
+    {
+      "titolo": "Dune – Parte tre, emerge un dettaglio sorprendente sul nuovo film di Denis Villeneuve",
+      "link": "https://cinefilos.it/cinema-news/2026/dune-parte-tre-durata-film-record-trilogia-villeneuve-720282",
+      "sommario": "Dune – Parte tre, emerge un dettaglio sorprendente sul nuovo film di Denis Villeneuve Dune – Parte tre potrebbe stabilire un piccolo record all’interno della trilogia di Denis Villeneuve. Secondo nuove indiscrezioni, il terzo capitolo dedicato alla saga di Fra",
+      "data": "2026-09-05T08:40:21.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "Dune - Parte tre",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Dune - Parte tre",
+          "tipo": "film"
+        },
+        {
+          "nome": "Denis Villeneuve",
+          "tipo": "regista"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-09-05T08:44:05.870Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "The Batman – Parte II: le foto dal set rivelano la migliore immagine finora della nuova tuta da Batman del Cavaliere Oscuro insanguinato",
+      "link": "https://cinefilos.it/cinema-news/2026/the-batman-part-2-nuove-foto-set-batsuit-batman-720277",
+      "sommario": "The Batman – Parte II: le foto dal set rivelano la migliore immagine finora della nuova tuta da Batman del Cavaliere Oscuro insanguinato Le riprese di The Batman – Part II continuano a Glasgow e le nuove immagini dal set offrono lo sguardo più dettagliato fino",
+      "data": "2026-09-05T08:29:48.000Z",
+      "fonte": "Cinefilos",
+      "soggetto": "The Batman: Part II",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Batman: Part II",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Batman",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-09-05T08:44:05.870Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "“Sento la mia età, è molto più difficile”: Robert Pattinson racconta la fatica sul set di The Batman 2",
+      "link": "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
+      "sommario": "Robert Pattinson racconta la fatica sul set di The Batman: Part II: le scene di combattimento sono più dure rispetto al primo film, ma l’attore promette un sequel “davvero fantastico”.",
+      "data": "2026-09-03T06:45:32.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "The Batman: Part II",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Batman: Part II",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Batman",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-09-03T09:21:34.171Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "The Batman 2, cosa sta succedendo sul set? Robert Pattinson: \"È molto più difficile adesso\"",
+      "link": "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
+      "sommario": "Robert Pattinson torna nei panni di Batman per il sequel di Matt Reeves e confessa che interpretare il Cavaliere Oscuro oggi è più faticoso, soprattutto nelle scene d'azione. Tornare a Gotham non è mai semplice, ma per Robert Pattinson questa volta il vero ost",
+      "data": "2026-09-02T09:00:45.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "The Batman: Part II",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "The Batman: Part II",
+          "tipo": "film"
+        },
+        {
+          "nome": "The Batman",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 8,
+      "prevendite": false,
+      "vistoIl": "2026-09-02T09:13:53.631Z",
+      "evidenza": false
+    },
+    {
+      "titolo": "George Clooney, dal rischio di perdere la casa alle lodi alla moglie: il racconto al Festival di Venezia",
+      "link": "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
+      "sommario": "A Venezia George Clooney ripercorre quasi cinquant'anni di carriera, dai sacrifici per realizzare Good Night, and Good Luck, dal rapporto con Amal, fino all'improvvisa proposta a una giovane diplomata di una scuola di cinema. Sul palco del Match Point Arena, a",
+      "data": "2026-09-04T14:00:27.000Z",
+      "fonte": "MoviePlayer",
+      "soggetto": "La casa - Il rogo del Male",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "La casa - Il rogo del Male",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 11,
+      "prevendite": false,
+      "vistoIl": "2026-09-05T08:44:05.847Z",
+      "evidenza": false
     },
     {
       "titolo": "Inde Navarrette, dopo Obsession sarà protagonista di The Waffle House Index",
@@ -269,75 +378,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-09-02T09:13:53.584Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "“Sento la mia età, è molto più difficile”: Robert Pattinson racconta la fatica sul set di The Batman 2",
-      "link": "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
-      "sommario": "Robert Pattinson racconta la fatica sul set di The Batman: Part II: le scene di combattimento sono più dure rispetto al primo film, ma l’attore promette un sequel “davvero fantastico”.",
-      "data": "2026-09-03T06:45:32.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-09-03T09:21:34.171Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "The Batman 2, cosa sta succedendo sul set? Robert Pattinson: \"È molto più difficile adesso\"",
-      "link": "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
-      "sommario": "Robert Pattinson torna nei panni di Batman per il sequel di Matt Reeves e confessa che interpretare il Cavaliere Oscuro oggi è più faticoso, soprattutto nelle scene d'azione. Tornare a Gotham non è mai semplice, ma per Robert Pattinson questa volta il vero ost",
-      "data": "2026-09-02T09:00:45.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.631Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "The Batman – Parte II: la Batmobile è completamente distrutta nelle nuove foto dal set!",
-      "link": "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-batmobile-distrutte-foto-set-719494",
-      "sommario": "The Batman – Parte II: la Batmobile è completamente distrutta nelle nuove foto dal set! Le nuove immagini (le si può vedere qui, qui e qui) provenienti dal set di Glasgow di The Batman – Parte II mostrano quella che sembra essere la Batmobile gravemente danneg",
-      "data": "2026-09-01T09:22:30.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-09-01T09:41:57.312Z",
       "evidenza": false
     },
     {
@@ -506,82 +546,6 @@
       "rilievo": 7,
       "prevendite": false,
       "vistoIl": "2026-09-02T09:13:53.629Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Da evento mondiale a flop dimenticato: Javier Bardem e Penelope Cruz nel film problematico su Prime Video",
-      "link": "https://www.badtaste.it/articoli/da-evento-mondiale-a-flop-dimenticato-javier-bardem-e-penelope-cruz-nel-film-problematico-su-prime-video",
-      "sommario": "Javier Bardem e Penélope Cruz in questo film su Prime Video: perché un cast stellare e un regista affermato non sono bastati a salvare il biopic.",
-      "data": "2026-08-30T18:00:31.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Javier Bardem",
-      "soggettoTipo": "attore",
-      "citati": [
-        {
-          "nome": "Javier Bardem",
-          "tipo": "attore"
-        }
-      ],
-      "rilievo": 3,
-      "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.795Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Killers of the Flower Moon, la spiegazione del finale: cosa significa l’ultima scena?",
-      "link": "https://cinefilos.it/tutto-film/approfondimenti/killers-of-the-flower-moon-spiegazione-finale-film-719302",
-      "sommario": "Killers of the Flower Moon, la spiegazione del finale: cosa significa l’ultima scena? Killers of the Flower Moon (leggi qui la nostra recensione), diretto da Martin Scorsese, racconta una delle pagine più oscure della storia americana attraverso la tragedia de",
-      "data": "2026-08-29T17:45:31.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Killers of the Flower Moon",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Killers of the Flower Moon",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-30T10:13:25.400Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Killers of the Flower Moon stasera su Rai 4, la storia vera dietro il film di Scorsese",
-      "link": "https://movieplayer.it/news/killers-of-the-flower-moon-storia-vera-film-martin-scorsese_170812/",
-      "sommario": "Il film di Martin Scorsese racconta gli omicidi della Nazione Osage negli anni Venti e una complessa storia di avidità e potere che ha sconvolto l'America. Riparte su Rai 4 il ciclo Country Crime, che propone questa sera, 28 agosto alle 21:20, l'ultimo capolav",
-      "data": "2026-08-29T15:51:43.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Killers of the Flower Moon",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Killers of the Flower Moon",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-30T10:13:25.380Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Killers of the Flower Moon, la storia vera è ancora più terribile: cosa accadde davvero agli Osage",
-      "link": "https://www.badtaste.it/articoli/killers-of-the-flower-moon-la-storia-vera-e-ancora-piu-terribile-cosa-accadde-davvero-agli-osage",
-      "sommario": "Killers of the Flower Moon racconta una storia vera: scopriamo cosa accadde davvero agli Osage e perché le vittime potrebbero essere state molte di più.",
-      "data": "2026-08-29T07:15:27.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Killers of the Flower Moon",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Killers of the Flower Moon",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-08-29T11:26:55.595Z",
       "evidenza": false
     }
   ]
