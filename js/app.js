@@ -11,7 +11,7 @@
   const emptyEl = $('#empty');
   const qInput  = $('#q');
 
-  const filtro = { q: '', status: 'cinema', sort: 'release', layout: 'grid' };
+  const filtro = { q: '', status: 'cinema', sort: 'release', verso: 1, layout: 'grid' };
   let meta = {};
 
   /* ── selezione e ordinamento ─────────────────────────── */
@@ -46,9 +46,15 @@
       runtime:  (a, b) => (b.runtime || 0) - (a.runtime || 0),
       added:    (a, b) => String(b.user.addedAt || '').localeCompare(String(a.user.addedAt || ''))
     };
-    films.sort(ordini[filtro.sort] || ordini.release);
+    /* Il verso moltiplica il confronto: -1 legge lo stesso criterio
+       dalla fine. Un solo interruttore per tutti gli ordinamenti,
+       invece di raddoppiare le voci dell'elenco. */
+    const criterio = ordini[filtro.sort] || ordini.release;
+    films.sort((a, b) => criterio(a, b) * filtro.verso);
+
     // Quelli che hai segnato pronti restano sempre in testa: sono
-    // la risposta a "cosa guardo stasera".
+    // la risposta a "cosa guardo stasera", e non è una questione
+    // di ordine ma di urgenza — quindi il verso non li tocca.
     if (!q) films.sort((a, b) => (b.user.pronto === true) - (a.user.pronto === true));
     return films;
   }
@@ -319,7 +325,50 @@
   }, { passive: true });
 
   qInput.addEventListener('input', () => { filtro.q = qInput.value; render(); });
-  $('#sort').addEventListener('change', e => { filtro.sort = e.target.value; render(); });
+  /* Come si chiama il verso, criterio per criterio. Dire "crescente"
+     e "decrescente" è corretto e non serve a niente: quello che vuoi
+     sapere è se in cima trovi i film vecchi o quelli nuovi. */
+  const VERSI = {
+    release:  ['dai più vecchi', 'dai più nuovi'],
+    title:    ['A → Z', 'Z → A'],
+    rating:   ['dai voti alti', 'dai voti bassi'],
+    rt:       ['dai voti alti', 'dai voti bassi'],
+    myRating: ['dai voti alti', 'dai voti bassi'],
+    runtime:  ['dai più lunghi', 'dai più corti'],
+    added:    ['dalle ultime aggiunte', 'dalle prime aggiunte']
+  };
+
+  const versoEl = $('#verso');
+
+  function syncVerso() {
+    // Con i "pronti prima" il verso non ha presa: quei film restano in
+    // testa comunque, quindi l'interruttore mentirebbe. Si nasconde.
+    const voci = VERSI[filtro.sort];
+    versoEl.hidden = !voci;
+    if (!voci) return;
+
+    const giu = filtro.verso === 1;
+    versoEl.innerHTML = `<span class="verso-freccia">${giu ? '↓' : '↑'}</span>${F.esc(voci[giu ? 0 : 1])}`;
+    versoEl.setAttribute('aria-label', `Ordine: ${voci[giu ? 0 : 1]}. Tocca per invertirlo.`);
+  }
+
+  $('#sort').addEventListener('change', e => {
+    filtro.sort = e.target.value;
+    // Ogni criterio riparte dal suo verso naturale: passando a
+    // "titolo" ci si aspetta la A in cima, non la Z perché prima si
+    // guardavano i film dal più recente.
+    filtro.verso = 1;
+    syncVerso();
+    render();
+  });
+
+  versoEl.addEventListener('click', () => {
+    filtro.verso = -filtro.verso;
+    syncVerso();
+    render();
+  });
+
+  syncVerso();
 
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape' && Detail.isOpen()) return Detail.close();

@@ -6,13 +6,13 @@
 <title>CINETECA — la mia biblioteca cinematografica</title>
 <meta name="theme-color" content="#05060B">
 <link rel="manifest" href="manifest.webmanifest">
-<link rel="apple-touch-icon" sizes="180x180" href="assets/icon-180.png?v=202609060959">
-<link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png?v=202609060959">
-<link rel="icon" type="image/png" sizes="512x512" href="assets/icon-512.png?v=202609060959">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/icon-180.png?v=202609061003">
+<link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png?v=202609061003">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/icon-512.png?v=202609061003">
 <meta name="apple-mobile-web-app-title" content="Cineteca">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="stylesheet" href="css/styles.css?v=202609060959">
+<link rel="stylesheet" href="css/styles.css?v=202609061003">
 </head>
 <body>
 
@@ -66,6 +66,13 @@
             <option value="added">Aggiunta recente</option>
           </select>
         </label>
+
+        <!-- Il verso dell'ordine: lo stesso criterio letto dall'inizio
+             o dalla fine. Il testo dice cosa succede a toccarlo, che
+             su un telefono è l'unico modo: una freccia da sola non si
+             può chiedere a nessuno di indovinarla. -->
+        <button class="select select-verso" id="verso" type="button"></button>
+
         <div class="segmented" id="layout" role="group" aria-label="Layout">
           <button class="seg is-active" data-layout="grid" title="Griglia locandine" aria-label="Griglia locandine">
             <svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="9"/><rect x="14" y="3" width="7" height="9"/><rect x="3" y="15" width="7" height="6"/><rect x="14" y="15" width="7" height="6"/></svg>
@@ -130,21 +137,21 @@
   </p>
 </footer>
 
-<script src="js/avviso.js?v=202609060959"></script>
-<script src="js/store.js?v=202609060959"></script>
-<script src="js/format.js?v=202609060959"></script>
-<script src="js/charts.js?v=202609060959"></script>
-<script src="js/consiglia.js?v=202609060959"></script>
-<script src="js/persone.js?v=202609060959"></script>
-<script src="js/ciechi.js?v=202609060959"></script>
-<script src="js/perte.js?v=202609060959"></script>
-<script src="js/notizie.js?v=202609060959"></script>
-<script src="js/stats.js?v=202609060959"></script>
-<script src="js/detail.js?v=202609060959"></script>
-<script src="js/novita.js?v=202609060959"></script>
+<script src="js/avviso.js?v=202609061003"></script>
+<script src="js/store.js?v=202609061003"></script>
+<script src="js/format.js?v=202609061003"></script>
+<script src="js/charts.js?v=202609061003"></script>
+<script src="js/consiglia.js?v=202609061003"></script>
+<script src="js/persone.js?v=202609061003"></script>
+<script src="js/ciechi.js?v=202609061003"></script>
+<script src="js/perte.js?v=202609061003"></script>
+<script src="js/notizie.js?v=202609061003"></script>
+<script src="js/stats.js?v=202609061003"></script>
+<script src="js/detail.js?v=202609061003"></script>
+<script src="js/novita.js?v=202609061003"></script>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="js/cloud-config.js?v=202609060959"></script>
-<script src="js/app.js?v=202609060959"></script>
-<script src="js/cloud.js?v=202609060959"></script>
+<script src="js/cloud-config.js?v=202609061003"></script>
+<script src="js/app.js?v=202609061003"></script>
+<script src="js/cloud.js?v=202609061003"></script>
 </body>
 </html>

@@ -229,6 +229,20 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
 .select select{ background:none; border:0; outline:none; font-size:13.5px; font-weight:600; cursor:pointer; }
 .select select option{ background:#12141F; }
 
+/* Il verso dell'ordine: stessa pillola del menu accanto, perché fa
+   parte dello stesso pensiero — prima cosa ordinare, poi da che capo. */
+.select-verso{
+  display:inline-flex; align-items:center; gap:7px;
+  padding:0 14px; height:38px;
+  background:var(--panel); border:1px solid var(--line); border-radius:999px;
+  font-size:13px; font-weight:600; color:var(--ink-2); white-space:nowrap;
+  transition:background .2s, border-color .2s, color .2s;
+}
+.verso-freccia{ font-size:14px; line-height:1; color:var(--accent); }
+@media (hover:hover){
+  .select-verso:hover{ background:var(--panel-2); border-color:var(--line-2); color:var(--ink); }
+}
+
 .segmented{ display:flex; gap:2px; padding:3px; background:var(--panel); border:1px solid var(--line); border-radius:999px; }
 .seg{ display:grid; place-items:center; width:34px; height:32px; border-radius:999px; color:var(--ink-3); transition:.2s; }
 .seg svg{ width:16px; height:16px; }
