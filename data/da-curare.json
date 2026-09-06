@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-06T10:42:50.868Z",
+  "preparato": "2026-09-06T11:03:25.188Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -33,6 +33,20 @@
     ]
   },
   "articoli": [
+    {
+      "link": "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-05T19:30:29.000Z",
+      "titolo": "Venice Film Festival 2026 Photos Day 4: ‘Primetime’ & ‘ Oasis: Don’t Look Back in Anger’ Premieres",
+      "sommario": "The 83rd Venice Film Festival enters its fourth day, having already delivered starry receptions for the opening-night premiere of Danny Boyle’s Ink, the Thursday premiere of Werner Herzog’s Bucking Fastard, and Paul Schrader’s The Basics of Philosophy on Friday. Today’s program is led by the world premiere of Lance Opp",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Danny Boyle",
+        "Oasis: Don't Look Back in Anger"
+      ],
+      "radar": "regia di Danny Boyle, di cui hai visto un film"
+    },
     {
       "link": "https://deadline.com/2026/09/oasis-dont-look-back-in-anger-review-liam-gallagher-noel-gallagher-1237069054/",
       "fonte": "Deadline",
@@ -169,17 +183,6 @@
       "radar": "c'è Robert Pattinson, che hai visto 2 volte"
     },
     {
-      "link": "https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-05T22:17:52.000Z",
-      "titolo": "Telluride Film Festival 2026: Read All Of Deadline’s Reviews",
-      "sommario": "The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read ",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
       "link": "https://variety.com/2026/film/global/wim-wenders-peter-zumthor-venice-1236852836/",
       "fonte": "Variety",
       "lingua": "en",
@@ -193,16 +196,14 @@
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
-      "fonte": "The Guardian",
+      "link": "https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/",
+      "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-08-31T13:21:16.000Z",
-      "titolo": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
-      "sommario": "<p>‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’</p><p>Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex",
-      "sezioneProvvisoria": "passato",
-      "soggetti": [
-        "Mother Mary (in libreria)"
-      ],
+      "data": "2026-09-05T22:17:52.000Z",
+      "titolo": "Telluride Film Festival 2026: Read All Of Deadline’s Reviews",
+      "sommario": "The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care and the Andrew Scott-led Elsinore. See the full lineup here. RELATED: Venice Film Festival 2026: Read ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
       "radar": null
     },
     {
@@ -215,6 +216,19 @@
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [
         "Oasis: Don't Look Back in Anger"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-08-31T13:21:16.000Z",
+      "titolo": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
+      "sommario": "<p>‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’</p><p>Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Mother Mary (in libreria)"
       ],
       "radar": null
     },
@@ -276,23 +290,23 @@
       "radar": null
     },
     {
-      "link": "https://www.slashfilm.com/2248793/alan-hale-jr-guest-star-60s-fantasy-series-sally-field-the-flying-nun/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-09-05T23:30:00.000Z",
-      "titolo": "Alan Hale Jr. Guest-Starred In A '60s Fantasy Series Featuring A Future Oscar Winner",
-      "sommario": "TV used to be a wonderful, magical place where future Oscar-winner Sally Field could team up with Alan Hale Jr. in a show about a flying nun.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
       "link": "https://www.hollywoodreporter.com/movies/movie-news/the-debut-jesse-eisenberg-original-songs-oscar-push-1236687820/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
       "data": "2026-09-06T00:45:48.000Z",
       "titolo": "‘The Debut’ Features Seven Original Songs, All Written by Jesse Eisenberg, and One Is Getting an Oscar Push (Exclusive)",
       "sommario": "The best original song race already includes tunes by Taylor Swift, Travis Scott, David Byrne, Backstreet Boys and, yes, Diane Warren.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2248793/alan-hale-jr-guest-star-60s-fantasy-series-sally-field-the-flying-nun/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-05T23:30:00.000Z",
+      "titolo": "Alan Hale Jr. Guest-Starred In A '60s Fantasy Series Featuring A Future Oscar Winner",
+      "sommario": "TV used to be a wonderful, magical place where future Oscar-winner Sally Field could team up with Alan Hale Jr. in a show about a flying nun.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -320,6 +334,17 @@
         "The Drama - Un segreto è per sempre (in libreria)",
         "Robert Pattinson"
       ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/festivals/wim-wenders-clarifies-filmmakers-politics-berlin-1236853205/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T10:44:13.000Z",
+      "titolo": "Wim Wenders Clarifies His Stance on Filmmakers’ Role in Politics After Berlin Controversy: ‘We Are the Opposite of Politicians … We Are the Antidote’",
+      "sommario": "Wim Wenders has clarified his much-discussed statement about filmmakers’ role in politics that kicked off a firestorm at Berlin Film Festival earlier this year. Wenders was at the center of a heated debate at the Berlinale in February after the celebrated German filmmaker, who served as jury president, said during the ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
       "radar": null
     },
     {
@@ -369,17 +394,6 @@
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-06T02:59:36.000Z",
-      "titolo": "‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy",
-      "sommario": "What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who plays a crumpled-up wallflower in dire need of blooming. Oh, does she bloom.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
       "link": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
       "fonte": "The Guardian",
       "lingua": "en",
@@ -391,13 +405,13 @@
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/awards/the-debut-julianne-moore-telluride-oscars-paul-giamatti-1236852947/",
+      "link": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-09-06T00:25:38.000Z",
-      "titolo": "‘The Debut’ Explodes at Telluride With Julianne Moore’s Gonzo, Career-Best Turn, Thanks to a Toolbelt, Unlit Cigarettes and a Faux Musical",
-      "sommario": "Jesse Eisenberg has made his most significant debut to date. There is a delicious irony at the center of “The Debut,” Eisenberg’s third feature as a director, which world premiered at the Telluride Film Festival: it is a film about a nobody who attacks a bit part as if it were the role of a […]",
-      "sezioneProvvisoria": "notizia",
+      "data": "2026-09-06T02:59:36.000Z",
+      "titolo": "‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy",
+      "sommario": "What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who plays a crumpled-up wallflower in dire need of blooming. Oh, does she bloom.",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
@@ -863,17 +877,6 @@
       "radar": null
     },
     {
-      "link": "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-09-05T09:13:00.000Z",
-      "titolo": "Fortnite: questa hit dei Bring Me The Horizon è appena arrivata nel Festival",
-      "sommario": "Fortnite Festival accoglie \"Can You Feel My Heart\" dei Bring Me The Horizon, ora disponibile gratuitamente sul Palco Principale o acquistabile. Mentre prosegue la Stagione 4 di Fortnite Battaglia Reale con Sonic e Crash , la modalità musicale Fortnite Festival continua ad espandersi dando il benvenuto alle superstar di",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
       "link": "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
       "fonte": "ScreenWeek",
       "lingua": "it",
@@ -897,6 +900,17 @@
       "soggetti": [
         "The Invite - Il piacere è tutto nostro"
       ],
+      "radar": null
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-09-05T09:13:00.000Z",
+      "titolo": "Fortnite: questa hit dei Bring Me The Horizon è appena arrivata nel Festival",
+      "sommario": "Fortnite Festival accoglie \"Can You Feel My Heart\" dei Bring Me The Horizon, ora disponibile gratuitamente sul Palco Principale o acquistabile. Mentre prosegue la Stagione 4 di Fortnite Battaglia Reale con Sonic e Crash , la modalità musicale Fortnite Festival continua ad espandersi dando il benvenuto alle superstar di",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
       "radar": null
     },
     {
@@ -955,17 +969,6 @@
       "radar": null
     },
     {
-      "link": "https://www.cineblog.it/post/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-09-05T11:32:18.000Z",
-      "titolo": "Valerio Mastandrea a Venezia: il valore dei padri imperfetti",
-      "sommario": "Valerio Mastandrea ha raccontato oggi, 5 settembre 2026, alla Mostra del Cinema di Venezia, il suo ruolo in La Città dei Vivi, film di Edoardo Gabbriellini in concorso a Orizzonti, spiegando perché interpretare il padre di Luca Varani lo abbia portato a riflettere sul mestiere, fragile e senza istruzioni, dell’essere g",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
       "link": "https://movieplayer.it/news/matt-damon-set-assurdo-fan-attribuiscono-qualita-divi-perso_170904/",
       "fonte": "MoviePlayer",
       "lingua": "it",
@@ -980,6 +983,17 @@
       "radar": null
     },
     {
+      "link": "https://www.cineblog.it/post/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-09-05T11:32:18.000Z",
+      "titolo": "Valerio Mastandrea a Venezia: il valore dei padri imperfetti",
+      "sommario": "Valerio Mastandrea ha raccontato oggi, 5 settembre 2026, alla Mostra del Cinema di Venezia, il suo ruolo in La Città dei Vivi, film di Edoardo Gabbriellini in concorso a Orizzonti, spiegando perché interpretare il padre di Luca Varani lo abbia portato a riflettere sul mestiere, fragile e senza istruzioni, dell’essere g",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
       "link": "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
       "fonte": "ScreenWeek",
       "lingua": "it",
@@ -987,17 +1001,6 @@
       "titolo": "Venezia 83: Mr. Nelson, Did You Kill People? è un film potente, ma poco equilibrato",
       "sommario": "Shinya Tsukamoto presenta in Concorso a Venezia 83 un war movie biopic dagli ottimi intenti, ma a cui manca il senso della misura.",
       "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://cinefilos.it/tutto-film/approfondimenti/un-uomo-sopra-la-legge-spiegazione-finale-film-liam-neeson-720162",
-      "fonte": "Cinefilos",
-      "lingua": "it",
-      "data": "2026-09-05T23:25:53.000Z",
-      "titolo": "Un uomo sopra la legge: la spiegazione del finale del film con Liam Neeson",
-      "sommario": "Un uomo sopra la legge: la spiegazione del finale del film con Liam Neeson Un uomo sopra la legge (The Marksman), diretto da Robert Lorenz e interpretato da Liam Neeson, sembra inizialmente costruito secondo gli schemi del thriller d’azione: un uomo solitario, un ragazzo in pericolo, un’organizzazione criminale alle ca",
-      "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },

@@ -65,10 +65,21 @@ const Notizie = (() => {
   };
   const imgTmdb = (path, size = 'w780') => path ? `${TMDB}/${size}/${String(path).replace(/^\/+/, '')}` : null;
 
-  /* L'immagine dell'articolo, e se manca quella del film di cui parla. */
-  const immagine = n => n.immagine
-    || imgTmdb(n.soggetti?.find(s => s.backdrop)?.backdrop)
-    || imgTmdb(n.soggetti?.find(s => s.poster)?.poster, 'w500');
+  /* L'immagine dell'articolo; se manca, quella del film di cui parla;
+     se manca anche quella, il volto della persona. E se la prima si
+     rompe (link scaduto, testata che blocca), l'<img> passa da solo
+     alla riserva invece di sparire e lasciare un buco. */
+  const riserve = n => [
+    imgTmdb(n.soggetti?.find(s => s.backdrop)?.backdrop),
+    imgTmdb(n.soggetti?.find(s => s.poster)?.poster, 'w500'),
+    imgTmdb(n.soggetti?.find(s => s.profilo)?.profilo, 'h632')
+  ].filter(Boolean);
+  const immagine = n => n.immagine || riserve(n)[0] || null;
+  const RISERVA = `onerror="if(this.dataset.alt){const a=this.dataset.alt.split('|');this.src=a.shift();this.dataset.alt=a.join('|');}else{this.remove();}"`;
+  const img = (n, src, extra = '') => {
+    const alt = riserve(n).filter(u => u !== src).join('|');
+    return `<img src="${F.esc(src)}" alt="" ${extra} data-alt="${F.esc(alt)}" ${RISERVA}>`;
+  };
 
   const fonte = n => `<span class="ras-fonte">${F.esc(n.fonte)}</span><span class="ras-quando">${F.esc(quando(n.data))}</span>`;
 
@@ -91,11 +102,11 @@ const Notizie = (() => {
 
   /* ── i formati ─────────────────────────────────────────── */
   const apertura = (n, viste) => {
-    const img = immagine(n);
+    const src = n.immagineGrande || immagine(n);
     const p = perche(n);
     return `<section class="ras-apertura${nuova(n, viste)}">
       <a class="ras-apertura-link" href="${F.esc(n.link)}" target="_blank" rel="noopener">
-        ${img ? `<img class="ras-apertura-img" src="${F.esc(img)}" alt="" loading="eager" onerror="this.remove()">` : ''}
+        ${src ? img(n, src, 'class="ras-apertura-img" loading="eager"') : ''}
         <span class="ras-apertura-testo">
           <span class="ras-kicker"><b>Apertura</b> ${fonte(n)}</span>
           <span class="ras-apertura-titolo">${F.esc(tit(n))}</span>
@@ -108,9 +119,9 @@ const Notizie = (() => {
   };
 
   const scheda = (n, viste) => {
-    const img = immagine(n);
+    const src = immagine(n);
     return `<a class="ras-scheda${nuova(n, viste)}" href="${F.esc(n.link)}" target="_blank" rel="noopener">
-      <span class="ras-scheda-img">${img ? `<img src="${F.esc(img)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span>
+      <span class="ras-scheda-img">${src ? img(n, src, 'loading="lazy"') : ''}</span>
       <span class="ras-scheda-testo">
         <span class="ras-meta">${fonte(n)}</span>
         <b>${F.esc(tit(n))}</b>
@@ -119,11 +130,11 @@ const Notizie = (() => {
   };
 
   const riga = (n, viste, { conPerche = true, conImg = true } = {}) => {
-    const img = conImg ? immagine(n) : null;
+    const src = conImg ? immagine(n) : null;
     const p = conPerche ? perche(n) : null;
     return `<div class="ras-riga${nuova(n, viste)}">
       <a class="ras-riga-link" href="${F.esc(n.link)}" target="_blank" rel="noopener">
-        ${img ? `<span class="ras-riga-img"><img src="${F.esc(img)}" alt="" loading="lazy" onerror="this.parentNode.remove()"></span>` : ''}
+        ${src ? `<span class="ras-riga-img">${img(n, src, 'loading="lazy"')}</span>` : ''}
         <span class="ras-riga-testo">
           <b>${F.esc(tit(n))}</b>
           ${som(n) ? `<span class="ras-riga-sommario">${F.esc(som(n))}</span>` : ''}
@@ -143,13 +154,14 @@ const Notizie = (() => {
   const tema = (t, perLink, viste) => {
     const voci = t.link.map(l => perLink.get(l)).filter(Boolean);
     if (!voci.length) return '';
-    const img = imgTmdb(t.backdrop) || voci.map(v => v.immagine).find(Boolean) || imgTmdb(t.poster, 'w500');
+    const foto = imgTmdb(t.backdrop, 'w1280') || voci.map(v => v.immagine).find(Boolean) || imgTmdb(t.poster, 'w500')
+      || imgTmdb(voci.flatMap(v => v.soggetti || []).find(s => s.profilo)?.profilo, 'h632');
     const etichetta = t.inLibreria
       ? (t.lista === 'cinema' ? '🎟️ in libreria' : t.lista === 'visto' ? '✓ l\'hai visto' : '🛋️ in libreria')
       : t.tipo === 'film' && t.anno ? t.anno : t.tipo === 'regista' ? 'regista' : t.tipo === 'attore' ? '' : '';
     return `<article class="ras-tema">
       <div class="ras-tema-testa">
-        ${img ? `<img class="ras-tema-img" src="${F.esc(img)}" alt="" loading="lazy" onerror="this.remove()">` : ''}
+        ${foto ? `<img class="ras-tema-img" src="${F.esc(foto)}" alt="" loading="lazy" onerror="this.remove()">` : ''}
         <div class="ras-tema-titolo">
           <span class="ras-tema-nome">${F.esc(t.soggetto)}</span>
           <span class="ras-tema-meta">${t.quante} ${t.quante === 1 ? 'articolo' : 'articoli'} · ${t.testate} ${t.testate === 1 ? 'testata' : 'testate'}${etichetta ? ` · ${F.esc(etichetta)}` : ''}</span>
@@ -171,6 +183,34 @@ const Notizie = (() => {
     return a.inLibreria && a.filmId
       ? `<button class="ras-anni" data-open="${F.esc(a.filmId)}">${dentro}</button>`
       : `<a class="ras-anni" href="https://www.themoviedb.org/movie/${a.tmdbId}" target="_blank" rel="noopener">${dentro}</a>`;
+  };
+
+  /* Un trailer nuovo di un film che non hai: lo guardi e decidi tu
+     dove va — al cinema, a casa, o da nessuna parte. */
+  const trailer = t => {
+    const id = Store.idDiTmdb(t.tmdbId);
+    const dentro = Boolean(id);
+    const quandoTrailer = quando(t.trailerPubblicato);
+    return `<article class="ras-trailer${dentro ? ' is-dentro' : ''}" data-tmdb="${t.tmdbId}">
+      <a class="ras-trailer-poster" href="${F.esc(t.trailer)}" target="_blank" rel="noopener" aria-label="Guarda il trailer di ${F.esc(t.title)}">
+        ${t.poster ? `<img src="${F.esc(imgTmdb(t.poster, 'w342'))}" alt="" loading="lazy">` : ''}
+        <span class="ras-trailer-play">▶</span>
+      </a>
+      <div class="ras-trailer-testo">
+        <span class="ras-trailer-quando">${F.esc(t.trailerTipo === 'Teaser' ? 'teaser' : 'trailer')} · ${F.esc(quandoTrailer)}${t.trailerLingua === 'it' ? ' · in italiano' : ''}</span>
+        <b>${F.esc(t.title)}</b>
+        <span class="ras-trailer-meta">${t.release ? F.esc(F.dataBreve(new Date(t.release + 'T00:00:00'))) + (t.releaseFonte !== 'IT' ? ' <i title="data non confermata per l\'Italia">≈</i>' : '') : 'data da definire'}${t.genres?.length ? ` · ${F.esc(t.genres.slice(0, 2).join(', '))}` : ''}${t.director ? ` · ${F.esc(t.director)}` : ''}</span>
+        ${t.perche ? `<span class="ras-perche">${F.esc(t.perche)}</span>` : ''}
+        ${t.plot ? `<span class="ras-trailer-trama">${F.esc(t.plot.split(/(?<=[.!?])\s/)[0].slice(0, 160))}</span>` : ''}
+        <span class="ras-trailer-azioni">
+          <a class="ras-tag" href="${F.esc(t.trailer)}" target="_blank" rel="noopener">▶ Trailer</a>
+          ${dentro
+            ? `<button class="ras-tag ras-tag-film" data-open="${F.esc(id)}">✓ In libreria · apri</button>`
+            : `<button class="ras-tag ras-tag-agg" data-aggiungi="${t.tmdbId}" data-lista="cinema">🎟️ Al cinema</button>
+               <button class="ras-tag ras-tag-agg" data-aggiungi="${t.tmdbId}" data-lista="casa">🛋️ A casa</button>`}
+        </span>
+      </div>
+    </article>`;
   };
 
   const sezione = (kicker, sotto, corpo, cls = '') => corpo
@@ -202,6 +242,7 @@ const Notizie = (() => {
     const passato = prendi(d.passato);
     const altre = prendi(d.altre);
     const anni = d.accaddeOggi || [];
+    const trailerNuovi = d.trailer || [];
     const nuove = tutte.filter(n => !viste.has(n.link)).length;
 
     root.innerHTML = `
@@ -220,6 +261,9 @@ const Notizie = (() => {
 
       ${sezione('Se ne parla', 'stesso soggetto, più testate',
         temi.length ? `<div class="ras-temi">${temi.map(t => tema(t, perLink, viste)).join('')}</div>` : '')}
+
+      ${sezione('Trailer della settimana', 'film che non hai: guarda e decidi',
+        trailerNuovi.length ? `<div class="ras-trailer-griglia">${trailerNuovi.map(trailer).join('')}</div>` : '', 'ras-trailer-sez')}
 
       ${sezione('Nel tuo radar', 'film che non hai, ma che ti somigliano',
         radar.length ? `<div class="ras-righe">${radar.map(n => riga(n, viste)).join('')}</div>` : '', 'ras-radar')}
@@ -252,7 +296,19 @@ const Notizie = (() => {
 
   root.addEventListener('click', e => {
     const apri = e.target.closest('[data-open]');
-    if (apri) { e.preventDefault(); Detail.open(apri.dataset.open); }
+    if (apri) { e.preventDefault(); return Detail.open(apri.dataset.open); }
+
+    /* "Sì, lo voglio": il film entra in libreria nella lista scelta,
+       con un ripensamento a portata di mano per qualche secondo. */
+    const agg = e.target.closest('[data-aggiungi]');
+    if (agg && dati) {
+      const t = (dati.trailer || []).find(x => x.tmdbId === Number(agg.dataset.aggiungi));
+      if (!t) return;
+      const id = Store.aggiungi(t, agg.dataset.lista);
+      render();
+      Avviso.mostra(`<b>${F.esc(t.title)}</b> aggiunto: ${agg.dataset.lista === 'cinema' ? 'da vedere al cinema' : 'da vedere a casa'}`,
+        'Annulla', () => { Store.rimuovi(id); render(); });
+    }
   });
 
   return { render };

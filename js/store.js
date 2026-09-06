@@ -143,9 +143,32 @@ const Store = (() => {
     const user = userState(m.id);
     return { ...m, lista: user.listaScelta || m.lista, user };
   }
-  const all = () => catalog.map(conStato).filter(m => !m.user.rimosso);
+  /* ── i film aggiunti da te ───────────────────────────────
+     Dal trailer alla libreria con un tocco: il film non sta nel
+     catalogo del sito, sta nel tuo stato (e quindi si sincronizza
+     come tutto il resto). Ha la stessa forma di un film del catalogo
+     perché il resto dell'app non deve accorgersi della differenza. */
+  const extra = () => Object.values(state.extra || {}).map(x => ({
+    ...x, genres: x.genres || [], countries: x.countries || [], cast: x.cast || [],
+    releaseDate: x.release ? new Date(`${x.release}T00:00:00`) : null, extra: true
+  }));
+
+  function aggiungi(film, lista) {
+    const id = `tmdb-${film.tmdbId}`;
+    state.extra = state.extra || {};
+    if (!state.extra[id]) {
+      const { perche, motivi, origine, youtube, trailerTipo, trailerLingua, trailerPubblicato, ...dati } = film;
+      state.extra[id] = { ...dati, id, lista, addedAt: new Date().toISOString() };
+    }
+    patch(id, { listaScelta: lista, rimosso: false });
+    return id;
+  }
+  const haFilm = tmdbId => catalog.some(m => m.tmdbId === tmdbId) || Boolean((state.extra || {})[`tmdb-${tmdbId}`]);
+  const idDiTmdb = tmdbId => catalog.find(m => m.tmdbId === tmdbId)?.id || ((state.extra || {})[`tmdb-${tmdbId}`] ? `tmdb-${tmdbId}` : null);
+
+  const all = () => [...catalog, ...extra()].map(conStato).filter(m => !m.user.rimosso);
   /* Compresi quelli tolti: serve solo a poterli ripescare. */
-  const tutti = () => catalog.map(conStato);
+  const tutti = () => [...catalog, ...extra()].map(conStato);
   const byId = id => tutti().find(m => m.id === id) || null;
 
   const subscribe = fn => { listeners.add(fn); return () => listeners.delete(fn); };
@@ -175,12 +198,17 @@ const Store = (() => {
       if (quandoLoro > quandoMio) { state.movies[id] = loro; cambiato = true; }
     }
 
+    // Anche i film aggiunti a mano viaggiano fra i dispositivi.
+    for (const [id, loro] of Object.entries(remoto.extra || {})) {
+      if (!(state.extra || {})[id]) { state.extra = state.extra || {}; state.extra[id] = loro; cambiato = true; }
+    }
+
     if (remoto.schema > (state.schema || 0)) state.schema = remoto.schema;
     if (cambiato) save();
     return cambiato;
   }
 
-  return { init, refresh, all, tutti, byId, userState,
+  return { init, refresh, all, tutti, byId, userState, aggiungi, haFilm, idDiTmdb,
            toggleSeen, toggleFav, toggleRewatch, togglePronto, rimuovi, ripristina, spostaIn, setRating, setNote, subscribe,
            stato, fondi, quantiToccati, riparaArchivio };
 })();

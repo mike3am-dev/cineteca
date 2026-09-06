@@ -150,6 +150,57 @@ function leggiFeed(xml, fonte) {
   }).filter(x => x.titolo && x.link && /^https?:/.test(x.link));
 }
 
+/* ── la foto che il feed non dà ────────────────────────
+   ScreenWeek e Cineblog non mettono immagini nel feed, ma la pagina
+   dell'articolo ha sempre la sua og:image, pensata proprio per le
+   anteprime. Costa una richiesta per articolo, solo per chi ne ha
+   bisogno, e solo la prima volta. */
+async function ogImage(url) {
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Cineteca/2.0)' }, signal: AbortSignal.timeout(9000) });
+    if (!res.ok) return null;
+    const html = (await res.text()).slice(0, 250000);
+    const m = html.match(/<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i)
+           || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i)
+           || html.match(/<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i);
+    const u = m ? m[1].replace(/&amp;/g, '&').trim() : null;
+    return u && /^https?:/.test(u) ? u : null;
+  } catch { return null; }
+}
+
+/* Quanto è larga un'immagine, leggendone solo l'intestazione: per
+   l'apertura, che va a tutto schermo, una foto da 600 pixel viene
+   sgranata e si vede. */
+async function larghezza(url) {
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0', Range: 'bytes=0-65535' }, signal: AbortSignal.timeout(8000) });
+    const b = Buffer.from(await res.arrayBuffer());
+    if (b[0] === 0xFF && b[1] === 0xD8) {                       // JPEG
+      let i = 2;
+      while (i < b.length - 9) {
+        if (b[i] !== 0xFF) { i++; continue; }
+        const m = b[i + 1];
+        if (m >= 0xC0 && m <= 0xCF && ![0xC4, 0xC8, 0xCC].includes(m)) return b.readUInt16BE(i + 7);
+        i += 2 + b.readUInt16BE(i + 2);
+      }
+      return null;
+    }
+    if (b[0] === 0x89 && b[1] === 0x50) return b.readUInt32BE(16);   // PNG
+    if (b.slice(8, 12).toString() === 'WEBP') {                      // WebP
+      const tipo = b.slice(12, 16).toString();
+      if (tipo === 'VP8 ') return b.readUInt16LE(26) & 0x3FFF;
+      if (tipo === 'VP8L') return 1 + (((b[21] | (b[22] << 8)) & 0x3FFF));
+      if (tipo === 'VP8X') return 1 + (b[24] | (b[25] << 8) | (b[26] << 16));
+    }
+    return null;
+  } catch { return null; }
+}
+
+async function aLotti(lista, n, fn) {
+  const coda = [...lista];
+  await Promise.all(Array.from({ length: n }, async () => { while (coda.length) await fn(coda.shift()); }));
+}
+
 /* ── normalizzazione e alias dei titoli ──────────────── */
 const ROMANI = { i:'1', ii:'2', iii:'3', iv:'4', v:'5', vi:'6', vii:'7', viii:'8', ix:'9', x:'10' };
 
@@ -424,6 +475,76 @@ async function accaddeOggi(movies, lib) {
     });
 }
 
+/* ── i trailer della settimana ─────────────────────────────
+   Il modo più onesto di scoprire un film è vederne il trailer
+   prima che esca. Qui: i film sotto i riflettori (in arrivo, in
+   sala, di tendenza) che NON hai in libreria e che hanno
+   pubblicato un trailer negli ultimi dieci giorni. Con abbastanza
+   dati da poterli aggiungere alla libreria con un tocco, e una
+   riga che dice perché potrebbero piacerti — quando c'è un
+   legame vero con quello che hai visto.                        */
+const PAESI = { US:'USA', GB:'Regno Unito', IT:'Italia', FR:'Francia', DE:'Germania', ES:'Spagna', JP:'Giappone',
+  KR:'Corea del Sud', CA:'Canada', AU:'Australia', IE:'Irlanda', MX:'Messico', BR:'Brasile', IN:'India', CN:'Cina',
+  DK:'Danimarca', SE:'Svezia', NO:'Norvegia', FI:'Finlandia', NZ:'Nuova Zelanda', BE:'Belgio', NL:'Paesi Bassi', AT:'Austria', CH:'Svizzera', PL:'Polonia', AR:'Argentina' };
+
+async function trailerDellaSettimana(movies, lib, trend) {
+  if (!KEY) return [];
+  const inLib = new Set(movies.map(m => m.tmdbId).filter(Boolean));
+  const candidati = trend.filter(t => !inLib.has(t.id)).slice(0, 50);
+  const limite = Date.now() - 10 * 86400000;
+  const out = [];
+
+  await aLotti(candidati, 5, async t => {
+    const d = await tmdb(`/movie/${t.id}`, { append_to_response: 'videos,credits,release_dates', include_video_language: 'it,en,null' });
+    if (!d) return;
+    const video = (d.videos?.results || [])
+      .filter(v => v.site === 'YouTube' && ['Trailer', 'Teaser'].includes(v.type) && v.published_at && new Date(v.published_at).getTime() >= limite)
+      .sort((a, b) => (b.type === 'Trailer') - (a.type === 'Trailer') || (b.iso_639_1 === 'it') - (a.iso_639_1 === 'it') || new Date(b.published_at) - new Date(a.published_at))[0];
+    if (!video) return;
+
+    const regista = (d.credits?.crew || []).find(c => c.job === 'Director')?.name || null;
+    const cast = (d.credits?.cast || []).slice(0, 8);
+    const generi = (d.genres || []).map(g => g.name);
+    const it = (d.release_dates?.results || []).find(r => r.iso_3166_1 === 'IT');
+    // L'ultima data italiana in sala, non la prima: un classico che torna
+    // al cinema ha una data nuova, ed è quella che conta.
+    const uscitaIT = it?.release_dates?.filter(r => [2, 3].includes(r.type)).sort((a, b) => b.release_date.localeCompare(a.release_date))[0]?.release_date?.slice(0, 10) || null;
+    const uscita = uscitaIT || d.release_date || null;
+    // "In uscita" vuol dire adesso o presto: un film uscito a giugno con
+    // un trailer nuovo è il trailer dell'home video, non una scoperta.
+    if (uscita && new Date(uscita).getTime() < Date.now() - 21 * 86400000) return;
+
+    // Il perché: un legame vero o niente. "Sotto i riflettori" non è un motivo.
+    const motivi = [];
+    const nR = regista && lib.registiVisti.get(regista);
+    if (nR) motivi.push(`regia di ${regista}, di cui hai visto ${nR === 1 ? 'un film' : nR + ' film'}`);
+    const attore = cast.find(c => (lib.attoriVisti.get(c.name) || 0) >= 2);
+    if (attore) motivi.push(`c'è ${attore.name}, che hai visto ${lib.attoriVisti.get(attore.name)} volte`);
+    const tuoi = generi.filter(g => lib.generiTop.includes(g));
+    if (tuoi.length >= 2) motivi.push(`${tuoi.slice(0, 2).map(g => g.toLowerCase()).join(' e ')}: il tuo terreno`);
+    else if (tuoi.length === 1 && generi.length <= 2) motivi.push(`${tuoi[0].toLowerCase()}, il tuo terreno`);
+
+    out.push({
+      tmdbId: d.id, imdbId: d.imdb_id || null, title: d.title, originalTitle: d.original_title,
+      release: uscita, releaseFonte: uscitaIT ? 'IT' : 'globale',
+      genres: generi, countries: (d.production_countries || []).map(c => PAESI[c.iso_3166_1] || c.name).slice(0, 3),
+      runtime: d.runtime || null, plot: (d.overview || '').slice(0, 600), tagline: d.tagline || null,
+      poster: d.poster_path, backdrop: d.backdrop_path, director: regista,
+      cast: cast.slice(0, 5).map(c => c.name),
+      castDetail: cast.map(c => ({ name: c.name, character: c.character, profile: c.profile_path })),
+      tmdbRating: d.vote_average || null, tmdbVotes: d.vote_count || 0, popularity: d.popularity || 0,
+      trailer: `https://www.youtube.com/watch?v=${video.key}`, youtube: video.key,
+      trailerTipo: video.type, trailerLingua: video.iso_639_1, trailerPubblicato: video.published_at,
+      origine: t.origine, perche: motivi[0] || null, motivi
+    });
+  });
+
+  // Prima chi ha un motivo, poi per freschezza del trailer e popolarità.
+  return out
+    .sort((a, b) => (!!b.perche) - (!!a.perche) || new Date(b.trailerPubblicato) - new Date(a.trailerPubblicato) || b.popularity - a.popularity)
+    .slice(0, 10);
+}
+
 /* ═══════════════════════════════ main ═══════════════════ */
 const { tmdb: tmdbKey } = await chiavi();
 KEY = tmdbKey;
@@ -551,7 +672,8 @@ for (const a of articoli) {
   const soggettiOut = [...new Map(citati.map(c => [c.v.nome, c])).values()].slice(0, 5).map(c => ({
     nome: c.v.nome, tipo: c.v.tipo, inTitolo: c.inTitolo, inLibreria: !!c.v.inLibreria,
     lista: c.v.lista || null, filmId: c.v.filmId || null, tmdbId: c.v.tmdbId || null,
-    backdrop: c.v.backdrop || null, poster: c.v.poster || null, trend: !!c.v.trend, anno: c.v.anno || null
+    backdrop: c.v.backdrop || null, poster: c.v.poster || null, profilo: c.v.profilo || null,
+    trend: !!c.v.trend, anno: c.v.anno || null
   }));
 
   const eta = (Date.now() - new Date(a.data || Date.now()).getTime()) / 3600000;   // ore
@@ -572,6 +694,18 @@ for (const a of articoli) {
   });
 }
 for (const a of tenuti) a.sezione = gia.get(a.link)?.curato ? gia.get(a.link).sezione : sezioneDi(a);
+
+/* Chi è arrivato senza foto la va a cercare nella propria pagina.
+   Chi c'era già in archivio e non l'ha trovata nemmeno allora, non
+   la ritenta: era già stato chiesto. */
+const senzaFoto = tenuti.filter(a => !a.immagine && !a.fotoCercata).slice(0, 60);
+let trovate = 0;
+await aLotti(senzaFoto, 6, async a => {
+  const u = await ogImage(a.link);
+  a.fotoCercata = true;
+  if (u && !/\.svg(\?|$)|logo|placeholder|default/i.test(u)) { a.immagine = u; trovate++; }
+});
+if (senzaFoto.length) console.log(`Foto cercate nelle pagine: ${trovate}/${senzaFoto.length} trovate.`);
 
 /* Le notizie in archivio ancora fresche restano (un feed tiene poco). */
 const attive = new Set(fontiAttive.map(f => f.nome));
@@ -631,6 +765,19 @@ const prendi = (lista, n) => { const out = []; for (const x of ordinaPerRilievo(
 const apertura = prendi(uniche.filter(n => ore(n) <= 48 && n.immagine && n.sezione === 'notizia'), 1)[0]
               || prendi(uniche.filter(n => ore(n) <= 72 && n.immagine), 1)[0] || null;
 
+/* L'apertura va a tutto schermo: la sua foto deve reggere. In
+   ordine: la foto dell'articolo se è larga almeno mille pixel, la
+   og:image della pagina se lo è, il fondale TMDB del film (sempre
+   grande), e solo in ultimo la foto piccola. */
+if (apertura) {
+  const fondale = apertura.soggetti.find(x => x.backdrop)?.backdrop;
+  let scelta = null;
+  if (apertura.immagine && ((await larghezza(apertura.immagine)) || 0) >= 1000) scelta = apertura.immagine;
+  if (!scelta) { const og = await ogImage(apertura.link); if (og && og !== apertura.immagine && ((await larghezza(og)) || 0) >= 1000) scelta = og; }
+  if (!scelta && fondale) scelta = `https://image.tmdb.org/t/p/w1280${fondale}`;
+  apertura.immagineGrande = scelta || apertura.immagine || null;
+}
+
 // Ultime ore: le più fresche, in ordine di arrivo.
 const ultime = [...uniche].filter(n => ore(n) <= 36 && !usati.has(n.link) && n.sezione === 'notizia')
   .sort((a, b) => eta(b) - eta(a)).slice(0, 8);
@@ -668,6 +815,7 @@ const passato         = prendi(uniche.filter(n => n.sezione === 'passato'), 4);
 const altre           = prendi(uniche.filter(n => ore(n) <= 5 * 24), 10);
 
 const anniversari = await accaddeOggi(movies, lib);
+const trailerSettimana = await trailerDellaSettimana(movies, lib, trend);
 
 /* ── segnalazioni di prevendita (le legge novita.js) ──── */
 const senzaPrevendita = new Map(
@@ -692,7 +840,8 @@ const notizieOut = uniche
     link: n.link, titolo: n.titolo, sommario: n.sommario, fonte: n.fonte, lingua: n.lingua, data: n.data,
     immagine: n.immagine, categorie: n.categorie, soggetti: n.soggetti, soggetto: n.soggetto, soggettoTipo: n.soggettoTipo,
     sezione: n.sezione, inLibreria: n.inLibreria, radar: n.radar, prevendite: n.prevendite, rilievo: n.rilievo,
-    riprese: n.riprese || 0, vistoIl: n.vistoIl, it: n.it, curato: n.curato
+    riprese: n.riprese || 0, vistoIl: n.vistoIl, it: n.it, curato: n.curato,
+    immagineGrande: n.immagineGrande || null, fotoCercata: !!n.fotoCercata
   }));
 
 await writeFile(join(ROOT, 'data', 'notizie.json'), JSON.stringify({
@@ -710,6 +859,7 @@ await writeFile(join(ROOT, 'data', 'notizie.json'), JSON.stringify({
   passato: passato.map(n => n.link),
   altre: altre.map(n => n.link),
   accaddeOggi: anniversari,
+  trailer: trailerSettimana,
   notizie: notizieOut
 }, null, 2) + '\n');
 
@@ -721,7 +871,8 @@ if (Object.keys(potata).length !== Object.keys(curatela).length)
   await writeFile(join(ROOT, 'data', 'curatela.json'), JSON.stringify(potata, null, 2) + '\n');
 
 console.log(`\n✅ data/notizie.json — ${uniche.length} notizie su ${articoli.length} articoli letti da ${fontiAttive.length} testate.`);
-console.log(`   apertura ${apertura ? '✓' : '—'} · ultime ${ultime.length} · temi ${temi.length} · radar ${radar.length} · libreria ${libreriaVoci.length} · approfondimenti ${approfondimenti.length} · curiosità ${curiosita.length} · passato ${passato.length} · accadde oggi ${anniversari.length}`);
+console.log(`   apertura ${apertura ? '✓' : '—'} · ultime ${ultime.length} · temi ${temi.length} · radar ${radar.length} · libreria ${libreriaVoci.length} · approfondimenti ${approfondimenti.length} · curiosità ${curiosita.length} · passato ${passato.length} · accadde oggi ${anniversari.length} · trailer ${trailerSettimana.length}`);
+trailerSettimana.slice(0, 5).forEach(t => console.log(`   trailer: ${t.title} (${t.release || '—'})${t.perche ? ' → ' + t.perche : ''}`));
 if (apertura) console.log(`\n★ Apertura: [${apertura.fonte}] ${(apertura.it?.titolo || apertura.titolo).slice(0, 90)}`);
 temi.slice(0, 5).forEach(t => console.log(`   se ne parla: ${t.soggetto} — ${t.quante} articoli, ${t.testate} testate${t.inLibreria ? ' · in libreria' : ''}`));
 radar.slice(0, 4).forEach(n => console.log(`   radar: ${(n.it?.titolo || n.titolo).slice(0, 60)} → ${n.radar}`));

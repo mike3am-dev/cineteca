@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-06T10:42:52.414Z",
+  "aggiornato": "2026-09-06T11:03:27.501Z",
   "curatela": false,
   "fonti": [
     "BadTaste",
@@ -18,35 +18,18 @@
     "The Guardian"
   ],
   "segnalazioniPrevendita": [],
-  "apertura": "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
+  "apertura": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
   "ultime": [
     "https://www.badtaste.it/articoli/benedetta-porcaroli-e-riccardo-scamarcio-insieme-a-venezia-83-il-loro-arrivo-al-lido-non-passa-inosservato",
     "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/the-echo-chamber-luca-marinelli-alicia-vikander-venezia-83-719570",
     "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-succedera-questa-notte-red-carpet-nanni-moretti-trinca-garrel-foto-720355",
-    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
     "https://www.badtaste.it/articoli/chi-e-davvero-chris-hansen-la-controversa-storia-del-giornalista-interpretato-da-robert-pattinson-in-primetime",
     "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
     "https://www.badtaste.it/articoli/florence-pugh-e-the-rock-in-questo-commovente-film-su-netflix-sulla-vera-storia-di-una-campionessa-wwe",
-    "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive"
+    "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive",
+    "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/"
   ],
   "temi": [
-    {
-      "soggetto": "Oasis: Don't Look Back in Anger",
-      "tipo": "film",
-      "inLibreria": false,
-      "lista": null,
-      "filmId": null,
-      "tmdbId": 1447853,
-      "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-      "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
-      "anno": "2026",
-      "quante": 3,
-      "testate": 3,
-      "link": [
-        "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
-        "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/"
-      ]
-    },
     {
       "soggetto": "Robert Pattinson",
       "tipo": "attore",
@@ -60,7 +43,24 @@
       "quante": 4,
       "testate": 2,
       "link": [
+        "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
         "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore"
+      ]
+    },
+    {
+      "soggetto": "Oasis: Don't Look Back in Anger",
+      "tipo": "film",
+      "inLibreria": false,
+      "lista": null,
+      "filmId": null,
+      "tmdbId": 1447853,
+      "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+      "anno": "2026",
+      "quante": 2,
+      "testate": 2,
+      "link": [
+        "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/"
       ]
     }
   ],
@@ -88,14 +88,14 @@
   "altre": [
     "https://www.screenweek.it/venezia-83-i-video-del-secondo-giorno-con-alessandro-borghi-e-kendall-jenner/",
     "https://www.screenweek.it/venezia-83-i-video-del-primo-giorno-con-il-clooney-e-il-red-carpet-di-ink/",
-    "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/",
     "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
     "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
     "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
     "https://www.screenweek.it/venezia-83-i-video-del-terzo-giorno-con-geoffrey-rush-e-il-cast-de-la-citta-dei-vivi/",
     "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
     "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
-    "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/"
+    "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/",
+    "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/"
   ],
   "accaddeOggi": [
     {
@@ -229,65 +229,815 @@
       "perche": "dramma, il tuo terreno"
     }
   ],
-  "notizie": [
+  "trailer": [
     {
-      "link": "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
-      "titolo": "Venice Film Festival 2026 Photos Day 4: ‘Primetime’ & ‘ Oasis: Don’t Look Back in Anger’ Premieres",
-      "sommario": "The 83rd Venice Film Festival enters its fourth day, having already delivered starry receptions for the opening-night premiere of Danny Boyle’s Ink, the Thursday premiere of Werner Herzog’s Bucking Fastard, and Paul Schrader’s The Basics of Philosophy on Friday. Today’s program is led by the world premiere of Lance Opp",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-05T19:30:29.000Z",
-      "immagine": "https://deadline.com/wp-content/uploads/2026/09/Robert-Pattinson-and-Oasis.jpg",
-      "categorie": [
-        "Festivals",
-        "Gallery",
-        "Venice",
-        "Venice Film Festival"
+      "tmdbId": 1101412,
+      "imdbId": "tt31192372",
+      "title": "Fall 2: Deadpoint",
+      "originalTitle": "Fall 2: Deadpoint",
+      "release": "2026-09-01",
+      "releaseFonte": "globale",
+      "genres": [
+        "Thriller"
       ],
-      "soggetti": [
+      "countries": [
+        "Regno Unito",
+        "USA"
+      ],
+      "runtime": 98,
+      "plot": "",
+      "tagline": null,
+      "poster": "/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
+      "backdrop": "/aBtS3yCWReAen3OefxBXedbArFI.jpg",
+      "director": "Michael Spierig",
+      "cast": [
+        "Harriet Slater",
+        "Arsema Thomas",
+        "Tom Brittney",
+        "Virginia Gardner",
+        "Sahajak Boonthanakit"
+      ],
+      "castDetail": [
         {
-          "nome": "Danny Boyle",
-          "tipo": "regista",
-          "inTitolo": false,
-          "inLibreria": false,
-          "lista": null,
-          "filmId": null,
-          "tmdbId": null,
-          "backdrop": null,
-          "poster": null,
-          "trend": false,
-          "anno": null
+          "name": "Harriet Slater",
+          "character": "Jax Hunter",
+          "profile": "/9BJxdhi4tuiQdgT8bfDuiPipnsx.jpg"
         },
         {
-          "nome": "Oasis: Don't Look Back in Anger",
-          "tipo": "film",
-          "inTitolo": true,
-          "inLibreria": false,
-          "lista": null,
-          "filmId": null,
-          "tmdbId": 1447853,
-          "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-          "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
-          "trend": true,
-          "anno": "2026"
+          "name": "Arsema Thomas",
+          "character": "Luce",
+          "profile": "/lvzhZIbkWIVLSRHsOICs9o37g2I.jpg"
+        },
+        {
+          "name": "Tom Brittney",
+          "character": "Jon Platt",
+          "profile": "/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
+        },
+        {
+          "name": "Virginia Gardner",
+          "character": "Shiloh Hunter",
+          "profile": "/1DnNysK267b0te48KCkUlTKoTzj.jpg"
+        },
+        {
+          "name": "Sahajak Boonthanakit",
+          "character": "Thai Barman",
+          "profile": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
+        },
+        {
+          "name": "Korakod Yensuk",
+          "character": "Large Woman",
+          "profile": null
+        },
+        {
+          "name": "Jordan Coleman",
+          "character": "Luce",
+          "profile": "/57FrMe016RyMHm8WDL2mK7P0bmS.jpg"
+        },
+        {
+          "name": "Maryna Bennett",
+          "character": "Female Teenager",
+          "profile": "/alqr0Hx7kgLZ38QvwdQKFIA8Y8l.jpg"
         }
       ],
-      "soggetto": "Oasis: Don't Look Back in Anger",
-      "soggettoTipo": "film",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": "regia di Danny Boyle, di cui hai visto un film",
-      "prevendite": false,
-      "rilievo": 13.6,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:42:47.277Z",
-      "it": {
-        "titolo": "PROVA titolo tradotto",
-        "sommario": "Prova sommario.",
-        "perche": "Prova perché."
-      },
-      "curato": true
+      "tmdbRating": 6.5,
+      "tmdbVotes": 14,
+      "popularity": 89.787,
+      "trailer": "https://www.youtube.com/watch?v=subzjlylMgc",
+      "youtube": "subzjlylMgc",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-09-02T17:00:01.000Z",
+      "origine": "trending",
+      "perche": "thriller, il tuo terreno",
+      "motivi": [
+        "thriller, il tuo terreno"
+      ]
     },
+    {
+      "tmdbId": 1263337,
+      "imdbId": "tt7526136",
+      "title": "Heart of the Beast - Nel profondo selvaggio",
+      "originalTitle": "Heart of the Beast",
+      "release": "2026-09-24",
+      "releaseFonte": "IT",
+      "genres": [
+        "Avventura",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 95,
+      "plot": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+      "tagline": null,
+      "poster": "/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+      "backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "director": "David Ayer",
+      "cast": [
+        "Brad Pitt",
+        "J.K. Simmons",
+        "Anna Lambe"
+      ],
+      "castDetail": [
+        {
+          "name": "Brad Pitt",
+          "character": "James Belmont",
+          "profile": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "J.K. Simmons",
+          "character": "",
+          "profile": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+          "name": "Anna Lambe",
+          "character": "",
+          "profile": "/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+        }
+      ],
+      "tmdbRating": null,
+      "tmdbVotes": 0,
+      "popularity": 19.9406,
+      "trailer": "https://www.youtube.com/watch?v=h2jxPHX3QlE",
+      "youtube": "h2jxPHX3QlE",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-08-31T13:31:33.000Z",
+      "origine": "in arrivo",
+      "perche": "avventura e thriller: il tuo terreno",
+      "motivi": [
+        "avventura e thriller: il tuo terreno"
+      ]
+    },
+    {
+      "tmdbId": 280,
+      "imdbId": "tt0103064",
+      "title": "Terminator 2 - Il giorno del giudizio",
+      "originalTitle": "Terminator 2: Judgment Day",
+      "release": "2026-08-28",
+      "releaseFonte": "IT",
+      "genres": [
+        "Azione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "countries": [
+        "Francia",
+        "USA"
+      ],
+      "runtime": 137,
+      "plot": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+      "tagline": "Non è niente di personale.",
+      "poster": "/orzgtkWWEHlSMcFm1p74ZvGqdz0.jpg",
+      "backdrop": "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "director": "James Cameron",
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong",
+        "Robert Patrick",
+        "Earl Boen"
+      ],
+      "castDetail": [
+        {
+          "name": "Arnold Schwarzenegger",
+          "character": "The Terminator",
+          "profile": "/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+        },
+        {
+          "name": "Linda Hamilton",
+          "character": "Sarah Connor",
+          "profile": "/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+        },
+        {
+          "name": "Edward Furlong",
+          "character": "John Connor",
+          "profile": "/e221dMIBgb6Lk092GIkHB9ohQF1.jpg"
+        },
+        {
+          "name": "Robert Patrick",
+          "character": "T-1000",
+          "profile": "/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+        },
+        {
+          "name": "Earl Boen",
+          "character": "Dr. Silberman",
+          "profile": "/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+        },
+        {
+          "name": "Joe Morton",
+          "character": "Miles Dyson",
+          "profile": "/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+        },
+        {
+          "name": "S. Epatha Merkerson",
+          "character": "Tarissa Dyson",
+          "profile": "/pXCmHxrWzlv1kPZSxJXFM45QgOP.jpg"
+        },
+        {
+          "name": "Castulo Guerra",
+          "character": "Enrique Salceda",
+          "profile": "/nYZihE7w1baKehLmDQb0eKEqYqF.jpg"
+        }
+      ],
+      "tmdbRating": 8.168,
+      "tmdbVotes": 14781,
+      "popularity": 38.0369,
+      "trailer": "https://www.youtube.com/watch?v=6pGbqdqnKXY",
+      "youtube": "6pGbqdqnKXY",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-08-29T13:00:19.000Z",
+      "origine": "in sala",
+      "perche": "regia di James Cameron, di cui hai visto 2 film",
+      "motivi": [
+        "regia di James Cameron, di cui hai visto 2 film",
+        "thriller e fantascienza: il tuo terreno"
+      ]
+    },
+    {
+      "tmdbId": 1375441,
+      "imdbId": "tt34206385",
+      "title": "Primetime",
+      "originalTitle": "Primetime",
+      "release": "2026-10-15",
+      "releaseFonte": "IT",
+      "genres": [
+        "Crime",
+        "Dramma",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 110,
+      "plot": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+      "tagline": "Siete pronti ad entrare nella storia della televisione?",
+      "poster": "/26bvp0aL7QZlx7k5RGdkiEuZPpW.jpg",
+      "backdrop": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "director": "Lance Oppenheim",
+      "cast": [
+        "Robert Pattinson",
+        "Merritt Wever",
+        "Skyler Gisondo",
+        "Phoebe Bridgers",
+        "Matthew Maher"
+      ],
+      "castDetail": [
+        {
+          "name": "Robert Pattinson",
+          "character": "Chris Hansen",
+          "profile": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "name": "Merritt Wever",
+          "character": "Andie Bender",
+          "profile": "/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+        },
+        {
+          "name": "Skyler Gisondo",
+          "character": "Dan Plumb",
+          "profile": "/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "character": "Del Harvey",
+          "profile": "/9dbTNTH0fBYE1aDAHdhwDSPureF.jpg"
+        },
+        {
+          "name": "Matthew Maher",
+          "character": "Xavier Von Erck",
+          "profile": "/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+        },
+        {
+          "name": "Bokeem Woodbine",
+          "character": "Cortland Gunn",
+          "profile": "/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+        },
+        {
+          "name": "Anna Faris",
+          "character": "Mary Joan Hansen",
+          "profile": "/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+        },
+        {
+          "name": "Eric Rahill",
+          "character": "",
+          "profile": "/zJGmDvV5avrr9cta8wkdkU7irRu.jpg"
+        }
+      ],
+      "tmdbRating": null,
+      "tmdbVotes": 0,
+      "popularity": 14.4616,
+      "trailer": "https://www.youtube.com/watch?v=4Se_PHeL12U",
+      "youtube": "4Se_PHeL12U",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "it",
+      "trailerPubblicato": "2026-08-28T09:13:27.000Z",
+      "origine": "in arrivo",
+      "perche": "c'è Robert Pattinson, che hai visto 2 volte",
+      "motivi": [
+        "c'è Robert Pattinson, che hai visto 2 volte",
+        "dramma e thriller: il tuo terreno"
+      ]
+    },
+    {
+      "tmdbId": 1302904,
+      "imdbId": "tt32588798",
+      "title": "Amori & incantesimi 2",
+      "originalTitle": "Practical Magic 2",
+      "release": "2026-09-10",
+      "releaseFonte": "IT",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Commedia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 130,
+      "plot": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
+      "tagline": null,
+      "poster": "/7jCV8dkRFK3DGJ4dTqlvrMTFPwZ.jpg",
+      "backdrop": "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+      "director": "Susanne Bier",
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña"
+      ],
+      "castDetail": [
+        {
+          "name": "Sandra Bullock",
+          "character": "Sally Owens",
+          "profile": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+        },
+        {
+          "name": "Nicole Kidman",
+          "character": "Gillian Owens",
+          "profile": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+        },
+        {
+          "name": "Joey King",
+          "character": "Kylie Owens",
+          "profile": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+        },
+        {
+          "name": "Maisie Williams",
+          "character": "Antonia Owens",
+          "profile": "/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+        },
+        {
+          "name": "Xolo Maridueña",
+          "character": "Gideon",
+          "profile": "/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+        },
+        {
+          "name": "Lee Pace",
+          "character": "Ian Wright",
+          "profile": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+        },
+        {
+          "name": "Dianne Wiest",
+          "character": "Aunt Jet",
+          "profile": "/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+        },
+        {
+          "name": "Stockard Channing",
+          "character": "Aunt Frances",
+          "profile": "/qAYBGvapAnnhpoZuYFyoqetncs5.jpg"
+        }
+      ],
+      "tmdbRating": 6.3,
+      "tmdbVotes": 6,
+      "popularity": 22.9992,
+      "trailer": "https://www.youtube.com/watch?v=1tVwec-A_XI",
+      "youtube": "1tVwec-A_XI",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-09-05T20:00:02.000Z",
+      "origine": "in arrivo",
+      "perche": null,
+      "motivi": []
+    },
+    {
+      "tmdbId": 1433367,
+      "imdbId": "tt37853455",
+      "title": "One Night Only - Quando tutto è possibile",
+      "originalTitle": "One Night Only",
+      "release": "2026-08-27",
+      "releaseFonte": "IT",
+      "genres": [
+        "Commedia",
+        "Romance"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 102,
+      "plot": "Allie e Owen, due sconosciuti affamati d'amore si incontrano in una New York leggermente romanzata nell'unica notte dell'anno in cui ai single è permesso fare sesso. Owen, appena lasciato, e Allie, romantica e piena di speranze, potrebbero essere gli unici due single in città alla ricerca di qualcosa di più di un semplice incontro occasionale. Entrambi sentono una scintilla quando si incontrano, ma una serie di passi falsi e di vicissitudini complicano la loro serata, tenendoli separati. Mentre corrono l’uno verso l’altra e poi si allontanano attraverso la città, potrebbero scoprire che l’unic",
+      "tagline": "In 12 ore può cambiare tutto",
+      "poster": "/gSWPoxU6e0C4tAQNq5a5zjNGmuN.jpg",
+      "backdrop": "/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+      "director": "Will Gluck",
+      "cast": [
+        "Monica Barbaro",
+        "Callum Turner",
+        "Maya Hawke",
+        "King Princess",
+        "Molly Ringwald"
+      ],
+      "castDetail": [
+        {
+          "name": "Monica Barbaro",
+          "character": "Allie",
+          "profile": "/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+        },
+        {
+          "name": "Callum Turner",
+          "character": "Owen",
+          "profile": "/1QqpyYbX6zyyrtlKAJLbKM4B4k9.jpg"
+        },
+        {
+          "name": "Maya Hawke",
+          "character": "Malika",
+          "profile": "/r4xI4vhPdkrrGBQrqW4cHf0sTqV.jpg"
+        },
+        {
+          "name": "King Princess",
+          "character": "Jacinta",
+          "profile": "/hQFDqQj5fmprYGOsKZMVRLCPJFd.jpg"
+        },
+        {
+          "name": "Molly Ringwald",
+          "character": "Linda",
+          "profile": "/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
+        },
+        {
+          "name": "LeVar Burton",
+          "character": "Rick",
+          "profile": "/tC74tISKpFGmJkrw24MMLix5nNa.jpg"
+        },
+        {
+          "name": "Charlie Gillespie",
+          "character": "Ezra Stone",
+          "profile": "/wFNpaCIveZ5DXCCJhproXWdKlEi.jpg"
+        },
+        {
+          "name": "Quintessa Swindell",
+          "character": "Arya",
+          "profile": "/3rWuQThPernDgpluR1Q8xDgg3Tu.jpg"
+        }
+      ],
+      "tmdbRating": 7.015,
+      "tmdbVotes": 66,
+      "popularity": 26.9277,
+      "trailer": "https://www.youtube.com/watch?v=JqHhe74RQ9Y",
+      "youtube": "JqHhe74RQ9Y",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-09-05T13:05:22.000Z",
+      "origine": "in sala",
+      "perche": null,
+      "motivi": []
+    },
+    {
+      "tmdbId": 1542877,
+      "imdbId": "tt38649153",
+      "title": "Assassination Classroom – L’Ora di Tutti Noi",
+      "originalTitle": "劇場版「暗殺教室」みんなの時間",
+      "release": "2026-09-14",
+      "releaseFonte": "IT",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Azione",
+        "Fantascienza"
+      ],
+      "countries": [
+        "Giappone"
+      ],
+      "runtime": 87,
+      "plot": "Il film raccoglie episodi mai animati nella serie TV originale a causa dei limiti temporali e non si tratta solo di un omaggio per il decimo anniversario, ma anche di una continuazione diretta della storia principale.",
+      "tagline": null,
+      "poster": "/nrz9YSLdmmnAKrpdFNmZO2IsIwG.jpg",
+      "backdrop": "/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg",
+      "director": "北村真咲",
+      "cast": [
+        "Jun Fukuyama",
+        "Tomokazu Sugita",
+        "Shizuka Itō",
+        "渕上舞",
+        "Nobuhiko Okamoto"
+      ],
+      "castDetail": [
+        {
+          "name": "Jun Fukuyama",
+          "character": "Koro-sensei (voice)",
+          "profile": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg"
+        },
+        {
+          "name": "Tomokazu Sugita",
+          "character": "Tadaomi Karasuma (voice)",
+          "profile": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+        },
+        {
+          "name": "Shizuka Itō",
+          "character": "Irina Jelavic (voice)",
+          "profile": "/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg"
+        },
+        {
+          "name": "渕上舞",
+          "character": "Nagisa Shiota / Hotaru (voice)",
+          "profile": "/rWYdSVyjdyKoWj9SbJRTMJmYgbJ.jpg"
+        },
+        {
+          "name": "Nobuhiko Okamoto",
+          "character": "Karma Akabane (voice)",
+          "profile": "/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+        },
+        {
+          "name": "Aya Suzaki",
+          "character": "Kaede Kayano (voice)",
+          "profile": "/sApBzyEHk0hvpH1IIxYwfi4GS9p.jpg"
+        },
+        {
+          "name": "諏訪彩花",
+          "character": "Touka Yada (voice)",
+          "profile": "/pLd8VPfRp50Q744sT492FCn2k6f.jpg"
+        },
+        {
+          "name": "松浦チエ",
+          "character": "Megu Kataoka (voice)",
+          "profile": "/tJd7rfxEBZhx8daeY758GTrDGwd.jpg"
+        }
+      ],
+      "tmdbRating": 7.1,
+      "tmdbVotes": 11,
+      "popularity": 14.723,
+      "trailer": "https://www.youtube.com/watch?v=kqUphIlb30I",
+      "youtube": "kqUphIlb30I",
+      "trailerTipo": "Trailer",
+      "trailerLingua": "it",
+      "trailerPubblicato": "2026-09-04T13:18:43.000Z",
+      "origine": "in arrivo",
+      "perche": null,
+      "motivi": []
+    },
+    {
+      "tmdbId": 1465063,
+      "imdbId": "tt36583977",
+      "title": "L'isola dei ricordi",
+      "originalTitle": "Forgotten Island",
+      "release": "2026-09-24",
+      "releaseFonte": "IT",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Fantasy",
+        "Commedia",
+        "Famiglia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 109,
+      "plot": "Jo e Raissa, amiche fin dall’infanzia,  dopo essersi diplomate sono ormai pronte a intraprendere strade diverse nella vita. Durante la loro ultima notte insieme, le due ragazze si imbattono in un misterioso portale che le trasporta sull’isola fantastica di Nakali, un luogo popolato da creature magiche e mitologiche di cui hanno sempre sentito parlare nelle storie delle loro famiglie filippine. Alcune di queste creature diventeranno alleate, altre nemiche. Insieme a Raww, un licantropo-cane benintenzionato ma un po’ pasticcione, e a un piccolo ma agguerrito gruppo di nuovi compagni, Jo e Raissa",
+      "tagline": null,
+      "poster": "/p8YpBFMmccQQoeQie9XKv6loDSa.jpg",
+      "backdrop": "/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
+      "director": "Januel Mercado",
+      "cast": [
+        "H.E.R.",
+        "Liza Soberano",
+        "Dave Franco",
+        "Lea Salonga",
+        "Manny Jacinto"
+      ],
+      "castDetail": [
+        {
+          "name": "H.E.R.",
+          "character": "Jo (voice)",
+          "profile": "/tfDpIZQc19f39Y8SbZfiUIJYm9X.jpg"
+        },
+        {
+          "name": "Liza Soberano",
+          "character": "Raissa (voice)",
+          "profile": "/9Fh1ZopF5u3mABNlGrQkXN6MPEr.jpg"
+        },
+        {
+          "name": "Dave Franco",
+          "character": "Raww (voice)",
+          "profile": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+        },
+        {
+          "name": "Lea Salonga",
+          "character": "Manang (voice)",
+          "profile": "/nK9DqbXGPVnaET6I6u0IHL89DjP.jpg"
+        },
+        {
+          "name": "Manny Jacinto",
+          "character": "Bungi (voice)",
+          "profile": "/cjkZzaVR5StB4fqnl58NAOSsH0o.jpg"
+        },
+        {
+          "name": "Jenny Slate",
+          "character": "Batiba (voice)",
+          "profile": "/iNpXig5Djkh5moYG4TCekIATs5B.jpg"
+        },
+        {
+          "name": "Dolly de Leon",
+          "character": "Lola Fatima (voice)",
+          "profile": "/mNskbR6hayRY3DjTcECqIJ7eQsO.jpg"
+        },
+        {
+          "name": "Jo Koy",
+          "character": "Datu (voice)",
+          "profile": "/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg"
+        }
+      ],
+      "tmdbRating": null,
+      "tmdbVotes": 0,
+      "popularity": 15.8466,
+      "trailer": "https://www.youtube.com/watch?v=4nOsPFIlQvk",
+      "youtube": "4nOsPFIlQvk",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-09-03T16:05:41.000Z",
+      "origine": "in arrivo",
+      "perche": null,
+      "motivi": []
+    },
+    {
+      "tmdbId": 1108427,
+      "imdbId": "tt27419466",
+      "title": "Oceania",
+      "originalTitle": "Moana",
+      "release": "2026-08-19",
+      "releaseFonte": "IT",
+      "genres": [
+        "Famiglia",
+        "Fantasy",
+        "Commedia",
+        "Avventura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 115,
+      "plot": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
+      "tagline": null,
+      "poster": "/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg",
+      "backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "director": "Thomas Kail",
+      "cast": [
+        "Catherine Lagaʻaia",
+        "Dwayne Johnson",
+        "Rena Owen",
+        "John Tui",
+        "Frankie Adams"
+      ],
+      "castDetail": [
+        {
+          "name": "Catherine Lagaʻaia",
+          "character": "Moana",
+          "profile": "/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg"
+        },
+        {
+          "name": "Dwayne Johnson",
+          "character": "Maui",
+          "profile": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        },
+        {
+          "name": "Rena Owen",
+          "character": "Gramma Tala",
+          "profile": "/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+        },
+        {
+          "name": "John Tui",
+          "character": "Chief Tui",
+          "profile": "/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+        },
+        {
+          "name": "Frankie Adams",
+          "character": "Sina",
+          "profile": "/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+        },
+        {
+          "name": "Jemaine Clement",
+          "character": "Tamatoa (voice)",
+          "profile": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+        },
+        {
+          "name": "Emma Puahi-Shapazian",
+          "character": "Moana (4 years old)",
+          "profile": null
+        },
+        {
+          "name": "Amaya Masoli",
+          "character": "Moana (8 years old)",
+          "profile": null
+        }
+      ],
+      "tmdbRating": 6.2,
+      "tmdbVotes": 260,
+      "popularity": 153.1536,
+      "trailer": "https://www.youtube.com/watch?v=ib8ZqtBg0qU",
+      "youtube": "ib8ZqtBg0qU",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-09-01T14:00:10.000Z",
+      "origine": "in sala",
+      "perche": null,
+      "motivi": []
+    },
+    {
+      "tmdbId": 1377237,
+      "imdbId": "tt31349844",
+      "title": "Runner",
+      "originalTitle": "Runner",
+      "release": "2026-09-10",
+      "releaseFonte": "globale",
+      "genres": [
+        "Azione",
+        "Commedia",
+        "Thriller"
+      ],
+      "countries": [
+        "USA",
+        "Australia"
+      ],
+      "runtime": 97,
+      "plot": "",
+      "tagline": null,
+      "poster": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop": "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "director": "Scott Waugh",
+      "cast": [
+        "Alan Ritchson",
+        "Owen Wilson",
+        "Rodrigo Santoro",
+        "Leila George",
+        "Adriana Barraza"
+      ],
+      "castDetail": [
+        {
+          "name": "Alan Ritchson",
+          "character": "Hank Malone",
+          "profile": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+        },
+        {
+          "name": "Owen Wilson",
+          "character": "Ben",
+          "profile": "/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+        },
+        {
+          "name": "Rodrigo Santoro",
+          "character": "Damian",
+          "profile": "/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+        },
+        {
+          "name": "Leila George",
+          "character": "Kate",
+          "profile": "/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg"
+        },
+        {
+          "name": "Adriana Barraza",
+          "character": "Donna",
+          "profile": "/kfww4YbO9J2HpCldEqyyhQugwy5.jpg"
+        },
+        {
+          "name": "Peta Sergeant",
+          "character": "Julie",
+          "profile": "/owkSN29t7P6hpazZKsUMt7FybrP.jpg"
+        },
+        {
+          "name": "Scarlett Crabtree",
+          "character": "Ellie Baker",
+          "profile": "/3377x3ADVhE5kuPV7JpCByqvF5r.jpg"
+        },
+        {
+          "name": "Geraldine Hakewill",
+          "character": "Monica",
+          "profile": "/cMzkT78ZH4qluKg2VumKkF3eTia.jpg"
+        }
+      ],
+      "tmdbRating": null,
+      "tmdbVotes": 0,
+      "popularity": 27.8176,
+      "trailer": "https://www.youtube.com/watch?v=2skVB3s5u5s",
+      "youtube": "2skVB3s5u5s",
+      "trailerTipo": "Teaser",
+      "trailerLingua": "en",
+      "trailerPubblicato": "2026-08-27T22:00:07.000Z",
+      "origine": "in arrivo",
+      "perche": null,
+      "motivi": []
+    }
+  ],
+  "notizie": [
     {
       "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
       "titolo": "Venezia 83, red carpet: Robert Pattinson porta il glamour nel Concorso",
@@ -310,6 +1060,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": null,
           "trend": false,
           "anno": null
         }
@@ -324,7 +1075,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:42:50.843Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": "https://cinefilos.it/wp-content/uploads/2026/09/Robert-Pattinson-4.webp",
+      "fotoCercata": false
     },
     {
       "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
@@ -348,6 +1101,7 @@
           "tmdbId": 1447853,
           "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
           "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         }
@@ -362,7 +1116,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.632Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore",
@@ -384,6 +1140,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": null,
           "trend": false,
           "anno": null
         }
@@ -398,7 +1155,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.657Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive",
@@ -420,6 +1179,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": null,
           "trend": false,
           "anno": null
         }
@@ -434,7 +1194,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.661Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/the-runner-cosa-significa-davvero-il-finale-il-piano-segreto-di-maia-viene-svelato-solo-negli-ultimi-minuti",
@@ -456,6 +1218,7 @@
           "tmdbId": 1386315,
           "backdrop": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
           "poster": "/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         }
@@ -466,11 +1229,13 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 8.8,
+      "rilievo": 8.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:25:12.149Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/chi-e-davvero-chris-hansen-la-controversa-storia-del-giornalista-interpretato-da-robert-pattinson-in-primetime",
@@ -492,6 +1257,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": null,
           "trend": false,
           "anno": null
         }
@@ -506,7 +1272,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.656Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.screenweek.it/ink-il-trailer-del-nuovo-film-di-danny-boyle-con-guy-pearce/",
@@ -515,7 +1283,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-09-02T17:17:55.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/LE1L4Huyys.jpg",
       "categorie": [
         "Trailer & Video"
       ],
@@ -530,6 +1298,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": null,
           "trend": false,
           "anno": null
         }
@@ -544,7 +1313,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.540Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.screenweek.it/maigret-lamore-e-la-morte-il-trailer-del-film-con-podalydes/",
@@ -553,7 +1324,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-08-28T16:40:54.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/08/QYRSE2j6dRA.jpg",
       "categorie": [
         "Trailer & Video"
       ],
@@ -568,6 +1339,7 @@
           "tmdbId": 1398486,
           "backdrop": "/g4dglmohwnvl1yCYObZjmxZY9Do.jpg",
           "poster": "/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         }
@@ -582,7 +1354,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.544Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.screenweek.it/assassination-classroom-lora-di-tutti-noi-trailer-ufficiale/",
@@ -591,7 +1365,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-08-28T16:36:05.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/08/nyyjDBbX3R0.jpg",
       "categorie": [
         "Trailer & Video"
       ],
@@ -606,6 +1380,7 @@
           "tmdbId": 1542877,
           "backdrop": "/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg",
           "poster": "/nrz9YSLdmmnAKrpdFNmZO2IsIwG.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         }
@@ -620,7 +1395,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.545Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/",
@@ -629,7 +1406,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-09-06T08:37:35.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/skMFC7_Oasis-Dont-Look-Back-In-Anger.jpg",
       "categorie": [
         "Cinema",
         "Recensioni"
@@ -645,6 +1422,7 @@
           "tmdbId": 1447853,
           "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
           "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         }
@@ -659,7 +1437,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:29.954Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.badtaste.it/articoli/benedetta-porcaroli-e-riccardo-scamarcio-insieme-a-venezia-83-il-loro-arrivo-al-lido-non-passa-inosservato",
@@ -681,7 +1461,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.504Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/the-echo-chamber-luca-marinelli-alicia-vikander-venezia-83-719570",
@@ -705,7 +1487,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.430Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-succedera-questa-notte-red-carpet-nanni-moretti-trinca-garrel-foto-720355",
@@ -729,7 +1513,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.431Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.screenweek.it/venezia-83-i-video-del-secondo-giorno-con-alessandro-borghi-e-kendall-jenner/",
@@ -738,7 +1524,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-09-04T13:40:02.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/QnyasJ_venezia-83-giorno-due.jpg",
       "categorie": [
         "Cinema"
       ],
@@ -753,6 +1539,7 @@
           "tmdbId": 1594043,
           "backdrop": "/w3YeU3KFyRgqbL55XIbbhTGnfsd.jpg",
           "poster": "/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         }
@@ -767,7 +1554,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.376Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.screenweek.it/venezia-83-i-video-del-primo-giorno-con-il-clooney-e-il-red-carpet-di-ink/",
@@ -776,7 +1565,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-09-03T11:24:44.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/FE3KCf_venezia-83-giorno-uno.jpg",
       "categorie": [
         "Cinema",
         "Trailer & Video"
@@ -792,6 +1581,7 @@
           "tmdbId": 1594043,
           "backdrop": "/w3YeU3KFyRgqbL55XIbbhTGnfsd.jpg",
           "poster": "/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         }
@@ -806,7 +1596,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.377Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.badtaste.it/articoli/john-malkovich-si-ritira-dalla-recitazione-la-risposta-dellattore-a-venezia-2026",
@@ -828,7 +1620,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.509Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica",
@@ -850,6 +1644,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": "/trzgptffGvAlAT6MEu01fz47cLW.jpg",
           "trend": false,
           "anno": null
         }
@@ -864,7 +1659,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.502Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/",
@@ -886,6 +1683,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": "/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg",
           "trend": false,
           "anno": null
         }
@@ -896,11 +1694,97 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 5.4,
+      "rilievo": 5.3,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.440Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
+      "titolo": "Fammi il piacere, ritrovare la complicità attraverso l'orgasmo",
+      "sommario": "Ispirandosi all'invenzione del Womanizer, Reem Kherici dirige una commedia sull'importanza del piacere femminile.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T11:04:41.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/CBhtT8_fammi-il-piacere-copertina.jpg",
+      "categorie": [
+        "Cinema",
+        "Recensioni"
+      ],
+      "soggetti": [
+        {
+          "nome": "Fammi il piacere",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1516724,
+          "backdrop": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
+          "poster": "/bkmsl7MsV0NwFrAKxDEUmy1Ls3c.jpg",
+          "profilo": null,
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Fammi il piacere",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.543Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/the-invite-riassume-delusioni-e-frustrazioni-del-ceto-medio/",
+      "titolo": "The Invite riassume delusioni e frustrazioni del ceto medio",
+      "sommario": "Olivia Wilde rifà Sentimental di Cesc Gay a partire dal retaggio statunitense delle commedie da camera, fra dialoghi brillanti e introspezione borghese.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-08-31T13:03:53.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/08/ykqZDL_the-invite-copertina.jpg",
+      "categorie": [
+        "Cinema",
+        "Recensioni"
+      ],
+      "soggetti": [
+        {
+          "nome": "The Invite - Il piacere è tutto nostro",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 950028,
+          "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+          "poster": "/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+          "profilo": null,
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "The Invite - Il piacere è tutto nostro",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.544Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
@@ -920,89 +1804,13 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 4.8,
+      "rilievo": 4.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.407Z",
       "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
-      "titolo": "Fammi il piacere, ritrovare la complicità attraverso l'orgasmo",
-      "sommario": "Ispirandosi all'invenzione del Womanizer, Reem Kherici dirige una commedia sull'importanza del piacere femminile.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-01T11:04:41.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema",
-        "Recensioni"
-      ],
-      "soggetti": [
-        {
-          "nome": "Fammi il piacere",
-          "tipo": "film",
-          "inTitolo": true,
-          "inLibreria": false,
-          "lista": null,
-          "filmId": null,
-          "tmdbId": 1516724,
-          "backdrop": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
-          "poster": "/bkmsl7MsV0NwFrAKxDEUmy1Ls3c.jpg",
-          "trend": true,
-          "anno": "2026"
-        }
-      ],
-      "soggetto": "Fammi il piacere",
-      "soggettoTipo": "film",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 4.7,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:21:30.543Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/the-invite-riassume-delusioni-e-frustrazioni-del-ceto-medio/",
-      "titolo": "The Invite riassume delusioni e frustrazioni del ceto medio",
-      "sommario": "Olivia Wilde rifà Sentimental di Cesc Gay a partire dal retaggio statunitense delle commedie da camera, fra dialoghi brillanti e introspezione borghese.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-08-31T13:03:53.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema",
-        "Recensioni"
-      ],
-      "soggetti": [
-        {
-          "nome": "The Invite - Il piacere è tutto nostro",
-          "tipo": "film",
-          "inTitolo": true,
-          "inLibreria": false,
-          "lista": null,
-          "filmId": null,
-          "tmdbId": 950028,
-          "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-          "poster": "/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
-          "trend": true,
-          "anno": "2026"
-        }
-      ],
-      "soggetto": "The Invite - Il piacere è tutto nostro",
-      "soggettoTipo": "film",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 4.7,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:21:30.544Z",
-      "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
@@ -1024,7 +1832,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.472Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.screenweek.it/venezia-83-i-video-del-terzo-giorno-con-geoffrey-rush-e-il-cast-de-la-citta-dei-vivi/",
@@ -1033,7 +1843,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-09-05T12:07:51.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/qrPxX3_venezia-83-giorno-tre.jpg",
       "categorie": [
         "Cinema",
         "Trailer & Video"
@@ -1049,7 +1859,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:09.797Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.badtaste.it/articoli/povere-creature-cosa-significa-davvero-il-finale-lultima-scelta-di-bella-baxter-spiega-tutto-il-suo-viaggio",
@@ -1067,11 +1879,13 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 4.3,
+      "rilievo": 4.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.488Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/perche-povere-creature-si-chiama-cosi-il-vero-significato-del-titolo-del-film-con-emma-stone",
@@ -1093,7 +1907,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.502Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/povere-creature-dove-e-stato-girato-il-film-londra-lisbona-e-parigi-nascondono-tutte-lo-stesso-segreto",
@@ -1111,35 +1927,13 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 4.2,
+      "rilievo": 4.1,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.504Z",
       "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.cineblog.it/post/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti",
-      "titolo": "Valerio Mastandrea a Venezia: il valore dei padri imperfetti",
-      "sommario": "Valerio Mastandrea ha raccontato oggi, 5 settembre 2026, alla Mostra del Cinema di Venezia, il suo ruolo in La Città dei Vivi, film di Edoardo Gabbriellini in concorso a Orizzonti, spiegando perché interpretare il padre di Luca Varani lo abbia portato a riflettere sul mestiere, fragile e senza istruzioni, dell’essere g",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-09-05T11:32:18.000Z",
-      "immagine": null,
-      "categorie": [
-        "Notizie"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "approfondimento",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 4,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.420Z",
-      "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/matt-damon-set-assurdo-fan-attribuiscono-qualita-divi-perso_170904/",
@@ -1161,6 +1955,7 @@
           "tmdbId": 1368337,
           "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
           "poster": "/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+          "profilo": null,
           "trend": true,
           "anno": "2026"
         },
@@ -1174,6 +1969,7 @@
           "tmdbId": null,
           "backdrop": null,
           "poster": null,
+          "profilo": null,
           "trend": false,
           "anno": null
         }
@@ -1188,7 +1984,35 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.591Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti",
+      "titolo": "Valerio Mastandrea a Venezia: il valore dei padri imperfetti",
+      "sommario": "Valerio Mastandrea ha raccontato oggi, 5 settembre 2026, alla Mostra del Cinema di Venezia, il suo ruolo in La Città dei Vivi, film di Edoardo Gabbriellini in concorso a Orizzonti, spiegando perché interpretare il padre di Luca Varani lo abbia portato a riflettere sul mestiere, fragile e senza istruzioni, dell’essere g",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-09-05T11:32:18.000Z",
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/09/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti.webp",
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.420Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
@@ -1197,7 +2021,7 @@
       "fonte": "ScreenWeek",
       "lingua": "it",
       "data": "2026-09-05T05:23:16.000Z",
-      "immagine": null,
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/A34sbe_114681-MR._NELSON__DID_YOU_KILL_PEOPLE_-_Actor_Rodney_Hicks__2_-copia.jpg",
       "categorie": [
         "Cinema",
         "Recensioni",
@@ -1210,11 +2034,381 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 3.8,
+      "rilievo": 3.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:09.797Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
+      "titolo": "Venezia 83: Geoffrey Rush e Rodney Hicks parlano di salute mentale",
+      "sommario": "Il cast di Mr. Nelson, Did You Kill People? parla dell'importanza della fiducia, di umanità e guarigione.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T17:49:27.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/YIJDSL_IntervistaGeoffryRushNeslon.jpg",
+      "categorie": [
+        "Cinema",
+        "Interviste"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.375Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/",
+      "titolo": "Un mondo meraviglioso: il trailer ufficiale del film",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T14:07:55.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/0iq2Xz6ybog.jpg",
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.376Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/",
+      "titolo": "Maxton Hall: il teaser trailer ufficiale",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T13:58:57.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/58szhCvw1ZU.jpg",
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.376Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-un-emozionato-john-malkovich-alla-premiere-mondiale-di-wild-horse-nine/",
+      "titolo": "Venezia 83: un emozionato John Malkovich alla premiere mondiale di Wild Horse Nine",
+      "sommario": "Martin McDonagh ha parlato della genesi del film e dei parallelismi con l'epoca odierna.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T09:53:32.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/t8NMmj_wild-horse-nine-cover.jpg",
+      "categorie": [
+        "Cinema"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.377Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/ti-presento-i-fotter-il-nuovo-trailer-del-film/",
+      "titolo": "Ti presento i Fotter: il nuovo trailer del film",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-03T14:52:24.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/qtqQVu0ReCY.jpg",
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.377Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-george-clooney-e-lattacco-allautoritarismo/",
+      "titolo": "Venezia 83: George Clooney e l'attacco all'autoritarismo",
+      "sommario": "L'attore ha difeso Mark Ruffalo, commentato la fusione Paramount-Warner e lanciato un appello sul futuro del giornalismo.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-03T10:36:12.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/Kgok1h_clooney-venezia-83.jpg",
+      "categorie": [
+        "Cinema"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.379Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-maggie-gyllenhaal-sul-problema-sistemico-dellassenza-delle-donne-registe/",
+      "titolo": "Venezia 83: Maggie Gyllenhaal sul 'problema sistemico' dell'assenza delle donne registe",
+      "sommario": "I registi hanno la responsabilità di prendere posizione politicamente? Maggie Gyllenhaal risponde a Venezia 83.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-03T08:08:48.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/pWR4rl_Maggie-Gyllenhaal-cover-venezia.png",
+      "categorie": [
+        "Cinema"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.380Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/street-fighter-il-nuovo-trailer-del-film-con-andrew-koji/",
+      "titolo": "Street Fighter: il nuovo trailer del film con Andrew Koji",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-02T17:03:04.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/yO7xhQ6VKak.jpg",
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.381Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/city-of-blood-trailer-ufficiale-del-film-su-disney/",
+      "titolo": "City of Blood: trailer ufficiale del film su Disney+",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-02T16:43:57.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/MFYbz37_PjE.jpg",
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.381Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-oggi-laura-dern-presentera-il-leone-doro-alla-carriera-per-george-clooney/",
+      "titolo": "Venezia 83, oggi Laura Dern presenterà il Leone d'oro alla carriera per George Clooney",
+      "sommario": "Nella serata d'apertura, la laudatio di Clooney affidata all'attrice statunitense.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-02T04:57:54.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/FBIZec_dern-venezia.jpg",
+      "categorie": [
+        "Cinema",
+        "Ultime News"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.382Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/monster-la-storia-di-lizzie-borden-il-trailer-ufficiale/",
+      "titolo": "Monster: La storia di Lizzie Borden, il trailer ufficiale.",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T14:17:15.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/ENGqov8aAmw.jpg",
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.382Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/fjord-il-trailer-del-film-di-cristian-mungiu-con-sebastian-stan/",
+      "titolo": "Fjord: il trailer del film di Cristian Mungiu con Sebastian Stan",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T13:50:07.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/frg59VOungA.jpg",
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.382Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/dio-ride-trailer-del-film-di-chiusura-di-venezia-83/",
+      "titolo": "Dio ride, trailer del film di chiusura di Venezia 83",
+      "sommario": "Arriva online il trailer di Dio ride, il film con Pierfrancesco Favino e Silvio Orlando.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T12:30:06.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/TQh17FLwQJw.jpg",
+      "categorie": [
+        "Cinema",
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.384Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/priscilla-2-guy-pearce-ci-aggiorna-sulla-produzione-del-sequel/",
+      "titolo": "Priscilla 2, Guy Pearce ci aggiorna sulla produzione del sequel",
+      "sommario": "In estrema sintesi: ci vuole ancora un po'.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T04:59:12.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/eGjVpZ_priscilla-copia.jpg",
+      "categorie": [
+        "Cinema",
+        "Ultime News"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.385Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://cinefilos.it/tutto-film/approfondimenti/un-uomo-sopra-la-legge-spiegazione-finale-film-liam-neeson-720162",
@@ -1234,351 +2428,13 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 3.3,
+      "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.434Z",
       "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
-      "titolo": "Venezia 83: Geoffrey Rush e Rodney Hicks parlano di salute mentale",
-      "sommario": "Il cast di Mr. Nelson, Did You Kill People? parla dell'importanza della fiducia, di umanità e guarigione.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-04T17:49:27.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema",
-        "Interviste"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.375Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/",
-      "titolo": "Un mondo meraviglioso: il trailer ufficiale del film",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-04T14:07:55.000Z",
-      "immagine": null,
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.376Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/",
-      "titolo": "Maxton Hall: il teaser trailer ufficiale",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-04T13:58:57.000Z",
-      "immagine": null,
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.376Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/venezia-83-un-emozionato-john-malkovich-alla-premiere-mondiale-di-wild-horse-nine/",
-      "titolo": "Venezia 83: un emozionato John Malkovich alla premiere mondiale di Wild Horse Nine",
-      "sommario": "Martin McDonagh ha parlato della genesi del film e dei parallelismi con l'epoca odierna.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-04T09:53:32.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.377Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/ti-presento-i-fotter-il-nuovo-trailer-del-film/",
-      "titolo": "Ti presento i Fotter: il nuovo trailer del film",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-03T14:52:24.000Z",
-      "immagine": null,
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.377Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/venezia-83-george-clooney-e-lattacco-allautoritarismo/",
-      "titolo": "Venezia 83: George Clooney e l'attacco all'autoritarismo",
-      "sommario": "L'attore ha difeso Mark Ruffalo, commentato la fusione Paramount-Warner e lanciato un appello sul futuro del giornalismo.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-03T10:36:12.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.379Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/venezia-83-maggie-gyllenhaal-sul-problema-sistemico-dellassenza-delle-donne-registe/",
-      "titolo": "Venezia 83: Maggie Gyllenhaal sul 'problema sistemico' dell'assenza delle donne registe",
-      "sommario": "I registi hanno la responsabilità di prendere posizione politicamente? Maggie Gyllenhaal risponde a Venezia 83.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-03T08:08:48.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.380Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/street-fighter-il-nuovo-trailer-del-film-con-andrew-koji/",
-      "titolo": "Street Fighter: il nuovo trailer del film con Andrew Koji",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-02T17:03:04.000Z",
-      "immagine": null,
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.381Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/city-of-blood-trailer-ufficiale-del-film-su-disney/",
-      "titolo": "City of Blood: trailer ufficiale del film su Disney+",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-02T16:43:57.000Z",
-      "immagine": null,
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.381Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/venezia-83-oggi-laura-dern-presentera-il-leone-doro-alla-carriera-per-george-clooney/",
-      "titolo": "Venezia 83, oggi Laura Dern presenterà il Leone d'oro alla carriera per George Clooney",
-      "sommario": "Nella serata d'apertura, la laudatio di Clooney affidata all'attrice statunitense.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-02T04:57:54.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema",
-        "Ultime News"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.382Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/monster-la-storia-di-lizzie-borden-il-trailer-ufficiale/",
-      "titolo": "Monster: La storia di Lizzie Borden, il trailer ufficiale.",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-01T14:17:15.000Z",
-      "immagine": null,
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "approfondimento",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.382Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/fjord-il-trailer-del-film-di-cristian-mungiu-con-sebastian-stan/",
-      "titolo": "Fjord: il trailer del film di Cristian Mungiu con Sebastian Stan",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-01T13:50:07.000Z",
-      "immagine": null,
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.382Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/dio-ride-trailer-del-film-di-chiusura-di-venezia-83/",
-      "titolo": "Dio ride, trailer del film di chiusura di Venezia 83",
-      "sommario": "Arriva online il trailer di Dio ride, il film con Pierfrancesco Favino e Silvio Orlando.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-01T12:30:06.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema",
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.384Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.screenweek.it/priscilla-2-guy-pearce-ci-aggiorna-sulla-produzione-del-sequel/",
-      "titolo": "Priscilla 2, Guy Pearce ci aggiorna sulla produzione del sequel",
-      "sommario": "In estrema sintesi: ci vuole ancora un po'.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-01T04:59:12.000Z",
-      "immagine": null,
-      "categorie": [
-        "Cinema",
-        "Ultime News"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.385Z",
-      "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/florence-pugh-e-the-rock-in-questo-commovente-film-su-netflix-sulla-vera-storia-di-una-campionessa-wwe",
@@ -1600,7 +2456,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.506Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/questo-film-su-prime-video-con-bruce-willis-ha-il-miglior-colpo-di-scena-della-storia-dellhorror",
@@ -1622,7 +2480,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.507Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.cineblog.it/post/naza-il-documentario-su-gaza-che-scuote-venezia",
@@ -1631,7 +2491,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-09-02T11:32:31.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/09/naza-il-documentario-su-gaza-che-scuote-venezia.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1646,7 +2506,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.422Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.cineblog.it/post/venezia-2026-gli-11-fuori-concorso-fiction-tra-thriller-dautore-e-grandi-storie",
@@ -1655,7 +2517,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-08-31T11:32:44.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/08/venezia-2026-gli-11-fuori-concorso-fiction-tra-thriller-d-autore-e-grandi-storie.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1670,7 +2532,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.425Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.cineblog.it/post/edoardo-pesce-incanta-venezia-con-il-suo-giaffa-favola-nera-degli-invisibili",
@@ -1679,7 +2543,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-08-30T11:32:26.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/08/edoardo-pesce-incanta-venezia-con-il-suo-giaffa-favola-nera-degli-invisibili.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1694,7 +2558,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.426Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.cineblog.it/post/venice4palestine-lancia-lappello-la-bandiera-palestinese-al-lido",
@@ -1703,7 +2569,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-08-28T11:33:02.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/08/venice4palestine-lancia-l-appello-la-bandiera-palestinese-al-lido.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1718,7 +2584,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.429Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan",
@@ -1740,7 +2608,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.508Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/richard-gere-e-uno-spietato-truffatore-in-questo-film-su-prime-video-ma-vogliamo-che-la-passi-liscia",
@@ -1758,11 +2628,13 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 2.9,
+      "rilievo": 2.8,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.511Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/uomini-donne-giacomo-vacalebre-vecchio-post-temptation-island_170914/",
@@ -1780,35 +2652,13 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 2.4,
+      "rilievo": 2.3,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.445Z",
       "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-anno-898642.html",
-      "titolo": "State of Play settembre 2026 delude: il pubblico cala ai livelli più bassi dell'anno",
-      "sommario": "Lo State of Play di settembre ha registrato interesse tiepido e il numero più basso di spettatori per Sony nel 2026, ben sotto le aspettative. Settembre è iniziato con diverse novità in casa PlayStation . Sony ha dato vita a una nuova edizione dello State of Play dedicato alle prossime uscite videoludiche . L'interesse",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-09-05T05:35:00.000Z",
-      "immagine": "https://images.everyeye.it/img-notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-dell-anno-v4-898642-800x600.webp",
-      "categorie": [
-        "PlayStation Studios"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 1.5,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.409Z",
-      "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/giovanni-grazioso-uomini-e-donne-non-subito-tronista_170906/",
@@ -1830,7 +2680,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.477Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/uomini-donne-anticipazioni-agnese-restituisce-anello-roberto_170895/",
@@ -1852,7 +2704,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.484Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/giacomo-nuovo-tronista-uomini-e-donne_170892/",
@@ -1874,7 +2728,35 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.487Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-anno-898642.html",
+      "titolo": "State of Play settembre 2026 delude: il pubblico cala ai livelli più bassi dell'anno",
+      "sommario": "Lo State of Play di settembre ha registrato interesse tiepido e il numero più basso di spettatori per Sony nel 2026, ben sotto le aspettative. Settembre è iniziato con diverse novità in casa PlayStation . Sony ha dato vita a una nuova edizione dello State of Play dedicato alle prossime uscite videoludiche . L'interesse",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-09-05T05:35:00.000Z",
+      "immagine": "https://images.everyeye.it/img-notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-dell-anno-v4-898642-800x600.webp",
+      "categorie": [
+        "PlayStation Studios"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.409Z",
+      "it": null,
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.cineblog.it/post/jane-fonda-a-89-anni-sono-piu-forte-che-mai-mobilitarsi-e-necessario",
@@ -1883,7 +2765,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-09-04T11:32:39.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/09/jane-fonda-a-89-anni-sono-pi-forte-che-mai-mobilitarsi-necessario.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1898,7 +2780,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.420Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.cineblog.it/post/barbera-chiude-alla-bandiera-palestinese-non-ci-sono-margini",
@@ -1907,7 +2791,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-09-03T11:32:39.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/09/barbera-chiude-alla-bandiera-palestinese-non-ci-sono-margini.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1922,7 +2806,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.421Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.cineblog.it/post/larchivio-di-martin-scorsese-verso-roma-trattativa-con-il-mic-per-la-donazione",
@@ -1931,7 +2817,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-09-01T11:32:34.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/09/l-archivio-di-martin-scorsese-verso-roma-trattativa-con-il-mic-per-la-donazione.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1946,7 +2832,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.423Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://www.cineblog.it/post/silent-life-il-biopic-onirico-che-riscopre-rodolfo-valentino-a-100-anni-dalla-morte",
@@ -1955,7 +2843,7 @@
       "fonte": "Cineblog",
       "lingua": "it",
       "data": "2026-08-29T11:32:14.000Z",
-      "immagine": null,
+      "immagine": "https://tvblog.s3.eu-west-par.io.cloud.ovh.net/2026/08/silent-life-il-biopic-onirico-che-riscopre-rodolfo-valentino-a-100-anni-dalla-morte.webp",
       "categorie": [
         "Notizie"
       ],
@@ -1970,7 +2858,9 @@
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.427Z",
       "it": null,
-      "curato": false
+      "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": true
     }
   ]
 }

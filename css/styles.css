@@ -1109,6 +1109,36 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
 .ras-righe-strette .ras-riga-sommario{ -webkit-line-clamp:1; }
 .ras-radar .ras-riga{ border-color:rgba(255,194,77,.22); background:linear-gradient(135deg, rgba(255,194,77,.06), var(--panel) 60%); }
 
+/* ── trailer della settimana ─────────────────────────── */
+.ras-trailer-sez .ras-testa-kicker{ color:var(--accent-2); }
+.ras-trailer-griglia{ display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,400px),1fr)); gap:12px; }
+.ras-trailer{
+  display:flex; gap:14px; padding:12px;
+  border:1px solid rgba(183,140,255,.22); border-radius:var(--r-m);
+  background:linear-gradient(135deg, rgba(183,140,255,.07), var(--panel) 60%);
+}
+.ras-trailer.is-dentro{ border-color:rgba(75,227,155,.3); background:linear-gradient(135deg, rgba(75,227,155,.06), var(--panel) 60%); }
+.ras-trailer-poster{
+  position:relative; flex:none; width:96px; aspect-ratio:2/3; border-radius:var(--r-s); overflow:hidden;
+  background:#12141F; border:1px solid var(--line); display:block;
+}
+.ras-trailer-poster img{ width:100%; height:100%; object-fit:cover; display:block; }
+.ras-trailer-play{
+  position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);
+  width:36px; height:36px; border-radius:50%; display:grid; place-items:center;
+  background:rgba(5,6,11,.72); border:1px solid rgba(255,255,255,.35); color:#fff; font-size:13px; padding-left:3px;
+  backdrop-filter:blur(6px); -webkit-backdrop-filter:blur(6px);
+}
+.ras-trailer-testo{ flex:1; min-width:0; display:flex; flex-direction:column; gap:6px; }
+.ras-trailer-quando{ font-family:var(--ff-mono); font-size:10px; letter-spacing:.14em; text-transform:uppercase; color:var(--accent-2); }
+.ras-trailer b{ font-size:15.5px; font-weight:700; line-height:1.3; letter-spacing:-.01em; }
+.ras-trailer-meta{ font-size:12px; color:var(--ink-3); }
+.ras-trailer-meta i{ font-style:normal; color:var(--hot); }
+.ras-trailer-trama{ font-size:12.5px; line-height:1.5; color:var(--ink-2); }
+.ras-trailer-azioni{ display:flex; flex-wrap:wrap; gap:6px; margin-top:4px; }
+.ras-trailer-azioni .ras-tag{ text-decoration:none; }
+.ras-tag-agg{ color:var(--ink); border-color:var(--line-2); }
+
 /* ── accadde oggi ─────────────────────────────────────── */
 .ras-anni{
   flex:0 0 138px; scroll-snap-align:start; display:flex; flex-direction:column; gap:5px;
