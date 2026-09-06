@@ -3479,7 +3479,7 @@
       "releaseUS": "2026-01-23",
       "poster": "/28ygujLDfyuRjxtF2PmblovDjsI.jpg",
       "backdrop": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-      "tmdbRating": 5.386,
+      "tmdbRating": 5.385,
       "tmdbVotes": 811,
       "popularity": 19.1678,
       "budget": 23000000,
@@ -5703,7 +5703,7 @@
       "poster": "/nJwhcJyoUipwf5TKf2mE460Tf98.jpg",
       "backdrop": "/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
       "tmdbRating": 7.5,
-      "tmdbVotes": 39,
+      "tmdbVotes": 40,
       "popularity": 15.8488,
       "budget": null,
       "revenue": 12795749,
@@ -11694,9 +11694,9 @@
       "releaseUS": "2023-06-30",
       "poster": "/cavpmNgWlOIRENlEscbg1bJ2mX2.jpg",
       "backdrop": "/57JocxmicOoAMhkUSmdKBlpZWMT.jpg",
-      "tmdbRating": 6.5,
-      "tmdbVotes": 4326,
-      "popularity": 16.9281,
+      "tmdbRating": 6.499,
+      "tmdbVotes": 4327,
+      "popularity": 16.6787,
       "budget": 294700000,
       "revenue": 383963057,
       "tagline": "La leggenda affronterà il suo destino.",
@@ -14362,7 +14362,7 @@
       "backdrop": "/q2w64nBl0F8oBwWGtbcKy9u9JIw.jpg",
       "tmdbRating": 5.5,
       "tmdbVotes": 20,
-      "popularity": 1.8047,
+      "popularity": 1.953,
       "budget": null,
       "revenue": 2141,
       "tagline": "Essere amati per ciò che si è",
@@ -14862,5 +14862,5 @@
       ]
     }
   ],
-  "enrichedAt": "2026-09-06T09:05:47.117Z"
+  "enrichedAt": "2026-09-06T09:33:23.955Z"
 }
