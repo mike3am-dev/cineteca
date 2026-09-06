@@ -7,6 +7,13 @@ name: Rassegna stampa
 on:
   schedule:
     - cron: '17 */3 * * *'
+  # La routine mattutina di Claude Code scrive data/curatela.json e
+  # fa push: quel push fa ripartire la rassegna subito, così le
+  # traduzioni si vedono al momento e non tre ore dopo. (I push del
+  # bot stesso non rifanno partire niente: GitHub ignora i propri.)
+  push:
+    paths:
+      - 'data/curatela.json'
   workflow_dispatch:
 
 permissions:
