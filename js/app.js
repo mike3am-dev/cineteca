@@ -87,13 +87,44 @@
     return { testo: 'GIÀ PASSATO', hot: false };
   }
 
-  /* Angolo in alto a destra: il voto. Rotten Tomatoes quando c'è;
-     altrimenti TMDB, ma etichettato per non confonderlo con RT. */
+  /* Angolo in alto a destra: un voto solo, scelto per quanto ci si
+     può contare — non per quale capita di avere per primo.
+
+     La regola vecchia era "Rotten Tomatoes, altrimenti TMDB", e
+     mostrava numeri che sembravano autorevoli e non lo erano: su Deep
+     Water diceva TMDB 7.1, media di 462 persone, mentre settemila
+     utenti IMDb dicevano 5.5 e la critica 53. Su Hopper diceva 7.3,
+     ricavato da nove voti in croce.
+
+     L'ordine ora è questo, dal più solido al più fragile:
+       · Rotten Tomatoes — decine di critici, giudizio sì/no
+       · Metacritic      — media pesata degli stessi critici
+       · IMDb            — pubblico, ordini di grandezza più votanti
+       · TMDB            — pubblico, pochi votanti e mano generosa
+     e sotto una manciata di voti non si mostra niente: meglio un
+     angolo vuoto di un numero che non regge.
+
+     Colore solo sulle due scale da cento della critica, dove le
+     soglie vogliono dire qualcosa. Una media da uno a dieci del
+     pubblico resta neutra: non c'è un "sei in pagella". */
+  const VOTI_MINIMI = { imdb: 250, tmdb: 50 };
+
   function badgeVoto(m) {
     if (m.rtScore != null)
       return { testo: `🍅 ${m.rtScore}%`, cls: m.rtScore >= 60 ? 'badge-score' : 'badge-rotten' };
-    if (m.tmdbRating)
-      return { testo: `TMDB ${m.tmdbRating.toFixed(1)}`, cls: 'badge-tmdb' };
+
+    // Soglie di Metacritic: 61 promosso, sotto 40 bocciato.
+    if (m.metascore != null)
+      return { testo: `MC ${m.metascore}`,
+               cls: m.metascore >= 61 ? 'badge-score'
+                  : m.metascore >= 40 ? 'badge-neutro' : 'badge-rotten' };
+
+    if (m.imdbRating && (m.imdbVotes || 0) >= VOTI_MINIMI.imdb)
+      return { testo: `IMDb ${m.imdbRating.toFixed(1)}`, cls: 'badge-neutro' };
+
+    if (m.tmdbRating && (m.tmdbVotes || 0) >= VOTI_MINIMI.tmdb)
+      return { testo: `TMDB ${m.tmdbRating.toFixed(1)}`, cls: 'badge-neutro' };
+
     return null;
   }
 

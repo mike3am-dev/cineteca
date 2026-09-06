@@ -329,7 +329,7 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
 .badge-score{ color:var(--good); font-family:var(--ff-mono); }
 .badge-seen{ color:var(--bg); background:var(--good); border-color:transparent; }
 .badge-rotten{ color:var(--rotten); border-color:rgba(255,107,107,.38); font-family:var(--ff-mono); }
-.badge-tmdb{ color:var(--ink-2); border-color:var(--line-2); font-family:var(--ff-mono); font-size:9.5px; letter-spacing:.06em; }
+.badge-neutro{ color:var(--ink-2); border-color:var(--line-2); font-family:var(--ff-mono); font-size:9.5px; letter-spacing:.06em; }
 .badge-rewatch{ color:#1B0F33; background:var(--accent-2); border-color:transparent; font-weight:800; }
 
 /* prevendite: se sono imminenti devono farsi notare come il "in sala" */

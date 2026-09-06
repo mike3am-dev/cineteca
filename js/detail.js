@@ -280,6 +280,9 @@ const Detail = (() => {
     const cells = [
       m.rtScore != null && { v: `${m.rtScore}%`, l: 'Rotten Tomatoes', cls: m.rtScore >= 60 ? 'stat-good' : 'stat-rotten' },
       m.imdbRating && { v: m.imdbRating.toFixed(1), l: 'IMDb', cls: 'stat-hot' },
+      // Un voto senza sapere in quanti l'hanno dato non si può pesare:
+      // 5.5 su settemila persone e 7.3 su nove non sono lo stesso dato.
+      m.imdbVotes && { v: m.imdbVotes.toLocaleString('it-IT'), l: 'votanti IMDb' },
       m.metascore != null && { v: String(m.metascore), l: 'Metacritic' },
       m.tmdbRating && { v: m.tmdbRating.toFixed(1), l: 'voto TMDB', cls: 'stat-good' },
       m.tmdbVotes  && { v: m.tmdbVotes.toLocaleString('it-IT'), l: 'votanti TMDB' },
