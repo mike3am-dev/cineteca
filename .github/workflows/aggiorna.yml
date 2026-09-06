@@ -49,6 +49,9 @@ jobs:
         with:
           node-version: '22'
 
+      - run: npm ci --no-audit --no-fund
+        if: steps.ora.outputs.procedi == 'si'
+
       - name: Arricchisci il catalogo (TMDB + OMDb)
         if: steps.ora.outputs.procedi == 'si'
         env:
@@ -58,6 +61,9 @@ jobs:
 
       - name: Raccogli la rassegna stampa
         if: steps.ora.outputs.procedi == 'si'
+        env:
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node tools/notizie.mjs
 
       - name: Date ancora senza uscita italiana

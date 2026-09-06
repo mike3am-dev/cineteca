@@ -1,512 +1,1912 @@
 {
-  "aggiornato": "2026-09-06T09:33:30.307Z",
+  "aggiornato": "2026-09-06T10:25:13.697Z",
+  "curatela": false,
   "fonti": [
     "BadTaste",
     "MoviePlayer",
     "ScreenWeek",
     "Everyeye",
     "Cinefilos",
+    "Cineblog",
+    "Ciak",
     "Fumettologica"
   ],
   "segnalazioniPrevendita": [],
-  "evidenza": [
-    "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-robert-pattinson-rivela-riprese-sequel-difficili-719705",
-    "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-supera-avatar-2-e-sale-al-terzo-posto-dei-film-con-i-maggiori-incassi-719372",
-    "https://movieplayer.it/news/the-dog-stars-peggior-debutto-ridley-scott-ultimi-cinque-anni_170828/"
+  "apertura": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
+  "ultime": [
+    "https://www.badtaste.it/articoli/benedetta-porcaroli-e-riccardo-scamarcio-insieme-a-venezia-83-il-loro-arrivo-al-lido-non-passa-inosservato",
+    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/the-echo-chamber-luca-marinelli-alicia-vikander-venezia-83-719570",
+    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-succedera-questa-notte-red-carpet-nanni-moretti-trinca-garrel-foto-720355",
+    "https://www.badtaste.it/articoli/chi-e-davvero-chris-hansen-la-controversa-storia-del-giornalista-interpretato-da-robert-pattinson-in-primetime",
+    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
+    "https://www.badtaste.it/articoli/florence-pugh-e-the-rock-in-questo-commovente-film-su-netflix-sulla-vera-storia-di-una-campionessa-wwe",
+    "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive",
+    "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/"
   ],
-  "gruppi": [
+  "temi": [
     {
-      "soggetto": "Top Gun: Maverick",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica"
-      ]
-    },
-    {
-      "soggetto": "Dune - Parte tre",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://cinefilos.it/cinema-news/2026/dune-parte-tre-durata-film-record-trilogia-villeneuve-720282"
-      ]
-    },
-    {
-      "soggetto": "The Batman: Part II",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://cinefilos.it/cinema-news/2026/the-batman-part-2-nuove-foto-set-batsuit-batman-720277",
-        "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
-        "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/"
-      ]
-    },
-    {
-      "soggetto": "La casa - Il rogo del Male",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/"
-      ]
-    },
-    {
-      "soggetto": "Obsession",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://cinefilos.it/cinema-news/2026/inde-navarrette-obsession-protagonista-the-waffle-house-index-720095"
-      ]
-    },
-    {
-      "soggetto": "Denis Villeneuve",
-      "tipo": "regista",
-      "quante": 1,
-      "link": [
-        "https://cinefilos.it/cinema-news/2026/nicole-kidman-voleva-recitare-dune-720092"
-      ]
-    },
-    {
-      "soggetto": "Odissea",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://movieplayer.it/news/odissea-2-paul-schrader-folle-lo-fara-perdera-fortuna_170880/",
-        "https://cinefilos.it/cinema-news/2026/elliot-page-proposte-dopo-odissea-719937",
-        "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax"
-      ]
-    },
-    {
-      "soggetto": "Harry Potter e la pietra filosofale — 25° anniversario",
-      "tipo": "film",
-      "quante": 1,
-      "link": [
-        "https://www.screenweek.it/harry-potter-e-la-pietra-filosofale-teaser-della-serie-per-hbo-max/"
-      ]
-    },
-    {
-      "soggetto": "Chris Pratt",
+      "soggetto": "Robert Pattinson",
       "tipo": "attore",
-      "quante": 1,
+      "inLibreria": false,
+      "lista": null,
+      "filmId": null,
+      "tmdbId": null,
+      "backdrop": null,
+      "poster": null,
+      "anno": null,
+      "quante": 4,
+      "testate": 2,
       "link": [
-        "https://www.badtaste.it/articoli/millie-bobby-brown-e-chris-pratt-nel-film-dei-russo-piu-costoso-di-netflix-che-divide-pubblico-e-critica"
+        "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
+        "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore"
       ]
     },
     {
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "soggetto": "Oasis: Don't Look Back in Anger",
       "tipo": "film",
-      "quante": 3,
+      "inLibreria": false,
+      "lista": null,
+      "filmId": null,
+      "tmdbId": 1447853,
+      "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+      "anno": "2026",
+      "quante": 2,
+      "testate": 2,
       "link": [
-        "https://cinefilos.it/cinema-news/2026/paul-mescal-ridley-scott-escluso-the-dog-stars-dopo-il-gladiatore-ii-719484",
-        "https://cinefilos.it/cinema-news/2026/hideo-kojima-recensisce-the-dog-stars-ridley-scott-719689",
-        "https://www.badtaste.it/recensioni/the-dog-stars-la-recensione-ridley-scott-abbraccia-la-fine-e-il-cambiamento"
+        "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/"
       ]
+    }
+  ],
+  "radar": [
+    "https://www.screenweek.it/ink-il-trailer-del-nuovo-film-di-danny-boyle-con-guy-pearce/"
+  ],
+  "libreria": [
+    "https://movieplayer.it/news/matt-damon-set-assurdo-fan-attribuiscono-qualita-divi-perso_170904/"
+  ],
+  "approfondimenti": [
+    "https://www.badtaste.it/articoli/the-runner-cosa-significa-davvero-il-finale-il-piano-segreto-di-maia-viene-svelato-solo-negli-ultimi-minuti",
+    "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica",
+    "https://www.badtaste.it/articoli/povere-creature-cosa-significa-davvero-il-finale-lultima-scelta-di-bella-baxter-spiega-tutto-il-suo-viaggio",
+    "https://www.badtaste.it/articoli/perche-povere-creature-si-chiama-cosi-il-vero-significato-del-titolo-del-film-con-emma-stone",
+    "https://www.cineblog.it/post/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti",
+    "https://cinefilos.it/tutto-film/approfondimenti/un-uomo-sopra-la-legge-spiegazione-finale-film-liam-neeson-720162"
+  ],
+  "curiosita": [
+    "https://www.badtaste.it/articoli/john-malkovich-si-ritira-dalla-recitazione-la-risposta-dellattore-a-venezia-2026",
+    "https://www.badtaste.it/articoli/povere-creature-dove-e-stato-girato-il-film-londra-lisbona-e-parigi-nascondono-tutte-lo-stesso-segreto"
+  ],
+  "passato": [
+    "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan"
+  ],
+  "altre": [
+    "https://www.screenweek.it/venezia-83-i-video-del-secondo-giorno-con-alessandro-borghi-e-kendall-jenner/",
+    "https://www.screenweek.it/venezia-83-i-video-del-primo-giorno-con-il-clooney-e-il-red-carpet-di-ink/",
+    "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
+    "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
+    "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
+    "https://www.screenweek.it/venezia-83-i-video-del-terzo-giorno-con-geoffrey-rush-e-il-cast-de-la-citta-dei-vivi/",
+    "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
+    "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
+    "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/",
+    "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/"
+  ],
+  "accaddeOggi": [
+    {
+      "tmdbId": 11416,
+      "titolo": "Mission",
+      "originale": "The Mission",
+      "anno": "1986",
+      "anniFa": 40,
+      "data": "1986-09-06",
+      "poster": "/j7eBIY5Psku7dvmnkt9uo5iU8Vf.jpg",
+      "backdrop": "/izgDdMvuRvTtA2azhKwPvfITZU1.jpg",
+      "voto": 7.4,
+      "votanti": 1594,
+      "generi": [
+        "Avventura",
+        "Dramma",
+        "Azione",
+        "Storia"
+      ],
+      "trama": "Nel 1750 il capitano Mendoza, mercenario e mercante di schiavi, dopo aver ucciso il fratello in duello, si fa gesuita, va in una missione del Sudamerica, riprende la spada per difenderla da una spedizione militare.",
+      "approssimato": false,
+      "inLibreria": false,
+      "filmId": null,
+      "perche": "avventura, il tuo terreno"
+    },
+    {
+      "tmdbId": 10723,
+      "titolo": "Bulletproof",
+      "originale": "Bulletproof",
+      "anno": "1996",
+      "anniFa": 30,
+      "data": "1996-09-06",
+      "poster": "/iI7G9YXxodrqkQPKis1y3EKP8wJ.jpg",
+      "backdrop": "/nHLi2cLJcDF0PK14baJ0HZyEEPm.jpg",
+      "voto": 5.8,
+      "votanti": 674,
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Azione"
+      ],
+      "trama": "Il malvivente (Adam Sandler) fa amicizia con un poliziotto (Damon Wayans) sotto copertura. I due stringono una forte amicizia e nel frattempo il poliziotto riesce a farsi portare dal boss del malvivente. Qui il poliziott",
+      "approssimato": false,
+      "inLibreria": false,
+      "filmId": null,
+      "perche": null
+    },
+    {
+      "tmdbId": 1254,
+      "titolo": "Je vais bien, ne t'en fais pas",
+      "originale": "Je vais bien, ne t'en fais pas",
+      "anno": "2006",
+      "anniFa": 20,
+      "data": "2006-09-06",
+      "poster": "/ffk3hWeY5CGEdEEab2qAaueYCPv.jpg",
+      "backdrop": "/y0eyUFB8dBLKjbQFeAgFMiklQDq.jpg",
+      "voto": 7.2,
+      "votanti": 614,
+      "generi": [
+        "Dramma"
+      ],
+      "trama": "",
+      "approssimato": false,
+      "inLibreria": false,
+      "filmId": null,
+      "perche": "dramma, il tuo terreno"
+    },
+    {
+      "tmdbId": 2084,
+      "titolo": "Birthday Girl",
+      "originale": "Birthday Girl",
+      "anno": "2001",
+      "anniFa": 25,
+      "data": "2001-09-06",
+      "poster": "/g0oKFgHrMpWxq7Zf4XWmWCmP4dQ.jpg",
+      "backdrop": "/kq7a3jjof465gLwsIDhjtpyNURD.jpg",
+      "voto": 5.9,
+      "votanti": 444,
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Thriller"
+      ],
+      "trama": "John Buckingham (Ben Chaplin) è un timido impiegato di banca in un piccola cittadina dell'hinterland londinese, nel sud Hertfordshire. Vive un'esistenza monotona e triste e decide di affidarsi alle promesse di un sito in",
+      "approssimato": false,
+      "inLibreria": false,
+      "filmId": null,
+      "perche": "thriller, il tuo terreno"
+    },
+    {
+      "tmdbId": 31522,
+      "titolo": "La donna è donna",
+      "originale": "Une femme est une femme",
+      "anno": "1961",
+      "anniFa": 65,
+      "data": "1961-09-06",
+      "poster": "/tjimQB2o7DR2zFXZugw5pY6VvU4.jpg",
+      "backdrop": "/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
+      "voto": 7.3,
+      "votanti": 409,
+      "generi": [
+        "Commedia",
+        "Dramma",
+        "Romance"
+      ],
+      "trama": "Angela (Karina), giovane spogliarellista danese che lavora in un locale parigino, vorrebbe un figlio dal suo compagno, Emilio (Brialy), ma lui teme una trappola matrimoniale e non è d'accordo. Anzi, le suggerisce di pren",
+      "approssimato": false,
+      "inLibreria": false,
+      "filmId": null,
+      "perche": "dramma, il tuo terreno"
+    },
+    {
+      "tmdbId": 11521,
+      "titolo": "Il mio piccolo genio",
+      "originale": "Little Man Tate",
+      "anno": "1991",
+      "anniFa": 35,
+      "data": "1991-09-06",
+      "poster": "/isAYWHpOl5BQ6oxrymQBICANltz.jpg",
+      "backdrop": "/lY1dSP8rtLxtnTPS1KM6ywYQK6Z.jpg",
+      "voto": 6.6,
+      "votanti": 351,
+      "generi": [
+        "Dramma",
+        "Famiglia"
+      ],
+      "trama": "Fred Tate è un bambino prodigio di sette anni, che già in tenera età dimostra un quoziente intellettivo sopra la media, con una grande predisposizione per la matematica, la pittura e la capacità di esecuzione al pianofor",
+      "approssimato": false,
+      "inLibreria": false,
+      "filmId": null,
+      "perche": "dramma, il tuo terreno"
     }
   ],
   "notizie": [
     {
-      "titolo": "The Batman – Parte II: Robert Pattinson rivela perché le riprese del sequel sono “molto più difficili”",
-      "link": "https://cinefilos.it/cinema-news/2026/the-batman-parte-ii-robert-pattinson-rivela-riprese-sequel-difficili-719705",
-      "sommario": "The Batman – Parte II: Robert Pattinson rivela perché le riprese del sequel sono “molto più difficili” Robert Pattinson ha confermato che le riprese di The Batman – Parte II proseguiranno a Londra fino alla fine del 2026, fornendo un’indicazione concreta sulle",
-      "data": "2026-09-02T08:58:25.000Z",
+      "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
+      "titolo": "Venezia 83, red carpet: Robert Pattinson porta il glamour nel Concorso",
+      "sommario": "Venezia 83, red carpet: Robert Pattinson porta il glamour nel Concorso Robert Pattinson ha presentato a Venezia 83 il suo ultimo film, Primetime, che gareggia nel concorso veneziano. Con lui oltre al regista Lance Oppenheim, e al cast del film, anche l’attrice Suki Waterhouse, sua moglie nella vita privata. Cinefilos.i",
       "fonte": "Cinefilos",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
+      "lingua": "it",
+      "data": "2026-09-06T06:16:06.000Z",
+      "immagine": "https://cinefilos.it/wp-content/uploads/2026/09/Suki-Waterhouse-Robert-Pattinson-630x420.webp",
+      "categorie": [
+        "Mostra del cinema di Venezia"
+      ],
+      "soggetti": [
         {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
         }
       ],
-      "rilievo": 12,
-      "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.648Z",
-      "evidenza": true
-    },
-    {
-      "titolo": "Spider-Man: Brand New Day supera Avatar 2 e sale al terzo posto dei film con i maggiori incassi",
-      "link": "https://cinefilos.it/cinema-news/2026/spider-man-brand-new-day-supera-avatar-2-e-sale-al-terzo-posto-dei-film-con-i-maggiori-incassi-719372",
-      "sommario": "Spider-Man: Brand New Day supera Avatar 2 e sale al terzo posto dei film con i maggiori incassi Spider-Man: Brand New Day ha superato Avatar: La via dell’acqua al box office mondiale, conquistando il terzo posto nella classifica dei film con i maggiori incassi",
-      "data": "2026-08-31T10:43:13.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        },
-        {
-          "nome": "Avatar: La via dell'acqua",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 12,
-      "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.836Z",
-      "evidenza": true
-    },
-    {
-      "titolo": "The Dog Stars è ufficialmente il peggior debutto al box office di Ridley Scott degli ultimi anni",
-      "link": "https://movieplayer.it/news/the-dog-stars-peggior-debutto-ridley-scott-ultimi-cinque-anni_170828/",
-      "sommario": "Il nome di Ridley Scott continua a essere uno dei più riconoscibili della storia del cinema, ma nemmeno il prestigio del regista sembra essere bastato a portare il pubblico in sala per The Dog Stars. Il thriller post-apocalittico di Ridley Scott, arrivato nell",
-      "data": "2026-08-31T10:00:45.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Dog Stars",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 12,
-      "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.809Z",
-      "evidenza": true
-    },
-    {
-      "titolo": "Mayday, la recensione: gli anni Ottanta, Top Gun, Springsteen… quando amavamo l’America",
-      "link": "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica",
-      "sommario": "Le nostre considerazioni sul nuovo film con Ryan Reynolds, disponibile su Apple TV.",
-      "data": "2026-09-06T07:30:37.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Top Gun: Maverick",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Top Gun: Maverick",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-06T09:05:53.660Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Dune – Parte tre, emerge un dettaglio sorprendente sul nuovo film di Denis Villeneuve",
-      "link": "https://cinefilos.it/cinema-news/2026/dune-parte-tre-durata-film-record-trilogia-villeneuve-720282",
-      "sommario": "Dune – Parte tre, emerge un dettaglio sorprendente sul nuovo film di Denis Villeneuve Dune – Parte tre potrebbe stabilire un piccolo record all’interno della trilogia di Denis Villeneuve. Secondo nuove indiscrezioni, il terzo capitolo dedicato alla saga di Fra",
-      "data": "2026-09-05T08:40:21.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Dune - Parte tre",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Dune - Parte tre",
-          "tipo": "film"
-        },
-        {
-          "nome": "Denis Villeneuve",
-          "tipo": "regista"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-09-05T08:44:05.870Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "The Batman – Parte II: le foto dal set rivelano la migliore immagine finora della nuova tuta da Batman del Cavaliere Oscuro insanguinato",
-      "link": "https://cinefilos.it/cinema-news/2026/the-batman-part-2-nuove-foto-set-batsuit-batman-720277",
-      "sommario": "The Batman – Parte II: le foto dal set rivelano la migliore immagine finora della nuova tuta da Batman del Cavaliere Oscuro insanguinato Le riprese di The Batman – Part II continuano a Glasgow e le nuove immagini dal set offrono lo sguardo più dettagliato fino",
-      "data": "2026-09-05T08:29:48.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-09-05T08:44:05.870Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "“Sento la mia età, è molto più difficile”: Robert Pattinson racconta la fatica sul set di The Batman 2",
-      "link": "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
-      "sommario": "Robert Pattinson racconta la fatica sul set di The Batman: Part II: le scene di combattimento sono più dure rispetto al primo film, ma l’attore promette un sequel “davvero fantastico”.",
-      "data": "2026-09-03T06:45:32.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-09-03T09:21:34.171Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "The Batman 2, cosa sta succedendo sul set? Robert Pattinson: \"È molto più difficile adesso\"",
-      "link": "https://movieplayer.it/news/the-batman-2-set-robert-pattinson-molto-difficile-adesso_170864/",
-      "sommario": "Robert Pattinson torna nei panni di Batman per il sequel di Matt Reeves e confessa che interpretare il Cavaliere Oscuro oggi è più faticoso, soprattutto nelle scene d'azione. Tornare a Gotham non è mai semplice, ma per Robert Pattinson questa volta il vero ost",
-      "data": "2026-09-02T09:00:45.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "The Batman: Part II",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Batman: Part II",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Batman",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
-      "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.631Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "George Clooney, dal rischio di perdere la casa alle lodi alla moglie: il racconto al Festival di Venezia",
-      "link": "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
-      "sommario": "A Venezia George Clooney ripercorre quasi cinquant'anni di carriera, dai sacrifici per realizzare Good Night, and Good Luck, dal rapporto con Amal, fino all'improvvisa proposta a una giovane diplomata di una scuola di cinema. Sul palco del Match Point Arena, a",
-      "data": "2026-09-04T14:00:27.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "La casa - Il rogo del Male",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "La casa - Il rogo del Male",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 11,
-      "prevendite": false,
-      "vistoIl": "2026-09-05T08:44:05.847Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Inde Navarrette, dopo Obsession sarà protagonista di The Waffle House Index",
-      "link": "https://cinefilos.it/cinema-news/2026/inde-navarrette-obsession-protagonista-the-waffle-house-index-720095",
-      "sommario": "Inde Navarrette, dopo Obsession sarà protagonista di The Waffle House Index Inde Navarrette sarà la protagonista di The Waffle House Index, nuovo film di Apple Original Films prodotto da Plan B, confermando una fase particolarmente importante per la giovane at",
-      "data": "2026-09-04T08:55:21.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Obsession",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Obsession",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-04T09:14:38.706Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Nicole Kidman voleva recitare in Dune, ma Denis Villeneuve non l’ha mai chiamata: “È devastante”",
-      "link": "https://cinefilos.it/cinema-news/2026/nicole-kidman-voleva-recitare-dune-720092",
-      "sommario": "Nicole Kidman voleva recitare in Dune, ma Denis Villeneuve non l’ha mai chiamata: “È devastante” Nicole Kidman avrebbe voluto far parte del mondo di Dune, la saga fantascientifica diretta da Denis Villeneuve, ma il regista non le ha mai proposto un ruolo. A ri",
-      "data": "2026-09-04T08:48:18.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Denis Villeneuve",
-      "soggettoTipo": "regista",
-      "citati": [
-        {
-          "nome": "Denis Villeneuve",
-          "tipo": "regista"
-        }
-      ],
-      "rilievo": 3,
-      "prevendite": false,
-      "vistoIl": "2026-09-04T09:14:38.706Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Odissea 2 si farà? Paul Schrader pensa di sì: \"Qualche folle lo farà e perderà una fortuna\"",
-      "link": "https://movieplayer.it/news/odissea-2-paul-schrader-folle-lo-fara-perdera-fortuna_170880/",
-      "sommario": "Paul Schrader applaude il film di Christopher Nolan, ma non crede che Hollywood possa replicarne facilmente il successo. Secondo lo sceneggiatore di Taxi Driver, un eventuale sequel di The Odyssey rischierebbe di trasformarsi in un disastro finanziario. Il suc",
-      "data": "2026-09-03T10:00:58.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-04T09:14:38.684Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Elliot Page non ha ricevuto proposte dopo Odissea, ma ritiene di poter “realizzare alcuni dei miei lavori migliori”",
-      "link": "https://cinefilos.it/cinema-news/2026/elliot-page-proposte-dopo-odissea-719937",
-      "sommario": "Elliot Page non ha ricevuto proposte dopo Odissea, ma ritiene di poter “realizzare alcuni dei miei lavori migliori” Nonostante l’intensa interpretazione di Sinone in Odissea di Christopher Nolan, Elliot Page non ha ricevuto quella nuova ondata di proposte che ",
-      "data": "2026-09-03T07:22:36.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-03T09:21:34.195Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Odissea, svelato il formato del Blu-ray 4K: a casa sarà ancora più vicino al vero IMAX",
-      "link": "https://www.badtaste.it/articoli/odissea-svelato-il-formato-del-blu-ray-4k-a-casa-sara-ancora-piu-vicino-al-vero-imax",
-      "sommario": "Odissea si prepara all’arrivo in home video e il Blu-ray 4K promette di valorizzare il lavoro di Christopher Nolan: il formato 1.78:1 sfrutterà tutto lo schermo dei televisori 16:9, avvicinandosi all’esperienza IMAX.",
-      "data": "2026-09-02T07:15:21.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Odissea",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Odissea",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.584Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Harry Potter e la Pietra Filosofale, teaser della serie per HBO Max",
-      "link": "https://www.screenweek.it/harry-potter-e-la-pietra-filosofale-teaser-della-serie-per-hbo-max/",
-      "sommario": "Quirrell, Lord Voldemort e lo Specchio delle Brame nel nuovo teaser trailer di Harry Potter e la Pietra Filosofale",
-      "data": "2026-09-02T16:22:10.000Z",
-      "fonte": "ScreenWeek",
-      "soggetto": "Harry Potter e la pietra filosofale — 25° anniversario",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Harry Potter e la pietra filosofale — 25° anniversario",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 11,
-      "prevendite": false,
-      "vistoIl": "2026-09-03T09:21:34.188Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Millie Bobby Brown e Chris Pratt nel film dei Russo più costoso di Netflix, che divide pubblico e critica",
-      "link": "https://www.badtaste.it/articoli/millie-bobby-brown-e-chris-pratt-nel-film-dei-russo-piu-costoso-di-netflix-che-divide-pubblico-e-critica",
-      "sommario": "Il film su Netflix che divide critica e pubblico: 15% su Rotten Tomatoes vs 74% degli spettatori. Analisi del fenomeno del film dei fratelli Russo.",
-      "data": "2026-09-02T16:00:03.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Chris Pratt",
+      "soggetto": "Robert Pattinson",
       "soggettoTipo": "attore",
-      "citati": [
-        {
-          "nome": "Chris Pratt",
-          "tipo": "attore"
-        }
-      ],
-      "rilievo": 3,
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
       "prevendite": false,
-      "vistoIl": "2026-09-03T09:21:34.174Z",
-      "evidenza": false
+      "rilievo": 11.4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.631Z",
+      "it": null,
+      "curato": false
     },
     {
-      "titolo": "Paul Mescal, Ridley Scott lo avrebbe escluso da The Dog Stars dopo Il Gladiatore II",
-      "link": "https://cinefilos.it/cinema-news/2026/paul-mescal-ridley-scott-escluso-the-dog-stars-dopo-il-gladiatore-ii-719484",
-      "sommario": "Paul Mescal, Ridley Scott lo avrebbe escluso da The Dog Stars dopo Il Gladiatore II Paul Mescal sarebbe stato escluso da The Dog Stars (leggi qui la recensione) per una decisione di Ridley Scott maturata dopo Il Gladiatore II. Secondo nuove indiscrezioni, il r",
-      "data": "2026-09-01T08:51:41.000Z",
+      "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
+      "titolo": "Venezia 83, Liam e Noel Gallagher infiammano il red carpet di Oasis: Don’t Look Back in Anger: tutte le foto",
+      "sommario": "Venezia 83, Liam e Noel Gallagher infiammano il red carpet di Oasis: Don’t Look Back in Anger: tutte le foto È stato uno dei red carpet più attesi e partecipati di Venezia 83. Liam e Noel Gallagher sono arrivati ieri, 5 settembre, sul tappeto rosso della Mostra Internazionale d’Arte Cinematografica per la première mond",
       "fonte": "Cinefilos",
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
-      "soggettoTipo": "film",
-      "citati": [
+      "lingua": "it",
+      "data": "2026-09-06T06:03:24.000Z",
+      "immagine": "https://cinefilos.it/wp-content/uploads/2026/09/LDP5251-630x420.jpg",
+      "categorie": [
+        "Mostra del cinema di Venezia"
+      ],
+      "soggetti": [
         {
-          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Dog Stars",
-          "tipo": "film"
-        },
-        {
-          "nome": "Il gladiatore II",
-          "tipo": "film"
+          "nome": "Oasis: Don't Look Back in Anger",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1447853,
+          "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+          "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+          "trend": true,
+          "anno": "2026"
         }
       ],
-      "rilievo": 9,
-      "prevendite": false,
-      "vistoIl": "2026-09-01T09:41:57.312Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Hideo Kojima “recensisce” il film post-apocalittico The Dog Stars di Ridley Scott",
-      "link": "https://cinefilos.it/cinema-news/2026/hideo-kojima-recensisce-the-dog-stars-ridley-scott-719689",
-      "sommario": "Hideo Kojima “recensisce” il film post-apocalittico The Dog Stars di Ridley Scott Hideo Kojima ha commentato The Dog Stars (leggi qui la recensione), il nuovo film di fantascienza post-apocalittica diretto da Ridley Scott, e le sue parole sembrano suggerire un",
-      "data": "2026-09-02T07:30:04.000Z",
-      "fonte": "Cinefilos",
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
+      "soggetto": "Oasis: Don't Look Back in Anger",
       "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Dog Stars",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 8,
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
       "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.649Z",
-      "evidenza": false
+      "rilievo": 11.3,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.632Z",
+      "it": null,
+      "curato": false
     },
     {
-      "titolo": "The Dog Stars, la recensione: Ridley Scott abbraccia la fine (e il cambiamento)",
-      "link": "https://www.badtaste.it/recensioni/the-dog-stars-la-recensione-ridley-scott-abbraccia-la-fine-e-il-cambiamento",
-      "sommario": "Il nuovo film del regista britannico, tratto dal romanzo di Peter Heller, è un'operazione completamente imprevista: un western post apocalittico in cui a dominare sono i sentimenti degli uomini. Un film stralunato, a tratti persino banale, che trova la sua for",
-      "data": "2026-08-31T08:37:58.000Z",
+      "link": "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore",
+      "titolo": "Chris Hansen critica Robert Pattinson senza aver visto Primetime, ma da Venezia arriva la risposta dell’attore",
+      "sommario": "Chris Hansen ha criticato Primetime e l’interpretazione di Robert Pattinson senza aver ancora visto il film. Da Venezia, l’attore ha finalmente risposto alle polemiche.",
       "fonte": "BadTaste",
-      "soggetto": "The Dog Stars - Le Stelle Dopo la Fine",
-      "soggettoTipo": "film",
-      "citati": [
+      "lingua": "it",
+      "data": "2026-09-05T20:31:55.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY2MDBcL1JvYmVydC1QYXR0aW5zb24taW4tUHJpbWV0aW1lLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMH19fQ==?signature=0cfec1cc2ede1075dd56157ffa65f840fbf20c3f6c9d4f82bbf8e47e3005034e",
+      "categorie": [],
+      "soggetti": [
         {
-          "nome": "The Dog Stars - Le Stelle Dopo la Fine",
-          "tipo": "film"
-        },
-        {
-          "nome": "The Dog Stars",
-          "tipo": "film"
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
         }
       ],
-      "rilievo": 8,
+      "soggetto": "Robert Pattinson",
+      "soggettoTipo": "attore",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
       "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.793Z",
-      "evidenza": false
+      "rilievo": 10.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.657Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive",
+      "titolo": "Robert Pattinson arriva al lido e fa impazzire Venezia 2026 (Foto Esclusive)",
+      "sommario": "Robert Pattinson a Venezia 83 per Primetime, film su Chris Hansen e To Catch a Predator. Il divo quarantenne porta in Concorso il progetto più controverso.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T15:29:08.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY2MDBcL1JvYmVydC1QYXR0aW5zb24taW4tUHJpbWV0aW1lLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMH19fQ==?signature=0cfec1cc2ede1075dd56157ffa65f840fbf20c3f6c9d4f82bbf8e47e3005034e",
+      "categorie": [],
+      "soggetti": [
+        {
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Robert Pattinson",
+      "soggettoTipo": "attore",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
+      "prevendite": false,
+      "rilievo": 10.4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.661Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/the-runner-cosa-significa-davvero-il-finale-il-piano-segreto-di-maia-viene-svelato-solo-negli-ultimi-minuti",
+      "titolo": "The Runner, cosa significa davvero il finale? Il piano segreto di Maia viene svelato solo negli ultimi minuti",
+      "sommario": "Come finisce The Runner? Spieghiamo il finale del thriller con Gal Gadot, dal vero piano di Maia alla sorte di Tafa e The Caller, fino al significato dell’ultima telefonata.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-06T07:45:23.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY0NzFcL1VuYS1zY2VuYS1kaS1UaGUtUnVubmVyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMH19fQ==?signature=2b0f6b67713264efb68f3e7abdd178f57f473ff05ad3ae21569108e142f9f6f8",
+      "categorie": [],
+      "soggetti": [
+        {
+          "nome": "The Runner",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1386315,
+          "backdrop": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+          "poster": "/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "The Runner",
+      "soggettoTipo": "film",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 8.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:25:12.149Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/chi-e-davvero-chris-hansen-la-controversa-storia-del-giornalista-interpretato-da-robert-pattinson-in-primetime",
+      "titolo": "Chi è davvero Chris Hansen? La controversa storia del giornalista interpretato da Robert Pattinson in Primetime",
+      "sommario": "Primetime porta Robert Pattinson nei panni di Chris Hansen, il volto di To Catch a Predator: scopriamo la vera storia del controverso show e il caso che contribuì a cambiarne per sempre il destino.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-06T06:15:46.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY2MTdcL1ByaW1ldGltZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDB9fX0=?signature=1c19a2637568b36b7d2ff71993ca18fb518245292bb829762987704bf3015034",
+      "categorie": [],
+      "soggetti": [
+        {
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Robert Pattinson",
+      "soggettoTipo": "attore",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
+      "prevendite": false,
+      "rilievo": 8.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.656Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/ink-il-trailer-del-nuovo-film-di-danny-boyle-con-guy-pearce/",
+      "titolo": "Ink: il trailer del nuovo film di Danny Boyle con Guy Pearce",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-02T17:17:55.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [
+        {
+          "nome": "Danny Boyle",
+          "tipo": "regista",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Danny Boyle",
+      "soggettoTipo": "regista",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": "regia di Danny Boyle, di cui hai visto un film",
+      "prevendite": false,
+      "rilievo": 7.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.540Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/maigret-lamore-e-la-morte-il-trailer-del-film-con-podalydes/",
+      "titolo": "Maigret - L'amore e la morte: il trailer del film con Podalydès",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-08-28T16:40:54.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [
+        {
+          "nome": "Maigret - L'amore e la morte",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1398486,
+          "backdrop": "/g4dglmohwnvl1yCYObZjmxZY9Do.jpg",
+          "poster": "/gJVCjUPmzRPfrNlLWUcdOZuhuw2.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Maigret - L'amore e la morte",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 7.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.544Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/assassination-classroom-lora-di-tutti-noi-trailer-ufficiale/",
+      "titolo": "Assassination Classroom: L'ora di tutti noi – Trailer Ufficiale",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-08-28T16:36:05.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [
+        {
+          "nome": "Assassination Classroom – L’Ora di Tutti Noi",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1542877,
+          "backdrop": "/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg",
+          "poster": "/nrz9YSLdmmnAKrpdFNmZO2IsIwG.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Assassination Classroom – L’Ora di Tutti Noi",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 7.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.545Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/",
+      "titolo": "Oasis: Don't Look Back in Anger parla a tutti, non solo ai millennials",
+      "sommario": "La recensione del documentario Oasis: Don't Look Back sui Fratelli Gallagher, al cinema dal 10 settembre.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-06T08:37:35.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Recensioni"
+      ],
+      "soggetti": [
+        {
+          "nome": "Oasis: Don't Look Back in Anger",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1447853,
+          "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+          "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Oasis: Don't Look Back in Anger",
+      "soggettoTipo": "film",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 7.6,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:29.954Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/benedetta-porcaroli-e-riccardo-scamarcio-insieme-a-venezia-83-il-loro-arrivo-al-lido-non-passa-inosservato",
+      "titolo": "Benedetta Porcaroli e Riccardo Scamarcio insieme a Venezia 83: il loro arrivo al Lido non passa inosservato",
+      "sommario": "Benedetta Porcaroli e Riccardo Scamarcio sorprendono a Venezia 83 arrivando insieme al Lido: sorrisi, look diversi e una rara apparizione pubblica per una delle coppie più riservate del cinema italiano.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-06T06:30:37.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC9sZWdhY3lcL3NpdGVzXC8xXC8yMDIxXC8wMlwvZHNjMDgxMjUtc2NhbGVkLTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=8775d6985e64491ae36cb827d3fe4af517c9b5bb34b98971787cee904fc7db4a",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 7.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.504Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/the-echo-chamber-luca-marinelli-alicia-vikander-venezia-83-719570",
+      "titolo": "Venezia 83, The Echo Chamber porta Luca Marinelli, Alicia Vikander e Susan Sarandon in una storia d’amore che diventa prigionia",
+      "sommario": "Venezia 83, The Echo Chamber porta Luca Marinelli, Alicia Vikander e Susan Sarandon in una storia d’amore che diventa prigionia Andrea Pallaoro arriva in Concorso a Venezia 83 con The Echo Chamber, nuovo film interpretato da Luca Marinelli, Alicia Vikander e Susan Sarandon, in programma il 6 settembre 2026 alle 19:45 i",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-06T06:27:32.000Z",
+      "immagine": "https://cinefilos.it/wp-content/uploads/2026/05/Luca-Marinelli-e-Susan-Sarandon-in-The-Echo-Chamber.webp",
+      "categorie": [
+        "Mostra del cinema di Venezia"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.430Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-succedera-questa-notte-red-carpet-nanni-moretti-trinca-garrel-foto-720355",
+      "titolo": "Venezia 83, Nanni Moretti con Jasmine Trinca e Louis Garrel sul red carpet di Succederà questa notte: tutte le foto",
+      "sommario": "Venezia 83, Nanni Moretti con Jasmine Trinca e Louis Garrel sul red carpet di Succederà questa notte: tutte le foto Nanni Moretti torna protagonista alla Mostra del Cinema di Venezia con Succederà questa notte. Il regista ha accompagnato ieri, 5 settembre, il suo nuovo film sul red carpet di Venezia 83, dove l’opera è ",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-06T06:17:12.000Z",
+      "immagine": "https://cinefilos.it/wp-content/uploads/2026/09/LDP5065-630x420.jpg",
+      "categorie": [
+        "Mostra del cinema di Venezia"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.431Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-i-video-del-secondo-giorno-con-alessandro-borghi-e-kendall-jenner/",
+      "titolo": "Venezia 83: i video del secondo giorno con Alessandro Borghi e Kendall Jenner",
+      "sommario": "Sul tappeto rosso hanno sfilato i cast di Wild Horse Nine e Nessun dolore.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T13:40:02.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema"
+      ],
+      "soggetti": [
+        {
+          "nome": "Nessun dolore",
+          "tipo": "film",
+          "inTitolo": false,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1594043,
+          "backdrop": "/w3YeU3KFyRgqbL55XIbbhTGnfsd.jpg",
+          "poster": "/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Nessun dolore",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.376Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-i-video-del-primo-giorno-con-il-clooney-e-il-red-carpet-di-ink/",
+      "titolo": "Venezia 83: i video del primo giorno con Clooney e il red carpet di INK",
+      "sommario": "Il Leone d'Oro alla Carriera a George Clooney, Nina Dobrev e l'arrivo del cast di Nessun dolore.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-03T11:24:44.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Trailer & Video"
+      ],
+      "soggetti": [
+        {
+          "nome": "Nessun dolore",
+          "tipo": "film",
+          "inTitolo": false,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1594043,
+          "backdrop": "/w3YeU3KFyRgqbL55XIbbhTGnfsd.jpg",
+          "poster": "/kPDyWzS020AvrvrTFDAJfhTgUbU.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Nessun dolore",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.377Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/john-malkovich-si-ritira-dalla-recitazione-la-risposta-dellattore-a-venezia-2026",
+      "titolo": "John Malkovich si ritira dalla recitazione? La risposta dell'attore a Venezia 2026",
+      "sommario": "Dopo la presentazione del suo ultimo film a Venezia, John Malkovich ha parlato di un possibile ritiro dalla recitazione.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T15:36:42.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC9sZWdhY3lcL3NpdGVzXC8xXC8yMDIwXC8xMlwvam9obi1tYWxrb3ZpY2guanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=16749e3b3c776d68e3f5115822098fe998b63896f7ca222268e07df4ab0a60f2",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "curiosita",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 5.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.509Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica",
+      "titolo": "Mayday, la recensione: gli anni Ottanta, Top Gun, Springsteen… quando amavamo l’America",
+      "sommario": "Le nostre considerazioni sul nuovo film con Ryan Reynolds, disponibile su Apple TV.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-06T07:30:37.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY2MTlcL01heWRheV9QaG90b18wMTA0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMH19fQ==?signature=d65090e864f6f3076b88dbdd2b35153aaeb201cf546bce226142060b5728f0d2",
+      "categorie": [],
+      "soggetti": [
+        {
+          "nome": "Ryan Reynolds",
+          "tipo": "attore",
+          "inTitolo": false,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Ryan Reynolds",
+      "soggettoTipo": "attore",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 5.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.502Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/",
+      "titolo": "Mutiny: una valanga di proiettili non ferma Jason Statham nella clip esclusiva del film",
+      "sommario": "La star del cinema action è l'ex soldato Cole Reed in Mutiny, una storia di potere, vendetta e giustizia in alto mare: vi mostriamo una clip esclusiva ad alto tasso di adrenalina e pistole Arriva al cinema in Italia il prossimo 10 settembre, distribuito da Eagle Pictures, Mutiny, il nuovo thriller d'azione con Jason St",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-05T15:06:43.000Z",
+      "immagine": "https://movieplayer.net-cdn.it/t/images/2026/09/05/mutiny_unit_241101_00071rc_copia_1_jpg_1280x720_q85.jpg",
+      "categorie": [],
+      "soggetti": [
+        {
+          "nome": "Jason Statham",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Jason Statham",
+      "soggettoTipo": "attore",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 5.4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.440Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
+      "titolo": "Fortnite: questa hit dei Bring Me The Horizon è appena arrivata nel Festival",
+      "sommario": "Fortnite Festival accoglie \"Can You Feel My Heart\" dei Bring Me The Horizon, ora disponibile gratuitamente sul Palco Principale o acquistabile. Mentre prosegue la Stagione 4 di Fortnite Battaglia Reale con Sonic e Crash , la modalità musicale Fortnite Festival continua ad espandersi dando il benvenuto alle superstar di",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-09-05T09:13:00.000Z",
+      "immagine": "https://images.everyeye.it/img-notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-v3-898670-800x600.webp",
+      "categorie": [
+        "Fortnite Capitolo 7"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.407Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
+      "titolo": "Fammi il piacere, ritrovare la complicità attraverso l'orgasmo",
+      "sommario": "Ispirandosi all'invenzione del Womanizer, Reem Kherici dirige una commedia sull'importanza del piacere femminile.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T11:04:41.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Recensioni"
+      ],
+      "soggetti": [
+        {
+          "nome": "Fammi il piacere",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1516724,
+          "backdrop": "/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
+          "poster": "/bkmsl7MsV0NwFrAKxDEUmy1Ls3c.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Fammi il piacere",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.543Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/the-invite-riassume-delusioni-e-frustrazioni-del-ceto-medio/",
+      "titolo": "The Invite riassume delusioni e frustrazioni del ceto medio",
+      "sommario": "Olivia Wilde rifà Sentimental di Cesc Gay a partire dal retaggio statunitense delle commedie da camera, fra dialoghi brillanti e introspezione borghese.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-08-31T13:03:53.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Recensioni"
+      ],
+      "soggetti": [
+        {
+          "nome": "The Invite - Il piacere è tutto nostro",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 950028,
+          "backdrop": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+          "poster": "/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "The Invite - Il piacere è tutto nostro",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.544Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
+      "titolo": "George Clooney, dal rischio di perdere la casa alle lodi alla moglie: il racconto al Festival di Venezia",
+      "sommario": "A Venezia George Clooney ripercorre quasi cinquant'anni di carriera, dai sacrifici per realizzare Good Night, and Good Luck, dal rapporto con Amal, fino all'improvvisa proposta a una giovane diplomata di una scuola di cinema. Sul palco del Match Point Arena, al Lido, George Clooney ha ripercorso una carriera lunga quas",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-04T14:00:27.000Z",
+      "immagine": "https://movieplayer.net-cdn.it/t/images/2025/05/06/jay-kelly-george-clooney_jpg_1280x720_q85.jpg",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.472Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-i-video-del-terzo-giorno-con-geoffrey-rush-e-il-cast-de-la-citta-dei-vivi/",
+      "titolo": "Venezia 83: i video del terzo giorno con Geoffrey Rush e il cast de La città dei vivi",
+      "sommario": "Jasmine Trinca, Marion Cotillard e Geena Davis le protagoniste della giornata.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-05T12:07:51.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.3,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:09.797Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/povere-creature-cosa-significa-davvero-il-finale-lultima-scelta-di-bella-baxter-spiega-tutto-il-suo-viaggio",
+      "titolo": "Povere Creature, cosa significa davvero il finale? L’ultima scelta di Bella Baxter spiega tutto il suo viaggio",
+      "sommario": "Come finisce Povere Creature? Ripercorriamo il finale del film di Yorgos Lanthimos con Emma Stone, dal ritorno di Alfie all’ultima scena, per capire cosa accade davvero a Bella Baxter e il significato della sua scelta finale.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-06T08:00:30.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC9sZWdhY3lcL3NpdGVzXC8xXC8yMDI0XC8wMVwvcG92ZXJlLWNyZWF0dXJlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMH19fQ==?signature=b6d67e518db0c916ab0297e42f4e540495615168cd2c38c7f1ce69ff73f72419",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.3,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.488Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/perche-povere-creature-si-chiama-cosi-il-vero-significato-del-titolo-del-film-con-emma-stone",
+      "titolo": "Perché Povere Creature si chiama così? Il vero significato del titolo del film con Emma Stone",
+      "sommario": "Perché il film di Yorgos Lanthimos si intitola Povere Creature? Il significato nasce dal romanzo di Alasdair Gray e nasconde una lettura che va ben oltre Bella Baxter.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-06T07:15:03.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC9sZWdhY3lcL3NpdGVzXC8xXC8yMDI0XC8wMlwvcG92ZXJlLWNyZWF0dXJlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMH19fQ==?signature=3d47f654f099fe7b8a95a6a738b0d86ce9b570416312a242ee9b11f4412dc020",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.502Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/povere-creature-dove-e-stato-girato-il-film-londra-lisbona-e-parigi-nascondono-tutte-lo-stesso-segreto",
+      "titolo": "Povere Creature, dove è stato girato il film? Londra, Lisbona e Parigi nascondono tutte lo stesso segreto",
+      "sommario": "Da Londra a Lisbona, passando per Parigi e Alessandria: scopriamo dove è stato realmente girato Povere Creature e come Yorgos Lanthimos ha costruito il mondo fantastico attraversato da Emma Stone.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-06T06:45:53.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDE1NzlcL1VuYS1zY2VuYS1kaS1Qb3ZlcmUtQ3JlYXR1cmUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=23a1cbf6fa5bf436586468dc7483204da530e0872c94270d6d92f446fdec1dca",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "curiosita",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.504Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti",
+      "titolo": "Valerio Mastandrea a Venezia: il valore dei padri imperfetti",
+      "sommario": "Valerio Mastandrea ha raccontato oggi, 5 settembre 2026, alla Mostra del Cinema di Venezia, il suo ruolo in La Città dei Vivi, film di Edoardo Gabbriellini in concorso a Orizzonti, spiegando perché interpretare il padre di Luca Varani lo abbia portato a riflettere sul mestiere, fragile e senza istruzioni, dell’essere g",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-09-05T11:32:18.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.420Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://movieplayer.it/news/matt-damon-set-assurdo-fan-attribuiscono-qualita-divi-perso_170904/",
+      "titolo": "Matt Damon possiede una qualità che altri divi sembrano aver perso",
+      "sommario": "Dalle grandi produzioni come Odissea e The Departed a un folle film sci-fi ancora avvolto nel mistero: Matt Damon continua a concedersi ruoli imprevedibili, una libertà che oggi distingue il divo da molte altre star. Ci sono attori che, arrivati a un certo livello di fama, sembrano scegliere ogni progetto con il bistur",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-04T15:00:23.000Z",
+      "immagine": "https://movieplayer.net-cdn.it/t/images/2021/09/02/la-ragazza-di-stillwater_2_jpg_1280x720_q85.jpg",
+      "categorie": [],
+      "soggetti": [
+        {
+          "nome": "Odissea",
+          "tipo": "film",
+          "inTitolo": false,
+          "inLibreria": true,
+          "lista": "visto",
+          "filmId": "tmdb-1368337",
+          "tmdbId": 1368337,
+          "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+          "poster": "/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
+          "trend": true,
+          "anno": "2026"
+        },
+        {
+          "nome": "Matt Damon",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Matt Damon",
+      "soggettoTipo": "attore",
+      "sezione": "notizia",
+      "inLibreria": true,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:21:30.591Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
+      "titolo": "Venezia 83: Mr. Nelson, Did You Kill People? è un film potente, ma poco equilibrato",
+      "sommario": "Shinya Tsukamoto presenta in Concorso a Venezia 83 un war movie biopic dagli ottimi intenti, ma a cui manca il senso della misura.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-05T05:23:16.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Recensioni",
+        "Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:09.797Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://cinefilos.it/tutto-film/approfondimenti/un-uomo-sopra-la-legge-spiegazione-finale-film-liam-neeson-720162",
+      "titolo": "Un uomo sopra la legge: la spiegazione del finale del film con Liam Neeson",
+      "sommario": "Un uomo sopra la legge: la spiegazione del finale del film con Liam Neeson Un uomo sopra la legge (The Marksman), diretto da Robert Lorenz e interpretato da Liam Neeson, sembra inizialmente costruito secondo gli schemi del thriller d’azione: un uomo solitario, un ragazzo in pericolo, un’organizzazione criminale alle ca",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-05T23:25:53.000Z",
+      "immagine": "https://cinefilos.it/wp-content/uploads/2023/10/Un-uomo-sopra-la-legge-finale.webp",
+      "categorie": [
+        "Approfondimenti"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.3,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.434Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
+      "titolo": "Venezia 83: Geoffrey Rush e Rodney Hicks parlano di salute mentale",
+      "sommario": "Il cast di Mr. Nelson, Did You Kill People? parla dell'importanza della fiducia, di umanità e guarigione.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T17:49:27.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Interviste"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.375Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/",
+      "titolo": "Un mondo meraviglioso: il trailer ufficiale del film",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T14:07:55.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.376Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/",
+      "titolo": "Maxton Hall: il teaser trailer ufficiale",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T13:58:57.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.376Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-un-emozionato-john-malkovich-alla-premiere-mondiale-di-wild-horse-nine/",
+      "titolo": "Venezia 83: un emozionato John Malkovich alla premiere mondiale di Wild Horse Nine",
+      "sommario": "Martin McDonagh ha parlato della genesi del film e dei parallelismi con l'epoca odierna.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-04T09:53:32.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.377Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/ti-presento-i-fotter-il-nuovo-trailer-del-film/",
+      "titolo": "Ti presento i Fotter: il nuovo trailer del film",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-03T14:52:24.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.377Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-george-clooney-e-lattacco-allautoritarismo/",
+      "titolo": "Venezia 83: George Clooney e l'attacco all'autoritarismo",
+      "sommario": "L'attore ha difeso Mark Ruffalo, commentato la fusione Paramount-Warner e lanciato un appello sul futuro del giornalismo.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-03T10:36:12.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.379Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-maggie-gyllenhaal-sul-problema-sistemico-dellassenza-delle-donne-registe/",
+      "titolo": "Venezia 83: Maggie Gyllenhaal sul 'problema sistemico' dell'assenza delle donne registe",
+      "sommario": "I registi hanno la responsabilità di prendere posizione politicamente? Maggie Gyllenhaal risponde a Venezia 83.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-03T08:08:48.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.380Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/street-fighter-il-nuovo-trailer-del-film-con-andrew-koji/",
+      "titolo": "Street Fighter: il nuovo trailer del film con Andrew Koji",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-02T17:03:04.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.381Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/city-of-blood-trailer-ufficiale-del-film-su-disney/",
+      "titolo": "City of Blood: trailer ufficiale del film su Disney+",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-02T16:43:57.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.381Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-oggi-laura-dern-presentera-il-leone-doro-alla-carriera-per-george-clooney/",
+      "titolo": "Venezia 83, oggi Laura Dern presenterà il Leone d'oro alla carriera per George Clooney",
+      "sommario": "Nella serata d'apertura, la laudatio di Clooney affidata all'attrice statunitense.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-02T04:57:54.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Ultime News"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.382Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/monster-la-storia-di-lizzie-borden-il-trailer-ufficiale/",
+      "titolo": "Monster: La storia di Lizzie Borden, il trailer ufficiale.",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T14:17:15.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.382Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/fjord-il-trailer-del-film-di-cristian-mungiu-con-sebastian-stan/",
+      "titolo": "Fjord: il trailer del film di Cristian Mungiu con Sebastian Stan",
+      "sommario": "",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T13:50:07.000Z",
+      "immagine": null,
+      "categorie": [
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.382Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/dio-ride-trailer-del-film-di-chiusura-di-venezia-83/",
+      "titolo": "Dio ride, trailer del film di chiusura di Venezia 83",
+      "sommario": "Arriva online il trailer di Dio ride, il film con Pierfrancesco Favino e Silvio Orlando.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T12:30:06.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Trailer & Video"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.384Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.screenweek.it/priscilla-2-guy-pearce-ci-aggiorna-sulla-produzione-del-sequel/",
+      "titolo": "Priscilla 2, Guy Pearce ci aggiorna sulla produzione del sequel",
+      "sommario": "In estrema sintesi: ci vuole ancora un po'.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-01T04:59:12.000Z",
+      "immagine": null,
+      "categorie": [
+        "Cinema",
+        "Ultime News"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.385Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/florence-pugh-e-the-rock-in-questo-commovente-film-su-netflix-sulla-vera-storia-di-una-campionessa-wwe",
+      "titolo": "Florence Pugh e The Rock in questo commovente film su Netflix sulla vera storia di una campionessa WWE",
+      "sommario": "Questo film su Netflix racconta la vera storia di Paige, la più giovane campionessa WWE. Un film commovente prodotto da The Rock con Florence Pugh protagonista.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T18:00:03.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NzNcL1VuYS1zY2VuYS1kaS1GaWdodGluZy13aXRoLW15LWZhbWlseS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDB9fX0=?signature=a626b5d2a3b282b95d0144a105707c9e5e5ffb5f36fa15d99c5027458befbd56",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.506Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/questo-film-su-prime-video-con-bruce-willis-ha-il-miglior-colpo-di-scena-della-storia-dellhorror",
+      "titolo": "Questo film su Netflix con Bruce Willis ha ancora il miglior colpo di scena della storia dell'horror",
+      "sommario": "Il plot twist finale di questo film M. Night Shyamalan funziona ancora meglio alla seconda visione. Analisi del capolavoro con Bruce Willis 27 anni dopo.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T17:00:09.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NzFcL1VuYS1zY2VuYS1kaS1JbC1zZXN0by1zZW5zby5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDB9fX0=?signature=e904aa01fe3ec3c118a4052e9d9bf894cb75ea045c0ee31bb796d31a38054c37",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.507Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan",
+      "titolo": "Bruce Willis in questo film sci-fi di Rian Johnson su Prime Video (che non ha nulla da invidiare a Nolan)",
+      "sommario": "Il film di Rian Johnson è un capolavoro sci-fi del 2012 ingiustamente dimenticato. Scopri perché merita lo stesso riconoscimento di Inception e Interstellar.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T16:00:05.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NjlcL1VuYS1zY2VuYS1kaS1Mb29wZXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=44c57cb4283375b569746e3f7345f7b1a7fd401006744e7164dc5a5f4895604d",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "passato",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.508Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/naza-il-documentario-su-gaza-che-scuote-venezia",
+      "titolo": "Naza, il documentario su Gaza che scuote Venezia",
+      "sommario": "I Wonder Pictures ha acquisito per l’Italia NAZA, il nuovo documentario diretto da Yuval Abraham e Rachel Szor, che sarà presentato in anteprima mondiale oggi, 2 settembre 2026, alla 83ª Mostra Internazionale d’Arte Cinematografica della Biennale di Venezia, in concorso al Lido, per portare al centro del dibattito il r",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-09-02T11:32:31.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.422Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/venezia-2026-gli-11-fuori-concorso-fiction-tra-thriller-dautore-e-grandi-storie",
+      "titolo": "Venezia 2026, gli 11 fuori concorso fiction tra thriller d’autore e grandi storie",
+      "sommario": "La Mostra del Cinema di Venezia 2026 affida alla sezione Fuori Concorso fiction, al Lido, undici titoli presentati in questi giorni per raccontare il cinema contemporaneo fuori dalla corsa ai premi, tra autori internazionali, generi diversi e tre registi italiani — Giovanni Veronesi, Gianni Amelio e Mario Martone — chi",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-08-31T11:32:44.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.425Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/edoardo-pesce-incanta-venezia-con-il-suo-giaffa-favola-nera-degli-invisibili",
+      "titolo": "Edoardo Pesce incanta Venezia con il suo Giaffa, favola nera degli invisibili",
+      "sommario": "Il 2 settembre alla Mostra del cinema di Venezia, nella Settimana della critica, Marco Santi presenta Il Grande Giaffa, sua opera prima con Edoardo Pesce, Roberto Zibetti, Barbara Chichiarelli e Carlotta Gamba, una favola nera sulla popolarità senza ragione e sul bisogno, molto umano, di essere finalmente visti. Il Gra",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-08-30T11:32:26.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.426Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/venice4palestine-lancia-lappello-la-bandiera-palestinese-al-lido",
+      "titolo": "Venice4Palestine lancia l’appello: la bandiera palestinese al Lido",
+      "sommario": "Venice4Palestine ha lanciato oggi, venerdì 28 agosto 2026, un nuovo appello alla Biennale di Venezia, alla Mostra internazionale d’arte cinematografica e ai lavoratori del settore, chiedendo al Lido azioni concrete per la Palestina durante il festival, a partire dall’esposizione della bandiera palestinese in occasione ",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-08-28T11:33:02.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.429Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/richard-gere-e-uno-spietato-truffatore-in-questo-film-su-prime-video-ma-vogliamo-che-la-passi-liscia",
+      "titolo": "Richard Gere è uno spietato truffatore in questo film su Prime Video (ma vogliamo che la passi liscia)",
+      "sommario": "Scopri perché nel cinema tifiamo per i cattivi invece che per gli eroi buoni, come accade in questo film con Richard Gere su Prime Video.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T15:00:20.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NjhcL1VuYS1zY2VuYS1kaS1BcmJpdHJhZ2UuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=9b70907f0f9377cf0aaf5ab6a0a4c2683494a6f32fca8dcdb2c17f4252d0e74d",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.511Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://movieplayer.it/news/uomini-donne-giacomo-vacalebre-vecchio-post-temptation-island_170914/",
+      "titolo": "Uomini e Donne, Giacomo Vacalebre sorprende: spunta un vecchio post contro Temptation Island",
+      "sommario": "Il nuovo tronista di Uomini e Donne è stato presentato dopo la registrazione del 3 settembre, ma sul web è riemerso un vecchio post attribuito a Giacomo Vacalebre e legato a Temptation Island. L'avventura di Giacomo Vacalebre a Uomini e Donne è iniziata con la registrazione del 3 settembre, quando il nuovo tronista è s",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-05T09:10:49.000Z",
+      "immagine": "https://movieplayer.net-cdn.it/t/images/2026/09/05/uomini-e-donne-giacomo-vacalebre_jpg_1280x720_q85.jpg",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.445Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://movieplayer.it/news/giovanni-grazioso-uomini-e-donne-non-subito-tronista_170906/",
+      "titolo": "Giovanni Grazioso a Uomini e Donne, la svolta: non sarà subito tronista",
+      "sommario": "Dopo il successo conquistato a Temptation Island, Giovanni Grazioso sarebbe pronto a entrare nel programma di Maria De Filippi. Per lui, però, l'avventura dovrebbe iniziare con un ruolo diverso dal trono. Sono iniziate le prime registrazioni delle puntate della nuova stagione di Uomini e Donne, che tornerà prossimament",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-04T11:26:00.000Z",
+      "immagine": "https://movieplayer.net-cdn.it/t/images/2026/09/04/giovann-grazioso-03_jpg_1280x720_q85.jpg",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.477Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://movieplayer.it/news/uomini-donne-anticipazioni-agnese-restituisce-anello-roberto_170895/",
+      "titolo": "Uomini e Donne anticipazioni: Agnese De Pasquale restituisce l’anello a Roberto Priolo",
+      "sommario": "Gemma continua le sue conoscenze, Agnese restituisce l'anello a Roberto e la tronista Giorgia vive nuove emozioni con Lory e Camillo nella nuova registrazione. Nuove importanti anticipazioni arrivano dagli studi di Uomini e Donne, dove si è svolta una seconda registrazione della nuova stagione del dating show di Maria ",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-04T07:53:59.000Z",
+      "immagine": "https://movieplayer.net-cdn.it/t/images/2026/09/04/roberto-priolo-agnese-de-pasquale_jpg_1280x720_q85.jpg",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.484Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://movieplayer.it/news/giacomo-nuovo-tronista-uomini-e-donne_170892/",
+      "titolo": "Giacomo: chi è il nuovo tronista di Uomini e Donne: \"Cerco una storia matura\"",
+      "sommario": "Il nuovo tronista ha 30 anni, è responsabile commerciale e in passato è stato un tennista professionista. Dopo una relazione durata 12 anni, oggi cerca un amore maturo e autentico. Giacomo è il nuovo tronista di Uomini e Donne. Il 30enne è stato presentato oggi, 3 settembre, nel corso della seconda registrazione della ",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-03T15:54:43.000Z",
+      "immagine": "https://movieplayer.net-cdn.it/t/images/2026/09/03/tronista-uomini-e-donne-giacomo_1_jpg_1280x720_q85.jpg",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.487Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-anno-898642.html",
+      "titolo": "State of Play settembre 2026 delude: il pubblico cala ai livelli più bassi dell'anno",
+      "sommario": "Lo State of Play di settembre ha registrato interesse tiepido e il numero più basso di spettatori per Sony nel 2026, ben sotto le aspettative. Settembre è iniziato con diverse novità in casa PlayStation . Sony ha dato vita a una nuova edizione dello State of Play dedicato alle prossime uscite videoludiche . L'interesse",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-09-05T05:35:00.000Z",
+      "immagine": "https://images.everyeye.it/img-notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-dell-anno-v4-898642-800x600.webp",
+      "categorie": [
+        "PlayStation Studios"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.409Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/jane-fonda-a-89-anni-sono-piu-forte-che-mai-mobilitarsi-e-necessario",
+      "titolo": "Jane Fonda a 89 anni: sono più forte che mai, mobilitarsi è necessario",
+      "sommario": "Jane Fonda, attrice e attivista statunitense, ha ricevuto giovedì a Venezia, al Teatro Goldoni, uno dei DVF Awards promossi da Diane von Furstenberg, in una serata dedicata a donne impegnate nella politica, nei diritti e nel sociale, e ha colto l’occasione per parlare di clima, intelligenza artificiale, cinema e potere",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-09-04T11:32:39.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": -0.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.420Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/barbera-chiude-alla-bandiera-palestinese-non-ci-sono-margini",
+      "titolo": "Barbera chiude alla bandiera palestinese: non ci sono margini",
+      "sommario": "Alberto Barbera, direttore della Mostra del Cinema di Venezia, ha escluso oggi al Lido di Venezia, prima dell’apertura dell’Italian Pavilion, che la Biennale possa issare la bandiera palestinese, spiegando ai giornalisti che l’ente può esporre solo le bandiere degli Stati riconosciuti dal governo italiano, dopo il nuov",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-09-03T11:32:39.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": -0.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.421Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/larchivio-di-martin-scorsese-verso-roma-trattativa-con-il-mic-per-la-donazione",
+      "titolo": "L’archivio di Martin Scorsese verso Roma: trattativa con il Mic per la donazione",
+      "sommario": "Martin Scorsese sta trattando con il ministero della Cultura, oggi guidato da Alessandro Giuli, la possibile donazione in Italia del suo archivio integrale, un patrimonio di materiali legati a circa cinquant’anni di cinema americano, perché il regista newyorkese di origini siciliane intende consolidare il suo rapporto ",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-09-01T11:32:34.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": -0.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.423Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.cineblog.it/post/silent-life-il-biopic-onirico-che-riscopre-rodolfo-valentino-a-100-anni-dalla-morte",
+      "titolo": "Silent life, il biopic onirico che riscopre Rodolfo Valentino a 100 anni dalla morte",
+      "sommario": "Rodolfo Valentino, morto il 23 agosto 1926 a New York a 31 anni per complicazioni dopo un intervento a un’ulcera perforata, torna al centro del racconto cinematografico nel 2026, a cent’anni dalla scomparsa, con “Silent Life: The Rudolph Valentino Centennial Final Cut”, film indipendente di Vladislav Kozlov che sarà pr",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-08-29T11:32:14.000Z",
+      "immagine": null,
+      "categorie": [
+        "Notizie"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": -0.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.427Z",
+      "it": null,
+      "curato": false
     }
   ]
 }

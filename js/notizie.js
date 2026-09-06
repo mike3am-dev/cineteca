@@ -1,13 +1,17 @@
 /* ══════════════════════════════════════════════════════════
-   notizie.js — la rassegna, in una scheda sua
+   notizie.js — la rassegna
 
-   Poche notizie, raggruppate per film, tutte italiane.
-   Sopra le tre da non perdere, sotto i temi della settimana.
+   Una rassegna vera ha un ordine di lettura: prima la cosa del
+   giorno, poi le ultime ore, poi ciò di cui tutti parlano, poi
+   le letture lunghe, le chicche, e in fondo quello che il tempo
+   ha reso interessante. Ogni sezione ha una forma sua, perché
+   l'occhio deve capire dove si trova senza leggere l'etichetta.
    ══════════════════════════════════════════════════════════ */
 
 const Notizie = (() => {
   const root = document.getElementById('notizie');
   const LETTE = 'cineteca:notizie-lette';
+  const TMDB = 'https://image.tmdb.org/t/p';
   let dati = null;
 
   const lette = () => {
@@ -15,13 +19,27 @@ const Notizie = (() => {
     catch { return new Set(); }
   };
   const segna = links => {
-    try { localStorage.setItem(LETTE, JSON.stringify([...links].slice(-200))); } catch { /* pazienza */ }
+    try { localStorage.setItem(LETTE, JSON.stringify([...links].slice(-400))); } catch { /* pazienza */ }
   };
 
+  /* "2 h fa" è una notizia, "4 giorni fa" è un ricordo: il tempo
+     va detto con la grana giusta per il momento. */
   const quando = iso => {
     if (!iso) return '';
-    const g = Math.round((Date.now() - new Date(iso)) / 86400000);
-    return g <= 0 ? 'oggi' : g === 1 ? 'ieri' : `${g} giorni fa`;
+    const min = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (min < 60)       return min <= 5 ? 'adesso' : `${min} min fa`;
+    const h = Math.round(min / 60);
+    if (h < 24)         return `${h} h fa`;
+    const g = Math.round(h / 24);
+    if (g === 1)        return 'ieri';
+    if (g < 7)          return `${g} giorni fa`;
+    return F.dataBreve(new Date(iso));
+  };
+
+  const GIORNI_SETTIMANA = ['domenica', 'lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato'];
+  const oggiEsteso = () => {
+    const d = new Date();
+    return `${GIORNI_SETTIMANA[d.getDay()]} ${F.dataLunga(d)}`;
   };
 
   async function carica() {
@@ -33,69 +51,209 @@ const Notizie = (() => {
     return dati;
   }
 
+  /* ── pezzi comuni ─────────────────────────────────────── */
+  const tit = n => n.it?.titolo || n.titolo;
+  /* Certe testate aprono il sommario ripetendo il titolo parola per
+     parola: letto sotto il titolo, è un balbettio. Via. */
+  const som = n => {
+    let s = n.it?.sommario || n.sommario || '';
+    const t = tit(n).replace(/[.…]+$/, '');
+    if (s.toLowerCase().startsWith(t.toLowerCase().slice(0, 30))) s = s.slice(t.length).replace(/^[\s.:–—-]+/, '');
+    // Un sommario troncato a metà parola dal feed: chiudo alla frase intera.
+    if (s.length > 170) { const k = s.lastIndexOf('. ', 170); s = (k > 60 ? s.slice(0, k + 1) : s.slice(0, 170).replace(/\s\S*$/, '') + '…'); }
+    return s.replace(/^\p{Lu}[\p{Ll}]+\.\S*$/u, '').trim();
+  };
+  const imgTmdb = (path, size = 'w780') => path ? `${TMDB}/${size}/${String(path).replace(/^\/+/, '')}` : null;
+
+  /* L'immagine dell'articolo, e se manca quella del film di cui parla. */
+  const immagine = n => n.immagine
+    || imgTmdb(n.soggetti?.find(s => s.backdrop)?.backdrop)
+    || imgTmdb(n.soggetti?.find(s => s.poster)?.poster, 'w500');
+
+  const fonte = n => `<span class="ras-fonte">${F.esc(n.fonte)}</span><span class="ras-quando">${F.esc(quando(n.data))}</span>`;
+
+  /* La riga "perché ti riguarda": dal curatore se c'è, altrimenti
+     dal radar o dal legame con la libreria. */
+  const perche = n => {
+    if (n.it?.perche) return n.it.perche;
+    if (n.radar) return n.radar;
+    const mio = n.soggetti?.find(s => s.inLibreria);
+    if (mio) return mio.lista === 'visto' ? `${mio.nome}: l'hai visto` : `${mio.nome}: ce l'hai in libreria`;
+    return null;
+  };
+
+  /* I film della libreria citati diventano un tag che apre la scheda. */
+  const tagFilm = n => (n.soggetti || []).filter(s => s.inLibreria && s.filmId).slice(0, 2)
+    .map(s => `<button class="ras-tag ras-tag-film" data-open="${F.esc(s.filmId)}">${
+      s.lista === 'cinema' ? '🎟️' : s.lista === 'visto' ? '✓' : '🛋️'} ${F.esc(s.nome)}</button>`).join('');
+
+  const nuova = (n, viste) => viste.has(n.link) ? '' : ' is-nuova';
+
+  /* ── i formati ─────────────────────────────────────────── */
+  const apertura = (n, viste) => {
+    const img = immagine(n);
+    const p = perche(n);
+    return `<section class="ras-apertura${nuova(n, viste)}">
+      <a class="ras-apertura-link" href="${F.esc(n.link)}" target="_blank" rel="noopener">
+        ${img ? `<img class="ras-apertura-img" src="${F.esc(img)}" alt="" loading="eager" onerror="this.remove()">` : ''}
+        <span class="ras-apertura-testo">
+          <span class="ras-kicker"><b>Apertura</b> ${fonte(n)}</span>
+          <span class="ras-apertura-titolo">${F.esc(tit(n))}</span>
+          ${som(n) ? `<span class="ras-apertura-sommario">${F.esc(som(n))}</span>` : ''}
+          ${p ? `<span class="ras-perche">${F.esc(p)}</span>` : ''}
+        </span>
+      </a>
+      ${tagFilm(n) ? `<div class="ras-tags">${tagFilm(n)}</div>` : ''}
+    </section>`;
+  };
+
+  const scheda = (n, viste) => {
+    const img = immagine(n);
+    return `<a class="ras-scheda${nuova(n, viste)}" href="${F.esc(n.link)}" target="_blank" rel="noopener">
+      <span class="ras-scheda-img">${img ? `<img src="${F.esc(img)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</span>
+      <span class="ras-scheda-testo">
+        <span class="ras-meta">${fonte(n)}</span>
+        <b>${F.esc(tit(n))}</b>
+      </span>
+    </a>`;
+  };
+
+  const riga = (n, viste, { conPerche = true, conImg = true } = {}) => {
+    const img = conImg ? immagine(n) : null;
+    const p = conPerche ? perche(n) : null;
+    return `<div class="ras-riga${nuova(n, viste)}">
+      <a class="ras-riga-link" href="${F.esc(n.link)}" target="_blank" rel="noopener">
+        ${img ? `<span class="ras-riga-img"><img src="${F.esc(img)}" alt="" loading="lazy" onerror="this.parentNode.remove()"></span>` : ''}
+        <span class="ras-riga-testo">
+          <b>${F.esc(tit(n))}</b>
+          ${som(n) ? `<span class="ras-riga-sommario">${F.esc(som(n))}</span>` : ''}
+          ${p ? `<span class="ras-perche">${F.esc(p)}</span>` : ''}
+          <span class="ras-meta">${fonte(n)}</span>
+        </span>
+      </a>
+      ${tagFilm(n) ? `<div class="ras-tags">${tagFilm(n)}</div>` : ''}
+    </div>`;
+  };
+
+  const compatta = (n, viste) => `<a class="ras-compatta${nuova(n, viste)}" href="${F.esc(n.link)}" target="_blank" rel="noopener">
+      <b>${F.esc(tit(n))}</b>
+      <span class="ras-meta">${fonte(n)}</span>
+    </a>`;
+
+  const tema = (t, perLink, viste) => {
+    const voci = t.link.map(l => perLink.get(l)).filter(Boolean);
+    if (!voci.length) return '';
+    const img = imgTmdb(t.backdrop) || voci.map(v => v.immagine).find(Boolean) || imgTmdb(t.poster, 'w500');
+    const etichetta = t.inLibreria
+      ? (t.lista === 'cinema' ? '🎟️ in libreria' : t.lista === 'visto' ? '✓ l\'hai visto' : '🛋️ in libreria')
+      : t.tipo === 'film' && t.anno ? t.anno : t.tipo === 'regista' ? 'regista' : t.tipo === 'attore' ? '' : '';
+    return `<article class="ras-tema">
+      <div class="ras-tema-testa">
+        ${img ? `<img class="ras-tema-img" src="${F.esc(img)}" alt="" loading="lazy" onerror="this.remove()">` : ''}
+        <div class="ras-tema-titolo">
+          <span class="ras-tema-nome">${F.esc(t.soggetto)}</span>
+          <span class="ras-tema-meta">${t.quante} ${t.quante === 1 ? 'articolo' : 'articoli'} · ${t.testate} ${t.testate === 1 ? 'testata' : 'testate'}${etichetta ? ` · ${F.esc(etichetta)}` : ''}</span>
+        </div>
+        ${t.inLibreria && t.filmId ? `<button class="ras-tag ras-tag-film" data-open="${F.esc(t.filmId)}">Apri la scheda</button>` : ''}
+      </div>
+      <div class="ras-tema-voci">${voci.map(v => compatta(v, viste)).join('')}</div>
+    </article>`;
+  };
+
+  const anniversario = a => {
+    const img = imgTmdb(a.poster, 'w342');
+    const dentro = `
+      <span class="ras-anni-poster">${img ? `<img src="${F.esc(img)}" alt="" loading="lazy">` : ''}</span>
+      <span class="ras-anni-quando">${a.anniFa} anni fa</span>
+      <b>${F.esc(a.titolo)}</b>
+      <span class="ras-anni-meta">${F.esc(a.anno)}${a.generi?.length ? ` · ${F.esc(a.generi.slice(0, 2).join(', '))}` : ''}${a.voto ? ` · ${a.voto}` : ''}</span>
+      ${a.perche ? `<span class="ras-perche">${F.esc(a.perche)}</span>` : ''}`;
+    return a.inLibreria && a.filmId
+      ? `<button class="ras-anni" data-open="${F.esc(a.filmId)}">${dentro}</button>`
+      : `<a class="ras-anni" href="https://www.themoviedb.org/movie/${a.tmdbId}" target="_blank" rel="noopener">${dentro}</a>`;
+  };
+
+  const sezione = (kicker, sotto, corpo, cls = '') => corpo
+    ? `<section class="ras-sezione ${cls}">
+        <header class="ras-testa"><span class="ras-testa-kicker">${kicker}</span>${sotto ? `<span class="ras-testa-sotto">${F.esc(sotto)}</span>` : ''}</header>
+        ${corpo}
+      </section>` : '';
+
+  /* ── la pagina ─────────────────────────────────────────── */
   async function render() {
     const d = await carica();
     const tutte = d.notizie || [];
     if (!tutte.length) {
-      root.innerHTML = '<p class="empty">Nessuna notizia sui tuoi film in questo momento.</p>';
+      root.innerHTML = '<p class="empty">La rassegna è vuota: il prossimo aggiornamento la riempie.</p>';
       return;
     }
 
     const viste = lette();
     const perLink = new Map(tutte.map(n => [n.link, n]));
-    const evidenza = (d.evidenza || []).map(l => perLink.get(l)).filter(Boolean);
-    const gruppi = (d.gruppi || []).map(g => ({
-      ...g, voci: g.link.map(l => perLink.get(l)).filter(Boolean)
-    })).filter(g => g.voci.length);
+    const prendi = lista => (lista || []).map(l => perLink.get(l)).filter(Boolean);
+
+    const ap = perLink.get(d.apertura);
+    const ultime = prendi(d.ultime);
+    const temi = (d.temi || []).filter(t => t.link.some(l => perLink.has(l)));
+    const radar = prendi(d.radar);
+    const libreria = prendi(d.libreria);
+    const approfondimenti = prendi(d.approfondimenti);
+    const curiosita = prendi(d.curiosita);
+    const passato = prendi(d.passato);
+    const altre = prendi(d.altre);
+    const anni = d.accaddeOggi || [];
+    const nuove = tutte.filter(n => !viste.has(n.link)).length;
 
     root.innerHTML = `
-      ${evidenza.length ? `<section class="n-top">
-        <span class="ph-kicker">Da non perdere</span>
-        <div class="n-top-griglia">${evidenza.map(n => grande(n, viste)).join('')}</div>
-      </section>` : ''}
+      <header class="ras-masthead">
+        <div>
+          <span class="ras-masthead-nome">La rassegna</span>
+          <span class="ras-masthead-data">${F.esc(oggiEsteso())}</span>
+        </div>
+        <span class="ras-masthead-stato">${nuove ? `<i class="ras-punto"></i>${nuove} ${nuove === 1 ? 'nuova' : 'nuove'} · ` : ''}aggiornata ${F.esc(quando(d.aggiornato))}</span>
+      </header>
 
-      ${gruppi.map(g => `
-        <section class="n-tema">
-          <h3 class="n-tema-testa">
-            <span>${F.esc(g.soggetto)}</span>
-            ${g.quante > g.voci.length
-              ? `<i>${g.quante} notizie, le ${g.voci.length} principali</i>`
-              : `<i>${g.quante} ${g.quante === 1 ? 'notizia' : 'notizie'}</i>`}
-          </h3>
-          <div class="n-lista">${g.voci.map(n => riga(n, viste)).join('')}</div>
-        </section>`).join('')}
+      ${ap ? apertura(ap, viste) : ''}
 
-      <p class="nota">Da ${F.esc((d.fonti || []).join(', '))} — solo testate italiane.
-      Tengo gli articoli che nominano nel titolo un tuo film, un regista che segui
-      o un attore che hai visto almeno tre volte. Aggiornato ${F.esc(quando(d.aggiornato))}.</p>`;
+      ${sezione('Ultime ore', 'in ordine di arrivo',
+        ultime.length ? `<div class="ras-scorri">${ultime.map(n => scheda(n, viste)).join('')}</div>` : '', 'ras-ultime')}
 
-    // Aprire la scheda vale come lettura.
-    setTimeout(() => segna(new Set([...viste, ...tutte.map(n => n.link)])), 2500);
+      ${sezione('Se ne parla', 'stesso soggetto, più testate',
+        temi.length ? `<div class="ras-temi">${temi.map(t => tema(t, perLink, viste)).join('')}</div>` : '')}
+
+      ${sezione('Nel tuo radar', 'film che non hai, ma che ti somigliano',
+        radar.length ? `<div class="ras-righe">${radar.map(n => riga(n, viste)).join('')}</div>` : '', 'ras-radar')}
+
+      ${sezione('I tuoi film', 'ciò che tocca la tua libreria',
+        libreria.length ? `<div class="ras-righe">${libreria.map(n => riga(n, viste)).join('')}</div>` : '')}
+
+      ${sezione('Approfondimenti', 'da leggere con calma',
+        approfondimenti.length ? `<div class="ras-griglia-2">${approfondimenti.map(n => riga(n, viste, { conPerche: false })).join('')}</div>` : '')}
+
+      ${sezione('Curiosità', 'retroscena e dettagli',
+        curiosita.length ? `<div class="ras-righe ras-righe-strette">${curiosita.map(n => riga(n, viste, { conPerche: false })).join('')}</div>` : '')}
+
+      ${sezione('Accadde oggi', anni[0]?.approssimato ? 'usciti in questi giorni, anni fa' : 'usciti oggi, anni fa',
+        anni.length ? `<div class="ras-scorri ras-anni-fila">${anni.map(anniversario).join('')}</div>` : '')}
+
+      ${sezione('Dal passato', 'classici, restauri, addii',
+        passato.length ? `<div class="ras-righe ras-righe-strette">${passato.map(n => riga(n, viste, { conPerche: false })).join('')}</div>` : '')}
+
+      ${sezione('E ancora', '',
+        altre.length ? `<div class="ras-lista">${altre.map(n => compatta(n, viste)).join('')}</div>` : '')}
+
+      <p class="nota ras-nota">Da ${F.esc((d.fonti || []).join(', '))}.${d.curatela
+        ? ' Titoli e sommari riscritti in italiano da un redattore automatico; le fonti in inglese sono tradotte.'
+        : ' Solo testate italiane, testi originali.'} Le immagini sono delle rispettive testate e di TMDB.</p>`;
+
+    // Aprire la scheda vale come lettura, dopo qualche secondo.
+    setTimeout(() => segna(new Set([...viste, ...tutte.map(n => n.link)])), 4000);
   }
 
-  const grande = (n, viste) => `
-    <a class="n-grande${viste.has(n.link) ? '' : ' is-nuova'}"
-       href="${F.esc(n.link)}" target="_blank" rel="noopener">
-      <span class="n-meta">
-        <span class="news-fonte">${F.esc(n.fonte)}</span>
-        <span class="news-quando">${F.esc(quando(n.data))}</span>
-      </span>
-      <b>${F.esc(n.titolo)}</b>
-      ${n.sommario ? `<span class="n-sommario">${F.esc(n.sommario.slice(0, 130))}…</span>` : ''}
-    </a>`;
-
-  const riga = (n, viste) => `
-    <a class="n-riga${viste.has(n.link) ? '' : ' is-nuova'}"
-       href="${F.esc(n.link)}" target="_blank" rel="noopener">
-      <span class="n-riga-testo">
-        <b>${F.esc(n.titolo)}</b>
-        <span class="n-meta">
-          <span class="news-fonte">${F.esc(n.fonte)}</span>
-          <span class="news-quando">${F.esc(quando(n.data))}</span>
-        </span>
-      </span>
-      <svg class="n-freccia" viewBox="0 0 24 24"><path d="M7 17 17 7M8 7h9v9"/></svg>
-    </a>`;
+  root.addEventListener('click', e => {
+    const apri = e.target.closest('[data-open]');
+    if (apri) { e.preventDefault(); Detail.open(apri.dataset.open); }
+  });
 
   return { render };
 })();

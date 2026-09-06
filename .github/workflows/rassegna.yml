@@ -1,0 +1,47 @@
+name: Rassegna stampa
+
+# La rassegna vive di ore, non di giorni: un feed letto una volta
+# al mattino è già vecchio a pranzo. Ogni tre ore, leggero — solo
+# i feed e TMDB, niente arricchimento del catalogo. L'aggiornamento
+# quotidiano continua a farla anche lui, non fa male.
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiornamento
+  cancel-in-progress: false
+
+jobs:
+  rassegna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+
+      - name: Raccogli la rassegna
+        env:
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node tools/notizie.mjs
+
+      - name: Pubblica se qualcosa è cambiato
+        run: |
+          git config user.name  "Cineteca bot"
+          git config user.email "actions@github.com"
+          git add data/notizie.json
+          if git diff --cached --quiet; then
+            echo "Nessuna novità."
+          else
+            git commit -m "Rassegna: aggiornamento"
+            git pull --rebase
+            git push
+          fi
