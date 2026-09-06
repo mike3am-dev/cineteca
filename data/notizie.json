@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-05T08:44:05.881Z",
+  "aggiornato": "2026-09-06T09:05:53.706Z",
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -16,6 +16,14 @@
   ],
   "gruppi": [
     {
+      "soggetto": "Top Gun: Maverick",
+      "tipo": "film",
+      "quante": 1,
+      "link": [
+        "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica"
+      ]
+    },
+    {
       "soggetto": "Dune - Parte tre",
       "tipo": "film",
       "quante": 1,
@@ -26,7 +34,7 @@
     {
       "soggetto": "The Batman: Part II",
       "tipo": "film",
-      "quante": 4,
+      "quante": 3,
       "link": [
         "https://cinefilos.it/cinema-news/2026/the-batman-part-2-nuove-foto-set-batsuit-batman-720277",
         "https://www.badtaste.it/articoli/sento-la-mia-eta-e-molto-piu-difficile-robert-pattinson-racconta-la-fatica-sul-set-di-the-batman-2",
@@ -91,16 +99,6 @@
         "https://cinefilos.it/cinema-news/2026/paul-mescal-ridley-scott-escluso-the-dog-stars-dopo-il-gladiatore-ii-719484",
         "https://cinefilos.it/cinema-news/2026/hideo-kojima-recensisce-the-dog-stars-ridley-scott-719689",
         "https://www.badtaste.it/recensioni/the-dog-stars-la-recensione-ridley-scott-abbraccia-la-fine-e-il-cambiamento"
-      ]
-    },
-    {
-      "soggetto": "Spider-Man: Brand New Day",
-      "tipo": "film",
-      "quante": 3,
-      "link": [
-        "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
-        "https://movieplayer.it/news/andrew-garfield-spider-man-brand-new-day-nega-avengers-doomsday_170886/",
-        "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta"
       ]
     }
   ],
@@ -173,6 +171,25 @@
       "prevendite": false,
       "vistoIl": "2026-08-31T11:17:09.809Z",
       "evidenza": true
+    },
+    {
+      "titolo": "Mayday, la recensione: gli anni Ottanta, Top Gun, Springsteen… quando amavamo l’America",
+      "link": "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica",
+      "sommario": "Le nostre considerazioni sul nuovo film con Ryan Reynolds, disponibile su Apple TV.",
+      "data": "2026-09-06T07:30:37.000Z",
+      "fonte": "BadTaste",
+      "soggetto": "Top Gun: Maverick",
+      "soggettoTipo": "film",
+      "citati": [
+        {
+          "nome": "Top Gun: Maverick",
+          "tipo": "film"
+        }
+      ],
+      "rilievo": 7,
+      "prevendite": false,
+      "vistoIl": "2026-09-06T09:05:53.660Z",
+      "evidenza": false
     },
     {
       "titolo": "Dune – Parte tre, emerge un dettaglio sorprendente sul nuovo film di Denis Villeneuve",
@@ -489,63 +506,6 @@
       "rilievo": 8,
       "prevendite": false,
       "vistoIl": "2026-08-31T11:17:09.793Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Spider-Man: Brand New Day ha superato Avengers: Endgame negli incassi in Nord America",
-      "link": "https://fumettologica.it/2026/08/spider-man-brand-new-day-avengers-endgame-incassi-nord-america/",
-      "sommario": "Spider-Man: Brand New Day supera Avengers: Endgame e diventa il secondo maggiore incasso di sempre al box office nordamericano. Spider-Man: Brand New Day ha superato Avengers: Endgame negli incassi in Nord America leggi l’articolo su Fumettologica .",
-      "data": "2026-08-31T09:09:45.000Z",
-      "fonte": "Fumettologica",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 11,
-      "prevendite": false,
-      "vistoIl": "2026-08-31T11:17:09.838Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Andrew Garfield non ha visto Spider-Man: Brand New Day e nega categoricamente: \"Non sono in Doomsday\"",
-      "link": "https://movieplayer.it/news/andrew-garfield-spider-man-brand-new-day-nega-avengers-doomsday_170886/",
-      "sommario": "Andrew Garfield nega il ritorno del suo Spider-Man nel nuovo film del MCU e spiega perché non ha ancora scritto a Tom Holland dopo Brand New Day. Andrew Garfield e le smentite sul suo Spider-Man sono ormai una storia ricorrente. L'attore britannico è tornato a",
-      "data": "2026-09-03T12:30:00.000Z",
-      "fonte": "MoviePlayer",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-04T09:14:38.681Z",
-      "evidenza": false
-    },
-    {
-      "titolo": "Sapevi che esiste uno Spider-Man gay? La proposta che Andrew Garfield fece nel 2013 torna alla ribalta",
-      "link": "https://www.badtaste.it/articoli/sapevi-che-esiste-uno-spider-man-gay-la-proposta-che-andrew-garfield-fece-nel-2013-torna-alla-ribalta",
-      "sommario": "Nel 2013 Andrew Garfield propose uno Spider-Man gay con Michael B. Jordan. La provocazione che cambiò il dibattito sulla rappresentazione dei supereroi.",
-      "data": "2026-09-01T15:09:43.000Z",
-      "fonte": "BadTaste",
-      "soggetto": "Spider-Man: Brand New Day",
-      "soggettoTipo": "film",
-      "citati": [
-        {
-          "nome": "Spider-Man: Brand New Day",
-          "tipo": "film"
-        }
-      ],
-      "rilievo": 7,
-      "prevendite": false,
-      "vistoIl": "2026-09-02T09:13:53.629Z",
       "evidenza": false
     }
   ]
