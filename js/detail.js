@@ -109,13 +109,12 @@ const Detail = (() => {
         ${statsBlock(m)}
         ${castBlock(m)}
 
-        <!-- Spostare e cancellare sono manutenzione, non lettura:
-             stanno in fondo, dopo tutto quello che c'è da sapere. -->
+        <!-- Cancellare è manutenzione, non lettura, ed è l’unica
+             azione da cui non si torna indietro: sta in fondo, da
+             sola, dopo tutto quello che c’è da sapere. Spostare fra
+             le liste invece è una decisione come le altre, e sta su
+             insieme agli altri comandi. -->
         <section class="d-gestione">
-          ${m.lista !== 'visto' ? `<button class="d-sposta" data-act="sposta">
-            ${m.lista === 'cinema' ? '🛋️ Spostalo fra quelli da vedere'
-                                   : '🎟️ Rimettilo al cinema'}
-          </button>` : ''}
           <button class="d-elimina" data-act="elimina">🗑 Togli dalla libreria</button>
         </section>
 
@@ -126,12 +125,23 @@ const Detail = (() => {
       nuovaImg.replaceWith(vecchiaImg);
   }
 
-  /* ── i quattro bottoni in cima ─────────────────────────
-     Stanno in una funzione loro perché sono l'unica cosa che cambia
-     quando tocchi "pronto" o "voglio rivederlo": così si riscrivono
-     da soli, senza tirarsi dietro tutta la scheda. */
+  /* ── i comandi in cima ─────────────────────────────────
+     Sono l'unica cosa che cambia quando tocchi un tag: stanno in una
+     funzione loro, così si riscrivono da soli senza tirarsi dietro
+     tutta la scheda.
+
+     Qui c'è tutto quello che decidi TU su questo film, compreso il
+     cambio di lista. Prima "spostalo" era in fondo, sotto il cast: la
+     decisione più comune — "al cinema no, ma a casa sì" — finiva
+     nascosta dopo due schermate di facce, e l'unico bottone che
+     sembrava fare quel mestiere era il popcorn, che invece fa altro.
+
+     Il popcorn dice "ce l'ho, si guarda stasera": su un film ancora
+     in sala non vuol dire niente, quindi lì non compare. */
   function comandi(m) {
     const u = m.user;
+    const aCasa = m.lista === 'casa';
+
     return `<div class="d-actions">
       ${m.trailer ? `<a class="btn btn-primary" href="${F.esc(m.trailer)}" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24"><path d="M6 4l14 8-14 8V4z"/></svg> Guarda il trailer</a>` : ''}
@@ -139,10 +149,14 @@ const Detail = (() => {
         <svg viewBox="0 0 24 24"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg>
         ${u.seen ? 'Visto' : 'Segna come visto'}
       </button>
-      <button class="btn${u.pronto ? ' btn-pronto' : ' btn-ghost'}" data-act="pronto">
+      ${m.lista !== 'visto' ? `<button class="btn btn-ghost" data-act="sposta">
+        <span class="btn-emoji">${aCasa ? '🎟️' : '🛋️'}</span>
+        ${aCasa ? 'Rimettilo al cinema' : 'Da vedere a casa'}
+      </button>` : ''}
+      ${aCasa && !u.seen ? `<button class="btn${u.pronto ? ' btn-pronto' : ' btn-ghost'}" data-act="pronto">
         <span class="btn-emoji">🍿</span>
         ${u.pronto ? 'Pronto da vedere' : 'Segna come pronto'}
-      </button>
+      </button>` : ''}
       <button class="btn${u.rewatch ? ' btn-rewatch' : ' btn-ghost'}" data-act="rewatch">
         <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 0 1 15.5-6.2L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15.5 6.2L3 16"/><path d="M3 21v-5h5"/></svg>
         ${u.rewatch ? 'Da rivedere' : 'Voglio rivederlo'}
@@ -332,7 +346,9 @@ const Detail = (() => {
     if (btn.dataset.act === 'sposta') {
       const m = Store.byId(currentId);
       Store.spostaIn(currentId, m.lista === 'cinema' ? 'casa' : 'cinema');
-      render();
+      // Cambia anche quali comandi hanno senso (il popcorn compare o
+      // sparisce), quindi qui serve il ridisegno intero.
+      aggiorna();
     }
     if (btn.dataset.act === 'elimina') {
       const m = Store.byId(currentId);
