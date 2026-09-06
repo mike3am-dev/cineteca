@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-06T11:17:20.990Z",
+  "preparato": "2026-09-06T11:18:55.803Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -33,6 +33,102 @@
     ]
   },
   "articoli": [
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/03/star-trek-iv-the-voyage-home-review-kirk-spock-and-co-on-semi-intentionally-hilarious-save-the-whale-mission",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-03T08:00:47.000Z",
+      "titolo": "Star Trek IV: The Voyage Home review – Kirk, Spock and co on semi-intentionally hilarious save-the-whale mission",
+      "sommario": "<p>Our heroes travel back through time to San Francisco in 1986 so they can commune with aliens threatening future Earth – it’s preposterously good fun</p><p>Here is the fourth and silliest movie in the Star Trek franchise, now on rerelease for its 40th anniversary. Directed by Leonard Nimoy, it’s a film of pure shark-",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "The Whale (in libreria, visto)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-08-31T13:21:16.000Z",
+      "titolo": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
+      "sommario": "<p>‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’</p><p>Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Mother Mary (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-03T12:00:28.000Z",
+      "titolo": "Tall tales: the 20 best giants in film – ranked!",
+      "sommario": "<p>On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage</p><p>Not a <a href=\"https://en.wikipedia.org/wiki/BFG_(weapon)\">first-person-shooter BFG</a>, alas, but one of Steven Spielberg’s worst fi",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Steven Spielberg"
+      ],
+      "radar": "regia di Steven Spielberg, di cui hai visto un film"
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-02T16:00:28.000Z",
+      "titolo": "Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight",
+      "sommario": "<p>An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet Russia</p><p>Ryan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war 80s, when it seemed every red-blooded young guy in America adored Top Gun and wanted to be a U",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Ryan Reynolds"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/02/late-fame-review-willem-dafoe",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-02T08:00:26.000Z",
+      "titolo": "Late Fame review – Willem Dafoe superb as ever as twilight-years bohemian getting a second chance",
+      "sommario": "<p>Adaptation of an Arthur Schnitzler novella sees Dafoe’s ageing poet embraced by a younger cohort of capricious hipsters. It’s smart, literate and affecting</p><p>There’s a marvellous tenderness and generosity to this elegant tale of autumnal regret; an intimate movie acted with effortless grace by Willem Dafoe. In f",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/01/super-nature-review-ed-sayers-documentary",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-01T10:00:01.000Z",
+      "titolo": "Super Nature review – crowd-sourced Super 8 film is a triumphant collage of hope for the natural world",
+      "sommario": "<p>Film-maker Ed Sayers’ project gathered footage from collaborators all over the world, cleverly edited to combine human and animal contributions</p><p>This delightful, fleet-footed film represents a labour of love both for its writer-director-producer-editor, Briton Ed Sayers, and his many, many collaborators who sho",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/04/faces-of-death-review-rework-of-notorious-video-nasty-turns-horror-voyeurism-into-moral-panic-fable",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-04T06:00:01.000Z",
+      "titolo": "Faces of Death review – rework of notorious video nasty turns horror voyeurism into moral panic fable",
+      "sommario": "<p>A retelling of the 1978 ‘video nasty’ follows an online content moderator faced with steadily more appalling footage but reverts to generic bloodletting</p><p>Emerging amid the original 1970s home-rental boom, John Alan Schwartz’s 1978 film Faces of Death was an ultra-morbid extension of the so-called “<a href=\"http",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-03T06:00:45.000Z",
+      "titolo": "Lomu review – fascinatingly nuanced tribute to rugby’s first superstar",
+      "sommario": "<p>His destructive pace and power changed the game for ever, but behind the fame and impassive exterior of this gentle giant was a life of chaos and emotional discord</p><p>There’s an inevitable air of melancholy overhanging this profile of New Zealand rugby star Jonah Lomu; we all know how the story ended for this mag",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
     {
       "link": "https://www.screenweek.it/city-of-blood-trailer-ufficiale-del-film-su-disney/",
       "fonte": "ScreenWeek",

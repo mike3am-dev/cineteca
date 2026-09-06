@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-06T11:17:25.853Z",
+  "aggiornato": "2026-09-06T11:18:57.684Z",
   "curatela": true,
   "fonti": [
     "BadTaste",
@@ -1201,7 +1201,7 @@
       "fonte": "Hollywood Reporter",
       "lingua": "en",
       "data": "2026-09-05T21:52:17.000Z",
-      "immagine": null,
+      "immagine": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-629192194.jpg?crop=0px%2C214px%2C3000px%2C1679px&resize=1440%2C810",
       "categorie": [
         "Movie News",
         "Movies",
@@ -1673,57 +1673,6 @@
       "fotoCercata": true
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/primetime-robert-pattinson-review-roundup-critics-a24-1236691991/",
-      "titolo": "‘Primetime’: Robert Pattinson Earns Raves as Chris Hansen — Here’s What Critics Are Saying",
-      "sommario": "The thriller about the former 'To Catch a Predator' host premiered Saturday at the Venice Film Festival and will open in theaters Sept. 25.",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-05T22:15:36.000Z",
-      "immagine": null,
-      "categorie": [
-        "Movie News",
-        "Movies",
-        "A24",
-        "Chris Hansen",
-        "Lance Oppenheim",
-        "Primetime",
-        "Robert Pattinson"
-      ],
-      "soggetti": [
-        {
-          "nome": "Robert Pattinson",
-          "tipo": "attore",
-          "inTitolo": true,
-          "inLibreria": false,
-          "lista": null,
-          "filmId": null,
-          "tmdbId": null,
-          "backdrop": null,
-          "poster": null,
-          "profilo": null,
-          "trend": false,
-          "anno": null
-        }
-      ],
-      "soggetto": "Robert Pattinson",
-      "soggettoTipo": "attore",
-      "sezione": "approfondimento",
-      "inLibreria": false,
-      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
-      "prevendite": false,
-      "rilievo": 7.5,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T11:17:18.716Z",
-      "it": {
-        "titolo": "Primetime, la critica applaude Robert Pattinson nei panni di Chris Hansen",
-        "sommario": "Il thriller presentato sabato a Venezia esce in sala il 25 settembre; l'Hollywood Reporter raccoglie i primi giudizi.",
-        "perche": "Pattinson lo hai già visto due volte: qui è il ruolo che potrebbe cambiargli passo"
-      },
-      "curato": true,
-      "immagineGrande": null,
-      "fotoCercata": true
-    },
-    {
       "link": "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/",
       "titolo": "Oasis: Don't Look Back in Anger parla a tutti, non solo ai millennials",
       "sommario": "La recensione del documentario Oasis: Don't Look Back sui Fratelli Gallagher, al cinema dal 10 settembre.",
@@ -1770,13 +1719,64 @@
       "fotoCercata": true
     },
     {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/primetime-robert-pattinson-review-roundup-critics-a24-1236691991/",
+      "titolo": "‘Primetime’: Robert Pattinson Earns Raves as Chris Hansen — Here’s What Critics Are Saying",
+      "sommario": "The thriller about the former 'To Catch a Predator' host premiered Saturday at the Venice Film Festival and will open in theaters Sept. 25.",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-05T22:15:36.000Z",
+      "immagine": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Pattinson-Primetime.png?crop=0px%2C9px%2C2931px%2C1640px&resize=1440%2C810",
+      "categorie": [
+        "Movie News",
+        "Movies",
+        "A24",
+        "Chris Hansen",
+        "Lance Oppenheim",
+        "Primetime",
+        "Robert Pattinson"
+      ],
+      "soggetti": [
+        {
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "profilo": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Robert Pattinson",
+      "soggettoTipo": "attore",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
+      "prevendite": false,
+      "rilievo": 7.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.716Z",
+      "it": {
+        "titolo": "Primetime, la critica applaude Robert Pattinson nei panni di Chris Hansen",
+        "sommario": "Il thriller presentato sabato a Venezia esce in sala il 25 settembre; l'Hollywood Reporter raccoglie i primi giudizi.",
+        "perche": "Pattinson lo hai già visto due volte: qui è il ruolo che potrebbe cambiargli passo"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
       "link": "https://www.hollywoodreporter.com/movies/movie-features/telluride-danny-boyle-jack-oconnell-james-graham-ink-maga-1236691197/",
       "titolo": "Telluride: Danny Boyle, Jack O’Connell and James Graham on ‘Ink,’ Rupert Murdoch and MAGA (Exclusive)",
       "sommario": "\"We couldn't raise the money,\" the film's Oscar-winning director reveals. \"A lot of people thought theater plays don't really work in film, and they were all frightened of Murdoch and legal problems.\"",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
       "data": "2026-09-05T18:35:42.000Z",
-      "immagine": null,
+      "immagine": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/IMG_4775-H-2026.jpg?w=1296&h=730&crop=1",
       "categorie": [
         "Movie Features",
         "Movies",
@@ -1933,7 +1933,7 @@
       "fonte": "Hollywood Reporter",
       "lingua": "en",
       "data": "2026-09-06T08:00:00.000Z",
-      "immagine": null,
+      "immagine": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-27T170154.518.jpg?w=1440&h=810&crop=1",
       "categorie": [
         "Movie Features",
         "Movies",
@@ -2120,7 +2120,7 @@
       "fonte": "Hollywood Reporter",
       "lingua": "en",
       "data": "2026-09-06T00:45:48.000Z",
-      "immagine": null,
+      "immagine": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/FotoJet-2026-08-04T095039.971.jpg?w=1440&h=810&crop=1",
       "categorie": [
         "Movie News",
         "Movies",
@@ -2536,41 +2536,6 @@
       "fotoCercata": false
     },
     {
-      "link": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
-      "titolo": "‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy",
-      "sommario": "What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who plays a crumpled-up wallflower in dire need of blooming. Oh, does she bloom.",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-06T02:59:36.000Z",
-      "immagine": "https://variety.com/wp-content/uploads/2026/09/Debut.jpg",
-      "categorie": [
-        "Reviews",
-        "Jesse Eisenberg",
-        "Julianne Moore",
-        "Paul Giamatti",
-        "Telluride Film Festival",
-        "The Debut"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "approfondimento",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 4.7,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T11:17:18.689Z",
-      "it": {
-        "titolo": "The Debut, Julianne Moore straordinaria nella commedia di Jesse Eisenberg",
-        "sommario": "Nel terzo film da regista di Eisenberg, Moore interpreta una donna dimessa che rinasce grazie a una compagnia di teatro amatoriale.",
-        "perche": "Una commedia amara retta per intero da un'interpretazione, presentata a Telluride"
-      },
-      "curato": true,
-      "immagineGrande": null,
-      "fotoCercata": false
-    },
-    {
       "link": "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
       "titolo": "Fammi il piacere, ritrovare la complicità attraverso l'orgasmo",
       "sommario": "Ispirandosi all'invenzione del Womanizer, Reem Kherici dirige una commedia sull'importanza del piacere femminile.",
@@ -2661,6 +2626,41 @@
       "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
+    },
+    {
+      "link": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
+      "titolo": "‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy",
+      "sommario": "What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who plays a crumpled-up wallflower in dire need of blooming. Oh, does she bloom.",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T02:59:36.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/09/Debut.jpg",
+      "categorie": [
+        "Reviews",
+        "Jesse Eisenberg",
+        "Julianne Moore",
+        "Paul Giamatti",
+        "Telluride Film Festival",
+        "The Debut"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.689Z",
+      "it": {
+        "titolo": "The Debut, Julianne Moore straordinaria nella commedia di Jesse Eisenberg",
+        "sommario": "Nel terzo film da regista di Eisenberg, Moore interpreta una donna dimessa che rinasce grazie a una compagnia di teatro amatoriale.",
+        "perche": "Una commedia amara retta per intero da un'interpretazione, presentata a Telluride"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
@@ -2899,7 +2899,7 @@
       "fonte": "Hollywood Reporter",
       "lingua": "en",
       "data": "2026-09-06T08:00:00.000Z",
-      "immagine": null,
+      "immagine": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/FROM-INSIDE-OUT-THE-ARCHITECTURE-OF-PETER-ZUMTHOR-Official-still.jpg?w=1440&h=810&crop=1",
       "categorie": [
         "Movie News",
         "Movies",
@@ -2923,6 +2923,38 @@
         "titolo": "Wim Wenders e i quattordici anni del ritratto di Peter Zumthor",
         "sommario": "From Inside Out, girato di nuovo in 3D, segue l'architetto premio Pritzker e le gallerie Geffen del LACMA di Los Angeles.",
         "perche": "Il regista di Pina torna al 3D per filmare lo spazio: il cinema come architettura"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
+      "titolo": "Venezia 83: Mr. Nelson, Did You Kill People? è un film potente, ma poco equilibrato",
+      "sommario": "Shinya Tsukamoto presenta in Concorso a Venezia 83 un war movie biopic dagli ottimi intenti, ma a cui manca il senso della misura.",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-05T05:23:16.000Z",
+      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/A34sbe_114681-MR._NELSON__DID_YOU_KILL_PEOPLE_-_Actor_Rodney_Hicks__2_-copia.jpg",
+      "categorie": [
+        "Cinema",
+        "Recensioni",
+        "Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:09.797Z",
+      "it": {
+        "titolo": "Mr. Nelson, Did You Kill People?, un film di guerra potente ma sbilanciato",
+        "sommario": "Shinya Tsukamoto presenta in concorso a Venezia 83 un biopic bellico dalle ottime intenzioni, a cui manca il senso della misura.",
+        "perche": "Il cinema di guerra secondo un autore giapponese abituato agli estremi"
       },
       "curato": true,
       "immagineGrande": null,
@@ -2974,38 +3006,6 @@
       "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
-    },
-    {
-      "link": "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
-      "titolo": "Venezia 83: Mr. Nelson, Did You Kill People? è un film potente, ma poco equilibrato",
-      "sommario": "Shinya Tsukamoto presenta in Concorso a Venezia 83 un war movie biopic dagli ottimi intenti, ma a cui manca il senso della misura.",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-05T05:23:16.000Z",
-      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/A34sbe_114681-MR._NELSON__DID_YOU_KILL_PEOPLE_-_Actor_Rodney_Hicks__2_-copia.jpg",
-      "categorie": [
-        "Cinema",
-        "Recensioni",
-        "Festival"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "approfondimento",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.7,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:09.797Z",
-      "it": {
-        "titolo": "Mr. Nelson, Did You Kill People?, un film di guerra potente ma sbilanciato",
-        "sommario": "Shinya Tsukamoto presenta in concorso a Venezia 83 un biopic bellico dalle ottime intenzioni, a cui manca il senso della misura.",
-        "perche": "Il cinema di guerra secondo un autore giapponese abituato agli estremi"
-      },
-      "curato": true,
-      "immagineGrande": null,
-      "fotoCercata": true
     },
     {
       "link": "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
@@ -3556,30 +3556,6 @@
       "fotoCercata": true
     },
     {
-      "link": "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan",
-      "titolo": "Bruce Willis in questo film sci-fi di Rian Johnson su Prime Video (che non ha nulla da invidiare a Nolan)",
-      "sommario": "Il film di Rian Johnson è un capolavoro sci-fi del 2012 ingiustamente dimenticato. Scopri perché merita lo stesso riconoscimento di Inception e Interstellar.",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-05T16:00:05.000Z",
-      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NjlcL1VuYS1zY2VuYS1kaS1Mb29wZXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=44c57cb4283375b569746e3f7345f7b1a7fd401006744e7164dc5a5f4895604d",
-      "categorie": [],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "passato",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 2.9,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.508Z",
-      "it": null,
-      "curato": false,
-      "immagineGrande": null,
-      "fotoCercata": false
-    },
-    {
       "link": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
       "titolo": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
       "sommario": "<p>The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram</p><p>In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed",
@@ -3610,6 +3586,30 @@
         "perche": "Uno degli ultimi grandi ostinati del cinema, di nuovo in gara a Venezia"
       },
       "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan",
+      "titolo": "Bruce Willis in questo film sci-fi di Rian Johnson su Prime Video (che non ha nulla da invidiare a Nolan)",
+      "sommario": "Il film di Rian Johnson è un capolavoro sci-fi del 2012 ingiustamente dimenticato. Scopri perché merita lo stesso riconoscimento di Inception e Interstellar.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T16:00:05.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NjlcL1VuYS1zY2VuYS1kaS1Mb29wZXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=44c57cb4283375b569746e3f7345f7b1a7fd401006744e7164dc5a5f4895604d",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "passato",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.508Z",
+      "it": null,
+      "curato": false,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -3940,43 +3940,6 @@
       "fotoCercata": false
     },
     {
-      "link": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
-      "titolo": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
-      "sommario": "<p>James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom</p><p>There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ri",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-09-04T10:19:34.000Z",
-      "immagine": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d953ea946cf9d051306341c51a7ad03c",
-      "categorie": [
-        "Film",
-        "Wonder Woman",
-        "Gal Gadot",
-        "DC Comics",
-        "James Gunn",
-        "Henry Cavill",
-        "Patty Jenkins",
-        "Culture"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "approfondimento",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 1.8,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T11:17:18.797Z",
-      "it": {
-        "titolo": "Perché la DC ha lasciato andare la Wonder Woman di Gal Gadot",
-        "sommario": "Il Guardian ripercorre le scelte di James Gunn e Peter Safran, dall'addio al Batman di Ben Affleck al Superman di Henry Cavill.",
-        "perche": "Come si smonta e si ricostruisce un intero universo di supereroi al cinema"
-      },
-      "curato": true,
-      "immagineGrande": null,
-      "fotoCercata": false
-    },
-    {
       "link": "https://www.theguardian.com/film/2026/sep/02/the-year-of-domhnall-gleeson-no-one-talks-about-actors-dedication-but-i-had-a-perm-for-five-months",
       "titolo": "The year of Domhnall Gleeson: ‘No one talks about actors’ dedication. But I had a perm for five months!’",
       "sommario": "<p>He started in the Harry Potter films and has since become ubiquitous, playing every type of character: romcom leads, evil villains, comical idiots. He even starred in a Taylor Swift video. So how does he stay so under the radar?</p><p>Domhnall Gleeson has got so much new stuff coming up, someone recently joked that ",
@@ -4038,6 +4001,43 @@
         "titolo": "Louis Garrel: «Non mi interessa apparire bello»",
         "sommario": "L'attore francese parla del suo nuovo ruolo di padre casalingo goffo, lontanissimo dal personaggio romantico che lo ha reso noto.",
         "perche": "Un attore che smonta con ironia la propria immagine da protagonista"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
+      "titolo": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
+      "sommario": "<p>James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom</p><p>There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ri",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-04T10:19:34.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d953ea946cf9d051306341c51a7ad03c",
+      "categorie": [
+        "Film",
+        "Wonder Woman",
+        "Gal Gadot",
+        "DC Comics",
+        "James Gunn",
+        "Henry Cavill",
+        "Patty Jenkins",
+        "Culture"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.797Z",
+      "it": {
+        "titolo": "Perché la DC ha lasciato andare la Wonder Woman di Gal Gadot",
+        "sommario": "Il Guardian ripercorre le scelte di James Gunn e Peter Safran, dall'addio al Batman di Ben Affleck al Superman di Henry Cavill.",
+        "perche": "Come si smonta e si ricostruisce un intero universo di supereroi al cinema"
       },
       "curato": true,
       "immagineGrande": null,
@@ -4133,7 +4133,7 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 0,
+      "rilievo": 1.4,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.409Z",
       "it": null,

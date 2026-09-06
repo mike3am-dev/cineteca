@@ -159,11 +159,15 @@ async function ogImage(url) {
   try {
     const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Cineteca/2.0)' }, signal: AbortSignal.timeout(9000) });
     if (!res.ok) return null;
-    const html = (await res.text()).slice(0, 250000);
+    /* Niente scorciatoie sulla lunghezza: le pagine dell'Hollywood
+       Reporter pesano 600 kB e mettono og:image oltre il trecentomillesimo
+       carattere. Tagliare a 250 kB voleva dire perdere ogni loro foto. */
+    const html = (await res.text()).slice(0, 1200000);
     const m = html.match(/<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i)
            || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i)
            || html.match(/<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i);
-    const u = m ? m[1].replace(/&amp;/g, '&').trim() : null;
+    // Nei meta l'e commerciale arriva codificata, e un URL con &amp; non carica.
+    const u = m ? m[1].replace(/&amp;|&#0*38;/gi, '&').replace(/&#0*(\d+);/g, (_, n) => String.fromCharCode(n)).trim() : null;
     return u && /^https?:/.test(u) ? u : null;
   } catch { return null; }
 }

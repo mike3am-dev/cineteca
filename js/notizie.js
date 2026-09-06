@@ -75,7 +75,10 @@ const Notizie = (() => {
     imgTmdb(n.soggetti?.find(s => s.profilo)?.profilo, 'h632')
   ].filter(Boolean);
   const immagine = n => n.immagine || riserve(n)[0] || null;
-  const RISERVA = `onerror="if(this.dataset.alt){const a=this.dataset.alt.split('|');this.src=a.shift();this.dataset.alt=a.join('|');}else{this.remove();}"`;
+  /* Se anche l'ultima riserva non carica, sparisce il riquadro, non
+     solo la foto: un rettangolo grigio vuoto è peggio di una scheda
+     di solo testo. */
+  const RISERVA = `onerror="if(this.dataset.alt){const a=this.dataset.alt.split('|');this.src=a.shift();this.dataset.alt=a.join('|');}else{(this.closest('.ras-scheda-img,.ras-riga-img')||this).remove();}"`;
   const img = (n, src, extra = '') => {
     const alt = riserve(n).filter(u => u !== src).join('|');
     return `<img src="${F.esc(src)}" alt="" ${extra} data-alt="${F.esc(alt)}" ${RISERVA}>`;
