@@ -22,9 +22,13 @@
      · curiosita       aneddoti, retroscena, classifiche
      · accaddeOggi     usciti oggi, dieci-settant'anni fa (TMDB)
 
-   Chiavi: TMDB_KEY (obbligatoria, per trending e anniversari),
-   ANTHROPIC_API_KEY (facoltativa: traduce l'inglese, riscrive i
-   sommari, affina le sezioni). Senza la seconda, solo italiano.
+   Chiave: TMDB_KEY (per trending e anniversari).
+
+   La curatela — tradurre l'inglese, riscrivere titoli e sommari,
+   dire perché una notizia conta — non passa da nessuna API a
+   pagamento: la fa una routine di Claude Code ogni mattina, con
+   l'account di chi usa l'app. Questo script prepara il lavoro
+   (data/da-curare.json) e applica il risultato (data/curatela.json).
    Uso: node tools/notizie.mjs
    ══════════════════════════════════════════════════════════ */
 
@@ -36,9 +40,10 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const API  = 'https://api.themoviedb.org/3';
 
 /* ── le testate ──────────────────────────────────────────
-   Italiane sempre. Le americane solo se il curatore le può
-   tradurre: in inglese non le vuoi leggere, e un titolo in
-   inglese in mezzo agli altri fa solo rumore. */
+   Italiane e americane. Le americane si leggono sempre, ma si
+   mostrano solo una volta tradotte dalla curatela: in inglese
+   non le vuoi leggere, e un titolo in inglese in mezzo agli
+   altri fa solo rumore. */
 const FONTI = [
   { nome: 'BadTaste',      url: 'https://www.badtaste.it/feed/',                  lingua: 'it', peso: 1.0 },
   { nome: 'MoviePlayer',   url: 'https://www.movieplayer.it/rss/news.xml',        lingua: 'it', peso: 1.0 },
@@ -69,7 +74,7 @@ async function chiavi() {
     const m = env.match(new RegExp(`^\\s*${nome}\\s*=\\s*(.+?)\\s*$`, 'm'));
     return m ? m[1].replace(/^["']|["']$/g, '') : null;
   };
-  return { tmdb: leggi('TMDB_KEY'), anthropic: leggi('ANTHROPIC_API_KEY') };
+  return { tmdb: leggi('TMDB_KEY') };
 }
 
 let KEY = null;
@@ -338,80 +343,29 @@ function sezioneDi(a) {
   return 'notizia';
 }
 
-/* ── il curatore ──────────────────────────────────────────
-   Un redattore che passa sugli articoli nuovi: traduce quelli
-   in inglese, riscrive titolo e sommario in un italiano da
-   quotidiano, dice in una riga perché la notizia conta, e
-   corregge la sezione dove l'euristica ha tirato a indovinare.
-   Lavora solo sugli articoli mai visti: la curatela già fatta
-   resta in archivio e non si ripaga.                          */
-async function curatore(articoli, chiave, lib) {
-  if (!chiave || !articoli.length) return;
-  let Anthropic, z, zodOutputFormat;
-  try {
-    ({ default: Anthropic } = await import('@anthropic-ai/sdk'));
-    ({ z } = await import('zod'));
-    ({ zodOutputFormat } = await import('@anthropic-ai/sdk/helpers/zod'));
-  } catch (err) {
-    console.warn(`  ✗ curatore non disponibile (npm install?): ${err.message}`);
-    return;
+/* ── la curatela ──────────────────────────────────────────
+   data/curatela.json: { "<link>": { titolo, sommario, perche, sezione } }
+   La scrive la routine mattutina di Claude Code, leggendo
+   data/da-curare.json che questo script prepara. Qui si applica:
+   un articolo curato riceve titolo e sommario in italiano, la riga
+   del "perché", e la sezione corretta ("scarta" lo elimina).    */
+async function leggiCuratela() {
+  try { return JSON.parse(await readFile(join(ROOT, 'data', 'curatela.json'), 'utf8')); }
+  catch { return {}; }
+}
+
+function applicaCuratela(articoli, curatela) {
+  let n = 0;
+  for (const a of articoli) {
+    const c = curatela[a.link];
+    if (!c || a.curato) continue;
+    a.it = { titolo: String(c.titolo || a.titolo).trim(), sommario: String(c.sommario || '').trim(), perche: String(c.perche || '').trim() };
+    if (c.sezione === 'scarta') a.scarta = true;
+    else if (['notizia', 'approfondimento', 'curiosita', 'passato'].includes(c.sezione)) a.sezione = c.sezione;
+    a.curato = true;
+    n++;
   }
-  const client = new Anthropic({ apiKey: chiave });
-
-  const Schema = z.object({
-    voci: z.array(z.object({
-      n: z.number().int(),
-      titolo: z.string(),
-      sommario: z.string(),
-      perche: z.string(),
-      sezione: z.enum(['notizia', 'approfondimento', 'curiosita', 'passato', 'scarta'])
-    }))
-  });
-
-  const gusti = `Generi che frequenta: ${lib.generiTop.join(', ') || '—'}. Registi che segue: ${lib.registiCari.slice(0, 8).join(', ') || '—'}. Attori ricorrenti: ${lib.attoriCari.slice(0, 8).join(', ') || '—'}.`;
-
-  const sistema = `Sei il caporedattore della rassegna cinema di un'app personale, in italiano. Il lettore è un cinefilo italiano che va al cinema spesso e tiene una libreria di film. ${gusti}
-
-Per ogni articolo ricevi titolo, sommario, testata, lingua, sezione provvisoria e i soggetti riconosciuti. Restituisci per ciascuno:
-- titolo: in italiano, da quotidiano — informativo, senza clickbait, senza punto finale, massimo 90 caratteri. Se l'originale è italiano e già buono, tienilo; se è italiano ma gridato o vago, riscrivilo.
-- sommario: una o due frasi in italiano, massimo 180 caratteri, che dicano il FATTO (chi, cosa, quando), non "scopri di più".
-- perche: una riga (max 110 caratteri) che dica perché a questo lettore importa, agganciandoti a un suo film, regista o genere quando c'è un legame vero; altrimenti perché conta per chi ama il cinema. Niente frasi vuote.
-- sezione: notizia (fatto fresco), approfondimento (analisi, intervista, recensione, lettura lunga), curiosita (aneddoto, retroscena, dettaglio), passato (classici, anniversari, restauri, scomparse), scarta (non è cinema: serie tv, videogiochi, gossip, pubblicità, tv generalista).
-
-Traduci i nomi dei film nel titolo italiano ufficiale quando lo conosci con certezza; altrimenti lascia l'originale. Non inventare fatti che non sono nel testo.`;
-
-  const LOTTO = 25;
-  for (let i = 0; i < articoli.length; i += LOTTO) {
-    const lotto = articoli.slice(i, i + LOTTO);
-    const testo = lotto.map((a, n) =>
-      `#${n} [${a.fonte} · ${a.lingua} · sezione provvisoria: ${a.sezione}]\nTitolo: ${a.titolo}\nSommario: ${a.sommario || '—'}\nSoggetti: ${a.soggetti.map(s => s.nome + (s.inLibreria ? ' (in libreria)' : '')).join(', ') || '—'}`
-    ).join('\n\n');
-
-    try {
-      const res = await client.messages.parse({
-        model: 'claude-opus-5',
-        max_tokens: 16000,
-        system: sistema,
-        messages: [{ role: 'user', content: `Cura questi ${lotto.length} articoli. Rispondi con una voce per ciascuno, con lo stesso numero n.\n\n${testo}` }],
-        output_config: { format: zodOutputFormat(Schema), effort: 'low' }
-      });
-      const out = res.parsed_output;
-      if (!out) { console.warn('  ✗ curatore: risposta non interpretabile'); continue; }
-      for (const v of out.voci) {
-        const a = lotto[v.n];
-        if (!a) continue;
-        a.it = { titolo: v.titolo.trim(), sommario: v.sommario.trim(), perche: v.perche.trim() };
-        if (v.sezione === 'scarta') a.scarta = true;
-        else a.sezione = v.sezione;
-        a.curato = true;
-      }
-      const u = res.usage;
-      console.log(`  ✓ curati ${lotto.length} (token: ${u.input_tokens} in, ${u.output_tokens} out)`);
-    } catch (err) {
-      if (Anthropic.APIError && err instanceof Anthropic.APIError) console.warn(`  ✗ curatore (API ${err.status}): ${err.message}`);
-      else console.warn(`  ✗ curatore: ${err.message}`);
-    }
-  }
+  return n;
 }
 
 /* ── accadde oggi ─────────────────────────────────────────
@@ -471,10 +425,11 @@ async function accaddeOggi(movies, lib) {
 }
 
 /* ═══════════════════════════════ main ═══════════════════ */
-const { tmdb: tmdbKey, anthropic: anthropicKey } = await chiavi();
+const { tmdb: tmdbKey } = await chiavi();
 KEY = tmdbKey;
 if (!KEY) console.warn('⚠ Senza TMDB_KEY: niente trending, niente anniversari.');
-console.log(anthropicKey ? '✎ Curatore attivo: traduco e riscrivo.' : '· Curatore assente: solo testate italiane, testi originali.');
+const curatela = await leggiCuratela();
+console.log(`Curatela in archivio: ${Object.keys(curatela).length} articoli.`);
 
 const catalogo = JSON.parse(await readFile(join(ROOT, 'data', 'movies.json'), 'utf8'));
 const movies = catalogo.movies;
@@ -508,7 +463,7 @@ for (const p of persone) {
 console.log(`Soggetti riconoscibili: ${sorvegliati.size} (libreria ${[...sorvegliati.values()].filter(v => v.inLibreria).length}, persone care ${[...sorvegliati.values()].filter(v => v.caro).length}, sotto i riflettori ${[...sorvegliati.values()].filter(v => v.trend && !v.inLibreria).length}).`);
 
 /* ── lettura dei feed ─────────────────────────────────── */
-const fontiAttive = FONTI.filter(f => f.lingua === 'it' || anthropicKey);
+const fontiAttive = FONTI;
 const articoli = [];
 await Promise.all(fontiAttive.map(async f => {
   try {
@@ -628,13 +583,30 @@ for (const n of archivio) {
   tenuti.push({ ...n, rilievo: Math.max(0, (n.rilievo || 0) - 2) });
 }
 
-/* ── il curatore passa sugli inediti ──────────────────── */
-const inediti = tenuti.filter(a => !a.curato && !a.scarta);
-if (anthropicKey && inediti.length) {
-  console.log(`\nCuratela di ${inediti.length} articoli nuovi…`);
-  await curatore(inediti, anthropicKey, lib);
-}
-// Senza curatore, un articolo in inglese non ha niente da mostrare.
+/* ── la curatela: applico quella fatta, preparo quella da fare ── */
+const applicati = applicaCuratela(tenuti, curatela);
+if (applicati) console.log(`Curatela applicata a ${applicati} articoli.`);
+
+/* Quello che aspetta un redattore: prima le americane (senza
+   traduzione non si vedono), poi le italiane più rilevanti. */
+const daCurare = tenuti
+  .filter(a => !a.curato && !a.scarta)
+  .sort((a, b) => (b.lingua === 'en') - (a.lingua === 'en') || b.rilievo - a.rilievo)
+  .slice(0, 90)
+  .map(a => ({
+    link: a.link, fonte: a.fonte, lingua: a.lingua, data: a.data,
+    titolo: a.titolo, sommario: a.sommario, sezioneProvvisoria: a.sezione,
+    soggetti: a.soggetti.map(s => s.nome + (s.inLibreria ? ' (in libreria' + (s.lista === 'visto' ? ', visto' : '') + ')' : '')),
+    radar: a.radar
+  }));
+await writeFile(join(ROOT, 'data', 'da-curare.json'), JSON.stringify({
+  preparato: new Date().toISOString(),
+  gusti: { generi: lib.generiTop, registi: lib.registiCari.slice(0, 10), attori: lib.attoriCari.slice(0, 10) },
+  articoli: daCurare
+}, null, 2) + '\n');
+console.log(`Da curare: ${daCurare.length} articoli (${daCurare.filter(a => a.lingua === 'en').length} in inglese).`);
+
+// Senza traduzione, un articolo in inglese non ha niente da mostrare.
 const finali = tenuti.filter(a => !a.scarta && (a.lingua === 'it' || a.it));
 
 /* Stessa notizia su più testate: tengo la migliore, ma ricordo
@@ -725,7 +697,7 @@ const notizieOut = uniche
 
 await writeFile(join(ROOT, 'data', 'notizie.json'), JSON.stringify({
   aggiornato: new Date().toISOString(),
-  curatela: !!anthropicKey,
+  curatela: Object.keys(curatela).length > 0,
   fonti: fontiAttive.map(f => f.nome),
   segnalazioniPrevendita: segnalazioni.length ? segnalazioni : segnalazioniVecchie.filter(s => senzaPrevendita.has(normalizza(s.film))),
   apertura: apertura?.link || null,
@@ -740,6 +712,13 @@ await writeFile(join(ROOT, 'data', 'notizie.json'), JSON.stringify({
   accaddeOggi: anniversari,
   notizie: notizieOut
 }, null, 2) + '\n');
+
+/* La curatela si pota da sola: un link sparito dai feed e
+   dall'archivio non tornerà, non serve conservarne la riscrittura. */
+const vivi = new Set(tenuti.map(a => a.link));
+const potata = Object.fromEntries(Object.entries(curatela).filter(([l]) => vivi.has(l)));
+if (Object.keys(potata).length !== Object.keys(curatela).length)
+  await writeFile(join(ROOT, 'data', 'curatela.json'), JSON.stringify(potata, null, 2) + '\n');
 
 console.log(`\n✅ data/notizie.json — ${uniche.length} notizie su ${articoli.length} articoli letti da ${fontiAttive.length} testate.`);
 console.log(`   apertura ${apertura ? '✓' : '—'} · ultime ${ultime.length} · temi ${temi.length} · radar ${radar.length} · libreria ${libreriaVoci.length} · approfondimenti ${approfondimenti.length} · curiosità ${curiosita.length} · passato ${passato.length} · accadde oggi ${anniversari.length}`);

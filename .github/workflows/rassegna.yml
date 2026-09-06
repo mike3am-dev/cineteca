@@ -24,20 +24,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: npm
-      - run: npm ci --no-audit --no-fund
 
       - name: Raccogli la rassegna
         env:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node tools/notizie.mjs
 
       - name: Pubblica se qualcosa è cambiato
         run: |
           git config user.name  "Cineteca bot"
           git config user.email "actions@github.com"
-          git add data/notizie.json
+          git add data/notizie.json data/da-curare.json data/curatela.json
           if git diff --cached --quiet; then
             echo "Nessuna novità."
           else

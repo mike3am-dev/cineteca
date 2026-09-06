@@ -2,14 +2,10 @@
   "name": "cineteca",
   "private": true,
   "type": "module",
-  "description": "Biblioteca cinematografica personale — sito statico, dati aggiornati da GitHub Actions",
+  "description": "Biblioteca cinematografica personale — sito statico, dati aggiornati da GitHub Actions e da una routine mattutina di Claude Code",
   "scripts": {
     "rassegna": "node tools/notizie.mjs",
     "enrich": "node tools/enrich.mjs",
     "serve": "node tools/serve.mjs"
-  },
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.90.0",
-    "zod": "^4.0.0"
   }
 }

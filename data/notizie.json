@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-06T10:25:13.697Z",
+  "aggiornato": "2026-09-06T10:42:52.414Z",
   "curatela": false,
   "fonti": [
     "BadTaste",
@@ -9,21 +9,44 @@
     "Cinefilos",
     "Cineblog",
     "Ciak",
-    "Fumettologica"
+    "Fumettologica",
+    "Variety",
+    "Deadline",
+    "Hollywood Reporter",
+    "IndieWire",
+    "/Film",
+    "The Guardian"
   ],
   "segnalazioniPrevendita": [],
-  "apertura": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
+  "apertura": "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
   "ultime": [
     "https://www.badtaste.it/articoli/benedetta-porcaroli-e-riccardo-scamarcio-insieme-a-venezia-83-il-loro-arrivo-al-lido-non-passa-inosservato",
     "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/the-echo-chamber-luca-marinelli-alicia-vikander-venezia-83-719570",
     "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-succedera-questa-notte-red-carpet-nanni-moretti-trinca-garrel-foto-720355",
+    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
     "https://www.badtaste.it/articoli/chi-e-davvero-chris-hansen-la-controversa-storia-del-giornalista-interpretato-da-robert-pattinson-in-primetime",
     "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
     "https://www.badtaste.it/articoli/florence-pugh-e-the-rock-in-questo-commovente-film-su-netflix-sulla-vera-storia-di-una-campionessa-wwe",
-    "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive",
-    "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/"
+    "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive"
   ],
   "temi": [
+    {
+      "soggetto": "Oasis: Don't Look Back in Anger",
+      "tipo": "film",
+      "inLibreria": false,
+      "lista": null,
+      "filmId": null,
+      "tmdbId": 1447853,
+      "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+      "anno": "2026",
+      "quante": 3,
+      "testate": 3,
+      "link": [
+        "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
+        "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/"
+      ]
+    },
     {
       "soggetto": "Robert Pattinson",
       "tipo": "attore",
@@ -37,24 +60,7 @@
       "quante": 4,
       "testate": 2,
       "link": [
-        "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
         "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore"
-      ]
-    },
-    {
-      "soggetto": "Oasis: Don't Look Back in Anger",
-      "tipo": "film",
-      "inLibreria": false,
-      "lista": null,
-      "filmId": null,
-      "tmdbId": 1447853,
-      "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-      "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
-      "anno": "2026",
-      "quante": 2,
-      "testate": 2,
-      "link": [
-        "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/"
       ]
     }
   ],
@@ -82,14 +88,14 @@
   "altre": [
     "https://www.screenweek.it/venezia-83-i-video-del-secondo-giorno-con-alessandro-borghi-e-kendall-jenner/",
     "https://www.screenweek.it/venezia-83-i-video-del-primo-giorno-con-il-clooney-e-il-red-carpet-di-ink/",
+    "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/",
     "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
     "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
     "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
     "https://www.screenweek.it/venezia-83-i-video-del-terzo-giorno-con-geoffrey-rush-e-il-cast-de-la-citta-dei-vivi/",
     "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
     "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
-    "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/",
-    "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/"
+    "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/"
   ],
   "accaddeOggi": [
     {
@@ -225,6 +231,64 @@
   ],
   "notizie": [
     {
+      "link": "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
+      "titolo": "Venice Film Festival 2026 Photos Day 4: ‘Primetime’ & ‘ Oasis: Don’t Look Back in Anger’ Premieres",
+      "sommario": "The 83rd Venice Film Festival enters its fourth day, having already delivered starry receptions for the opening-night premiere of Danny Boyle’s Ink, the Thursday premiere of Werner Herzog’s Bucking Fastard, and Paul Schrader’s The Basics of Philosophy on Friday. Today’s program is led by the world premiere of Lance Opp",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-05T19:30:29.000Z",
+      "immagine": "https://deadline.com/wp-content/uploads/2026/09/Robert-Pattinson-and-Oasis.jpg",
+      "categorie": [
+        "Festivals",
+        "Gallery",
+        "Venice",
+        "Venice Film Festival"
+      ],
+      "soggetti": [
+        {
+          "nome": "Danny Boyle",
+          "tipo": "regista",
+          "inTitolo": false,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "trend": false,
+          "anno": null
+        },
+        {
+          "nome": "Oasis: Don't Look Back in Anger",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1447853,
+          "backdrop": "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+          "poster": "/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Oasis: Don't Look Back in Anger",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": "regia di Danny Boyle, di cui hai visto un film",
+      "prevendite": false,
+      "rilievo": 13.6,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:42:47.277Z",
+      "it": {
+        "titolo": "PROVA titolo tradotto",
+        "sommario": "Prova sommario.",
+        "perche": "Prova perché."
+      },
+      "curato": true
+    },
+    {
       "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
       "titolo": "Venezia 83, red carpet: Robert Pattinson porta il glamour nel Concorso",
       "sommario": "Venezia 83, red carpet: Robert Pattinson porta il glamour nel Concorso Robert Pattinson ha presentato a Venezia 83 il suo ultimo film, Primetime, che gareggia nel concorso veneziano. Con lui oltre al regista Lance Oppenheim, e al cast del film, anche l’attrice Suki Waterhouse, sua moglie nella vita privata. Cinefilos.i",
@@ -256,9 +320,9 @@
       "inLibreria": false,
       "radar": "c'è Robert Pattinson, che hai visto 2 volte",
       "prevendite": false,
-      "rilievo": 11.4,
+      "rilievo": 11.3,
       "riprese": 0,
-      "vistoIl": "2026-09-06T10:21:30.631Z",
+      "vistoIl": "2026-09-06T10:42:50.843Z",
       "it": null,
       "curato": false
     },
@@ -438,7 +502,7 @@
       "inLibreria": false,
       "radar": "c'è Robert Pattinson, che hai visto 2 volte",
       "prevendite": false,
-      "rilievo": 8.7,
+      "rilievo": 8.6,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.656Z",
       "it": null,
@@ -591,7 +655,7 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 7.6,
+      "rilievo": 7.5,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:29.954Z",
       "it": null,
@@ -613,7 +677,7 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 7.2,
+      "rilievo": 7.1,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.504Z",
       "it": null,
@@ -637,7 +701,7 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 6.9,
+      "rilievo": 6.8,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.430Z",
       "it": null,
@@ -661,7 +725,7 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 6.9,
+      "rilievo": 6.8,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.431Z",
       "it": null,
@@ -796,7 +860,7 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 5.8,
+      "rilievo": 5.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.502Z",
       "it": null,
@@ -1561,28 +1625,6 @@
       "curato": false
     },
     {
-      "link": "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan",
-      "titolo": "Bruce Willis in questo film sci-fi di Rian Johnson su Prime Video (che non ha nulla da invidiare a Nolan)",
-      "sommario": "Il film di Rian Johnson è un capolavoro sci-fi del 2012 ingiustamente dimenticato. Scopri perché merita lo stesso riconoscimento di Inception e Interstellar.",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-05T16:00:05.000Z",
-      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NjlcL1VuYS1zY2VuYS1kaS1Mb29wZXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=44c57cb4283375b569746e3f7345f7b1a7fd401006744e7164dc5a5f4895604d",
-      "categorie": [],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "passato",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.508Z",
-      "it": null,
-      "curato": false
-    },
-    {
       "link": "https://www.cineblog.it/post/naza-il-documentario-su-gaza-che-scuote-venezia",
       "titolo": "Naza, il documentario su Gaza che scuote Venezia",
       "sommario": "I Wonder Pictures ha acquisito per l’Italia NAZA, il nuovo documentario diretto da Yuval Abraham e Rachel Szor, che sarà presentato in anteprima mondiale oggi, 2 settembre 2026, alla 83ª Mostra Internazionale d’Arte Cinematografica della Biennale di Venezia, in concorso al Lido, per portare al centro del dibattito il r",
@@ -1679,6 +1721,28 @@
       "curato": false
     },
     {
+      "link": "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan",
+      "titolo": "Bruce Willis in questo film sci-fi di Rian Johnson su Prime Video (che non ha nulla da invidiare a Nolan)",
+      "sommario": "Il film di Rian Johnson è un capolavoro sci-fi del 2012 ingiustamente dimenticato. Scopri perché merita lo stesso riconoscimento di Inception e Interstellar.",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-05T16:00:05.000Z",
+      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY1NjlcL1VuYS1zY2VuYS1kaS1Mb29wZXIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=44c57cb4283375b569746e3f7345f7b1a7fd401006744e7164dc5a5f4895604d",
+      "categorie": [],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "passato",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.508Z",
+      "it": null,
+      "curato": false
+    },
+    {
       "link": "https://www.badtaste.it/articoli/richard-gere-e-uno-spietato-truffatore-in-questo-film-su-prime-video-ma-vogliamo-che-la-passi-liscia",
       "titolo": "Richard Gere è uno spietato truffatore in questo film su Prime Video (ma vogliamo che la passi liscia)",
       "sommario": "Scopri perché nel cinema tifiamo per i cattivi invece che per gli eroi buoni, come accade in questo film con Richard Gere su Prime Video.",
@@ -1719,6 +1783,30 @@
       "rilievo": 2.4,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.445Z",
+      "it": null,
+      "curato": false
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-anno-898642.html",
+      "titolo": "State of Play settembre 2026 delude: il pubblico cala ai livelli più bassi dell'anno",
+      "sommario": "Lo State of Play di settembre ha registrato interesse tiepido e il numero più basso di spettatori per Sony nel 2026, ben sotto le aspettative. Settembre è iniziato con diverse novità in casa PlayStation . Sony ha dato vita a una nuova edizione dello State of Play dedicato alle prossime uscite videoludiche . L'interesse",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-09-05T05:35:00.000Z",
+      "immagine": "https://images.everyeye.it/img-notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-dell-anno-v4-898642-800x600.webp",
+      "categorie": [
+        "PlayStation Studios"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T10:22:10.409Z",
       "it": null,
       "curato": false
     },
@@ -1785,30 +1873,6 @@
       "rilievo": 1.5,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.487Z",
-      "it": null,
-      "curato": false
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-anno-898642.html",
-      "titolo": "State of Play settembre 2026 delude: il pubblico cala ai livelli più bassi dell'anno",
-      "sommario": "Lo State of Play di settembre ha registrato interesse tiepido e il numero più basso di spettatori per Sony nel 2026, ben sotto le aspettative. Settembre è iniziato con diverse novità in casa PlayStation . Sony ha dato vita a una nuova edizione dello State of Play dedicato alle prossime uscite videoludiche . L'interesse",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-09-05T05:35:00.000Z",
-      "immagine": "https://images.everyeye.it/img-notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-dell-anno-v4-898642-800x600.webp",
-      "categorie": [
-        "PlayStation Studios"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 1.5,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.409Z",
       "it": null,
       "curato": false
     },
