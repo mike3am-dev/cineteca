@@ -1,16 +1,12 @@
 name: Rassegna stampa
 
-# La rassegna vive di ore, non di giorni: un feed letto una volta
-# al mattino è già vecchio a pranzo. Ogni tre ore, leggero — solo
-# i feed e TMDB, niente arricchimento del catalogo. L'aggiornamento
-# quotidiano continua a farla anche lui, non fa male.
+# Una volta al giorno basta. La raccolta dei feed la fa già
+# l'aggiornamento quotidiano (aggiorna.yml) alle 7 di Roma; questo
+# workflow serve al passo dopo: la routine mattutina di Claude Code
+# scrive data/curatela.json e fa push, e quel push fa ripartire la
+# rassegna subito, così le traduzioni si vedono al momento. (I push
+# del bot stesso non rifanno partire niente: GitHub ignora i propri.)
 on:
-  schedule:
-    - cron: '17 */3 * * *'
-  # La routine mattutina di Claude Code scrive data/curatela.json e
-  # fa push: quel push fa ripartire la rassegna subito, così le
-  # traduzioni si vedono al momento e non tre ore dopo. (I push del
-  # bot stesso non rifanno partire niente: GitHub ignora i propri.)
   push:
     paths:
       - 'data/curatela.json'
