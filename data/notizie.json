@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-09-06T11:03:27.501Z",
-  "curatela": false,
+  "aggiornato": "2026-09-06T11:17:25.853Z",
+  "curatela": true,
   "fonti": [
     "BadTaste",
     "MoviePlayer",
@@ -18,16 +18,16 @@
     "The Guardian"
   ],
   "segnalazioniPrevendita": [],
-  "apertura": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
+  "apertura": "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore",
   "ultime": [
-    "https://www.badtaste.it/articoli/benedetta-porcaroli-e-riccardo-scamarcio-insieme-a-venezia-83-il-loro-arrivo-al-lido-non-passa-inosservato",
+    "https://variety.com/2026/film/festivals/wim-wenders-clarifies-filmmakers-politics-berlin-1236853205/",
     "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/the-echo-chamber-luca-marinelli-alicia-vikander-venezia-83-719570",
-    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-succedera-questa-notte-red-carpet-nanni-moretti-trinca-garrel-foto-720355",
-    "https://www.badtaste.it/articoli/chi-e-davvero-chris-hansen-la-controversa-storia-del-giornalista-interpretato-da-robert-pattinson-in-primetime",
-    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
-    "https://www.badtaste.it/articoli/florence-pugh-e-the-rock-in-questo-commovente-film-su-netflix-sulla-vera-storia-di-una-campionessa-wwe",
-    "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive",
-    "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/"
+    "https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/",
+    "https://www.hollywoodreporter.com/movies/movie-news/the-debut-jesse-eisenberg-original-songs-oscar-push-1236687820/",
+    "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
+    "https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049/",
+    "https://deadline.com/2026/09/nanni-moretti-it-will-happen-tonight-ovation-venice-1237068969/",
+    "https://www.hollywoodreporter.com/movies/movie-features/telluride-danny-boyle-jack-oconnell-james-graham-ink-maga-1236691197/"
   ],
   "temi": [
     {
@@ -40,11 +40,29 @@
       "backdrop": null,
       "poster": null,
       "anno": null,
-      "quante": 4,
-      "testate": 2,
+      "quante": 5,
+      "testate": 3,
       "link": [
-        "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
-        "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore"
+        "https://www.badtaste.it/articoli/chris-hansen-critica-robert-pattinson-senza-aver-visto-primetime-ma-da-venezia-arriva-la-risposta-dellattore",
+        "https://www.badtaste.it/articoli/robert-pattinson-arriva-al-lido-e-fa-impazzire-venezia-2026-foto-esclusive",
+        "https://www.badtaste.it/articoli/chi-e-davvero-chris-hansen-la-controversa-storia-del-giornalista-interpretato-da-robert-pattinson-in-primetime",
+        "https://www.hollywoodreporter.com/movies/movie-news/primetime-robert-pattinson-review-roundup-critics-a24-1236691991/"
+      ]
+    },
+    {
+      "soggetto": "Danny Boyle",
+      "tipo": "regista",
+      "inLibreria": false,
+      "lista": null,
+      "filmId": null,
+      "tmdbId": null,
+      "backdrop": null,
+      "poster": null,
+      "anno": null,
+      "quante": 3,
+      "testate": 3,
+      "link": [
+        "https://www.screenweek.it/ink-il-trailer-del-nuovo-film-di-danny-boyle-con-guy-pearce/"
       ]
     },
     {
@@ -60,42 +78,49 @@
       "quante": 2,
       "testate": 2,
       "link": [
+        "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
         "https://www.screenweek.it/oasis-dont-look-back-in-anger-parla-a-tutti-non-solo-ai-millennials/"
       ]
     }
   ],
   "radar": [
-    "https://www.screenweek.it/ink-il-trailer-del-nuovo-film-di-danny-boyle-con-guy-pearce/"
+    "https://www.hollywoodreporter.com/movies/movie-news/jeff-zucker-primetime-cameo-robert-pattinson-chris-hansen-1236692009/"
   ],
   "libreria": [
+    "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune",
     "https://movieplayer.it/news/matt-damon-set-assurdo-fan-attribuiscono-qualita-divi-perso_170904/"
   ],
   "approfondimenti": [
     "https://www.badtaste.it/articoli/the-runner-cosa-significa-davvero-il-finale-il-piano-segreto-di-maia-viene-svelato-solo-negli-ultimi-minuti",
-    "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica",
-    "https://www.badtaste.it/articoli/povere-creature-cosa-significa-davvero-il-finale-lultima-scelta-di-bella-baxter-spiega-tutto-il-suo-viaggio",
-    "https://www.badtaste.it/articoli/perche-povere-creature-si-chiama-cosi-il-vero-significato-del-titolo-del-film-con-emma-stone",
-    "https://www.cineblog.it/post/valerio-mastandrea-a-venezia-il-valore-dei-padri-imperfetti",
-    "https://cinefilos.it/tutto-film/approfondimenti/un-uomo-sopra-la-legge-spiegazione-finale-film-liam-neeson-720162"
+    "https://deadline.com/2026/09/father-joe-review-keifer-sutherland-al-pacino-luc-besson-venice-1237069403/",
+    "https://variety.com/2026/film/global/roma-alina-serban-venice-i-matter-1236847100/",
+    "https://variety.com/2026/film/festivals/lee-chang-dong-jeon-do-yeon-sul-kyung-possible-love-1236852451/",
+    "https://deadline.com/2026/09/the-liberation-review-carrie-coon-lily-james-bella-ramsey-1237068931/",
+    "https://www.hollywoodreporter.com/movies/movie-features/may-el-toukhy-woman-unknown-venice-film-festival-mathilde-1236683019/"
   ],
   "curiosita": [
-    "https://www.badtaste.it/articoli/john-malkovich-si-ritira-dalla-recitazione-la-risposta-dellattore-a-venezia-2026",
-    "https://www.badtaste.it/articoli/povere-creature-dove-e-stato-girato-il-film-londra-lisbona-e-parigi-nascondono-tutte-lo-stesso-segreto"
-  ],
-  "passato": [
-    "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan"
-  ],
-  "altre": [
+    "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-succedera-questa-notte-red-carpet-nanni-moretti-trinca-garrel-foto-720355",
     "https://www.screenweek.it/venezia-83-i-video-del-secondo-giorno-con-alessandro-borghi-e-kendall-jenner/",
     "https://www.screenweek.it/venezia-83-i-video-del-primo-giorno-con-il-clooney-e-il-red-carpet-di-ink/",
-    "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
-    "https://www.screenweek.it/fammi-il-piacere-ritrovare-la-complicita-attraverso-lorgasmo/",
+    "https://www.slashfilm.com/2248085/braveheart-sequel-robert-the-bruce-streaming-free-pluto-tv/",
+    "https://www.badtaste.it/articoli/john-malkovich-si-ritira-dalla-recitazione-la-risposta-dellattore-a-venezia-2026",
+    "https://www.screenweek.it/venezia-83-i-video-del-terzo-giorno-con-geoffrey-rush-e-il-cast-de-la-citta-dei-vivi/"
+  ],
+  "passato": [
+    "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan",
+    "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77"
+  ],
+  "altre": [
+    "https://deadline.com/2026/09/coyote-vs-acme-ketchup-viqueens-1237069008/",
+    "https://www.badtaste.it/recensioni/mayday-la-recensione-gli-anni-ottanta-top-gun-springsteen-quando-amavamo-lamerica",
+    "https://movieplayer.it/news/mutiny-jason-statham-clip-esclusiva_170919/",
+    "https://variety.com/2026/film/global/russian-filmmakers-dau-venice-film-festival-1236845801/",
+    "https://variety.com/2026/film/news/moonfish-lucy-liu-morgan-spector-1236852534/",
+    "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+    "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
     "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
-    "https://www.screenweek.it/venezia-83-i-video-del-terzo-giorno-con-geoffrey-rush-e-il-cast-de-la-citta-dei-vivi/",
-    "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
-    "https://www.screenweek.it/venezia-83-geoffrey-rush-e-rodney-hicks-parlano-di-salute-mentale/",
-    "https://www.screenweek.it/un-mondo-meraviglioso-il-trailer-ufficiale-del-film/",
-    "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/"
+    "https://www.badtaste.it/articoli/povere-creature-cosa-significa-davvero-il-finale-lultima-scelta-di-bella-baxter-spiega-tutto-il-suo-viaggio",
+    "https://www.badtaste.it/articoli/perche-povere-creature-si-chiama-cosi-il-vero-significato-del-titolo-del-film-con-emma-stone"
   ],
   "accaddeOggi": [
     {
@@ -1039,47 +1064,6 @@
   ],
   "notizie": [
     {
-      "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-red-carpet-robert-pattinson-porta-il-glamour-nel-concorso-720357",
-      "titolo": "Venezia 83, red carpet: Robert Pattinson porta il glamour nel Concorso",
-      "sommario": "Venezia 83, red carpet: Robert Pattinson porta il glamour nel Concorso Robert Pattinson ha presentato a Venezia 83 il suo ultimo film, Primetime, che gareggia nel concorso veneziano. Con lui oltre al regista Lance Oppenheim, e al cast del film, anche l’attrice Suki Waterhouse, sua moglie nella vita privata. Cinefilos.i",
-      "fonte": "Cinefilos",
-      "lingua": "it",
-      "data": "2026-09-06T06:16:06.000Z",
-      "immagine": "https://cinefilos.it/wp-content/uploads/2026/09/Suki-Waterhouse-Robert-Pattinson-630x420.webp",
-      "categorie": [
-        "Mostra del cinema di Venezia"
-      ],
-      "soggetti": [
-        {
-          "nome": "Robert Pattinson",
-          "tipo": "attore",
-          "inTitolo": true,
-          "inLibreria": false,
-          "lista": null,
-          "filmId": null,
-          "tmdbId": null,
-          "backdrop": null,
-          "poster": null,
-          "profilo": null,
-          "trend": false,
-          "anno": null
-        }
-      ],
-      "soggetto": "Robert Pattinson",
-      "soggettoTipo": "attore",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
-      "prevendite": false,
-      "rilievo": 11.3,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:42:50.843Z",
-      "it": null,
-      "curato": false,
-      "immagineGrande": "https://cinefilos.it/wp-content/uploads/2026/09/Robert-Pattinson-4.webp",
-      "fotoCercata": false
-    },
-    {
       "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-oasis-dont-look-back-in-anger-red-carpet-liam-noel-gallagher-foto-720317",
       "titolo": "Venezia 83, Liam e Noel Gallagher infiammano il red carpet di Oasis: Don’t Look Back in Anger: tutte le foto",
       "sommario": "Venezia 83, Liam e Noel Gallagher infiammano il red carpet di Oasis: Don’t Look Back in Anger: tutte le foto È stato uno dei red carpet più attesi e partecipati di Venezia 83. Liam e Noel Gallagher sono arrivati ieri, 5 settembre, sul tappeto rosso della Mostra Internazionale d’Arte Cinematografica per la première mond",
@@ -1108,15 +1092,19 @@
       ],
       "soggetto": "Oasis: Don't Look Back in Anger",
       "soggettoTipo": "film",
-      "sezione": "notizia",
+      "sezione": "curiosita",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 11.3,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.632Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Liam e Noel Gallagher sul red carpet di Venezia 83, tutte le foto",
+        "sommario": "Il 5 settembre i due fratelli hanno accompagnato al Lido la premiere mondiale del documentario sulla reunion degli Oasis.",
+        "perche": "L'immagine rara dei due fratelli uno accanto all'altro davanti ai fotografi"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1147,16 +1135,20 @@
       ],
       "soggetto": "Robert Pattinson",
       "soggettoTipo": "attore",
-      "sezione": "approfondimento",
+      "sezione": "notizia",
       "inLibreria": false,
       "radar": "c'è Robert Pattinson, che hai visto 2 volte",
       "prevendite": false,
       "rilievo": 10.8,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.657Z",
-      "it": null,
-      "curato": false,
-      "immagineGrande": null,
+      "it": {
+        "titolo": "Chris Hansen attacca Primetime senza averlo visto, Pattinson replica",
+        "sommario": "Il giornalista al centro del film ha criticato l'interpretazione dell'attore; da Venezia è arrivata la risposta di Pattinson.",
+        "perche": "Pattinson, che hai visto due volte, difende un ruolo scomodo dal suo modello reale"
+      },
+      "curato": true,
+      "immagineGrande": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC80MDY2MDBcL1JvYmVydC1QYXR0aW5zb24taW4tUHJpbWV0aW1lLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMH19fQ==?signature=0cfec1cc2ede1075dd56157ffa65f840fbf20c3f6c9d4f82bbf8e47e3005034e",
       "fotoCercata": false
     },
     {
@@ -1190,11 +1182,116 @@
       "inLibreria": false,
       "radar": "c'è Robert Pattinson, che hai visto 2 volte",
       "prevendite": false,
-      "rilievo": 10.4,
+      "rilievo": 10.3,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.661Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Robert Pattinson arriva al Lido con il film più controverso del concorso",
+        "sommario": "L'attore porta a Venezia 83 Primetime, dedicato a Chris Hansen e al programma televisivo To Catch a Predator.",
+        "perche": "Un altro film con Pattinson, che hai già visto due volte, stavolta su un caso vero"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/jeff-zucker-primetime-cameo-robert-pattinson-chris-hansen-1236692009/",
+      "titolo": "Jeff Zucker on His Venice Film Festival Debut for A24’s ‘Primetime’: “This Is Very Surreal”",
+      "sommario": "The former NBC Entertainment chief turned up on the Lido to support his film debut (playing himself!) opposite Robert Pattinson in Lance Oppenheim's dissection of 'To Catch a Predator.'",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-05T21:52:17.000Z",
+      "immagine": null,
+      "categorie": [
+        "Movie News",
+        "Movies",
+        "A24",
+        "Jeff Zucker",
+        "Lance Oppenheim",
+        "Primetime",
+        "Robert Pattinson"
+      ],
+      "soggetti": [
+        {
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": false,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "profilo": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Robert Pattinson",
+      "soggettoTipo": "attore",
+      "sezione": "curiosita",
+      "inLibreria": false,
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
+      "prevendite": false,
+      "rilievo": 9.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.717Z",
+      "it": {
+        "titolo": "Jeff Zucker debutta al cinema in Primetime: «Tutto questo è surreale»",
+        "sommario": "L'ex capo di NBC Entertainment interpreta se stesso accanto a Robert Pattinson nel film di Lance Oppenheim, presentato a Venezia.",
+        "perche": "Pattinson, che hai visto due volte, dentro un pezzo di storia della tv americana"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://deadline.com/2026/09/danny-boyle-confirms-use-of-ai-in-new-movie-ink-1237069099/",
+      "titolo": "Danny Boyle Confirms Use Of AI In New Movie ‘Ink’",
+      "sommario": "Danny Boyle has confirmed the use of AI in new movie Ink about the launch of The Sun newspaper. Speaking to Vanity Fair, Boyle said he had used around 30 seconds of generative AI in the making of his new movie, which opened the Venice Film Festival this week before going on to play Telluride. […]",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-05T21:41:26.000Z",
+      "immagine": "https://deadline.com/wp-content/uploads/2026/09/Ink.png",
+      "categorie": [
+        "News",
+        "AI",
+        "Danny Boyle",
+        "Ink",
+        "Telluride",
+        "Venice"
+      ],
+      "soggetti": [
+        {
+          "nome": "Danny Boyle",
+          "tipo": "regista",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "profilo": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Danny Boyle",
+      "soggettoTipo": "regista",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": "regia di Danny Boyle, di cui hai visto un film",
+      "prevendite": false,
+      "rilievo": 8.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.700Z",
+      "it": {
+        "titolo": "Danny Boyle conferma di aver usato l'intelligenza artificiale in Ink",
+        "sommario": "Il regista ha detto a Vanity Fair di aver impiegato circa trenta secondi di IA generativa nel film che ha aperto Venezia 83.",
+        "perche": "Boyle è tra i registi che hai visto: qui prende posizione sull'IA in un film d'apertura"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1232,8 +1329,12 @@
       "rilievo": 8.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:25:12.149Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "The Runner, il finale spiegato: qual era davvero il piano di Maia",
+        "sommario": "Analisi dell'ultimo atto del thriller con Gal Gadot, dal destino di Tafa e The Caller al senso dell'ultima telefonata.",
+        "perche": "Un thriller da riguardare sapendo qual è la mossa nascosta nel finale"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1264,15 +1365,175 @@
       ],
       "soggetto": "Robert Pattinson",
       "soggettoTipo": "attore",
-      "sezione": "notizia",
+      "sezione": "approfondimento",
       "inLibreria": false,
       "radar": "c'è Robert Pattinson, che hai visto 2 volte",
       "prevendite": false,
       "rilievo": 8.6,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.656Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Chi è davvero Chris Hansen, il giornalista interpretato da Pattinson",
+        "sommario": "La storia di To Catch a Predator e del caso che ne cambiò per sempre il destino, all'origine del film presentato a Venezia.",
+        "perche": "Il fatto vero dietro il film con Pattinson, attore che segui da tempo"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://deadline.com/2026/09/coyote-vs-acme-ketchup-viqueens-1237069008/",
+      "titolo": "‘Coyote Vs. Acme’ Distributor Ketchup Entertainment Takes U.S. On Norwegian Animated Pic ‘ViQueens’",
+      "sommario": "EXCLUSIVE: Ketchup Entertainment, hot off giving Warner Bros Animation’s Coyote Vs. Acme a theatrical release, has acquired U.S. distribution rights to Norwegian animated movie ViQueens from director Harald Zwart (The Karate Kid, The 12th Man, Agent Cody Banks). The U.S. campaign for ViQueens will begin this weekend, w",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-05T17:47:53.000Z",
+      "immagine": "https://deadline.com/wp-content/uploads/2026/09/ViQueensFirstLook_PhotoCredit_ZwartArbeid.png",
+      "categorie": [
+        "Acquisitions",
+        "News",
+        "Ketchup Entertainment",
+        "ViQueens"
+      ],
+      "soggetti": [
+        {
+          "nome": "Coyote vs. Acme",
+          "tipo": "film",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": 1204680,
+          "backdrop": "/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+          "poster": "/x2AtkVKU8IDgeScz354aqoYjUQG.jpg",
+          "profilo": null,
+          "trend": true,
+          "anno": "2026"
+        }
+      ],
+      "soggetto": "Coyote vs. Acme",
+      "soggettoTipo": "film",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 8.4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.706Z",
+      "it": {
+        "titolo": "Ketchup Entertainment porta negli Stati Uniti l'animazione norvegese ViQueens",
+        "sommario": "Dopo l'uscita in sala di Coyote vs. Acme, la società ha acquistato i diritti americani del film diretto da Harald Zwart.",
+        "perche": "Il distributore che ha salvato Coyote vs. Acme continua a raccogliere titoli orfani"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://deadline.com/2026/09/father-joe-review-keifer-sutherland-al-pacino-luc-besson-venice-1237069403/",
+      "titolo": "‘Father Joe’ Review: Keifer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-’Em-Up – Venice Film Festival",
+      "sommario": "Did you ever feel that King of New York could have done with a bit more Wing Chun? Did you ever think that John Woo’s films weren’t quite Catholic enough? That the siege of Troy might have been handled a bit more successfully if the Greeks had a bazooka? If your answer is yes to […]",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-06T10:20:21.000Z",
+      "immagine": "https://deadline.com/wp-content/uploads/2026/09/116074-FATHER_JOE_-_Actor_Kiefer_Sutherland.jpg",
+      "categorie": [
+        "Festivals",
+        "Reviews",
+        "Al Pacino",
+        "Father Joe",
+        "Kiefer Sutherland",
+        "Luc Besson",
+        "Michael Rispoli",
+        "Venice"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 8.3,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.695Z",
+      "it": {
+        "titolo": "Father Joe, Kiefer Sutherland prete armato in un action da Venezia",
+        "sommario": "Deadline racconta il film di genere presentato al Lido, con Al Pacino nel cast: violenza da beat-'em-up e memoria di John Woo.",
+        "perche": "Un action confessionale fuori formato, per chi cerca il thriller anche lontano dal concorso"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://variety.com/2026/film/global/roma-alina-serban-venice-i-matter-1236847100/",
+      "titolo": "Groundbreaking Roma Director Alina Șerban on ‘Pain,’ ‘Joy,’ of Historic, Venice-Bound ‘I Matter’: ‘I Managed to Do Something Impossible’",
+      "sommario": "Roma filmmaker Alina Șerban broke barriers long before she set foot on the red carpet this week at the Venice Film Festival, where her feature-length directorial debut, “I Matter,” world premieres in the Venice Spotlight section. Rising from an impoverished background to become a celebrated stage star in Romania, the a",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T06:35:00.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/08/MixCollage-01-Sep-2026-08-12-AM-5663.jpg",
+      "categorie": [
+        "Global",
+        "Markets & Festivals",
+        "News",
+        "Alina Serban",
+        "Venice Film Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.680Z",
+      "it": {
+        "titolo": "Alina Serban porta a Venezia I Matter, il suo esordio alla regia",
+        "sommario": "L'attrice romena di origine rom, cresciuta in povertà, presenta il primo film da regista nella sezione Venice Spotlight.",
+        "perche": "Un esordio che allarga il perimetro di chi può raccontare storie al cinema"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://variety.com/2026/film/festivals/lee-chang-dong-jeon-do-yeon-sul-kyung-possible-love-1236852451/",
+      "titolo": "Lee Chang-dong, Jeon Do-yeon and Sul Kyung-gu on Class, Desire and Reunion in Venice Competition Drama ‘Possible Love’",
+      "sommario": "Every great love story, in Korean auteur Lee Chang-dong’s telling, is secretly a story about love that cannot happen — class, status or fate standing in the way. His new film dares to ask the opposite question, and it took him the better part of two decades, one abandoned script about a 2009 workers’ strike […]",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T05:45:00.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/09/Possible-Love1.jpg",
+      "categorie": [
+        "Asia",
+        "Festivals",
+        "Global",
+        "News",
+        "Busan International Film Festival",
+        "Lee Chang-dong",
+        "Possible Love",
+        "Toronto Film Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 7.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.687Z",
+      "it": {
+        "titolo": "Lee Chang-dong torna in concorso a Venezia con Possible Love",
+        "sommario": "Il regista coreano, con Jeon Do-yeon e Sul Kyung-gu, racconta i quasi vent'anni di lavorazione del film e il peso della classe sociale.",
+        "perche": "Dramma d'autore su desiderio e disuguaglianza, dal cinema coreano che sa tenere la tensione"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1312,8 +1573,12 @@
       "rilievo": 7.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.540Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Ink, il trailer del nuovo film di Danny Boyle con Guy Pearce",
+        "sommario": "Prime immagini del film sulla nascita del tabloid britannico The Sun, che ha aperto la Mostra del cinema di Venezia.",
+        "perche": "Boyle è tra i registi che hai visto: qui prova il racconto di potere e giornali"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -1353,8 +1618,12 @@
       "rilievo": 7.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.544Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Maigret - L'amore e la morte, il trailer del film con Denis Podalydès",
+        "sommario": "È uscito il trailer del film francese dedicato al commissario Maigret, interpretato da Denis Podalydès.",
+        "perche": "Un giallo d'atmosfera dalla tradizione francese, se ti va un'indagine lenta"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -1394,8 +1663,63 @@
       "rilievo": 7.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.545Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Assassination Classroom - L'ora di tutti noi, il trailer ufficiale",
+        "sommario": "È stato diffuso il trailer ufficiale del nuovo film della saga giapponese di Assassination Classroom.",
+        "perche": "Un ritorno sul grande schermo per una delle saghe giapponesi più seguite"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/primetime-robert-pattinson-review-roundup-critics-a24-1236691991/",
+      "titolo": "‘Primetime’: Robert Pattinson Earns Raves as Chris Hansen — Here’s What Critics Are Saying",
+      "sommario": "The thriller about the former 'To Catch a Predator' host premiered Saturday at the Venice Film Festival and will open in theaters Sept. 25.",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-05T22:15:36.000Z",
+      "immagine": null,
+      "categorie": [
+        "Movie News",
+        "Movies",
+        "A24",
+        "Chris Hansen",
+        "Lance Oppenheim",
+        "Primetime",
+        "Robert Pattinson"
+      ],
+      "soggetti": [
+        {
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "profilo": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Robert Pattinson",
+      "soggettoTipo": "attore",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte",
+      "prevendite": false,
+      "rilievo": 7.5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.716Z",
+      "it": {
+        "titolo": "Primetime, la critica applaude Robert Pattinson nei panni di Chris Hansen",
+        "sommario": "Il thriller presentato sabato a Venezia esce in sala il 25 settembre; l'Hollywood Reporter raccoglie i primi giudizi.",
+        "perche": "Pattinson lo hai già visto due volte: qui è il ruolo che potrebbe cambiargli passo"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -1436,20 +1760,81 @@
       "rilievo": 7.5,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:29.954Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Oasis: Don't Look Back in Anger non parla solo ai millennial",
+        "sommario": "La recensione del documentario sui fratelli Gallagher, nelle sale italiane dal 10 settembre dopo la premiere veneziana.",
+        "perche": "Un concerto filmato che diventa racconto generazionale, in sala fra pochi giorni"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
     {
-      "link": "https://www.badtaste.it/articoli/benedetta-porcaroli-e-riccardo-scamarcio-insieme-a-venezia-83-il-loro-arrivo-al-lido-non-passa-inosservato",
-      "titolo": "Benedetta Porcaroli e Riccardo Scamarcio insieme a Venezia 83: il loro arrivo al Lido non passa inosservato",
-      "sommario": "Benedetta Porcaroli e Riccardo Scamarcio sorprendono a Venezia 83 arrivando insieme al Lido: sorrisi, look diversi e una rara apparizione pubblica per una delle coppie più riservate del cinema italiano.",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-06T06:30:37.000Z",
-      "immagine": "https://media.badtaste.it/eyJidWNrZXQiOiJyZWFsbHliYWQiLCJrZXkiOiJtZWRpYS1saWJyYXJ5XC9sZWdhY3lcL3NpdGVzXC8xXC8yMDIxXC8wMlwvZHNjMDgxMjUtc2NhbGVkLTEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwfX19?signature=8775d6985e64491ae36cb827d3fe4af517c9b5bb34b98971787cee904fc7db4a",
-      "categorie": [],
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/telluride-danny-boyle-jack-oconnell-james-graham-ink-maga-1236691197/",
+      "titolo": "Telluride: Danny Boyle, Jack O’Connell and James Graham on ‘Ink,’ Rupert Murdoch and MAGA (Exclusive)",
+      "sommario": "\"We couldn't raise the money,\" the film's Oscar-winning director reveals. \"A lot of people thought theater plays don't really work in film, and they were all frightened of Murdoch and legal problems.\"",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-05T18:35:42.000Z",
+      "immagine": null,
+      "categorie": [
+        "Movie Features",
+        "Movies",
+        "Danny Boyle",
+        "Ink",
+        "Jack O'Connell",
+        "james graham",
+        "Rupert Murdoch",
+        "telluride 2026"
+      ],
+      "soggetti": [
+        {
+          "nome": "Danny Boyle",
+          "tipo": "regista",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "profilo": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Danny Boyle",
+      "soggettoTipo": "regista",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": "regia di Danny Boyle, di cui hai visto un film",
+      "prevendite": false,
+      "rilievo": 7.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.718Z",
+      "it": {
+        "titolo": "Danny Boyle: «Nessuno voleva finanziare Ink, temevano Murdoch»",
+        "sommario": "Il regista, Jack O'Connell e lo sceneggiatore James Graham raccontano a Telluride la nascita del film sulle origini del Sun.",
+        "perche": "Boyle, che hai già visto, spiega perché un film sul potere dei giornali fatica a nascere"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049/",
+      "titolo": "‘Father Joe’: First Look Clip Of Kiefer Sutherland As A Priest Who Clashes With The Mob In Action-Crime Pic — Venice",
+      "sommario": "EXCLUSIVE: Here’s your first clip for Venice Film Festival genre pic Father Joe, starring Kiefer Sutherland, Al Pacino and teen Ever Anderson, daughter of Milla Jovovich and filmmaker Paul W.S. Anderson. Sutherland plays “a man of faith who wages a violent war against Manhattan’s criminal underworld, putting him on a c",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-05T19:46:03.000Z",
+      "immagine": "https://deadline.com/wp-content/uploads/2026/09/Father-Joe.jpg",
+      "categorie": [
+        "News",
+        "Father Joe",
+        "Kiefer Sutherland",
+        "Venice"
+      ],
       "soggetti": [],
       "soggetto": null,
       "soggettoTipo": "nessuno",
@@ -1459,11 +1844,123 @@
       "prevendite": false,
       "rilievo": 7.1,
       "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.504Z",
-      "it": null,
-      "curato": false,
+      "vistoIl": "2026-09-06T11:17:18.701Z",
+      "it": {
+        "titolo": "Father Joe, la prima clip con Kiefer Sutherland prete contro la malavita",
+        "sommario": "Deadline diffonde in anteprima una scena del film presentato a Venezia, con Al Pacino e l'esordiente Ever Anderson.",
+        "perche": "Le prime immagini in movimento di un thriller d'azione atteso al Lido"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
+    },
+    {
+      "link": "https://deadline.com/2026/09/nanni-moretti-it-will-happen-tonight-ovation-venice-1237068969/",
+      "titolo": "Nanni Moretti’s ‘It Will Happen Tonight’ Earns Nine-Minute Ovation At Venice World Premiere",
+      "sommario": "Nanni Moretti’s romantic drama It Will Happen Tonight drew a warm nine-minute ovation at the Venice Film Festival on Saturday evening as the Italian director returned to show a new film there for the first time in 37 years. Moretti last world premiered a film at Venice in 1989 with Palombella Rossa (Red Wood Pigeon), [",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-05T19:32:06.000Z",
+      "immagine": "https://deadline.com/wp-content/uploads/2026/09/Nanni-Moretti-premiere-Venice.jpg",
+      "categorie": [
+        "Festivals",
+        "News",
+        "It Will Happen Tonight",
+        "Nanni Moretti",
+        "Venice",
+        "Venice Film Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 7.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.701Z",
+      "it": {
+        "titolo": "Nove minuti di applausi a Venezia per il nuovo film di Nanni Moretti",
+        "sommario": "Il regista è tornato a presentare un film alla Mostra dopo 37 anni: l'ultima volta era stata nel 1989 con Palombella rossa.",
+        "perche": "Il ritorno al Lido del regista italiano più discusso, dopo quasi quarant'anni di assenza"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://deadline.com/2026/09/the-liberation-review-carrie-coon-lily-james-bella-ramsey-1237068931/",
+      "titolo": "‘The Liberation’ Review: Carrie Coon, Lily James And Bella Ramsey Soar In Guy Nattiv’s Explosive Cult Thriller – Telluride Film Festival",
+      "sommario": "The Liberation has the bones of every cult movie I have ever seen, yet somehow it feels apart, a completely different and, for this genre, surprisingly female-driven narrative that is at once edge-of-your-seat suspense thriller and achingly personal. That behind the scenes a man is at the heart of all of this, his own ",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-05T17:25:53.000Z",
+      "immagine": "https://deadline.com/wp-content/uploads/2026/09/Liberation.jpg",
+      "categorie": [
+        "Festivals",
+        "Reviews",
+        "Bella Ramsey",
+        "Carrie Coon",
+        "Guy Nattiv",
+        "Lily James",
+        "Odessa Young",
+        "Telluride"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.706Z",
+      "it": {
+        "titolo": "The Liberation, il thriller sulle sette con Carrie Coon convince Telluride",
+        "sommario": "Nel film di Guy Nattiv, con Lily James e Bella Ramsey, la storia di una comunità chiusa è raccontata dal punto di vista delle donne.",
+        "perche": "Thriller e dramma insieme: due dei generi che segui più spesso"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/may-el-toukhy-woman-unknown-venice-film-festival-mathilde-1236683019/",
+      "titolo": "May el-Toukhy Takes ‘Woman Unknown’ to Venice: “I’ve Used Every Part of Me to Make This Film”",
+      "sommario": "The Danish filmmaker, one of two female directors in competition this year, comes to the Lido with a feature following a woman about to marry her widowed employer in the aftermath of World War II — while harboring a secret.",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-06T08:00:00.000Z",
+      "immagine": null,
+      "categorie": [
+        "Movie Features",
+        "Movies",
+        "international",
+        "may el-toukhy",
+        "Venice 2026",
+        "Venice Film Festival",
+        "venice film festival 2026"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.708Z",
+      "it": {
+        "titolo": "May el-Toukhy in concorso a Venezia con Woman Unknown",
+        "sommario": "La regista danese, una delle due donne in gara, racconta la storia di una donna che nasconde un segreto nel dopoguerra.",
+        "perche": "Dramma d'epoca costruito su un segreto, da una delle poche registe in concorso"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
     },
     {
       "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/the-echo-chamber-luca-marinelli-alicia-vikander-venezia-83-719570",
@@ -1486,8 +1983,12 @@
       "rilievo": 6.8,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.430Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "The Echo Chamber, Luca Marinelli e Alicia Vikander in concorso a Venezia",
+        "sommario": "Il film di Andrea Pallaoro, con anche Susan Sarandon, è in programma il 6 settembre: una storia d'amore che diventa prigionia.",
+        "perche": "Dramma claustrofobico con due attori europei di peso, in gara al Lido"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1505,15 +2006,19 @@
       "soggetti": [],
       "soggetto": null,
       "soggettoTipo": "nessuno",
-      "sezione": "notizia",
+      "sezione": "curiosita",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 6.8,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.431Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Nanni Moretti sul red carpet con Jasmine Trinca e Louis Garrel",
+        "sommario": "Le foto del 5 settembre al Lido per Succederà questa notte, presentato in concorso alla Mostra del cinema.",
+        "perche": "Le facce del cast al completo, la sera del ritorno di Moretti a Venezia"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1546,15 +2051,19 @@
       ],
       "soggetto": "Nessun dolore",
       "soggettoTipo": "film",
-      "sezione": "notizia",
+      "sezione": "curiosita",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 6.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.376Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Venezia 83, i video del secondo giorno con Alessandro Borghi",
+        "sommario": "Sul tappeto rosso sono passati i cast di Wild Horse Nine e di Nessun dolore.",
+        "perche": "Un giro veloce sul Lido, con le voci del cinema italiano in concorso"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -1588,17 +2097,86 @@
       ],
       "soggetto": "Nessun dolore",
       "soggettoTipo": "film",
-      "sezione": "notizia",
+      "sezione": "curiosita",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 6.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.377Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Venezia 83, i video del primo giorno con George Clooney",
+        "sommario": "Il Leone d'oro alla carriera a Clooney, l'arrivo di Nina Dobrev e del cast di Nessun dolore aprono la Mostra.",
+        "perche": "L'apertura della Mostra vista dal tappeto rosso, premio alla carriera compreso"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/the-debut-jesse-eisenberg-original-songs-oscar-push-1236687820/",
+      "titolo": "‘The Debut’ Features Seven Original Songs, All Written by Jesse Eisenberg, and One Is Getting an Oscar Push (Exclusive)",
+      "sommario": "The best original song race already includes tunes by Taylor Swift, Travis Scott, David Byrne, Backstreet Boys and, yes, Diane Warren.",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-06T00:45:48.000Z",
+      "immagine": null,
+      "categorie": [
+        "Movie News",
+        "Movies",
+        "Jesse Eisenberg",
+        "Julianne Moore",
+        "The Debut"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.713Z",
+      "it": {
+        "titolo": "Sette canzoni originali scritte da Jesse Eisenberg per The Debut",
+        "sommario": "Una di esse verrà candidata all'Oscar, in una corsa che quest'anno comprende anche Taylor Swift, David Byrne e Diane Warren.",
+        "perche": "Un attore-regista che si scopre autore di canzoni, con l'Oscar nel mirino"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.slashfilm.com/2248085/braveheart-sequel-robert-the-bruce-streaming-free-pluto-tv/",
+      "titolo": "Braveheart's Forgotten 'Sequel' Is Streaming For Free",
+      "sommario": "This historical drama, which is currently streaming for free, is an unofficial Braveheart sequel and even stars a member of that movie's cast.",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-05T21:45:00.000Z",
+      "immagine": "https://www.slashfilm.com/img/gallery/bravehearts-forgotten-sequel-is-streaming-for-free/l-intro-1788207982.jpg",
+      "categorie": [
+        "Action & Adventure Movies",
+        "History Movies"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "curiosita",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 6.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.721Z",
+      "it": {
+        "titolo": "Il seguito non ufficiale di Braveheart si vede gratis in streaming",
+        "sommario": "Robert the Bruce, dramma storico con un attore del cast del film di Mel Gibson, è disponibile senza abbonamento su Pluto TV.",
+        "perche": "Un'appendice dimenticata di un kolossal storico, recuperabile a costo zero"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.badtaste.it/articoli/john-malkovich-si-ritira-dalla-recitazione-la-risposta-dellattore-a-venezia-2026",
@@ -1619,8 +2197,12 @@
       "rilievo": 5.9,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.509Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "John Malkovich parla del suo ritiro dalla recitazione a Venezia",
+        "sommario": "Dopo la presentazione del suo ultimo film al Lido, l'attore è tornato sull'ipotesi di lasciare il mestiere.",
+        "perche": "Uno dei volti più riconoscibili del cinema americano fa i conti con la fine"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1658,8 +2240,112 @@
       "rilievo": 5.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.502Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Mayday, gli anni Ottanta di Ryan Reynolds tra Top Gun e Springsteen",
+        "sommario": "La recensione della commedia d'azione ambientata nella guerra fredda, con Kenneth Branagh, disponibile su Apple TV.",
+        "perche": "Avventura e nostalgia americana anni Ottanta, dal filone che frequenti"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune",
+      "titolo": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
+      "sommario": "<p>Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’</p><p>Robert Pattinson has talked about the “addictive” nature of working on several films simultaneously, having starred in several of this year’s most highly anticipated productions, despite rec",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-05T14:42:37.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bfb87ae51ae077cc0607016b5e596b2",
+      "categorie": [
+        "Venice film festival",
+        "Robert Pattinson",
+        "The Odyssey",
+        "The Drama",
+        "Film",
+        "Festivals",
+        "Culture"
+      ],
+      "soggetti": [
+        {
+          "nome": "The Drama - Un segreto è per sempre",
+          "tipo": "film",
+          "inTitolo": false,
+          "inLibreria": true,
+          "lista": "casa",
+          "filmId": "tmdb-1325734",
+          "tmdbId": 1325734,
+          "backdrop": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+          "poster": "/3zdr031LjTG71QyeC7mWdyU19bE.jpg",
+          "profilo": null,
+          "trend": false,
+          "anno": "2026"
+        },
+        {
+          "nome": "Robert Pattinson",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "profilo": null,
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Robert Pattinson",
+      "soggettoTipo": "attore",
+      "sezione": "notizia",
+      "inLibreria": true,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 5.6,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.785Z",
+      "it": {
+        "titolo": "Robert Pattinson: «Dopo la nascita di mia figlia ho avuto il doppio del tempo»",
+        "sommario": "L'attore ha parlato a Venezia dell'anno più fitto della sua carriera, tra Primetime, l'Odissea e Dune.",
+        "perche": "Hai visto l'Odissea e hai in libreria The Drama: qui Pattinson racconta questo suo anno"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://variety.com/2026/film/festivals/wim-wenders-clarifies-filmmakers-politics-berlin-1236853205/",
+      "titolo": "Wim Wenders Clarifies His Stance on Filmmakers’ Role in Politics After Berlin Controversy: ‘We Are the Opposite of Politicians … We Are the Antidote’",
+      "sommario": "Wim Wenders has clarified his much-discussed statement about filmmakers’ role in politics that kicked off a firestorm at Berlin Film Festival earlier this year. Wenders was at the center of a heated debate at the Berlinale in February after the celebrated German filmmaker, who served as jury president, said during the ",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T10:44:13.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/09/wim-wenders.jpg",
+      "categorie": [
+        "Festivals",
+        "Global",
+        "News",
+        "Berlin Film Festival",
+        "Venice Film Festival",
+        "Wim Wenders"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 5.4,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.446Z",
+      "it": {
+        "titolo": "Wim Wenders precisa: «I registi sono l'antidoto ai politici, non politici»",
+        "sommario": "Il regista torna sulla frase che aveva acceso la polemica alla Berlinale di febbraio, quando presiedeva la giuria.",
+        "perche": "Il ruolo pubblico dei registi, discusso da chi ha guidato una giuria a Berlino"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1697,8 +2383,190 @@
       "rilievo": 5.3,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.440Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Mutiny, la clip esclusiva del thriller d'azione con Jason Statham",
+        "sommario": "Il film distribuito da Eagle Pictures arriva nelle sale italiane il 10 settembre: Statham è l'ex soldato Cole Reed.",
+        "perche": "Thriller d'azione in mare aperto, senza troppe premesse da reggere"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://variety.com/2026/film/global/russian-filmmakers-dau-venice-film-festival-1236845801/",
+      "titolo": "Are Russian Filmmakers Finally Coming in From the Cold?",
+      "sommario": "The Venice Film Festival found itself under fire in the weeks leading up to opening night over the inclusion of “DAU,” by Russian filmmaker Ilya Khrzhanovsky, in the main competition of its 83rd edition. In a joint statement released on Aug. 17, the Ukraine Ministries of Foreign Affairs and Culture and the Ukrainian Em",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T07:45:23.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/08/dau.jpg",
+      "categorie": [
+        "Global",
+        "Markets & Festivals",
+        "News",
+        "Alexander Rodnyansky",
+        "Andrey Zvyagintsev",
+        "Ilya Khrzhanovsky",
+        "Russia",
+        "Venice Film Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 5.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.531Z",
+      "it": {
+        "titolo": "Il caso DAU riapre la questione dei registi russi nei festival",
+        "sommario": "L'inclusione del film di Ilya Khrzhanovsky nel concorso di Venezia ha provocato la protesta ufficiale dei ministeri ucraini.",
+        "perche": "Come i festival decidono chi può stare in sala mentre c'è una guerra"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://variety.com/2026/film/news/moonfish-lucy-liu-morgan-spector-1236852534/",
+      "titolo": "Moonfish’ Director and Stars Lucy Liu and Morgan Spector Break Down Their Black-and-White Animated Film About Isolated Astronauts And Why It’s an Allegory for ‘The Current Human Condition’",
+      "sommario": "For Lucy Liu, who has voiced memorable characters in everything from “Kung Fu Panda” to “Strange World,” being part of the independently made, black-and-white animated film “Moonfish” was all about lending her name and support to first-time filmmaker Daniel Zvereff. “These are the people that are not just the creatives",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T06:05:00.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/09/MOONFISH-Official-still.jpg",
+      "categorie": [
+        "News",
+        "Moonfish",
+        "Venice Film Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 5,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.682Z",
+      "it": {
+        "titolo": "Moonfish, l'animazione in bianco e nero con la voce di Lucy Liu",
+        "sommario": "Il film indipendente di Daniel Zvereff racconta astronauti isolati; per Liu e Morgan Spector è un'allegoria della condizione umana di oggi.",
+        "perche": "Fantascienza spaziale disegnata a mano, lontanissima dai budget dei blockbuster"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://variety.com/2026/film/news/judith-blum-reddy-doc-everything-is-not-ok-watermelon-pictures-1236852495/",
+      "titolo": "Dev Benegal’s Judith Blum Reddy Doc ‘Everything Is Not OK’ Acquired by Watermelon Pictures, Annemarie Jacir Aboard as EP (EXCLUSIVE)",
+      "sommario": "Watermelon Pictures has acquired “Everything Is Not OK,” a documentary from director Dev Benegal chronicling the life of artist Judith Blum Reddy. The film will stream exclusively on Watermelon+, the distributor’s streaming platform. The producing team pairs Benegal with Min(d) Studio’s Maya S. Patel and Neeraj Jain, w",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T05:50:14.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/09/Everything-is-Not-OK.jpg",
+      "categorie": [
+        "Asia",
+        "Festivals",
+        "Global",
+        "News",
+        "Dev Benegal",
+        "Everything Is Not OK",
+        "Judith Blum Reddy",
+        "Venice Film Festival"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.685Z",
+      "it": {
+        "titolo": "Watermelon Pictures acquista il documentario Everything Is Not OK",
+        "sommario": "Il film di Dev Benegal sull'artista Judith Blum Reddy sarà disponibile in streaming su Watermelon+, con Annemarie Jacir produttrice esecutiva.",
+        "perche": "Un ritratto d'artista che trova casa su una piattaforma indipendente"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+      "titolo": "Female film-makers still being squeezed out of industry, London film festival director says",
+      "sommario": "<p>Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women</p><p>Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the director of the London film festival has said, adding that “the dial does not seem to be moving”",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-02T18:00:07.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a8b69932a100c6f4ba8792eef56d7d2",
+      "categorie": [
+        "London film festival",
+        "BFI",
+        "London",
+        "Film",
+        "Culture",
+        "Festivals",
+        "Andrew Scott",
+        "Olivia Colman"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.796Z",
+      "it": {
+        "titolo": "Il festival di Londra: «Le registe continuano a essere spinte fuori dal mestiere»",
+        "sommario": "Oltre il 40% dei film in programma è firmato da donne, ma solo due dei ventuno titoli di gala hanno una regista.",
+        "perche": "Numeri concreti su chi riesce a girare il secondo film e chi resta indietro"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
+      "titolo": "‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy",
+      "sommario": "What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who plays a crumpled-up wallflower in dire need of blooming. Oh, does she bloom.",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-06T02:59:36.000Z",
+      "immagine": "https://variety.com/wp-content/uploads/2026/09/Debut.jpg",
+      "categorie": [
+        "Reviews",
+        "Jesse Eisenberg",
+        "Julianne Moore",
+        "Paul Giamatti",
+        "Telluride Film Festival",
+        "The Debut"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 4.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.689Z",
+      "it": {
+        "titolo": "The Debut, Julianne Moore straordinaria nella commedia di Jesse Eisenberg",
+        "sommario": "Nel terzo film da regista di Eisenberg, Moore interpreta una donna dimessa che rinasce grazie a una compagnia di teatro amatoriale.",
+        "perche": "Una commedia amara retta per intero da un'interpretazione, presentata a Telluride"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1732,15 +2600,19 @@
       ],
       "soggetto": "Fammi il piacere",
       "soggettoTipo": "film",
-      "sezione": "notizia",
+      "sezione": "approfondimento",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 4.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.543Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Fammi il piacere, la commedia di Reem Kherici sul piacere femminile",
+        "sommario": "Il film prende spunto dall'invenzione del Womanizer per raccontare una coppia che prova a ritrovare la complicità.",
+        "perche": "Commedia francese che affronta un tema di solito lasciato fuori campo"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -1774,43 +2646,21 @@
       ],
       "soggetto": "The Invite - Il piacere è tutto nostro",
       "soggettoTipo": "film",
-      "sezione": "notizia",
+      "sezione": "approfondimento",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 4.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.544Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "The Invite, Olivia Wilde rifà Sentimental di Cesc Gay",
+        "sommario": "Una commedia da camera sulle frustrazioni del ceto medio americano, tra dialoghi brillanti e introspezione borghese.",
+        "perche": "Un rifacimento che sposta una commedia spagnola dentro il salotto americano"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-898670.html",
-      "titolo": "Fortnite: questa hit dei Bring Me The Horizon è appena arrivata nel Festival",
-      "sommario": "Fortnite Festival accoglie \"Can You Feel My Heart\" dei Bring Me The Horizon, ora disponibile gratuitamente sul Palco Principale o acquistabile. Mentre prosegue la Stagione 4 di Fortnite Battaglia Reale con Sonic e Crash , la modalità musicale Fortnite Festival continua ad espandersi dando il benvenuto alle superstar di",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-09-05T09:13:00.000Z",
-      "immagine": "https://images.everyeye.it/img-notizie/fortnite-hit-bring-the-horizon-appena-arrivata-festival-v3-898670-800x600.webp",
-      "categorie": [
-        "Fortnite Capitolo 7"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 4.7,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.407Z",
-      "it": null,
-      "curato": false,
-      "immagineGrande": null,
-      "fotoCercata": false
     },
     {
       "link": "https://movieplayer.it/news/george-clooney-casa-moglie-racconto-festival-venezia_170901/",
@@ -1824,15 +2674,19 @@
       "soggetti": [],
       "soggetto": null,
       "soggettoTipo": "nessuno",
-      "sezione": "notizia",
+      "sezione": "approfondimento",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 4.5,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.472Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "George Clooney a Venezia ripercorre quasi cinquant'anni di carriera",
+        "sommario": "Al Lido l'attore ha raccontato i sacrifici per Good Night, and Good Luck, il rapporto con Amal e una proposta improvvisa a una giovane diplomata.",
+        "perche": "Una carriera lunga raccontata dal vivo, con i passaggi difficili inclusi"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1851,15 +2705,19 @@
       "soggetti": [],
       "soggetto": null,
       "soggettoTipo": "nessuno",
-      "sezione": "notizia",
+      "sezione": "curiosita",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 4.3,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:09.797Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Venezia 83, i video del terzo giorno con Geoffrey Rush",
+        "sommario": "Sul tappeto rosso Jasmine Trinca, Marion Cotillard e Geena Davis, insieme al cast de La città dei vivi.",
+        "perche": "Il Lido raccontato in presa diretta, tra concorso e sezioni collaterali"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -1882,8 +2740,12 @@
       "rilievo": 4.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.488Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Povere creature!, il finale spiegato: l'ultima scelta di Bella Baxter",
+        "sommario": "Ricostruzione dell'ultimo atto del film di Yorgos Lanthimos con Emma Stone, dal ritorno di Alfie alla scena conclusiva.",
+        "perche": "Un finale che riscrive tutto il viaggio del personaggio, se il film ti è rimasto"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1899,15 +2761,19 @@
       "soggetti": [],
       "soggetto": null,
       "soggettoTipo": "nessuno",
-      "sezione": "approfondimento",
+      "sezione": "curiosita",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 4.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.502Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Perché il film di Lanthimos si intitola Povere creature!",
+        "sommario": "Il significato del titolo nasce dal romanzo di Alasdair Gray e propone una lettura che va oltre la storia di Bella Baxter.",
+        "perche": "Il dettaglio letterario che cambia la lettura di tutto il film"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1930,8 +2796,12 @@
       "rilievo": 4.1,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.504Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Dove è stato girato Povere creature!, da Londra a Lisbona",
+        "sommario": "Il mondo fantastico attraversato da Emma Stone è stato costruito tra Londra, Lisbona, Parigi e Alessandria d'Egitto.",
+        "perche": "Come si fabbrica un mondo immaginario partendo da città vere"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -1976,15 +2846,19 @@
       ],
       "soggetto": "Matt Damon",
       "soggettoTipo": "attore",
-      "sezione": "notizia",
+      "sezione": "curiosita",
       "inLibreria": true,
       "radar": null,
       "prevendite": false,
       "rilievo": 4,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:21:30.591Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Matt Damon continua a scegliere ruoli imprevedibili",
+        "sommario": "Da Odissea e The Departed a un film di fantascienza ancora misterioso: una libertà di scelta che oggi distingue l'attore dagli altri divi.",
+        "perche": "Damon è tra i tuoi attori e hai visto Odissea: qui si spiega come sceglie"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -2009,10 +2883,97 @@
       "rilievo": 3.9,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.420Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Valerio Mastandrea a Venezia parla dei padri imperfetti",
+        "sommario": "L'attore ha raccontato il ruolo del padre di Luca Varani ne La città dei vivi, film di Edoardo Gabbriellini in concorso a Orizzonti.",
+        "perche": "Un fatto di cronaca nera italiana affrontato dalla parte dei genitori"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/wim-wenders-peter-zumthor-documentary-from-inside-out-venice-1236686539/",
+      "titolo": "Wim Wenders on His 14-Year Journey Building Peter Zumthor Doc ‘From Inside Out’",
+      "sommario": "The Oscar-nominated director of 'Pina' and 'The Salt of the Earth' returns to 3D for 'From Inside Out: The Architecture of Peter Zumthor,' a portrait of the Pritzker-winning architect behind LACMA's $724 million David Geffen Galleries — and a defense of beauty in a world of flattened cities.",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-06T08:00:00.000Z",
+      "immagine": null,
+      "categorie": [
+        "Movie News",
+        "Movies",
+        "Documentaries",
+        "international",
+        "Venice 2026",
+        "Venice Film Festival",
+        "Wim Wenders"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.711Z",
+      "it": {
+        "titolo": "Wim Wenders e i quattordici anni del ritratto di Peter Zumthor",
+        "sommario": "From Inside Out, girato di nuovo in 3D, segue l'architetto premio Pritzker e le gallerie Geffen del LACMA di Los Angeles.",
+        "perche": "Il regista di Pina torna al 3D per filmare lo spazio: il cinema come architettura"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": true
+    },
+    {
+      "link": "https://www.slashfilm.com/2250787/ryan-reynolds-owes-career-superhero-flop-green-lantern/",
+      "titolo": "Ryan Reynolds Says He Owes His Entire Career To An Infamous Superhero Flop",
+      "sommario": "Actors can learn as much from their failures as they can their successes, and Ryan Reynolds says he owes his career to an infamous flop.",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-04T23:00:00.000Z",
+      "immagine": "https://www.slashfilm.com/img/gallery/ryan-reynolds-says-he-owes-his-entire-career-to-an-infamous-superhero-flop/l-intro-1788471859.jpg",
+      "categorie": [
+        "Movie News",
+        "Action & Adventure Movies",
+        "Superhero Movies"
+      ],
+      "soggetti": [
+        {
+          "nome": "Ryan Reynolds",
+          "tipo": "attore",
+          "inTitolo": true,
+          "inLibreria": false,
+          "lista": null,
+          "filmId": null,
+          "tmdbId": null,
+          "backdrop": null,
+          "poster": null,
+          "profilo": "/trzgptffGvAlAT6MEu01fz47cLW.jpg",
+          "trend": false,
+          "anno": null
+        }
+      ],
+      "soggetto": "Ryan Reynolds",
+      "soggettoTipo": "attore",
+      "sezione": "curiosita",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 3.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.727Z",
+      "it": {
+        "titolo": "Ryan Reynolds: «Devo tutta la mia carriera a un flop di supereroi»",
+        "sommario": "L'attore torna sull'insuccesso di Lanterna Verde e spiega che cosa gli ha insegnato quel fallimento.",
+        "perche": "Come si costruisce una carriera ripartendo da un disastro annunciato"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
     },
     {
       "link": "https://www.screenweek.it/venezia-83-mr-nelson-did-you-kill-people-e-un-film-potente-ma-poco-equilibrato/",
@@ -2030,15 +2991,19 @@
       "soggetti": [],
       "soggetto": null,
       "soggettoTipo": "nessuno",
-      "sezione": "notizia",
+      "sezione": "approfondimento",
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
       "rilievo": 3.7,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:09.797Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Mr. Nelson, Did You Kill People?, un film di guerra potente ma sbilanciato",
+        "sommario": "Shinya Tsukamoto presenta in concorso a Venezia 83 un biopic bellico dalle ottime intenzioni, a cui manca il senso della misura.",
+        "perche": "Il cinema di guerra secondo un autore giapponese abituato agli estremi"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2064,8 +3029,12 @@
       "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.375Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Geoffrey Rush e Rodney Hicks parlano di salute mentale a Venezia",
+        "sommario": "Il cast di Mr. Nelson, Did You Kill People? ha insistito sull'importanza della fiducia, dell'umanità e della guarigione.",
+        "perche": "Come un film di guerra diventa un discorso sulla fragilità di chi torna"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2090,34 +3059,12 @@
       "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.376Z",
-      "it": null,
-      "curato": false,
-      "immagineGrande": null,
-      "fotoCercata": true
-    },
-    {
-      "link": "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/",
-      "titolo": "Maxton Hall: il teaser trailer ufficiale",
-      "sommario": "",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-09-04T13:58:57.000Z",
-      "immagine": "https://static.screenweek.it/wp-content/uploads/2026/09/58szhCvw1ZU.jpg",
-      "categorie": [
-        "Trailer & Video"
-      ],
-      "soggetti": [],
-      "soggetto": null,
-      "soggettoTipo": "nessuno",
-      "sezione": "notizia",
-      "inLibreria": false,
-      "radar": null,
-      "prevendite": false,
-      "rilievo": 3.2,
-      "riprese": 0,
-      "vistoIl": "2026-09-06T10:22:10.376Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Un mondo meraviglioso, il trailer ufficiale del film",
+        "sommario": "È stato diffuso il trailer ufficiale del film, in arrivo nelle sale.",
+        "perche": "Le prime immagini di un titolo di cui finora si sapeva poco"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2142,8 +3089,12 @@
       "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.377Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "John Malkovich commosso alla premiere mondiale di Wild Horse Nine",
+        "sommario": "A Venezia Martin McDonagh ha spiegato la genesi del film e i parallelismi che vede con l'epoca odierna.",
+        "perche": "Il nuovo film di McDonagh visto dal Lido, con Malkovich protagonista"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2168,8 +3119,12 @@
       "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.377Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Ti presento i Fotter, il nuovo trailer del film",
+        "sommario": "È stato diffuso il nuovo trailer della commedia, in arrivo nelle sale.",
+        "perche": "Le prime immagini di una commedia in arrivo in sala"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2194,8 +3149,12 @@
       "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.379Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "George Clooney a Venezia contro l'autoritarismo e per il giornalismo",
+        "sommario": "L'attore ha difeso Mark Ruffalo, commentato la fusione tra Paramount e Warner e lanciato un appello sul futuro dell'informazione.",
+        "perche": "Chi ha diretto Good Night, and Good Luck torna a parlare di stampa e potere"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2220,8 +3179,12 @@
       "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.380Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Maggie Gyllenhaal: l'assenza di registe è un «problema sistemico»",
+        "sommario": "A Venezia 83 la regista ha risposto anche sulla responsabilità politica di chi fa cinema.",
+        "perche": "Il tema delle registe torna al Lido, dopo i numeri diffusi dal festival di Londra"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2246,8 +3209,12 @@
       "rilievo": 3.2,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.381Z",
-      "it": null,
-      "curato": false,
+      "it": {
+        "titolo": "Street Fighter, il nuovo trailer del film con Andrew Koji",
+        "sommario": "È stato diffuso il nuovo trailer dell'adattamento cinematografico del celebre picchiaduro.",
+        "perche": "Un adattamento atteso da chi ha passato ore sul videogioco originale"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": true
     },
@@ -2613,6 +3580,40 @@
       "fotoCercata": false
     },
     {
+      "link": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
+      "titolo": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
+      "sommario": "<p>The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram</p><p>In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-05T12:15:04.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb5db09a4e3a417e6100460cb119cd24",
+      "categorie": [
+        "Film",
+        "Venice film festival",
+        "Werner Herzog",
+        "Culture",
+        "Festivals"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.787Z",
+      "it": {
+        "titolo": "Werner Herzog: «Non mi piace la parola neurodivergenza»",
+        "sommario": "Il regista tedesco parla di Bucking Fastard, con Kate e Rooney Mara, e della sua inattesa popolarità su Instagram.",
+        "perche": "Uno degli ultimi grandi ostinati del cinema, di nuovo in gara a Venezia"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
       "link": "https://www.badtaste.it/articoli/richard-gere-e-uno-spietato-truffatore-in-questo-film-su-prime-video-ma-vogliamo-che-la-passi-liscia",
       "titolo": "Richard Gere è uno spietato truffatore in questo film su Prime Video (ma vogliamo che la passi liscia)",
       "sommario": "Scopri perché nel cinema tifiamo per i cattivi invece che per gli eroi buoni, come accade in questo film con Richard Gere su Prime Video.",
@@ -2637,6 +3638,37 @@
       "fotoCercata": false
     },
     {
+      "link": "https://www.slashfilm.com/2251226/artemis-fowl-beloved-fantasy-book-series-disney-awful-movie-adaptation/",
+      "titolo": "6 Years Ago, Disney Gave Us An Awful Adaptation Of A Beloved Fantasy Book Series",
+      "sommario": "Disney spent years trying to get this film adaptation of a celebrated fantasy book series off the ground. The final result was ... not worth it.",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-05T17:00:00.000Z",
+      "immagine": "https://www.slashfilm.com/img/gallery/artemis-fowl-beloved-fantasy-book-series-disney-awful-movie-adaptation/l-intro-1788554335.jpg",
+      "categorie": [
+        "Action & Adventure Movies",
+        "Fantasy Movies"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "curiosita",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.7,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.723Z",
+      "it": {
+        "titolo": "Sei anni fa Disney mancò l'adattamento di Artemis Fowl",
+        "sommario": "Dopo anni di sviluppo, il film tratto dalla saga fantasy per ragazzi arrivò sullo schermo e fu accolto malissimo.",
+        "perche": "Come un franchise fantasy annunciato può sparire in una sola mossa sbagliata"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
       "link": "https://movieplayer.it/news/uomini-donne-giacomo-vacalebre-vecchio-post-temptation-island_170914/",
       "titolo": "Uomini e Donne, Giacomo Vacalebre sorprende: spunta un vecchio post contro Temptation Island",
       "sommario": "Il nuovo tronista di Uomini e Donne è stato presentato dopo la registrazione del 3 settembre, ma sul web è riemerso un vecchio post attribuito a Giacomo Vacalebre e legato a Temptation Island. L'avventura di Giacomo Vacalebre a Uomini e Donne è iniziata con la registrazione del 3 settembre, quando il nuovo tronista è s",
@@ -2657,6 +3689,357 @@
       "vistoIl": "2026-09-06T10:22:10.445Z",
       "it": null,
       "curato": false,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/05/a-long-winter-review-andrew-haigh-ebon-moss-bachrach",
+      "titolo": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
+      "sommario": "<p><strong>Telluride film festival</strong><br>In a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to melt</p><p>Andrew Haigh’s mysterious and beautiful new film is adapted by him from the <a href=\"https://www.theguardian.com/books/2006/aug",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-05T02:30:23.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/4dbd95a4b8ce5476e3dc122aa9c565ba6b838282/480_0_1994_1596/master/1994.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8634e00969837050c68580ac9efea36a",
+      "categorie": [
+        "Film",
+        "Drama films",
+        "Film adaptations",
+        "Colm Tóibín",
+        "Ebon Moss-Bachrach",
+        "Kit Connor",
+        "Telluride film festival",
+        "Books"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2.1,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.788Z",
+      "it": {
+        "titolo": "A Long Winter, il western invernale di Andrew Haigh convince Telluride",
+        "sommario": "In una fattoria isolata del Colorado, una famiglia con la madre scomparsa trova una strana leggerezza aspettando il disgelo.",
+        "perche": "Dramma di paesaggio e di attesa, firmato dal regista di Estranei"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/05/tender-loving-care-review-mike-leighs-tender-and-elusive-study-of-love-and-mortality",
+      "titolo": "Tender Loving Care review – Mike Leigh’s tender and elusive study of love and mortality",
+      "sommario": "<p><strong>Telluride film festival<br></strong>Alice Bailey Johnson and Kate O’Flynn lead a complicated, quietly heartbreaking drama about friendship, ageing parents and the sadness of lives moving inexorably on</p><p>Mike Leigh’s new film – perhaps his last – is a poignant, intergenerational drama of happy-sad accepta",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-05T01:47:23.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/753159ada7b8f541585e2ff5378b140cd07331ee/694_0_6980_5584/master/6980.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82c9170233dea032122da0d4bf8f9e54",
+      "categorie": [
+        "Film",
+        "Drama films",
+        "Mike Leigh",
+        "Kate O'Flynn",
+        "Culture",
+        "Stage"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 2,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.789Z",
+      "it": {
+        "titolo": "Tender Loving Care, Mike Leigh torna su amore e mortalità",
+        "sommario": "Il film, forse l'ultimo del regista inglese, segue amicizie, genitori che invecchiano e vite che vanno avanti comunque.",
+        "perche": "Un dramma minuto sull'invecchiare, da un maestro del realismo inglese"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.slashfilm.com/2250588/stephen-king-2026-horror-movie-recommendation-the-cycle/",
+      "titolo": "Stephen King Has A 2026 Horror Movie Recommendation That Fans Won't Want To Miss",
+      "sommario": "Deborah Ann Woll stars in this intriguing upcoming horror film, which Stephen King has already given a hearty recommendation.",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-05T08:10:00.000Z",
+      "immagine": "https://www.slashfilm.com/img/gallery/stephen-king-has-a-2026-horror-movie-recommendation-that-fans-wont-want-to-miss/l-intro-1788456089.jpg",
+      "categorie": [
+        "Movie News",
+        "Horror Movies"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.9,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.726Z",
+      "it": {
+        "titolo": "Stephen King consiglia The Cycle, horror in arrivo con Deborah Ann Woll",
+        "sommario": "Lo scrittore ha raccomandato pubblicamente il film, ancora poco conosciuto fuori dal circuito degli appassionati di genere.",
+        "perche": "Quando King segnala un horror, vale la pena tenerlo d'occhio"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/05/act-3-review-christine-molloy-joe-lawlor",
+      "titolo": "Act 3 review – queer art history and life reflections from masters of metatextuality",
+      "sommario": "<p><strong>Telluride film festival<br></strong>Christine Molloy and Joe Lawlor’s absorbing documentary is a parallel take on their relationship and a nascent drama on artists Claude Cahun and Marcel Moore</p><p>Christine Molloy and Joe Lawlor are artists and film-makers from Ireland who have created eerie and suspensef",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-04T23:30:20.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/1aa40b5dc4b2ceb68c6ad36b27d422ffe58e87a6/613_0_2903_2322/master/2903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9064f8da4c05a58e20692a3b71ab4fb6",
+      "categorie": [
+        "Film",
+        "Telluride film festival",
+        "Culture",
+        "Festivals",
+        "Drama films",
+        "Documentary films"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.791Z",
+      "it": {
+        "titolo": "Act 3, il documentario di Molloy e Lawlor tra arte queer e vita privata",
+        "sommario": "I due autori irlandesi intrecciano il racconto della propria relazione con la storia delle artiste Claude Cahun e Marcel Moore.",
+        "perche": "Un documentario che mescola biografia e storia dell'arte, visto a Telluride"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
+      "titolo": "Latcho Drom director Tony Gatlif dies aged 77",
+      "sommario": "<p>Film-maker acclaimed for his celebrations of Roma culture had been working on a ‘historical film project’ in Provence</p><p>Tony Gatlif, the French director of more than 20 films that mostly concentrated on celebrating Roma culture across the world, has died aged 77.</p><p>His family said in a statement to AFP that ",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-04T13:25:41.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/2eacc9a4ce176888fc5a73655cb74fa77b21ef54/1408_220_1886_1509/master/1886.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=116304af391965bfae3c6c3ce57f4094",
+      "categorie": [
+        "Film",
+        "France",
+        "Roma, Gypsies and Travellers",
+        "Culture",
+        "Europe",
+        "World news"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "passato",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.794Z",
+      "it": {
+        "titolo": "È morto a 77 anni Tony Gatlif, regista di Latcho Drom",
+        "sommario": "Il cineasta francese, autore di oltre venti film dedicati alla cultura rom, stava lavorando a un progetto storico in Provenza.",
+        "perche": "Se ne va la voce che ha portato la cultura rom sugli schermi europei"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
+      "titolo": "Martin McDonagh says CIA has ‘done awful things all around the world’",
+      "sommario": "<p>McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions</p><p>The US’s history of intervening in democratic processes around the world deserves more attention in the light of current political developments, playwright an",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-03T14:21:51.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/dfd856c59e53370ebfa44143ae2345bc95ddf861/149_0_3199_2561/master/3199.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7279dea0251b8636c476e41097973343",
+      "categorie": [
+        "Film",
+        "Venice film festival",
+        "Martin McDonagh",
+        "John Malkovich",
+        "CIA",
+        "Culture",
+        "US news",
+        "Sam Rockwell"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.796Z",
+      "it": {
+        "titolo": "Martin McDonagh: «La CIA ha fatto cose terribili in tutto il mondo»",
+        "sommario": "Il regista presenta Wild Horse Nine, con John Malkovich agente nel Cile degli anni Settanta, e parla delle interferenze americane.",
+        "perche": "Thriller politico d'epoca dall'autore di Tre manifesti a Ebbing, Missouri"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
+      "titolo": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
+      "sommario": "<p>Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’</p><p>Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the origins of British tabloid the Sun, the Australian actor has said.</p><p>Speaking at the Ve",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-02T16:07:56.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/0da888fc25409a334fb73a68fb1362937c97cdbe/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=812e2c5fec243c6770591d509ef268e9",
+      "categorie": [
+        "Film",
+        "Venice film festival",
+        "Rupert Murdoch",
+        "Guy Pearce",
+        "Italy",
+        "Culture",
+        "Europe",
+        "Festivals"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "notizia",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.797Z",
+      "it": {
+        "titolo": "Rupert Murdoch approva Guy Pearce nel ruolo dell'editore in Ink",
+        "sommario": "L'attore ha raccontato a Venezia che la figlia Elisabeth gli ha riferito il gradimento del padre, che però non aveva ancora visto il film.",
+        "perche": "Il ritratto di un uomo di potere, con il diretto interessato che sta a guardare"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
+      "titolo": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
+      "sommario": "<p>James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom</p><p>There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ri",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-04T10:19:34.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d953ea946cf9d051306341c51a7ad03c",
+      "categorie": [
+        "Film",
+        "Wonder Woman",
+        "Gal Gadot",
+        "DC Comics",
+        "James Gunn",
+        "Henry Cavill",
+        "Patty Jenkins",
+        "Culture"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.797Z",
+      "it": {
+        "titolo": "Perché la DC ha lasciato andare la Wonder Woman di Gal Gadot",
+        "sommario": "Il Guardian ripercorre le scelte di James Gunn e Peter Safran, dall'addio al Batman di Ben Affleck al Superman di Henry Cavill.",
+        "perche": "Come si smonta e si ricostruisce un intero universo di supereroi al cinema"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/02/the-year-of-domhnall-gleeson-no-one-talks-about-actors-dedication-but-i-had-a-perm-for-five-months",
+      "titolo": "The year of Domhnall Gleeson: ‘No one talks about actors’ dedication. But I had a perm for five months!’",
+      "sommario": "<p>He started in the Harry Potter films and has since become ubiquitous, playing every type of character: romcom leads, evil villains, comical idiots. He even starred in a Taylor Swift video. So how does he stay so under the radar?</p><p>Domhnall Gleeson has got so much new stuff coming up, someone recently joked that ",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-02T04:00:23.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/d843a013a76d05bfacbf53018558047efbb26379/1159_959_4948_3959/master/4948.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96999b998b67d64dfd3d5528a1f8ce60",
+      "categorie": [
+        "Domhnall Gleeson",
+        "Brendan Gleeson",
+        "Film",
+        "Television",
+        "Stage",
+        "Culture",
+        "Harry Potter"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.799Z",
+      "it": {
+        "titolo": "L'anno di Domhnall Gleeson: «Ho tenuto la permanente per cinque mesi»",
+        "sommario": "Dai film di Harry Potter ai ruoli più diversi, l'attore irlandese racconta come sia riuscito a restare defilato pur lavorando ovunque.",
+        "perche": "Il mestiere del caratterista che attraversa i generi senza farsi ingabbiare"
+      },
+      "curato": true,
+      "immagineGrande": null,
+      "fotoCercata": false
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent",
+      "titolo": "‘I don’t care if I look good’: French heartthrob Louis Garrel on fashion, fatherhood and his radically dorky new role",
+      "sommario": "<p>The star has long been French cinema’s favourite tousle-haired Adonis, which makes his latest performance – as a schlubby, stay-at-home dad – all the more surprising. ‘I appreciate people laughing at me,’ he says</p><p>‘Even though I’ve been working in film for over 20 years, I still have this desire to look beautif",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-08-28T12:00:57.000Z",
+      "immagine": "https://i.guim.co.uk/img/media/c2012d6776968a4c30daac4de545cc58868613eb/0_0_3072_2458/master/3072.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33f5bced5eb1edd1a9bddefcbb714077",
+      "categorie": [
+        "Film",
+        "Culture"
+      ],
+      "soggetti": [],
+      "soggetto": null,
+      "soggettoTipo": "nessuno",
+      "sezione": "approfondimento",
+      "inLibreria": false,
+      "radar": null,
+      "prevendite": false,
+      "rilievo": 1.8,
+      "riprese": 0,
+      "vistoIl": "2026-09-06T11:17:18.800Z",
+      "it": {
+        "titolo": "Louis Garrel: «Non mi interessa apparire bello»",
+        "sommario": "L'attore francese parla del suo nuovo ruolo di padre casalingo goffo, lontanissimo dal personaggio romantico che lo ha reso noto.",
+        "perche": "Un attore che smonta con ironia la propria immagine da protagonista"
+      },
+      "curato": true,
       "immagineGrande": null,
       "fotoCercata": false
     },
@@ -2750,7 +4133,7 @@
       "inLibreria": false,
       "radar": null,
       "prevendite": false,
-      "rilievo": 1.4,
+      "rilievo": 0,
       "riprese": 0,
       "vistoIl": "2026-09-06T10:22:10.409Z",
       "it": null,
