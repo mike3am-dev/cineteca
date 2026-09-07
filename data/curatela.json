@@ -436,5 +436,515 @@
     "sommario": "È stato diffuso il nuovo trailer dell'adattamento cinematografico del celebre picchiaduro.",
     "perche": "Un adattamento atteso da chi ha passato ore sul videogioco originale",
     "sezione": "notizia"
+  },
+  "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-sixth-weekend-1236852435/": {
+    "titolo": "Spider-Man: Brand New Day primo al box office per la sesta settimana di fila",
+    "sommario": "Il film ha incassato altri 18 milioni di dollari nel weekend negli Stati Uniti e si avvicina al record assoluto di Avengers: Endgame.",
+    "perche": "Ce l'hai in libreria: ora punta al primato di sempre nelle sale americane",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/lea-seydoux-gentle-monster-the-unknown-telluride-interview-1237069089/": {
+    "titolo": "Léa Seydoux: «Mi piace quando recitare è un po' pericoloso»",
+    "sommario": "A Telluride l'attrice presenta Gentle Monster e spiega perché dopo i Bond e Dune vuole correre più rischi nelle sue scelte.",
+    "perche": "Era Lady Margot in Dune di Villeneuve, che hai visto",
+    "sezione": "approfondimento"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/": {
+    "titolo": "Spider-Man: Brand New Day in testa al box office per la sesta settimana",
+    "sommario": "Al secondo posto resta The Odyssey, l'altro film dell'estate con Tom Holland.",
+    "perche": "Stessa notizia già raccontata nell'articolo di Variety",
+    "sezione": "scarta"
+  },
+  "https://variety.com/2026/film/awards/danny-boyle-ink-oscars-guy-pearce-telluride-netflix-1236847562/": {
+    "titolo": "Netflix punta su Ink di Danny Boyle per gli Oscar, con Guy Pearce nei panni di Murdoch",
+    "sommario": "Dopo l'apertura di Venezia 83 il film passa da Telluride e Toronto: uscita in sala a dicembre e sulla piattaforma a gennaio.",
+    "perche": "Lo firma Danny Boyle, regista di cui hai già visto un film",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/indie-film-box-office-buddy-jimmy-buffett-catvideofest-1237069499/": {
+    "titolo": "Box office indipendente: Buddy verso i 15 milioni, bene il documentario su Jimmy Buffett",
+    "sommario": "La commedia nera di Roadside Attractions incassa 5,75 milioni nel weekend su 1.771 schermi; CatVideoFest supera il milione complessivo.",
+    "perche": "Il termometro delle sale piccole, dove nascono i film che poi arrivano da noi",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/": {
+    "titolo": "Venezia 83, tutte le recensioni di Deadline in una pagina",
+    "sommario": "Un indice che raccoglie i link alle recensioni della testata dal Lido, dal film d'apertura Ink in poi.",
+    "perche": "È un elenco di link: le singole recensioni sono già in rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-alexandra-artrip-reacts-sequel-recasting-1236692425/": {
+    "titolo": "Amori & incantesimi 2, l'attrice del primo film difende il nuovo cast",
+    "sommario": "Alexandra Artrip commenta le critiche alla scelta di Maisie Williams e Joey King come figlie del personaggio di Sandra Bullock.",
+    "perche": "Il seguito di un cult anni Novanta riparte con volti nuovi",
+    "sezione": "curiosita"
+  },
+  "https://variety.com/2026/film/news/nathan-fielder-secret-elizabeth-holmes-doc-you-can-see-everything-a24-telluride-1236853584/": {
+    "titolo": "Nathan Fielder svela il documentario segreto su Elizabeth Holmes",
+    "sommario": "You Can See Everything è stato proiettato a sorpresa al festival di Telluride e uscirà in ottobre; online il primo trailer.",
+    "perche": "Anni di interviste clandestine alla fondatrice di Theranos, fino al carcere",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/woman-unknown-female-venice-competition-xx-minute-ovation-1237069513/": {
+    "titolo": "A Venezia la regista ferma la proiezione di Woman Unknown per i sottotitoli sfasati",
+    "sommario": "May el-Toukhy ha interrotto la prima mondiale del suo film in concorso; alla ripresa la sala ha applaudito sette minuti e mezzo.",
+    "perche": "È uno dei due soli film diretti da donne nel concorso del Lido",
+    "sezione": "notizia"
+  },
+  "https://variety.com/2026/film/festivals/tokyo-film-festival-new-competition-award-honoring-women-1236852405/": {
+    "titolo": "Il festival di Tokyo aggiunge due premi e una sezione dedicata al Sud-est asiatico",
+    "sommario": "Nippon Cinema Now assegnerà miglior film e premio speciale della giuria; nasce anche un riconoscimento per le donne del cinema.",
+    "perche": "Il festival giapponese allarga le vetrine per il cinema asiatico",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/making-marie-antoinette-review-eleanor-coppola-sofia-coppola-telluride-1237069694/": {
+    "titolo": "Making Marie Antoinette, Eleanor Coppola racconta la figlia Sofia sul set",
+    "sommario": "Il documentario postumo presentato a Telluride segue la lavorazione del film del 2006, girato in Francia con 40 milioni di budget.",
+    "perche": "Come si fa davvero un film in costume, visto da dentro casa Coppola",
+    "sezione": "approfondimento"
+  },
+  "https://deadline.com/2026/09/andrea-pallaoro-echo-chamber-susan-sarandon-ovation-1237069498/": {
+    "titolo": "The Echo Chamber di Pallaoro conquista Venezia con otto minuti di applausi",
+    "sommario": "Il film con Alicia Vikander, Luca Marinelli e Susan Sarandon nasce dall'ultima sceneggiatura a cui lavorava Bernardo Bertolucci.",
+    "perche": "L'ultimo testo di Bertolucci arriva sullo schermo, otto anni dopo la sua morte",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/venice-film-festival-alberto-barbera-oscars-studios-gaza-1237069616/": {
+    "titolo": "Barbera: «Gli studios americani torneranno a Venezia»",
+    "sommario": "Il direttore della Mostra parla delle chance agli Oscar dei film in concorso e spiega la collocazione tardiva del documentario NAZA su Gaza.",
+    "perche": "Chi sceglie i film del Lido spiega come funziona la macchina del festival",
+    "sezione": "approfondimento"
+  },
+  "https://variety.com/2026/film/awards/john-turturro-oscars-only-living-pickpocket-telluride-1236847544/": {
+    "titolo": "John Turturro aspetta la prima candidatura all'Oscar da quarant'anni",
+    "sommario": "Sony Pictures Classics lancia la campagna per The Only Living Pickpocket in New York, presentato a Telluride.",
+    "perche": "Un caratterista amatissimo senza nemmeno una nomination: la corsa parte ora",
+    "sezione": "approfondimento"
+  },
+  "https://deadline.com/2026/09/everest-the-other-side-oprah-winfrey-telluride-qa-1237069582/": {
+    "titolo": "Oprah Winfrey a Telluride per il documentario Everest: The Other Side",
+    "sommario": "Ha moderato l'incontro dopo la prima nordamericana del film dedicato all'alpinista Jim Morrison, di cui si dice grande ammiratrice.",
+    "perche": "Un documentario di montagna con una madrina inattesa",
+    "sezione": "curiosita"
+  },
+  "https://variety.com/2026/film/festivals/possible-love-lee-chang-dong-venice-premiere-1236838135/": {
+    "titolo": "Sei minuti di applausi a Venezia per Possible Love di Lee Chang-dong",
+    "sommario": "Il regista sudcoreano torna al Lido dopo 24 anni con un dramma romantico sulle vite intrecciate di due coppie sposate; il cast in lacrime.",
+    "perche": "Il ritorno di un maestro del dramma, il genere che frequenti di più",
+    "sezione": "notizia"
+  },
+  "https://www.slashfilm.com/2249987/emma-stone-the-office-rainn-wilson-box-office-flop-the-rocker/": {
+    "titolo": "Il secondo film di Emma Stone fu un clamoroso flop al botteghino",
+    "sommario": "The Rocker, commedia con Rainn Wilson di The Office, passò quasi inosservato prima che l'attrice diventasse una star.",
+    "perche": "Anche le carriere migliori partono da un incasso disastroso",
+    "sezione": "curiosita"
+  },
+  "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right": {
+    "titolo": "Jupiter porta a Venezia l'incubo nucleare: la Russia colpisce, gli Usa non rispondono",
+    "sommario": "Il regista francese Alexandre Smia difende il suo thriller: lo scenario, dice, non è irrealistico. Nel film Germania e Italia invitano alla moderazione.",
+    "perche": "Thriller politico ad alta tensione: esattamente il tuo terreno",
+    "sezione": "notizia"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-news/telluride-wild-horse-nine-team-interview-mcdonagh-malkovich-1236692357/": {
+    "titolo": "Wild Horse Nine, McDonagh e il cast raccontano il film a Telluride",
+    "sommario": "Il regista con John Malkovich, Sam Rockwell e Steve Buscemi parla dell'incrocio di generi dopo i 14 minuti di applausi a Venezia.",
+    "perche": "Il nuovo McDonagh arriva con Malkovich già dato in corsa per l'Oscar",
+    "sezione": "approfondimento"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-news/lee-chang-dong-possible-love-acclaim-venice-1236692360/": {
+    "titolo": "Possible Love di Lee Chang-dong è il caso di Venezia 83",
+    "sommario": "Il film è la candidatura coreana agli Oscar e la punta di diamante di Netflix nella stagione dei premi.",
+    "perche": "L'accoglienza al Lido è già raccontata negli altri articoli della rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.slashfilm.com/2248851/tom-cruise-villain-movie-collateral-streaming-prime-video/": {
+    "titolo": "Collateral, il film in cui Tom Cruise diventa un killer a sangue freddo",
+    "sommario": "Il thriller notturno di Michael Mann del 2004, oggi su Prime Video, resta la prova più cattiva dell'attore.",
+    "perche": "Thriller con una star fuori ruolo: il genere che segui di più",
+    "sezione": "passato"
+  },
+  "https://variety.com/2026/film/reviews/woman-unknown-review-1236853350/": {
+    "titolo": "Woman Unknown, la recensione di Variety dal concorso di Venezia",
+    "sommario": "Il film di May el-Toukhy è ambientato nella Copenaghen del dopoguerra e lavora su un simbolismo dichiarato.",
+    "perche": "Il film è già recensito altrove nella rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed": {
+    "titolo": "«Gli squali sono le mie star»: il Mare del Nord svela la sua bellezza",
+    "sommario": "Le fioriture di plancton rendono quasi impossibile girare in quelle acque: il documentario mostra foche, squali, tonni e orche.",
+    "perche": "Documentario naturalistico d'avventura, con immagini quasi mai viste",
+    "sezione": "approfondimento"
+  },
+  "https://variety.com/2026/film/reviews/agata-the-writer-review-mia-wasikowska-1236853234/": {
+    "titolo": "Agata the Writer, Mia Wasikowska è una scrittrice a corto di idee",
+    "sommario": "Variety promuove il film, arguto e sottile, che affronta la sfida di rendere cinematografico il lavoro della scrittura.",
+    "perche": "Un ritratto d'artista che evita i cliché del biopic letterario",
+    "sezione": "approfondimento"
+  },
+  "https://variety.com/2026/film/reviews/the-echo-chamber-review-1236847009/": {
+    "titolo": "The Echo Chamber, la recensione di Variety",
+    "sommario": "Una storia d'amore ambientata in un unico grande appartamento, con Luca Marinelli, Alicia Vikander e Susan Sarandon.",
+    "perche": "Il film è già recensito in italiano nella rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.theguardian.com/film/2026/sep/06/woman-unknown-review-kvinde-ukendt-may-el-toukhy": {
+    "titolo": "Woman Unknown, paranoia del dopoguerra con echi di Daphne du Maurier",
+    "sommario": "Una domestica diventa la signora di una casa borghese di Copenaghen mentre in strada si puniscono i presunti collaborazionisti nazisti.",
+    "perche": "Dramma-thriller storico costruito sul sospetto: il tuo terreno",
+    "sezione": "approfondimento"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-reviews/carl-sagan-we-are-made-of-star-stuff-review-documentary-1236692092/": {
+    "titolo": "Il documentario su Carl Sagan sceglie l'uomo più dello scienziato",
+    "sommario": "Presentato a Telluride, il film di Nanette Burstein parla dei matrimoni e dei figli del divulgatore quanto delle missioni Viking e Voyager.",
+    "perche": "Chi ama la fantascienza deve molto all'uomo che rese popolare lo spazio",
+    "sezione": "approfondimento"
+  },
+  "https://www.slashfilm.com/2248807/kit-harington-marvel-hero-black-knight-not-returning-mcu/": {
+    "titolo": "Marvel sembra aver accantonato il Cavaliere Nero di Kit Harington",
+    "sommario": "Dopo l'insuccesso di Eternals, il personaggio introdotto nel film non risulta più nei piani dello studio secondo /Film.",
+    "perche": "Un pezzo del mosaico Marvel che resta sospeso a mezz'aria",
+    "sezione": "curiosita"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-documentary-trailer-teaser-watch-1236692828/": {
+    "titolo": "Il documentario su Elizabeth Holmes era la proiezione segreta di Telluride",
+    "sommario": "You Can See Everything, firmato da Nathan Fielder e Lance Oppenheim, uscirà in ottobre.",
+    "perche": "Stessa notizia già coperta dall'articolo di Variety",
+    "sezione": "scarta"
+  },
+  "https://www.slashfilm.com/2250028/project-hail-mary-andy-weir-favorite-sci-fi-movie-back-to-the-future/": {
+    "titolo": "Il film di fantascienza preferito di Andy Weir è Ritorno al futuro",
+    "sommario": "L'autore di Project Hail Mary lo rivelò in un incontro con i lettori su Reddit; l'influenza si vede nei suoi romanzi.",
+    "perche": "Fantascienza avventurosa e leggibile: la stessa vena dei film che scegli",
+    "sezione": "curiosita"
+  },
+  "https://www.slashfilm.com/2250011/star-trek-leonard-nimoy-guest-starred-western-series-tombstone-territory/": {
+    "titolo": "Prima di Star Trek, Leonard Nimoy fu ospite in una serie western dimenticata",
+    "sommario": "Tombstone Territory ospitò l'attore quando il genere dominava la televisione americana, molto prima del ruolo di Spock.",
+    "perche": "Riguarda una serie televisiva, non il cinema",
+    "sezione": "scarta"
+  },
+  "https://www.theguardian.com/film/2026/sep/06/cult-male-genius-holding-female-film-makers-back-woman-unknown-director-may-el-toukhy": {
+    "titolo": "«Il culto del genio maschile frena le registe», dice l'autrice di Woman Unknown",
+    "sommario": "May el-Toukhy, una delle due sole donne in concorso a Venezia 83, parla di un problema strutturale del settore.",
+    "perche": "Chi firma i film che vediamo, e chi invece resta fuori dal concorso",
+    "sezione": "approfondimento"
+  },
+  "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship": {
+    "titolo": "Possible Love, due coppie tra sfruttamento e amicizia",
+    "sommario": "Il Guardian promuove il ritorno di Lee Chang-dong dopo otto anni, definendolo un lavoro romanzesco e finemente calibrato.",
+    "perche": "Il film è già recensito in italiano nella rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.theguardian.com/film/2026/sep/06/wim-wenders-clarifies-does-not-believe-film-makers-stay-out-of-politics": {
+    "titolo": "Wim Wenders precisa: i registi non devono restare fuori dalla politica",
+    "sommario": "Il regista tedesco chiarisce al Lido le parole che avevano fatto discutere all'inizio dell'anno.",
+    "perche": "La stessa precisazione è raccontata più in dettaglio da Cineblog",
+    "sezione": "scarta"
+  },
+  "https://www.slashfilm.com/2251386/for-all-mankind-joel-kinnaman-worst-sci-fi-movie-the-darkest-hour/": {
+    "titolo": "L'esordio internazionale di Joel Kinnaman fu un disastro di fantascienza",
+    "sommario": "The Darkest Hour, stroncato all'uscita nel 2011, segnò il passaggio dell'attore svedese dal cinema di casa a quello americano.",
+    "perche": "Fantascienza da riscoprire al contrario: come non si fa",
+    "sezione": "curiosita"
+  },
+  "https://www.slashfilm.com/2250643/steve-mcqueen-legendary-western-series-wanted-dead-or-alive/": {
+    "titolo": "Wanted: Dead or Alive, la serie western che lanciò Steve McQueen",
+    "sommario": "Tre stagioni in cui si vede crescere l'attore poco prima del decollo della sua carriera al cinema.",
+    "perche": "Riguarda una serie televisiva, non il cinema",
+    "sezione": "scarta"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-reviews/woman-unknown-may-el-toukhy-1236685095/": {
+    "titolo": "Woman Unknown, ritratto della resa dei conti danese nel dopoguerra",
+    "sommario": "Il film in concorso di May el-Toukhy segue una domestica il cui passato minaccia di travolgerne il futuro.",
+    "perche": "Il film è già recensito altrove nella rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-reviews/mr-nelson-did-you-kill-people-review-shinya-tsukamoto-1236691754/": {
+    "titolo": "Tsukamoto racconta il trauma di un reduce del Vietnam",
+    "sommario": "Mr. Nelson, Did You Kill People? adatta la testimonianza del marine Allen Nelson; per Hollywood Reporter il risultato è troppo didascalico.",
+    "perche": "Tsukamoto porta il cinema di guerra dove fa più male",
+    "sezione": "approfondimento"
+  },
+  "https://cinefilos.it/cinema-news/2026/the-batman-part-2-robert-pattinson-cambiamento-radicale-sequel-720475": {
+    "titolo": "The Batman – Part II, Pattinson anticipa un cambiamento radicale per il suo Batman",
+    "sommario": "L'attore dice che il film di Matt Reeves proporrà qualcosa di diverso da quanto lasciavano immaginare le prime informazioni sul sequel.",
+    "perche": "Hai visto The Batman e il seguito è già nella tua libreria",
+    "sezione": "notizia"
+  },
+  "https://www.badtaste.it/articoli/venezia-83-i-migliori-e-peggiori-look-delle-star-da-robert-pattinson-ai-fratelli-gallagher-foto-esclusive": {
+    "titolo": "Venezia 83, i look della quarta serata sul red carpet",
+    "sommario": "La galleria di BadTaste passa in rassegna gli abiti delle star, da Robert Pattinson ai fratelli Gallagher.",
+    "perche": "È moda e costume, non cinema",
+    "sezione": "scarta"
+  },
+  "https://www.badtaste.it/articoli/terminator-2-edward-furlong-aveva-solo-13-anni-quando-divenne-una-star-crescere-cosi-e-davvero-difficile": {
+    "titolo": "Edward Furlong: «Diventare una star a 13 anni con Terminator 2 è stato durissimo»",
+    "sommario": "L'attore ricorda il successo improvviso del film e quanto sia stato difficile crescere sotto i riflettori di Hollywood.",
+    "perche": "Il ragazzino di uno dei film di fantascienza che hanno fatto epoca",
+    "sezione": "curiosita"
+  },
+  "https://www.screenweek.it/venezia-83-i-video-del-quarto-giorno-con-robert-pattinson-gli-oasis-e-nanni-moretti/": {
+    "titolo": "Venezia 83, i video del quarto giorno al Lido",
+    "sommario": "Gli arrivi degli Oasis, i premiati dei Kinéo Award e il cast del nuovo film di Nanni Moretti.",
+    "perche": "È una raccolta di video: le stesse presenze sono già raccontate negli articoli",
+    "sezione": "scarta"
+  },
+  "https://www.screenweek.it/venezia-83-robert-pattinson-parla-di-primetime-chris-hansen-e-meme/": {
+    "titolo": "Robert Pattinson racconta Primetime, tra Chris Hansen e i meme",
+    "sommario": "L'attore parla del film di Lance Oppenheim, che il regista definisce una «docufantasia» non autorizzata.",
+    "perche": "Pattinson, che hai visto due volte, qui gioca in un registro inatteso",
+    "sezione": "curiosita"
+  },
+  "https://www.screenweek.it/venezia-83-primetime-o-quando-la-televisione-e-cambiata-del-tutto/": {
+    "titolo": "Primetime, Pattinson mattatore nel film sulla rivoluzione della tv verità",
+    "sommario": "Il film di Lance Oppenheim, in concorso a Venezia 83, ricostruisce il momento in cui la televisione americana è cambiata del tutto.",
+    "perche": "Robert Pattinson, che hai visto due volte, regge da solo il film",
+    "sezione": "approfondimento"
+  },
+  "https://cinefilos.it/cinema-news/2026/the-mummy-4-brendan-fraser-inizio-riprese-rachel-weisz-720478": {
+    "titolo": "La mummia 4, Brendan Fraser torna nei panni di Rick O'Connell",
+    "sommario": "L'attore ha confermato che il lunedì successivo all'annuncio si torna al lavoro, dopo anni di indiscrezioni sul quarto capitolo.",
+    "perche": "Riparte una saga d'avventura pura, il genere che ti è più di casa",
+    "sezione": "notizia"
+  },
+  "https://www.badtaste.it/articoli/gli-oasis-conquistano-venezia-con-8-minuti-di-applausi-ma-la-reazione-di-liam-gallagher-sorprende-tutti": {
+    "titolo": "Otto minuti di applausi a Venezia per gli Oasis, ma Liam Gallagher reagisce a modo suo",
+    "sommario": "Liam e Noel hanno accompagnato il film al Lido: la standing ovation non ha ammorbidito il minore dei due fratelli.",
+    "perche": "Un documentario musicale che al festival diventa evento",
+    "sezione": "curiosita"
+  },
+  "https://cinefilos.it/tutto-film/recensioni/the-echo-chamber-andrea-pallaoro-720455": {
+    "titolo": "The Echo Chamber, Pallaoro perde il filo di un amore prigioniero di se stesso",
+    "sommario": "Nel film in concorso a Venezia 83 Leo e Anne si cercano e si feriscono, in un dramma sentimentale sul lato più oscuro dell'amore.",
+    "perche": "Il film italiano più atteso del concorso, nato da una pagina di Bertolucci",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/articoli/kevin-bacon-e-robert-de-niro-in-questo-film-su-netflix-che-incasso-165-milioni-ma-che-nessuno-ricorda": {
+    "titolo": "Sleepers, il film con De Niro, Pitt e Bacon che incassò 165 milioni e fa ancora discutere",
+    "sommario": "Il dramma di Barry Levinson, oggi su Netflix, divide ancora per la veridicità della storia che racconta.",
+    "perche": "Un dramma durissimo con un cast che oggi sarebbe impossibile mettere insieme",
+    "sezione": "passato"
+  },
+  "https://www.badtaste.it/articoli/me-contro-te-il-matrimonio-da-record-con-6-mila-presenza-diventa-un-fenomeno-virale": {
+    "titolo": "Me Contro Te, il matrimonio-spettacolo davanti a seimila fan paganti",
+    "sommario": "Luì e Sofì hanno celebrato le nozze all'Unipol Dome, in un evento a metà tra vita privata e business digitale.",
+    "perche": "Fenomeno social e televisivo, non cinema",
+    "sezione": "scarta"
+  },
+  "https://movieplayer.it/news/il-primo-della-classe-trailer-anteprima-esclusiva_170924/": {
+    "titolo": "Il primo della classe, il corto sui deepfake in anteprima esclusiva",
+    "sommario": "Il cortometraggio di Andrea Ricciotti parte da un'accusa di violenza e da una prova video apparentemente inequivocabile.",
+    "perche": "Quando anche le immagini possono mentire: il tema che sta cambiando il cinema",
+    "sezione": "notizia"
+  },
+  "https://www.badtaste.it/articoli/lily-collins-e-keanu-reeves-in-questo-film-su-netflix-che-affronta-il-tema-dei-disturbi-alimentari": {
+    "titolo": "Fino all'osso, il film con Lily Collins e Keanu Reeves sui disturbi alimentari",
+    "sommario": "La regista Marti Noxon racconta come i ricordi ritrovati dei suoi dieci anni di anoressia siano diventati il cuore del film.",
+    "perche": "Un dramma intimo scritto da chi quella storia l'ha vissuta davvero",
+    "sezione": "curiosita"
+  },
+  "https://www.screenweek.it/venezia-83-succedera-questa-notte-e-il-morettismo-in-purezza/": {
+    "titolo": "Succederà questa notte, il morettismo in purezza nel concorso di Venezia",
+    "sommario": "Amore, tradimenti e libertà nel nuovo film di Nanni Moretti: per ScreenWeek è però tutto già visto.",
+    "perche": "Il film italiano di cui si parlerà di più, nel bene e nel male",
+    "sezione": "approfondimento"
+  },
+  "https://www.screenweek.it/venezia-83-possible-love-e-un-grande-film-sui-conflitti-sociali-e-i-valori-traditi/": {
+    "titolo": "Possible Love, un grande film sui conflitti sociali e i valori traditi",
+    "sommario": "Per ScreenWeek il ritorno di Lee Chang-dong unisce impegno civile e riferimenti alla storia recente della Corea.",
+    "perche": "Il film è già recensito altrove nella rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.screenweek.it/nanni-moretti-torna-a-venezia-non-voglio-piu-fare-lo-stesso-film/": {
+    "titolo": "Nanni Moretti: «Non voglio più fare lo stesso film»",
+    "sommario": "Il regista racconta la genesi di Succederà questa notte, il rapporto con Jasmine Trinca e gli aneddoti di Louis Garrel sul set.",
+    "perche": "Moretti spiega di persona perché ha voluto cambiare rotta",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/articoli/prima-di-batman-christian-bale-recito-in-questo-film-sci-fi-distopico-dimenticato-del-2002-su-netflix": {
+    "titolo": "Equilibrium, il film distopico del 2002 che fu la prova generale del Batman di Bale",
+    "sommario": "Christian Bale in un futuro senza emozioni, tra Gun Kata e regime totalitario: si trova su Netflix.",
+    "perche": "Fantascienza distopica poco prima che Nolan lo scegliesse come Cavaliere Oscuro",
+    "sezione": "passato"
+  },
+  "https://www.badtaste.it/articoli/joaquin-phoenix-filosofo-ubriaco-perche-questo-film-di-woody-allen-su-netflix-divide-ancora-il-pubblico": {
+    "titolo": "Irrational Man, il filosofo ubriaco di Woody Allen che ancora divide",
+    "sommario": "Joaquin Phoenix è un professore in crisi in un film del 2015 che mescola esistenzialismo e crimine, disponibile su Netflix.",
+    "perche": "Un Allen atipico, più vicino al thriller morale che alla commedia",
+    "sezione": "passato"
+  },
+  "https://movieplayer.it/news/susan-sarandon-polemica-venezia_170926/": {
+    "titolo": "Susan Sarandon a Venezia: «Tutti i film sono politici»",
+    "sommario": "L'attrice, nel cast di The Echo Chamber, ha risposto alla stampa del Lido anche sulle accuse a Mark Ruffalo, che giudica strumentali.",
+    "perche": "Una veterana di Hollywood che non evita nessuna domanda scomoda",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/articoli/justice-smith-ed-elle-fanning-ti-spezzeranno-il-cuore-in-questo-toccante-film-adolescenziale-su-netflix": {
+    "titolo": "Justice Smith ed Elle Fanning nel film Netflix su lutto e depressione adolescenziale",
+    "sommario": "Un teen drama che affronta la malattia mentale con una delicatezza rara nel genere, secondo BadTaste.",
+    "perche": "Dramma adolescenziale raccontato senza scorciatoie consolatorie",
+    "sezione": "curiosita"
+  },
+  "https://www.screenweek.it/city-of-blood-trailer-ufficiale-del-film-su-disney/": {
+    "titolo": "City of Blood, online il trailer ufficiale del film Disney+",
+    "sommario": "ScreenWeek pubblica il primo filmato promozionale del titolo in arrivo sulla piattaforma.",
+    "perche": "Prima occhiata a una nuova produzione della piattaforma",
+    "sezione": "notizia"
+  },
+  "https://www.screenweek.it/venezia-83-oggi-laura-dern-presentera-il-leone-doro-alla-carriera-per-george-clooney/": {
+    "titolo": "Laura Dern consegna a George Clooney il Leone d'oro alla carriera",
+    "sommario": "L'attrice statunitense ha tenuto la laudatio per il premio alla carriera nella serata d'apertura di Venezia 83.",
+    "perche": "Un premio a una carriera che attraversa trent'anni di Hollywood",
+    "sezione": "notizia"
+  },
+  "https://www.screenweek.it/monster-la-storia-di-lizzie-borden-il-trailer-ufficiale/": {
+    "titolo": "Monster: La storia di Lizzie Borden, il trailer ufficiale",
+    "sommario": "Online il filmato del nuovo capitolo dell'antologia criminale targata Netflix.",
+    "perche": "È una serie televisiva, non un film",
+    "sezione": "scarta"
+  },
+  "https://www.screenweek.it/fjord-il-trailer-del-film-di-cristian-mungiu-con-sebastian-stan/": {
+    "titolo": "Fjord, il trailer del nuovo film di Cristian Mungiu con Sebastian Stan",
+    "sommario": "Online le prime immagini del film del regista romeno, con l'attore americano protagonista.",
+    "perche": "Cinema d'autore europeo con un volto molto popolare al centro",
+    "sezione": "notizia"
+  },
+  "https://www.screenweek.it/dio-ride-trailer-del-film-di-chiusura-di-venezia-83/": {
+    "titolo": "Dio ride, il trailer del film che chiude Venezia 83",
+    "sommario": "Nel cast Pierfrancesco Favino e Silvio Orlando: il film è stato scelto per la serata conclusiva della Mostra.",
+    "perche": "L'ultimo titolo del Lido, con due dei migliori attori italiani",
+    "sezione": "notizia"
+  },
+  "https://www.badtaste.it/articoli/bucking-fastard-lincredibile-storia-vera-delle-gemelle-che-hanno-ispirato-il-film-di-werner-herzog": {
+    "titolo": "Bucking Fastard, la storia vera delle gemelle che ha ispirato Werner Herzog",
+    "sommario": "Freda e Greta Chaplin, inseparabili, divennero un caso pubblico nel Regno Unito: da lì nasce il nuovo film del regista tedesco.",
+    "perche": "Herzog torna dove guarda da sempre: le vite ai margini della norma",
+    "sezione": "curiosita"
+  },
+  "https://www.cineblog.it/post/naza-il-documentario-su-gaza-che-scuote-venezia": {
+    "titolo": "NAZA, il documentario su Gaza che scuote Venezia, arriva in Italia con I Wonder",
+    "sommario": "Il film di Yuval Abraham e Rachel Szor è stato presentato in anteprima mondiale al Lido il 2 settembre, in concorso.",
+    "perche": "Il documentario più politico del festival, già acquistato per le sale italiane",
+    "sezione": "notizia"
+  },
+  "https://www.cineblog.it/post/venezia-2026-gli-11-fuori-concorso-fiction-tra-thriller-dautore-e-grandi-storie": {
+    "titolo": "Venezia 83, gli undici titoli fuori concorso tra thriller d'autore e grandi storie",
+    "sommario": "Nella selezione anche tre registi italiani: Giovanni Veronesi, Gianni Amelio e Mario Martone.",
+    "perche": "Fuori dalla corsa ai premi si nascondono spesso i film più godibili",
+    "sezione": "notizia"
+  },
+  "https://www.cineblog.it/post/edoardo-pesce-incanta-venezia-con-il-suo-giaffa-favola-nera-degli-invisibili": {
+    "titolo": "Il Grande Giaffa, l'esordio di Marco Santi conquista la Settimana della critica",
+    "sommario": "Favola nera sulla popolarità senza ragione, con Edoardo Pesce, Roberto Zibetti, Barbara Chichiarelli e Carlotta Gamba.",
+    "perche": "Un esordio italiano che parte dal bisogno molto umano di essere visti",
+    "sezione": "approfondimento"
+  },
+  "https://www.cineblog.it/post/venice4palestine-lancia-lappello-la-bandiera-palestinese-al-lido": {
+    "titolo": "Venice4Palestine chiede alla Biennale di esporre la bandiera palestinese",
+    "sommario": "L'appello, lanciato il 28 agosto, chiede alla Mostra e ai lavoratori del settore azioni concrete durante il festival.",
+    "perche": "La politica entra al Lido: qui comincia il caso di questi giorni",
+    "sezione": "notizia"
+  },
+  "https://cinefilos.it/tutto-film/recensioni/possible-love-recensione-la-sociologia-dellamore-di-lee-chang-dong-720440": {
+    "titolo": "Possible Love, la sociologia dell'amore secondo Lee Chang-dong",
+    "sommario": "Il film si apre con il decimo comandamento del Decalogo e segna il ritorno del regista in concorso a Venezia dopo 24 anni.",
+    "perche": "Un dramma sull'invidia e sul desiderio, firmato da un maestro del genere",
+    "sezione": "approfondimento"
+  },
+  "https://movieplayer.it/news/uomini-donne-giacomo-vacalebre-vecchio-post-temptation-island_170914/": {
+    "titolo": "Uomini e Donne, riemerge un vecchio post del tronista Giacomo Vacalebre",
+    "sommario": "Il nuovo tronista è stato presentato dopo la registrazione del 3 settembre; sul web circola un suo vecchio commento su Temptation Island.",
+    "perche": "Programma televisivo, non cinema",
+    "sezione": "scarta"
+  },
+  "https://movieplayer.it/news/giovanni-grazioso-uomini-e-donne-non-subito-tronista_170906/": {
+    "titolo": "Uomini e Donne, Giovanni Grazioso entrerà senza il ruolo di tronista",
+    "sommario": "Dopo Temptation Island, il volto del programma di Maria De Filippi dovrebbe iniziare con un ruolo diverso.",
+    "perche": "Programma televisivo, non cinema",
+    "sezione": "scarta"
+  },
+  "https://www.cineblog.it/post/wim-wenders-accusa-berlino-travisate-le-mie-parole-su-cinema-e-politica": {
+    "titolo": "Wim Wenders: «Alla Berlinale hanno travisato le mie parole su cinema e politica»",
+    "sommario": "Il regista è tornato al Lido il 6 settembre per presentare fuori concorso il documentario sull'architetto Peter Zumthor.",
+    "perche": "Un maestro europeo chiarisce quanto il cinema debba schierarsi",
+    "sezione": "notizia"
+  },
+  "https://www.screenweek.it/priscilla-2-guy-pearce-ci-aggiorna-sulla-produzione-del-sequel/": {
+    "titolo": "Priscilla 2, Guy Pearce: per il sequel servirà ancora un po' di tempo",
+    "sommario": "L'attore ha aggiornato ScreenWeek sullo stato della produzione del seguito, ancora lontano dal set.",
+    "perche": "Aggiornamento sincero su un sequel che si fa attendere",
+    "sezione": "notizia"
+  },
+  "https://cinefilos.it/tutto-film/approfondimenti/un-uomo-sopra-la-legge-spiegazione-finale-film-liam-neeson-720162": {
+    "titolo": "Un uomo sopra la legge, la spiegazione del finale del film con Liam Neeson",
+    "sommario": "Il thriller d'azione di Robert Lorenz parte da un uomo solo, un ragazzo in pericolo e un'organizzazione criminale alle calcagna.",
+    "perche": "Thriller d'azione allo stato puro: lo schema che con te funziona sempre",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/articoli/florence-pugh-e-the-rock-in-questo-commovente-film-su-netflix-sulla-vera-storia-di-una-campionessa-wwe": {
+    "titolo": "Una famiglia al tappeto, la storia vera della più giovane campionessa WWE",
+    "sommario": "Florence Pugh interpreta Paige nel film prodotto da Dwayne Johnson, disponibile su Netflix.",
+    "perche": "Storia vera di riscatto sportivo, con un'attrice oggi ovunque",
+    "sezione": "curiosita"
+  },
+  "https://www.badtaste.it/articoli/questo-film-su-prime-video-con-bruce-willis-ha-il-miglior-colpo-di-scena-della-storia-dellhorror": {
+    "titolo": "Il sesto senso, il colpo di scena che dopo 27 anni non ha ancora rivali",
+    "sommario": "Il film di M. Night Shyamalan con Bruce Willis funziona anche alla seconda visione, quando il finale è già noto.",
+    "perche": "Il thriller soprannaturale che ha insegnato a tutti come si nasconde un finale",
+    "sezione": "passato"
+  },
+  "https://www.badtaste.it/articoli/bruce-willis-in-questo-film-sci-fi-di-rian-johnson-su-prime-video-che-non-ha-nulla-da-invidiare-a-nolan": {
+    "titolo": "Looper, il film di fantascienza di Rian Johnson da rivedere su Prime Video",
+    "sommario": "BadTaste rivaluta il film del 2012 con Bruce Willis, mettendolo accanto a Inception e Interstellar.",
+    "perche": "Fantascienza sul tempo, la stessa famiglia dei Nolan che hai visto",
+    "sezione": "passato"
+  },
+  "https://www.badtaste.it/articoli/richard-gere-e-uno-spietato-truffatore-in-questo-film-su-prime-video-ma-vogliamo-che-la-passi-liscia": {
+    "titolo": "Richard Gere truffatore: perché al cinema tifiamo per i cattivi",
+    "sommario": "BadTaste parte da un thriller con l'attore, su Prime Video, per spiegare il meccanismo dell'identificazione con l'antagonista.",
+    "perche": "Il piacere colpevole di stare dalla parte sbagliata della storia",
+    "sezione": "approfondimento"
+  },
+  "https://movieplayer.it/news/uomini-donne-anticipazioni-agnese-restituisce-anello-roberto_170895/": {
+    "titolo": "Uomini e Donne, Agnese De Pasquale restituisce l'anello a Roberto Priolo",
+    "sommario": "Le anticipazioni della nuova registrazione raccontano anche i percorsi di Gemma e della tronista Giorgia.",
+    "perche": "Programma televisivo, non cinema",
+    "sezione": "scarta"
+  },
+  "https://movieplayer.it/news/giacomo-nuovo-tronista-uomini-e-donne_170892/": {
+    "titolo": "Chi è Giacomo, il nuovo tronista di Uomini e Donne",
+    "sommario": "Trent'anni, responsabile commerciale ed ex tennista professionista, è stato presentato nella registrazione del 3 settembre.",
+    "perche": "Programma televisivo, non cinema",
+    "sezione": "scarta"
+  },
+  "https://www.everyeye.it/notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-anno-898642.html": {
+    "titolo": "State of Play di settembre, il pubblico Sony ai minimi dell'anno",
+    "sommario": "L'evento PlayStation dedicato alle prossime uscite ha registrato il numero più basso di spettatori del 2026.",
+    "perche": "Videogiochi, non cinema",
+    "sezione": "scarta"
+  },
+  "https://www.cineblog.it/post/jane-fonda-a-89-anni-sono-piu-forte-che-mai-mobilitarsi-e-necessario": {
+    "titolo": "Jane Fonda a 89 anni: «Sono più forte che mai, mobilitarsi è necessario»",
+    "sommario": "L'attrice ha ricevuto al Teatro Goldoni uno dei DVF Awards e ha parlato di clima, intelligenza artificiale e potere.",
+    "perche": "Sessant'anni di cinema e ancora in prima linea, a Venezia",
+    "sezione": "notizia"
+  },
+  "https://www.cineblog.it/post/barbera-chiude-alla-bandiera-palestinese-non-ci-sono-margini": {
+    "titolo": "Barbera esclude la bandiera palestinese al Lido: «Non ci sono margini»",
+    "sommario": "Il direttore della Mostra spiega che la Biennale può esporre solo le bandiere degli Stati riconosciuti dal governo italiano.",
+    "perche": "La risposta ufficiale all'appello di Venice4Palestine",
+    "sezione": "notizia"
+  },
+  "https://www.cineblog.it/post/larchivio-di-martin-scorsese-verso-roma-trattativa-con-il-mic-per-la-donazione": {
+    "titolo": "Scorsese tratta con il ministero della Cultura per donare il suo archivio a Roma",
+    "sommario": "Cinquant'anni di materiali sul cinema americano potrebbero arrivare in Italia: il regista vuole consolidare il legame con il Paese.",
+    "perche": "Mezzo secolo di cinema americano custodito e consultabile a Roma",
+    "sezione": "notizia"
+  },
+  "https://www.cineblog.it/post/silent-life-il-biopic-onirico-che-riscopre-rodolfo-valentino-a-100-anni-dalla-morte": {
+    "titolo": "Silent life, il biopic onirico su Rodolfo Valentino a cent'anni dalla morte",
+    "sommario": "Il film indipendente di Vladislav Kozlov ricorda il divo, morto a New York il 23 agosto 1926 a soli 31 anni.",
+    "perche": "Il centenario della prima vera star della storia del cinema",
+    "sezione": "passato"
   }
 }
