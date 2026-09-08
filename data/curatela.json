@@ -1,10 +1,4 @@
 {
-  "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/": {
-    "titolo": "Venezia 83, le foto del quarto giorno tra Primetime e Oasis",
-    "sommario": "La galleria del 5 settembre al Lido, con le premiere del film di Lance Oppenheim e del documentario sulla reunion dei Gallagher.",
-    "perche": "Solo fotografie: le stesse premiere sono già raccontate negli articoli in italiano",
-    "sezione": "scarta"
-  },
   "https://www.hollywoodreporter.com/movies/movie-news/jeff-zucker-primetime-cameo-robert-pattinson-chris-hansen-1236692009/": {
     "titolo": "Jeff Zucker debutta al cinema in Primetime: «Tutto questo è surreale»",
     "sommario": "L'ex capo di NBC Entertainment interpreta se stesso accanto a Robert Pattinson nel film di Lance Oppenheim, presentato a Venezia.",
@@ -88,12 +82,6 @@
     "sommario": "Una di esse verrà candidata all'Oscar, in una corsa che quest'anno comprende anche Taylor Swift, David Byrne e Diane Warren.",
     "perche": "Un attore-regista che si scopre autore di canzoni, con l'Oscar nel mirino",
     "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2248793/alan-hale-jr-guest-star-60s-fantasy-series-sally-field-the-flying-nun/": {
-    "titolo": "Alan Hale Jr. ospite in una serie fantasy con Sally Field",
-    "sommario": "Il ricordo di un episodio della serie televisiva degli anni Sessanta in cui recitava la futura premio Oscar Sally Field.",
-    "perche": "È una serie televisiva, fuori dal perimetro del cinema",
-    "sezione": "scarta"
   },
   "https://www.slashfilm.com/2248085/braveheart-sequel-robert-the-bruce-streaming-free-pluto-tv/": {
     "titolo": "Il seguito non ufficiale di Braveheart si vede gratis in streaming",
@@ -539,23 +527,11 @@
     "perche": "Il nuovo McDonagh arriva con Malkovich già dato in corsa per l'Oscar",
     "sezione": "approfondimento"
   },
-  "https://www.hollywoodreporter.com/movies/movie-news/lee-chang-dong-possible-love-acclaim-venice-1236692360/": {
-    "titolo": "Possible Love di Lee Chang-dong è il caso di Venezia 83",
-    "sommario": "Il film è la candidatura coreana agli Oscar e la punta di diamante di Netflix nella stagione dei premi.",
-    "perche": "L'accoglienza al Lido è già raccontata negli altri articoli della rassegna",
-    "sezione": "scarta"
-  },
   "https://www.slashfilm.com/2248851/tom-cruise-villain-movie-collateral-streaming-prime-video/": {
     "titolo": "Collateral, il film in cui Tom Cruise diventa un killer a sangue freddo",
     "sommario": "Il thriller notturno di Michael Mann del 2004, oggi su Prime Video, resta la prova più cattiva dell'attore.",
     "perche": "Thriller con una star fuori ruolo: il genere che segui di più",
     "sezione": "passato"
-  },
-  "https://variety.com/2026/film/reviews/woman-unknown-review-1236853350/": {
-    "titolo": "Woman Unknown, la recensione di Variety dal concorso di Venezia",
-    "sommario": "Il film di May el-Toukhy è ambientato nella Copenaghen del dopoguerra e lavora su un simbolismo dichiarato.",
-    "perche": "Il film è già recensito altrove nella rassegna",
-    "sezione": "scarta"
   },
   "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed": {
     "titolo": "«Gli squali sono le mie star»: il Mare del Nord svela la sua bellezza",
@@ -581,35 +557,17 @@
     "perche": "Un pezzo del mosaico Marvel che resta sospeso a mezz'aria",
     "sezione": "curiosita"
   },
-  "https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-documentary-trailer-teaser-watch-1236692828/": {
-    "titolo": "Il documentario su Elizabeth Holmes era la proiezione segreta di Telluride",
-    "sommario": "You Can See Everything, firmato da Nathan Fielder e Lance Oppenheim, uscirà in ottobre.",
-    "perche": "Stessa notizia già coperta dall'articolo di Variety",
-    "sezione": "scarta"
-  },
   "https://www.slashfilm.com/2250028/project-hail-mary-andy-weir-favorite-sci-fi-movie-back-to-the-future/": {
     "titolo": "Il film di fantascienza preferito di Andy Weir è Ritorno al futuro",
     "sommario": "L'autore di Project Hail Mary lo rivelò in un incontro con i lettori su Reddit; l'influenza si vede nei suoi romanzi.",
     "perche": "Fantascienza avventurosa e leggibile: la stessa vena dei film che scegli",
     "sezione": "curiosita"
   },
-  "https://www.slashfilm.com/2250011/star-trek-leonard-nimoy-guest-starred-western-series-tombstone-territory/": {
-    "titolo": "Prima di Star Trek, Leonard Nimoy fu ospite in una serie western dimenticata",
-    "sommario": "Tombstone Territory ospitò l'attore quando il genere dominava la televisione americana, molto prima del ruolo di Spock.",
-    "perche": "Riguarda una serie televisiva, non il cinema",
-    "sezione": "scarta"
-  },
   "https://www.theguardian.com/film/2026/sep/06/cult-male-genius-holding-female-film-makers-back-woman-unknown-director-may-el-toukhy": {
     "titolo": "«Il culto del genio maschile frena le registe», dice l'autrice di Woman Unknown",
     "sommario": "May el-Toukhy, una delle due sole donne in concorso a Venezia 83, parla di un problema strutturale del settore.",
     "perche": "Chi firma i film che vediamo, e chi invece resta fuori dal concorso",
     "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship": {
-    "titolo": "Possible Love, due coppie tra sfruttamento e amicizia",
-    "sommario": "Il Guardian promuove il ritorno di Lee Chang-dong dopo otto anni, definendolo un lavoro romanzesco e finemente calibrato.",
-    "perche": "Il film è già recensito in italiano nella rassegna",
-    "sezione": "scarta"
   },
   "https://www.theguardian.com/film/2026/sep/06/wim-wenders-clarifies-does-not-believe-film-makers-stay-out-of-politics": {
     "titolo": "Wim Wenders precisa: i registi non devono restare fuori dalla politica",
@@ -623,18 +581,6 @@
     "perche": "Fantascienza da riscoprire al contrario: come non si fa",
     "sezione": "curiosita"
   },
-  "https://www.slashfilm.com/2250643/steve-mcqueen-legendary-western-series-wanted-dead-or-alive/": {
-    "titolo": "Wanted: Dead or Alive, la serie western che lanciò Steve McQueen",
-    "sommario": "Tre stagioni in cui si vede crescere l'attore poco prima del decollo della sua carriera al cinema.",
-    "perche": "Riguarda una serie televisiva, non il cinema",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-reviews/woman-unknown-may-el-toukhy-1236685095/": {
-    "titolo": "Woman Unknown, ritratto della resa dei conti danese nel dopoguerra",
-    "sommario": "Il film in concorso di May el-Toukhy segue una domestica il cui passato minaccia di travolgerne il futuro.",
-    "perche": "Il film è già recensito altrove nella rassegna",
-    "sezione": "scarta"
-  },
   "https://www.hollywoodreporter.com/movies/movie-reviews/mr-nelson-did-you-kill-people-review-shinya-tsukamoto-1236691754/": {
     "titolo": "Tsukamoto racconta il trauma di un reduce del Vietnam",
     "sommario": "Mr. Nelson, Did You Kill People? adatta la testimonianza del marine Allen Nelson; per Hollywood Reporter il risultato è troppo didascalico.",
@@ -646,12 +592,6 @@
     "sommario": "L'attore dice che il film di Matt Reeves proporrà qualcosa di diverso da quanto lasciavano immaginare le prime informazioni sul sequel.",
     "perche": "Hai visto The Batman e il seguito è già nella tua libreria",
     "sezione": "notizia"
-  },
-  "https://www.badtaste.it/articoli/venezia-83-i-migliori-e-peggiori-look-delle-star-da-robert-pattinson-ai-fratelli-gallagher-foto-esclusive": {
-    "titolo": "Venezia 83, i look della quarta serata sul red carpet",
-    "sommario": "La galleria di BadTaste passa in rassegna gli abiti delle star, da Robert Pattinson ai fratelli Gallagher.",
-    "perche": "È moda e costume, non cinema",
-    "sezione": "scarta"
   },
   "https://www.badtaste.it/articoli/terminator-2-edward-furlong-aveva-solo-13-anni-quando-divenne-una-star-crescere-cosi-e-davvero-difficile": {
     "titolo": "Edward Furlong: «Diventare una star a 13 anni con Terminator 2 è stato durissimo»",
@@ -700,12 +640,6 @@
     "sommario": "Il dramma di Barry Levinson, oggi su Netflix, divide ancora per la veridicità della storia che racconta.",
     "perche": "Un dramma durissimo con un cast che oggi sarebbe impossibile mettere insieme",
     "sezione": "passato"
-  },
-  "https://www.badtaste.it/articoli/me-contro-te-il-matrimonio-da-record-con-6-mila-presenza-diventa-un-fenomeno-virale": {
-    "titolo": "Me Contro Te, il matrimonio-spettacolo davanti a seimila fan paganti",
-    "sommario": "Luì e Sofì hanno celebrato le nozze all'Unipol Dome, in un evento a metà tra vita privata e business digitale.",
-    "perche": "Fenomeno social e televisivo, non cinema",
-    "sezione": "scarta"
   },
   "https://movieplayer.it/news/il-primo-della-classe-trailer-anteprima-esclusiva_170924/": {
     "titolo": "Il primo della classe, il corto sui deepfake in anteprima esclusiva",
@@ -773,12 +707,6 @@
     "perche": "Un premio a una carriera che attraversa trent'anni di Hollywood",
     "sezione": "notizia"
   },
-  "https://www.screenweek.it/monster-la-storia-di-lizzie-borden-il-trailer-ufficiale/": {
-    "titolo": "Monster: La storia di Lizzie Borden, il trailer ufficiale",
-    "sommario": "Online il filmato del nuovo capitolo dell'antologia criminale targata Netflix.",
-    "perche": "È una serie televisiva, non un film",
-    "sezione": "scarta"
-  },
   "https://www.screenweek.it/fjord-il-trailer-del-film-di-cristian-mungiu-con-sebastian-stan/": {
     "titolo": "Fjord, il trailer del nuovo film di Cristian Mungiu con Sebastian Stan",
     "sommario": "Online le prime immagini del film del regista romeno, con l'attore americano protagonista.",
@@ -815,29 +743,11 @@
     "perche": "Un esordio italiano che parte dal bisogno molto umano di essere visti",
     "sezione": "approfondimento"
   },
-  "https://www.cineblog.it/post/venice4palestine-lancia-lappello-la-bandiera-palestinese-al-lido": {
-    "titolo": "Venice4Palestine chiede alla Biennale di esporre la bandiera palestinese",
-    "sommario": "L'appello, lanciato il 28 agosto, chiede alla Mostra e ai lavoratori del settore azioni concrete durante il festival.",
-    "perche": "La politica entra al Lido: qui comincia il caso di questi giorni",
-    "sezione": "notizia"
-  },
   "https://cinefilos.it/tutto-film/recensioni/possible-love-recensione-la-sociologia-dellamore-di-lee-chang-dong-720440": {
     "titolo": "Possible Love, la sociologia dell'amore secondo Lee Chang-dong",
     "sommario": "Il film si apre con il decimo comandamento del Decalogo e segna il ritorno del regista in concorso a Venezia dopo 24 anni.",
     "perche": "Un dramma sull'invidia e sul desiderio, firmato da un maestro del genere",
     "sezione": "approfondimento"
-  },
-  "https://movieplayer.it/news/uomini-donne-giacomo-vacalebre-vecchio-post-temptation-island_170914/": {
-    "titolo": "Uomini e Donne, riemerge un vecchio post del tronista Giacomo Vacalebre",
-    "sommario": "Il nuovo tronista è stato presentato dopo la registrazione del 3 settembre; sul web circola un suo vecchio commento su Temptation Island.",
-    "perche": "Programma televisivo, non cinema",
-    "sezione": "scarta"
-  },
-  "https://movieplayer.it/news/giovanni-grazioso-uomini-e-donne-non-subito-tronista_170906/": {
-    "titolo": "Uomini e Donne, Giovanni Grazioso entrerà senza il ruolo di tronista",
-    "sommario": "Dopo Temptation Island, il volto del programma di Maria De Filippi dovrebbe iniziare con un ruolo diverso.",
-    "perche": "Programma televisivo, non cinema",
-    "sezione": "scarta"
   },
   "https://www.cineblog.it/post/wim-wenders-accusa-berlino-travisate-le-mie-parole-su-cinema-e-politica": {
     "titolo": "Wim Wenders: «Alla Berlinale hanno travisato le mie parole su cinema e politica»",
@@ -880,24 +790,6 @@
     "sommario": "BadTaste parte da un thriller con l'attore, su Prime Video, per spiegare il meccanismo dell'identificazione con l'antagonista.",
     "perche": "Il piacere colpevole di stare dalla parte sbagliata della storia",
     "sezione": "approfondimento"
-  },
-  "https://movieplayer.it/news/uomini-donne-anticipazioni-agnese-restituisce-anello-roberto_170895/": {
-    "titolo": "Uomini e Donne, Agnese De Pasquale restituisce l'anello a Roberto Priolo",
-    "sommario": "Le anticipazioni della nuova registrazione raccontano anche i percorsi di Gemma e della tronista Giorgia.",
-    "perche": "Programma televisivo, non cinema",
-    "sezione": "scarta"
-  },
-  "https://movieplayer.it/news/giacomo-nuovo-tronista-uomini-e-donne_170892/": {
-    "titolo": "Chi è Giacomo, il nuovo tronista di Uomini e Donne",
-    "sommario": "Trent'anni, responsabile commerciale ed ex tennista professionista, è stato presentato nella registrazione del 3 settembre.",
-    "perche": "Programma televisivo, non cinema",
-    "sezione": "scarta"
-  },
-  "https://www.everyeye.it/notizie/state-of-play-settembre-2026-delude-pubblico-cala-livelli-bassi-anno-898642.html": {
-    "titolo": "State of Play di settembre, il pubblico Sony ai minimi dell'anno",
-    "sommario": "L'evento PlayStation dedicato alle prossime uscite ha registrato il numero più basso di spettatori del 2026.",
-    "perche": "Videogiochi, non cinema",
-    "sezione": "scarta"
   },
   "https://www.cineblog.it/post/jane-fonda-a-89-anni-sono-piu-forte-che-mai-mobilitarsi-e-necessario": {
     "titolo": "Jane Fonda a 89 anni: «Sono più forte che mai, mobilitarsi è necessario»",
