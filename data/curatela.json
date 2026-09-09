@@ -1108,5 +1108,353 @@
     "sommario": "Cinefilos giudica il nuovo film di Paolo Strippoli, in concorso a Venezia 83 dopo La valle dei sorrisi e A Classic Horror Story.",
     "perche": "Il regista che sta portando l'horror italiano dentro il cinema d'autore",
     "sezione": "approfondimento"
+  },
+  "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/": {
+    "titolo": "Bunker conquista Venezia: 15 minuti e mezzo di applausi, record della Mostra",
+    "sommario": "Al Lido il thriller di Florian Zeller con Javier Bardem e Penélope Cruz ha ricevuto la standing ovation più lunga di Venezia 83.",
+    "perche": "C'è Javier Bardem, che hai già visto tre volte",
+    "sezione": "notizia"
+  },
+  "https://www.hollywoodreporter.com/lists/highest-grossing-movies-all-time-worldwide-box-office/": {
+    "titolo": "I 65 film che hanno superato il miliardo al box office mondiale, in classifica",
+    "sommario": "The Hollywood Reporter mette in fila tutti gli incassi record, dai blockbuster dell'estate 2026 a Jurassic Park e Titanic.",
+    "perche": "In lista ci sono Toy Story 5 e Spider-Man: Brand New Day, che hai in libreria",
+    "sezione": "curiosita"
+  },
+  "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review": {
+    "titolo": "Amori & incantesimi 2, Bullock e Kidman tornano in un sequel strano ma con del fascino",
+    "sommario": "Per il Guardian il ritorno delle sorelle Owens è confuso quanto il primo film, con qualche piacere autunnale da salvare.",
+    "perche": "Il ritorno di un cult anni '90, per capire se vale ancora il biglietto",
+    "sezione": "approfondimento"
+  },
+  "https://www.slashfilm.com/2250623/practical-magic-2-review/": {
+    "titolo": "Amori & incantesimi 2, la stroncatura di /Film",
+    "sommario": "Per /Film il sequel è montato male e non fa ridere: la nostalgia non basta a salvarlo.",
+    "perche": "Doppione: lo stesso film è già coperto dalla recensione del Guardian",
+    "sezione": "scarta"
+  },
+  "https://deadline.com/2026/09/the-fox-release-date-theaters-aquired-aura-entertainment-1237070975/": {
+    "titolo": "The Fox, la commedia nera con Sam Neill uscirà nelle sale americane a dicembre",
+    "sommario": "Aura Entertainment ha comprato i diritti USA del film di Dario Russo, con Jai Courtney, Emily Browning e Olivia Colman.",
+    "perche": "Uno degli ultimi film di Sam Neill, che hai visto in Jurassic World - Il dominio",
+    "sezione": "notizia"
+  },
+  "https://www.slashfilm.com/2252999/how-watch-the-end-of-oak-street-home/": {
+    "titolo": "La Fine di Oak Street arriva in home video: ecco come vederlo a casa",
+    "sommario": "Il film di fantascienza e avventura di David Robert Mitchell esce sul mercato home video.",
+    "perche": "Ce l'hai in libreria, ed è fantascienza d'avventura: due tuoi terreni",
+    "sezione": "notizia"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-features/andrew-garfield-explains-robin-hood-energy-in-the-uprising-1236694582/": {
+    "titolo": "Andrew Garfield sull'anima da Robin Hood di The Uprising e sul rumore del marketing",
+    "sommario": "L'attore parla del film, della scelta di Jesse Eisenberg di non tornare come Zuckerberg e del suo prossimo ruolo in Artificial.",
+    "perche": "Hai in libreria sia The Social: Il prezzo della verità sia Artificial",
+    "sezione": "approfondimento"
+  },
+  "https://variety.com/2026/film/news/runner-review-alan-ritchson-owen-wilson-1236855275/": {
+    "titolo": "Runner, Alan Ritchson e Owen Wilson tengono in piedi un action thriller onesto",
+    "sommario": "Variety recensisce il thriller d'azione: il carisma dei due protagonisti compensa una confezione senza ambizioni.",
+    "perche": "Thriller d'azione, uno dei generi che frequenti di più",
+    "sezione": "approfondimento"
+  },
+  "https://variety.com/2026/film/festivals/casey-affleck-company-venice-premiere-1236838162/": {
+    "titolo": "Company di Casey Affleck commuove Venezia, in sala anche Ben Affleck",
+    "sommario": "Il thriller gotico ha ottenuto quattro minuti di applausi al Lido, con Affleck e Nick Nolte visibilmente emozionati.",
+    "perche": "Il ritorno alla regia di Casey Affleck, in Concorso a Venezia",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/godzilla-minus-zero-trailer-1237071332/": {
+    "titolo": "Godzilla Minus Zero, il primo trailer mostra una pace fragile che si spezza",
+    "sommario": "Takashi Yamazaki ambienta il seguito due anni dopo Godzilla Minus One e porta il mostro fino a Londra.",
+    "perche": "Fantascienza e disastro su larga scala, il seguito di Godzilla Minus One",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/company-review-nick-nolte-director-casey-affleck-venice-1237070484/": {
+    "titolo": "Company, la recensione di Deadline da Venezia",
+    "sommario": "Per Deadline il film di Casey Affleck vive soprattutto grazie al figlio Atticus.",
+    "perche": "Doppione: terza recensione dello stesso film nella stessa rassegna",
+    "sezione": "scarta"
+  },
+  "https://deadline.com/2026/09/remain-trailer-jake-gyllenhaal-phoebe-dynevor-1237071245/": {
+    "titolo": "Remain, il trailer del film di Shyamalan con Jake Gyllenhaal e Phoebe Dynevor",
+    "sommario": "Warner Bros. lancia l'adattamento del romanzo scritto da M. Night Shyamalan con Nicholas Sparks: Gyllenhaal è un architetto solitario a Cape Cod.",
+    "perche": "Un incrocio insolito fra thriller soprannaturale e melodramma romantico",
+    "sezione": "notizia"
+  },
+  "https://deadline.com/2026/09/the-bell-jar-movie-connor-storrie-danielle-deadwyler-cast-1237070956/": {
+    "titolo": "The Bell Jar, chiuse le riprese del film con Billie Eilish e Carey Mulligan",
+    "sommario": "Focus Features ha completato l'adattamento del romanzo di Sylvia Plath e confermato il cast di contorno, da Danielle Deadwyler a Lili Taylor.",
+    "perche": "Il debutto al cinema di Billie Eilish dentro un classico della letteratura americana",
+    "sezione": "notizia"
+  },
+  "https://www.slashfilm.com/2252499/tom-cruise-hg-wells-sci-fi-movie-streaming-apple-tv-september-2026/": {
+    "titolo": "Il film di fantascienza di Spielberg e Tom Cruise è un successo su Apple TV 21 anni dopo",
+    "sommario": "L'adattamento del classico di H.G. Wells uscito nel 2005 è tornato in cima alle classifiche della piattaforma.",
+    "perche": "Regia di Steven Spielberg e fantascienza pura: due cose che ti riguardano",
+    "sezione": "curiosita"
+  },
+  "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival": {
+    "titolo": "Bunker, per il Guardian nemmeno Cruz e Bardem salvano il thriller di Zeller",
+    "sommario": "Bardem è un architetto che costruisce un bunker di lusso per un miliardario tech, alienando la moglie editor interpretata da Penélope Cruz.",
+    "perche": "Il rovescio della standing ovation: come sta davvero il film con Bardem",
+    "sezione": "approfondimento"
+  },
+  "https://www.slashfilm.com/2253050/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/": {
+    "titolo": "Uno dei più grandi successi di Eddie Murphy è diventato un flop storico 30 anni dopo",
+    "sommario": "Il professore matto è tornato nelle sale americane per l'anniversario, ma la riedizione ha incassato quasi nulla nel fine settimana.",
+    "perche": "Che cosa resta oggi di una commedia campione d'incassi degli anni '90",
+    "sezione": "passato"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-news/jake-gyllenhaal-phoebe-dynevor-remain-teaser-trailer-1236694038/": {
+    "titolo": "Remain, il teaser secondo The Hollywood Reporter",
+    "sommario": "Shyamalan dirige da una sceneggiatura propria, su una storia scritta con Nicholas Sparks.",
+    "perche": "Doppione: lo stesso trailer è già in rassegna con la notizia di Deadline",
+    "sezione": "scarta"
+  },
+  "https://www.slashfilm.com/2252821/remain-trailer-m-night-shyamalan-nicholas-sparks-movie/": {
+    "titolo": "Remain, il trailer secondo /Film",
+    "sommario": "Jake Gyllenhaal e Phoebe Dynevor nella storia d'amore soprannaturale di Shyamalan e Sparks.",
+    "perche": "Doppione: terza copertura dello stesso trailer",
+    "sezione": "scarta"
+  },
+  "https://www.slashfilm.com/2252602/godzilla-minus-zero-trailer/": {
+    "titolo": "Godzilla Minus Zero, il trailer secondo /Film",
+    "sommario": "Il kaiju torna e si dirige verso Londra nel seguito di Godzilla Minus One.",
+    "perche": "Doppione: lo stesso trailer è già coperto da Deadline",
+    "sezione": "scarta"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-features/mayday-saved-ryan-reynolds-called-mayor-1236691230/": {
+    "titolo": "Una telefonata di Ryan Reynolds al sindaco di Budapest ha salvato una scena di Mayday",
+    "sommario": "I registi John Francis Daley e Jonathan Goldstein raccontano come recuperarono una location saltata all'ultimo nella commedia d'azione ambientata nella Guerra fredda.",
+    "perche": "Retroscena di set: come si salva un film quando la location salta",
+    "sezione": "curiosita"
+  },
+  "https://www.slashfilm.com/2253084/how-watch-jason-statham-mutiny-home/": {
+    "titolo": "Mutiny, l'action con Jason Statham è disponibile per la visione domestica",
+    "sommario": "Il film d'azione ambientato in alto mare con Jason Statham arriva sulle piattaforme casalinghe.",
+    "perche": "Avventura e azione in mare aperto, i generi che guardi più spesso",
+    "sezione": "notizia"
+  },
+  "https://variety.com/2026/film/awards/telluride-takeaways-julianne-moore-nathan-fielder-oscars-1236855247/": {
+    "titolo": "Telluride 2026, i film e i nomi che si candidano alla corsa agli Oscar",
+    "sommario": "Variety fa il punto sul festival: dal «debutto» di Julianne Moore e Paul Giamatti alla sfida di Nathan Fielder al ramo documentari.",
+    "perche": "La mappa anticipata di quello che vedrai in sala e agli Oscar",
+    "sezione": "approfondimento"
+  },
+  "https://variety.com/2026/film/news/congress-draft-federal-film-incentive-trump-1236855119/": {
+    "titolo": "Il Congresso Usa lavora a un incentivo federale del 20% per il cinema",
+    "sommario": "Il disegno di legge, atteso entro settembre, prevede bonus fino al 30% e arriva dopo l'endorsement del presidente Trump.",
+    "perche": "Se passa, cambia dove e quanto si girerà a Hollywood nei prossimi anni",
+    "sezione": "notizia"
+  },
+  "https://variety.com/2026/film/news/bruce-davis-dead-ampas-oscars-1236855231/": {
+    "titolo": "Morto a 83 anni Bruce Davis, storico direttore esecutivo dell'Academy",
+    "sommario": "Guidò l'organizzazione degli Oscar e contribuì a costruire la Margaret Herrick Library e l'Academy Film Archive. È morto il 5 settembre a Los Angeles.",
+    "perche": "Chi ha costruito la memoria del cinema americano, archivi e biblioteca compresi",
+    "sezione": "passato"
+  },
+  "https://variety.com/2026/film/news/film-news-in-brief-sept-8-2026-1236854730/": {
+    "titolo": "I critici afroamericani donano 25.000 dollari alla Black Film Hall of Fame",
+    "sommario": "L'AAFCA sostiene l'istituzione che conserva la storia del cinema nero americano, spiega il presidente Gil Robertson.",
+    "perche": "Conservazione e memoria: chi tiene in vita una parte di storia del cinema",
+    "sezione": "notizia"
+  },
+  "https://www.theguardian.com/film/2026/sep/09/oasis-dont-look-back-in-anger-documentary-interview-liam-noel-gallagher": {
+    "titolo": "Don't Look Back in Anger, i registi raccontano il film sul ritorno degli Oasis",
+    "sommario": "Folla in lacrime, polizia che cita i testi delle canzoni e un parroco che predica il perdono fraterno: il racconto delle riprese del documentario.",
+    "perche": "Un documentario di concerto girato come evento collettivo, non come backstage",
+    "sezione": "approfondimento"
+  },
+  "https://deadline.com/2026/09/everything-we-never-said-sloan-harlow-movie-adaptation-1237071141/": {
+    "titolo": "Miramax adatterà il thriller romantico Everything We Never Said",
+    "sommario": "Amy Andelson ed Emily Meyer scriveranno la sceneggiatura tratta dal romanzo young adult di Sloan Harlow, pubblicato nel 2024.",
+    "perche": "Il romanzo young adult resta la miniera preferita degli studios americani",
+    "sezione": "notizia"
+  },
+  "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology": {
+    "titolo": "Company, la recensione del Guardian da Venezia",
+    "sommario": "Per il Guardian il terzo film da regista di Affleck è un'antologia gotica su sconosciuti misteriosi e delitti.",
+    "perche": "Doppione: il film è già coperto da notizia e recensione in rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice": {
+    "titolo": "A Venezia il documentario di Alex Gibney su Elon Musk, con l'accusa dell'ex compagna",
+    "sommario": "Alla presentazione al Lido, Ashley St Clair ha riferito frasi di Musk sul volere molti figli e ha messo in guardia sulla sua influenza.",
+    "perche": "Gibney porta al cinema il ritratto dell'uomo più ricco del mondo",
+    "sezione": "notizia"
+  },
+  "https://www.slashfilm.com/2253227/star-wars-a-new-hope-1977-imax-release-50-year-anniversary/": {
+    "titolo": "Guerre stellari torna in IMAX nel 2027 per i 50 anni della saga",
+    "sommario": "La versione originale del 1977 avrà una riedizione nelle sale IMAX per il mezzo secolo di Star Wars.",
+    "perche": "Fantascienza e avventura all'origine, sullo schermo più grande possibile",
+    "sezione": "passato"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-reviews/from-inside-out-architecture-peter-zumthor-wim-wenders-3d-1236693799/": {
+    "titolo": "Wim Wenders firma un documentario in 3D sull'architetto Peter Zumthor",
+    "sommario": "Presentato a Venezia, il film usa il rilievo come già in Pina e Anselm per far vedere le opere dell'architetto svizzero, con esiti un po' aridi.",
+    "perche": "Il 3D usato come strumento di sguardo e non come effetto: la lezione di Wenders",
+    "sezione": "approfondimento"
+  },
+  "https://www.hollywoodreporter.com/movies/movie-reviews/the-spiral-review-jasmine-trinca-valeria-bruni-tedeschi-1236693815/": {
+    "titolo": "The Spiral, l'horror di Paolo Strippoli in concorso a Venezia con Jasmine Trinca",
+    "sommario": "Trinca è una moglie e madre di Bari la cui paura di una famiglia imperfetta la porta a un patto con la sconosciuta di Valeria Bruni Tedeschi.",
+    "perche": "Il cinema di genere italiano che arriva in Concorso, fra thriller e orrore domestico",
+    "sezione": "approfondimento"
+  },
+  "https://www.slashfilm.com/2251622/ron-perlman-sci-fi-movie-the-city-of-lost-children-inspired-fallout-power-armor/": {
+    "titolo": "La città dei bambini perduti ha ispirato l'armatura di Fallout",
+    "sommario": "Il film di fantascienza con Ron Perlman è tra i modelli dichiarati del design della power armor nei videogiochi e nella serie.",
+    "perche": "Fantascienza visionaria anni '90, da riscoprire per quanto ha fatto scuola",
+    "sezione": "curiosita"
+  },
+  "https://www.slashfilm.com/2251566/arnold-schwarzenegger-80s-fantasy-movie-conan-the-barbarian-streaming-netflix/": {
+    "titolo": "Conan il barbaro, il film che ha lanciato Schwarzenegger è su Netflix",
+    "sommario": "Il fantasy anni '80 che segnò il debutto da protagonista di Arnold Schwarzenegger è tornato disponibile in streaming.",
+    "perche": "Avventura pura, il genere fondativo che sta dietro a mezzo cinema d'azione",
+    "sezione": "passato"
+  },
+  "https://www.theguardian.com/film/2026/sep/04/if-you-cant-understand-what-sex-is-its-irrelevant-if-you-seem-to-be-enjoying-it-how-queen-at-sea-upended-the-dementia-drama": {
+    "titolo": "Queen at Sea, Lance Hammer torna dopo 18 anni con un dramma sulla demenza",
+    "sommario": "Il regista e Juliette Binoche raccontano come hanno affrontato senza filtri il declino mentale e il tema del consenso in una coppia anziana.",
+    "perche": "Un dramma che affronta di petto quello che il cinema di solito evita",
+    "sezione": "approfondimento"
+  },
+  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-bunker-red-carpet-javier-bardem-penelope-cruz-foto-720753": {
+    "titolo": "Bunker, le foto del red carpet di Bardem e Cruz a Venezia",
+    "sommario": "Galleria fotografica del passaggio sul tappeto rosso della coppia protagonista del film di Florian Zeller.",
+    "perche": "Doppione fotografico: il film è già coperto da notizia e recensione",
+    "sezione": "scarta"
+  },
+  "https://www.badtaste.it/articoli/sara-un-viaggio-tra-gli-inferi-mel-gibson-aggiorna-sul-folle-sequel-de-la-passione-di-cristo": {
+    "titolo": "Mel Gibson sul sequel de La passione di Cristo: «Sarà un viaggio tra gli inferi»",
+    "sommario": "In un'intervista a The Christian Post il regista anticipa che il film attraverserà i diversi mondi dei Vangeli e mostrerà Satana in persona.",
+    "perche": "Il seguito più improbabile e più atteso del cinema americano recente",
+    "sezione": "notizia"
+  },
+  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/bunker-penelope-cruz-javier-bardem-venezia-83-719584": {
+    "titolo": "Bunker, l'anteprima del film di Zeller con Cruz e Bardem",
+    "sommario": "Scheda su trama e cast del thriller drammatico presentato in Concorso a Venezia l'8 settembre.",
+    "perche": "Doppione: superato dalla cronaca della prima e dalla recensione",
+    "sezione": "scarta"
+  },
+  "https://www.badtaste.it/articoli/una-margot-robbie-iconica-nel-cinecomic-su-prime-video-che-ha-rivoluzionato-un-personaggio-dei-fumetti": {
+    "titolo": "Margot Robbie e la Harley Quinn che ha cambiato il cinecomic, su Prime Video",
+    "sommario": "Il film diretto da Cathy Yan, con un cast quasi interamente femminile, usò il divieto ai minori per rompere gli schemi del genere.",
+    "perche": "C'è Margot Robbie, che hai visto due volte",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/articoli/ryan-gosling-e-michelle-williams-su-prime-video-in-questo-film-sullamore-lodato-da-pamela-anderson": {
+    "titolo": "Il dramma sull'amore con Ryan Gosling e Michelle Williams è su Prime Video",
+    "sommario": "Nel sondaggio sui migliori film del secolo Pamela Anderson è stata l'unica a votarlo: BadTaste ne ripercorre la costruzione.",
+    "perche": "C'è Ryan Gosling, che hai visto tre volte, in un dramma sentimentale",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/articoli/thomasin-mckenzie-e-anya-taylor-joy-su-prime-video-nellincubo-londinese-anni-60-di-edgar-wright": {
+    "titolo": "Edgar Wright lascia la commedia: il suo thriller nella Londra anni '60 è su Prime Video",
+    "sommario": "Thomasin McKenzie e Anya Taylor-Joy guidano l'incubo psicologico ambientato nella swinging London.",
+    "perche": "C'è Anya Taylor-Joy, che hai visto due volte, in un thriller psicologico",
+    "sezione": "approfondimento"
+  },
+  "https://cinefilos.it/cinema-news/2026/tom-holland-dcu-james-gunn-risponde-possibile-ruolo-dc-720660": {
+    "titolo": "James Gunn risponde sulle voci di Tom Holland nel nuovo universo DC",
+    "sommario": "Il co-responsabile dei DC Studios si è espresso ufficialmente sulle speculazioni che vorrebbero l'attore britannico nel franchise.",
+    "perche": "C'è Tom Holland, che hai visto due volte",
+    "sezione": "notizia"
+  },
+  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-company-red-carpet-casey-affleck-nick-nolte-foto-720805": {
+    "titolo": "Company, le foto del red carpet di Casey Affleck e Nick Nolte",
+    "sommario": "Galleria fotografica del passaggio sul tappeto rosso del cast del film in Concorso a Venezia.",
+    "perche": "Doppione fotografico: il film è già in rassegna con notizia e recensione",
+    "sezione": "scarta"
+  },
+  "https://www.badtaste.it/articoli/ellen-burstyn-riceve-il-leone-doro-a-venezia-83-e-ricorda-lesorcista-mi-infortunai-ma-cambio-il-cinema": {
+    "titolo": "Ellen Burstyn riceve il Leone d'Oro alla carriera a Venezia 83",
+    "sommario": "L'attrice ha ricordato L'Esorcista, l'infortunio sul set e il rapporto con William Friedkin: «Mi feci male, ma quel film cambiò il cinema».",
+    "perche": "Una carriera che passa per uno dei film che hanno rifondato l'horror",
+    "sezione": "notizia"
+  },
+  "https://www.badtaste.it/articoli/servira-un-biglietto-e-unapirina-luc-besson-annuncia-il-suo-nuovo-folle-film-di-fantascienza": {
+    "titolo": "Luc Besson annuncia un nuovo film di fantascienza: «Servirà un biglietto e un'aspirina»",
+    "sommario": "Alla masterclass della Mostra di Venezia il regista ha descritto il progetto come folle e iperstimolante.",
+    "perche": "Fantascienza, il tuo genere, nelle mani di chi ha diretto Il quinto elemento",
+    "sezione": "notizia"
+  },
+  "https://cinefilos.it/tutto-film/recensioni/company-casey-affleck-720709": {
+    "titolo": "Company, Casey Affleck riflette sul valore delle storie e dell'eredità",
+    "sommario": "Terzo film da regista di Affleck, in Concorso a Venezia 83: un racconto su tre generazioni costruito come una serie di storie attorno al fuoco.",
+    "perche": "La recensione italiana del film più discusso della giornata veneziana",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/articoli/clara-a-venezia-2026-il-look-da-cigno-nero-conquista-il-significato-dellabito": {
+    "titolo": "Il look di Clara sul red carpet di Venezia 2026",
+    "sommario": "Cronaca di moda sull'abito d'archivio scelto dalla cantante per il tappeto rosso della Mostra.",
+    "perche": "Non è cinema: è costume e moda da red carpet",
+    "sezione": "scarta"
+  },
+  "https://cinefilos.it/serie-tv/news/dexter-resurrection-2-data-uscita-teaser-dexter-morgan-720749": {
+    "titolo": "Dexter: Resurrection 2, il primo teaser e la data di uscita",
+    "sommario": "Paramount+ ha diffuso il teaser della seconda stagione, annunciando quando torneranno i nuovi episodi.",
+    "perche": "Non è cinema: è una serie televisiva",
+    "sezione": "scarta"
+  },
+  "https://www.screenweek.it/venezia-83-alessandro-borghi-e-leonardo-lidi-parlano-di-serpenti/": {
+    "titolo": "Venezia 83, Alessandro Borghi e Leonardo Lidi presentano Serpenti",
+    "sommario": "L'attore e il regista hanno parlato del film alla 83ª Mostra internazionale d'arte cinematografica di Venezia.",
+    "perche": "Il cinema italiano al Lido, fuori dai titoli internazionali",
+    "sezione": "notizia"
+  },
+  "https://www.screenweek.it/venezia-83-i-video-del-sesto-giorno-con-il-cast-di-lestranea-e-look-back/": {
+    "titolo": "Venezia 83, i video del sesto giorno: L'estranea, Look Back e I figli della scimmia",
+    "sommario": "ScreenWeek raccoglie gli incontri con i cast della giornata; presentato anche il film di Tommaso Landucci con Riccardo Scamarcio.",
+    "perche": "Il polso quotidiano della Mostra, film per film",
+    "sezione": "notizia"
+  },
+  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/company-casey-affleck-venezia-83-trama-cast-719594": {
+    "titolo": "Company, la scheda del film di Casey Affleck a Venezia",
+    "sommario": "Trama e cast del terzo film da regista di Affleck, con Nick Nolte, Ben Mendelsohn e Scoot McNairy.",
+    "perche": "Doppione: anteprima superata dalla cronaca della prima e dalle recensioni",
+    "sezione": "scarta"
+  },
+  "https://www.badtaste.it/articoli/su-prime-video-il-cult-di-david-lynch-che-diventa-piu-potente-ogni-volta-che-lo-rivedi-senza-capirlo": {
+    "titolo": "Il cult di David Lynch che diventa più potente a ogni visione è su Prime Video",
+    "sommario": "A venticinque anni dall'uscita, il film resta un enigma che nessuna spiegazione riesce a chiudere del tutto.",
+    "perche": "Venticinque anni dopo, il film che ha insegnato al cinema a non spiegarsi",
+    "sezione": "passato"
+  },
+  "https://www.badtaste.it/articoli/dopo-anni-di-attesa-sono-iniziate-le-riprese-de-la-mummia-4-e-sara-un-ritorno-alle-origini": {
+    "titolo": "Sono iniziate le riprese de La mummia 4 con Brendan Fraser",
+    "sommario": "L'attore ha annunciato a Canal+ l'avvio delle riprese: il nuovo capitolo torna alle origini della saga e ignora il terzo film.",
+    "perche": "Avventura d'altri tempi che riparte: il ritorno di una saga anni '90",
+    "sezione": "notizia"
+  },
+  "https://www.badtaste.it/articoli/richard-madden-e-idris-elba-scatenati-in-questo-thriller-su-prime-video-che-sembra-unaudizione-per-007": {
+    "titolo": "Il thriller d'azione con Idris Elba e Richard Madden è su Prime Video",
+    "sommario": "Diretto da James Watkins, è il film che secondo BadTaste ha candidato il suo protagonista britannico al ruolo di James Bond.",
+    "perche": "Thriller d'azione, uno dei generi che guardi più spesso",
+    "sezione": "approfondimento"
+  },
+  "https://www.badtaste.it/interviste/prima-della-guerra-intervista-a-tommaso-usberti-piero-usberti-e-luana-bajrami": {
+    "titolo": "Prima della guerra, l'intervista al regista Tommaso Usberti e agli interpreti",
+    "sommario": "Il film è stato presentato alla Settimana internazionale della critica dell'83ª Mostra di Venezia; parlano anche Piero Usberti e Luàna Bajrami.",
+    "perche": "Il cinema indipendente italiano raccontato da chi lo fa",
+    "sezione": "approfondimento"
+  },
+  "https://movieplayer.it/news/ballando-con-le-stelle-andy-diaz-hernandez-chi-e_170957/": {
+    "titolo": "Ballando con le Stelle, Andy Díaz Hernández nel cast della nuova edizione",
+    "sommario": "Il triplista cubano naturalizzato italiano è il dodicesimo concorrente annunciato dal programma.",
+    "perche": "Non è cinema: è un programma televisivo",
+    "sezione": "scarta"
+  },
+  "https://movieplayer.it/news/andrew-garfield-uprising-sotto-miliardari-anima-malata_170950/": {
+    "titolo": "Andrew Garfield sulle ambizioni politiche di The Uprising",
+    "sommario": "L'attore spera che il film di Paul Greengrass provochi una presa di coscienza anche tra i miliardari contemporanei.",
+    "perche": "Doppione: la stessa intervista promozionale è già in rassegna",
+    "sezione": "scarta"
+  },
+  "https://www.screenweek.it/wild-horse-nine-mcdonagh-racconta-le-ferite-del-nostro-presente/": {
+    "titolo": "Wild Horse Nine, McDonagh racconta le ferite del presente con John Malkovich",
+    "sommario": "Per ScreenWeek Malkovich è straordinario in un ruolo che aspettava da anni, con una candidatura all'Oscar all'orizzonte.",
+    "perche": "Un dramma d'autore che punta dritto alla stagione dei premi",
+    "sezione": "approfondimento"
   }
 }
