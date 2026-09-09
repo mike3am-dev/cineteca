@@ -37,8 +37,8 @@
       "releaseUS": "2026-05-01",
       "poster": "/ejYdwL5CAtekoZ3zV4hYRAQUmgN.jpg",
       "backdrop": "/szKv713FcUXx6hcfdY369vtkmzr.jpg",
-      "tmdbRating": 7.115,
-      "tmdbVotes": 471,
+      "tmdbRating": 7.118,
+      "tmdbVotes": 473,
       "popularity": 81.9881,
       "budget": 40000000,
       "revenue": 7340233,
@@ -153,9 +153,9 @@
       "releaseUS": "2026-05-01",
       "poster": "/nhF54SQmeaMUODgRKEuMMJoTysT.jpg",
       "backdrop": "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
-      "tmdbRating": 6.878,
-      "tmdbVotes": 827,
-      "popularity": 27.2892,
+      "tmdbRating": 6.9,
+      "tmdbVotes": 829,
+      "popularity": 23.9269,
       "budget": 5000000,
       "revenue": 25023390,
       "tagline": "We've been expecting you.",
@@ -257,9 +257,9 @@
       "releaseUS": "2026-08-14",
       "poster": "/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg",
       "backdrop": "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "tmdbRating": 6.355,
-      "tmdbVotes": 458,
-      "popularity": 56.6642,
+      "tmdbRating": 6.358,
+      "tmdbVotes": 460,
+      "popularity": 57.6922,
       "budget": 80000000,
       "revenue": 115180511,
       "tagline": "Where goes the neighborhood.",
@@ -352,18 +352,18 @@
       "imdbId": "tt32393988",
       "rtScore": 58,
       "metascore": 47,
-      "imdbRating": 6.3,
-      "imdbVotes": 1433,
+      "imdbRating": 6.2,
+      "imdbVotes": 13228,
       "releaseFonte": "manuale",
       "releaseGlobale": "2026-08-19",
       "releaseUS": "2026-08-21",
       "poster": "/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
       "backdrop": "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-      "tmdbRating": 6.5,
-      "tmdbVotes": 120,
+      "tmdbRating": 6.512,
+      "tmdbVotes": 125,
       "popularity": 55.2423,
       "budget": 18000000,
-      "revenue": 139204759,
+      "revenue": 139189759,
       "tagline": "L'orrore ha trovato una via d'uscita.",
       "scoperte": [],
       "castDetail": [
@@ -465,7 +465,7 @@
       "backdrop": "/9GBiwvuJahvlfEQtuGhpS384Ei5.jpg",
       "tmdbRating": 6.172,
       "tmdbVotes": 61,
-      "popularity": 10.0397,
+      "popularity": 8.8329,
       "budget": null,
       "revenue": null,
       "tagline": null,
@@ -494,7 +494,7 @@
         {
           "name": "Vincent Lindon",
           "character": "Dr. Laurent Hansen",
-          "profile": "/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
+          "profile": "/puOV6v2aSXx4O7M7UbKHVbF7FGN.jpg"
         },
         {
           "name": "Garance Marillier",
@@ -563,15 +563,15 @@
       "rtScore": 40,
       "metascore": 49,
       "imdbRating": 6.5,
-      "imdbVotes": 10215,
+      "imdbVotes": 13521,
       "releaseFonte": "manuale",
       "releaseGlobale": "2026-08-26",
       "releaseUS": "2026-08-28",
       "poster": "/2QUzsotrBTMF78xwmePCTX7EqpX.jpg",
       "backdrop": "/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
-      "tmdbRating": 6.672,
-      "tmdbVotes": 221,
-      "popularity": 75.1544,
+      "tmdbRating": 6.7,
+      "tmdbVotes": 227,
+      "popularity": 57.6304,
       "budget": 110000000,
       "revenue": 33037035,
       "tagline": "La fine del mondo era solo l'inizio.",
@@ -683,9 +683,9 @@
       "releaseUS": "2016-07-22",
       "poster": "/oekUlBFR85PejJK3z5jWyy3KyCG.jpg",
       "backdrop": "/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg",
-      "tmdbRating": 7.749,
-      "tmdbVotes": 8689,
-      "popularity": 28.41,
+      "tmdbRating": 7.748,
+      "tmdbVotes": 8694,
+      "popularity": 24.6226,
       "budget": 8500000,
       "revenue": 87547518,
       "tagline": "La lotta per la sopravvivenza è cominciata...",
@@ -788,7 +788,7 @@
       "backdrop": "/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 45.0749,
+      "popularity": 41.967,
       "budget": 80000000,
       "revenue": null,
       "tagline": "No sweat.",
@@ -854,7 +854,7 @@
       "backdrop": "/aVhbUxed4AP7qESD1KxKdb0FSNZ.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 11.2296,
+      "popularity": 10.3636,
       "budget": null,
       "revenue": null,
       "tagline": "Your mommy won't save you.",
@@ -863,7 +863,7 @@
         {
           "name": "Jessica Chastain",
           "character": "Ursula / Other Mommy",
-          "profile": "/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+          "profile": "/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
         },
         {
           "name": "Arabella Olivia Clark",
@@ -961,13 +961,13 @@
       "imdbRating": null,
       "imdbVotes": null,
       "releaseFonte": "manuale",
-      "releaseGlobale": "2026-12-15",
+      "releaseGlobale": "2026-09-15",
       "releaseUS": "2026-12-18",
       "poster": "/qgIxezW3yRGmVFnk3gsQaM35Qjx.jpg",
       "backdrop": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 14.7015,
+      "popularity": 16.1358,
       "budget": null,
       "revenue": null,
       "tagline": "L'epica conclusione.",
@@ -981,7 +981,7 @@
         {
           "name": "Zendaya",
           "character": "Chani",
-          "profile": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+          "profile": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
         },
         {
           "name": "Jason Momoa",
@@ -1016,7 +1016,7 @@
         {
           "name": "Robert Pattinson",
           "character": "Scytale",
-          "profile": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "profile": "/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
         },
         {
           "name": "Javier Bardem",
@@ -1080,7 +1080,7 @@
       "poster": "/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg",
       "backdrop": "/yt9m5CiU2MZkQoNl1kqLPODNR4t.jpg",
       "tmdbRating": 7.723,
-      "tmdbVotes": 1591,
+      "tmdbVotes": 1592,
       "popularity": 15.3258,
       "budget": 30000000,
       "revenue": 107756183,
@@ -1091,8 +1091,8 @@
           "titolo": "The Shack",
           "poster": "/doAzav9kfdtsoSdw1MDFvjKq3J4.jpg",
           "anno": 2017,
-          "voto": 7.515,
-          "votanti": 2291,
+          "voto": 7.517,
+          "votanti": 2292,
           "tipo": "simile"
         },
         {
@@ -1127,8 +1127,8 @@
           "titolo": "Collateral Beauty",
           "poster": "/vgetZfIJw3NhTE9LNplbR6tUEJE.jpg",
           "anno": 2016,
-          "voto": 7.214,
-          "votanti": 5605,
+          "voto": 7.213,
+          "votanti": 5607,
           "tipo": "simile"
         },
         {
@@ -1141,21 +1141,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 31005,
+          "titolo": "Moonlight Mile - Voglia di ricominciare",
+          "poster": "/98y13Tzcu6C77f8cwRHgd2CK4iV.jpg",
+          "anno": 2002,
+          "voto": 6.31,
+          "votanti": 245,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 1327862,
           "titolo": "Regretting You - Tutto quello che non ti ho detto",
           "poster": "/u9SjH9TpHNhd2Uxxh0M1IKEIPfM.jpg",
           "anno": 2025,
-          "voto": 7.103,
-          "votanti": 559,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 47333,
-          "titolo": "Jane Eyre",
-          "poster": "/gtji7o9DM2ll8e0gufuGQH0CNA9.jpg",
-          "anno": 1996,
-          "voto": 6.926,
-          "votanti": 250,
+          "voto": 7.108,
+          "votanti": 560,
           "tipo": "simile"
         },
         {
@@ -1173,8 +1173,8 @@
           "titolo": "Sto pensando di finirla qui",
           "poster": "/oBbIqNKqsM4y74rzuVLqo6N9CZ8.jpg",
           "anno": 2020,
-          "voto": 6.531,
-          "votanti": 2272,
+          "voto": 6.532,
+          "votanti": 2274,
           "tipo": "attore",
           "attore": "Jessie Buckley"
         },
@@ -1183,8 +1183,8 @@
           "titolo": "L'ombra delle spie",
           "poster": "/dUz0ohPK0ldW1uzETru4d1ZCpGg.jpg",
           "anno": 2020,
-          "voto": 7.032,
-          "votanti": 1403,
+          "voto": 7.031,
+          "votanti": 1404,
           "tipo": "attore",
           "attore": "Jessie Buckley"
         },
@@ -1193,18 +1193,8 @@
           "titolo": "Aftersun",
           "poster": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
           "anno": 2022,
-          "voto": 7.646,
-          "votanti": 1958,
-          "tipo": "attore",
-          "attore": "Paul Mescal"
-        },
-        {
-          "tmdbId": 554230,
-          "titolo": "La figlia oscura",
-          "poster": "/qKLqImkjygThOvM6vBoEkluKlVK.jpg",
-          "anno": 2021,
-          "voto": 6.446,
-          "votanti": 1153,
+          "voto": 7.6,
+          "votanti": 1959,
           "tipo": "attore",
           "attore": "Paul Mescal"
         },
@@ -1213,8 +1203,18 @@
           "titolo": "Estranei",
           "poster": "/mlKvoZf4xXVLlcW8fPCPr766OCE.jpg",
           "anno": 2023,
-          "voto": 7.391,
-          "votanti": 1079,
+          "voto": 7.389,
+          "votanti": 1082,
+          "tipo": "attore",
+          "attore": "Paul Mescal"
+        },
+        {
+          "tmdbId": 891584,
+          "titolo": "The History Of Sound - Sulle note di un amore",
+          "poster": "/55of0Vy7m32hSRZKsCyyDjZn4AC.jpg",
+          "anno": 2025,
+          "voto": 6.933,
+          "votanti": 142,
           "tipo": "attore",
           "attore": "Paul Mescal"
         }
@@ -1325,9 +1325,9 @@
       "releaseUS": "2026-05-01",
       "poster": "/6rvfeLdpAz5KsvHi7RtFSQCdk2q.jpg",
       "backdrop": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-      "tmdbRating": 7.046,
-      "tmdbVotes": 2276,
-      "popularity": 59.122,
+      "tmdbRating": 7,
+      "tmdbVotes": 2282,
+      "popularity": 52.3964,
       "budget": 100000000,
       "revenue": 691379651,
       "tagline": "Le icone regnano per sempre.",
@@ -1338,7 +1338,7 @@
           "poster": "/34r7kwVQh9UDGgAkA1EBDUWn7Sx.jpg",
           "anno": 2006,
           "voto": 7.436,
-          "votanti": 14194,
+          "votanti": 14200,
           "tipo": "attore",
           "attore": "Meryl Streep"
         },
@@ -1347,17 +1347,8 @@
           "titolo": "Crudelia",
           "poster": "/y87a7TCp0SIHE2YXfyS0dN8Tghk.jpg",
           "anno": 2021,
-          "voto": 7.967,
-          "votanti": 10279,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 383709,
-          "titolo": "La stanza delle meraviglie",
-          "poster": "/89ALJ2PZninWHaJGhPrrMa5osnZ.jpg",
-          "anno": 2017,
-          "voto": 6.1,
-          "votanti": 435,
+          "voto": 7.966,
+          "votanti": 10282,
           "tipo": "simile"
         },
         {
@@ -1367,6 +1358,15 @@
           "anno": 2003,
           "voto": 7,
           "votanti": 1206,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 16727,
+          "titolo": "Il destino nel nome - The Namesake",
+          "poster": "/9bsc2KBirOZlnseA7N6R5zXyc5H.jpg",
+          "anno": 2006,
+          "voto": 6.814,
+          "votanti": 194,
           "tipo": "simile"
         },
         {
@@ -1392,17 +1392,17 @@
           "titolo": "Synecdoche, New York",
           "poster": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
           "anno": 2008,
-          "voto": 7.528,
-          "votanti": 1662,
+          "voto": 7.529,
+          "votanti": 1665,
           "tipo": "simile"
         },
         {
-          "tmdbId": 111469,
-          "titolo": "Girlfriends",
-          "poster": "/qoExB0pawOo5kPK2UGiwnthcGEw.jpg",
-          "anno": 1978,
-          "voto": 6.7,
-          "votanti": 87,
+          "tmdbId": 707886,
+          "titolo": "Feel the Beat",
+          "poster": "/1fWyTswpskqHvAnpaTL9OyGiAnn.jpg",
+          "anno": 2020,
+          "voto": 7.547,
+          "votanti": 1179,
           "tipo": "simile"
         },
         {
@@ -1411,7 +1411,7 @@
           "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
           "anno": 2014,
           "voto": 8.487,
-          "votanti": 41074,
+          "votanti": 41088,
           "tipo": "attore",
           "attore": "Anne Hathaway"
         },
@@ -1421,7 +1421,7 @@
           "poster": "/p2JzxFRAlbxS4EvWMo4yiYZXu1W.jpg",
           "anno": 2012,
           "voto": 7.797,
-          "votanti": 24881,
+          "votanti": 24889,
           "tipo": "attore",
           "attore": "Anne Hathaway"
         },
@@ -1431,7 +1431,7 @@
           "poster": "/oftPD4SPK8A0jAqaMBSbBhLeS1s.jpg",
           "anno": 2010,
           "voto": 6.644,
-          "votanti": 15032,
+          "votanti": 15038,
           "tipo": "attore",
           "attore": "Anne Hathaway"
         },
@@ -1440,8 +1440,8 @@
           "titolo": "Don't Look Up",
           "poster": "/tDywZa4eLbKhmbwqU67NgiUh2U1.jpg",
           "anno": 2021,
-          "voto": 7.056,
-          "votanti": 9647,
+          "voto": 7.055,
+          "votanti": 9653,
           "tipo": "attore",
           "attore": "Meryl Streep"
         },
@@ -1451,7 +1451,7 @@
           "poster": "/iHQyTBxUcgUWE3q7kyb97DSJqy9.jpg",
           "anno": 2008,
           "voto": 6.961,
-          "votanti": 7157,
+          "votanti": 7158,
           "tipo": "attore",
           "attore": "Meryl Streep"
         }
@@ -1470,7 +1470,7 @@
         {
           "name": "Emily Blunt",
           "character": "Emily Charlton",
-          "profile": "/mjvs6fx2v9237HCLYZbgh3QQASb.jpg"
+          "profile": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
         },
         {
           "name": "Stanley Tucci",
@@ -1563,29 +1563,20 @@
       "releaseUS": "2026-05-15",
       "poster": "/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg",
       "backdrop": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "tmdbRating": 8.197,
-      "tmdbVotes": 5357,
-      "popularity": 205.4049,
+      "tmdbRating": 8.195,
+      "tmdbVotes": 5382,
+      "popularity": 194.6239,
       "budget": 750000,
-      "revenue": 509876715,
+      "revenue": 509956715,
       "tagline": "Attenzione a ciò che desideri...",
       "scoperte": [
-        {
-          "tmdbId": 814889,
-          "titolo": "Never Let Go - A un passo dal male",
-          "poster": "/5mjrUAIRvu1feJYCICkBafMmOGc.jpg",
-          "anno": 2024,
-          "voto": 6.1,
-          "votanti": 670,
-          "tipo": "simile"
-        },
         {
           "tmdbId": 24740,
           "titolo": "Entity",
           "poster": "/aUm4Jn9q55OhdHVzYWAUBXNY4G7.jpg",
           "anno": 1982,
-          "voto": 6.844,
-          "votanti": 597,
+          "voto": 6.85,
+          "votanti": 599,
           "tipo": "simile"
         },
         {
@@ -1594,7 +1585,7 @@
           "poster": "/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
           "anno": 2024,
           "voto": 6.018,
-          "votanti": 585,
+          "votanti": 586,
           "tipo": "simile"
         },
         {
@@ -1602,8 +1593,17 @@
           "titolo": "Nosferatu",
           "poster": "/1SftujfE9iqZpGJfnREO4IBeeqV.jpg",
           "anno": 2024,
-          "voto": 6.714,
-          "votanti": 3942,
+          "voto": 6.715,
+          "votanti": 3944,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 571384,
+          "titolo": "Come Play - Gioca con me",
+          "poster": "/509K6lJvtYF1yr286grzTVeNYgk.jpg",
+          "anno": 2020,
+          "voto": 6.421,
+          "votanti": 764,
           "tipo": "simile"
         },
         {
@@ -1612,7 +1612,7 @@
           "poster": "/mOYrwxKqyoL9o90zYpQbkfdHeZV.jpg",
           "anno": 2013,
           "voto": 6.701,
-          "votanti": 4733,
+          "votanti": 4737,
           "tipo": "simile"
         },
         {
@@ -1625,6 +1625,15 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 632357,
+          "titolo": "Il sacro male",
+          "poster": "/9izLJGrMugVxNGGx37E9kf7DEoV.jpg",
+          "anno": 2021,
+          "voto": 6.545,
+          "votanti": 2286,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 1160003,
           "titolo": "Night of the Hunted: La caccia",
           "poster": "/2bjA42z4yZPMG6QuCEaazxUTwvr.jpg",
@@ -1634,21 +1643,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 571384,
-          "titolo": "Come Play - Gioca con me",
-          "poster": "/509K6lJvtYF1yr286grzTVeNYgk.jpg",
-          "anno": 2020,
-          "voto": 6.422,
-          "votanti": 763,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 628847,
           "titolo": "Trap House",
           "poster": "/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
           "anno": 2025,
-          "voto": 6.676,
-          "votanti": 315,
+          "voto": 6.661,
+          "votanti": 316,
           "tipo": "attore",
           "attore": "Inde Navarrette"
         }
@@ -1761,20 +1761,20 @@
       "releaseUS": "2026-05-29",
       "poster": "/mene1ewQ03sW3aievfnaCyEZD8t.jpg",
       "backdrop": "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "tmdbRating": 7.066,
-      "tmdbVotes": 3168,
-      "popularity": 98.2806,
+      "tmdbRating": 7.064,
+      "tmdbVotes": 3179,
+      "popularity": 92.7503,
       "budget": 10000000,
       "revenue": 394122453,
       "tagline": "Non dovresti essere qui.",
       "scoperte": [
         {
-          "tmdbId": 913290,
-          "titolo": "Barbarian",
-          "poster": "/oUcJ7FMDODJ5wKgL3g4RCoYJ68Z.jpg",
-          "anno": 2022,
-          "voto": 6.87,
-          "votanti": 3473,
+          "tmdbId": 24740,
+          "titolo": "Entity",
+          "poster": "/aUm4Jn9q55OhdHVzYWAUBXNY4G7.jpg",
+          "anno": 1982,
+          "voto": 6.85,
+          "votanti": 599,
           "tipo": "simile"
         },
         {
@@ -1787,21 +1787,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 24740,
-          "titolo": "Entity",
-          "poster": "/aUm4Jn9q55OhdHVzYWAUBXNY4G7.jpg",
-          "anno": 1982,
-          "voto": 6.844,
-          "votanti": 597,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 8413,
           "titolo": "Punto di non ritorno",
           "poster": "/hfuo1sN4pIv0zBPGjPiiddD9G7f.jpg",
           "anno": 1997,
           "voto": 6.595,
-          "votanti": 3455,
+          "votanti": 3458,
           "tipo": "simile"
         },
         {
@@ -1810,7 +1801,7 @@
           "poster": "/dDFEyNocDqewbAu3T47KS9HWxWB.jpg",
           "anno": 1977,
           "voto": 7.335,
-          "votanti": 2823,
+          "votanti": 2825,
           "tipo": "simile"
         },
         {
@@ -1818,17 +1809,8 @@
           "titolo": "Paranormal Activity",
           "poster": "/joyPBoGGy7BUTdm8684vTPTCIJa.jpg",
           "anno": 2007,
-          "voto": 6.058,
-          "votanti": 5564,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 345911,
-          "titolo": "Lights Out - Terrore nel buio",
-          "poster": "/sudhrgCp0Pb4FnA66Qvq8WGIj7M.jpg",
-          "anno": 2016,
-          "voto": 6.38,
-          "votanti": 4218,
+          "voto": 6.059,
+          "votanti": 5566,
           "tipo": "simile"
         },
         {
@@ -1837,7 +1819,25 @@
           "poster": "/pgrboB2BSjSgFpy6IlZV32LkUx.jpg",
           "anno": 2000,
           "voto": 6.283,
-          "votanti": 1784,
+          "votanti": 1785,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 345911,
+          "titolo": "Lights Out - Terrore nel buio",
+          "poster": "/sudhrgCp0Pb4FnA66Qvq8WGIj7M.jpg",
+          "anno": 2016,
+          "voto": 6.38,
+          "votanti": 4219,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 423108,
+          "titolo": "The Conjuring - Per ordine del diavolo",
+          "poster": "/9ujaFDOZCbBI72YFtNzCRuiOxpD.jpg",
+          "anno": 2021,
+          "voto": 7.339,
+          "votanti": 6692,
           "tipo": "simile"
         },
         {
@@ -1846,7 +1846,7 @@
           "poster": "/uH0dFlOQI6V613yTiGTvg3PMJum.jpg",
           "anno": 2016,
           "voto": 7.425,
-          "votanti": 23860,
+          "votanti": 23871,
           "tipo": "attore",
           "attore": "Chiwetel Ejiofor"
         },
@@ -1856,7 +1856,7 @@
           "poster": "/ic1Ojv8jurZn4dFywHPBrvXMduf.jpg",
           "anno": 2015,
           "voto": 7.707,
-          "votanti": 21764,
+          "votanti": 21773,
           "tipo": "attore",
           "attore": "Chiwetel Ejiofor"
         },
@@ -1866,7 +1866,7 @@
           "poster": "/7ZMWeyQ9ds9J9u9segTLPxTfVSO.jpg",
           "anno": 2009,
           "voto": 5.895,
-          "votanti": 12999,
+          "votanti": 13003,
           "tipo": "attore",
           "attore": "Chiwetel Ejiofor"
         },
@@ -1876,7 +1876,7 @@
           "poster": "/7JOXySajgRmSOKNQhGnp46MMl41.jpg",
           "anno": 2021,
           "voto": 7.427,
-          "votanti": 1953,
+          "votanti": 1954,
           "tipo": "attore",
           "attore": "Renate Reinsve"
         },
@@ -1885,8 +1885,8 @@
           "titolo": "Sentimental Value",
           "poster": "/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg",
           "anno": 2025,
-          "voto": 7.5,
-          "votanti": 1075,
+          "voto": 7.47,
+          "votanti": 1076,
           "tipo": "attore",
           "attore": "Renate Reinsve"
         },
@@ -1895,8 +1895,8 @@
           "titolo": "A Different Man",
           "poster": "/f4aeNM8hDsUWiq4TCeuvMDMwnLN.jpg",
           "anno": 2024,
-          "voto": 6.906,
-          "votanti": 504,
+          "voto": 6.9,
+          "votanti": 505,
           "tipo": "attore",
           "attore": "Renate Reinsve"
         }
@@ -2007,9 +2007,9 @@
       "releaseUS": "2026-06-12",
       "poster": "/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg",
       "backdrop": "/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "tmdbRating": 7.5,
-      "tmdbVotes": 3224,
-      "popularity": 105.6936,
+      "tmdbRating": 7.468,
+      "tmdbVotes": 3238,
+      "popularity": 102.6302,
       "budget": 115000000,
       "revenue": 241186430,
       "tagline": "Meritiamo di sapere",
@@ -2020,7 +2020,7 @@
           "poster": "/reQUXXUd0WeoIJiSvYjlGLRGpXR.jpg",
           "anno": 2005,
           "voto": 6.57,
-          "votanti": 9485,
+          "votanti": 9494,
           "tipo": "simile"
         },
         {
@@ -2029,7 +2029,7 @@
           "poster": "/4N13nqyKaLTx3v2kYX3wFkFEfTd.jpg",
           "anno": 1971,
           "voto": 7.057,
-          "votanti": 835,
+          "votanti": 838,
           "tipo": "simile"
         },
         {
@@ -2037,8 +2037,8 @@
           "titolo": "La quinta onda",
           "poster": "/5FHeJI9BnAXfZ840njB5NThim3O.jpg",
           "anno": 2016,
-          "voto": 5.945,
-          "votanti": 6143,
+          "voto": 5.944,
+          "votanti": 6144,
           "tipo": "simile"
         },
         {
@@ -2056,7 +2056,16 @@
           "poster": "/8EUnGlnPlleaNHt5dLGPK5GubQT.jpg",
           "anno": 2002,
           "voto": 7.355,
-          "votanti": 9900,
+          "votanti": 9907,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 11379,
+          "titolo": "Le avventure di Buckaroo Banzai nella quarta dimensione",
+          "poster": "/7yqFHvpGFw4xafpmor3Z3nHJh6I.jpg",
+          "anno": 1984,
+          "voto": 5.954,
+          "votanti": 514,
           "tipo": "simile"
         },
         {
@@ -2065,16 +2074,7 @@
           "poster": "/eBedIu1XtSqjTtMBGdF7O6Hddnh.jpg",
           "anno": 2009,
           "voto": 6.265,
-          "votanti": 5972,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 11379,
-          "titolo": "Le avventure di Buckaroo Banzai nella quarta dimensione",
-          "poster": "/7yqFHvpGFw4xafpmor3Z3nHJh6I.jpg",
-          "anno": 1984,
-          "voto": 5.958,
-          "votanti": 512,
+          "votanti": 5975,
           "tipo": "simile"
         },
         {
@@ -2082,8 +2082,8 @@
           "titolo": "Al vertice della tensione",
           "poster": "/uUY1q0d5ysvJbnn7x6RovypgTLC.jpg",
           "anno": 2002,
-          "voto": 6.375,
-          "votanti": 2026,
+          "voto": 6.372,
+          "votanti": 2030,
           "tipo": "simile"
         },
         {
@@ -2092,7 +2092,7 @@
           "poster": "/sTwFYSbEJzZfBO0518Jl5Tsit4Z.jpg",
           "anno": 2018,
           "voto": 7.395,
-          "votanti": 15683,
+          "votanti": 15687,
           "tipo": "attore",
           "attore": "Emily Blunt"
         },
@@ -2102,7 +2102,7 @@
           "poster": "/AbzpU4ookiyWFmiq1bTZwjNl7Y1.jpg",
           "anno": 2014,
           "voto": 7.643,
-          "votanti": 15464,
+          "votanti": 15473,
           "tipo": "attore",
           "attore": "Emily Blunt"
         },
@@ -2112,7 +2112,7 @@
           "poster": "/34r7kwVQh9UDGgAkA1EBDUWn7Sx.jpg",
           "anno": 2006,
           "voto": 7.436,
-          "votanti": 14194,
+          "votanti": 14200,
           "tipo": "attore",
           "attore": "Emily Blunt"
         },
@@ -2121,8 +2121,8 @@
           "titolo": "Cenerentola",
           "poster": "/e5ptdIKFxaWVanL2b05CIrU8zMx.jpg",
           "anno": 2015,
-          "voto": 6.825,
-          "votanti": 7501,
+          "voto": 6.824,
+          "votanti": 7502,
           "tipo": "attore",
           "attore": "Josh O'Connor"
         },
@@ -2131,8 +2131,8 @@
           "titolo": "Wake Up Dead Man - Knives Out",
           "poster": "/db8j0xU82lzWKX0SXrPY5tFrzwA.jpg",
           "anno": 2025,
-          "voto": 7.21,
-          "votanti": 2832,
+          "voto": 7.208,
+          "votanti": 2839,
           "tipo": "attore",
           "attore": "Josh O'Connor"
         },
@@ -2142,7 +2142,7 @@
           "poster": "/3YwvGzL96cJLOSRB0S4fnFeuxeh.jpg",
           "anno": 2020,
           "voto": 7.001,
-          "votanti": 2001,
+          "votanti": 2002,
           "tipo": "attore",
           "attore": "Josh O'Connor"
         }
@@ -2151,7 +2151,7 @@
         {
           "name": "Emily Blunt",
           "character": "Margaret Fairchild",
-          "profile": "/mjvs6fx2v9237HCLYZbgh3QQASb.jpg"
+          "profile": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
         },
         {
           "name": "Josh O'Connor",
@@ -2255,29 +2255,20 @@
       "releaseUS": "2026-07-17",
       "poster": "/qQhInj9fw3S2bMbiEujVldthgKe.jpg",
       "backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "tmdbRating": 7.998,
-      "tmdbVotes": 3537,
-      "popularity": 464.1594,
+      "tmdbRating": 8,
+      "tmdbVotes": 3553,
+      "popularity": 437.8516,
       "budget": 250000000,
       "revenue": 1631536965,
       "tagline": "Ogni leggenda ha un inizio. Ogni eroe trova la sua strada.",
       "scoperte": [
         {
-          "tmdbId": 652,
-          "titolo": "Troy",
-          "poster": "/6n8BiphW9fvqC6biB0RMfblqi43.jpg",
-          "anno": 2004,
-          "voto": 7.191,
-          "votanti": 11482,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 9387,
           "titolo": "Conan il barbaro",
           "poster": "/knYhySE692FaEPMvN5P434x8oLC.jpg",
           "anno": 1982,
-          "voto": 6.802,
-          "votanti": 2905,
+          "voto": 6.801,
+          "votanti": 2907,
           "tipo": "simile"
         },
         {
@@ -2285,17 +2276,8 @@
           "titolo": "Immortals",
           "poster": "/85Qw9VfnPpKrWfDsvTy2H8p8CGk.jpg",
           "anno": 2011,
-          "voto": 6.053,
-          "votanti": 2891,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 666750,
-          "titolo": "Dragonheart: Vengeance",
-          "poster": "/qs6gz6atyQcAvqC6qZaslOjliUG.jpg",
-          "anno": 2021,
-          "voto": 6.9,
-          "votanti": 144,
+          "voto": 6.051,
+          "votanti": 2893,
           "tipo": "simile"
         },
         {
@@ -2304,16 +2286,7 @@
           "poster": "/FVnPFS1hFjqAZxJGxcfyRnPmos.jpg",
           "anno": 1984,
           "voto": 6.139,
-          "votanti": 1722,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 388191,
-          "titolo": "Mythica: The Iron Crown",
-          "poster": "/8y3G8g7E7SXZ74XDt6gaxyfELse.jpg",
-          "anno": 2016,
-          "voto": 6.019,
-          "votanti": 81,
+          "votanti": 1723,
           "tipo": "simile"
         },
         {
@@ -2331,7 +2304,34 @@
           "poster": "/eVIPtdaoo6SygyF9TFk99w9q0om.jpg",
           "anno": 2014,
           "voto": 5.807,
-          "votanti": 4431,
+          "votanti": 4432,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 1966,
+          "titolo": "Alexander",
+          "poster": "/liFmkALos2VY6UiPyEuSqjGIM2y.jpg",
+          "anno": 2004,
+          "voto": 5.96,
+          "votanti": 3601,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 17897,
+          "titolo": "Il viaggio fantastico di Sinbad",
+          "poster": "/lrXirhR6KFU8cNK34dkntOs799l.jpg",
+          "anno": 1973,
+          "voto": 6.7,
+          "votanti": 271,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 31510,
+          "titolo": "Ben-Hur: Una storia di Cristo",
+          "poster": "/aCohFCJNxPner7VzjzyNN7H8BgV.jpg",
+          "anno": 1925,
+          "voto": 7.326,
+          "votanti": 115,
           "tipo": "simile"
         },
         {
@@ -2340,7 +2340,7 @@
           "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
           "anno": 2014,
           "voto": 8.487,
-          "votanti": 41073,
+          "votanti": 41087,
           "tipo": "attore",
           "attore": "Matt Damon"
         },
@@ -2350,7 +2350,7 @@
           "poster": "/iunkSeLonYKVmp89zCJuJVptUTU.jpg",
           "anno": 2017,
           "voto": 7.58,
-          "votanti": 22440,
+          "votanti": 22448,
           "tipo": "attore",
           "attore": "Matt Damon"
         },
@@ -2360,7 +2360,7 @@
           "poster": "/ic1Ojv8jurZn4dFywHPBrvXMduf.jpg",
           "anno": 2015,
           "voto": 7.707,
-          "votanti": 21763,
+          "votanti": 21773,
           "tipo": "attore",
           "attore": "Matt Damon"
         },
@@ -2370,7 +2370,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32825,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Tom Holland"
         },
@@ -2380,7 +2380,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28584,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Tom Holland"
         },
@@ -2389,8 +2389,8 @@
           "titolo": "Captain America: Civil War",
           "poster": "/zV6uLEHFFjrGBAogwU9CoHSmPPY.jpg",
           "anno": 2016,
-          "voto": 7.454,
-          "votanti": 24527,
+          "voto": 7.453,
+          "votanti": 24536,
           "tipo": "attore",
           "attore": "Tom Holland"
         }
@@ -2414,7 +2414,7 @@
         {
           "name": "Robert Pattinson",
           "character": "Antinous",
-          "profile": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "profile": "/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
         },
         {
           "name": "Himesh Patel",
@@ -2500,9 +2500,9 @@
       "releaseUS": "2026-07-10",
       "poster": "/kLxEGoygDHbOvxJIclXZbieoX45.jpg",
       "backdrop": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-      "tmdbRating": 7.719,
-      "tmdbVotes": 1461,
-      "popularity": 60.7456,
+      "tmdbRating": 7.7,
+      "tmdbVotes": 1466,
+      "popularity": 54.9377,
       "budget": 20000000,
       "revenue": 71491178,
       "tagline": "Ogni famiglia ha i suoi demoni.",
@@ -2512,8 +2512,8 @@
           "titolo": "La casa",
           "poster": "/1Vyw9Ak6lxCVmaBMuUzCv8jloV2.jpg",
           "anno": 2013,
-          "voto": 6.7,
-          "votanti": 5333,
+          "voto": 6.66,
+          "votanti": 5335,
           "tipo": "simile"
         },
         {
@@ -2530,8 +2530,8 @@
           "titolo": "Bring Her Back - Torna da me",
           "poster": "/AgwlVIZ5lzpXCErJFHtbh8SHE68.jpg",
           "anno": 2025,
-          "voto": 7.335,
-          "votanti": 1910,
+          "voto": 7.3,
+          "votanti": 1911,
           "tipo": "simile"
         },
         {
@@ -2548,17 +2548,8 @@
           "titolo": "Saw - Legacy",
           "poster": "/g4CTJCs9sbDetoXoZJ6LaMiQeMs.jpg",
           "anno": 2017,
-          "voto": 6.209,
-          "votanti": 4044,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 764,
-          "titolo": "La casa",
-          "poster": "/vxen8SpqtQlvIo7M113CEAbvRd3.jpg",
-          "anno": 1982,
-          "voto": 7.262,
-          "votanti": 4697,
+          "voto": 6.208,
+          "votanti": 4046,
           "tipo": "simile"
         },
         {
@@ -2580,12 +2571,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 480100,
+          "titolo": "Nightmare Cinema",
+          "poster": "/ftdhL4zamDnjSD4TML1ES79DueX.jpg",
+          "anno": 2018,
+          "voto": 5.829,
+          "votanti": 269,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 507076,
           "titolo": "Climax",
           "poster": "/7OPD5Pu5CdWD3FMJ7mV18Pp3mw7.jpg",
           "anno": 2018,
           "voto": 7.036,
-          "votanti": 2391,
+          "votanti": 2392,
           "tipo": "attore",
           "attore": "Souheila Yacoub"
         },
@@ -2595,7 +2595,7 @@
           "poster": "/l5tG3xcglOz16JUt3lYQjHSIFJd.jpg",
           "anno": 2013,
           "voto": 5.91,
-          "votanti": 5345,
+          "votanti": 5346,
           "tipo": "attore",
           "attore": "Tandi Wright"
         },
@@ -2604,8 +2604,8 @@
           "titolo": "Love and Monsters",
           "poster": "/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg",
           "anno": 2020,
-          "voto": 7.262,
-          "votanti": 4569,
+          "voto": 7.264,
+          "votanti": 4574,
           "tipo": "attore",
           "attore": "Tandi Wright"
         },
@@ -2614,8 +2614,8 @@
           "titolo": "Pearl",
           "poster": "/nUot1VZlbofMyEp2g9V89H0fLA2.jpg",
           "anno": 2022,
-          "voto": 7.236,
-          "votanti": 2720,
+          "voto": 7.235,
+          "votanti": 2723,
           "tipo": "attore",
           "attore": "Tandi Wright"
         }
@@ -2726,9 +2726,9 @@
       "releaseUS": "2026-03-20",
       "poster": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
       "backdrop": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "tmdbRating": 8.644,
-      "tmdbVotes": 7606,
-      "popularity": 103.1905,
+      "tmdbRating": 8.643,
+      "tmdbVotes": 7618,
+      "popularity": 95.7346,
       "budget": 200000000,
       "revenue": 684234722,
       "tagline": "Credi nell'impossibile.",
@@ -2748,7 +2748,7 @@
           "poster": "/ic1Ojv8jurZn4dFywHPBrvXMduf.jpg",
           "anno": 2015,
           "voto": 7.707,
-          "votanti": 21761,
+          "votanti": 21770,
           "tipo": "simile"
         },
         {
@@ -2757,7 +2757,7 @@
           "poster": "/waTyYuoFmZGfseO4Db9lU8AhD3v.jpg",
           "anno": 2002,
           "voto": 5.955,
-          "votanti": 1511,
+          "votanti": 1512,
           "tipo": "simile"
         },
         {
@@ -2774,26 +2774,8 @@
           "titolo": "Generazioni",
           "poster": "/AfcGNEIXlPSA20lGbkEdruRlr4r.jpg",
           "anno": 1994,
-          "voto": 6.523,
-          "votanti": 1549,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 154,
-          "titolo": "Star Trek II - L'ira di Khan",
-          "poster": "/2nHlpaWHtDgHEMJI38bfebeukAB.jpg",
-          "anno": 1982,
-          "voto": 7.449,
-          "votanti": 2203,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 830,
-          "titolo": "Il pianeta proibito",
-          "poster": "/8LPseCfcWN695W2HfXQtUMJxnvC.jpg",
-          "anno": 1956,
-          "voto": 7.262,
-          "votanti": 1096,
+          "voto": 6.519,
+          "votanti": 1550,
           "tipo": "simile"
         },
         {
@@ -2801,8 +2783,26 @@
           "titolo": "Guardiani della Galassia",
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
-          "voto": 7.9,
-          "votanti": 30252,
+          "voto": 7.907,
+          "votanti": 30260,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 49529,
+          "titolo": "John Carter",
+          "poster": "/5XmErjIN8WnOIDR8qF5qq9VKUEk.jpg",
+          "anno": 2012,
+          "voto": 6.385,
+          "votanti": 6272,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 157336,
+          "titolo": "Interstellar",
+          "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
+          "anno": 2014,
+          "voto": 8.486,
+          "votanti": 41084,
           "tipo": "simile"
         },
         {
@@ -2810,8 +2810,8 @@
           "titolo": "La La Land",
           "poster": "/cWYy1YTVaZRAuxLtX1tYNvtzAt1.jpg",
           "anno": 2016,
-          "voto": 7.9,
-          "votanti": 18437,
+          "voto": 7.896,
+          "votanti": 18446,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -2821,7 +2821,7 @@
           "poster": "/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
           "anno": 2011,
           "voto": 7.583,
-          "votanti": 13961,
+          "votanti": 13971,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -2831,7 +2831,7 @@
           "poster": "/pu5Q3YuYgSkfkVIdkChJVZjAaI5.jpg",
           "anno": 2004,
           "voto": 7.89,
-          "votanti": 12835,
+          "votanti": 12842,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -2840,8 +2840,8 @@
           "titolo": "Anatomia di una caduta",
           "poster": "/kSbp0b7QEB8xcyW0YK6RcdWLhG0.jpg",
           "anno": 2023,
-          "voto": 7.5,
-          "votanti": 3454,
+          "voto": 7.512,
+          "votanti": 3458,
           "tipo": "attore",
           "attore": "Sandra Hüller"
         },
@@ -2850,18 +2850,8 @@
           "titolo": "La zona d'interesse",
           "poster": "/qIcSYnugkFfyO8M6S8ge5sZsMb6.jpg",
           "anno": 2023,
-          "voto": 7.01,
-          "votanti": 2735,
-          "tipo": "attore",
-          "attore": "Sandra Hüller"
-        },
-        {
-          "tmdbId": 795813,
-          "titolo": "I'm Your Man",
-          "poster": "/l8cXyyugKO43fohGGQJbBpAvFL3.jpg",
-          "anno": 2021,
-          "voto": 6.736,
-          "votanti": 379,
+          "voto": 7.011,
+          "votanti": 2737,
           "tipo": "attore",
           "attore": "Sandra Hüller"
         }
@@ -2973,9 +2963,9 @@
       "releaseUS": "2026-02-13",
       "poster": "/bWniBa1w4Cb327bNSMJtqZXCp0H.jpg",
       "backdrop": "/nHKscpZcAPkh97OsJJjyE5yaVE0.jpg",
-      "tmdbRating": 6.657,
-      "tmdbVotes": 1325,
-      "popularity": 21.9186,
+      "tmdbRating": 6.66,
+      "tmdbVotes": 1330,
+      "popularity": 19.6609,
       "budget": 80000000,
       "revenue": 241601072,
       "tagline": "Lasciali Andare",
@@ -2994,8 +2984,8 @@
           "titolo": "La mappa che mi porta a te",
           "poster": "/jd2AkS2IbJSiCz1NYz7VfeMxwnN.jpg",
           "anno": 2025,
-          "voto": 6.669,
-          "votanti": 346,
+          "voto": 6.679,
+          "votanti": 347,
           "tipo": "simile"
         },
         {
@@ -3048,7 +3038,7 @@
           "titolo": "Maurice",
           "poster": "/P3Str6pLfEkjrZPV6fJ4afCiw4.jpg",
           "anno": 1987,
-          "voto": 7.611,
+          "voto": 7.6,
           "votanti": 633,
           "tipo": "simile"
         },
@@ -3058,7 +3048,7 @@
           "poster": "/hwg3pXw2m4HfRGbyRMIP8laf5Lf.jpg",
           "anno": 2013,
           "voto": 8.026,
-          "votanti": 26463,
+          "votanti": 26473,
           "tipo": "attore",
           "attore": "Margot Robbie"
         },
@@ -3067,8 +3057,8 @@
           "titolo": "Suicide Squad",
           "poster": "/gD4PQRGaSX27kxtRPUouebbkVuG.jpg",
           "anno": 2016,
-          "voto": 5.918,
-          "votanti": 22388,
+          "voto": 5.917,
+          "votanti": 22394,
           "tipo": "attore",
           "attore": "Margot Robbie"
         },
@@ -3077,8 +3067,8 @@
           "titolo": "C'era una volta a… Hollywood",
           "poster": "/wW5t1FNg3ZHQu5sXeShyaN3oU9Z.jpg",
           "anno": 2019,
-          "voto": 7.42,
-          "votanti": 15196,
+          "voto": 7.4,
+          "votanti": 15203,
           "tipo": "attore",
           "attore": "Margot Robbie"
         },
@@ -3088,7 +3078,7 @@
           "poster": "/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
           "anno": 2018,
           "voto": 7.154,
-          "votanti": 7508,
+          "votanti": 7509,
           "tipo": "attore",
           "attore": "Jacob Elordi"
         },
@@ -3098,7 +3088,7 @@
           "poster": "/vNe2CFQiBn6CvA6nMXmRXyanAaX.jpg",
           "anno": 2020,
           "voto": 7.598,
-          "votanti": 5169,
+          "votanti": 5170,
           "tipo": "attore",
           "attore": "Jacob Elordi"
         },
@@ -3107,8 +3097,8 @@
           "titolo": "Saltburn",
           "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
           "anno": 2023,
-          "voto": 6.94,
-          "votanti": 3091,
+          "voto": 6.939,
+          "votanti": 3097,
           "tipo": "attore",
           "attore": "Jacob Elordi"
         }
@@ -3137,7 +3127,7 @@
         {
           "name": "Alison Oliver",
           "character": "Isabella",
-          "profile": "/smN2B7M8SzM62vx6wJRcqSCEg1H.jpg"
+          "profile": "/2KYZWAdI6wGDyhD0sDEpj1d7wJC.jpg"
         },
         {
           "name": "Martin Clunes",
@@ -3219,9 +3209,9 @@
       "releaseUS": "2025-12-25",
       "poster": "/et9WEOYIel2xTEPL1xwBkifgO2V.jpg",
       "backdrop": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-      "tmdbRating": 7.365,
-      "tmdbVotes": 2164,
-      "popularity": 19.9822,
+      "tmdbRating": 7.4,
+      "tmdbVotes": 2168,
+      "popularity": 18.7818,
       "budget": 65000000,
       "revenue": 192406422,
       "tagline": "Sogna in grande",
@@ -3240,8 +3230,8 @@
           "titolo": "Toro scatenato",
           "poster": "/ier8B7zChS9iX5ODtx996OFfuBM.jpg",
           "anno": 1980,
-          "voto": 7.9,
-          "votanti": 4878,
+          "voto": 7.896,
+          "votanti": 4880,
           "tipo": "simile"
         },
         {
@@ -3259,7 +3249,7 @@
           "poster": "/lSW7y5wPud83gwjx5Upsyb8Zq5u.jpg",
           "anno": 2000,
           "voto": 7.402,
-          "votanti": 12679,
+          "votanti": 12688,
           "tipo": "simile"
         },
         {
@@ -3277,7 +3267,7 @@
           "poster": "/eX85odLydC12I99Mgi50EZppv1T.jpg",
           "anno": 2019,
           "voto": 7.171,
-          "votanti": 5556,
+          "votanti": 5557,
           "tipo": "simile"
         },
         {
@@ -3286,7 +3276,7 @@
           "poster": "/yyrSXrHsBVjSiPIfiP4jzQelBHS.jpg",
           "anno": 2017,
           "voto": 7.155,
-          "votanti": 4105,
+          "votanti": 4107,
           "tipo": "simile"
         },
         {
@@ -3303,8 +3293,8 @@
           "titolo": "Interstellar",
           "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
           "anno": 2014,
-          "voto": 8.487,
-          "votanti": 41073,
+          "voto": 8.486,
+          "votanti": 41087,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -3313,8 +3303,8 @@
           "titolo": "Chiamami col tuo nome",
           "poster": "/5FjIZfBgGJs2QVflieDNvPKVWVZ.jpg",
           "anno": 2017,
-          "voto": 8.081,
-          "votanti": 12932,
+          "voto": 8.08,
+          "votanti": 12937,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -3323,8 +3313,8 @@
           "titolo": "Don't Look Up",
           "poster": "/tDywZa4eLbKhmbwqU67NgiUh2U1.jpg",
           "anno": 2021,
-          "voto": 7.056,
-          "votanti": 9646,
+          "voto": 7.055,
+          "votanti": 9653,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -3334,7 +3324,7 @@
           "poster": "/o6IvnjWsAjPja21JA1EHo0XcYTy.jpg",
           "anno": 2012,
           "voto": 8.073,
-          "votanti": 39615,
+          "votanti": 39631,
           "tipo": "attore",
           "attore": "Gwyneth Paltrow"
         },
@@ -3344,7 +3334,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32826,
+          "votanti": 32836,
           "tipo": "attore",
           "attore": "Gwyneth Paltrow"
         },
@@ -3353,8 +3343,8 @@
           "titolo": "Iron Man",
           "poster": "/xWXuFC4FY0inQ1QsnDrE7fGwFEd.jpg",
           "anno": 2008,
-          "voto": 7.665,
-          "votanti": 28760,
+          "voto": 7.664,
+          "votanti": 28770,
           "tipo": "attore",
           "attore": "Gwyneth Paltrow"
         }
@@ -3469,9 +3459,9 @@
       "releaseUS": "2026-01-23",
       "poster": "/28ygujLDfyuRjxtF2PmblovDjsI.jpg",
       "backdrop": "/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-      "tmdbRating": 5.4,
-      "tmdbVotes": 812,
-      "popularity": 18.7917,
+      "tmdbRating": 5.375,
+      "tmdbVotes": 816,
+      "popularity": 18.6809,
       "budget": 23000000,
       "revenue": 47976996,
       "tagline": "Il senso di colpa è un posto che non potrai mai lasciare.",
@@ -3481,8 +3471,8 @@
           "titolo": "La città che aveva paura",
           "poster": "/dRmEIURRtB1Occ0mTomTky6MyB3.jpg",
           "anno": 2014,
-          "voto": 5.859,
-          "votanti": 544,
+          "voto": 5.856,
+          "votanti": 545,
           "tipo": "simile"
         },
         {
@@ -3491,7 +3481,7 @@
           "poster": "/qZzWBsUDxsjHvh1Rpy6AOIzYjcI.jpg",
           "anno": 2021,
           "voto": 5.992,
-          "votanti": 1824,
+          "votanti": 1825,
           "tipo": "simile"
         },
         {
@@ -3499,8 +3489,8 @@
           "titolo": "Come Play - Gioca con me",
           "poster": "/509K6lJvtYF1yr286grzTVeNYgk.jpg",
           "anno": 2020,
-          "voto": 6.422,
-          "votanti": 763,
+          "voto": 6.421,
+          "votanti": 764,
           "tipo": "simile"
         },
         {
@@ -3518,7 +3508,7 @@
           "poster": "/mOYrwxKqyoL9o90zYpQbkfdHeZV.jpg",
           "anno": 2013,
           "voto": 6.701,
-          "votanti": 4734,
+          "votanti": 4737,
           "tipo": "simile"
         },
         {
@@ -3526,8 +3516,8 @@
           "titolo": "Saw - Legacy",
           "poster": "/g4CTJCs9sbDetoXoZJ6LaMiQeMs.jpg",
           "anno": 2017,
-          "voto": 6.209,
-          "votanti": 4044,
+          "voto": 6.208,
+          "votanti": 4046,
           "tipo": "attore",
           "attore": "Hannah Emily Anderson"
         },
@@ -3545,7 +3535,7 @@
           "titolo": "Insidious - La porta rossa",
           "poster": "/buf6I7dM8TUlNvfZTTHl6MdEWyb.jpg",
           "anno": 2023,
-          "voto": 6.516,
+          "voto": 6.5,
           "votanti": 2096,
           "tipo": "simile"
         },
@@ -3554,8 +3544,8 @@
           "titolo": "War Horse",
           "poster": "/b3E5PijrCo4wEVH99ygoJ0Ma9Bd.jpg",
           "anno": 2011,
-          "voto": 7.304,
-          "votanti": 3759,
+          "voto": 7.303,
+          "votanti": 3760,
           "tipo": "attore",
           "attore": "Jeremy Irvine"
         },
@@ -3585,7 +3575,7 @@
           "poster": "/8S26XNWJXtOBWIOmUGTF87U0AqN.jpg",
           "anno": 2019,
           "voto": 5.959,
-          "votanti": 7277,
+          "votanti": 7280,
           "tipo": "attore",
           "attore": "Hannah Emily Anderson"
         }
@@ -3688,7 +3678,7 @@
       "backdrop": "/1BfOqbDhvtmAv7SwyobM5eTjQMm.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 2.8419,
+      "popularity": 2.6549,
       "budget": null,
       "revenue": null,
       "tagline": "They said I couldn't. I did it. And I filmed it.",
@@ -3746,9 +3736,9 @@
       "releaseUS": "2026-06-19",
       "poster": "/ckIa9nhOANsl3foUoufSnfoUBlz.jpg",
       "backdrop": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "tmdbRating": 8.347,
-      "tmdbVotes": 2022,
-      "popularity": 186.269,
+      "tmdbRating": 8.35,
+      "tmdbVotes": 2041,
+      "popularity": 173.6579,
       "budget": 250000000,
       "revenue": 1136476240,
       "tagline": "Ciao! Giochiamo!",
@@ -3859,9 +3849,9 @@
       "releaseUS": "2026-04-24",
       "poster": "/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg",
       "backdrop": "/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-      "tmdbRating": 8.653,
-      "tmdbVotes": 4268,
-      "popularity": 59.0143,
+      "tmdbRating": 8.651,
+      "tmdbVotes": 4280,
+      "popularity": 59.3039,
       "budget": 250000000,
       "revenue": 1032616139,
       "tagline": "Scopri come nasce un re",
@@ -3973,9 +3963,9 @@
       "releaseUS": null,
       "poster": "/gYvlK73gKsJAaGjndyyiaZerEFb.jpg",
       "backdrop": "/7Whk4F7xQYF5eUwJp50Oa8GvpVd.jpg",
-      "tmdbRating": 6.28,
+      "tmdbRating": 6.3,
       "tmdbVotes": 620,
-      "popularity": 3.7531,
+      "popularity": 3.5409,
       "budget": 28100000,
       "revenue": 73797878,
       "tagline": null,
@@ -4087,9 +4077,9 @@
       "releaseUS": "2025-12-19",
       "poster": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
       "backdrop": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "tmdbRating": 7.648,
-      "tmdbVotes": 4280,
-      "popularity": 70.5654,
+      "tmdbRating": 7.646,
+      "tmdbVotes": 4287,
+      "popularity": 67.2467,
       "budget": 350000000,
       "revenue": 1485999890,
       "tagline": "Il mondo di Pandora cambierà per sempre.",
@@ -4198,14 +4188,14 @@
       "rtScore": 92,
       "metascore": 73,
       "imdbRating": 7.3,
-      "imdbVotes": 153930,
+      "imdbVotes": 154081,
       "releaseFonte": "IT",
       "releaseGlobale": "2025-11-26",
       "releaseUS": "2025-11-26",
       "poster": "/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",
       "backdrop": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
       "tmdbRating": 7.674,
-      "tmdbVotes": 3396,
+      "tmdbVotes": 3397,
       "popularity": 72.4759,
       "budget": 150000000,
       "revenue": 1868208796,
@@ -4318,9 +4308,9 @@
       "releaseUS": "2026-04-03",
       "poster": "/3zdr031LjTG71QyeC7mWdyU19bE.jpg",
       "backdrop": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
-      "tmdbRating": 6.9,
-      "tmdbVotes": 1731,
-      "popularity": 33.5546,
+      "tmdbRating": 6.918,
+      "tmdbVotes": 1741,
+      "popularity": 32.7912,
       "budget": 28000000,
       "revenue": 132467533,
       "tagline": "Conosci davvero chi ami?",
@@ -4334,7 +4324,7 @@
         {
           "name": "Robert Pattinson",
           "character": "Charlie",
-          "profile": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "profile": "/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
         },
         {
           "name": "Alana Haim",
@@ -4430,8 +4420,8 @@
       "releaseUS": "2026-06-05",
       "poster": "/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg",
       "backdrop": "/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-      "tmdbRating": 6.418,
-      "tmdbVotes": 1825,
+      "tmdbRating": 6.415,
+      "tmdbVotes": 1830,
       "popularity": 102.3382,
       "budget": 30000000,
       "revenue": 231886052,
@@ -4547,8 +4537,8 @@
       "releaseUS": "2026-04-01",
       "poster": "/3OfIG4QIEkumrWQXrcCq8bUlv01.jpg",
       "backdrop": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
-      "tmdbRating": 8.237,
-      "tmdbVotes": 3630,
+      "tmdbRating": 8.2,
+      "tmdbVotes": 3634,
       "popularity": 81.7253,
       "budget": 110000000,
       "revenue": 1012203331,
@@ -4632,7 +4622,8 @@
       ],
       "countries": [
         "Belgio",
-        "Francia"
+        "Francia",
+        "USA"
       ],
       "runtime": 88,
       "trailer": "https://www.youtube.com/watch?v=J4arlV9xO-U",
@@ -4660,12 +4651,12 @@
       "imdbVotes": 13,
       "releaseFonte": "IT",
       "releaseGlobale": "2025-09-19",
-      "releaseUS": null,
+      "releaseUS": "2026-09-03",
       "poster": "/bl96nTxJhqadBkUXKkgcSU5AxRG.jpg",
       "backdrop": "/fnuJV4WwxGM8w784lGV7j32JVsG.jpg",
       "tmdbRating": 7.3,
       "tmdbVotes": 9,
-      "popularity": 5.3697,
+      "popularity": 5.23,
       "budget": null,
       "revenue": 8708076,
       "tagline": "Il destino del mondo è nelle sue zampe!",
@@ -4896,9 +4887,9 @@
       "releaseUS": "2026-03-06",
       "poster": "/k6gJLmAVZlEkFTv40YcPIaSBGkn.jpg",
       "backdrop": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "tmdbRating": 8.156,
-      "tmdbVotes": 2303,
-      "popularity": 50.9372,
+      "tmdbRating": 8.155,
+      "tmdbVotes": 2306,
+      "popularity": 47.6952,
       "budget": 150000000,
       "revenue": 389685783,
       "tagline": "Sii naturale.",
@@ -5010,7 +5001,7 @@
       "backdrop": "/wOkBd4oxrMjjrVczY0ycyH6FWr7.jpg",
       "tmdbRating": 5.964,
       "tmdbVotes": 28,
-      "popularity": 3.2793,
+      "popularity": 2.8317,
       "budget": null,
       "revenue": null,
       "tagline": null,
@@ -5122,9 +5113,9 @@
       "releaseUS": "2026-02-27",
       "poster": "/3b10Tv8RvLf2RmVK9zJ01ewSTVh.jpg",
       "backdrop": "/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
-      "tmdbRating": 6.246,
-      "tmdbVotes": 1259,
-      "popularity": 30.1257,
+      "tmdbRating": 6.245,
+      "tmdbVotes": 1261,
+      "popularity": 26.4555,
       "budget": 45000000,
       "revenue": 213835967,
       "tagline": "La paura torna a casa",
@@ -5236,8 +5227,8 @@
       "poster": "/4OchXepJLKSeFrLdd3Rk6Wj0H5R.jpg",
       "backdrop": "/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
       "tmdbRating": 7.707,
-      "tmdbVotes": 1007,
-      "popularity": 11.347,
+      "tmdbVotes": 1009,
+      "popularity": 11.0084,
       "budget": null,
       "revenue": 26585129,
       "tagline": "Felicità su misura per te!",
@@ -5350,9 +5341,9 @@
       "releaseUS": "2026-01-09",
       "poster": "/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg",
       "backdrop": "/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
-      "tmdbRating": 6.398,
-      "tmdbVotes": 1524,
-      "popularity": 33.6687,
+      "tmdbRating": 6.399,
+      "tmdbVotes": 1523,
+      "popularity": 31.9421,
       "budget": 90000000,
       "revenue": 44856736,
       "tagline": "La fine del mondo è solo l'inizio.",
@@ -5464,9 +5455,9 @@
       "releaseUS": "2026-01-30",
       "poster": "/2edNFsucd6n8EMOi7dvVhDw0g4A.jpg",
       "backdrop": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
-      "tmdbRating": 7.034,
-      "tmdbVotes": 2261,
-      "popularity": 25.7453,
+      "tmdbRating": 7.029,
+      "tmdbVotes": 2267,
+      "popularity": 23.1567,
       "budget": 40000000,
       "revenue": 94041481,
       "tagline": "Lei è Linda Liddle... ufficio strategy and planning. Ora è il capo.",
@@ -5579,8 +5570,8 @@
       "releaseUS": "2026-01-23",
       "poster": "/zhNy3atrXo4DOwmbWbWJx1qy9Wh.jpg",
       "backdrop": "/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
-      "tmdbRating": 7.083,
-      "tmdbVotes": 1658,
+      "tmdbRating": 7.079,
+      "tmdbVotes": 1663,
       "popularity": 19.2671,
       "budget": 60000000,
       "revenue": 54708061,
@@ -5695,7 +5686,7 @@
       "backdrop": "/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
       "tmdbRating": 7.535,
       "tmdbVotes": 43,
-      "popularity": 14.7538,
+      "popularity": 12.4154,
       "budget": null,
       "revenue": 15780498,
       "tagline": "Prima di essere Anthony Bourdain, era solo Tony.",
@@ -5809,7 +5800,7 @@
       "backdrop": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 8.4567,
+      "popularity": 8.4868,
       "budget": 40000000,
       "revenue": null,
       "tagline": "Guarda la paura in faccia",
@@ -5924,7 +5915,7 @@
       "backdrop": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 9.0106,
+      "popularity": 8.8448,
       "budget": 150000000,
       "revenue": null,
       "tagline": "Questi giochi saranno diversi",
@@ -6038,7 +6029,7 @@
       "backdrop": "/4uaHnYDDpUTj0nCg6YqBKab50YW.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 5.8464,
+      "popularity": 5.1296,
       "budget": null,
       "revenue": null,
       "tagline": null,
@@ -6047,7 +6038,7 @@
         {
           "name": "Robert Pattinson",
           "character": "Bruce Wayne / The Batman",
-          "profile": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "profile": "/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
         },
         {
           "name": "Jeffrey Wright",
@@ -6153,9 +6144,9 @@
       "releaseUS": "2001-11-16",
       "poster": "/4PBGbvbZKYBuTv5segH7i96sl9X.jpg",
       "backdrop": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
-      "tmdbRating": 7.9,
-      "tmdbVotes": 30156,
-      "popularity": 44.1886,
+      "tmdbRating": 7.903,
+      "tmdbVotes": 30166,
+      "popularity": 57.842,
       "budget": 125000000,
       "revenue": 1029374615,
       "tagline": "La magia ha inizio.",
@@ -6268,9 +6259,9 @@
       "releaseUS": "2025-10-17",
       "poster": "/73Lhoexx9xTjTBVsb5UUqqOzmH3.jpg",
       "backdrop": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
-      "tmdbRating": 7.6,
-      "tmdbVotes": 3811,
-      "popularity": 19.417,
+      "tmdbRating": 7.617,
+      "tmdbVotes": 3819,
+      "popularity": 20.8385,
       "budget": 120000000,
       "revenue": 480678,
       "tagline": "Solo i mostri giocano a fare Dio",
@@ -6299,7 +6290,7 @@
           "poster": "/6CPov1YcWUByY32mASEiJaVatk0.jpg",
           "anno": 2026,
           "voto": 6.11,
-          "votanti": 645,
+          "votanti": 646,
           "tipo": "simile"
         },
         {
@@ -6330,15 +6321,6 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 472269,
-          "titolo": "Possum",
-          "poster": "/w81BDf2Ob2EaugrvhjLqcYI2eEd.jpg",
-          "anno": 2018,
-          "voto": 6.148,
-          "votanti": 347,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 20481,
           "titolo": "Cabal",
           "poster": "/ez1JhNSKO7AMYoEB5ZpLID6Ch8H.jpg",
@@ -6348,12 +6330,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 472269,
+          "titolo": "Possum",
+          "poster": "/w81BDf2Ob2EaugrvhjLqcYI2eEd.jpg",
+          "anno": 2018,
+          "voto": 6.148,
+          "votanti": 347,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 140607,
           "titolo": "Star Wars: Il risveglio della Forza",
           "poster": "/uEDFRwKiTOsIsN5dkEPCj1laIAK.jpg",
           "anno": 2015,
-          "voto": 7.242,
-          "votanti": 20875,
+          "voto": 7.241,
+          "votanti": 20881,
           "tipo": "attore",
           "attore": "Oscar Isaac"
         },
@@ -6362,8 +6353,8 @@
           "titolo": "Spider-Man: Un nuovo universo",
           "poster": "/ps86PNqw9qCEA9eJD53t6RuiCkW.jpg",
           "anno": 2018,
-          "voto": 8.4,
-          "votanti": 17813,
+          "voto": 8.399,
+          "votanti": 17818,
           "tipo": "attore",
           "attore": "Oscar Isaac"
         },
@@ -6372,8 +6363,8 @@
           "titolo": "Star Wars: Gli ultimi Jedi",
           "poster": "/8qOzSPUWlBGfteuKFWJJTRpiFxI.jpg",
           "anno": 2017,
-          "voto": 6.739,
-          "votanti": 16645,
+          "voto": 6.738,
+          "votanti": 16649,
           "tipo": "attore",
           "attore": "Oscar Isaac"
         },
@@ -6383,7 +6374,7 @@
           "poster": "/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
           "anno": 2018,
           "voto": 7.154,
-          "votanti": 7508,
+          "votanti": 7509,
           "tipo": "attore",
           "attore": "Jacob Elordi"
         },
@@ -6393,7 +6384,7 @@
           "poster": "/vNe2CFQiBn6CvA6nMXmRXyanAaX.jpg",
           "anno": 2020,
           "voto": 7.598,
-          "votanti": 5169,
+          "votanti": 5170,
           "tipo": "attore",
           "attore": "Jacob Elordi"
         },
@@ -6402,8 +6393,8 @@
           "titolo": "Saltburn",
           "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
           "anno": 2023,
-          "voto": 6.94,
-          "votanti": 3091,
+          "voto": 6.939,
+          "votanti": 3097,
           "tipo": "attore",
           "attore": "Jacob Elordi"
         }
@@ -6516,39 +6507,20 @@
       "releaseUS": "2025-06-20",
       "poster": "/brgcJ6O5gC4k5kRuAClb72v0Fjk.jpg",
       "backdrop": "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
-      "tmdbRating": 6.603,
-      "tmdbVotes": 2924,
+      "tmdbRating": 6.604,
+      "tmdbVotes": 2929,
       "popularity": 26.1966,
       "budget": 60000000,
       "revenue": 151308832,
       "tagline": "Nessun posto è sicuro.",
       "scoperte": [
         {
-          "tmdbId": 1272837,
-          "titolo": "28 anni dopo - Il tempio delle ossa",
-          "poster": "/4YmnuJHhCtYvPdNwYB2fMaLEhUc.jpg",
-          "anno": 2026,
-          "voto": 7.094,
-          "votanti": 1709,
-          "tipo": "attore",
-          "attore": "Alfie Williams"
-        },
-        {
           "tmdbId": 1562,
           "titolo": "28 settimane dopo",
           "poster": "/5ANtw99se6v8xMfMU74cfYsrKcj.jpg",
           "anno": 2007,
-          "voto": 6.592,
-          "votanti": 5832,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 316727,
-          "titolo": "La notte del giudizio - Election Year",
-          "poster": "/8ZhuSP1QbBC87kk5FD2w5F2CTLU.jpg",
-          "anno": 2016,
-          "voto": 6.379,
-          "votanti": 5577,
+          "voto": 6.591,
+          "votanti": 5836,
           "tipo": "simile"
         },
         {
@@ -6561,12 +6533,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 316727,
+          "titolo": "La notte del giudizio - Election Year",
+          "poster": "/8ZhuSP1QbBC87kk5FD2w5F2CTLU.jpg",
+          "anno": 2016,
+          "voto": 6.378,
+          "votanti": 5578,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 11683,
           "titolo": "La terra dei morti viventi",
           "poster": "/6xQEtLUKdt7097n76WmNz9vW7Yt.jpg",
           "anno": 2005,
           "voto": 6.265,
-          "votanti": 1872,
+          "votanti": 1873,
           "tipo": "simile"
         },
         {
@@ -6597,12 +6578,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 399894,
+          "titolo": "Daylight's End",
+          "poster": "/sNDodM6si97uhiPhf5dTM6n6aDj.jpg",
+          "anno": 2016,
+          "voto": 5.832,
+          "votanti": 211,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 99861,
           "titolo": "Avengers: Age of Ultron",
           "poster": "/pYEHarIwyYSM1bXs5FtpL2GZELy.jpg",
           "anno": 2015,
-          "voto": 7.278,
-          "votanti": 24971,
+          "voto": 7.277,
+          "votanti": 24976,
           "tipo": "attore",
           "attore": "Aaron Taylor-Johnson"
         },
@@ -6612,7 +6602,7 @@
           "poster": "/t8i8kRBQbRHapK317bEYr8F3lpQ.jpg",
           "anno": 2014,
           "voto": 7.654,
-          "votanti": 20421,
+          "votanti": 20427,
           "tipo": "attore",
           "attore": "Aaron Taylor-Johnson"
         },
@@ -6622,9 +6612,19 @@
           "poster": "/1NCKfyOSS22hVbNUIMGGvAVxt2W.jpg",
           "anno": 2010,
           "voto": 7.123,
-          "votanti": 12607,
+          "votanti": 12615,
           "tipo": "attore",
           "attore": "Aaron Taylor-Johnson"
+        },
+        {
+          "tmdbId": 1272837,
+          "titolo": "28 anni dopo - Il tempio delle ossa",
+          "poster": "/4YmnuJHhCtYvPdNwYB2fMaLEhUc.jpg",
+          "anno": 2026,
+          "voto": 7.091,
+          "votanti": 1717,
+          "tipo": "attore",
+          "attore": "Alfie Williams"
         }
       ],
       "castDetail": [
@@ -6733,38 +6733,20 @@
       "releaseUS": "2025-06-27",
       "poster": "/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg",
       "backdrop": "/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
-      "tmdbRating": 7.824,
-      "tmdbVotes": 4613,
-      "popularity": 35.3703,
+      "tmdbRating": 7.822,
+      "tmdbVotes": 4621,
+      "popularity": 31.6285,
       "budget": 300000000,
       "revenue": 634142436,
       "tagline": "Questo è solo l'inizio.",
       "scoperte": [
         {
-          "tmdbId": 168259,
-          "titolo": "Fast & Furious 7",
-          "poster": "/vkgvaBDCMVnVWcgIthTcCQEwvJe.jpg",
-          "anno": 2015,
-          "voto": 7.214,
-          "votanti": 11466,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 2119,
-          "titolo": "Giorni di tuono",
-          "poster": "/xXmMXKjHCiZk7vRNeUGa8chne7.jpg",
-          "anno": 1990,
-          "voto": 6.4,
-          "votanti": 1787,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 385128,
-          "titolo": "Fast & Furious 9: The Fast Saga",
-          "poster": "/o17wrpF3m9w2blQjglcFd5japvV.jpg",
-          "anno": 2021,
-          "voto": 6.987,
-          "votanti": 7840,
+          "tmdbId": 96721,
+          "titolo": "Rush",
+          "poster": "/nJSq8k42bbM3fFjJxOSAXyllVNu.jpg",
+          "anno": 2013,
+          "voto": 7.744,
+          "votanti": 8023,
           "tipo": "simile"
         },
         {
@@ -6774,6 +6756,24 @@
           "anno": 1969,
           "voto": 6,
           "votanti": 54,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 2119,
+          "titolo": "Giorni di tuono",
+          "poster": "/xXmMXKjHCiZk7vRNeUGa8chne7.jpg",
+          "anno": 1990,
+          "voto": 6.4,
+          "votanti": 1788,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 385128,
+          "titolo": "Fast & Furious 9: The Fast Saga",
+          "poster": "/o17wrpF3m9w2blQjglcFd5japvV.jpg",
+          "anno": 2021,
+          "voto": 6.986,
+          "votanti": 7842,
           "tipo": "simile"
         },
         {
@@ -6799,8 +6799,8 @@
           "titolo": "Superman",
           "poster": "/dsLFm6NtJJ8E2m9HAGXcxzHOmGg.jpg",
           "anno": 2025,
-          "voto": 7.328,
-          "votanti": 5401,
+          "voto": 7.327,
+          "votanti": 5409,
           "tipo": "simile"
         },
         {
@@ -6808,8 +6808,8 @@
           "titolo": "Fast & furious 6",
           "poster": "/wRaeuUuZyjdEoE5rN90Mge1isLW.jpg",
           "anno": 2013,
-          "voto": 6.817,
-          "votanti": 11339,
+          "voto": 6.816,
+          "votanti": 11342,
           "tipo": "simile"
         },
         {
@@ -6818,7 +6818,7 @@
           "poster": "/rtNLQ8HbPElzEfrHjrzSr07prKT.jpg",
           "anno": 1999,
           "voto": 8.437,
-          "votanti": 32804,
+          "votanti": 32811,
           "tipo": "attore",
           "attore": "Brad Pitt"
         },
@@ -6828,7 +6828,7 @@
           "poster": "/aa1jLbxTTuA6o5ucHoZh2khwNSo.jpg",
           "anno": 2009,
           "voto": 8.217,
-          "votanti": 24708,
+          "votanti": 24718,
           "tipo": "attore",
           "attore": "Brad Pitt"
         },
@@ -6838,7 +6838,7 @@
           "poster": "/1XHq0Z7BkjeQ9J5CLmWD0xX0DuB.jpg",
           "anno": 1995,
           "voto": 8.38,
-          "votanti": 23717,
+          "votanti": 23724,
           "tipo": "attore",
           "attore": "Brad Pitt"
         },
@@ -6847,7 +6847,7 @@
           "titolo": "L'uomo sul treno - The Commuter",
           "poster": "/4SA0ZfPzB8vgd8aMK0avDdmjUKl.jpg",
           "anno": 2018,
-          "voto": 6.4,
+          "voto": 6.369,
           "votanti": 4731,
           "tipo": "attore",
           "attore": "Damson Idris"
@@ -6858,7 +6858,7 @@
           "poster": "/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
           "anno": 2021,
           "voto": 6.351,
-          "votanti": 1982,
+          "votanti": 1983,
           "tipo": "attore",
           "attore": "Damson Idris"
         },
@@ -6979,9 +6979,9 @@
       "releaseUS": "2025-08-08",
       "poster": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
       "backdrop": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
-      "tmdbRating": 7.254,
-      "tmdbVotes": 3887,
-      "popularity": 35.6309,
+      "tmdbRating": 7.255,
+      "tmdbVotes": 3894,
+      "popularity": 29.8948,
       "budget": 38000000,
       "revenue": 269972492,
       "tagline": "La notte prima, alle 2:17, tutti i bambini della classe della professoressa Gandy si sono svegliati, sono scesi dal letto, sono andati di sotto, sono usciti  dalla porta di casa finendo nell'oscurità ...e non sono più tornati.",
@@ -6996,21 +6996,21 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 1038392,
-          "titolo": "The Conjuring: Il rito finale",
-          "poster": "/6NcHbhmPjLHaOfAHysNPxtyRsk1.jpg",
-          "anno": 2025,
-          "voto": 7,
-          "votanti": 2104,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 417384,
           "titolo": "Scary Stories to Tell in the Dark",
           "poster": "/2d6jjSJUQa6UJbPnEtTmpAuqwQi.jpg",
           "anno": 2019,
           "voto": 6.488,
           "votanti": 2923,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 1038392,
+          "titolo": "The Conjuring: Il rito finale",
+          "poster": "/6NcHbhmPjLHaOfAHysNPxtyRsk1.jpg",
+          "anno": 2025,
+          "voto": 6.95,
+          "votanti": 2104,
           "tipo": "simile"
         },
         {
@@ -7036,8 +7036,8 @@
           "titolo": "La casa dei 1000 corpi",
           "poster": "/8lO0Z5qQ8nUIz6YaYnw4PhNhRdX.jpg",
           "anno": 2003,
-          "voto": 6.2,
-          "votanti": 1823,
+          "voto": 6.194,
+          "votanti": 1824,
           "tipo": "simile"
         },
         {
@@ -7063,8 +7063,8 @@
           "titolo": "Noi siamo infinito",
           "poster": "/iCidwlhOwhvflxFbNCrQLzgX5vF.jpg",
           "anno": 2012,
-          "voto": 7.804,
-          "votanti": 11421,
+          "voto": 7.805,
+          "votanti": 11423,
           "tipo": "attore",
           "attore": "Julia Garner"
         },
@@ -7074,7 +7074,7 @@
           "poster": "/sG6qxhO1gV7LG8WsVRJNWacwp3Q.jpg",
           "anno": 2014,
           "voto": 6.402,
-          "votanti": 4259,
+          "votanti": 4261,
           "tipo": "attore",
           "attore": "Julia Garner"
         },
@@ -7083,8 +7083,8 @@
           "titolo": "I Fantastici 4 - Gli inizi",
           "poster": "/lnatQ2ZgpTJet7jqjGPRo2h9Xuw.jpg",
           "anno": 2025,
-          "voto": 6.949,
-          "votanti": 3823,
+          "voto": 6.9,
+          "votanti": 3829,
           "tipo": "attore",
           "attore": "Julia Garner"
         },
@@ -7094,7 +7094,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32828,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Josh Brolin"
         },
@@ -7104,7 +7104,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.907,
-          "votanti": 30253,
+          "votanti": 30262,
           "tipo": "attore",
           "attore": "Josh Brolin"
         },
@@ -7114,7 +7114,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28586,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Josh Brolin"
         }
@@ -7225,8 +7225,8 @@
       "releaseUS": "2025-12-05",
       "poster": "/8DPTPGLR86L52LkDWEDR9sYOXdb.jpg",
       "backdrop": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
-      "tmdbRating": 6.583,
-      "tmdbVotes": 1162,
+      "tmdbRating": 6.6,
+      "tmdbVotes": 1164,
       "popularity": 19.8281,
       "budget": 36000000,
       "revenue": 239568877,
@@ -7238,7 +7238,7 @@
           "poster": "/mmxEjGy1wHy4Frf8Uk1k7mdbW6A.jpg",
           "anno": 2023,
           "voto": 7.278,
-          "votanti": 5172,
+          "votanti": 5174,
           "tipo": "attore",
           "attore": "Piper Rubio"
         },
@@ -7256,8 +7256,8 @@
           "titolo": "La maledizione di Chucky",
           "poster": "/4wSDvfqDhCGVzQgtl6k0w5iMZSA.jpg",
           "anno": 2013,
-          "voto": 5.962,
-          "votanti": 1743,
+          "voto": 5.961,
+          "votanti": 1744,
           "tipo": "simile"
         },
         {
@@ -7270,15 +7270,6 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 2082,
-          "titolo": "Halloween - The Beginning",
-          "poster": "/8XVxPTpcoWGofrIyz6D99KmiPZa.jpg",
-          "anno": 2007,
-          "voto": 6.241,
-          "votanti": 2619,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 393345,
           "titolo": "Il culto di Chucky",
           "poster": "/fFMTx2juMMne0ctEggdmSjbQTbo.jpg",
@@ -7288,21 +7279,30 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 424139,
-          "titolo": "Halloween",
-          "poster": "/7T5m6WeZebQctaQ1KQsUWxI9YPt.jpg",
-          "anno": 2018,
-          "voto": 6.561,
-          "votanti": 5142,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 610253,
           "titolo": "Halloween Kills",
           "poster": "/4Goym9Pf1HXiqAAXTLFFAekEkKo.jpg",
           "anno": 2021,
           "voto": 6.399,
-          "votanti": 2974,
+          "votanti": 2975,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 396422,
+          "titolo": "Annabelle 2 - Creation",
+          "poster": "/ahf4b7dnLq8fh8Mo1sutoeM454P.jpg",
+          "anno": 2017,
+          "voto": 6.608,
+          "votanti": 6084,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 10225,
+          "titolo": "Venerdì 13: Parte VI - Jason vive",
+          "poster": "/iJh0Hk6zR9wsl2HNzkaSQOrWKk5.jpg",
+          "anno": 1986,
+          "voto": 6.286,
+          "votanti": 1398,
           "tipo": "simile"
         },
         {
@@ -7311,7 +7311,7 @@
           "poster": "/azsm2nqX2eMJQ2eI6FjCIk17ncx.jpg",
           "anno": 2012,
           "voto": 7.222,
-          "votanti": 23677,
+          "votanti": 23682,
           "tipo": "attore",
           "attore": "Josh Hutcherson"
         },
@@ -7320,8 +7320,8 @@
           "titolo": "Hunger Games: La ragazza di fuoco",
           "poster": "/oFQj7SBn9pGGc6ZuadhmQoSYWaD.jpg",
           "anno": 2013,
-          "voto": 7.425,
-          "votanti": 18738,
+          "voto": 7.4,
+          "votanti": 18742,
           "tipo": "attore",
           "attore": "Josh Hutcherson"
         },
@@ -7331,7 +7331,7 @@
           "poster": "/9LZSYohDOJkLU2TyRvPM1zIo62e.jpg",
           "anno": 2014,
           "voto": 6.816,
-          "votanti": 16968,
+          "votanti": 16974,
           "tipo": "attore",
           "attore": "Josh Hutcherson"
         }
@@ -7442,9 +7442,9 @@
       "releaseUS": "2021-10-22",
       "poster": "/zolKD2yscZd86GviNa6pBPc6N9o.jpg",
       "backdrop": "/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
-      "tmdbRating": 7.8,
-      "tmdbVotes": 15484,
-      "popularity": 42.3942,
+      "tmdbRating": 7.784,
+      "tmdbVotes": 15493,
+      "popularity": 37.4396,
       "budget": 165000000,
       "revenue": 410668500,
       "tagline": "L'inizio di un viaggio straordinario",
@@ -7468,15 +7468,6 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 80274,
-          "titolo": "Ender's Game",
-          "poster": "/a8nXYg6hIRnUy5Xli0kBUZ1xtKT.jpg",
-          "anno": 2013,
-          "voto": 6.595,
-          "votanti": 6399,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 1984,
           "titolo": "Nel 2000 non sorge il sole",
           "poster": "/8jKgNtEKiY7xinDM0TjVCvjDI0a.jpg",
@@ -7486,12 +7477,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 80274,
+          "titolo": "Ender's Game",
+          "poster": "/a8nXYg6hIRnUy5Xli0kBUZ1xtKT.jpg",
+          "anno": 2013,
+          "voto": 6.594,
+          "votanti": 6402,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 339964,
           "titolo": "Valerian e la città dei mille pianeti",
           "poster": "/o6Ahw1VwfPVxsLtYKjw81gQ5rRa.jpg",
           "anno": 2017,
           "voto": 6.655,
-          "votanti": 8197,
+          "votanti": 8199,
           "tipo": "simile"
         },
         {
@@ -7499,8 +7499,8 @@
           "titolo": "Macchine mortali",
           "poster": "/yX19mO9iZuWPxVv1iBd27PKIg43.jpg",
           "anno": 2018,
-          "voto": 6.251,
-          "votanti": 5313,
+          "voto": 6.25,
+          "votanti": 5317,
           "tipo": "simile"
         },
         {
@@ -7508,8 +7508,8 @@
           "titolo": "Hunger Games - La ballata dell'usignolo e del serpente",
           "poster": "/bk2Bh5mD3uvyKDaXKTAOGfoCTq5.jpg",
           "anno": 2023,
-          "voto": 6.957,
-          "votanti": 3651,
+          "voto": 6.956,
+          "votanti": 3654,
           "tipo": "simile"
         },
         {
@@ -7517,8 +7517,8 @@
           "titolo": "Star Wars: Episodio III - La vendetta dei Sith",
           "poster": "/jM5jU9JzxnyE8CXqiOpc2ZPIbEd.jpg",
           "anno": 2005,
-          "voto": 7.474,
-          "votanti": 15262,
+          "voto": 7.473,
+          "votanti": 15268,
           "tipo": "simile"
         },
         {
@@ -7526,8 +7526,8 @@
           "titolo": "Interstellar",
           "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
           "anno": 2014,
-          "voto": 8.487,
-          "votanti": 41073,
+          "voto": 8.486,
+          "votanti": 41087,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -7536,8 +7536,8 @@
           "titolo": "Chiamami col tuo nome",
           "poster": "/5FjIZfBgGJs2QVflieDNvPKVWVZ.jpg",
           "anno": 2017,
-          "voto": 8.081,
-          "votanti": 12932,
+          "voto": 8.08,
+          "votanti": 12937,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -7546,8 +7546,8 @@
           "titolo": "Don't Look Up",
           "poster": "/tDywZa4eLbKhmbwqU67NgiUh2U1.jpg",
           "anno": 2021,
-          "voto": 7.056,
-          "votanti": 9646,
+          "voto": 7.055,
+          "votanti": 9653,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -7556,8 +7556,8 @@
           "titolo": "The Greatest Showman",
           "poster": "/lnvh46MW76GXSpRnAmIq1ERE6Sz.jpg",
           "anno": 2017,
-          "voto": 7.854,
-          "votanti": 10217,
+          "voto": 7.853,
+          "votanti": 10220,
           "tipo": "attore",
           "attore": "Rebecca Ferguson"
         },
@@ -7567,7 +7567,7 @@
           "poster": "/tykt4haw6L1PQBdN4k9eUai2gjc.jpg",
           "anno": 2015,
           "voto": 7.225,
-          "votanti": 9915,
+          "votanti": 9921,
           "tipo": "attore",
           "attore": "Rebecca Ferguson"
         },
@@ -7577,7 +7577,7 @@
           "poster": "/rGqDSzMrc7pGfPSzDv7FBxrf2dH.jpg",
           "anno": 2018,
           "voto": 7.451,
-          "votanti": 9344,
+          "votanti": 9348,
           "tipo": "attore",
           "attore": "Rebecca Ferguson"
         }
@@ -7688,9 +7688,9 @@
       "releaseUS": "2024-03-01",
       "poster": "/nhdQxDCI64rMgypYZpsF7UvbdJA.jpg",
       "backdrop": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
-      "tmdbRating": 8.135,
-      "tmdbVotes": 8511,
-      "popularity": 48.5131,
+      "tmdbRating": 8.134,
+      "tmdbVotes": 8521,
+      "popularity": 47.1265,
       "budget": 190000000,
       "revenue": 714844358,
       "tagline": "Lunga vita ai combattenti",
@@ -7700,8 +7700,8 @@
           "titolo": "Star Wars: Episodio III - La vendetta dei Sith",
           "poster": "/jM5jU9JzxnyE8CXqiOpc2ZPIbEd.jpg",
           "anno": 2005,
-          "voto": 7.474,
-          "votanti": 15261,
+          "voto": 7.473,
+          "votanti": 15268,
           "tipo": "simile"
         },
         {
@@ -7710,7 +7710,7 @@
           "poster": "/4Yk1YdSv8oAWSzbIEiolN1CijmT.jpg",
           "anno": 2021,
           "voto": 6.544,
-          "votanti": 2678,
+          "votanti": 2679,
           "tipo": "simile"
         },
         {
@@ -7719,7 +7719,7 @@
           "poster": "/5FHeJI9BnAXfZ840njB5NThim3O.jpg",
           "anno": 2016,
           "voto": 5.944,
-          "votanti": 6142,
+          "votanti": 6144,
           "tipo": "simile"
         },
         {
@@ -7727,8 +7727,8 @@
           "titolo": "Prince of Persia - Le sabbie del tempo",
           "poster": "/8NYXMJ4G5fWQyv2UM2SKzfBx3Rn.jpg",
           "anno": 2010,
-          "voto": 6.311,
-          "votanti": 7310,
+          "voto": 6.312,
+          "votanti": 7315,
           "tipo": "simile"
         },
         {
@@ -7736,26 +7736,8 @@
           "titolo": "Star Trek Beyond",
           "poster": "/m8PQxOsXRP8lh1nEdUnVmA5ooJ5.jpg",
           "anno": 2016,
-          "voto": 6.792,
-          "votanti": 7241,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 294254,
-          "titolo": "Maze Runner - La fuga",
-          "poster": "/uaNxsWuNFDjfqrR37Cm0JGkM22o.jpg",
-          "anno": 2015,
-          "voto": 6.731,
-          "votanti": 11221,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 127585,
-          "titolo": "X-Men - Giorni di un futuro passato",
-          "poster": "/rqXB6fgPqUPInS2H88q1eRWmCq6.jpg",
-          "anno": 2014,
-          "voto": 7.535,
-          "votanti": 16616,
+          "voto": 6.79,
+          "votanti": 7245,
           "tipo": "simile"
         },
         {
@@ -7763,8 +7745,26 @@
           "titolo": "Ender's Game",
           "poster": "/a8nXYg6hIRnUy5Xli0kBUZ1xtKT.jpg",
           "anno": 2013,
-          "voto": 6.595,
-          "votanti": 6398,
+          "voto": 6.594,
+          "votanti": 6402,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 127585,
+          "titolo": "X-Men - Giorni di un futuro passato",
+          "poster": "/rqXB6fgPqUPInS2H88q1eRWmCq6.jpg",
+          "anno": 2014,
+          "voto": 7.534,
+          "votanti": 16622,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 447365,
+          "titolo": "Guardiani della Galassia Vol. 3",
+          "poster": "/sLMcJW43RrNcLcyVjgueqTM2eO2.jpg",
+          "anno": 2023,
+          "voto": 7.931,
+          "votanti": 8774,
           "tipo": "simile"
         },
         {
@@ -7772,8 +7772,8 @@
           "titolo": "Interstellar",
           "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
           "anno": 2014,
-          "voto": 8.487,
-          "votanti": 41073,
+          "voto": 8.486,
+          "votanti": 41087,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -7782,8 +7782,8 @@
           "titolo": "Chiamami col tuo nome",
           "poster": "/5FjIZfBgGJs2QVflieDNvPKVWVZ.jpg",
           "anno": 2017,
-          "voto": 8.081,
-          "votanti": 12932,
+          "voto": 8.08,
+          "votanti": 12937,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -7792,8 +7792,8 @@
           "titolo": "Don't Look Up",
           "poster": "/tDywZa4eLbKhmbwqU67NgiUh2U1.jpg",
           "anno": 2021,
-          "voto": 7.056,
-          "votanti": 9646,
+          "voto": 7.055,
+          "votanti": 9653,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -7802,8 +7802,8 @@
           "titolo": "Spider-Man: Homecoming",
           "poster": "/9OYK3q83z0LmFOx3xZXfdaVck2d.jpg",
           "anno": 2017,
-          "voto": 7.334,
-          "votanti": 23847,
+          "voto": 7.333,
+          "votanti": 23853,
           "tipo": "attore",
           "attore": "Zendaya"
         },
@@ -7813,7 +7813,7 @@
           "poster": "/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
           "anno": 2021,
           "voto": 7.946,
-          "votanti": 23035,
+          "votanti": 23046,
           "tipo": "attore",
           "attore": "Zendaya"
         },
@@ -7822,8 +7822,8 @@
           "titolo": "Spider-Man: Far from Home",
           "poster": "/blWCg2gs0uQiEl4e3ml6j3yDSKg.jpg",
           "anno": 2019,
-          "voto": 7.394,
-          "votanti": 17557,
+          "voto": 7.393,
+          "votanti": 17562,
           "tipo": "attore",
           "attore": "Zendaya"
         }
@@ -7837,7 +7837,7 @@
         {
           "name": "Zendaya",
           "character": "Chani",
-          "profile": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+          "profile": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
         },
         {
           "name": "Rebecca Ferguson",
@@ -7872,7 +7872,7 @@
         {
           "name": "Christopher Walken",
           "character": "Emperor",
-          "profile": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+          "profile": "/wShPFtq1fjTH4zx7W6SeKsO9Npz.jpg"
         },
         {
           "name": "Léa Seydoux",
@@ -7936,28 +7936,19 @@
       "poster": "/fRtaxfyynWMJI6DhejyA6JOzVTB.jpg",
       "backdrop": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
       "tmdbRating": 8.022,
-      "tmdbVotes": 12421,
-      "popularity": 53.291,
+      "tmdbVotes": 12435,
+      "popularity": 48.7258,
       "budget": 100000000,
       "revenue": 952000000,
       "tagline": "Il mondo cambia per sempre",
       "scoperte": [
         {
-          "tmdbId": 16850,
-          "titolo": "Gli eroi di Telemark",
-          "poster": "/16uCCy3QAfXurYD8Dvp4fz2lMzc.jpg",
-          "anno": 1965,
-          "voto": 6.877,
-          "votanti": 187,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 24559,
           "titolo": "Mattatoio 5",
           "poster": "/jbSd4jeMS9NIS0vT3MqvXsNzlce.jpg",
           "anno": 1972,
-          "voto": 6.517,
-          "votanti": 261,
+          "voto": 6.515,
+          "votanti": 262,
           "tipo": "simile"
         },
         {
@@ -7983,8 +7974,17 @@
           "titolo": "Norimberga",
           "poster": "/ucZHG8KD2A9Czl1aZz1f4bIvbLR.jpg",
           "anno": 2025,
-          "voto": 7.606,
-          "votanti": 1389,
+          "voto": 7.605,
+          "votanti": 1392,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 1714,
+          "titolo": "Fahrenheit 451",
+          "poster": "/yEx3PvKo7MeN1kOmU4Hx1aGZDyQ.jpg",
+          "anno": 1966,
+          "voto": 7.114,
+          "votanti": 1109,
           "tipo": "simile"
         },
         {
@@ -7993,7 +7993,7 @@
           "poster": "/qTaYVeUaRuPWnVhjnQMq4nvMGLI.jpg",
           "anno": 2021,
           "voto": 6.733,
-          "votanti": 3035,
+          "votanti": 3036,
           "tipo": "simile"
         },
         {
@@ -8020,7 +8020,7 @@
           "poster": "/5QHWgqaBxZI1eM5e3YhyKzY5o3z.jpg",
           "anno": 2010,
           "voto": 8.373,
-          "votanti": 40123,
+          "votanti": 40134,
           "tipo": "attore",
           "attore": "Cillian Murphy"
         },
@@ -8029,8 +8029,8 @@
           "titolo": "Il cavaliere oscuro",
           "poster": "/qIhsgno1mjbzUbs4H6DaRjhskAR.jpg",
           "anno": 2008,
-          "voto": 8.535,
-          "votanti": 36631,
+          "voto": 8.5,
+          "votanti": 36643,
           "tipo": "attore",
           "attore": "Cillian Murphy"
         },
@@ -8040,7 +8040,7 @@
           "poster": "/p2JzxFRAlbxS4EvWMo4yiYZXu1W.jpg",
           "anno": 2012,
           "voto": 7.797,
-          "votanti": 24881,
+          "votanti": 24888,
           "tipo": "attore",
           "attore": "Cillian Murphy"
         },
@@ -8050,7 +8050,7 @@
           "poster": "/sTwFYSbEJzZfBO0518Jl5Tsit4Z.jpg",
           "anno": 2018,
           "voto": 7.395,
-          "votanti": 15683,
+          "votanti": 15687,
           "tipo": "attore",
           "attore": "Emily Blunt"
         },
@@ -8060,7 +8060,7 @@
           "poster": "/AbzpU4ookiyWFmiq1bTZwjNl7Y1.jpg",
           "anno": 2014,
           "voto": 7.643,
-          "votanti": 15464,
+          "votanti": 15473,
           "tipo": "attore",
           "attore": "Emily Blunt"
         },
@@ -8070,7 +8070,7 @@
           "poster": "/34r7kwVQh9UDGgAkA1EBDUWn7Sx.jpg",
           "anno": 2006,
           "voto": 7.436,
-          "votanti": 14194,
+          "votanti": 14200,
           "tipo": "attore",
           "attore": "Emily Blunt"
         }
@@ -8084,7 +8084,7 @@
         {
           "name": "Emily Blunt",
           "character": "Kitty Oppenheimer",
-          "profile": "/mjvs6fx2v9237HCLYZbgh3QQASb.jpg"
+          "profile": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
         },
         {
           "name": "Matt Damon",
@@ -8184,8 +8184,8 @@
       "poster": "/y1AthYH1r2j4N4cYn2HdrEGgrnJ.jpg",
       "backdrop": "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg",
       "tmdbRating": 8.116,
-      "tmdbVotes": 28260,
-      "popularity": 42.6102,
+      "tmdbVotes": 28268,
+      "popularity": 35.7665,
       "budget": 55000000,
       "revenue": 1078958629,
       "tagline": "Fai un bel sorriso.",
@@ -8196,7 +8196,7 @@
           "poster": "/lSW7y5wPud83gwjx5Upsyb8Zq5u.jpg",
           "anno": 2000,
           "voto": 7.402,
-          "votanti": 12678,
+          "votanti": 12688,
           "tipo": "simile"
         },
         {
@@ -8214,7 +8214,7 @@
           "poster": "/7gSANKU6YRlZZD8myn9WBhY9P7I.jpg",
           "anno": 2023,
           "voto": 6.086,
-          "votanti": 81,
+          "votanti": 82,
           "tipo": "simile"
         },
         {
@@ -8236,30 +8236,30 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 24249,
+          "titolo": "Cattive compagnie",
+          "poster": "/n2rMrY1MdzVXKHp1Ue8rExHRuJD.jpg",
+          "anno": 1990,
+          "voto": 5.99,
+          "votanti": 202,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 395458,
           "titolo": "Suburbicon",
           "poster": "/kGerqouMiaBsGVb5eZV9qLMBLN5.jpg",
           "anno": 2017,
           "voto": 5.887,
-          "votanti": 1843,
+          "votanti": 1844,
           "tipo": "simile"
         },
         {
-          "tmdbId": 24249,
-          "titolo": "Cattive compagnie",
-          "poster": "/n2rMrY1MdzVXKHp1Ue8rExHRuJD.jpg",
-          "anno": 1990,
-          "voto": 5.995,
-          "votanti": 201,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 20637,
-          "titolo": "Panic",
-          "poster": "/gCaWBW6qQ0otWliRi0Gs4bAzgDX.jpg",
-          "anno": 2000,
-          "voto": 6.204,
-          "votanti": 126,
+          "tmdbId": 617502,
+          "titolo": "Jolt - Rabbia assassina",
+          "poster": "/xd97KS25smW5WlZdQDKcCXQlw6h.jpg",
+          "anno": 2021,
+          "voto": 6.494,
+          "votanti": 1429,
           "tipo": "simile"
         },
         {
@@ -8268,7 +8268,7 @@
           "poster": "/euOKjQaV1QXtzLyNZAa1PMHGJlJ.jpg",
           "anno": 2000,
           "voto": 8.231,
-          "votanti": 21438,
+          "votanti": 21450,
           "tipo": "attore",
           "attore": "Joaquin Phoenix"
         },
@@ -8278,7 +8278,7 @@
           "poster": "/ptoIaqRBgyBVMKXRG2V2afFqDut.jpg",
           "anno": 2013,
           "voto": 7.836,
-          "votanti": 15599,
+          "votanti": 15604,
           "tipo": "attore",
           "attore": "Joaquin Phoenix"
         },
@@ -8287,8 +8287,8 @@
           "titolo": "Signs",
           "poster": "/4Jv4RWBvi0F3DIXNfVF1Ldooy86.jpg",
           "anno": 2002,
-          "voto": 6.734,
-          "votanti": 6524,
+          "voto": 6.733,
+          "votanti": 6527,
           "tipo": "attore",
           "attore": "Joaquin Phoenix"
         },
@@ -8298,7 +8298,7 @@
           "poster": "/7Ce724ZcEt7Id9EwBFFdXuvDxWA.jpg",
           "anno": 1990,
           "voto": 8.451,
-          "votanti": 14713,
+          "votanti": 14722,
           "tipo": "attore",
           "attore": "Robert De Niro"
         },
@@ -8307,8 +8307,8 @@
           "titolo": "Il padrino - Parte II",
           "poster": "/jftmAcdl5D94eANbhHugbUJDULI.jpg",
           "anno": 1974,
-          "voto": 8.6,
-          "votanti": 14289,
+          "voto": 8.573,
+          "votanti": 14297,
           "tipo": "attore",
           "attore": "Robert De Niro"
         },
@@ -8318,7 +8318,7 @@
           "poster": "/z5SGtBWagZFwYqFRfqQgJ3AgmEa.jpg",
           "anno": 1976,
           "voto": 8.121,
-          "votanti": 13755,
+          "votanti": 13759,
           "tipo": "attore",
           "attore": "Robert De Niro"
         }
@@ -8430,8 +8430,8 @@
       "releaseUS": "2024-11-22",
       "poster": "/tVBCG6qHQQaq2doZsOvpGNcwMuP.jpg",
       "backdrop": "/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
-      "tmdbRating": 6.6,
-      "tmdbVotes": 4719,
+      "tmdbRating": 6.594,
+      "tmdbVotes": 4722,
       "popularity": 22.5465,
       "budget": 310000000,
       "revenue": 462180717,
@@ -8443,7 +8443,7 @@
           "poster": "/euOKjQaV1QXtzLyNZAa1PMHGJlJ.jpg",
           "anno": 2000,
           "voto": 8.231,
-          "votanti": 21438,
+          "votanti": 21449,
           "tipo": "simile"
         },
         {
@@ -8452,7 +8452,7 @@
           "poster": "/FVnPFS1hFjqAZxJGxcfyRnPmos.jpg",
           "anno": 1984,
           "voto": 6.139,
-          "votanti": 1722,
+          "votanti": 1723,
           "tipo": "simile"
         },
         {
@@ -8460,17 +8460,8 @@
           "titolo": "Conan il barbaro",
           "poster": "/knYhySE692FaEPMvN5P434x8oLC.jpg",
           "anno": 1982,
-          "voto": 6.802,
-          "votanti": 2905,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 184315,
-          "titolo": "Hercules - Il guerriero",
-          "poster": "/eVIPtdaoo6SygyF9TFk99w9q0om.jpg",
-          "anno": 2014,
-          "voto": 5.807,
-          "votanti": 4431,
+          "voto": 6.801,
+          "votanti": 2907,
           "tipo": "simile"
         },
         {
@@ -8483,6 +8474,15 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 184315,
+          "titolo": "Hercules - Il guerriero",
+          "poster": "/eVIPtdaoo6SygyF9TFk99w9q0om.jpg",
+          "anno": 2014,
+          "voto": 5.807,
+          "votanti": 4432,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 12775,
           "titolo": "L'amore e il sangue",
           "poster": "/ovJWVHI6ZCQwIa3KjZ2USifqIML.jpg",
@@ -8492,21 +8492,21 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 652,
-          "titolo": "Troy",
-          "poster": "/6n8BiphW9fvqC6biB0RMfblqi43.jpg",
-          "anno": 2004,
-          "voto": 7.191,
-          "votanti": 11482,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 53182,
           "titolo": "300 - L'alba di un impero",
           "poster": "/gDS9G3GWjEhsOACo9WMV3wNKdr7.jpg",
           "anno": 2014,
-          "voto": 6.122,
-          "votanti": 7103,
+          "voto": 6.121,
+          "votanti": 7107,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 931285,
+          "titolo": "Mortal Kombat II",
+          "poster": "/vKKOUvWkofWt8x62I7utwj7ouLB.jpg",
+          "anno": 2026,
+          "voto": 7.827,
+          "votanti": 2534,
           "tipo": "simile"
         },
         {
@@ -8514,18 +8514,8 @@
           "titolo": "Aftersun",
           "poster": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
           "anno": 2022,
-          "voto": 7.646,
-          "votanti": 1958,
-          "tipo": "attore",
-          "attore": "Paul Mescal"
-        },
-        {
-          "tmdbId": 554230,
-          "titolo": "La figlia oscura",
-          "poster": "/qKLqImkjygThOvM6vBoEkluKlVK.jpg",
-          "anno": 2021,
-          "voto": 6.446,
-          "votanti": 1153,
+          "voto": 7.6,
+          "votanti": 1959,
           "tipo": "attore",
           "attore": "Paul Mescal"
         },
@@ -8534,8 +8524,18 @@
           "titolo": "Estranei",
           "poster": "/mlKvoZf4xXVLlcW8fPCPr766OCE.jpg",
           "anno": 2023,
-          "voto": 7.391,
-          "votanti": 1079,
+          "voto": 7.389,
+          "votanti": 1082,
+          "tipo": "attore",
+          "attore": "Paul Mescal"
+        },
+        {
+          "tmdbId": 891584,
+          "titolo": "The History Of Sound - Sulle note di un amore",
+          "poster": "/55of0Vy7m32hSRZKsCyyDjZn4AC.jpg",
+          "anno": 2025,
+          "voto": 6.933,
+          "votanti": 142,
           "tipo": "attore",
           "attore": "Paul Mescal"
         },
@@ -8545,7 +8545,7 @@
           "poster": "/jowKJEQpeFnK1ihP3uYUD8TuESn.jpg",
           "anno": 2014,
           "voto": 7.292,
-          "votanti": 10172,
+          "votanti": 10178,
           "tipo": "attore",
           "attore": "Denzel Washington"
         },
@@ -8554,8 +8554,8 @@
           "titolo": "Codice Genesi",
           "poster": "/nqz2Jbwn34G9FaGsHuC89LLWUBX.jpg",
           "anno": 2010,
-          "voto": 6.808,
-          "votanti": 6867,
+          "voto": 6.807,
+          "votanti": 6872,
           "tipo": "attore",
           "attore": "Denzel Washington"
         },
@@ -8564,8 +8564,8 @@
           "titolo": "Training Day",
           "poster": "/osB00LWj3RHVLRxBwOu6QDGcrII.jpg",
           "anno": 2001,
-          "voto": 7.5,
-          "votanti": 6802,
+          "voto": 7.53,
+          "votanti": 6810,
           "tipo": "attore",
           "attore": "Denzel Washington"
         }
@@ -8679,12 +8679,21 @@
       "poster": "/7e5xLiEvYbgSxmcjh7nkqqzxx6O.jpg",
       "backdrop": "/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
       "tmdbRating": 6.91,
-      "tmdbVotes": 11520,
-      "popularity": 32.3757,
+      "tmdbVotes": 11530,
+      "popularity": 28.4128,
       "budget": 145000000,
       "revenue": 1447138421,
       "tagline": "Lei può essere tutto ciò che vuole. Lui è solo Ken.",
       "scoperte": [
+        {
+          "tmdbId": 1319969,
+          "titolo": "Sketch",
+          "poster": "/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
+          "anno": 2025,
+          "voto": 7.056,
+          "votanti": 136,
+          "tipo": "simile"
+        },
         {
           "tmdbId": 662546,
           "titolo": "Fata madrina cercasi",
@@ -8692,15 +8701,6 @@
           "anno": 2020,
           "voto": 6.693,
           "votanti": 644,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 1117857,
-          "titolo": "In Your Dreams - Continua a sognare",
-          "poster": "/mTPWzrcAWUj0AFot2FxZKbqr843.jpg",
-          "anno": 2025,
-          "voto": 6.958,
-          "votanti": 251,
           "tipo": "simile"
         },
         {
@@ -8713,12 +8713,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 420814,
-          "titolo": "Ritorno al Bosco dei 100 Acri",
-          "poster": "/3Us9IyB86HTEU5q40y0ZHwfEs1z.jpg",
-          "anno": 2018,
-          "voto": 7.293,
-          "votanti": 2979,
+          "tmdbId": 1117857,
+          "titolo": "In Your Dreams - Continua a sognare",
+          "poster": "/mTPWzrcAWUj0AFot2FxZKbqr843.jpg",
+          "anno": 2025,
+          "voto": 6.942,
+          "votanti": 252,
           "tipo": "simile"
         },
         {
@@ -8731,21 +8731,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 420814,
+          "titolo": "Ritorno al Bosco dei 100 Acri",
+          "poster": "/3Us9IyB86HTEU5q40y0ZHwfEs1z.jpg",
+          "anno": 2018,
+          "voto": 7.294,
+          "votanti": 2981,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 10830,
           "titolo": "Matilda 6 mitica",
           "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
           "anno": 1996,
           "voto": 7.184,
-          "votanti": 4928,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 585511,
-          "titolo": "Luck",
-          "poster": "/uyT2TG9pVeh7tUaJkixX3wv5O7V.jpg",
-          "anno": 2022,
-          "voto": 7.777,
-          "votanti": 2103,
+          "votanti": 4932,
           "tipo": "simile"
         },
         {
@@ -8763,7 +8763,7 @@
           "poster": "/hwg3pXw2m4HfRGbyRMIP8laf5Lf.jpg",
           "anno": 2013,
           "voto": 8.026,
-          "votanti": 26463,
+          "votanti": 26473,
           "tipo": "attore",
           "attore": "Margot Robbie"
         },
@@ -8772,8 +8772,8 @@
           "titolo": "Suicide Squad",
           "poster": "/gD4PQRGaSX27kxtRPUouebbkVuG.jpg",
           "anno": 2016,
-          "voto": 5.918,
-          "votanti": 22388,
+          "voto": 5.917,
+          "votanti": 22394,
           "tipo": "attore",
           "attore": "Margot Robbie"
         },
@@ -8782,8 +8782,8 @@
           "titolo": "C'era una volta a… Hollywood",
           "poster": "/wW5t1FNg3ZHQu5sXeShyaN3oU9Z.jpg",
           "anno": 2019,
-          "voto": 7.42,
-          "votanti": 15196,
+          "voto": 7.4,
+          "votanti": 15203,
           "tipo": "attore",
           "attore": "Margot Robbie"
         },
@@ -8792,8 +8792,8 @@
           "titolo": "La La Land",
           "poster": "/cWYy1YTVaZRAuxLtX1tYNvtzAt1.jpg",
           "anno": 2016,
-          "voto": 7.9,
-          "votanti": 18437,
+          "voto": 7.896,
+          "votanti": 18446,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -8803,7 +8803,7 @@
           "poster": "/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
           "anno": 2011,
           "voto": 7.583,
-          "votanti": 13961,
+          "votanti": 13971,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -8813,7 +8813,7 @@
           "poster": "/pu5Q3YuYgSkfkVIdkChJVZjAaI5.jpg",
           "anno": 2004,
           "voto": 7.89,
-          "votanti": 12835,
+          "votanti": 12842,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         }
@@ -8923,9 +8923,9 @@
       "releaseUS": "2022-12-21",
       "poster": "/2kwlQ0U5DuUnnYYgf2ZtjKrF8HG.jpg",
       "backdrop": "/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
-      "tmdbRating": 7.752,
-      "tmdbVotes": 4876,
-      "popularity": 15.8739,
+      "tmdbRating": 7.751,
+      "tmdbVotes": 4880,
+      "popularity": 16.2941,
       "budget": 3000000,
       "revenue": 57615635,
       "tagline": null,
@@ -8935,8 +8935,8 @@
           "titolo": "The Starling Girl",
           "poster": "/ysgnrkXwfFCxaBwviG2yNvzpfw5.jpg",
           "anno": 2023,
-          "voto": 6.373,
-          "votanti": 79,
+          "voto": 6.369,
+          "votanti": 80,
           "tipo": "simile"
         },
         {
@@ -8958,12 +8958,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 802,
-          "titolo": "Lolita",
-          "poster": "/67fLZxMQpAAVN5wbPPorgjpxbK2.jpg",
-          "anno": 1962,
-          "voto": 7.3,
-          "votanti": 2294,
+          "tmdbId": 861072,
+          "titolo": "Non farmi andar via - Don't Make Me Go",
+          "poster": "/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg",
+          "anno": 2022,
+          "voto": 6.92,
+          "votanti": 131,
           "tipo": "simile"
         },
         {
@@ -8971,17 +8971,17 @@
           "titolo": "Il prodigio",
           "poster": "/k1LiGruG7jqNwfll9jlei5QqjD8.jpg",
           "anno": 2022,
-          "voto": 6.6,
-          "votanti": 1005,
+          "voto": 6.599,
+          "votanti": 1006,
           "tipo": "simile"
         },
         {
-          "tmdbId": 861072,
-          "titolo": "Non farmi andar via - Don't Make Me Go",
-          "poster": "/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg",
-          "anno": 2022,
-          "voto": 6.92,
-          "votanti": 131,
+          "tmdbId": 802,
+          "titolo": "Lolita",
+          "poster": "/67fLZxMQpAAVN5wbPPorgjpxbK2.jpg",
+          "anno": 1962,
+          "voto": 7.299,
+          "votanti": 2295,
           "tipo": "simile"
         },
         {
@@ -8998,8 +8998,8 @@
           "titolo": "Goodbye June",
           "poster": "/9Vk4ewSJeqmO3RT5X6kFqWAVEGu.jpg",
           "anno": 2025,
-          "voto": 6.506,
-          "votanti": 160,
+          "voto": 6.503,
+          "votanti": 161,
           "tipo": "simile"
         },
         {
@@ -9008,7 +9008,7 @@
           "poster": "/uosqdJCGaqtwXkrqC0DTbLIhQdg.jpg",
           "anno": 1999,
           "voto": 6.993,
-          "votanti": 10360,
+          "votanti": 10367,
           "tipo": "attore",
           "attore": "Brendan Fraser"
         },
@@ -9017,8 +9017,8 @@
           "titolo": "La mummia - Il ritorno",
           "poster": "/xYDypUTwz7Buw96tn7tadqUjpPk.jpg",
           "anno": 2001,
-          "voto": 6.416,
-          "votanti": 7880,
+          "voto": 6.417,
+          "votanti": 7885,
           "tipo": "attore",
           "attore": "Brendan Fraser"
         },
@@ -9027,8 +9027,8 @@
           "titolo": "Viaggio al centro della Terra",
           "poster": "/w3cQUoKTl7HE4WB6xsjeSfzahHn.jpg",
           "anno": 2008,
-          "voto": 6.096,
-          "votanti": 5277,
+          "voto": 6.097,
+          "votanti": 5280,
           "tipo": "attore",
           "attore": "Brendan Fraser"
         },
@@ -9171,21 +9171,12 @@
       "poster": "/zJjONpdoLVBcKiMF8KFbdl1E2da.jpg",
       "backdrop": "/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg",
       "tmdbRating": 7.181,
-      "tmdbVotes": 6608,
+      "tmdbVotes": 6612,
       "popularity": 17.0915,
       "budget": 35000000,
       "revenue": 79628200,
       "tagline": "Meravigliose sorprese vi attendono",
       "scoperte": [
-        {
-          "tmdbId": 42216,
-          "titolo": "Qualcuno sta uccidendo i più grandi cuochi d'Europa",
-          "poster": "/xS0FSCm6QRgXEULL1oMZYScTmGe.jpg",
-          "anno": 1978,
-          "voto": 6.146,
-          "votanti": 99,
-          "tipo": "simile"
-        },
         {
           "tmdbId": 28940,
           "titolo": "Eating Raoul",
@@ -9227,8 +9218,8 @@
           "titolo": "Blink Twice",
           "poster": "/78z5K6xXTAWtLqpbyIJxxyaFMJi.jpg",
           "anno": 2024,
-          "voto": 6.679,
-          "votanti": 2024,
+          "voto": 6.678,
+          "votanti": 2028,
           "tipo": "simile"
         },
         {
@@ -9236,8 +9227,8 @@
           "titolo": "Bone Lake",
           "poster": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
           "anno": 2025,
-          "voto": 5.854,
-          "votanti": 243,
+          "voto": 5.864,
+          "votanti": 246,
           "tipo": "simile"
         },
         {
@@ -9250,12 +9241,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 760161,
+          "titolo": "Orphan: First Kill",
+          "poster": "/2fALZJYRI855sV3GHdJNRPRgNbz.jpg",
+          "anno": 2022,
+          "voto": 6.589,
+          "votanti": 2349,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 381288,
           "titolo": "Split",
           "poster": "/kwu1IppY5qsWtLqs0M0vnETK72H.jpg",
           "anno": 2017,
           "voto": 7.34,
-          "votanti": 18599,
+          "votanti": 18601,
           "tipo": "attore",
           "attore": "Anya Taylor-Joy"
         },
@@ -9265,7 +9265,7 @@
           "poster": "/eCeMqcjT1pQ3qlseY374bXX6LLX.jpg",
           "anno": 2019,
           "voto": 6.664,
-          "votanti": 9238,
+          "votanti": 9241,
           "tipo": "attore",
           "attore": "Anya Taylor-Joy"
         },
@@ -9275,7 +9275,7 @@
           "poster": "/cJpvTuOl4OV8TgDib4ilYqPVAfe.jpg",
           "anno": 2016,
           "voto": 7.002,
-          "votanti": 7854,
+          "votanti": 7857,
           "tipo": "attore",
           "attore": "Anya Taylor-Joy"
         },
@@ -9285,7 +9285,7 @@
           "poster": "/ghM7AvW4MWY9casNIjltqzCMjJQ.jpg",
           "anno": 2005,
           "voto": 7.802,
-          "votanti": 22582,
+          "votanti": 22587,
           "tipo": "attore",
           "attore": "Ralph Fiennes"
         },
@@ -9295,7 +9295,7 @@
           "poster": "/mZDiE6gowRmcdm9ON5GPDRvmFRq.jpg",
           "anno": 2011,
           "voto": 8.08,
-          "votanti": 22393,
+          "votanti": 22398,
           "tipo": "attore",
           "attore": "Ralph Fiennes"
         },
@@ -9305,7 +9305,7 @@
           "poster": "/iXg8dcylRbYNREcdU1Y2EGxpxxe.jpg",
           "anno": 2007,
           "voto": 7.672,
-          "votanti": 21179,
+          "votanti": 21184,
           "tipo": "attore",
           "attore": "Ralph Fiennes"
         }
@@ -9414,15 +9414,15 @@
       "rtScore": 59,
       "metascore": 46,
       "imdbRating": 7,
-      "imdbVotes": 302079,
+      "imdbVotes": 302136,
       "releaseFonte": "IT",
       "releaseGlobale": "2023-04-05",
       "releaseUS": "2023-04-05",
       "poster": "/tOFwmYtHWvbMCyegqOEclUB8IvV.jpg",
       "backdrop": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
-      "tmdbRating": 7.595,
-      "tmdbVotes": 11104,
-      "popularity": 33.1371,
+      "tmdbRating": 7.594,
+      "tmdbVotes": 11109,
+      "popularity": 31.8228,
       "budget": 100000000,
       "revenue": 1360879735,
       "tagline": "Not all heroes wear capes. Some wear overalls.",
@@ -9441,8 +9441,8 @@
           "titolo": "L'era glaciale 3 - L'alba dei dinosauri",
           "poster": "/4qJWIZZi7mbCvjXqPcyWxdhcQ4c.jpg",
           "anno": 2009,
-          "voto": 6.8,
-          "votanti": 9047,
+          "voto": 6.777,
+          "votanti": 9048,
           "tipo": "simile"
         },
         {
@@ -9455,21 +9455,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 170687,
-          "titolo": "Boxtrolls - Le scatole magiche",
-          "poster": "/l6CFDMsj24LtyxfqPLDKTFlnVwO.jpg",
-          "anno": 2014,
-          "voto": 6.726,
-          "votanti": 1851,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 81188,
           "titolo": "Le 5 leggende",
           "poster": "/kxJCpgyKFV017a4L6lw7t0gcoiD.jpg",
           "anno": 2012,
-          "voto": 7.38,
-          "votanti": 7269,
+          "voto": 7.379,
+          "votanti": 7271,
           "tipo": "simile"
         },
         {
@@ -9477,8 +9468,8 @@
           "titolo": "Strange World - Un mondo misterioso",
           "poster": "/pKycKFvZMbZOnAfnuZECXw7LaR9.jpg",
           "anno": 2022,
-          "voto": 6.217,
-          "votanti": 1461,
+          "voto": 6.216,
+          "votanti": 1462,
           "tipo": "simile"
         },
         {
@@ -9495,8 +9486,17 @@
           "titolo": "Hotel Transylvania - Uno scambio mostruoso",
           "poster": "/dcainosKQm0AoM08b2l0Hf5trsa.jpg",
           "anno": 2022,
-          "voto": 7.026,
-          "votanti": 3092,
+          "voto": 7.025,
+          "votanti": 3093,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 14411,
+          "titolo": "Sinbad - La leggenda dei sette mari",
+          "poster": "/luf5qRt1kCCoA50lXnR8Jb6TW96.jpg",
+          "anno": 2003,
+          "voto": 7.064,
+          "votanti": 2288,
           "tipo": "simile"
         },
         {
@@ -9505,7 +9505,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32828,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -9515,7 +9515,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.907,
-          "votanti": 30253,
+          "votanti": 30262,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -9525,7 +9525,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28586,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -9535,7 +9535,7 @@
           "poster": "/kwu1IppY5qsWtLqs0M0vnETK72H.jpg",
           "anno": 2017,
           "voto": 7.34,
-          "votanti": 18599,
+          "votanti": 18601,
           "tipo": "attore",
           "attore": "Anya Taylor-Joy"
         },
@@ -9545,7 +9545,7 @@
           "poster": "/eCeMqcjT1pQ3qlseY374bXX6LLX.jpg",
           "anno": 2019,
           "voto": 6.664,
-          "votanti": 9238,
+          "votanti": 9241,
           "tipo": "attore",
           "attore": "Anya Taylor-Joy"
         },
@@ -9555,7 +9555,7 @@
           "poster": "/cJpvTuOl4OV8TgDib4ilYqPVAfe.jpg",
           "anno": 2016,
           "voto": 7.002,
-          "votanti": 7854,
+          "votanti": 7857,
           "tipo": "attore",
           "attore": "Anya Taylor-Joy"
         }
@@ -9670,7 +9670,7 @@
       "backdrop": "/pbMbDlOAkVuvnxovBA2ENin59xH.jpg",
       "tmdbRating": 6.249,
       "tmdbVotes": 3406,
-      "popularity": 16.3639,
+      "popularity": 14.7957,
       "budget": 297000000,
       "revenue": 569626289,
       "tagline": "Be a part of her world.",
@@ -9690,7 +9690,7 @@
           "poster": "/nU61g5HcLSckY8cBEKS7GaYCY7z.jpg",
           "anno": 1989,
           "voto": 7.353,
-          "votanti": 8549,
+          "votanti": 8552,
           "tipo": "simile"
         },
         {
@@ -9699,7 +9699,16 @@
           "poster": "/4ahEs32uc60mmMdHRZmmU9eLqRN.jpg",
           "anno": 2015,
           "voto": 5.955,
-          "votanti": 2884,
+          "votanti": 2885,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 34205,
+          "titolo": "Halloweentown II - La vendetta di Kalabar",
+          "poster": "/366Gd6SijgDECBTJtAzbnBzUJL3.jpg",
+          "anno": 2001,
+          "voto": 6.8,
+          "votanti": 377,
           "tipo": "simile"
         },
         {
@@ -9716,17 +9725,8 @@
           "titolo": "Descendants",
           "poster": "/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
           "anno": 2015,
-          "voto": 7.181,
-          "votanti": 2577,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 34205,
-          "titolo": "Halloweentown II - La vendetta di Kalabar",
-          "poster": "/366Gd6SijgDECBTJtAzbnBzUJL3.jpg",
-          "anno": 2001,
-          "voto": 6.8,
-          "votanti": 377,
+          "voto": 7.183,
+          "votanti": 2578,
           "tipo": "simile"
         },
         {
@@ -9734,8 +9734,8 @@
           "titolo": "Pinocchio",
           "poster": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
           "anno": 2022,
-          "voto": 6.251,
-          "votanti": 1773,
+          "voto": 6.248,
+          "votanti": 1774,
           "tipo": "simile"
         },
         {
@@ -9743,8 +9743,8 @@
           "titolo": "Maleficent",
           "poster": "/pduwNjiPzvgpRgX5IzSr9KDSZQ3.jpg",
           "anno": 2014,
-          "voto": 7.09,
-          "votanti": 13920,
+          "voto": 7.1,
+          "votanti": 13924,
           "tipo": "simile"
         },
         {
@@ -9752,8 +9752,8 @@
           "titolo": "L'ultima vacanza",
           "poster": "/4NAKzUbfy0axCnkJLDtsORO6ghJ.jpg",
           "anno": 2006,
-          "voto": 7.272,
-          "votanti": 902,
+          "voto": 7.276,
+          "votanti": 904,
           "tipo": "attore",
           "attore": "Halle Bailey"
         },
@@ -9762,8 +9762,8 @@
           "titolo": "Il colore viola",
           "poster": "/2lUuh7ndOAAp2fmuDivWaOHRsjZ.jpg",
           "anno": 2023,
-          "voto": 7,
-          "votanti": 374,
+          "voto": 6.948,
+          "votanti": 375,
           "tipo": "attore",
           "attore": "Halle Bailey"
         },
@@ -9782,18 +9782,8 @@
           "titolo": "A House of Dynamite",
           "poster": "/8CfcNkD3G2pYb6czcYTseRg6s7W.jpg",
           "anno": 2025,
-          "voto": 6.408,
-          "votanti": 1380,
-          "tipo": "attore",
-          "attore": "Jonah Hauer-King"
-        },
-        {
-          "tmdbId": 508763,
-          "titolo": "Un viaggio a quattro zampe",
-          "poster": "/5cf6elV2qwJkQXQzbhy2CCzCyql.jpg",
-          "anno": 2019,
-          "voto": 7.389,
-          "votanti": 1198,
+          "voto": 6.406,
+          "votanti": 1381,
           "tipo": "attore",
           "attore": "Jonah Hauer-King"
         },
@@ -9802,8 +9792,18 @@
           "titolo": "So cosa hai fatto",
           "poster": "/tUDYEkfKrecD6IpKAxitacwqtYX.jpg",
           "anno": 2025,
-          "voto": 5.633,
-          "votanti": 862,
+          "voto": 5.629,
+          "votanti": 863,
+          "tipo": "attore",
+          "attore": "Jonah Hauer-King"
+        },
+        {
+          "tmdbId": 1195631,
+          "titolo": "Guglielmo Tell",
+          "poster": "/yVXt0ZgONgooZrpD7PBIcHp0TqB.jpg",
+          "anno": 2025,
+          "voto": 6.199,
+          "votanti": 266,
           "tipo": "attore",
           "attore": "Jonah Hauer-King"
         }
@@ -9918,7 +9918,7 @@
       "backdrop": "/fNXUCk54vGcoKr34olN14ohUSFY.jpg",
       "tmdbRating": 8.07,
       "tmdbVotes": 1554,
-      "popularity": 4.9072,
+      "popularity": 4.2404,
       "budget": 9000000,
       "revenue": 50121593,
       "tagline": "The Italian phenomenon.",
@@ -9969,21 +9969,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 30298,
-          "titolo": "Il segreto di Santa Vittoria",
-          "poster": "/fhSkRMXeLPoPkytlac8q72SPVWs.jpg",
-          "anno": 1970,
-          "voto": 6.856,
-          "votanti": 66,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 467244,
           "titolo": "La zona d'interesse",
           "poster": "/qIcSYnugkFfyO8M6S8ge5sZsMb6.jpg",
           "anno": 2023,
-          "voto": 7.01,
-          "votanti": 2735,
+          "voto": 7.011,
+          "votanti": 2737,
           "tipo": "simile"
         },
         {
@@ -9993,6 +9984,15 @@
           "anno": 2021,
           "voto": 6.926,
           "votanti": 686,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 1061699,
+          "titolo": "The Six Triple Eight",
+          "poster": "/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg",
+          "anno": 2024,
+          "voto": 7.575,
+          "votanti": 724,
           "tipo": "simile"
         },
         {
@@ -10010,8 +10010,8 @@
           "titolo": "Nine",
           "poster": "/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg",
           "anno": 2009,
-          "voto": 5.5,
-          "votanti": 648,
+          "voto": 5.508,
+          "votanti": 650,
           "tipo": "attore",
           "attore": "Valerio Mastandrea"
         }
@@ -10125,9 +10125,9 @@
       "releaseUS": "2023-12-15",
       "poster": "/7y2M1w0nWW0Z5Ph1XzED07OYUsa.jpg",
       "backdrop": "/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg",
-      "tmdbRating": 7.032,
-      "tmdbVotes": 4541,
-      "popularity": 17.9618,
+      "tmdbRating": 7.033,
+      "tmdbVotes": 4544,
+      "popularity": 16.7263,
       "budget": 125000000,
       "revenue": 634502312,
       "tagline": "Tutte le cose belle a questo mondo sono cominciate con un sogno.",
@@ -10137,8 +10137,8 @@
           "titolo": "Willy Wonka e la fabbrica di cioccolato",
           "poster": "/55YAF9n4BuhtcCs8R8ZnxotEfz5.jpg",
           "anno": 1971,
-          "voto": 7.481,
-          "votanti": 4059,
+          "voto": 7.48,
+          "votanti": 4064,
           "tipo": "simile"
         },
         {
@@ -10157,6 +10157,15 @@
           "anno": 2022,
           "voto": 6.654,
           "votanti": 1209,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 455411,
+          "titolo": "Tom & Jerry: Willy Wonka e la fabbrica di cioccolato",
+          "poster": "/r4P9lHn6NpiCnbbyKAG08gzE3VD.jpg",
+          "anno": 2017,
+          "voto": 6.729,
+          "votanti": 164,
           "tipo": "simile"
         },
         {
@@ -10183,7 +10192,7 @@
           "poster": "/l1ORADvP8Ay6Mo36zIyDDDUOGfi.jpg",
           "anno": 2016,
           "voto": 6.621,
-          "votanti": 3893,
+          "votanti": 3895,
           "tipo": "simile"
         },
         {
@@ -10191,17 +10200,8 @@
           "titolo": "Shazam! Furia degli dei",
           "poster": "/bqkClyt9iJcbmZXouCgUrIna91W.jpg",
           "anno": 2023,
-          "voto": 6.398,
-          "votanti": 3769,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 301528,
-          "titolo": "Toy Story 4",
-          "poster": "/lilCjgWKcwIpa55BuTzzI2BMZgP.jpg",
-          "anno": 2019,
-          "voto": 7.464,
-          "votanti": 10947,
+          "voto": 6.395,
+          "votanti": 3775,
           "tipo": "simile"
         },
         {
@@ -10209,8 +10209,8 @@
           "titolo": "Interstellar",
           "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
           "anno": 2014,
-          "voto": 8.487,
-          "votanti": 41073,
+          "voto": 8.486,
+          "votanti": 41087,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -10219,8 +10219,8 @@
           "titolo": "Chiamami col tuo nome",
           "poster": "/5FjIZfBgGJs2QVflieDNvPKVWVZ.jpg",
           "anno": 2017,
-          "voto": 8.081,
-          "votanti": 12932,
+          "voto": 8.08,
+          "votanti": 12937,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         },
@@ -10229,8 +10229,8 @@
           "titolo": "Don't Look Up",
           "poster": "/tDywZa4eLbKhmbwqU67NgiUh2U1.jpg",
           "anno": 2021,
-          "voto": 7.056,
-          "votanti": 9646,
+          "voto": 7.055,
+          "votanti": 9653,
           "tipo": "attore",
           "attore": "Timothée Chalamet"
         }
@@ -10342,8 +10342,8 @@
       "releaseUS": "2026-07-31",
       "poster": "/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
       "backdrop": "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "tmdbRating": 7.864,
-      "tmdbVotes": 2505,
+      "tmdbRating": 7.9,
+      "tmdbVotes": 2521,
       "popularity": 839.8385,
       "budget": 225000000,
       "revenue": 2408062495,
@@ -10456,8 +10456,8 @@
       "releaseUS": "2025-07-02",
       "poster": "/pGPKXLGatnHuNiDwMlRfOsVfCSp.jpg",
       "backdrop": "/wCmImy8AIssROutl4oerW9vMOD6.jpg",
-      "tmdbRating": 6.258,
-      "tmdbVotes": 3730,
+      "tmdbRating": 6.26,
+      "tmdbVotes": 3735,
       "popularity": 45.5707,
       "budget": 180000000,
       "revenue": 869146189,
@@ -10570,7 +10570,7 @@
       "poster": "/b2miftxDl5yQA8gKcZ3pX8j5R1C.jpg",
       "backdrop": "/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
       "tmdbRating": 7.031,
-      "tmdbVotes": 3094,
+      "tmdbVotes": 3095,
       "popularity": 23.5738,
       "budget": 50000000,
       "revenue": 317854739,
@@ -10683,9 +10683,9 @@
       "releaseUS": "2025-05-23",
       "poster": "/bhBHcUBEGEuEu9iVEgDlSsQIn5l.jpg",
       "backdrop": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
-      "tmdbRating": 7.182,
-      "tmdbVotes": 3125,
-      "popularity": 38.4386,
+      "tmdbRating": 7.179,
+      "tmdbVotes": 3129,
+      "popularity": 33.324,
       "budget": 400000000,
       "revenue": 598767057,
       "tagline": "La nostra vita è la somma delle nostre scelte.",
@@ -10694,7 +10694,7 @@
         {
           "name": "Tom Cruise",
           "character": "Ethan Hunt",
-          "profile": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+          "profile": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
         },
         {
           "name": "Hayley Atwell",
@@ -10793,15 +10793,15 @@
       "rtScore": 83,
       "metascore": 66,
       "imdbRating": 6.6,
-      "imdbVotes": 45380,
+      "imdbVotes": 48262,
       "releaseFonte": "IT",
       "releaseGlobale": "2025-06-18",
       "releaseUS": "2025-06-20",
       "poster": "/kFxz2c6cmINliKSLoUm4r6m0B2B.jpg",
       "backdrop": "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
-      "tmdbRating": 6.923,
-      "tmdbVotes": 1117,
-      "popularity": 21.2743,
+      "tmdbRating": 6.922,
+      "tmdbVotes": 1120,
+      "popularity": 20.0649,
       "budget": 150000000,
       "revenue": 154291182,
       "tagline": "L'universo ha chiamato ...il numero sbagliato.",
@@ -10913,8 +10913,8 @@
       "poster": "/xEspUMrTfhXfqRTqV9wehwzzGpX.jpg",
       "backdrop": "/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
       "tmdbRating": 6.757,
-      "tmdbVotes": 3146,
-      "popularity": 11.9863,
+      "tmdbVotes": 3149,
+      "popularity": 13.7209,
       "budget": 155000000,
       "revenue": 372262265,
       "tagline": "Chase. Ride. Survive.",
@@ -10973,7 +10973,7 @@
         {
           "name": "David Corenswet",
           "character": "Scott",
-          "profile": "/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+          "profile": "/jWEOTZuV8xN1M2SpEkZQFcyt3tP.jpg"
         },
         {
           "name": "Tunde Adebimpe",
@@ -11026,9 +11026,9 @@
       "releaseUS": "2024-04-26",
       "poster": "/81tKWsMg90EmFRDTlsTIE5ouKWy.jpg",
       "backdrop": "/tq8COKsI99Bivjd4CZIYVGoKcIx.jpg",
-      "tmdbRating": 6.9,
-      "tmdbVotes": 2827,
-      "popularity": 19.0314,
+      "tmdbRating": 6.905,
+      "tmdbVotes": 2835,
+      "popularity": 17.1319,
       "budget": 55000000,
       "revenue": 94182533,
       "tagline": "Her game. Her rules.",
@@ -11037,7 +11037,7 @@
         {
           "name": "Zendaya",
           "character": "Tashi Donaldson",
-          "profile": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+          "profile": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
         },
         {
           "name": "Mike Faist",
@@ -11140,9 +11140,9 @@
       "releaseUS": "2024-10-04",
       "poster": "/9jaEJLT37Wp6a9jmiTNi6vEjU8p.jpg",
       "backdrop": "/AVWlQpVhpudyFsSh3OQIieHHYf.jpg",
-      "tmdbRating": 5.404,
-      "tmdbVotes": 3048,
-      "popularity": 12.7783,
+      "tmdbRating": 5.403,
+      "tmdbVotes": 3052,
+      "popularity": 12.6962,
       "budget": 190000000,
       "revenue": 207500287,
       "tagline": "Il mondo è un palcoscenico.",
@@ -11253,10 +11253,10 @@
       "releaseGlobale": "2024-10-16",
       "releaseUS": "2024-11-22",
       "poster": "/4CiqbnZVIntQO2ujgfXkZauwfyA.jpg",
-      "backdrop": "/fyZ6SDUS4o9jp2EHxfZa3qS9ean.jpg",
-      "tmdbRating": 6.906,
-      "tmdbVotes": 3220,
-      "popularity": 24.5912,
+      "backdrop": "/beuMhwEdoMpJhyoZiCldogaqsKI.jpg",
+      "tmdbRating": 6.9,
+      "tmdbVotes": 3224,
+      "popularity": 22.1127,
       "budget": 150000000,
       "revenue": 763963597,
       "tagline": "Tutti meritano la possibilità di volare",
@@ -11370,8 +11370,8 @@
       "poster": "/mVkg1k4Iun40ZFiBQPFAxJHRZBu.jpg",
       "backdrop": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
       "tmdbRating": 7.539,
-      "tmdbVotes": 6954,
-      "popularity": 33.1559,
+      "tmdbVotes": 6960,
+      "popularity": 30.5983,
       "budget": 200000000,
       "revenue": 1698863816,
       "tagline": "Fai spazio a nuove emozioni.",
@@ -11483,8 +11483,8 @@
       "releaseUS": "2024-03-22",
       "poster": "/zjkiAZ8vy2j2R90nWrvqg4lvOIp.jpg",
       "backdrop": "/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
-      "tmdbRating": 6.441,
-      "tmdbVotes": 2275,
+      "tmdbRating": 6.439,
+      "tmdbVotes": 2279,
       "popularity": 14.6778,
       "budget": 100000000,
       "revenue": 201967521,
@@ -11598,9 +11598,9 @@
       "releaseUS": "2023-06-16",
       "poster": "/z681xu8CoIEf7ncUCA89HJzlbfT.jpg",
       "backdrop": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
-      "tmdbRating": 7.596,
-      "tmdbVotes": 5528,
-      "popularity": 22.2851,
+      "tmdbRating": 7.594,
+      "tmdbVotes": 5532,
+      "popularity": 19.2705,
       "budget": 200000000,
       "revenue": 496444308,
       "tagline": "Gli opposti reagiscono",
@@ -11712,8 +11712,8 @@
       "poster": "/cavpmNgWlOIRENlEscbg1bJ2mX2.jpg",
       "backdrop": "/57JocxmicOoAMhkUSmdKBlpZWMT.jpg",
       "tmdbRating": 6.497,
-      "tmdbVotes": 4333,
-      "popularity": 16.9043,
+      "tmdbVotes": 4337,
+      "popularity": 16.739,
       "budget": 294700000,
       "revenue": 383963057,
       "tagline": "La leggenda affronterà il suo destino.",
@@ -11825,9 +11825,9 @@
       "releaseUS": "2023-10-20",
       "poster": "/l7CXClIApqEWrUaaSNFBMvFtKQ2.jpg",
       "backdrop": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
-      "tmdbRating": 7.391,
-      "tmdbVotes": 4316,
-      "popularity": 25.5583,
+      "tmdbRating": 7.39,
+      "tmdbVotes": 4318,
+      "popularity": 21.6404,
       "budget": 200000000,
       "revenue": 158722599,
       "tagline": "L'avidità è un animale affamato di sangue.",
@@ -11940,8 +11940,8 @@
       "poster": "/aHWy5ipM0qGSgyi9R3PAxIYne13.jpg",
       "backdrop": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
       "tmdbRating": 6.873,
-      "tmdbVotes": 7133,
-      "popularity": 16.3985,
+      "tmdbVotes": 7134,
+      "popularity": 15.0435,
       "budget": 120000000,
       "revenue": 407141258,
       "tagline": "La fortuna aiuta gli audaci.",
@@ -11961,7 +11961,16 @@
           "poster": "/vvglsPQgyGogyTu2e59dJYGlJNE.jpg",
           "anno": 2017,
           "voto": 6.665,
-          "votanti": 13034,
+          "votanti": 13037,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 14208,
+          "titolo": "The Librarian 2 - Ritorno alle miniere di Re Salomone",
+          "poster": "/kAWTXqFaMkQo5vqRRZeB9qkevdi.jpg",
+          "anno": 2006,
+          "voto": 6.263,
+          "votanti": 647,
           "tipo": "simile"
         },
         {
@@ -11969,17 +11978,8 @@
           "titolo": "Il mistero dei Templari",
           "poster": "/oXl50kzOSkPFmcK7BnVO8lWSP3V.jpg",
           "anno": 2004,
-          "voto": 6.654,
-          "votanti": 7041,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 14207,
-          "titolo": "The Librarian - Alla ricerca della lancia perduta",
-          "poster": "/jgAN5yvso8ho9A8jMGGlIkCIwv.jpg",
-          "anno": 2004,
-          "voto": 6.299,
-          "votanti": 726,
+          "voto": 6.653,
+          "votanti": 7044,
           "tipo": "simile"
         },
         {
@@ -11988,7 +11988,7 @@
           "poster": "/8NYXMJ4G5fWQyv2UM2SKzfBx3Rn.jpg",
           "anno": 2010,
           "voto": 6.312,
-          "votanti": 7311,
+          "votanti": 7315,
           "tipo": "simile"
         },
         {
@@ -11997,7 +11997,7 @@
           "poster": "/qkQf6FVvtRKKk1JQAWTJZDPiy5r.jpg",
           "anno": 2008,
           "voto": 6.024,
-          "votanti": 9222,
+          "votanti": 9227,
           "tipo": "simile"
         },
         {
@@ -12005,8 +12005,8 @@
           "titolo": "Fountain of Youth - L’eterna giovinezza",
           "poster": "/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg",
           "anno": 2025,
-          "voto": 6.24,
-          "votanti": 1019,
+          "voto": 6.237,
+          "votanti": 1020,
           "tipo": "simile"
         },
         {
@@ -12014,8 +12014,8 @@
           "titolo": "Aquaman",
           "poster": "/ceYbmybt6ucJhM4lq6D998bMToc.jpg",
           "anno": 2018,
-          "voto": 6.865,
-          "votanti": 15181,
+          "voto": 6.864,
+          "votanti": 15185,
           "tipo": "simile"
         },
         {
@@ -12024,7 +12024,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32825,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Tom Holland"
         },
@@ -12034,7 +12034,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28584,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Tom Holland"
         },
@@ -12043,8 +12043,8 @@
           "titolo": "Captain America: Civil War",
           "poster": "/zV6uLEHFFjrGBAogwU9CoHSmPPY.jpg",
           "anno": 2016,
-          "voto": 7.454,
-          "votanti": 24527,
+          "voto": 7.453,
+          "votanti": 24536,
           "tipo": "attore",
           "attore": "Tom Holland"
         },
@@ -12053,8 +12053,8 @@
           "titolo": "The Departed - Il bene e il male",
           "poster": "/oTIEFn7Xf3bZ6HZP3yRF8CzzmYQ.jpg",
           "anno": 2006,
-          "voto": 8.158,
-          "votanti": 16592,
+          "voto": 8.159,
+          "votanti": 16602,
           "tipo": "attore",
           "attore": "Mark Wahlberg"
         },
@@ -12064,7 +12064,7 @@
           "poster": "/uZwB6tkS7LketzEwaBhVke8qkk3.jpg",
           "anno": 2012,
           "voto": 6.454,
-          "votanti": 13430,
+          "votanti": 13433,
           "tipo": "attore",
           "attore": "Mark Wahlberg"
         },
@@ -12073,7 +12073,7 @@
           "titolo": "Transformers 4 - L'era dell'estinzione",
           "poster": "/3kJGXe6E8sd8rYqBb4nmSSIzYNl.jpg",
           "anno": 2014,
-          "voto": 5.972,
+          "voto": 6,
           "votanti": 8931,
           "tipo": "attore",
           "attore": "Mark Wahlberg"
@@ -12179,15 +12179,15 @@
       "rtScore": 96,
       "metascore": 78,
       "imdbRating": 8.2,
-      "imdbVotes": 904064,
+      "imdbVotes": 904246,
       "releaseFonte": "IT",
       "releaseGlobale": "2022-05-21",
       "releaseUS": "2022-05-27",
       "poster": "/ygjXVgEALlUA5U8Ov5DhSJqJjUe.jpg",
       "backdrop": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
-      "tmdbRating": 8.159,
-      "tmdbVotes": 11503,
-      "popularity": 42.4832,
+      "tmdbRating": 8.158,
+      "tmdbVotes": 11513,
+      "popularity": 40.9553,
       "budget": 170000000,
       "revenue": 1488732821,
       "tagline": "Feel the need... The need for speed.",
@@ -12198,7 +12198,43 @@
           "poster": "/lqUtv5NYqm9n8tEq9gOzWfqvNPY.jpg",
           "anno": 1995,
           "voto": 7.185,
-          "votanti": 2061,
+          "votanti": 2063,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 46189,
+          "titolo": "Le ali delle aquile",
+          "poster": "/9jqsM0anFUql57gLspPWUslsY1i.jpg",
+          "anno": 1957,
+          "voto": 6.3,
+          "votanti": 72,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 47555,
+          "titolo": "Diavoli alati",
+          "poster": "/2UeWnak5YtLtAdWFwUf37LcR2q5.jpg",
+          "anno": 1951,
+          "voto": 5.82,
+          "votanti": 75,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 18780,
+          "titolo": "Affondate la Bismarck!",
+          "poster": "/2EoqCX9Ntfo5b9YWoty9I25SeLH.jpg",
+          "anno": 1960,
+          "voto": 6.835,
+          "votanti": 124,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 18784,
+          "titolo": "Mare caldo",
+          "poster": "/kx9fzoOReZ5b4WfLhU8sSFetKs7.jpg",
+          "anno": 1958,
+          "voto": 7,
+          "votanti": 194,
           "tipo": "simile"
         },
         {
@@ -12206,62 +12242,26 @@
           "titolo": "Greyhound: il nemico invisibile",
           "poster": "/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg",
           "anno": 2020,
-          "voto": 7.417,
-          "votanti": 3442,
+          "voto": 7.415,
+          "votanti": 3445,
           "tipo": "simile"
         },
         {
-          "tmdbId": 10724,
-          "titolo": "Firefox - Volpe di fuoco",
-          "poster": "/7LsJPnSmgapYPdLdR2ZuSb5TVWP.jpg",
-          "anno": 1982,
-          "voto": 6.1,
-          "votanti": 641,
+          "tmdbId": 37921,
+          "titolo": "Prima vittoria",
+          "poster": "/yutbplwnl47SUYyJE3nlF7H5EQz.jpg",
+          "anno": 1965,
+          "voto": 6.57,
+          "votanti": 166,
           "tipo": "simile"
         },
         {
-          "tmdbId": 18771,
-          "titolo": "I sacrificati",
-          "poster": "/qmlnPxJDj5SjBssjgY74sFHtW13.jpg",
-          "anno": 1945,
-          "voto": 6.507,
-          "votanti": 140,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 8665,
-          "titolo": "K-19",
-          "poster": "/5jlRQSlxMNGlst7cXJYQJsM9mcz.jpg",
-          "anno": 2002,
-          "voto": 6.578,
-          "votanti": 1223,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 40683,
-          "titolo": "Lo squalo tonante",
-          "poster": "/KlF6uVaoY2SQwkykNWKkfQNd8u.jpg",
-          "anno": 1951,
-          "voto": 6.1,
-          "votanti": 59,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 1018332,
-          "titolo": "L'ammutinamento del Caine: Corte Marziale",
-          "poster": "/rCbJZWsXLj85Nw3oUfO9ZW5vdeB.jpg",
-          "anno": 2023,
-          "voto": 6.704,
-          "votanti": 142,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 43279,
-          "titolo": "Z-Men",
-          "poster": "/gJeXcCRTJFsprNhwIcw0zZiBJ5z.jpg",
-          "anno": 1982,
-          "voto": 5.9,
-          "votanti": 71,
+          "tmdbId": 29372,
+          "titolo": "I falchi di Rangoon",
+          "poster": "/boUa0VpNVRl62ljw6h3jnpwlncU.jpg",
+          "anno": 1942,
+          "voto": 6.25,
+          "votanti": 58,
           "tipo": "simile"
         },
         {
@@ -12270,7 +12270,7 @@
           "poster": "/AbzpU4ookiyWFmiq1bTZwjNl7Y1.jpg",
           "anno": 2014,
           "voto": 7.643,
-          "votanti": 15464,
+          "votanti": 15473,
           "tipo": "attore",
           "attore": "Tom Cruise"
         },
@@ -12280,7 +12280,7 @@
           "poster": "/rFl1MCcqwnkfaVUYB0GxDhx0UJK.jpg",
           "anno": 2013,
           "voto": 6.692,
-          "votanti": 11796,
+          "votanti": 11803,
           "tipo": "attore",
           "attore": "Tom Cruise"
         },
@@ -12289,8 +12289,8 @@
           "titolo": "Mission: Impossible - Protocollo fantasma",
           "poster": "/3Dw9tQDGQniwUyxCVIr0XzBPCd9.jpg",
           "anno": 2011,
-          "voto": 7.115,
-          "votanti": 10979,
+          "voto": 7.116,
+          "votanti": 10986,
           "tipo": "attore",
           "attore": "Tom Cruise"
         },
@@ -12300,7 +12300,7 @@
           "poster": "/jQwkXN38AGrK2s3LJqxZow1Ic7z.jpg",
           "anno": 2014,
           "voto": 8.375,
-          "votanti": 17042,
+          "votanti": 17048,
           "tipo": "attore",
           "attore": "Miles Teller"
         },
@@ -12310,7 +12310,7 @@
           "poster": "/wSan6AKkI0qeDVBHpLJnaZA3es1.jpg",
           "anno": 2014,
           "voto": 6.9,
-          "votanti": 13692,
+          "votanti": 13697,
           "tipo": "attore",
           "attore": "Miles Teller"
         },
@@ -12320,7 +12320,7 @@
           "poster": "/6pbp5Jx6Q8ZfEbNuddoib6fq3wr.jpg",
           "anno": 2015,
           "voto": 6.359,
-          "votanti": 10581,
+          "votanti": 10582,
           "tipo": "attore",
           "attore": "Miles Teller"
         }
@@ -12329,7 +12329,7 @@
         {
           "name": "Tom Cruise",
           "character": "Capt. Pete 'Maverick' Mitchell",
-          "profile": "/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+          "profile": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
         },
         {
           "name": "Miles Teller",
@@ -12359,7 +12359,7 @@
         {
           "name": "Monica Barbaro",
           "character": "Lt. Natasha 'Phoenix' Trace",
-          "profile": "/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+          "profile": "/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
         },
         {
           "name": "Lewis Pullman",
@@ -12434,19 +12434,28 @@
       "poster": "/rd7Baw7ne9zFOnyD0XZvc5fkC9A.jpg",
       "backdrop": "/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
       "tmdbRating": 6.703,
-      "tmdbVotes": 21885,
-      "popularity": 21.1015,
+      "tmdbVotes": 21887,
+      "popularity": 19.7755,
       "budget": 150000000,
       "revenue": 1671537444,
       "tagline": "Il parco è aperto.",
       "scoperte": [
         {
+          "tmdbId": 329,
+          "titolo": "Jurassic Park",
+          "poster": "/y6JuwymU5jzxKx4oLTrlpFZg0vj.jpg",
+          "anno": 1993,
+          "voto": 7.976,
+          "votanti": 18312,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 696806,
           "titolo": "The Adam Project",
           "poster": "/xBg84sOXWi1Au13PSNibwvFioda.jpg",
           "anno": 2022,
-          "voto": 6.986,
-          "votanti": 5132,
+          "voto": 6.985,
+          "votanti": 5135,
           "tipo": "simile"
         },
         {
@@ -12455,16 +12464,7 @@
           "poster": "/bliMVin0cfdWAwOME4G1Se4b7hq.jpg",
           "anno": 2024,
           "voto": 7.04,
-          "votanti": 4838,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 330,
-          "titolo": "Il mondo perduto - Jurassic Park",
-          "poster": "/yO75s9Fx2yv4GNIOsjYCHI5wBr2.jpg",
-          "anno": 1997,
-          "voto": 6.565,
-          "votanti": 9447,
+          "votanti": 4841,
           "tipo": "simile"
         },
         {
@@ -12472,7 +12472,7 @@
           "titolo": "Transformers 4 - L'era dell'estinzione",
           "poster": "/3kJGXe6E8sd8rYqBb4nmSSIzYNl.jpg",
           "anno": 2014,
-          "voto": 5.972,
+          "voto": 6,
           "votanti": 8931,
           "tipo": "simile"
         },
@@ -12481,17 +12481,8 @@
           "titolo": "Shark - Il primo squalo",
           "poster": "/tHT3u11zqloxCKokYHhCEak2BVX.jpg",
           "anno": 2018,
-          "voto": 6.3,
-          "votanti": 8364,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 294254,
-          "titolo": "Maze Runner - La fuga",
-          "poster": "/uaNxsWuNFDjfqrR37Cm0JGkM22o.jpg",
-          "anno": 2015,
-          "voto": 6.731,
-          "votanti": 11221,
+          "voto": 6.253,
+          "votanti": 8367,
           "tipo": "simile"
         },
         {
@@ -12499,8 +12490,8 @@
           "titolo": "Shark 2 - L'abisso",
           "poster": "/aXLb2YWXEammySGBh0m6aELmaNq.jpg",
           "anno": 2023,
-          "voto": 6.4,
-          "votanti": 4098,
+          "voto": 6.364,
+          "votanti": 4101,
           "tipo": "simile"
         },
         {
@@ -12508,8 +12499,17 @@
           "titolo": "Godzilla",
           "poster": "/bRi1riWEt4pKn8eMV7Z0Q39aQDI.jpg",
           "anno": 2014,
-          "voto": 6.368,
-          "votanti": 9992,
+          "voto": 6.367,
+          "votanti": 9996,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 11385,
+          "titolo": "Hatari!",
+          "poster": "/h3clRW1r0q4xTXap3t2cCdeArWt.jpg",
+          "anno": 1962,
+          "voto": 6.8,
+          "votanti": 275,
           "tipo": "simile"
         },
         {
@@ -12518,7 +12518,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32828,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -12528,7 +12528,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.907,
-          "votanti": 30253,
+          "votanti": 30262,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -12538,7 +12538,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28586,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -12548,7 +12548,7 @@
           "poster": "/qMbJaYKpMwWX621micQWiAYAGdi.jpg",
           "anno": 2007,
           "voto": 6.48,
-          "votanti": 15721,
+          "votanti": 15726,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         },
@@ -12558,7 +12558,7 @@
           "poster": "/bsVAjDLllFLEkuS1HwU96bbvkw5.jpg",
           "anno": 2001,
           "voto": 7.852,
-          "votanti": 11349,
+          "votanti": 11354,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         },
@@ -12568,7 +12568,7 @@
           "poster": "/smOfIKy6RASxhjjMDK5Tje55xT5.jpg",
           "anno": 2010,
           "voto": 6.187,
-          "votanti": 9377,
+          "votanti": 9379,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         }
@@ -12681,9 +12681,9 @@
       "releaseUS": "2018-06-22",
       "poster": "/4iGHioQuva4Q3KkeYNgohMP9kaR.jpg",
       "backdrop": "/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
-      "tmdbRating": 6.527,
-      "tmdbVotes": 12981,
-      "popularity": 20.5091,
+      "tmdbRating": 6.526,
+      "tmdbVotes": 12985,
+      "popularity": 19.1889,
       "budget": 170000000,
       "revenue": 1310469037,
       "tagline": "La vita vince sempre",
@@ -12693,8 +12693,8 @@
           "titolo": "X-Men - Giorni di un futuro passato",
           "poster": "/rqXB6fgPqUPInS2H88q1eRWmCq6.jpg",
           "anno": 2014,
-          "voto": 7.535,
-          "votanti": 16617,
+          "voto": 7.534,
+          "votanti": 16622,
           "tipo": "simile"
         },
         {
@@ -12703,7 +12703,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.907,
-          "votanti": 30253,
+          "votanti": 30262,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -12712,8 +12712,17 @@
           "titolo": "L'altra faccia del pianeta delle scimmie",
           "poster": "/v2ROPtIfh0usx9O0wjHLglRBthM.jpg",
           "anno": 1970,
-          "voto": 6.147,
-          "votanti": 1518,
+          "voto": 6.146,
+          "votanti": 1519,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 329,
+          "titolo": "Jurassic Park",
+          "poster": "/y6JuwymU5jzxKx4oLTrlpFZg0vj.jpg",
+          "anno": 1993,
+          "voto": 7.976,
+          "votanti": 18312,
           "tipo": "simile"
         },
         {
@@ -12721,8 +12730,8 @@
           "titolo": "Transformers: Il risveglio",
           "poster": "/7Yw8QjweGRaCidbTUZDD7mR2TPT.jpg",
           "anno": 2023,
-          "voto": 7.164,
-          "votanti": 5412,
+          "voto": 7.2,
+          "votanti": 5413,
           "tipo": "simile"
         },
         {
@@ -12730,8 +12739,8 @@
           "titolo": "Shark 2 - L'abisso",
           "poster": "/aXLb2YWXEammySGBh0m6aELmaNq.jpg",
           "anno": 2023,
-          "voto": 6.365,
-          "votanti": 4099,
+          "voto": 6.364,
+          "votanti": 4101,
           "tipo": "simile"
         },
         {
@@ -12739,8 +12748,8 @@
           "titolo": "Iron Man 2",
           "poster": "/lWSyc4wVNQyjlCtcZSIDauJTInI.jpg",
           "anno": 2010,
-          "voto": 6.855,
-          "votanti": 22867,
+          "voto": 6.854,
+          "votanti": 22876,
           "tipo": "simile"
         },
         {
@@ -12748,17 +12757,8 @@
           "titolo": "Transformers 4 - L'era dell'estinzione",
           "poster": "/3kJGXe6E8sd8rYqBb4nmSSIzYNl.jpg",
           "anno": 2014,
-          "voto": 5.972,
+          "voto": 6,
           "votanti": 8931,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 87101,
-          "titolo": "Terminator Genisys",
-          "poster": "/5OFFIRECtbhSEsPv2Zpg8Txg4I0.jpg",
-          "anno": 2015,
-          "voto": 5.959,
-          "votanti": 9150,
           "tipo": "simile"
         },
         {
@@ -12767,7 +12767,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32828,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -12777,7 +12777,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28586,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -12787,7 +12787,7 @@
           "poster": "/qMbJaYKpMwWX621micQWiAYAGdi.jpg",
           "anno": 2007,
           "voto": 6.48,
-          "votanti": 15721,
+          "votanti": 15726,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         },
@@ -12797,7 +12797,7 @@
           "poster": "/bsVAjDLllFLEkuS1HwU96bbvkw5.jpg",
           "anno": 2001,
           "voto": 7.852,
-          "votanti": 11349,
+          "votanti": 11354,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         },
@@ -12807,7 +12807,7 @@
           "poster": "/smOfIKy6RASxhjjMDK5Tje55xT5.jpg",
           "anno": 2010,
           "voto": 6.187,
-          "votanti": 9377,
+          "votanti": 9379,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         }
@@ -12921,8 +12921,8 @@
       "poster": "/1apKwfmbMA7hdCWmyGd12brQ7i2.jpg",
       "backdrop": "/9hk5iiycq7ukRAAXQiJT9HZX3SX.jpg",
       "tmdbRating": 6.594,
-      "tmdbVotes": 7258,
-      "popularity": 21.9635,
+      "tmdbVotes": 7262,
+      "popularity": 20.2292,
       "budget": 658800000,
       "revenue": 1004004592,
       "tagline": "L'epica conclusione dell'era Giurassica",
@@ -12933,7 +12933,7 @@
           "poster": "/bliMVin0cfdWAwOME4G1Se4b7hq.jpg",
           "anno": 2024,
           "voto": 7.04,
-          "votanti": 4840,
+          "votanti": 4841,
           "tipo": "simile"
         },
         {
@@ -12941,8 +12941,8 @@
           "titolo": "Underwater",
           "poster": "/j87zErBsZODFNV2h2gM9WGjqK3s.jpg",
           "anno": 2020,
-          "voto": 6.298,
-          "votanti": 3598,
+          "voto": 6.3,
+          "votanti": 3599,
           "tipo": "simile"
         },
         {
@@ -12950,8 +12950,8 @@
           "titolo": "L'altra faccia del pianeta delle scimmie",
           "poster": "/v2ROPtIfh0usx9O0wjHLglRBthM.jpg",
           "anno": 1970,
-          "voto": 6.147,
-          "votanti": 1518,
+          "voto": 6.146,
+          "votanti": 1519,
           "tipo": "simile"
         },
         {
@@ -12959,8 +12959,8 @@
           "titolo": "Shark 2 - L'abisso",
           "poster": "/aXLb2YWXEammySGBh0m6aELmaNq.jpg",
           "anno": 2023,
-          "voto": 6.365,
-          "votanti": 4099,
+          "voto": 6.364,
+          "votanti": 4101,
           "tipo": "simile"
         },
         {
@@ -12978,7 +12978,7 @@
           "poster": "/j0w3WQUfnX8HkVrWZlkYRca0BZD.jpg",
           "anno": 2003,
           "voto": 5.844,
-          "votanti": 2240,
+          "votanti": 2242,
           "tipo": "simile"
         },
         {
@@ -12986,17 +12986,17 @@
           "titolo": "Godzilla",
           "poster": "/bRi1riWEt4pKn8eMV7Z0Q39aQDI.jpg",
           "anno": 2014,
-          "voto": 6.368,
-          "votanti": 9993,
+          "voto": 6.367,
+          "votanti": 9996,
           "tipo": "simile"
         },
         {
-          "tmdbId": 294254,
-          "titolo": "Maze Runner - La fuga",
-          "poster": "/uaNxsWuNFDjfqrR37Cm0JGkM22o.jpg",
-          "anno": 2015,
-          "voto": 6.731,
-          "votanti": 11222,
+          "tmdbId": 345940,
+          "titolo": "Shark - Il primo squalo",
+          "poster": "/tHT3u11zqloxCKokYHhCEak2BVX.jpg",
+          "anno": 2018,
+          "voto": 6.253,
+          "votanti": 8367,
           "tipo": "simile"
         },
         {
@@ -13005,7 +13005,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32828,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -13015,7 +13015,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.907,
-          "votanti": 30253,
+          "votanti": 30262,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -13025,7 +13025,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28586,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Chris Pratt"
         },
@@ -13035,7 +13035,7 @@
           "poster": "/qMbJaYKpMwWX621micQWiAYAGdi.jpg",
           "anno": 2007,
           "voto": 6.48,
-          "votanti": 15721,
+          "votanti": 15726,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         },
@@ -13045,7 +13045,7 @@
           "poster": "/bsVAjDLllFLEkuS1HwU96bbvkw5.jpg",
           "anno": 2001,
           "voto": 7.852,
-          "votanti": 11349,
+          "votanti": 11354,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         },
@@ -13055,7 +13055,7 @@
           "poster": "/smOfIKy6RASxhjjMDK5Tje55xT5.jpg",
           "anno": 2010,
           "voto": 6.187,
-          "votanti": 9377,
+          "votanti": 9379,
           "tipo": "attore",
           "attore": "Bryce Dallas Howard"
         }
@@ -13169,7 +13169,7 @@
       "poster": "/cu6CTvQqVvaTUmWNGWydpf7EzmV.jpg",
       "backdrop": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
       "tmdbRating": 7.609,
-      "tmdbVotes": 34608,
+      "tmdbVotes": 34615,
       "popularity": 44.4925,
       "budget": 237000000,
       "revenue": 2923706026,
@@ -13180,8 +13180,8 @@
           "titolo": "Rebel Moon - Parte 2: La sfregiatrice",
           "poster": "/jxxv8VOTIPimq7RclxNKzi9zvgj.jpg",
           "anno": 2024,
-          "voto": 6.071,
-          "votanti": 1571,
+          "voto": 6.068,
+          "votanti": 1574,
           "tipo": "simile"
         },
         {
@@ -13189,8 +13189,17 @@
           "titolo": "Independence Day",
           "poster": "/dXaARuPnIVEQWM8TkPSJ8LBpc16.jpg",
           "anno": 1996,
-          "voto": 6.918,
-          "votanti": 10705,
+          "voto": 6.917,
+          "votanti": 10710,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 848326,
+          "titolo": "Rebel Moon - Parte 1: Figlia del fuoco",
+          "poster": "/iPaU3xGg3bEck3LJora4T64XTVN.jpg",
+          "anno": 2023,
+          "voto": 6.219,
+          "votanti": 2686,
           "tipo": "simile"
         },
         {
@@ -13199,16 +13208,7 @@
           "poster": "/einX0OLe6tex4m6HCy9JZCgLG6B.jpg",
           "anno": 2001,
           "voto": 6.198,
-          "votanti": 1650,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 330459,
-          "titolo": "Rogue One: A Star Wars Story",
-          "poster": "/mAFxtF1STaqs4Qu2OkH7rEhCrQB.jpg",
-          "anno": 2016,
-          "voto": 7.51,
-          "votanti": 16725,
+          "votanti": 1652,
           "tipo": "simile"
         },
         {
@@ -13221,21 +13221,21 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 54138,
-          "titolo": "Into Darkness - Star Trek",
-          "poster": "/dOWUALwIPVfSSHzWdSD0MGkAhnt.jpg",
-          "anno": 2013,
-          "voto": 7.32,
-          "votanti": 9851,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 13475,
           "titolo": "Star Trek - Il futuro ha inizio",
           "poster": "/rfJXitCKFWDu26OiD0YssjHo3R4.jpg",
           "anno": 2009,
-          "voto": 7.437,
-          "votanti": 10700,
+          "voto": 7.436,
+          "votanti": 10705,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 54138,
+          "titolo": "Into Darkness - Star Trek",
+          "poster": "/dOWUALwIPVfSSHzWdSD0MGkAhnt.jpg",
+          "anno": 2013,
+          "voto": 7.319,
+          "votanti": 9855,
           "tipo": "simile"
         },
         {
@@ -13243,8 +13243,8 @@
           "titolo": "John Carter",
           "poster": "/5XmErjIN8WnOIDR8qF5qq9VKUEk.jpg",
           "anno": 2012,
-          "voto": 6.385,
-          "votanti": 6272,
+          "voto": 6.384,
+          "votanti": 6274,
           "tipo": "simile"
         },
         {
@@ -13252,8 +13252,8 @@
           "titolo": "La battaglia di Hacksaw Ridge",
           "poster": "/hmaWy0tZlYoZoMpGId6MVIImIGG.jpg",
           "anno": 2016,
-          "voto": 8.194,
-          "votanti": 15257,
+          "voto": 8.2,
+          "votanti": 15265,
           "tipo": "attore",
           "attore": "Sam Worthington"
         },
@@ -13263,7 +13263,7 @@
           "poster": "/mF8c3XXuagWfMkr0qlZmWNLkU0F.jpg",
           "anno": 2009,
           "voto": 6.101,
-          "votanti": 7222,
+          "votanti": 7226,
           "tipo": "attore",
           "attore": "Sam Worthington"
         },
@@ -13272,8 +13272,8 @@
           "titolo": "Scontro tra titani",
           "poster": "/tVmlDunOpACiUvSJGPSjiWZAwdS.jpg",
           "anno": 2010,
-          "voto": 5.924,
-          "votanti": 6828,
+          "voto": 5.923,
+          "votanti": 6829,
           "tipo": "attore",
           "attore": "Sam Worthington"
         },
@@ -13283,7 +13283,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32828,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Zoe Saldaña"
         },
@@ -13293,7 +13293,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.907,
-          "votanti": 30253,
+          "votanti": 30262,
           "tipo": "attore",
           "attore": "Zoe Saldaña"
         },
@@ -13303,7 +13303,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28586,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Zoe Saldaña"
         }
@@ -13415,29 +13415,29 @@
       "releaseUS": "2022-12-16",
       "poster": "/idul2fSUPkk0EHP92EzmES6KGW4.jpg",
       "backdrop": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
-      "tmdbRating": 7.586,
-      "tmdbVotes": 14593,
+      "tmdbRating": 7.584,
+      "tmdbVotes": 14599,
       "popularity": 33.7361,
       "budget": 460000000,
       "revenue": 2334484620,
       "tagline": "Ritorno a Pandora.",
       "scoperte": [
         {
-          "tmdbId": 1892,
-          "titolo": "Il ritorno dello Jedi",
-          "poster": "/rMcCqpaWEUBmATmpZilDTKOyVbL.jpg",
-          "anno": 1983,
-          "voto": 7.911,
-          "votanti": 17262,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 283995,
           "titolo": "Guardiani della Galassia Vol. 2",
           "poster": "/zB9PgHUepL1aP6TJyZYuKTTUgWD.jpg",
           "anno": 2017,
           "voto": 7.609,
-          "votanti": 23391,
+          "votanti": 23399,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 154,
+          "titolo": "Star Trek II - L'ira di Khan",
+          "poster": "/2nHlpaWHtDgHEMJI38bfebeukAB.jpg",
+          "anno": 1982,
+          "voto": 7.449,
+          "votanti": 2205,
           "tipo": "simile"
         },
         {
@@ -13446,7 +13446,7 @@
           "poster": "/g1RV7CDr4cl1UAM1KNyqkW4S56e.jpg",
           "anno": 2008,
           "voto": 6.171,
-          "votanti": 6402,
+          "votanti": 6407,
           "tipo": "simile"
         },
         {
@@ -13454,8 +13454,17 @@
           "titolo": "Star Trek Beyond",
           "poster": "/m8PQxOsXRP8lh1nEdUnVmA5ooJ5.jpg",
           "anno": 2016,
-          "voto": 6.792,
-          "votanti": 7241,
+          "voto": 6.79,
+          "votanti": 7245,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 601,
+          "titolo": "E.T. l'extra-terrestre",
+          "poster": "/3DIwTC2A58WDtsgjaXjo2FYA1pW.jpg",
+          "anno": 1982,
+          "voto": 7.518,
+          "votanti": 12239,
           "tipo": "simile"
         },
         {
@@ -13463,8 +13472,8 @@
           "titolo": "Fast & Furious 9: The Fast Saga",
           "poster": "/o17wrpF3m9w2blQjglcFd5japvV.jpg",
           "anno": 2021,
-          "voto": 6.987,
-          "votanti": 7840,
+          "voto": 6.986,
+          "votanti": 7842,
           "tipo": "simile"
         },
         {
@@ -13473,7 +13482,7 @@
           "poster": "/lNs2tFWH7OMJzhF2sLBsQA2MNrM.jpg",
           "anno": 2018,
           "voto": 6.897,
-          "votanti": 14466,
+          "votanti": 14470,
           "tipo": "simile"
         },
         {
@@ -13481,17 +13490,8 @@
           "titolo": "Into Darkness - Star Trek",
           "poster": "/dOWUALwIPVfSSHzWdSD0MGkAhnt.jpg",
           "anno": 2013,
-          "voto": 7.32,
-          "votanti": 9850,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 1895,
-          "titolo": "Star Wars: Episodio III - La vendetta dei Sith",
-          "poster": "/jM5jU9JzxnyE8CXqiOpc2ZPIbEd.jpg",
-          "anno": 2005,
-          "voto": 7.474,
-          "votanti": 15261,
+          "voto": 7.319,
+          "votanti": 9855,
           "tipo": "simile"
         },
         {
@@ -13499,8 +13499,8 @@
           "titolo": "La battaglia di Hacksaw Ridge",
           "poster": "/hmaWy0tZlYoZoMpGId6MVIImIGG.jpg",
           "anno": 2016,
-          "voto": 8.194,
-          "votanti": 15257,
+          "voto": 8.2,
+          "votanti": 15265,
           "tipo": "attore",
           "attore": "Sam Worthington"
         },
@@ -13510,7 +13510,7 @@
           "poster": "/mF8c3XXuagWfMkr0qlZmWNLkU0F.jpg",
           "anno": 2009,
           "voto": 6.101,
-          "votanti": 7222,
+          "votanti": 7226,
           "tipo": "attore",
           "attore": "Sam Worthington"
         },
@@ -13519,8 +13519,8 @@
           "titolo": "Scontro tra titani",
           "poster": "/tVmlDunOpACiUvSJGPSjiWZAwdS.jpg",
           "anno": 2010,
-          "voto": 5.924,
-          "votanti": 6828,
+          "voto": 5.923,
+          "votanti": 6829,
           "tipo": "attore",
           "attore": "Sam Worthington"
         },
@@ -13530,7 +13530,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.242,
-          "votanti": 32828,
+          "votanti": 32837,
           "tipo": "attore",
           "attore": "Zoe Saldaña"
         },
@@ -13540,7 +13540,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.907,
-          "votanti": 30253,
+          "votanti": 30262,
           "tipo": "attore",
           "attore": "Zoe Saldaña"
         },
@@ -13550,7 +13550,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.242,
-          "votanti": 28586,
+          "votanti": 28591,
           "tipo": "attore",
           "attore": "Zoe Saldaña"
         }
@@ -13663,8 +13663,8 @@
       "poster": "/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",
       "backdrop": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
       "tmdbRating": 7.668,
-      "tmdbVotes": 12455,
-      "popularity": 41.9299,
+      "tmdbVotes": 12466,
+      "popularity": 38.0693,
       "budget": 185000000,
       "revenue": 772775278,
       "tagline": "Smaschera la verità.",
@@ -13684,7 +13684,16 @@
           "poster": "/p2JzxFRAlbxS4EvWMo4yiYZXu1W.jpg",
           "anno": 2012,
           "voto": 7.797,
-          "votanti": 24880,
+          "votanti": 24888,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 878183,
+          "titolo": "The Independent: Complotto per la Casa Bianca",
+          "poster": "/2gNjrO8RkVqp1HrHpq79p2nv9AB.jpg",
+          "anno": 2022,
+          "voto": 6.527,
+          "votanti": 147,
           "tipo": "simile"
         },
         {
@@ -13701,8 +13710,8 @@
           "titolo": "State of Play",
           "poster": "/vZJvGx0nGokBCqPMAf9SPdnTESM.jpg",
           "anno": 2009,
-          "voto": 6.811,
-          "votanti": 2206,
+          "voto": 6.81,
+          "votanti": 2207,
           "tipo": "simile"
         },
         {
@@ -13724,21 +13733,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 9944,
-          "titolo": "Il rapporto Pelican",
-          "poster": "/vH5VLtc7fUBGNFRnNiT63KjnAw8.jpg",
-          "anno": 1993,
-          "voto": 6.594,
-          "votanti": 1822,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 35006,
-          "titolo": "La maschera di Dimitrios",
-          "poster": "/sJSVCZWObESbsVz2KbsVYb7mVxa.jpg",
-          "anno": 1944,
-          "voto": 7.1,
-          "votanti": 56,
+          "tmdbId": 69735,
+          "titolo": "Batman: Year One",
+          "poster": "/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
+          "anno": 2011,
+          "voto": 7.249,
+          "votanti": 1072,
           "tipo": "simile"
         },
         {
@@ -13747,7 +13747,7 @@
           "poster": "/ghM7AvW4MWY9casNIjltqzCMjJQ.jpg",
           "anno": 2005,
           "voto": 7.802,
-          "votanti": 22582,
+          "votanti": 22587,
           "tipo": "attore",
           "attore": "Robert Pattinson"
         },
@@ -13757,7 +13757,7 @@
           "poster": "/n8nYzzKGP30M6u8sUon1YJmCgm8.jpg",
           "anno": 2008,
           "voto": 6.274,
-          "votanti": 14654,
+          "votanti": 14656,
           "tipo": "attore",
           "attore": "Robert Pattinson"
         },
@@ -13766,8 +13766,8 @@
           "titolo": "Tenet",
           "poster": "/iKXqUiLFDgeIGozRR6JYRvFmD5A.jpg",
           "anno": 2020,
-          "voto": 7.172,
-          "votanti": 11479,
+          "voto": 7.17,
+          "votanti": 11486,
           "tipo": "attore",
           "attore": "Robert Pattinson"
         },
@@ -13777,7 +13777,7 @@
           "poster": "/5gbm8m1gYvOmVGRcxteiplDLWdg.jpg",
           "anno": 2015,
           "voto": 7.637,
-          "votanti": 24550,
+          "votanti": 24561,
           "tipo": "attore",
           "attore": "Zoë Kravitz"
         },
@@ -13787,7 +13787,7 @@
           "poster": "/w5tKxNmdf3yI5lXSDa5vs6YwxHN.jpg",
           "anno": 2016,
           "voto": 7.308,
-          "votanti": 19955,
+          "votanti": 19959,
           "tipo": "attore",
           "attore": "Zoë Kravitz"
         },
@@ -13796,8 +13796,8 @@
           "titolo": "Spider-Man: Un nuovo universo",
           "poster": "/ps86PNqw9qCEA9eJD53t6RuiCkW.jpg",
           "anno": 2018,
-          "voto": 8.4,
-          "votanti": 17812,
+          "voto": 8.399,
+          "votanti": 17818,
           "tipo": "attore",
           "attore": "Zoë Kravitz"
         }
@@ -13806,7 +13806,7 @@
         {
           "name": "Robert Pattinson",
           "character": "Bruce Wayne / The Batman",
-          "profile": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "profile": "/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
         },
         {
           "name": "Zoë Kravitz",
@@ -13910,9 +13910,9 @@
       "releaseUS": "2022-06-24",
       "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
       "backdrop": "/rLo9T9jEg67UZPq3midjLnTUYYi.jpg",
-      "tmdbRating": 7.443,
-      "tmdbVotes": 4001,
-      "popularity": 10.3203,
+      "tmdbRating": 7.442,
+      "tmdbVotes": 4003,
+      "popularity": 9.0715,
       "budget": 85000000,
       "revenue": 288670284,
       "tagline": "L'uomo. La leggenda. Il Re del Rock & Roll.",
@@ -14026,8 +14026,8 @@
       "poster": "/rWOZ9DVtdbRMgEq3XAnSerUnGiq.jpg",
       "backdrop": "/8sPxa4sdRvjgRG3GgkO8RQxUR9P.jpg",
       "tmdbRating": 6.985,
-      "tmdbVotes": 1693,
-      "popularity": 10.349,
+      "tmdbVotes": 1694,
+      "popularity": 10.071,
       "budget": 16000000,
       "revenue": 15234907,
       "tagline": "You can’t run from who you are.",
@@ -14141,28 +14141,19 @@
       "poster": "/4XJQG11Ytl8mKfgbl2jkoY5ZuFX.jpg",
       "backdrop": "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
       "tmdbRating": 7.605,
-      "tmdbVotes": 15626,
-      "popularity": 32.4548,
+      "tmdbVotes": 15634,
+      "popularity": 31.0849,
       "budget": 150000000,
       "revenue": 259239658,
       "tagline": "Chi sono io?",
       "scoperte": [
-        {
-          "tmdbId": 78,
-          "titolo": "Blade Runner",
-          "poster": "/2mPclQ5v9YK0eqCefvav3YsYPYI.jpg",
-          "anno": 1982,
-          "voto": 7.936,
-          "votanti": 15367,
-          "tipo": "simile"
-        },
         {
           "tmdbId": 500664,
           "titolo": "Upgrade",
           "poster": "/a2fNteyZIxHNJoI7e6LZNScx7MV.jpg",
           "anno": 2018,
           "voto": 7.512,
-          "votanti": 5214,
+          "votanti": 5220,
           "tipo": "simile"
         },
         {
@@ -14170,8 +14161,8 @@
           "titolo": "Killerobots",
           "poster": "/mZGXpmubSRHi0FTkSm99r4dMeFC.jpg",
           "anno": 2020,
-          "voto": 6.414,
-          "votanti": 444,
+          "voto": 6.409,
+          "votanti": 445,
           "tipo": "simile"
         },
         {
@@ -14179,8 +14170,8 @@
           "titolo": "The Chronicles of Riddick",
           "poster": "/3mMiXEw9kHWfdjUwACAFHy2rie1.jpg",
           "anno": 2004,
-          "voto": 6.559,
-          "votanti": 4623,
+          "voto": 6.558,
+          "votanti": 4627,
           "tipo": "simile"
         },
         {
@@ -14188,8 +14179,8 @@
           "titolo": "Humandroid",
           "poster": "/qwPivsWL5CWgbGlGGogQUDnapzj.jpg",
           "anno": 2015,
-          "voto": 6.792,
-          "votanti": 8645,
+          "voto": 6.791,
+          "votanti": 8650,
           "tipo": "simile"
         },
         {
@@ -14198,7 +14189,7 @@
           "poster": "/mF8c3XXuagWfMkr0qlZmWNLkU0F.jpg",
           "anno": 2009,
           "voto": 6.101,
-          "votanti": 7221,
+          "votanti": 7226,
           "tipo": "simile"
         },
         {
@@ -14206,8 +14197,8 @@
           "titolo": "RoboCop 2",
           "poster": "/r3WRiqrwcZkDYXqap5kSmXcFS5J.jpg",
           "anno": 1990,
-          "voto": 6.039,
-          "votanti": 2199,
+          "voto": 6.038,
+          "votanti": 2201,
           "tipo": "simile"
         },
         {
@@ -14215,8 +14206,17 @@
           "titolo": "Impostor",
           "poster": "/8ib5e5e2wB7GWKM0Ync5XZVu9Xd.jpg",
           "anno": 2001,
-          "voto": 6.136,
-          "votanti": 494,
+          "voto": 6.131,
+          "votanti": 495,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 218,
+          "titolo": "Terminator",
+          "poster": "/3oi7iQwFwSALSsZRtAOnRX4WUPp.jpg",
+          "anno": 1984,
+          "voto": 7.691,
+          "votanti": 15071,
           "tipo": "simile"
         },
         {
@@ -14224,8 +14224,8 @@
           "titolo": "La La Land",
           "poster": "/cWYy1YTVaZRAuxLtX1tYNvtzAt1.jpg",
           "anno": 2016,
-          "voto": 7.9,
-          "votanti": 18437,
+          "voto": 7.896,
+          "votanti": 18446,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -14235,7 +14235,7 @@
           "poster": "/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
           "anno": 2011,
           "voto": 7.583,
-          "votanti": 13961,
+          "votanti": 13971,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -14245,7 +14245,7 @@
           "poster": "/pu5Q3YuYgSkfkVIdkChJVZjAaI5.jpg",
           "anno": 2004,
           "voto": 7.89,
-          "votanti": 12835,
+          "votanti": 12842,
           "tipo": "attore",
           "attore": "Ryan Gosling"
         },
@@ -14255,7 +14255,7 @@
           "poster": "/fVqKwpvobwWy0P1UImZWIDuw4RI.jpg",
           "anno": 1977,
           "voto": 8.208,
-          "votanti": 22819,
+          "votanti": 22827,
           "tipo": "attore",
           "attore": "Harrison Ford"
         },
@@ -14264,8 +14264,8 @@
           "titolo": "Star Wars: Il risveglio della Forza",
           "poster": "/uEDFRwKiTOsIsN5dkEPCj1laIAK.jpg",
           "anno": 2015,
-          "voto": 7.242,
-          "votanti": 20875,
+          "voto": 7.241,
+          "votanti": 20881,
           "tipo": "attore",
           "attore": "Harrison Ford"
         },
@@ -14275,7 +14275,7 @@
           "poster": "/6vzDHECuUbKiqSSXHcIKb9LPcQs.jpg",
           "anno": 1980,
           "voto": 8.393,
-          "votanti": 18808,
+          "votanti": 18815,
           "tipo": "attore",
           "attore": "Harrison Ford"
         }
@@ -14501,7 +14501,7 @@
       "backdrop": "/ycqTwRV7jUxjMospXxKTVS74nft.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 7.9203,
+      "popularity": 8.0596,
       "budget": null,
       "revenue": null,
       "tagline": "We're way past making friends.",
@@ -14574,7 +14574,7 @@
       "tmdbId": 1492198,
       "title": "Artificial",
       "originalTitle": null,
-      "release": "2026-10-05",
+      "release": "2026-12-25",
       "director": "Luca Guadagnino",
       "genres": [
         "Commedia",
@@ -14609,14 +14609,14 @@
       "metascore": null,
       "imdbRating": null,
       "imdbVotes": null,
-      "releaseFonte": "globale",
-      "releaseGlobale": "2026-10-05",
-      "releaseUS": null,
+      "releaseFonte": "US",
+      "releaseGlobale": "2026-12-25",
+      "releaseUS": "2026-12-25",
       "poster": "/6RKRs1vE0KPQIAtRseP9y6MNJe1.jpg",
       "backdrop": "/or81MQagASpU9WeLxEA3GuG3iFk.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 3.2762,
+      "popularity": 7.2714,
       "budget": 40000000,
       "revenue": null,
       "tagline": null,
@@ -14650,7 +14650,7 @@
         {
           "name": "Monica Barbaro",
           "character": "Mira Murati",
-          "profile": "/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+          "profile": "/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
         },
         {
           "name": "Billie Lourd",
@@ -14728,7 +14728,7 @@
       "backdrop": "/bl4ym2v9TfJEoYM7flLtIHksXp8.jpg",
       "tmdbRating": null,
       "tmdbVotes": null,
-      "popularity": 3.0989,
+      "popularity": 3.0476,
       "budget": null,
       "revenue": null,
       "tagline": null,
@@ -14810,7 +14810,7 @@
       "countries": [
         "USA"
       ],
-      "runtime": 114,
+      "runtime": 117,
       "trailer": null,
       "cast": [
         "Dakota Johnson",
@@ -14892,5 +14892,5 @@
       ]
     }
   ],
-  "enrichedAt": "2026-09-08T05:06:18.927Z"
+  "enrichedAt": "2026-09-09T05:05:54.656Z"
 }
