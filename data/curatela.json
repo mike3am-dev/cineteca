@@ -383,12 +383,6 @@
     "perche": "Le prime immagini di un titolo di cui finora si sapeva poco",
     "sezione": "notizia"
   },
-  "https://www.screenweek.it/maxton-hall-il-teaser-trailer-ufficiale/": {
-    "titolo": "Maxton Hall, il teaser trailer ufficiale",
-    "sommario": "È stato diffuso il teaser ufficiale della serie.",
-    "perche": "È una serie televisiva, non un film",
-    "sezione": "scarta"
-  },
   "https://www.screenweek.it/venezia-83-un-emozionato-john-malkovich-alla-premiere-mondiale-di-wild-horse-nine/": {
     "titolo": "John Malkovich commosso alla premiere mondiale di Wild Horse Nine",
     "sommario": "A Venezia Martin McDonagh ha spiegato la genesi del film e i parallelismi che vede con l'epoca odierna.",
@@ -557,12 +551,6 @@
     "perche": "Chi firma i film che vediamo, e chi invece resta fuori dal concorso",
     "sezione": "approfondimento"
   },
-  "https://www.theguardian.com/film/2026/sep/06/wim-wenders-clarifies-does-not-believe-film-makers-stay-out-of-politics": {
-    "titolo": "Wim Wenders precisa: i registi non devono restare fuori dalla politica",
-    "sommario": "Il regista tedesco chiarisce al Lido le parole che avevano fatto discutere all'inizio dell'anno.",
-    "perche": "La stessa precisazione è raccontata più in dettaglio da Cineblog",
-    "sezione": "scarta"
-  },
   "https://www.slashfilm.com/2251386/for-all-mankind-joel-kinnaman-worst-sci-fi-movie-the-darkest-hour/": {
     "titolo": "L'esordio internazionale di Joel Kinnaman fu un disastro di fantascienza",
     "sommario": "The Darkest Hour, stroncato all'uscita nel 2011, segnò il passaggio dell'attore svedese dal cinema di casa a quello americano.",
@@ -724,12 +712,6 @@
     "sommario": "Nella selezione anche tre registi italiani: Giovanni Veronesi, Gianni Amelio e Mario Martone.",
     "perche": "Fuori dalla corsa ai premi si nascondono spesso i film più godibili",
     "sezione": "notizia"
-  },
-  "https://www.cineblog.it/post/edoardo-pesce-incanta-venezia-con-il-suo-giaffa-favola-nera-degli-invisibili": {
-    "titolo": "Il Grande Giaffa, l'esordio di Marco Santi conquista la Settimana della critica",
-    "sommario": "Favola nera sulla popolarità senza ragione, con Edoardo Pesce, Roberto Zibetti, Barbara Chichiarelli e Carlotta Gamba.",
-    "perche": "Un esordio italiano che parte dal bisogno molto umano di essere visti",
-    "sezione": "approfondimento"
   },
   "https://cinefilos.it/tutto-film/recensioni/possible-love-recensione-la-sociologia-dellamore-di-lee-chang-dong-720440": {
     "titolo": "Possible Love, la sociologia dell'amore secondo Lee Chang-dong",
@@ -953,12 +935,6 @@
     "perche": "Il cinema d'archivio come macchina del tempo, dall'autore di Two Prosecutors",
     "sezione": "approfondimento"
   },
-  "https://www.hollywoodreporter.com/movies/movie-news/bruce-davis-dead-chief-executive-of-film-academy-1236692990/": {
-    "titolo": "Morto a 83 anni Bruce Davis, storico direttore dell'Academy",
-    "sommario": "Guidò l'Academy of Motion Picture Arts and Sciences dal 1989 al 2011 e ne scrisse la storia ufficiale in «The Academy and the Award».",
-    "perche": "Ventidue anni di Oscar passati dalle sue mani, sempre dietro le quinte",
-    "sezione": "passato"
-  },
   "https://www.slashfilm.com/2252172/aaron-taylor-johnson-heist-movie-fuze-streaming-hbo-max-september-2026/": {
     "titolo": "Il film di rapina con Aaron Taylor-Johnson è il maggior successo di HBO Max",
     "sommario": "«Fuze», heist movie di 96 minuti passato quasi inosservato in sala, è diventato il titolo più visto in streaming sulla piattaforma.",
@@ -1121,12 +1097,6 @@
     "perche": "Il ritorno di un cult anni '90, per capire se vale ancora il biglietto",
     "sezione": "approfondimento"
   },
-  "https://www.slashfilm.com/2250623/practical-magic-2-review/": {
-    "titolo": "Amori & incantesimi 2, la stroncatura di /Film",
-    "sommario": "Per /Film il sequel è montato male e non fa ridere: la nostalgia non basta a salvarlo.",
-    "perche": "Doppione: lo stesso film è già coperto dalla recensione del Guardian",
-    "sezione": "scarta"
-  },
   "https://deadline.com/2026/09/the-fox-release-date-theaters-aquired-aura-entertainment-1237070975/": {
     "titolo": "The Fox, la commedia nera con Sam Neill uscirà nelle sale americane a dicembre",
     "sommario": "Aura Entertainment ha comprato i diritti USA del film di Dario Russo, con Jai Courtney, Emily Browning e Olivia Colman.",
@@ -1163,12 +1133,6 @@
     "perche": "Fantascienza e disastro su larga scala, il seguito di Godzilla Minus One",
     "sezione": "notizia"
   },
-  "https://deadline.com/2026/09/company-review-nick-nolte-director-casey-affleck-venice-1237070484/": {
-    "titolo": "Company, la recensione di Deadline da Venezia",
-    "sommario": "Per Deadline il film di Casey Affleck vive soprattutto grazie al figlio Atticus.",
-    "perche": "Doppione: terza recensione dello stesso film nella stessa rassegna",
-    "sezione": "scarta"
-  },
   "https://deadline.com/2026/09/remain-trailer-jake-gyllenhaal-phoebe-dynevor-1237071245/": {
     "titolo": "Remain, il trailer del film di Shyamalan con Jake Gyllenhaal e Phoebe Dynevor",
     "sommario": "Warner Bros. lancia l'adattamento del romanzo scritto da M. Night Shyamalan con Nicholas Sparks: Gyllenhaal è un architetto solitario a Cape Cod.",
@@ -1198,24 +1162,6 @@
     "sommario": "Il professore matto è tornato nelle sale americane per l'anniversario, ma la riedizione ha incassato quasi nulla nel fine settimana.",
     "perche": "Che cosa resta oggi di una commedia campione d'incassi degli anni '90",
     "sezione": "passato"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/jake-gyllenhaal-phoebe-dynevor-remain-teaser-trailer-1236694038/": {
-    "titolo": "Remain, il teaser secondo The Hollywood Reporter",
-    "sommario": "Shyamalan dirige da una sceneggiatura propria, su una storia scritta con Nicholas Sparks.",
-    "perche": "Doppione: lo stesso trailer è già in rassegna con la notizia di Deadline",
-    "sezione": "scarta"
-  },
-  "https://www.slashfilm.com/2252821/remain-trailer-m-night-shyamalan-nicholas-sparks-movie/": {
-    "titolo": "Remain, il trailer secondo /Film",
-    "sommario": "Jake Gyllenhaal e Phoebe Dynevor nella storia d'amore soprannaturale di Shyamalan e Sparks.",
-    "perche": "Doppione: terza copertura dello stesso trailer",
-    "sezione": "scarta"
-  },
-  "https://www.slashfilm.com/2252602/godzilla-minus-zero-trailer/": {
-    "titolo": "Godzilla Minus Zero, il trailer secondo /Film",
-    "sommario": "Il kaiju torna e si dirige verso Londra nel seguito di Godzilla Minus One.",
-    "perche": "Doppione: lo stesso trailer è già coperto da Deadline",
-    "sezione": "scarta"
   },
   "https://www.hollywoodreporter.com/movies/movie-features/mayday-saved-ryan-reynolds-called-mayor-1236691230/": {
     "titolo": "Una telefonata di Ryan Reynolds al sindaco di Budapest ha salvato una scena di Mayday",
@@ -1265,12 +1211,6 @@
     "perche": "Il romanzo young adult resta la miniera preferita degli studios americani",
     "sezione": "notizia"
   },
-  "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology": {
-    "titolo": "Company, la recensione del Guardian da Venezia",
-    "sommario": "Per il Guardian il terzo film da regista di Affleck è un'antologia gotica su sconosciuti misteriosi e delitti.",
-    "perche": "Doppione: il film è già coperto da notizia e recensione in rassegna",
-    "sezione": "scarta"
-  },
   "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice": {
     "titolo": "A Venezia il documentario di Alex Gibney su Elon Musk, con l'accusa dell'ex compagna",
     "sommario": "Alla presentazione al Lido, Ashley St Clair ha riferito frasi di Musk sul volere molti figli e ha messo in guardia sulla sua influenza.",
@@ -1313,23 +1253,11 @@
     "perche": "Un dramma che affronta di petto quello che il cinema di solito evita",
     "sezione": "approfondimento"
   },
-  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-bunker-red-carpet-javier-bardem-penelope-cruz-foto-720753": {
-    "titolo": "Bunker, le foto del red carpet di Bardem e Cruz a Venezia",
-    "sommario": "Galleria fotografica del passaggio sul tappeto rosso della coppia protagonista del film di Florian Zeller.",
-    "perche": "Doppione fotografico: il film è già coperto da notizia e recensione",
-    "sezione": "scarta"
-  },
   "https://www.badtaste.it/articoli/sara-un-viaggio-tra-gli-inferi-mel-gibson-aggiorna-sul-folle-sequel-de-la-passione-di-cristo": {
     "titolo": "Mel Gibson sul sequel de La passione di Cristo: «Sarà un viaggio tra gli inferi»",
     "sommario": "In un'intervista a The Christian Post il regista anticipa che il film attraverserà i diversi mondi dei Vangeli e mostrerà Satana in persona.",
     "perche": "Il seguito più improbabile e più atteso del cinema americano recente",
     "sezione": "notizia"
-  },
-  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/bunker-penelope-cruz-javier-bardem-venezia-83-719584": {
-    "titolo": "Bunker, l'anteprima del film di Zeller con Cruz e Bardem",
-    "sommario": "Scheda su trama e cast del thriller drammatico presentato in Concorso a Venezia l'8 settembre.",
-    "perche": "Doppione: superato dalla cronaca della prima e dalla recensione",
-    "sezione": "scarta"
   },
   "https://www.badtaste.it/articoli/una-margot-robbie-iconica-nel-cinecomic-su-prime-video-che-ha-rivoluzionato-un-personaggio-dei-fumetti": {
     "titolo": "Margot Robbie e la Harley Quinn che ha cambiato il cinecomic, su Prime Video",
@@ -1355,12 +1283,6 @@
     "perche": "C'è Tom Holland, che hai visto due volte",
     "sezione": "notizia"
   },
-  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/venezia-83-company-red-carpet-casey-affleck-nick-nolte-foto-720805": {
-    "titolo": "Company, le foto del red carpet di Casey Affleck e Nick Nolte",
-    "sommario": "Galleria fotografica del passaggio sul tappeto rosso del cast del film in Concorso a Venezia.",
-    "perche": "Doppione fotografico: il film è già in rassegna con notizia e recensione",
-    "sezione": "scarta"
-  },
   "https://www.badtaste.it/articoli/ellen-burstyn-riceve-il-leone-doro-a-venezia-83-e-ricorda-lesorcista-mi-infortunai-ma-cambio-il-cinema": {
     "titolo": "Ellen Burstyn riceve il Leone d'Oro alla carriera a Venezia 83",
     "sommario": "L'attrice ha ricordato L'Esorcista, l'infortunio sul set e il rapporto con William Friedkin: «Mi feci male, ma quel film cambiò il cinema».",
@@ -1379,18 +1301,6 @@
     "perche": "La recensione italiana del film più discusso della giornata veneziana",
     "sezione": "approfondimento"
   },
-  "https://www.badtaste.it/articoli/clara-a-venezia-2026-il-look-da-cigno-nero-conquista-il-significato-dellabito": {
-    "titolo": "Il look di Clara sul red carpet di Venezia 2026",
-    "sommario": "Cronaca di moda sull'abito d'archivio scelto dalla cantante per il tappeto rosso della Mostra.",
-    "perche": "Non è cinema: è costume e moda da red carpet",
-    "sezione": "scarta"
-  },
-  "https://cinefilos.it/serie-tv/news/dexter-resurrection-2-data-uscita-teaser-dexter-morgan-720749": {
-    "titolo": "Dexter: Resurrection 2, il primo teaser e la data di uscita",
-    "sommario": "Paramount+ ha diffuso il teaser della seconda stagione, annunciando quando torneranno i nuovi episodi.",
-    "perche": "Non è cinema: è una serie televisiva",
-    "sezione": "scarta"
-  },
   "https://www.screenweek.it/venezia-83-alessandro-borghi-e-leonardo-lidi-parlano-di-serpenti/": {
     "titolo": "Venezia 83, Alessandro Borghi e Leonardo Lidi presentano Serpenti",
     "sommario": "L'attore e il regista hanno parlato del film alla 83ª Mostra internazionale d'arte cinematografica di Venezia.",
@@ -1402,12 +1312,6 @@
     "sommario": "ScreenWeek raccoglie gli incontri con i cast della giornata; presentato anche il film di Tommaso Landucci con Riccardo Scamarcio.",
     "perche": "Il polso quotidiano della Mostra, film per film",
     "sezione": "notizia"
-  },
-  "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/company-casey-affleck-venezia-83-trama-cast-719594": {
-    "titolo": "Company, la scheda del film di Casey Affleck a Venezia",
-    "sommario": "Trama e cast del terzo film da regista di Affleck, con Nick Nolte, Ben Mendelsohn e Scoot McNairy.",
-    "perche": "Doppione: anteprima superata dalla cronaca della prima e dalle recensioni",
-    "sezione": "scarta"
   },
   "https://www.badtaste.it/articoli/su-prime-video-il-cult-di-david-lynch-che-diventa-piu-potente-ogni-volta-che-lo-rivedi-senza-capirlo": {
     "titolo": "Il cult di David Lynch che diventa più potente a ogni visione è su Prime Video",
@@ -1437,12 +1341,6 @@
     "titolo": "Ballando con le Stelle, Andy Díaz Hernández nel cast della nuova edizione",
     "sommario": "Il triplista cubano naturalizzato italiano è il dodicesimo concorrente annunciato dal programma.",
     "perche": "Non è cinema: è un programma televisivo",
-    "sezione": "scarta"
-  },
-  "https://movieplayer.it/news/andrew-garfield-uprising-sotto-miliardari-anima-malata_170950/": {
-    "titolo": "Andrew Garfield sulle ambizioni politiche di The Uprising",
-    "sommario": "L'attore spera che il film di Paul Greengrass provochi una presa di coscienza anche tra i miliardari contemporanei.",
-    "perche": "Doppione: la stessa intervista promozionale è già in rassegna",
     "sezione": "scarta"
   },
   "https://www.screenweek.it/wild-horse-nine-mcdonagh-racconta-le-ferite-del-nostro-presente/": {
