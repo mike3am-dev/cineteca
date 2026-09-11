@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-10T05:44:41.244Z",
+  "preparato": "2026-09-11T05:06:00.939Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -34,12 +34,748 @@
   },
   "articoli": [
     {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-spider-man-brand-new-day-box-office-1236697368/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-11T04:37:04.000Z",
+      "titolo": "‘Practical Magic 2’ Aims to Make ‘Spider-Man’ Disappear From No. 1 at the Box Office",
+      "sommario": "Sony's 'Brand New Day' has held the top spot on the domestic chart for six straight weeks.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Spider-Man: Brand New Day (in libreria)",
+        "Amori & incantesimi 2"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2253914/zach-cregger-resident-evil-movie-box-office-preview/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-10T15:00:00.000Z",
+      "titolo": "Zach Cregger's Resident Evil Reboot Eyes Record Box Office Opening For The Franchise",
+      "sommario": "Zach Cregger's Resident Evil movie reboot looks to keep the Barbarian and Weapons director's box office winning streak going strong.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Resident Evil (in libreria)",
+        "Weapons (in libreria, visto)",
+        "Zach Cregger"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-10T13:57:06.000Z",
+      "titolo": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
+      "sommario": "<p>The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa</p><p>As well as celebrating their wedding, the actors Tom Holland and Zendaya have something else to toast: their two summer blockbusters – The ",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Spider-Man: Brand New Day (in libreria)",
+        "Tom Holland",
+        "Zendaya"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/resident-evil-filmmaker-zach-cregger-test-screenings-1236697134/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-10T22:57:36.000Z",
+      "titolo": "‘Resident Evil’ Filmmaker Zach Cregger Reveals the Key Adjustment He Made After Test Screenings",
+      "sommario": "Test audiences always liked the film, but after removing much of the humor, \"not only did the audience enjoy the movie more, but I also liked the movie a lot more.\"",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Resident Evil (in libreria)",
+        "Weapons (in libreria, visto)",
+        "Zach Cregger"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2254600/resident-evil-director-zach-cregger-movie-elements-games/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-10T18:00:00.000Z",
+      "titolo": "Resident Evil Director Zach Cregger Reveals What His Movie Had To Include From The Games [Exclusive]",
+      "sommario": "When it came to his Resident Evil movie, director Zach Cregger had specific elements he wanted to carry over from the original video games.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Resident Evil (in libreria)",
+        "Zach Cregger"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/awards/sian-heder-being-heumann-tiff-apple-oscars-contender-1236858078/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-11T04:16:17.000Z",
+      "titolo": "TIFF Opens With Siân Heder’s Crowd-Pleasing ‘Being Heumann’ — and Apple Has Its Next Oscar Contender",
+      "sommario": "“Being Heumann” opens on a New York sidewalk that doesn’t allow Judy Heumann to climb it. There’s no curb cut or ramp. Just a woman and her wheelchair. Director Siân Heder holds on it — and then Judy gives the middle finger. And it immediately hooks the viewer in for the ride. At least that […]",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/lists/2027-oscars-predictions/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-11T03:40:00.000Z",
+      "titolo": "Oscar Predictions 2027: Telluride Reshapes the Best Picture Race as TIFF Lines Up Its Crowd-Pleasers",
+      "sommario": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current sta",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/the-housewife-review-naomi-watts-holocaust-drama-1237073808/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-11T03:15:00.000Z",
+      "titolo": "‘The Housewife’ Review: Naomi Watts Is Chilling In Disturbing Post-Holocaust Drama With A Surprising Twist – Toronto Film Festival",
+      "sommario": "In 2015, Alyssa Hill’s startling Holocaust-themed script made the Black List of best unproduced screenplays. Now, a decade later, it has finally been made, and somehow the timing is just right for this challenging and pertinent portrait of a woman who lived a lie, hiding in plain sight until an intrepid young New York ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/gallery/2026-toronto-film-festival-tiff-premieres-red-carpet-photos-2/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-10T23:45:22.000Z",
+      "titolo": "2026 Toronto Film Festival Photos: Opening Ceremony, ‘Being Heumann,’ ‘Rapinoe’ & ‘Stuffed’ Premieres",
+      "sommario": "The 51st Toronto Film Festival is celebrating a major milestone this year, and the festivities are about to begin. Kicking off on Thursday, September 10, and running through September 20, the festival will showcase a massive program of 293 feature films, 45 shorts and 32 premieres. This year’s festival kicks off with S",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2255332/primetime-reactions-robert-pattinson-chris-hansen-movie/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-10T19:47:51.000Z",
+      "titolo": "Primetime Reactions: Is Robert Pattinson's Chris Hansen Movie Worth Watching?",
+      "sommario": "Primetime, the true story-based thriller starring Robert Pattinson as Chris Hansen, has generated a lot of buzz. Here's what critics are saying about it.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Robert Pattinson"
+      ],
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte"
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/10/sandra-bullock-nicole-kidman-agelessness-practical-magic-2",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-10T09:00:54.000Z",
+      "titolo": "Two times a charm: Is Sandra Bullock and Nicole Kidman’s agelessness the real trick of Practical Magic 2?",
+      "sommario": "<p>A film about sisterhood with fifty- and sixtysomething female leads is something to cheer – but would it have been made if its stars had aged like mere mortals since the 1998 original?</p><p>Would Hollywood have brought Practical Magic back from the dead if the intervening 28 years looked more visible on Sandra Bull",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Amori & incantesimi 2"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/low-lies-the-land-clip-toronto-film-festival-1237073709/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-10T17:58:01.000Z",
+      "titolo": "Drink In ‘Low Lies The Land,’ Documentary Set In Luscious But Imperiled Winemaking Region Of Italy’s Piemonte – Toronto Film Festival",
+      "sommario": "EXCLUSIVE: Low Lies the Land, a documentary set in the winemaking Piemonte region of Italy, may become the toast of Toronto. The film featuring a rich bouquet of families engaged in viticulture hosts its world premiere Friday at TIFF. We have your exclusive first look at Emanuele Gerosa’s film in the clip above. “Nestl",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/video/2026/sep/11/documentary-naza-gets-25-minute-standing-ovation-at-venice-film-festival-premiere-video-ntwnfb",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-11T01:02:34.000Z",
+      "titolo": "Documentary NAZA gets 25-minute standing ovation at Venice film festival premiere – video",
+      "sommario": "<p>The documentary NAZA about the civilian death toll in Gaza was received with a 25-minute standing ovation at its Venice film festival premiere. The Guardian-produced film takes its title from an Israeli military term for expected 'collateral casualties' and is built around testimony from intelligence officers and so",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-film-festival-2026-opening-night-being-heumann-1236697379/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-11T04:52:52.000Z",
+      "titolo": "Sian Heder Says “Collective Action Matters” as ‘Being Heumann’ Opens Toronto Film Festival",
+      "sommario": "Toronto Mayor Olivia Chow declared her city’s waterfront “will always be Lake Ontario” during a gala opening night for TIFF overshadowed by Donald Trump’s trade war with Canada.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/montclair-film-festival-wild-horse-9-elsinore-14th-behemoth-1236697218/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-10T23:33:32.000Z",
+      "titolo": "Montclair Film Festival Sets ‘Wild Horse Nine,’ ‘Elsinore,’ ’14th’ and ‘Behemoth!’ Screenings",
+      "sommario": "The New Jersey event will also screen Brad Bird's 'Ray Gunn' as its animation centerpiece.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/10/naza-review-israel-gaza",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-10T15:15:39.000Z",
+      "titolo": "NAZA review – Israeli intelligence officers cast chilling light on civilian deaths",
+      "sommario": "<p><strong>Venice film festival: </strong>Under the cover of night, anonymous personnel discuss AI, error rates and problematic intelligence units in a documentary produced by the Guardian</p><p>Here is a disquieting documentary about what Israel’s military chiefs in Gaza reputedly call “Naza”, meaning civilian collate",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/reviews/being-heumann-review-sian-heder-judith-huemann-1236857936/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-11T03:56:38.000Z",
+      "titolo": "‘Being Heumann’ Review: Siân Heder’s First Film Since ‘CODA’ Is a Bold and Stirring Dramatization of the Protest That Launched the Disabled-Rights Revolution",
+      "sommario": "\"Being Huemann\" isn’t as transporting a movie as \"CODA\" was, yet it’s a stirring drama cut from the same cloth of cathartic empathy.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/reviews/burgundy-review-1236847240/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-11T01:08:06.000Z",
+      "titolo": "‘Burgundy’ Review: An Attractive, Light-Bodied Wine Doc With a Good Nose but No Legs",
+      "sommario": "“Everything that follows is true. Exactly as we dreamed it,” reads the opening title of “Burgundy,” from award-winning documentary duo Michael Dweck and Gregory Kershaw, with an almost legible wink. It’s a sweet start to a sweet movie, but in retrospect it sounds a little defensive, as though the pair are aware that, e",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/reviews/stuffed-review-jodie-comer-harry-melling-1236857095/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-11T00:30:00.000Z",
+      "titolo": "‘Stuffed’ Review: Jodie Comer and Harry Melling Sing the Body Eccentric in an Odd, and Oddly Touching, Taxidermy Musical",
+      "sommario": "It’s a somewhat telling coincidence that “Stuffed,” a very peculiar new vehicle for Jodie Comer, is premiering at the same edition of Toronto as “Prima Facie,” the film adaptation of the stage hit that won the Liverpudlian actor a Tony last year, but with Cynthia Erivo taking over her role for the screen. “Prima Facie”",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/goldenrod-texas-film-production-incentives-1237073559/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-10T21:44:32.000Z",
+      "titolo": "New Goldenrod Platform Helps Productions Secure Texas Film Boost",
+      "sommario": "As sweetened production incentives roll out in Texas, an Austin-based company wants to help filmmakers capture the maximum possible rebate from the Lone Star State and beyond. Its new platform called Goldenrod is now live for productions based in Texas, with pilot projects in Kentucky and Louisiana. The launch announce",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/reviews/the-fix-film-review-liam-neeson-1236857684/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-10T20:50:03.000Z",
+      "titolo": "‘The Fix’ Film Review: Ex-CIA Operatives Try To Rescue an Iranian Dissident in a Polished but Uneven Action Thriller",
+      "sommario": "Having been shot well before the current U.S.-Iran conflict commenced lends “The Fix” a somewhat anachronistic air, albeit one that sits comfortably enough between its other fuzzy points of political messaging. This U.S. production from Israeli writer-director Guy Moshe sets a group of former CIA Special Ops agents, le",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-11T04:00:05.000Z",
+      "titolo": "‘People think fame is a magic wand’: Jarvis Cocker on old songs, young fans and his granny’s verdict on Pulp",
+      "sommario": "<p>Before the release of a joyful film on the history of the Sheffield band, frontman Cocker and director Garth Jennings talk dark times, taking inspiration from Abba – and why there could yet be another record</p><p>When the director Garth Jennings first moved to Paris, Jarvis Cocker, who was living there, dropped in ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/damian-kocur-la-manche-oma-inge-les-contes-modernes-1236857477/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-10T19:56:21.000Z",
+      "titolo": "‘Under the Volcano’ Director Damian Kocur Takes on Contemporary Poland, Stereotypes and Historical Trauma in ‘La Manche’ as Oma Inge Film and Les Contes Modernes Come on Board (EXCLUSIVE)",
+      "sommario": "Polish director Damian Kocur is ready for “La Manche.” Presented at the Venice Production Bridge and produced by Kijora Film, the film will be co-produced by Germany’s Oma Inge Film and France’s Les Contes Modernes. Kocur is behind Venice premiere “Bread and Salt” and “Under the Volcano,” selected as the Polish Oscar s",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/odeya-rush-annarah-cymone-neela-jolene-bee-movie-stung-1237073892/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-10T19:09:21.000Z",
+      "titolo": "Odeya Rush, Annarah Cymone & Neela Jolene Join Justin Long & Iris Apatow In Killer Bee Movie ‘Stung’, Filming Wraps",
+      "sommario": "EXCLUSIVE: VMI Worldwide, Verdi Productions and Source M+P have wrapped killer bee movie Stung in Rhode Island. From writer-director Colin Minihan, the film follows Jess (Iris Apatow), Maya (Odeya Rush) Brooke (Annarah Cymone) and Rachel (Neela Jolene) “as their innocent girl’s night sleepover spirals into a living nig",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/ross-butler-marc-evan-jackson-join-sayani-gupta-in-arya-1237073178/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-10T17:33:36.000Z",
+      "titolo": "Ross Butler & Marc Evan Jackson Join Sayani Gupta In ‘Arya’",
+      "sommario": "EXCLUSIVE: Ross Butler and Marc Evan Jackson are among the newly-announced cast joining Sayani Gupta (Delhi Crime) in Arya. The film, which is written and directed by Neil Tuli, follows Arya (Gupta), a disciplined piano teacher from a prestigious Indian conservatory. Per the synopsis, she reluctantly takes an assignmen",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/08/runner-review-alan-ritchson-owen-wilson",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-08T11:00:01.000Z",
+      "titolo": "Runner review – Alan Ritchson and Owen Wilson thriller is serviceable B-movie camp",
+      "sommario": "<p>Impressive stunts and tongue-in-cheek flourishes elevate Scott Waugh’s silly Aussie action flick </p><p>Credit where credit is due: of the many, many variations on the hammy late-summer action romp, very few have applied the gonzo B-movie treatment – physics-defying car chases, knee-smashing violence and the like – ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Alan Ritchson"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/rapinoe-review-megan-rapinoe-documentary-1236696927/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-11T03:45:02.000Z",
+      "titolo": "‘Rapinoe’ Review: Doc Portrait of American Soccer Icon Is Engaging and Inspiring, if Necessarily Incomplete",
+      "sommario": "Debuting at TIFF, the feature from Rebeca Huntt ('Beba') sees the two-time World Cup champion reflecting on her life and career in the wake of her retirement as a player in 2023.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/10/scherzetto-review-toni-servillo-mario-martone-domenico-starnone-trick",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-10T19:45:44.000Z",
+      "titolo": "Scherzetto review – Toni Servillo brings gravitas to a dithering Neapolitan ghost story",
+      "sommario": "<p><strong>Venice film festival</strong><br>The Venice fixture plays an illustrator haunted by his boyhood in Mario Martone’s part spooky, part sentimental oddity</p><p>It’s always good to see the veteran Italian star Toni Servillo at Venice; in fact, the festival is pretty much unthinkable without him. But this initia",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/stuffed-review-jodie-comer-harry-melling-musical-1236696924/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-11T00:30:00.000Z",
+      "titolo": "‘Stuffed’ Review: Jodie Comer Rises Above a Limp, Gross-Out Corpse-Themed Musical",
+      "sommario": "Harry Melling joins the 'Killing Eve' star in a TIFF-bowing body-horror romance about lonely hearts making a strange connection.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/10/tony-gatlif-obituary",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-10T15:28:26.000Z",
+      "titolo": "Tony Gatlif obituary",
+      "sommario": "<p>Algerian-born French director of more than 20 films that celebrated Roma culture</p><p>The French film director Tony Gatlif, who has died aged 77, was regularly described as “cinema’s Gypsy auteur”, so often did his films focus on Roma communities and their music. Between 1975 and 2025, Gatlif directed more than 20 ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/zero-intention-of-living-quietly-review-adam-pearson-1236690979/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-10T21:34:44.000Z",
+      "titolo": "‘Zero Intention of Living Quietly’ Review: Doc About ‘A Different Man’ Star Adam Pearson Is Moving, When It’s Not Getting in Its Own Way",
+      "sommario": "The Telluride debut centers on the friendship between the actor, who has facial disfigurement from neurofibromatosis, and a teenage girl with the same genetic condition.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-10T14:00:37.000Z",
+      "titolo": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
+      "sommario": "<p>The Bill &amp; Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director</p><p><strong>You were born in </strong><strong>London</strong><strong> but grew up in </strong><strong>America</strong><strong>. When do y",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/one-minute-to-midnight-review-nicolas-pariser-1236685829/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-10T19:14:25.000Z",
+      "titolo": "‘One Minute to Midnight’ Review: A French Intellectual Takes Stock of His Love Life in a Film That’s Charming, Melancholic and Parisian to a Fault",
+      "sommario": "Melvil Poupaud stars in the fourth feature by critic turned director Nicolas Pariser, who based some of the movie on his own past as a journalist.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2255161/marvel-x-men-movie-cast-asa-germann-angel/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-10T18:10:45.000Z",
+      "titolo": "Marvel's X-Men Movie Finds Its Angel In A Breakout The Boys Universe Star",
+      "sommario": "Asa Germann, who played Sam Riordan on Gen V, has been cast as Angel/Warren Worthington III in Marvel's upcoming X-Men reboot.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-08T19:45:48.000Z",
+      "titolo": "Company review – Casey Affleck entertains us with creepy campfire tales",
+      "sommario": "<p><strong>Venice film festival:</strong> Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men</p><p>Gather ye ’round the glowing screen for a Casey Affleck campfire tale. It contains superstitions and murder and human oddities of all stripe",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/08/musk-review-epic-study-worlds-richest-most-banal-man-elon-film",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-08T12:32:58.000Z",
+      "titolo": "Musk review – epic study of the world’s richest and most banal man",
+      "sommario": "<p><strong>Venice film festival:</strong> Alex Gibney interviews former colleagues, wives, the trillionaire’s father and a CG avatar in this absorbing documentary</p><p>‘Elon is a nuke.” The speaker is Ashley St Clair, a former conservative Maga influencer and one of Elon Musk’s former girlfriends-slash-baby mommas.</p",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/08/dont-forget-me-review-eddie-cochran-bio-doc-boasts-top-notch-roster-of-talking-heads",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-08T10:00:01.000Z",
+      "titolo": "Don’t Forget Me review – Eddie Cochran bio-doc boasts top-notch roster of talking heads",
+      "sommario": "<p>Director Kirsty Bell alternates archival footage with tacky dramatised filler, but it’s the breadth of appreciation, from Keith Richards to Kiefer Sutherland that impresses</p><p>No one could argue that rock’n’roll legend Eddie Cochran isn’t worthy of a birth-to-untimely-death bio-doc; it’s almost shocking that this",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/08/knightfall-review-gender-flipped-bond-jeanine-nerissa-sothcott-ian-ogilvy",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-08T08:00:30.000Z",
+      "titolo": "Knightfall review – low-rent gender-flipped Bond knock-off swaps Aston Martins for Minis",
+      "sommario": "<p>Jeanine Nerissa Sothcott’s no-nonsense spy heads a game cast that includes Ian Ogilvy and Roger Moore’s son Geoffrey, but this austerity actioner lacks tension</p><p>Proceeding from an old-school title pun – yes, the heroine goes by the name Ros Knight – the latest from resourceful microbudget producer Jonathan Soth",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-08T06:00:29.000Z",
+      "titolo": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
+      "sommario": "<p>Director Miro Remo journeys deep into the Czech countryside to find two brothers living an isolated life filled with quixotic wisdom in this surreal documentary</p><p>Narrated by a slaughtered bull, this extraordinary film takes the less-travelled path in charting the daily life of a pair of Czech twins a long way o",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/la-fine-di-oak-street-ecco-quando-potrai-vedere-a-casa-tua-il-film-sci-fi-con-anne-hathaway",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T15:40:50.000Z",
+      "titolo": "La fine di Oak Street, ecco quando potrai vedere a casa tua il film sci-fi con Anne Hathaway",
+      "sommario": "Dopo il passaggio in sala, arriva su tutte le piattaforme in digitale The end of Oak Street, il film prodotto di David Robert Michtell con protagonista Anne Hathaway che omaggia la saga di Jurassic Park.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "La Fine di Oak Street (in libreria)",
+        "Anne Hathaway"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/checco-zalone-il-nuovo-film-dopo-buen-camino-lannuncio-di-nunziante-svela-il-tema-che-fara-discutere",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T10:53:57.000Z",
+      "titolo": "Checco Zalone, il nuovo film dopo Buen Camino: l’annuncio di Nunziante svela il tema che farà discutere",
+      "sommario": "Dopo il successo travolgente di Buen Camino, Checco Zalone guarda già al prossimo progetto con Gennaro Nunziante: al centro potrebbe esserci uno dei fenomeni più discussi della società contemporanea, il classismo culturale.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Buen Camino (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/venezia-83-i-video-dellottavo-giorno-con-il-saluto-di-penelope-cruz-e-javier-bardem/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-10T10:42:22.000Z",
+      "titolo": "Venezia 83: i video dell'ottavo giorno con il saluto di Penelope Cruz e Javier Bardem",
+      "sommario": "Vanessa Scalera e Serena Rossi le protagoniste dell'ottavo giorno, assieme al cast di Il fuoco che ti porti dentro, Un passo alla volta e Un Bon Petit Soldat.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Javier Bardem"
+      ],
+      "radar": "c'è Javier Bardem, che hai visto 3 volte"
+    },
+    {
+      "link": "https://cinefilos.it/tutto-film/approfondimenti/copycat-omicidi-in-serie-storia-vera-film-sigourney-weaver-721018",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-10T17:47:17.000Z",
+      "titolo": "Copycat – Omicidi in serie è tratto da una storia vera? La verità sul film con Sigourney Weaver",
+      "sommario": "Copycat – Omicidi in serie è tratto da una storia vera? La verità sul film con Sigourney Weaver Uscito nel 1995 e diretto da Jon Amiel, Copycat – Omicidi in serie è un thriller psicologico costruito intorno a una delle paure più inquietanti legate alla figura del serial killer: l’idea che un assassino possa studiare i ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Sigourney Weaver"
+      ],
+      "radar": "c'è Sigourney Weaver, che hai visto 2 volte"
+    },
+    {
+      "link": "https://movieplayer.it/news/robert-pattinson-figlia-futuro-mondo-cinema-garantito-suki-waterhouse_170991/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-10T10:00:22.000Z",
+      "titolo": "Robert Pattinson, la figlia ha un futuro a Hollywood già garantito grazie a mamma Suki Waterhouse",
+      "sommario": "Suki Waterhouse non avrebbe problemi ad aiutare la figlia, avuta con Robert Pattinson, se un giorno decidesse di entrare nel mondo dello spettacolo. Se un giorno la figlia di Suki Waterhouse e Robert Pattinson decidesse di seguire le orme dei genitori, troverebbe probabilmente due porte già aperte nel mondo dello spett",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Robert Pattinson"
+      ],
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte"
+    },
+    {
+      "link": "https://movieplayer.it/news/ghali-venezia-83-naza-tutti-dovrebbero-vederlo_171004/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-10T20:35:34.000Z",
+      "titolo": "Ghali a Venezia 83 per il documentario Naza: \"Sono qui a titolo personale, tutti dovrebbero vederlo\"",
+      "sommario": "L'artista, da anni vicino alla causa palestinese, ha assistito alla proiezione del documentario di Yuval Abraham e Rachel Szor senza partecipare a red carpet e altri eventi C'era anche Ghali alla proiezione di Naza, il documentario di Yuval Abraham e Rachel Szor presentato in concorso a Venezia 83. L'artista, da anni p",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/scambio-di-corpi-e-una-regia-audace-e-cosi-che-questo-horror-comedy-sta-dominando-netflix",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T18:00:01.000Z",
+      "titolo": "Scambio di corpi e una regia audace: è così che questo horror comedy sta dominando Netflix",
+      "sommario": "Questo film conquista Netflix in 4 giorni. Scopri perché questo horror comedy con body swap sta spopolando su Rotten Tomatoes.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/la-promessa-anticipazioni-11-settembre-lorenzo-nozze-angela_171003/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-10T16:02:43.000Z",
+      "titolo": "La Promessa anticipazioni 11 settembre: Lorenzo annuncia le nozze con Angela!",
+      "sommario": "Le nozze tra Angela e Beltrán si avvicinano, ma il futuro della giovane è ancora segnato dalla presenza ingombrante di Don Lorenzo. Adriano è ancora sconvolto per la confessione di Martina, Le anticipazioni de La Promessa, in onda l'11 settembre alle 19:40 su Rete 4, raccontano una puntata ricca di tensione, nella qual",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/paw-patrol-missione-dinosauri-cerca-di-bilanciare-educazione-intrattenimento-e-merchandising/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-10T12:52:16.000Z",
+      "titolo": "Paw Patrol: Missione dinosauri cerca di bilanciare educazione, intrattenimento e merchandising",
+      "sommario": "Il terzo film dei Paw Patrol, diretto ancora da Carl Brunker, dimostra buon ritmo e attenzione all'inclusività, ma manca di sagacia.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "PAW Patrol - Missione Dinosauri"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/settimo-posto-mondiale-per-pietro-castellitto-in-questo-thriller-italiano-che-batte-i-colossi-netflix",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T14:00:54.000Z",
+      "titolo": "Settimo posto mondiale per Pietro Castellitto, in questo thriller italiano che batte i colossi Netflix",
+      "sommario": "Il thriller italiano sulla contraffazione artistica nella Roma anni '70 raggiunge la top 10 mondiale. Storia vera di crimine e arte.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/festival/mostra-del-cinema-di-venezia/naza-record-standing-ovation-venezia-83-documentario-gaza-721105",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-10T17:32:56.000Z",
+      "titolo": "Il documentario su Gaza NAZA, realizzato dagli autori di No Other Land, ottiene un’ovazione da record di 24,5 minuti a Venezia",
+      "sommario": "Il documentario su Gaza NAZA, realizzato dagli autori di No Other Land, ottiene un’ovazione da record di 24,5 minuti a Venezia NAZA, il nuovo documentario diretto da Yuval Abraham e Rachel Szor, ha segnato uno dei momenti più impressionanti di Venezia 83. Al termine della première, il film è stato accolto da una standi",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/toni-serviello_170999/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-10T12:45:00.000Z",
+      "titolo": "Venezia 83, Toni Servillo: “I ragazzi non riescono a sostenere i prezzi del Lido”",
+      "sommario": "L'attore presentando Scherzetto di Mario Martone è intervenuto nella nostra video intervista parlando del caro prezzi durante la Mostra del Cinema di Venezia. \"I prezzi per i ragazzi alla Mostra del Cinema di Venezia sono troppo alti\". Se anche un attore del calibro di Toni Servillo interviene sulla questione, allora f",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/venezia-2026-i-look-dellottava-serata-da-anderson-a-abramovic-i-colori-forti-conquistano-il-tappeto-rosso",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T09:05:09.000Z",
+      "titolo": "Venezia 2026, i look dell'ottava serata: da Anderson a Abramović i colori forti conquistano il tappeto rosso",
+      "sommario": "Pamela Anderson incanta Venezia 2026 con un abito giallo Carolina Herrera. Marina Abramović conferma la sua fedeltà assoluta al nero e al rigore estetico.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/the-rock-ryan-reynolds-e-gal-gadot-insieme-su-netflix-in-un-film-che-vive-nellombra-del-marketing",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T13:00:09.000Z",
+      "titolo": "The Rock, Ryan Reynolds e Gal Gadot insieme su Netflix (in un film che vive nell'ombra del marketing)",
+      "sommario": "Dwayne Johnson, Ryan Reynolds e Gal Gadot: scopri perché Netflix ha investito milioni in questo action movie stellare e cosa lo rende un successo.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Ryan Reynolds"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/ryan-reynolds-deadpool-denim-nuovo-look-mistero-avengers-doomsday_170996/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-10T14:00:23.000Z",
+      "titolo": "Ryan Reynolds vuole un Deadpool in denim: il nuovo look alimenta il mistero su Avengers: Doomsday",
+      "sommario": "Ryan Reynolds ha già un'idea per il prossimo costume di Deadpool, e non potrebbe essere più assurda: una tuta interamente in denim, calzini bianchi e scarpe bianchissime. Ma perché? Ryan Reynolds non sembra avere alcuna intenzione di rendere più sobrio il guardaroba di Deadpool. Durante una conversazione con Joe La Pum",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Ryan Reynolds"
+      ],
+      "radar": null
+    },
+    {
       "link": "https://www.badtaste.it/articoli/heat-2-robert-de-niro-viene-ufficialmente-rimpiazzato-nellattesissimo-sequel",
       "fonte": "BadTaste",
       "lingua": "it",
       "data": "2026-09-10T05:30:31.000Z",
       "titolo": "Heat 2: Robert De Niro viene ufficialmente rimpiazzato nell’attesissimo sequel",
       "sommario": "Dopo mesi di speculazioni, è arrivata la conferma ufficiale che Stephen Graham entra nel cast di Heat 2, attesismo sequel del capolavoro di Michael Mann, e che prenderà il posto di Robert Deniro.i",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/mutiny-e-lennesima-variazione-del-jason-statham-cinematic-multiverse/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-09-10T12:55:08.000Z",
+      "titolo": "Mutiny è l'ennesima variazione del Jason Statham Cinematic Multiverse",
+      "sommario": "Action di ambientazione navale per Jason Statham, il cui protagonismo toglie centralità all'aspetto \"umanitario\" della trama.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Jason Statham"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/il-regista-di-burning-e-su-netflix-con-un-film-coreano-che-ti-obbliga-a-guardare-la-vita-al-contrario",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T17:00:42.000Z",
+      "titolo": "Il regista di Burning è su Netflix con un film coreano che ti obbliga a guardare la vita al contrario",
+      "sommario": "Analisi del dramma sudcoreano di Lee Chang-dong che racconta una vita al contrario: dalla scelta del suicidio alle cause profonde.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/dopo-il-flop-al-cinema-denzel-washington-spopola-su-netflix-in-questo-thriller-dimenticato",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T15:00:21.000Z",
+      "titolo": "Dopo il flop al cinema, Denzel Washington spopola su Netflix in questo thriller dimenticato",
+      "sommario": "Flop al cinema nel 2021, ora è tra i film più visti su Netflix. Come il thriller con Denzel Washington ha trovato il suo pubblico nello streaming.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/tutto-film/approfondimenti/la-vita-da-grandi-storia-vera-fratelli-tercon-721012",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-10T18:02:38.000Z",
+      "titolo": "La vita da grandi è tratto da una storia vera? La vera vicenda dei fratelli Tercon",
+      "sommario": "La vita da grandi è tratto da una storia vera? La vera vicenda dei fratelli Tercon La vita da grandi, esordio alla regia di Greta Scarano, è un film che affronta il tema dell’autismo attraverso il rapporto tra due fratelli costretti a ritrovarsi dopo anni di distanza. Al centro ci sono Irene, interpretata da Matilda De",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/tutto-film/approfondimenti/nikita-spiegazione-finale-film-721021",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-10T17:56:36.000Z",
+      "titolo": "Nikita: la spiegazione del finale del film",
+      "sommario": "Nikita: la spiegazione del finale del film Nikita è uno dei film più importanti della prima fase della carriera di Luc Besson (regista anche di Lucy e Valerian e la città dei mille pianeti), un thriller d’azione del 1990 che mette al centro una protagonista apparentemente impossibile da redimere. Interpretata da Anne P",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/michael-keaton-e-lunico-che-riesca-a-salvare-le-sorti-di-questo-film-su-netflix-con-dylan-obrien",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T12:30:44.000Z",
+      "titolo": "Michael Keaton è l'unico che riesca a salvare le sorti di questo film su Netflix con Dylan O'Brien",
+      "sommario": "Dylan O'Brien e Michael Keaton: analisi completa del film. Cosa funziona e cosa no nel thriller action tratto dai romanzi di Vince Flynn.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/questo-thriller-su-netflix-con-keanu-reeves-e-chris-evans-completa-quello-che-training-day-aveva-iniziato",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-10T12:00:58.000Z",
+      "titolo": "Questo thriller su Netflix con Keanu Reeves e Chris Evans completa quello che Training Day aveva iniziato",
+      "sommario": "Questo film con Keanu Reeves su Netflix è un thriller poliziesco del 2008 scritto da James Ellroy e diretto da David Ayer. Scopri perché merita di essere riscoperto.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/elon-musk-attacca-documentario-lui-regista-gibney-cani-rispetto_170992/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-10T11:00:44.000Z",
+      "titolo": "Elon Musk contro il documentario su di lui e il regista Gibney: \"La mer.. dei cani merita più rispetto\"",
+      "sommario": "La reazione di Elon Musk è arrivata dopo la première veneziana di Musk, il documentario di quattro ore diretto dal premio Oscar Alex Gibney, e la sua reazione è tutt'altro che positiva. Il documentario Musk di Alex Gibney, presentato alla Mostra del Cinema di Venezia, ha ricevuto recensioni positive e quattro minuti di",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/uomini-e-donne-anticipazioni-agnese-roberto-maria-de-filippi_170988/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-09-10T07:44:41.000Z",
+      "titolo": "Uomini e Donne anticipazioni: Agnese e Roberto faccia a faccia, interviene Maria De Filippi",
+      "sommario": "Agnese e Roberto sono tornati in studio dopo la rottura e hanno affrontato un nuovo confronto sulla loro relazione. Maria De Filippi è intervenuta durante la discussione, invitandoli a chiarirsi lontano dalle telecamere. Continuano le registrazioni delle nuove puntate di Uomini e Donne, il dating show di Canale 5 condo",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -52,6 +788,17 @@
       "titolo": "007: lo sceneggiatore del nuovo film commenta i recenti rumor su James Bond",
       "sommario": "Steven Knight, il creatore di Peaky Blinders e sceneggiatore del nuovo film di James Bond, ha appena risposto ai rumor sul nuovo James Bond, dopo la rivelazione a sorpresa di Gary Oldman.",
       "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/tutto-film/recensioni/one-minute-to-midnight-nicolas-pariser-721117",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-10T18:34:25.000Z",
+      "titolo": "One Minute to Midnight, recensione: un uomo perso nel proprio passato nel film di Nicolas Pariser",
+      "sommario": "One Minute to Midnight, recensione: un uomo perso nel proprio passato nel film di Nicolas Pariser A un passo dai cinquant’anni, Léo si trova in quel territorio esistenziale in cui il passato comincia improvvisamente a pesare più del futuro. La relazione con la donna con cui vive nella Francia orientale sembra ormai arr",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     }
