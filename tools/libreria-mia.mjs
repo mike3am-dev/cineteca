@@ -25,8 +25,8 @@ import { dirname, join } from 'node:path';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const TABELLA = 'cineteca_states';
 
-const email = process.env.CINETECA_EMAIL;
-const password = process.env.CINETECA_PASSWORD;
+const email = (process.env.CINETECA_EMAIL || '').trim();
+const password = (process.env.CINETECA_PASSWORD || '').trim();
 if (!email || !password) {
   console.log('Senza CINETECA_EMAIL e CINETECA_PASSWORD: salto, tengo data/libreria-mia.json com\'è.');
   process.exit(0);
@@ -49,14 +49,26 @@ async function chiama(path, opzioni = {}) {
   return corpo;
 }
 
+/* Il ponte non deve mai fermare il resto: se Supabase non risponde o
+   le credenziali sono sbagliate, lo dico forte, tengo il file com'è
+   e la mattina prosegue con quello che c'è. */
+function rinuncia(motivo) {
+  console.warn(`::warning title=Libreria dell'app non letta::${motivo} — tengo data/libreria-mia.json com'è.`);
+  process.exit(0);
+}
+
 /* 1. accesso come dall'app */
-const sessione = await chiama('/auth/v1/token?grant_type=password', { method: 'POST', body: JSON.stringify({ email, password }) });
+let sessione;
+try { sessione = await chiama('/auth/v1/token?grant_type=password', { method: 'POST', body: JSON.stringify({ email, password }) }); }
+catch (err) { rinuncia(`accesso fallito (${err.message}). Controlla i secrets CINETECA_EMAIL e CINETECA_PASSWORD: sono quelli con cui entri nell'app?`); }
 const token = sessione.access_token;
 const uid = sessione.user?.id;
-if (!token || !uid) { console.error('Accesso riuscito ma senza sessione: risposta inattesa.'); process.exit(1); }
+if (!token || !uid) rinuncia('accesso riuscito ma senza sessione: risposta inattesa');
 
 /* 2. la mia riga, e solo quella (le policy RLS non ne darebbero altre) */
-const righe = await chiama(`/rest/v1/${TABELLA}?select=data,updated_at&user_id=eq.${uid}`, { headers: { Authorization: `Bearer ${token}` } });
+let righe;
+try { righe = await chiama(`/rest/v1/${TABELLA}?select=data,updated_at&user_id=eq.${uid}`, { headers: { Authorization: `Bearer ${token}` } }); }
+catch (err) { rinuncia(`lettura fallita (${err.message})`); }
 const riga = righe?.[0];
 if (!riga?.data) { console.log('Nessuna riga in cloud per questo utente: fai "Sincronizza ora" nell\'app. Non scrivo niente.'); process.exit(0); }
 const stato = riga.data;
