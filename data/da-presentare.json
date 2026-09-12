@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-12T20:51:48.163Z",
+  "preparato": "2026-09-12T20:54:24.919Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -77,5 +77,349 @@
       "Blade Runner 2049 (2017), Denis Villeneuve"
     ]
   },
-  "film": []
+  "film": [
+    {
+      "id": "tmdb-235",
+      "tmdbId": 235,
+      "imdbId": "tt0092005",
+      "origine": "scoperta",
+      "titolo": "Stand by Me - Ricordo di un'estate",
+      "titoloOriginale": "Stand by Me",
+      "anno": "1986",
+      "uscitaItalia": "1986-11-01",
+      "regia": "Rob Reiner",
+      "generi": [
+        "Dramma",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 89,
+      "tagline": "Per alcuni è l'ultimo vero assaggio di innocenza e il primo vero assaggio di vita.",
+      "cast": [
+        "Wil Wheaton (Gordie Lachance)",
+        "River Phoenix (Chris Chambers)",
+        "Corey Feldman (Teddy Duchamp)",
+        "Jerry O'Connell (Vern Tessio)",
+        "Kiefer Sutherland (Ace Merrill)",
+        "Casey Siemaszko (Billy Tessio)"
+      ],
+      "tramaTmdb": "Oregon, estate del 1959. Quattro ragazzini partono per un'escursione di 50 chilometri lungo la ferrovia, affrontando varie avventure per cercare il cadavere di un ragazzo scomparso giorni prima. Da un racconto (The Body, 1982) di Stephen King, uno dei film più belli sull'adolescenza degli anni '80, nel miracoloso equilibrio della memoria tra sentimento e avventura.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Stand by Me - Ricordo di un'estate|367|Rob Reiner"
+    },
+    {
+      "id": "tmdb-14306",
+      "tmdbId": 14306,
+      "imdbId": "tt0822832",
+      "origine": "scoperta",
+      "titolo": "Io & Marley",
+      "titoloOriginale": "Marley & Me",
+      "anno": "2009",
+      "uscitaItalia": "2009-04-03",
+      "regia": "David Frankel",
+      "generi": [
+        "Commedia",
+        "Famiglia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": "Sconfitto l'amore.",
+      "cast": [
+        "Owen Wilson (John Grogan)",
+        "Jennifer Aniston (Jennifer Grogan)",
+        "Eric Dane (Sebastian Tunney)",
+        "Kathleen Turner (Ms. Kornblut)",
+        "Alan Arkin (Arnie Klein)",
+        "Nathan Gamble (Patrick (Age 10))"
+      ],
+      "tramaTmdb": "John e Jenny sono sposi nell'inverno gelido del Michigan. Innamorati e ansiosi di intraprendere una vita insieme si trasferiscono nella più calda Florida, dove trovano il lavoro e la casa dei loro sogni. Occupati per testate giornalistiche diverse, i coniugi Grogan progettano in salotto di allargare la famiglia. John, indeciso sulla paternità, fa le prove generali e compra un cucciolo in saldo per il compleanno di Jenny. Battezzato Marley sulle note del cantautore giamaicano, il Labrador biondo travolgerà la vita dei Grogan, \"rosicchiando\" mobili, progetti e certezze e invitandoli a vivere il ",
+      "motivi": [
+        "regia di David Frankel, di cui hai visto un film",
+        "regia di David Frankel, che segui"
+      ],
+      "impronta": "Io & Marley|600|David Frankel"
+    },
+    {
+      "id": "tmdb-299534",
+      "tmdbId": 299534,
+      "imdbId": "tt4154796",
+      "origine": "scoperta",
+      "titolo": "Avengers: Endgame",
+      "titoloOriginale": "Avengers: Endgame",
+      "anno": "2019",
+      "uscitaItalia": "2019-04-24",
+      "regia": "Anthony Russo",
+      "generi": [
+        "Avventura",
+        "Fantascienza",
+        "Azione"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 181,
+      "tagline": "Una parte del viaggio è la fine.",
+      "cast": [
+        "Robert Downey Jr. (Tony Stark / Iron Man)",
+        "Chris Evans (Steve Rogers / Captain America)",
+        "Mark Ruffalo (Bruce Banner / Hulk)",
+        "Chris Hemsworth (Thor)",
+        "Scarlett Johansson (Natasha Romanoff / Black Widow)",
+        "Jeremy Renner (Clint Barton / Hawkeye)"
+      ],
+      "tramaTmdb": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
+      "motivi": [
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "c'è Chris Pratt, che hai visto 4 volte"
+      ],
+      "impronta": "Avengers: Endgame|508|Anthony Russo"
+    },
+    {
+      "id": "tmdb-550",
+      "tmdbId": 550,
+      "imdbId": "tt0137523",
+      "origine": "scoperta",
+      "titolo": "Fight Club",
+      "titoloOriginale": "Fight Club",
+      "anno": "1999",
+      "uscitaItalia": "1999-10-29",
+      "regia": "David Fincher",
+      "generi": [
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "Germania",
+        "USA"
+      ],
+      "durata": 139,
+      "tagline": "Combatti per sapere chi sei",
+      "cast": [
+        "Edward Norton (Narrator)",
+        "Brad Pitt (Tyler Durden)",
+        "Helena Bonham Carter (Marla Singer)",
+        "Meat Loaf (Robert Paulson)",
+        "Jared Leto (Angel Face)",
+        "Zach Grenier (Richard Chesler (Regional Manager))"
+      ],
+      "tramaTmdb": "Un uomo di trent'anni è insofferente su tutto e la notte non riesce più a dormire. In cerca di qualche luogo dove scaricare la propria ansia si mette a frequentare quei corsi dove gruppi di malati gravi si riuniscono e confessano agli altri le rispettive situazioni. Mentre si lascia andare alla commozione e al pianto di fronte a quello che vede, l'uomo fa la conoscenza prima di Marla Singer poi di Tyler Durden. Lei è una ragazza a sua volta alla deriva, incapace di scelte o decisioni; lui è un tipo deciso e vigoroso con un'idea precisa in testa. Tyler fa saltare per aria l'appartamento dell'uo",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Fight Club|600|David Fincher"
+    },
+    {
+      "id": "tmdb-152601",
+      "tmdbId": 152601,
+      "imdbId": "tt1798709",
+      "origine": "scoperta",
+      "titolo": "Lei",
+      "titoloOriginale": "Her",
+      "anno": "2014",
+      "uscitaItalia": "2014-03-13",
+      "regia": "Spike Jonze",
+      "generi": [
+        "Romance",
+        "Fantascienza",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 126,
+      "tagline": "Innamorarsi è una pazzia.",
+      "cast": [
+        "Joaquin Phoenix (Theodore)",
+        "Scarlett Johansson (Samantha (voice))",
+        "Lynn Adrianna (Letter Writer #1)",
+        "Lisa Renee Pitts (Letter Writer #2)",
+        "Gabe Gomez (Letter Writer #3)",
+        "Chris Pratt (Paul)"
+      ],
+      "tramaTmdb": "Los Angeles, in un futuro non troppo lontano. Theodore, un uomo solitario dal cuore spezzato che si guadagna da vivere scrivendo lettere “personali” per gli altri, acquista un sistema informatico di nuova generazione progettato per soddisfare tutte le esigenze dell’utente. Il nome della voce del sistema operativo è Samantha, che si dimostra sensibile, profonda e divertente. Il rapporto di Theodore e Samantha crescerà e l’amicizia si trasformerà in amore ma…",
+      "motivi": [
+        "c'è Chris Pratt, che hai visto 4 volte",
+        "c'è Chris Pratt, che hai visto 4 volte"
+      ],
+      "impronta": "Lei|461|Spike Jonze"
+    },
+    {
+      "id": "tmdb-581",
+      "tmdbId": 581,
+      "imdbId": "tt0099348",
+      "origine": "scoperta",
+      "titolo": "Balla coi lupi",
+      "titoloOriginale": "Dances with Wolves",
+      "anno": "1990",
+      "uscitaItalia": "1990-12-14",
+      "regia": "Kevin Costner",
+      "generi": [
+        "Avventura",
+        "Dramma",
+        "Western"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 180,
+      "tagline": null,
+      "cast": [
+        "Kevin Costner (Lieutenant Dunbar)",
+        "Mary McDonnell (Stands With A Fist)",
+        "Graham Greene (Kicking Bird)",
+        "Rodney A. Grant (Wind In His Hair)",
+        "Floyd 'Red Crow' Westerman (Ten Bears)",
+        "Tantoo Cardinal (Black Shawl)"
+      ],
+      "tramaTmdb": "Joh Dunbar è considerato un eroe dopo che accidentalmente conduce le truppe dell'unione alla vittoria durante la Guerra Civile. Richiede una posizione sulla frontiera dell'ovest, ma la trova deserta. Presto, però, scopre di non essere solo ed incontra un lupo che chiama \"due calzini\" e una tribù pellerossa. Presto, Dunbar stringe amicizia con la tribù e scopre una donna bianca cresciuta dalla tribù di nativi...",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Balla coi lupi|414|Kevin Costner"
+    },
+    {
+      "id": "tmdb-1315772",
+      "tmdbId": 1315772,
+      "imdbId": "tt32890033",
+      "origine": "scoperta",
+      "titolo": "Minions & Monsters",
+      "titoloOriginale": "Minions & Monsters",
+      "anno": "2026",
+      "uscitaItalia": "2026-07-01",
+      "regia": "Pierre Coffin",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 90,
+      "tagline": "Hollywood ha un problema mostruoso.",
+      "cast": [
+        "Pierre Coffin (The Minions (voice))",
+        "Trey Parker (Goomi (voice))",
+        "Christoph Waltz (Max (voice))",
+        "Allison Janney (Olivia (voice))",
+        "Jesse Eisenberg (Dort (voice))",
+        "Jeff Bridges (Frank / Elwood (voice))"
+      ],
+      "tramaTmdb": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Minions & Monsters|298|Pierre Coffin"
+    },
+    {
+      "id": "tmdb-10681",
+      "tmdbId": 10681,
+      "imdbId": "tt0910970",
+      "origine": "scoperta",
+      "titolo": "WALL•E",
+      "titoloOriginale": "WALL·E",
+      "anno": "2008",
+      "uscitaItalia": "2008-10-17",
+      "regia": "Andrew Stanton",
+      "generi": [
+        "Animazione",
+        "Famiglia",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 97,
+      "tagline": "Dopo 700 anni passati a fare quello per cui è stato costruito , ha scoperto a cosa era destinato",
+      "cast": [
+        "Ben Burtt (WALL·E / M-O (voice))",
+        "Elissa Knight (EVE (voice))",
+        "Jeff Garlin (Captain (voice))",
+        "Fred Willard (Shelby Forthright, BnL CEO)",
+        "John Ratzenberger (John (voice))",
+        "Kathy Najimy (Mary (voice))"
+      ],
+      "tramaTmdb": "Dopo centinaia di anni passati a svolgere il compito per cui era stato costruito, WALL-E, un robot progettato per ripulire la Terra, scopre un nuovo scopo nella vita quando incontra un elegante robot esploratore di nome EVE. EVE si rende conto che WALL-E ha inavvertitamente scoperto la chiave per il futuro del pianeta e corre nello spazio per riferire agli umani. Nel frattempo, WALL-E insegue EVE attraverso la galassia, dando inizio a una delle avventure più fantasiose mai portate sul grande schermo.",
+      "motivi": [
+        "c'è Sigourney Weaver, che hai visto 2 volte",
+        "un classico che ti manca"
+      ],
+      "impronta": "WALL•E|505|Andrew Stanton"
+    },
+    {
+      "id": "tmdb-500",
+      "tmdbId": 500,
+      "imdbId": "tt0105236",
+      "origine": "scoperta",
+      "titolo": "Le iene",
+      "titoloOriginale": "Reservoir Dogs",
+      "anno": "1992",
+      "uscitaItalia": "1992-10-09",
+      "regia": "Quentin Tarantino",
+      "generi": [
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 99,
+      "tagline": "Amici prima, iene dopo. Finirono per sbranarsi tra loro.",
+      "cast": [
+        "Harvey Keitel (Mr. White / Larry Dimmick)",
+        "Tim Roth (Mr. Orange / Freddy Newandyke)",
+        "Michael Madsen (Mr. Blonde / Vic Vega)",
+        "Chris Penn (\"Nice Guy\" Eddie Cabot)",
+        "Steve Buscemi (Mr. Pink)",
+        "Lawrence Tierney (Joe Cabot)"
+      ],
+      "tramaTmdb": "Los Angeles. Una rapina a un importatore di diamanti che avrebbe potuto dare un ottimo bottino con un rischio calcolato si trasforma in una sparatoria che costringe i malviventi a una fuga disordinata. C'è però un punto di ritrovo prestabilito da Joe, il loro capo. Si tratta di un deposito abbandonato che viene raggiunto per primi da Mr. White e Mr. Orange gravemente ferito. Ognuno degli appartenenti alla banda ha finora conosciuto gli altri solo con il nome di un colore per evitare eventuali delazioni. Ma è proprio il dubbio che al loro interno si nasconda un infiltrato della polizia che comi",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Le iene|600|Quentin Tarantino"
+    },
+    {
+      "id": "tmdb-257211",
+      "tmdbId": 257211,
+      "imdbId": "tt2361509",
+      "origine": "scoperta",
+      "titolo": "Lo stagista inaspettato",
+      "titoloOriginale": "The Intern",
+      "anno": "2015",
+      "uscitaItalia": "2015-10-15",
+      "regia": "Nancy Meyers",
+      "generi": [
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 121,
+      "tagline": null,
+      "cast": [
+        "Robert De Niro (Ben Whitaker)",
+        "Anne Hathaway (Jules Ostin)",
+        "Rene Russo (Fiona Farwell)",
+        "Anders Holm (Matt Ostin)",
+        "JoJo Kushner (Paige Ostin)",
+        "Andrew Rannells (Cameron)"
+      ],
+      "tramaTmdb": "Una società di moda assume uno stagista decisamente fuori dagli schemi: Ben Whittaker (Robert De Niro) un settantenne pensionato che ha scoperto che in fondo la pensione non è come immaginava e decide così di sfruttare la prima occasione utile per rimettersi in pista. Nonostante le diffidenze iniziali, Ben dimostrerà alla fondatrice della compagnia (Anne Hathaway) di essere una valida risorsa per l’azienda e tra i due nascerà un’inaspettata sintonia.",
+      "motivi": [
+        "c'è Anne Hathaway, che hai visto 2 volte",
+        "c'è Anne Hathaway, che hai visto 2 volte"
+      ],
+      "impronta": "Lo stagista inaspettato|454|Nancy Meyers"
+    }
+  ]
 }
