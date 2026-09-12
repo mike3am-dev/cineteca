@@ -50,7 +50,9 @@ const ritratto = {
    dati che nel frattempo sono cambiati (trama arrivata dopo). */
 const impronta = m => `${m.title}|${(m.plot || '').length}|${m.director || ''}`;
 const daFare = movies
-  .filter(m => !schede[m.id] || schede[m.id].impronta !== impronta(m))
+  // Senza "dopo" è una scheda della prima versione, prima che la
+  // redazione guardasse anche fuori dalla libreria: va riscritta.
+  .filter(m => !schede[m.id] || schede[m.id].impronta !== impronta(m) || !Array.isArray(schede[m.id].dopo))
   // Prima quelli al cinema (è lì che serve decidere in fretta), poi
   // quelli da vedere a casa, per ultimi i visti.
   .sort((a, b) => ORDINE[a.lista] - ORDINE[b.lista] || (a.release || '').localeCompare(b.release || ''))

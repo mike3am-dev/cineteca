@@ -252,10 +252,20 @@ const Detail = (() => {
       ${p.vibes?.length ? `<div class="d-vibes"><span class="d-vibes-et">Stesse vibes di</span>${
         p.vibes.map(v => `<span class="fact">${F.esc(v)}</span>`).join('')}</div>` : ''}
       ${p.nota ? `<p class="d-perche-nota">${F.esc(p.nota)}</p>` : ''}
+      ${p.dopo?.length ? `<div class="d-dopo">
+        <span class="d-dopo-et">${m.user.seen || (F.giorniA(m.releaseDate) ?? 1) <= 0 ? 'Dopo la sala' : 'Prima e dopo'}</span>
+        ${p.dopo.map(d => `<div class="d-dopo-voce">
+          <span class="d-dopo-tipo">${F.esc(ICONE_DOPO[d.tipo] || '·')} ${F.esc(d.tipo || '')}</span>
+          <b>${F.esc(d.titolo)}</b>
+          ${d.perche ? `<span class="d-dopo-perche">${F.esc(d.perche)}</span>` : ''}
+        </div>`).join('')}
+      </div>` : ''}
       ${p.caveat || p.pratico ? `<p class="d-perche-coda">${
         [p.caveat, p.pratico].filter(Boolean).join(' ')}</p>` : ''}
     </section>` + dubbio;
   }
+
+  const ICONE_DOPO = { film: '🎬', libro: '📖', serie: '📺', documentario: '🎥', colonna: '🎵', 'colonna sonora': '🎵', fumetto: '💬', podcast: '🎙', album: '🎵' };
 
   /* ── la trama ───────────────────────────────────────────
      Quella della redazione quando c'è: dice di cosa parla il film

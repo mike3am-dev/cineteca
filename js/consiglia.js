@@ -283,7 +283,7 @@ const Consiglia = (() => {
     if (scheda?.perche) {
       const pratico = praticoDi(film);
       return { gancio: amo, frase: F.esc(scheda.perche), caveat: null, pratico, redazione: true,
-               vibes: scheda.vibes || [], nota: scheda.nota || null };
+               vibes: scheda.vibes || [], nota: scheda.nota || null, dopo: scheda.dopo || [] };
     }
     if (visti.length < 3) return amo ? { gancio: amo, frase: null, caveat: null, pratico: null } : null;
 

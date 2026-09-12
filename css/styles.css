@@ -1008,6 +1008,12 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
 .d-vibes-et{ font-size:10.5px; font-weight:700; letter-spacing:.16em; text-transform:uppercase; color:var(--ink-3); margin-right:4px; }
 .d-perche-nota{ margin:12px 0 0; font-size:12.5px; line-height:1.55; color:var(--ink-3); font-style:italic; }
 .d-plot + .d-plot{ margin-top:10px; }
+.d-dopo{ margin-top:16px; padding-top:14px; border-top:1px dashed var(--line); display:flex; flex-direction:column; gap:10px; }
+.d-dopo-et{ font-size:10.5px; font-weight:800; letter-spacing:.22em; text-transform:uppercase; color:var(--accent-2); }
+.d-dopo-voce{ display:flex; flex-direction:column; gap:3px; }
+.d-dopo-tipo{ font-family:var(--ff-mono); font-size:10px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); }
+.d-dopo-voce b{ font-size:14px; font-weight:650; }
+.d-dopo-perche{ font-size:12.5px; line-height:1.5; color:var(--ink-2); }
 
 /* ══ la rassegna ═══════════════════════════════════════
    Ogni sezione ha una forma sua: l'apertura è un'immagine con
