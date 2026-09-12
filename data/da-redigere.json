@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-12T13:45:59.955Z",
+  "preparato": "2026-09-12T13:57:48.219Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,647 +79,671 @@
   },
   "film": [
     {
-      "id": "cs-65949",
-      "tmdbId": 1127384,
-      "imdbId": "tt29516222",
-      "titolo": "Deep Water",
-      "titoloOriginale": "Deep Water",
-      "anno": "2026",
-      "uscitaItalia": "2026-07-23",
-      "lista": "cinema",
-      "regia": "Renny Harlin",
-      "generi": [
-        "Thriller"
-      ],
-      "paesi": [
-        "Spagna",
-        "Nuova Zelanda",
-        "USA"
-      ],
-      "durata": 106,
-      "tagline": "Surviving the crash is just the beginning.",
-      "cast": [
-        "Aaron Eckhart (Ben)",
-        "Ben Kingsley (Rich)",
-        "Molly Belle Wright (Cora)",
-        "Angus Sampson (Dan)",
-        "Elijah Tamati (Finn)",
-        "Zhao Simei (Lilly)",
-        "李汶翰 (Sam)",
-        "那尔那茜 (Zoe)"
-      ],
-      "tramaTmdb": "Un gruppo di passeggeri internazionali è a bordo di un volo intercontinentale da Los Angeles a Shanghai. Una situazione estrema li costringe a lottare per sopravvivere, isolati e senza via di fuga.",
-      "impronta": "Deep Water|197|Renny Harlin"
-    },
-    {
-      "id": "tmdb-969681",
-      "tmdbId": 969681,
-      "imdbId": "tt22084616",
-      "titolo": "Spider-Man: Brand New Day",
+      "id": "tmdb-806704",
+      "tmdbId": 806704,
+      "imdbId": "tt19850008",
+      "titolo": "The Batman: Part II",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-07-29",
+      "anno": "2028",
+      "uscitaItalia": "2028-02-18",
       "lista": "cinema",
-      "regia": "Destin Daniel Cretton",
+      "regia": "Matt Reeves",
       "generi": [
-        "Fantascienza",
-        "Azione",
-        "Avventura"
+        "Mistero",
+        "Dramma",
+        "Crime"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 144,
-      "tagline": "Un nuovo giorno inizia ora.",
+      "durata": null,
+      "tagline": null,
       "cast": [
-        "Tom Holland (Peter Parker / Spider-Man)",
-        "Zendaya (MJ)",
-        "Mark Ruffalo (Bruce Banner / Hulk)",
-        "Jon Bernthal (Frank Castle / Punisher)",
-        "Jacob Batalon (Ned Leeds)",
-        "Sadie Sink (Jean Grey)",
-        "Florence Pugh (Yelena Belova / Black Widow)",
-        "Liza Colón-Zayas (Detective Jean DeWolff)"
+        "Robert Pattinson (Bruce Wayne / The Batman)",
+        "Jeffrey Wright (Lt. James Gordon)",
+        "Andy Serkis (Alfred)",
+        "Colin Farrell (Oz / The Penguin)",
+        "Jayme Lawson (Bella Reál)",
+        "Gil Perez-Abraham (Officer Martinez)",
+        "Scarlett Johansson (Gilda Dent)",
+        "Sebastian Stan (Harvey Dent)"
       ],
-      "tramaTmdb": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
-      "impronta": "Spider-Man: Brand New Day|602|Destin Daniel Cretton"
+      "tramaTmdb": null,
+      "impronta": "The Batman: Part II|0|Matt Reeves"
     },
     {
-      "id": "tmdb-1430077",
-      "tmdbId": 1430077,
-      "imdbId": "tt35672862",
-      "titolo": "Hokum",
-      "titoloOriginale": "Hokum",
-      "anno": "2026",
-      "uscitaItalia": "2026-08-05",
-      "lista": "cinema",
-      "regia": "Damian McCarthy",
+      "id": "tmdb-614934",
+      "tmdbId": 614934,
+      "imdbId": "tt3704428",
+      "titolo": "Elvis",
+      "titoloOriginale": null,
+      "anno": "2022",
+      "uscitaItalia": "2022-06-22",
+      "lista": "casa",
+      "regia": "Baz Luhrmann",
       "generi": [
-        "Horror",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA",
-        "Irlanda",
-        "Emirati Arabi Uniti",
-        "Hong Kong"
-      ],
-      "durata": 108,
-      "tagline": "We've been expecting you.",
-      "cast": [
-        "Adam Scott (Ohm Bauman)",
-        "Peter Coonan (Mal)",
-        "David Wilmot (Jerry)",
-        "Florence Ordesh (Fiona)",
-        "Michael Patric (Fergal)",
-        "Will O'Connell (Alby / Jack (The Jackass))",
-        "Brendan Conroy (Cob)",
-        "Ezra Carlisle (Boy)"
-      ],
-      "tramaTmdb": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
-      "impronta": "Hokum|297|Damian McCarthy"
-    },
-    {
-      "id": "cs-66536",
-      "tmdbId": 1101383,
-      "imdbId": "tt27165187",
-      "titolo": "La Fine di Oak Street",
-      "titoloOriginale": "The End of Oak Street",
-      "anno": "2026",
-      "uscitaItalia": "2026-08-12",
-      "lista": "cinema",
-      "regia": "David Robert Mitchell",
-      "generi": [
-        "Thriller",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 100,
-      "tagline": "Where goes the neighborhood.",
-      "cast": [
-        "Anne Hathaway (Denise Platt)",
-        "Ewan McGregor (Greg Platt)",
-        "Maisy Stella (Audrey Platt)",
-        "Christian Convery (Brian Platt)",
-        "Jordan Alexa Davis (Jeannette Christiansen)",
-        "P.J. Byrne (Mel Jacobs)",
-        "Bethany Anne Lind (Mary Bagrowski)",
-        "Emily Kuroda (Mrs. Valcour)"
-      ],
-      "tramaTmdb": "Negli anni '80 una famiglia inizia a notare strani eventi nel proprio quartiere. Un misterioso fenomeno cosmico li isola in un luogo sconosciuto e dovranno restare uniti per sopravvivere.",
-      "impronta": "La Fine di Oak Street|187|David Robert Mitchell"
-    },
-    {
-      "id": "cs-68691",
-      "tmdbId": 1291595,
-      "imdbId": "tt32393988",
-      "titolo": "Insidious: Fuori dall'Altrove",
-      "titoloOriginale": "Insidious: Out of the Further",
-      "anno": "2026",
-      "uscitaItalia": "2026-08-19",
-      "lista": "cinema",
-      "regia": "Jacob Chase",
-      "generi": [
-        "Horror"
+        "Musica",
+        "Storia",
+        "Dramma"
       ],
       "paesi": [
         "Australia",
         "USA"
       ],
-      "durata": 106,
-      "tagline": "L'orrore ha trovato una via d'uscita.",
+      "durata": 159,
+      "tagline": "L'uomo. La leggenda. Il Re del Rock & Roll.",
       "cast": [
-        "Amelia Eve (Gemma Hall)",
-        "Island Austin (Maya Hall)",
-        "Lin Shaye (Elise Rainier)",
-        "Sam Spruell (Cyrus Lam)",
-        "Brandon Perea (Nick Mendoza)",
-        "Maisie Richardson-Sellers (Clare)",
-        "Joseph Lopez (Lester)",
-        "Robina Beard (Edna)"
+        "Austin Butler (Elvis Presley)",
+        "Tom Hanks (Colonel Tom Parker)",
+        "Olivia DeJonge (Priscilla)",
+        "Helen Thomson (Gladys Presley)",
+        "Richard Roxburgh (Vernon Presley)",
+        "Kelvin Harrison Jr. (B.B. King)",
+        "David Wenham (Hank Snow)",
+        "Kodi Smit-McPhee (Jimmie Rodgers Snow)"
       ],
-      "tramaTmdb": "Gemma, giovane madre, cresce sua figlia nella stessa casa in cui è cresciuta. Quando strani eventi riemergono, il passato sembra tornare a bussare alla porta.",
-      "impronta": "Insidious: Fuori dall'Altrove|158|Jacob Chase"
+      "tramaTmdb": "Nascita, crescita, apoteosi e inizio di declino di Elvis Aaron Presley, il mito di più generazioni, vengono raccontati e riletti dal punto di vista del suo manager di tutta una vita: il Colonnello Tom Parker. È lui che accompagna, con voce narrante e presenza in scena, la dirompente ascesa di un'icona assoluta della musica e del costume mentre si impegna, apertamente ma anche in segretezza, per condizionarne la vita con il fine di salvaguardare la propria.",
+      "impronta": "Elvis|460|Baz Luhrmann"
     },
     {
-      "id": "cs-67639",
-      "tmdbId": 1390382,
-      "imdbId": "tt34688195",
-      "titolo": "Couture",
-      "titoloOriginale": "Coutures",
-      "anno": "2026",
-      "uscitaItalia": "2026-08-26",
-      "lista": "cinema",
-      "regia": "Alice Winocour",
+      "id": "tmdb-791177",
+      "tmdbId": 791177,
+      "imdbId": "tt10168670",
+      "titolo": "Bones and All",
+      "titoloOriginale": null,
+      "anno": "2022",
+      "uscitaItalia": "2022-11-24",
+      "lista": "casa",
+      "regia": "Luca Guadagnino",
       "generi": [
-        "Drammatico"
+        "Horror",
+        "Romance",
+        "Dramma"
       ],
       "paesi": [
-        "Francia",
+        "Italia",
         "USA"
       ],
-      "durata": 106,
-      "tagline": null,
+      "durata": 130,
+      "tagline": "You can’t run from who you are.",
       "cast": [
-        "Angelina Jolie (Maxine Walker)",
-        "Anyier Anei (Ada)",
-        "Ella Rumpf (Angèle)",
-        "Louis Garrel (Anton)",
-        "Vincent Lindon (Dr. Laurent Hansen)",
-        "Garance Marillier (Christine)",
-        "Grégoire Colin (Le directeur d'image)",
-        "Aurore Clément (Anne)"
+        "Taylor Russell (Maren)",
+        "Timothée Chalamet (Lee)",
+        "Mark Rylance (Sully)",
+        "Anna Cobb (Kayla)",
+        "André Holland (Maren's Father)",
+        "David Gordon Green (Brad)",
+        "Michael Stuhlbarg (Jake)",
+        "Jessica Harper (Barbara Kerns)"
       ],
-      "tramaTmdb": "Nella Fashion Week di Parigi, tra apparenze e pressione costante, tre donne si incrociano. I loro percorsi mettono a nudo fragilità e scelte, dentro e fuori dal mondo della moda.",
-      "impronta": "Couture|178|Alice Winocour"
+      "tramaTmdb": "Il film racconta la storia di un primo amore, quello che porta Maren, una giovane donna che impara a sopravvivere ai margini della società, e Lee, un reietto vagabondo dall’animo combattivo, a unirsi e intraprendere un’odissea di centinaia di chilometri nell'America di Ronald Reagan, tra botole, passaggi segreti e stradine di provincia. Tuttavia, per quanto si sforzino, qualunque strada sembra riportarli al loro tremendo passato, fino al momento finale che deciderà se il loro amore sia realmente in grado di sopravvivere al loro essere altro rispetto al mondo che li circonda.",
+      "impronta": "Bones and All|581|Luca Guadagnino"
     },
     {
-      "id": "cs-66983",
-      "tmdbId": 1384216,
-      "imdbId": "tt21285562",
-      "titolo": "The Dog Stars - Le Stelle Dopo la Fine",
-      "titoloOriginale": "The Dog Stars",
-      "anno": "2026",
-      "uscitaItalia": "2026-08-26",
-      "lista": "cinema",
-      "regia": "Ridley Scott",
+      "id": "tmdb-976573",
+      "tmdbId": 976573,
+      "imdbId": "tt15789038",
+      "titolo": "Elemental",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-06-21",
+      "lista": "casa",
+      "regia": "Peter Sohn",
+      "generi": [
+        "Animazione",
+        "Commedia",
+        "Famiglia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 102,
+      "tagline": "Gli opposti reagiscono",
+      "cast": [
+        "Leah Lewis (Ember (voice))",
+        "Mamoudou Athie (Wade (voice))",
+        "Ronnie del Carmen (Bernie (voice))",
+        "Shila Ommi (Cinder (voice))",
+        "Wendi McLendon-Covey (Gale (voice))",
+        "Catherine O'Hara (Brook (voice))",
+        "Mason Wertheimer (Clod (voice))",
+        "Ronobir Lahiri (Harold (voice))"
+      ],
+      "tramaTmdb": "In una città dove vivono insieme, fuoco, acqua, terra e aria, una giovane donna focosa e un uomo che si lascia andare scopriranno qualcosa di fondamentale: quanto hanno in comune.",
+      "impronta": "Elemental|179|Peter Sohn"
+    },
+    {
+      "id": "tmdb-335977",
+      "tmdbId": 335977,
+      "imdbId": "tt1462764",
+      "titolo": "Indiana Jones e il quadrante del destino",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-06-28",
+      "lista": "casa",
+      "regia": "James Mangold",
+      "generi": [
+        "Avventura",
+        "Azione"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 154,
+      "tagline": "La leggenda affronterà il suo destino.",
+      "cast": [
+        "Harrison Ford (Indiana Jones)",
+        "Phoebe Waller-Bridge (Helena)",
+        "Mads Mikkelsen (Dr. Voller)",
+        "Boyd Holbrook (Klaber)",
+        "Olivier Richters (Hauke)",
+        "Ethann Isidore (Teddy)",
+        "Toby Jones (Basil Shaw)",
+        "Antonio Banderas (Renaldo)"
+      ],
+      "tramaTmdb": "Quinto capitolo della saga dedicata al mitico e temerario archeologo Indiana Jones.  Il professor Indy, ormai vicino alla pensione, lotta contro il tempo per recuperare un quadrante leggendario che può cambiare il corso della storia.  Accompagnato dalla sua figlioccia Helena, si scontra con Jürgen Voller, un ex nazista che lavora per la Nasa.",
+      "impronta": "Indiana Jones e il quadrante del destino|344|James Mangold"
+    },
+    {
+      "id": "tmdb-466420",
+      "tmdbId": 466420,
+      "imdbId": "tt5537002",
+      "titolo": "Killers of the Flower Moon",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-10-19",
+      "lista": "casa",
+      "regia": "Martin Scorsese",
+      "generi": [
+        "Crime",
+        "Storia",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 206,
+      "tagline": "L'avidità è un animale affamato di sangue.",
+      "cast": [
+        "Leonardo DiCaprio (Ernest Burkhart)",
+        "Robert De Niro (William Hale)",
+        "Lily Gladstone (Mollie Burkhart)",
+        "Jesse Plemons (Tom White)",
+        "Tantoo Cardinal (Lizzie Q)",
+        "John Lithgow (Prosecutor Peter Leaward)",
+        "Brendan Fraser (W.S. Hamilton)",
+        "Cara Jade Myers (Anna)"
+      ],
+      "tramaTmdb": "All’inizio del XX secolo, la scoperta del petrolio trasformò l’esistenza degli Osage che diventarono da un giorno all’altro immensamente ricchi. L’improvviso benessere di questi nativi americani attirò l’interesse dei bianchi che iniziarono a manipolare, estorcere e sottrarre con l’inganno i beni degli Osage fino a ricorrere all’omicidio. Una storia d’amore e tradimenti, delitti e misteri in un intrigo avvincente per la scoperta della verità.",
+      "impronta": "Killers of the Flower Moon|446|Martin Scorsese"
+    },
+    {
+      "id": "tmdb-967847",
+      "tmdbId": 967847,
+      "imdbId": "tt21235248",
+      "titolo": "Ghostbusters - Minaccia glaciale",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-04-11",
+      "lista": "casa",
+      "regia": "Gil Kenan",
+      "generi": [
+        "Fantasy",
+        "Avventura",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 115,
+      "tagline": "It'll send a chill down your spine.",
+      "cast": [
+        "Mckenna Grace (Phoebe Spengler)",
+        "Paul Rudd (Gary Grooberson)",
+        "Carrie Coon (Callie Spengler)",
+        "Finn Wolfhard (Trevor Spengler)",
+        "Dan Aykroyd (Ray Stantz)",
+        "Kumail Nanjiani (Nadeem)",
+        "Patton Oswalt (Dr. Hubert Wartzki)",
+        "Celeste O'Connor (Lucky)"
+      ],
+      "tramaTmdb": "Dopo gli eventi in Oklahoma, la famiglia Spengler torna dove tutto è iniziato, l'iconica caserma dei pompieri di New York, e si unisce agli Acchiappafantasmi originali che hanno sviluppato un laboratorio di ricerca top-secret per portare la lotta ai fantasmi a un livello superiore. Quando la scoperta di un antico artefatto scatenerà una forza malvagia, i vecchi e nuovi Ghostbusters dovranno unire le forze per proteggere la loro casa e salvare il mondo da una seconda era glaciale.",
+      "impronta": "Ghostbusters - Minaccia glaciale|484|Gil Kenan"
+    },
+    {
+      "id": "tmdb-937287",
+      "tmdbId": 937287,
+      "imdbId": "tt16426418",
+      "titolo": "Challengers",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-04-24",
+      "lista": "casa",
+      "regia": "Luca Guadagnino",
+      "generi": [
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "Italia",
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": "Her game. Her rules.",
+      "cast": [
+        "Zendaya (Tashi Donaldson)",
+        "Mike Faist (Art Donaldson)",
+        "Josh O'Connor (Patrick Zweig)",
+        "Darnell Appling (Umpire (New Rochelle Final))",
+        "Bryan Doo (Art's Physiotherapist)",
+        "Shane T Harris (Art's Security Guard)",
+        "Nada Despotovich (Tashi's Mother)",
+        "Joan Mcshane (Line Judge (New Rochelle Final))"
+      ],
+      "tramaTmdb": "Tashi, una giocatrice di tennis diventata allenatrice, ha trasformato suo marito Art da un mediocre giocatore a un campione del grand slam. Per risollevargli il morale dopo una scia di partite perse, lo porta a giocare a un evento “Challenger” – uno dei tornei di livelli più bassi nel tour pro – dove si ritrova ad affrontare quello che una volta era un giocatore promettente e ora è totalmente esaurito: Patrick, suo ex migliore amico ed ex fidanzato di Tashi.",
+      "impronta": "Challengers|462|Luca Guadagnino"
+    },
+    {
+      "id": "tmdb-1022789",
+      "tmdbId": 1022789,
+      "imdbId": "tt22022452",
+      "titolo": "Inside Out 2",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-06-19",
+      "lista": "casa",
+      "regia": "Kelsey Mann",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Famiglia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 97,
+      "tagline": "Fai spazio a nuove emozioni.",
+      "cast": [
+        "Amy Poehler (Joy (voice))",
+        "Maya Hawke (Anxiety (voice))",
+        "Kensington Tallman (Riley (voice))",
+        "Liza Lapira (Disgust (voice))",
+        "Tony Hale (Fear (voice))",
+        "Lewis Black (Anger (voice))",
+        "Phyllis Smith (Sadness (voice))",
+        "Ayo Edebiri (Envy (voice))"
+      ],
+      "tramaTmdb": "Nella mente dell'ormai adolescente Riley, il quartier generale viene improvvisamente demolito per far posto a qualcosa di completamente inaspettato. Gioia, Tristezza, Rabbia, Paura e Disgusto, che a detta loro gestiscono da tempo un'attività di successo, non sanno come comportarsi quando arriva Ansia... e sembra che non sia sola.",
+      "impronta": "Inside Out 2|331|Kelsey Mann"
+    },
+    {
+      "id": "tmdb-718821",
+      "tmdbId": 718821,
+      "imdbId": "tt12584954",
+      "titolo": "Twisters",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-07-17",
+      "lista": "casa",
+      "regia": "Lee Isaac Chung",
       "generi": [
         "Azione",
-        "Avventura",
-        "Fantascienza",
         "Thriller"
       ],
       "paesi": [
-        "Gran Bretagna"
+        "USA"
       ],
-      "durata": 118,
-      "tagline": "La fine del mondo era solo l'inizio.",
+      "durata": 123,
+      "tagline": "Chase. Ride. Survive.",
       "cast": [
-        "Jacob Elordi (Hig)",
-        "Margaret Qualley (Cima)",
-        "Josh Brolin (Bangley)",
-        "Guy Pearce (Pops)",
-        "Allison Janney (Darlene)",
-        "Benedict Wong (Aaron)",
-        "Ewen Bremner (Crossbow Hunter)",
-        "James Craze (Logan)"
+        "Daisy Edgar-Jones (Kate)",
+        "Glen Powell (Tyler)",
+        "Anthony Ramos (Javi)",
+        "Brandon Perea (Boone)",
+        "Maura Tierney (Cathy)",
+        "Harry Hadden-Paton (Ben)",
+        "Sasha Lane (Lily)",
+        "Daryl McCormack (Jeb)"
       ],
-      "tramaTmdb": "Dopo un evento che ha cambiato il mondo, un sopravvissuto vive ai margini aggrappandosi a poche certezze. Un segnale inatteso riaccende la speranza e lo spinge a rimettersi in viaggio.",
-      "impronta": "The Dog Stars - Le Stelle Dopo la Fine|184|Ridley Scott"
+      "tramaTmdb": "Kate Cooper (Daisy Edgar-Jones) è un'ex cacciatrice di uragani segnata dall’incontro devastante con un tornado durante i suoi anni al college. Kate, che ora studia i percorsi degli uragani al riparo nel suo ufficio di New York City, viene spinta a tornare in campo dal suo amico Javi per testare un innovativo sistema di tracciamento. Il suo percorso incrocia quello di Tyler Owens (Glen Powell), un'affascinante e spericolata superstar dei social media che si diverte a postare le sue avventure a caccia di tempeste con il suo gruppo: più sono pericolose, meglio è! Con l'intensificarsi della stagione delle tempeste, si scatenano fenomeni terrificanti mai visti prima e Kate, Tyler e le loro rispettive squadre si ritrovano sulla traiettoria di molteplici sistemi temporaleschi che convergono sull'Oklahoma centrale e che metteranno a dura prova la loro sopravvivenza.",
+      "impronta": "Twisters|870|Lee Isaac Chung"
     },
     {
-      "id": "tmdb-671-25",
-      "tmdbId": 671,
-      "imdbId": "tt0241527",
-      "titolo": "Harry Potter e la pietra filosofale — 25° anniversario",
-      "titoloOriginale": "Harry Potter and the Philosopher’s Stone",
-      "anno": "2026",
-      "uscitaItalia": "2026-08-26",
-      "lista": "cinema",
-      "regia": "Chris Columbus",
+      "id": "tmdb-889737",
+      "tmdbId": 889737,
+      "imdbId": "tt11315808",
+      "titolo": "Joker: Folie à Deux",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-10-02",
+      "lista": "casa",
+      "regia": "Todd Phillips",
       "generi": [
-        "Avventura",
+        "Dramma",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 138,
+      "tagline": "Il mondo è un palcoscenico.",
+      "cast": [
+        "Joaquin Phoenix (Arthur Fleck)",
+        "Lady Gaga (Lee Quinzel)",
+        "Brendan Gleeson (Jackie Sullivan)",
+        "Catherine Keener (Maryanne Stewart)",
+        "Zazie Beetz (Sophie Dumond)",
+        "Steve Coogan (Paddy Meyers)",
+        "Harry Lawtey (Harvey Dent)",
+        "Leigh Gill (Gary Puddles)"
+      ],
+      "tramaTmdb": "Arthur Fleck è recluso nel manicomio di Arkham in attesa di essere processato per i crimini commessi come Joker. Mentre lotta con la sua doppia identità, Arthur non solo scopre il vero amore, ma trova anche la musica che ha sempre avuto dentro di sé.",
+      "impronta": "Joker: Folie à Deux|250|Todd Phillips"
+    },
+    {
+      "id": "tmdb-402431",
+      "tmdbId": 402431,
+      "imdbId": "tt1262426",
+      "titolo": "Wicked",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-11-21",
+      "lista": "casa",
+      "regia": "Jon M. Chu",
+      "generi": [
+        "Dramma",
+        "Romance",
         "Fantasy"
       ],
       "paesi": [
-        "Gran Bretagna",
         "USA"
       ],
-      "durata": 152,
-      "tagline": "La magia ha inizio.",
+      "durata": 160,
+      "tagline": "Tutti meritano la possibilità di volare",
       "cast": [
-        "Daniel Radcliffe (Harry Potter)",
-        "Rupert Grint (Ron Weasley)",
-        "Emma Watson (Hermione Granger)",
-        "Richard Harris (Albus Dumbledore)",
-        "Tom Felton (Draco Malfoy)",
-        "Alan Rickman (Severus Snape)",
-        "Robbie Coltrane (Hagrid)",
-        "Maggie Smith (Professor McGonagall)"
+        "Cynthia Erivo (Elphaba)",
+        "Ariana Grande (Galinda / Glinda)",
+        "Michelle Yeoh (Madame Morrible)",
+        "Jonathan Bailey (Fiyero)",
+        "Ethan Slater (Boq)",
+        "Marissa Bode (Nessarose)",
+        "Jeff Goldblum (The Wonderful Wizard of Oz)",
+        "Peter Dinklage (Dr. Dillamond (voice))"
       ],
-      "tramaTmdb": "Harry Potter vive con gli zii e il cuginetto sin dalla più tenera età dopo la morte dei suoi genitori. I parenti non lo amano per nulla. Harry sta ormai per compiere undici anni e viene guardato male anche per alcune sue capacità 'magiche'. Che sono effettive perché Harry è figlio di maghi e comincia a ricevere lettere, regolarmente sequestrate, portate da gufi. Dovrà giungere il gigantesco Hagrid a recapitargliene personalmente una perché possa apprendere di essere stato ammesso a frequentare la Scuola di Magia e Stregoneria di Hogwarts. Gli zii a questo punto non possono far più nulla e Harry raggiunge la Scuola dove apprende che il suo nome è già noto e dove scoprirà di avere naturali doti magiche.",
-      "impronta": "Harry Potter e la pietra filosofale — 25° anniversario|710|Chris Columbus"
+      "tramaTmdb": "Nella terra di Oz, l'esiliata e incompresa Elphaba, dalla pelle verde, è costretta a condividere una stanza all'Università di Shiz con la popolare aristocratica Glinda, e l'improbabile amicizia delle due viene messa alla prova quando iniziano a condurre i rispettivi destini della Perfida Strega dell'Ovest e della Buona Strega del Sud.",
+      "impronta": "Wicked|336|Jon M. Chu"
     },
     {
-      "id": "tmdb-1329016",
-      "tmdbId": 1329016,
-      "imdbId": "tt33095251",
-      "titolo": "Tony - Diario di un giovane cuoco",
+      "id": "tmdb-574475",
+      "tmdbId": 574475,
+      "imdbId": "tt9619824",
+      "titolo": "Final Destination - Bloodlines",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-08-27",
-      "lista": "cinema",
-      "regia": "Matt Johnson",
+      "anno": "2025",
+      "uscitaItalia": "2025-05-15",
+      "lista": "casa",
+      "regia": "Adam Stein",
       "generi": [
-        "Dramma",
+        "Horror",
+        "Mistero"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": "Una famiglia con la morte nel sangue.",
+      "cast": [
+        "Kaitlyn Santa Juana (Stefani Reyes)",
+        "Teo Briones (Charlie Reyes)",
+        "Rya Kihlstedt (Darlene Campbell)",
+        "Richard Harmon (Erik)",
+        "Owen Patrick Joyner (Bobby)",
+        "Anna Lore (Julia)",
+        "Alex Zahara (Uncle Howard)",
+        "April Telek (Aunt Brenda)"
+      ],
+      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
+      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
+    },
+    {
+      "id": "tmdb-575265",
+      "tmdbId": 575265,
+      "imdbId": "tt9603208",
+      "titolo": "Mission Impossible - The Final Reckoning",
+      "titoloOriginale": null,
+      "anno": "2025",
+      "uscitaItalia": "2025-05-22",
+      "lista": "casa",
+      "regia": "Christopher McQuarrie",
+      "generi": [
+        "Azione",
+        "Thriller",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 170,
+      "tagline": "La nostra vita è la somma delle nostre scelte.",
+      "cast": [
+        "Tom Cruise (Ethan Hunt)",
+        "Hayley Atwell (Grace)",
+        "Ving Rhames (Luther Stickell)",
+        "Simon Pegg (Benji Dunn)",
+        "Esai Morales (Gabriel)",
+        "Pom Klementieff (Paris)",
+        "Henry Czerny (Kittridge)",
+        "Holt McCallany (Serling)"
+      ],
+      "tramaTmdb": "La fine del mondo è vicina ma Ethan Hunt non è lontano e riparte da dove aveva lasciato. Recuperata una preziosa chiave crociata, deve raggiungere adesso il Sevastopol, un sottomarino nucleare russo, distrutto dall'Intelligenza Artificiale, che giace sotto la calotta polare. La chiave gli permetterà di recuperare il 'codice sorgente' dell'IA e di disinnescarla. Ormai autonoma e 'cosciente', l'Entità accede a qualsiasi sistema operativo, manipola fatti, dati e persone ed è determinata a sterminare la razza umana. Mentre Hunt cerca una soluzione, l'IA prende progressivamente il controllo delle armi di distruzione di massa. Il tempo stringe, non resta che correre. Ancora e ancora.",
+      "impronta": "Mission Impossible - The Final Reckoning|686|Christopher McQuarrie"
+    },
+    {
+      "id": "tmdb-1022787",
+      "tmdbId": 1022787,
+      "imdbId": "tt4900148",
+      "titolo": "Elio",
+      "titoloOriginale": null,
+      "anno": "2025",
+      "uscitaItalia": "2025-06-18",
+      "lista": "casa",
+      "regia": "Madeline Sharafian",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantascienza",
+        "Famiglia",
         "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 98,
+      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
+      "cast": [
+        "Yonas Kibreab (Elio / Other Elio (voice))",
+        "Remy Edgerly (Glordon (voice))",
+        "Zoe Saldaña (Olga Solís (voice))",
+        "Brad Garrett (Lord Grigon (voice))",
+        "Brandon Moon (Ambassador Helix (voice))",
+        "Jameela Jamil (Ambassador Questa (voice))",
+        "Young Dylan (Bryce (voice))",
+        "Jake T. Getman (Caleb (voice))"
+      ],
+      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
+      "impronta": "Elio|287|Madeline Sharafian"
+    },
+    {
+      "id": "tmdb-1234821",
+      "tmdbId": 1234821,
+      "imdbId": "tt31036941",
+      "titolo": "Jurassic World - La rinascita",
+      "titoloOriginale": null,
+      "anno": "2025",
+      "uscitaItalia": "2025-07-02",
+      "lista": "casa",
+      "regia": "Gareth Edwards",
+      "generi": [
+        "Fantascienza",
+        "Avventura",
+        "Azione"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 133,
+      "tagline": "È nata una nuova era.",
+      "cast": [
+        "Scarlett Johansson (Zora Bennett)",
+        "Mahershala Ali (Duncan Kincaid)",
+        "Jonathan Bailey (Dr. Henry Loomis)",
+        "Rupert Friend (Martin Krebs)",
+        "Manuel García-Rulfo (Reuben Delgado)",
+        "Luna Blaise (Teresa Delgado)",
+        "David Iacono (Xavier Dobbs)",
+        "Audrina Miranda (Isabella Delgado)"
+      ],
+      "tramaTmdb": "Cinque anni dopo gli eventi di \"Jurassic World - Il Dominio\", l'ecologia del pianeta si è dimostrata in gran parte inospitale per i dinosauri. Quelli rimasti vivono in ambienti equatoriali isolati con climi simili a quelli in cui prosperavano un tempo. Le tre creature più gigantesche di quella biosfera tropicale possiedono la chiave per un farmaco che porterà miracolosi benefici salvavita all'umanità.",
+      "impronta": "Jurassic World - La rinascita|404|Gareth Edwards"
+    },
+    {
+      "id": "tmdb-1084242",
+      "tmdbId": 1084242,
+      "imdbId": "tt26443597",
+      "titolo": "Zootropolis 2",
+      "titoloOriginale": null,
+      "anno": "2025",
+      "uscitaItalia": "2025-11-26",
+      "lista": "casa",
+      "regia": "Jared Bush",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Mistero",
+        "Famiglia"
       ],
       "paesi": [
         "USA",
         "Canada"
       ],
-      "durata": 106,
-      "tagline": "Prima di essere Anthony Bourdain, era solo Tony.",
+      "durata": 108,
+      "tagline": "Zootropolis sta per cambiare per sssssempre",
       "cast": [
-        "Dominic Sessa (Tony)",
-        "Antonio Banderas (Chef)",
-        "Emilia Jones (Nancy)",
-        "Leo Woodall (Sal)",
-        "Stavros Halkias (Stavros)",
-        "Michael Jibrin (Tyrone)",
-        "Monica Raymund (Mary)",
-        "Rich Sommer (Pierre)"
+        "Ginnifer Goodwin (Judy Hopps (voice))",
+        "Jason Bateman (Nick Wilde (voice))",
+        "Ke Huy Quan (Gary De'Snake (voice))",
+        "Fortune Feimster (Nibbles Maplestick (voice))",
+        "Andy Samberg (Pawbert Lynxley (voice))",
+        "David Strathairn (Milton Lynxley (voice))",
+        "Idris Elba (Chief Bogo (voice))",
+        "Shakira (Gazelle (voice))"
       ],
-      "tramaTmdb": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
-      "impronta": "Tony - Diario di un giovane cuoco|197|Matt Johnson"
+      "tramaTmdb": "Dopo aver risolto il caso più importante nella storia di Zootropolis, i poliziotti alle prime armi Judy Hopps e Nick Wilde scoprono che la loro collaborazione non è così solida come pensavano quando il capo Bogo ordina loro di unirsi al programma di consulenza \"Partners in Crisis\". Ma non ci vuole molto perché la loro collaborazione venga messa a dura prova quando si ritrovano sulle tracce tortuose di un mistero legato all'arrivo di un serpente velenoso nella metropoli degli animali.",
+      "impronta": "Zootropolis 2|488|Jared Bush"
     },
     {
-      "id": "cs-53576",
-      "tmdbId": 396535,
-      "imdbId": "tt5700672",
-      "titolo": "Train to Busan",
-      "titoloOriginale": "Busanhaeng",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-02",
-      "lista": "cinema",
-      "regia": "Yeon Sang-ho",
-      "generi": [
-        "Azione",
-        "Horror",
-        "Thriller"
-      ],
-      "paesi": [
-        "Corea del Sud"
-      ],
-      "durata": 118,
-      "tagline": "La lotta per la sopravvivenza è cominciata...",
-      "cast": [
-        "공유 (Seok-woo)",
-        "김수안 (Soo-ahn)",
-        "정유미 (Sung-gyeong)",
-        "마동석 (Sang-hwa)",
-        "Choi Woo-shik (Yeong-gook)",
-        "안소희 (Jin-hee)",
-        "김의성 (Yong-suk)",
-        "예수정 (In-gil)"
-      ],
-      "tramaTmdb": "Seok-wu, manager assorbito dal lavoro, vuole portare la figlia Su-an dalla madre a Busan per il compleanno. Durante il viaggio, l'imprevisto trasforma il treno in una corsa contro il tempo.",
-      "impronta": "Train to Busan|189|Yeon Sang-ho"
-    },
-    {
-      "id": "tmdb-1684016",
-      "tmdbId": 1684016,
-      "imdbId": "tt38882652",
-      "titolo": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "id": "tmdb-83533",
+      "tmdbId": 83533,
+      "imdbId": "tt1757678",
+      "titolo": "Avatar: Fuoco e cenere",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-09-02",
-      "lista": "cinema",
-      "regia": "Paul Dugdale",
-      "generi": [
-        "Documentario",
-        "Musica"
-      ],
-      "paesi": [
-        "USA",
-        "Francia"
-      ],
-      "durata": 119,
-      "tagline": "They said I couldn't. I did it. And I filmed it.",
-      "cast": [
-        "Katy Perry (Self)"
-      ],
-      "tramaTmdb": null,
-      "impronta": "Katy Perry: The Lifetimes Tour - Live from Paris|0|Paul Dugdale"
-    },
-    {
-      "id": "cs-68600",
-      "tmdbId": 1423191,
-      "imdbId": "tt35538033",
-      "titolo": "Resident Evil",
-      "titoloOriginale": "Resident Evil",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-17",
-      "lista": "cinema",
-      "regia": "Zach Cregger",
-      "generi": [
-        "Horror"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 90,
-      "tagline": "No sweat.",
-      "cast": [
-        "Austin Abrams (Bryan)",
-        "Zach Cherry (Dave)",
-        "Kali Reis (Pauline)",
-        "Paul Walter Hauser (Carl)",
-        "Johnno Wilson (Max)"
-      ],
-      "tramaTmdb": "Un nuovo capitolo reboot ispirato al survival horror Capcom, con una storia originale. L'incubo torna a crescere lontano dai personaggi più noti, ma con la stessa atmosfera di tensione.",
-      "impronta": "Resident Evil|185|Zach Cregger"
-    },
-    {
-      "id": "tmdb-1283515",
-      "tmdbId": 1283515,
-      "imdbId": "tt32261958",
-      "titolo": "Verity",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-10-01",
-      "lista": "cinema",
-      "regia": "Michael Showalter",
-      "generi": [
-        "Mistero",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": "Dove andiamo non c'è luce",
-      "cast": [
-        "Dakota Johnson (Lowen Ashleigh)",
-        "Anne Hathaway (Verity Crawford)",
-        "Josh Hartnett (Jeremy Crawford)",
-        "Ismael Cruz Cordova (Corey)",
-        "Brady Wagner (Crew Crawford)",
-        "Irina Dvorovenko",
-        "K.K. Moggie",
-        "Michael Abbott Jr."
-      ],
-      "tramaTmdb": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
-      "impronta": "Verity|512|Michael Showalter"
-    },
-    {
-      "id": "cs-67091",
-      "tmdbId": 1400837,
-      "imdbId": "tt36586020",
-      "titolo": "Mammina",
-      "titoloOriginale": "Other Mommy",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-08",
-      "lista": "cinema",
-      "regia": "Rob Savage",
-      "generi": [
-        "Horror"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Your mommy won't save you.",
-      "cast": [
-        "Jessica Chastain (Ursula / Other Mommy)",
-        "Arabella Olivia Clark (Bela)",
-        "Jay Duplass (Russ)",
-        "Dichen Lachman",
-        "Arian Moayed",
-        "Karen Allen (Grandma Ruth)",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "tramaTmdb": "Una bambina di otto anni si trasferisce con la famiglia in una nuova casa. Qualcosa la segue nell'ombra: un'entità che lei chiama \"L'Altra Mamma\".",
-      "impronta": "Mammina|146|Rob Savage"
-    },
-    {
-      "id": "tmdb-1281331",
-      "tmdbId": 1281331,
-      "imdbId": "tt37510326",
-      "titolo": "The Social: Il prezzo della verità",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-10-08",
-      "lista": "cinema",
-      "regia": "Aaron Sorkin",
-      "generi": [
-        "Dramma",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 120,
-      "tagline": "We're way past making friends.",
-      "cast": [
-        "Jeremy Strong (Mark Zuckerberg)",
-        "Mikey Madison (Frances Haugen)",
-        "Jeremy Allen White (Jeff Horwitz)",
-        "Wunmi Mosaku (Raya)",
-        "Betty Gilpin (Kris)",
-        "Billy Magnussen (Teddy)",
-        "Bill Burr (Charlie)",
-        "Gbenga Akinnagbe"
-      ],
-      "tramaTmdb": "Frances Haugen, giovane ingegnere di Facebook, si avvale dell'aiuto di Jeff Horwitz, un reporter del Wall Street Journal, per intraprendere un pericoloso viaggio che finisce per rivelare i segreti più custoditi del social network.",
-      "impronta": "The Social: Il prezzo della verità|230|Aaron Sorkin"
-    },
-    {
-      "id": "tmdb-1400940",
-      "tmdbId": 1400940,
-      "imdbId": "tt34890576",
-      "titolo": "Clayface",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "lista": "cinema",
-      "regia": "James Watkins",
-      "generi": [
-        "Horror",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": null,
-      "tagline": "Guarda la paura in faccia",
-      "cast": [
-        "Tom Rhys Harries (Matt Hagen / Clayface)",
-        "Naomi Ackie (Caitlyn Corr)",
-        "Eddie Marsan",
-        "Max Minghella (John Borrelli)",
-        "David Dencik",
-        "Francesca Corney",
-        "Ruby Sear (Theresa)",
-        "Wil Coban (Bones)"
-      ],
-      "tramaTmdb": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
-      "impronta": "Clayface|220|James Watkins"
-    },
-    {
-      "id": "tmdb-1300968",
-      "tmdbId": 1300968,
-      "imdbId": "tt32558705",
-      "titolo": "Hunger Games - L'alba sulla mietitura",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-11-19",
-      "lista": "cinema",
-      "regia": "Francis Lawrence",
+      "anno": "2025",
+      "uscitaItalia": "2025-12-19",
+      "lista": "casa",
+      "regia": "James Cameron",
       "generi": [
         "Fantascienza",
-        "Azione",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA",
-        "Germania"
-      ],
-      "durata": null,
-      "tagline": "Questi giochi saranno diversi",
-      "cast": [
-        "Joseph Zada (Haymitch Abernathy)",
-        "Ralph Fiennes (President Coriolanus Snow)",
-        "Jesse Plemons (Plutarch Heavensbee)",
-        "Mckenna Grace (Maysilee Donner / Merrilee Donner)",
-        "Whitney Peak (Lenore Dove Baird)",
-        "Elle Fanning (Effie Trinket)",
-        "Maya Hawke (Wiress)",
-        "Lili Taylor (Mags Flanagan)"
-      ],
-      "tramaTmdb": null,
-      "impronta": "Hunger Games - L'alba sulla mietitura|0|Francis Lawrence"
-    },
-    {
-      "id": "tmdb-1170608",
-      "tmdbId": 1170608,
-      "imdbId": "tt31378509",
-      "titolo": "Dune - Parte tre",
-      "titoloOriginale": "Dune: Part Three",
-      "anno": "2026",
-      "uscitaItalia": "2026-12-16",
-      "lista": "cinema",
-      "regia": "Denis Villeneuve",
-      "generi": [
-        "Fantascienza",
-        "Avventura"
+        "Avventura",
+        "Fantasy"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 140,
-      "tagline": "L'epica conclusione.",
+      "durata": 197,
+      "tagline": "Il mondo di Pandora cambierà per sempre.",
       "cast": [
-        "Timothée Chalamet (Paul Atreides)",
-        "Zendaya (Chani)",
-        "Jason Momoa (Hayt)",
-        "Florence Pugh (Princess Irulan)",
-        "Rebecca Ferguson (Lady Jessica)",
-        "Isaach de Bankolé (Farok)",
-        "Charlotte Rampling (Reverend Mother Mohiam)",
-        "Anya Taylor-Joy (Alia Atreides)"
+        "Sam Worthington (Jake)",
+        "Zoe Saldaña (Neytiri)",
+        "Sigourney Weaver (Kiri)",
+        "Stephen Lang (Quaritch)",
+        "Oona Chaplin (Varang)",
+        "Jack Champion (Spider)",
+        "Kate Winslet (Ronal)",
+        "Cliff Curtis (Tonowari)"
       ],
-      "tramaTmdb": "Paul Atreides è diventato Imperatore dell’universo. Ma il suo dominio è minacciato dai numerosi nemici e pur avendo previsto questo futuro, Paul lo considera il meno distruttivo possibile per l’umanità. Sposato con la principessa Irulan ma innamorato di Chani, Paul non riesce ad avere figli a causa di un complotto delle Bene Gesserit. Intanto queste, insieme alla Gilda Spaziale e ai Tleilaxu, tramano per eliminarlo.",
-      "impronta": "Dune - Parte tre|419|Denis Villeneuve"
+      "tramaTmdb": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una tribù Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
+      "impronta": "Avatar: Fuoco e cenere|404|James Cameron"
     },
     {
-      "id": "tmdb-1492198",
-      "tmdbId": 1492198,
-      "imdbId": "tt37171180",
-      "titolo": "Artificial",
+      "id": "tmdb-1472638",
+      "tmdbId": 1472638,
+      "imdbId": "tt38350059",
+      "titolo": "Buen Camino",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-12-25",
-      "lista": "cinema",
-      "regia": "Luca Guadagnino",
+      "anno": "2025",
+      "uscitaItalia": "2025-12-25",
+      "lista": "casa",
+      "regia": "Gennaro Nunziante",
       "generi": [
         "Commedia",
-        "Dramma"
+        "Famiglia",
+        "Avventura"
       ],
       "paesi": [
-        "Italia",
-        "Gran Bretagna",
-        "USA"
+        "Italia"
       ],
-      "durata": 140,
+      "durata": 90,
       "tagline": null,
       "cast": [
-        "Andrew Garfield (Sam Altman)",
-        "Yura Borisov (Ilya Sutskever)",
-        "Jason Schwartzman",
-        "Cooper Koch",
-        "Cooper Hoffman (Greg Brockman)",
-        "Monica Barbaro (Mira Murati)",
-        "Billie Lourd",
-        "Zosia Mamet"
+        "Checco Zalone (Checco)",
+        "Beatriz Arjona (Alma)",
+        "Letizia Arnò (Cristal)",
+        "Martina Colombari (Linda)",
+        "Hossein Taheri (Tarek)",
+        "Alfonso Santagata (Nonno Eugenio)",
+        "Mariana Rodríguez (Martina)",
+        "Cecilia Gragnani (Elizabeth)"
       ],
-      "tramaTmdb": null,
-      "impronta": "Artificial|0|Luca Guadagnino"
+      "tramaTmdb": "Checco, erede ricchissimo e viziato è costretto a lasciare la sua vita dorata per mettersi sulle tracce della figlia adolescente. È così che finisce, suo malgrado, sul Cammino di Santiago: un’occasione per conoscersi davvero.",
+      "impronta": "Buen Camino|225|Gennaro Nunziante"
     },
     {
-      "id": "tmdb-1297467",
-      "tmdbId": 1297467,
-      "imdbId": "tt32492552",
-      "titolo": "The Exorcist: Martyrs",
+      "id": "tmdb-1236153",
+      "tmdbId": 1236153,
+      "imdbId": "tt31050594",
+      "titolo": "Mercy - Sotto accusa",
       "titoloOriginale": null,
-      "anno": "2027",
-      "uscitaItalia": "2027-03-12",
-      "lista": "cinema",
-      "regia": "Mike Flanagan",
+      "anno": "2026",
+      "uscitaItalia": "2026-01-22",
+      "lista": "casa",
+      "regia": "Timur Bekmambetov",
       "generi": [
-        "Horror"
+        "Fantascienza",
+        "Thriller",
+        "Crime",
+        "Mistero"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": null,
-      "tagline": null,
+      "durata": 100,
+      "tagline": "90 minuti per dimostrare la tua innocenza o affrontare l'esecuzione.",
       "cast": [
-        "Scarlett Johansson",
-        "Jacobi Jupe",
-        "Diane Lane",
-        "Chiwetel Ejiofor",
-        "Laurence Fishburne",
-        "Sasha Calle",
-        "John Leguizamo",
-        "Rahul Kohli"
+        "Chris Pratt (Chris Raven)",
+        "Rebecca Ferguson (Judge Maddox)",
+        "Kali Reis (Jacqueline 'Jaq' Diallo)",
+        "Kylie Rogers (Britt Raven)",
+        "Chris Sullivan (Rob Nelson)",
+        "Jeff Pierre (Patrick Burke)",
+        "Annabelle Wallis (Nicole Raven)",
+        "Rafi Gavron (Holt Charles)"
       ],
-      "tramaTmdb": null,
-      "impronta": "The Exorcist: Martyrs|0|Mike Flanagan"
+      "tramaTmdb": "Ambientato in un futuro prossimo in cui i crimini capitali sono in aumento, un detective viene accusato di un crimine violento ed è costretto a dimostrare la sua innocenza.",
+      "impronta": "Mercy - Sotto accusa|172|Timur Bekmambetov"
     }
   ]
 }
