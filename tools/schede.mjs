@@ -20,13 +20,16 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { leggiLibreriaMia, applicaLibreriaMia, rigaVisto } from './libreria.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const QUANTI = 20;   // per mattina: la routine deve finire in tempi umani
 const ORDINE = { cinema: 0, casa: 1, visto: 2 };
 
 const catalogo = JSON.parse(await readFile(join(ROOT, 'data', 'movies.json'), 'utf8'));
-const movies = catalogo.movies;
+/* La libreria vera: il catalogo di Notion più quello che hai fatto
+   nell'app (visti, stelle, film aggiunti, film tolti). */
+const movies = applicaLibreriaMia(catalogo.movies, await leggiLibreriaMia(ROOT));
 
 let schede = {};
 try { schede = JSON.parse(await readFile(join(ROOT, 'data', 'schede.json'), 'utf8')); } catch { /* prima volta */ }
@@ -43,7 +46,7 @@ const ritratto = {
   generi:  conta(visti, m => m.genres || []).slice(0, 6).map(([g, n]) => `${g} (${n})`),
   registi: conta(visti, m => [m.director]).slice(0, 12).map(([r, n]) => n > 1 ? `${r} (${n})` : r),
   attori:  conta(visti, m => (m.castDetail || []).slice(0, 6).map(c => c.name)).filter(([, n]) => n >= 2).slice(0, 12).map(([a, n]) => `${a} (${n})`),
-  filmVisti: visti.map(m => `${m.title}${m.release ? ' (' + m.release.slice(0, 4) + ')' : ''}${m.director ? ', ' + m.director : ''}`)
+  filmVisti: visti.map(rigaVisto)
 };
 
 /* Chi aspetta una scheda: chi non ce l'ha, o ce l'ha scritta con

@@ -24,6 +24,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { leggiLibreriaMia, applicaLibreriaMia, rigaVisto } from './libreria.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const API  = 'https://api.themoviedb.org/3';
@@ -82,7 +83,10 @@ const mescola = lista => { const a = [...lista]; for (let i = a.length - 1; i > 
 
 /* ── il ritratto del lettore, dalla libreria ──────────── */
 const catalogo = await leggi('movies.json', { movies: [] });
-const movies = catalogo.movies;
+const libreriaMia = await leggiLibreriaMia(ROOT);
+const movies = applicaLibreriaMia(catalogo.movies, libreriaMia);
+/* I "no" detti nell'app: non tornano mai. */
+const scartati = new Set((libreriaMia?.scartati || []).map(id => Number(String(id).replace('tmdb-', ''))));
 const visti = movies.filter(m => m.lista === 'visto');
 const conteggio = (lista, chiave) => {
   const c = new Map();
@@ -114,7 +118,8 @@ async function scegli() {
   const esclusi = new Set([
     ...movies.map(m => m.tmdbId).filter(Boolean),
     ...trailer.map(t => t.tmdbId),
-    ...Object.keys(storico).map(Number)
+    ...Object.keys(storico).map(Number),
+    ...scartati
   ]);
   const buono = r => r && !esclusi.has(r.id) && r.poster_path && !r.adult && r.release_date && r.release_date <= soglia && !r.video;
 
@@ -263,7 +268,7 @@ await writeFile(join(ROOT, 'data', 'da-presentare.json'), JSON.stringify({
     generi:  generiVisti.slice(0, 6).map(([g, n]) => `${g} (${n})`),
     registi: registiVisti.slice(0, 12).map(([r, n]) => n > 1 ? `${r} (${n})` : r),
     attori:  attoriVisti.filter(([, n]) => n >= 2).slice(0, 12).map(([a, n]) => `${a} (${n})`),
-    filmVisti: visti.map(m => `${m.title}${m.release ? ' (' + m.release.slice(0, 4) + ')' : ''}${m.director ? ', ' + m.director : ''}`)
+    filmVisti: visti.map(rigaVisto)
   },
   film: daPresentare
 }, null, 2) + '\n');

@@ -56,6 +56,13 @@ jobs:
           OMDB_KEY: ${{ secrets.OMDB_KEY }}
         run: node tools/enrich.mjs
 
+      - name: Leggi la tua libreria dall'app (Supabase)
+        if: steps.ora.outputs.procedi == 'si'
+        env:
+          CINETECA_EMAIL: ${{ secrets.CINETECA_EMAIL }}
+          CINETECA_PASSWORD: ${{ secrets.CINETECA_PASSWORD }}
+        run: node tools/libreria-mia.mjs
+
       - name: Raccogli la rassegna stampa
         if: steps.ora.outputs.procedi == 'si'
         env:

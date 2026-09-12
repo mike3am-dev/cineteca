@@ -30,6 +30,12 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Leggi la tua libreria dall'app (Supabase)
+        env:
+          CINETECA_EMAIL: ${{ secrets.CINETECA_EMAIL }}
+          CINETECA_PASSWORD: ${{ secrets.CINETECA_PASSWORD }}
+        run: node tools/libreria-mia.mjs
+
       - name: Prepara le schede da redigere
         run: node tools/schede.mjs
 
@@ -49,7 +55,7 @@ jobs:
           git config user.name  "Cineteca bot"
           git config user.email "actions@github.com"
           git add data/notizie.json data/da-curare.json data/curatela.json data/da-redigere.json data/schede.json \
-                  data/scoperte.json data/da-presentare.json data/presentazioni.json
+                  data/scoperte.json data/da-presentare.json data/presentazioni.json data/libreria-mia.json
           if git diff --cached --quiet; then
             echo "Nessuna novità."
           else

@@ -35,6 +35,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
+import { leggiLibreriaMia, applicaLibreriaMia } from './libreria.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const API  = 'https://api.themoviedb.org/3';
@@ -557,7 +558,11 @@ const curatela = await leggiCuratela();
 console.log(`Curatela in archivio: ${Object.keys(curatela).length} articoli.`);
 
 const catalogo = JSON.parse(await readFile(join(ROOT, 'data', 'movies.json'), 'utf8'));
-const movies = catalogo.movies;
+/* La libreria vera: Notion più quello che hai fatto nell'app. Così un
+   film aggiunto da un trailer non torna fra i trailer, e i "visti"
+   dell'app contano nel radar. */
+const libreriaMia = await leggiLibreriaMia(ROOT);
+const movies = applicaLibreriaMia(catalogo.movies, libreriaMia);
 const lib = libreria(movies);
 
 /* Il cinema di cui si parla adesso, secondo TMDB. */

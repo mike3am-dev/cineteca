@@ -17,6 +17,7 @@ Poi apri http://localhost:8123 (serve un server: aprendo `index.html` col doppio
 | `data/seed.json` | Export dalla pagina Notion "Movies". Base di partenza. |
 | `data/movies.json` | Catalogo arricchito con TMDB. È quello che l'app legge davvero. |
 | `localStorage` | **Stato personale**: visto, preferito, voto, note, film aggiunti da te, film scartati. Vive nel tuo browser (e in Supabase, se accedi). |
+| `data/libreria-mia.json` | Il tuo stato personale portato nel repository (`tools/libreria-mia.mjs`): visti, stelle, film aggiunti, scartati. Niente note. |
 | `data/notizie.json` | La rassegna stampa e i trailer della settimana (`tools/notizie.mjs`). |
 | `data/scoperte.json` | I dieci film del giorno per costruire la cineteca virtuale (`tools/scoperte.mjs`). |
 | `data/da-curare.json` → `data/curatela.json` | Rassegna da riscrivere → riscritta (redazione del mattino). |
@@ -91,6 +92,8 @@ js/cloud.js         accesso e sincronia via Supabase (facoltativa)
 tools/enrich.mjs    arricchimento TMDB + OMDb
 tools/notizie.mjs   rassegna stampa italiana + trailer della settimana
 tools/schede.mjs    prepara le schede che la redazione deve scrivere
+tools/libreria-mia.mjs  legge la tua riga Supabase e scrive data/libreria-mia.json
+tools/libreria.mjs  fonde catalogo Notion + stato dell'app (usato da schede, notizie, scoperte)
 tools/scoperte.mjs  i dieci film del giorno + trailer e scoperte da presentare
 tools/importa.mjs   import dall'export Notion
 tools/versione.mjs  allinea il `?v=` degli asset e la cache del service worker
@@ -135,6 +138,13 @@ sola — **visto** (e compaiono subito le stelle), **da vedere**, oppure **no** 
 e il film entra nel tuo stato personale come quelli aggiunti dai trailer.
 I "no" valgono per sempre: quel film non torna né fra i trailer né fra le scoperte.
 Un film non giudicato non viene riproposto per quattro mesi.
+
+Quello che fai nell'app arriva anche alla redazione: i workflow entrano in
+Supabase con le tue credenziali (secrets `CINETECA_EMAIL` e `CINETECA_PASSWORD`,
+stesso accesso dell'app, quindi solo la tua riga) e scrivono `data/libreria-mia.json`.
+Da lì schede, rassegna e scoperte ragionano sulla libreria completa: i film aggiunti
+dai trailer hanno la loro scheda, i visti con le stelle entrano nel ritratto, gli
+scartati non tornano. Senza i secrets tutto funziona come prima, solo con Notion.
 
 ## Scorciatoie
 
