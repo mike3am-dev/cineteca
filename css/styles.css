@@ -1164,6 +1164,29 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
 .ras-trailer-azioni{ display:flex; flex-wrap:wrap; gap:6px; margin-top:4px; }
 .ras-trailer-azioni .ras-tag{ text-decoration:none; }
 .ras-tag-agg{ color:var(--ink); border-color:var(--line-2); }
+.ras-tag-visto{ color:var(--good); border-color:rgba(75,227,155,.35); }
+/* Il "no": grigio finché non lo tocchi, rosso quando conta. */
+.ras-tag-no{ color:var(--ink-3); border-color:var(--line); }
+.ras-conferma{
+  display:flex; flex-wrap:wrap; align-items:center; gap:6px; margin-top:4px;
+  padding:8px 10px; border-radius:var(--r-s);
+  background:rgba(255,107,107,.08); border:1px solid rgba(255,107,107,.28);
+  animation:rise .25s cubic-bezier(.2,.8,.3,1) both;
+}
+.ras-conferma-testo{ flex:1 1 100%; font-size:12.5px; color:var(--ink); }
+.ras-conferma .ras-tag-no{ color:#FFB3B3; border-color:rgba(255,107,107,.5); background:rgba(255,107,107,.14); }
+
+/* ── costruisci la cineteca ───────────────────────────── */
+.ras-scoperte-sez .ras-testa-kicker{ color:var(--good); }
+.ras-scoperta{ border-color:rgba(75,227,155,.18); background:linear-gradient(135deg, rgba(75,227,155,.05), var(--panel) 60%); }
+.ras-scoperta.is-dentro{ border-color:rgba(75,227,155,.4); }
+.ras-scoperta-poster{ padding:0; cursor:pointer; }
+.ras-scoperta-quando{ color:var(--good); }
+.ras-stelle{ display:inline-flex; align-items:center; gap:2px; margin-right:6px; }
+.ras-stelle .star{ font-size:20px; padding:2px; }
+.ras-stelle-detto{ margin-left:6px; font-size:11px; color:var(--ink-3); }
+.ras-fatto{ margin:12px 0 0; padding:14px 16px; border-radius:var(--r-s); border:1px dashed var(--line-2);
+  font-size:13px; color:var(--ink-2); text-align:center; }
 
 /* ── accadde oggi ─────────────────────────────────────── */
 .ras-anni{
@@ -1182,6 +1205,8 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
   .ras-scheda:hover, .ras-riga:hover{ border-color:var(--line-2); background:var(--panel-2); }
   .ras-compatta:hover{ background:var(--panel-2); }
   .ras-tag:hover{ border-color:var(--accent); color:var(--accent); }
+  .ras-tag-no:hover{ border-color:rgba(255,107,107,.6); color:var(--rotten); }
+  .ras-tag-visto:hover{ border-color:var(--good); color:var(--good); }
 }
 @media (max-width:560px){
   .ras-masthead{ flex-direction:column; align-items:flex-start; gap:8px; }

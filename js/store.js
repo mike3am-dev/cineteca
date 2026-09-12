@@ -153,18 +153,45 @@ const Store = (() => {
     releaseDate: x.release ? new Date(`${x.release}T00:00:00`) : null, extra: true
   }));
 
+  /* lista: 'cinema' | 'casa' | 'visto'. "Visto" è un film che entra
+     direttamente fra quelli già guardati — la cineteca virtuale si
+     costruisce così, un film alla volta — e per l'app è un film da
+     casa con la spunta: dove l'avresti visto non conta più. */
   function aggiungi(film, lista) {
     const id = `tmdb-${film.tmdbId}`;
+    const visto = lista === 'visto';
+    const dove = visto ? 'casa' : lista;
     state.extra = state.extra || {};
     if (!state.extra[id]) {
-      const { perche, motivi, origine, youtube, trailerTipo, trailerLingua, trailerPubblicato, ...dati } = film;
-      state.extra[id] = { ...dati, id, lista, addedAt: new Date().toISOString() };
+      const { perche, motivi, origine, youtube, trailerTipo, trailerLingua, trailerPubblicato, contesto, fonte, categoria, proposto, ...dati } = film;
+      state.extra[id] = { ...dati, id, lista: dove, addedAt: new Date().toISOString() };
     }
-    patch(id, { listaScelta: lista, rimosso: false });
+    // Se l'avevi scartato e ora lo vuoi, il ripensamento vince.
+    if ((state.scartati || {})[id]) delete state.scartati[id];
+    patch(id, visto
+      ? { listaScelta: dove, rimosso: false, seen: true, seenAt: new Date().toISOString() }
+      : { listaScelta: dove, rimosso: false });
     return id;
+  }
+  /* L'"annulla" di un'aggiunta appena fatta: il film aggiunto da te
+     sparisce del tutto, come se non fosse mai entrato — così una
+     proposta torna proponibile. Per un film del catalogo, che non si
+     può cancellare, resta il vecchio "tolto dalla libreria". */
+  function disfaAggiunta(id) {
+    if ((state.extra || {})[id]) { delete state.extra[id]; delete state.movies[id]; save(); }
+    else rimuovi(id);
   }
   const haFilm = tmdbId => catalog.some(m => m.tmdbId === tmdbId) || Boolean((state.extra || {})[`tmdb-${tmdbId}`]);
   const idDiTmdb = tmdbId => catalog.find(m => m.tmdbId === tmdbId)?.id || ((state.extra || {})[`tmdb-${tmdbId}`] ? `tmdb-${tmdbId}` : null);
+
+  /* ── i film che non ti interessano ───────────────────────
+     Un "no" detto a un trailer o a una proposta vale per sempre:
+     quel film non torna né fra i trailer né fra le scoperte. È
+     stato personale come il resto, quindi viaggia con la sincronia. */
+  const scarta    = tmdbId => { state.scartati = state.scartati || {}; state.scartati[`tmdb-${tmdbId}`] = new Date().toISOString(); save(); };
+  const riammetti = tmdbId => { if ((state.scartati || {})[`tmdb-${tmdbId}`]) { delete state.scartati[`tmdb-${tmdbId}`]; save(); } };
+  const scartato  = tmdbId => Boolean((state.scartati || {})[`tmdb-${tmdbId}`]);
+  const quantiScartati = () => Object.keys(state.scartati || {}).length;
 
   const all = () => [...catalog, ...extra()].map(conStato).filter(m => !m.user.rimosso);
   /* Compresi quelli tolti: serve solo a poterli ripescare. */
@@ -202,13 +229,18 @@ const Store = (() => {
     for (const [id, loro] of Object.entries(remoto.extra || {})) {
       if (!(state.extra || {})[id]) { state.extra = state.extra || {}; state.extra[id] = loro; cambiato = true; }
     }
+    // E i "no": un film scartato su un dispositivo sparisce anche sugli altri.
+    for (const [id, quando] of Object.entries(remoto.scartati || {})) {
+      if (!(state.scartati || {})[id]) { state.scartati = state.scartati || {}; state.scartati[id] = quando; cambiato = true; }
+    }
 
     if (remoto.schema > (state.schema || 0)) state.schema = remoto.schema;
     if (cambiato) save();
     return cambiato;
   }
 
-  return { init, refresh, all, tutti, byId, userState, aggiungi, haFilm, idDiTmdb,
+  return { init, refresh, all, tutti, byId, userState, aggiungi, disfaAggiunta, haFilm, idDiTmdb,
+           scarta, riammetti, scartato, quantiScartati,
            toggleSeen, toggleFav, toggleRewatch, togglePronto, rimuovi, ripristina, spostaIn, setRating, setNote, subscribe,
            stato, fondi, quantiToccati, riparaArchivio };
 })();

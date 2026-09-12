@@ -13,6 +13,11 @@ const Notizie = (() => {
   const LETTE = 'cineteca:notizie-lette';
   const TMDB = 'https://image.tmdb.org/t/p';
   let dati = null;
+  let presentazioni = {};   // data/presentazioni.json: contesto e trama scritti dalla redazione
+  let scoperte = null;      // data/scoperte.json: i dieci film di oggi per la cineteca virtuale
+  // Le conferme aperte ("sicuro?") e le stelle in attesa: stato di
+  // pagina, non di archivio, quindi vive qui e muore con il render.
+  let conferma = null;      // tmdbId del trailer con la conferma aperta
 
   const lette = () => {
     try { return new Set(JSON.parse(localStorage.getItem(LETTE)) || []); }
@@ -44,10 +49,15 @@ const Notizie = (() => {
 
   async function carica() {
     if (dati) return dati;
-    try {
-      const res = await fetch(`data/notizie.json?t=${Date.now()}`);
-      dati = res.ok ? await res.json() : { notizie: [] };
-    } catch { dati = { notizie: [] }; }
+    const leggi = async (file, vuoto) => {
+      try { const res = await fetch(`data/${file}?t=${Date.now()}`); return res.ok ? await res.json() : vuoto; }
+      catch { return vuoto; }
+    };
+    [dati, presentazioni, scoperte] = await Promise.all([
+      leggi('notizie.json', { notizie: [] }),
+      leggi('presentazioni.json', {}),
+      leggi('scoperte.json', null)
+    ]);
     return dati;
   }
 
@@ -188,12 +198,62 @@ const Notizie = (() => {
       : `<a class="ras-anni" href="https://www.themoviedb.org/movie/${a.tmdbId}" target="_blank" rel="noopener">${dentro}</a>`;
   };
 
+  /* ── contesto e trama di un film che non hai ──────────────
+     La redazione del mattino scrive per ogni trailer e per ogni
+     proposta una riga di contesto ("il nuovo film di…", "l'atteso
+     ritorno di…") e due o tre righe di trama. Finché non l'ha
+     fatto, ci si arrangia con quello che TMDB dà: la riga la
+     compone il codice da regia e cast, la trama è l'inizio della
+     sinossi. Una card senza niente sotto il titolo non deve esistere. */
+  const presentazione = t => presentazioni[`tmdb-${t.tmdbId}`] || null;
+
+  const contestoDi = t => {
+    const p = presentazione(t);
+    if (p?.contesto) return p.contesto;
+    if (t.perche) return t.perche;
+    const pezzi = [];
+    if (t.director) pezzi.push(`regia di ${t.director}`);
+    const c = (t.cast || []).slice(0, 2);
+    if (c.length) pezzi.push(`con ${c.join(' e ')}`);
+    if (!pezzi.length && t.genres?.length) pezzi.push(`${t.genres.slice(0, 2).join(' e ').toLowerCase()}${t.countries?.[0] ? `, ${t.countries[0]}` : ''}`);
+    return pezzi.length ? pezzi.join(' · ') : null;
+  };
+
+  const tramaDi = t => {
+    const p = presentazione(t);
+    if (p?.trama) return p.trama;
+    if (!t.plot) return null;
+    // Le prime due frasi, senza superare le 240 battute e senza spezzare una parola.
+    const frasi = t.plot.split(/(?<=[.!?])\s+/);
+    let out = frasi[0] || '';
+    if (frasi[1] && (out + ' ' + frasi[1]).length <= 240) out += ' ' + frasi[1];
+    if (out.length > 240) out = out.slice(0, 240).replace(/\s\S*$/, '') + '…';
+    return out;
+  };
+
+  /* Il "no" a un trailer chiede conferma: è un film che magari non
+     hai nemmeno guardato, e un tocco sbagliato lo farebbe sparire
+     per sempre. La conferma sta nella card, al posto dei bottoni. */
+  const chiediConferma = t => `<span class="ras-conferma">
+      <span class="ras-conferma-testo">Sicuro? Non te lo ripropongo più.</span>
+      <button class="ras-tag ras-tag-no" data-scarta="${t.tmdbId}">Sì, toglilo</button>
+      <button class="ras-tag" data-annulla-conferma="${t.tmdbId}">No</button>
+    </span>`;
+
+  /* Le stelle in linea: appena dici "visto", il voto è a un tocco. */
+  const stelle = (id, voto) => `<span class="ras-stelle" role="group" aria-label="Il tuo voto">
+      ${[1,2,3,4,5].map(n => `<button class="star${n <= voto ? ' is-on' : ''}" data-stella="${n}" data-film="${F.esc(id)}" aria-label="${n} stelle">★</button>`).join('')}
+      ${voto ? `<span class="ras-stelle-detto">votato</span>` : `<span class="ras-stelle-detto">quante stelle?</span>`}
+    </span>`;
+
   /* Un trailer nuovo di un film che non hai: lo guardi e decidi tu
      dove va — al cinema, a casa, o da nessuna parte. */
   const trailer = t => {
     const id = Store.idDiTmdb(t.tmdbId);
     const dentro = Boolean(id);
     const quandoTrailer = quando(t.trailerPubblicato);
+    const contesto = contestoDi(t);
+    const trama = tramaDi(t);
     return `<article class="ras-trailer${dentro ? ' is-dentro' : ''}" data-tmdb="${t.tmdbId}">
       <a class="ras-trailer-poster" href="${F.esc(t.trailer)}" target="_blank" rel="noopener" aria-label="Guarda il trailer di ${F.esc(t.title)}">
         ${t.poster ? `<img src="${F.esc(imgTmdb(t.poster, 'w342'))}" alt="" loading="lazy">` : ''}
@@ -203,18 +263,62 @@ const Notizie = (() => {
         <span class="ras-trailer-quando">${F.esc(t.trailerTipo === 'Teaser' ? 'teaser' : 'trailer')} · ${F.esc(quandoTrailer)}${t.trailerLingua === 'it' ? ' · in italiano' : ''}</span>
         <b>${F.esc(t.title)}</b>
         <span class="ras-trailer-meta">${t.release ? F.esc(F.dataBreve(new Date(t.release + 'T00:00:00'))) + (t.releaseFonte !== 'IT' ? ' <i title="data non confermata per l\'Italia">≈</i>' : '') : 'data da definire'}${t.genres?.length ? ` · ${F.esc(t.genres.slice(0, 2).join(', '))}` : ''}${t.director ? ` · ${F.esc(t.director)}` : ''}</span>
-        ${t.perche ? `<span class="ras-perche">${F.esc(t.perche)}</span>` : ''}
-        ${t.plot ? `<span class="ras-trailer-trama">${F.esc(t.plot.split(/(?<=[.!?])\s/)[0].slice(0, 160))}</span>` : ''}
-        <span class="ras-trailer-azioni">
+        ${contesto ? `<span class="ras-perche">${F.esc(contesto)}</span>` : ''}
+        ${trama ? `<span class="ras-trailer-trama">${F.esc(trama)}</span>` : ''}
+        ${conferma === t.tmdbId ? chiediConferma(t) : `<span class="ras-trailer-azioni">
           <a class="ras-tag" href="${F.esc(t.trailer)}" target="_blank" rel="noopener">▶ Trailer</a>
           ${dentro
             ? `<button class="ras-tag ras-tag-film" data-open="${F.esc(id)}">✓ In libreria · apri</button>`
             : `<button class="ras-tag ras-tag-agg" data-aggiungi="${t.tmdbId}" data-lista="cinema">🎟️ Al cinema</button>
-               <button class="ras-tag ras-tag-agg" data-aggiungi="${t.tmdbId}" data-lista="casa">🛋️ A casa</button>`}
+               <button class="ras-tag ras-tag-agg" data-aggiungi="${t.tmdbId}" data-lista="casa">🛋️ A casa</button>
+               <button class="ras-tag ras-tag-no" data-conferma="${t.tmdbId}" title="Non mi interessa">✕ No</button>`}
+        </span>`}
+      </div>
+    </article>`;
+  };
+
+  /* ── costruisci la cineteca ────────────────────────────────
+     Dieci film già usciti, ogni giorno, che non hai in libreria:
+     scelti fra i registi e gli attori che segui, i tuoi generi,
+     i classici e quello che gira adesso. Tu dici solo tre cose —
+     visto, da vedere, no — e la tua storia si riempie un film
+     alla volta. Un "visto" chiede subito le stelle. */
+  const scoperta = f => {
+    const id = Store.idDiTmdb(f.tmdbId);
+    const u = id ? Store.userState(id) : null;
+    const dentro = Boolean(id) && !u?.rimosso;
+    const anno = (f.release || '').slice(0, 4);
+    const contesto = contestoDi(f);
+    const trama = tramaDi(f);
+    return `<article class="ras-trailer ras-scoperta${dentro ? ' is-dentro' : ''}" data-tmdb="${f.tmdbId}">
+      <button class="ras-trailer-poster ras-scoperta-poster" ${dentro ? `data-open="${F.esc(id)}"` : `data-info="${f.tmdbId}"`} aria-label="${F.esc(f.title)}">
+        ${f.poster ? `<img src="${F.esc(imgTmdb(f.poster, 'w342'))}" alt="" loading="lazy">` : ''}
+      </button>
+      <div class="ras-trailer-testo">
+        <span class="ras-trailer-quando ras-scoperta-quando">${F.esc(f.categoria || 'da scoprire')}</span>
+        <b>${F.esc(f.title)}</b>
+        <span class="ras-trailer-meta">${anno ? F.esc(anno) : ''}${f.genres?.length ? ` · ${F.esc(f.genres.slice(0, 2).join(', '))}` : ''}${f.director ? ` · ${F.esc(f.director)}` : ''}${f.runtime ? ` · ${F.durata(f.runtime)}` : ''}${f.tmdbRating && f.tmdbVotes >= 50 ? ` · TMDB ${f.tmdbRating.toFixed(1)}` : ''}</span>
+        ${contesto ? `<span class="ras-perche">${F.esc(contesto)}</span>` : ''}
+        ${trama ? `<span class="ras-trailer-trama">${F.esc(trama)}</span>` : ''}
+        <span class="ras-trailer-azioni">
+          ${dentro
+            ? (u.seen
+                ? `${stelle(id, u.myRating)}<button class="ras-tag ras-tag-film" data-open="${F.esc(id)}">✓ Visto · apri</button>`
+                : `<button class="ras-tag ras-tag-film" data-open="${F.esc(id)}">🛋️ Da vedere · apri</button>`)
+            : `<button class="ras-tag ras-tag-agg ras-tag-visto" data-aggiungi="${f.tmdbId}" data-lista="visto">✓ Visto</button>
+               <button class="ras-tag ras-tag-agg" data-aggiungi="${f.tmdbId}" data-lista="casa">🛋️ Da vedere</button>
+               ${f.trailer ? `<a class="ras-tag" href="${F.esc(f.trailer)}" target="_blank" rel="noopener">▶ Trailer</a>` : ''}
+               <button class="ras-tag ras-tag-no" data-scarta="${f.tmdbId}" title="Non mi interessa">✕ No</button>`}
         </span>
       </div>
     </article>`;
   };
+
+  /* Chi resta da giudicare oggi: né in libreria, né scartato. Chi hai
+     appena giudicato resta in pagina (le stelle vanno messe adesso),
+     ma domani non c'è più. */
+  const scoperteVive = () => (scoperte?.film || []).filter(f => !Store.scartato(f.tmdbId));
+  const scopertePendenti = () => scoperteVive().filter(f => !Store.haFilm(f.tmdbId));
 
   const sezione = (kicker, sotto, corpo, cls = '') => corpo
     ? `<section class="ras-sezione ${cls}">
@@ -245,7 +349,10 @@ const Notizie = (() => {
     const passato = prendi(d.passato);
     const altre = prendi(d.altre);
     const anni = d.accaddeOggi || [];
-    const trailerNuovi = d.trailer || [];
+    // I trailer di film che hai scartato non tornano più.
+    const trailerVivi = (d.trailer || []).filter(t => !Store.scartato(t.tmdbId));
+    const scoperteOggi = scoperteVive();
+    const pendenti = scopertePendenti();
     const nuove = tutte.filter(n => !viste.has(n.link)).length;
 
     root.innerHTML = `
@@ -266,7 +373,16 @@ const Notizie = (() => {
         temi.length ? `<div class="ras-temi">${temi.map(t => tema(t, perLink, viste)).join('')}</div>` : '')}
 
       ${sezione('Trailer della settimana', 'film che non hai: guarda e decidi',
-        trailerNuovi.length ? `<div class="ras-trailer-griglia">${trailerNuovi.map(trailer).join('')}</div>` : '', 'ras-trailer-sez')}
+        trailerVivi.length ? `<div class="ras-trailer-griglia">${trailerVivi.map(trailer).join('')}</div>` : '', 'ras-trailer-sez')}
+
+      ${sezione('Costruisci la cineteca', scoperteOggi.length
+          ? `film già usciti che non hai in libreria · ${pendenti.length ? `${pendenti.length} da giudicare` : 'fatto per oggi'}`
+          : 'film già usciti che non hai in libreria',
+        scoperteOggi.length
+          ? `<div class="ras-trailer-griglia">${scoperteOggi.map(scoperta).join('')}</div>${
+              pendenti.length ? '' : `<p class="ras-fatto">Tutti giudicati. Domani te ne propongo altri dieci.</p>`}`
+          : (scoperte ? `<p class="ras-fatto">Per oggi niente da giudicare: domani arrivano altri dieci film.</p>` : ''),
+        'ras-scoperte-sez')}
 
       ${sezione('Nel tuo radar', 'film che non hai, ma che ti somigliano',
         radar.length ? `<div class="ras-righe">${radar.map(n => riga(n, viste)).join('')}</div>` : '', 'ras-radar')}
@@ -297,21 +413,56 @@ const Notizie = (() => {
     setTimeout(() => segna(new Set([...viste, ...tutte.map(n => n.link)])), 4000);
   }
 
+  /* Il film di una proposta, ovunque stia: fra le scoperte o fra i trailer. */
+  const filmDi = tmdbId => (scoperte?.film || []).find(x => x.tmdbId === tmdbId)
+                        || (dati?.trailer || []).find(x => x.tmdbId === tmdbId) || null;
+
   root.addEventListener('click', e => {
     const apri = e.target.closest('[data-open]');
     if (apri) { e.preventDefault(); return Detail.open(apri.dataset.open); }
+
+    /* Le stelle sulla card appena segnata "visto". */
+    const stella = e.target.closest('[data-stella]');
+    if (stella) { Store.setRating(stella.dataset.film, Number(stella.dataset.stella)); return render(); }
 
     /* "Sì, lo voglio": il film entra in libreria nella lista scelta,
        con un ripensamento a portata di mano per qualche secondo. */
     const agg = e.target.closest('[data-aggiungi]');
     if (agg && dati) {
-      const t = (dati.trailer || []).find(x => x.tmdbId === Number(agg.dataset.aggiungi));
+      const t = filmDi(Number(agg.dataset.aggiungi));
       if (!t) return;
-      const id = Store.aggiungi(t, agg.dataset.lista);
+      const lista = agg.dataset.lista;
+      const id = Store.aggiungi(t, lista);
       render();
-      Avviso.mostra(`<b>${F.esc(t.title)}</b> aggiunto: ${agg.dataset.lista === 'cinema' ? 'da vedere al cinema' : 'da vedere a casa'}`,
-        'Annulla', () => { Store.rimuovi(id); render(); });
+      const dove = { cinema: 'da vedere al cinema', casa: 'da vedere a casa', visto: 'fra i film visti' }[lista];
+      Avviso.mostra(`<b>${F.esc(t.title)}</b> aggiunto ${dove}${lista === 'visto' ? ' — dagli le stelle' : ''}`,
+        'Annulla', () => { Store.disfaAggiunta(id); render(); });
+      return;
     }
+
+    /* "No": per i trailer prima si chiede, per le scoperte si toglie
+       subito (sono dieci al giorno, una conferma a testa sarebbe una
+       tortura) ma con l'annulla lì per sei secondi. */
+    const chiedi = e.target.closest('[data-conferma]');
+    if (chiedi) { conferma = Number(chiedi.dataset.conferma); return render(); }
+    const no = e.target.closest('[data-annulla-conferma]');
+    if (no) { conferma = null; return render(); }
+
+    const scarta = e.target.closest('[data-scarta]');
+    if (scarta) {
+      const tmdbId = Number(scarta.dataset.scarta);
+      const t = filmDi(tmdbId);
+      conferma = null;
+      Store.scarta(tmdbId);
+      render();
+      Avviso.mostra(`<b>${F.esc(t?.title || 'Film')}</b> non ti verrà più proposto`,
+        'Annulla', () => { Store.riammetti(tmdbId); render(); });
+      return;
+    }
+
+    /* La locandina di una proposta non ancora in libreria: apre TMDB. */
+    const info = e.target.closest('[data-info]');
+    if (info) { window.open(`https://www.themoviedb.org/movie/${info.dataset.info}?language=it-IT`, '_blank', 'noopener'); }
   });
 
   return { render };

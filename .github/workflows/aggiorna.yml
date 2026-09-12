@@ -66,6 +66,12 @@ jobs:
         if: steps.ora.outputs.procedi == 'si'
         run: node tools/schede.mjs
 
+      - name: Scoperte del giorno e presentazioni da scrivere
+        if: steps.ora.outputs.procedi == 'si'
+        env:
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+        run: node tools/scoperte.mjs
+
       - name: Date ancora senza uscita italiana
         if: steps.ora.outputs.procedi == 'si'
         run: node tools/date-da-controllare.mjs

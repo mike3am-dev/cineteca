@@ -11,6 +11,7 @@ on:
     paths:
       - 'data/curatela.json'
       - 'data/schede.json'
+      - 'data/presentazioni.json'
   workflow_dispatch:
 
 permissions:
@@ -37,11 +38,18 @@ jobs:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
         run: node tools/notizie.mjs
 
+      # Dopo la rassegna, perché legge i trailer appena raccolti.
+      - name: Scoperte del giorno e presentazioni da scrivere
+        env:
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+        run: node tools/scoperte.mjs
+
       - name: Pubblica se qualcosa è cambiato
         run: |
           git config user.name  "Cineteca bot"
           git config user.email "actions@github.com"
-          git add data/notizie.json data/da-curare.json data/curatela.json data/da-redigere.json data/schede.json
+          git add data/notizie.json data/da-curare.json data/curatela.json data/da-redigere.json data/schede.json \
+                  data/scoperte.json data/da-presentare.json data/presentazioni.json
           if git diff --cached --quiet; then
             echo "Nessuna novità."
           else
