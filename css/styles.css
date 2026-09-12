@@ -238,7 +238,11 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
   font-size:13px; font-weight:600; color:var(--ink-2); white-space:nowrap;
   transition:background .2s, border-color .2s, color .2s;
 }
-.verso-freccia{ font-size:14px; line-height:1; color:var(--accent); }
+/* Il verso è una .select per forma, non per contenuto: le sue parole
+   non sono l'etichetta ORDINA, quindi niente maiuscoletto grigio. */
+.select-verso span{ font-size:inherit; letter-spacing:0; text-transform:none; color:inherit; }
+.select-verso .verso-freccia{ font-size:14px; line-height:1; color:var(--accent); }
+.verso-corto{ display:none; }
 @media (hover:hover){
   .select-verso:hover{ background:var(--panel-2); border-color:var(--line-2); color:var(--ink); }
 }
@@ -913,7 +917,17 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
   .topbar{ flex-wrap:wrap; row-gap:10px; }
   .search{ order:3; max-width:none; flex-basis:100%; }
   .controls{ flex-direction:column; align-items:stretch; }
-  .controls-right{ justify-content:space-between; }
+  /* Ordina, verso e layout su una riga sola. Per starci: via la
+     parola ORDINA (il menu si spiega da solo), il menu si restringe
+     quanto serve, il verso tiene solo la parola corta. */
+  .controls-right{ flex-wrap:nowrap; gap:8px; }
+  .controls-right .select:not(.select-verso){ flex:1 1 auto; min-width:0; padding:0 10px; gap:0; }
+  .controls-right .select:not(.select-verso) > span{ display:none; }
+  .select select{ width:100%; min-width:0; text-overflow:ellipsis; padding-right:2px; }
+  .select-verso{ flex:0 0 auto; padding:0 11px; font-size:12.5px; }
+  .segmented{ flex:0 0 auto; }
+  .verso-lungo{ display:none; }
+  .verso-corto{ display:inline; }
 
   /* I tre filtri occupano tutta la riga: se restano allineati a
      sinistra dentro un contenitore largo quanto lo schermo, la barra
@@ -1273,10 +1287,16 @@ main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
 
 /* ══ telefono: hero ancora più asciutto ══════════════ */
 @media (max-width:560px){
-  .hero{ min-height:0; }
-  .hero-bg{ opacity:.38; }
-  .hero h1{ font-size:19px; }
-  .hero-trailer{ width:42px; height:42px; margin-right:12px; }
+  /* Sul telefono l'immagine deve VEDERSI: prima era al 38% sotto un
+     velo laterale pensato per lo schermo largo, e restava un rettangolo
+     nero. Ora è piena, il velo sale dal basso, e il testo sta in fondo:
+     la metà alta del riquadro è il film. */
+  .hero{ min-height:340px; align-items:flex-end; }
+  .hero-bg{ opacity:.9; object-position:center 30%; }
+  .hero::after{ background:linear-gradient(to top, rgba(5,6,11,.97) 0%, rgba(5,6,11,.85) 32%, rgba(5,6,11,.35) 62%, rgba(5,6,11,.05) 100%); }
+  .hero-inner{ padding:16px 16px 18px; }
+  .hero h1{ font-size:22px; }
+  .hero-trailer{ width:42px; height:42px; margin-right:12px; margin-bottom:18px; align-self:flex-end; }
   .tab{ max-width:none; padding:11px 6px; text-align:center; font-size:12.5px; }
 }
 

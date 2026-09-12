@@ -368,6 +368,17 @@
     runtime:  ['dai più lunghi', 'dai più corti'],
     added:    ['dalle ultime aggiunte', 'dalle prime aggiunte']
   };
+  /* Sul telefono i tre comandi stanno su una riga sola: lì la parola
+     da sola basta, la freccia dice il resto. */
+  const VERSI_CORTI = {
+    release:  ['vecchi', 'nuovi'],
+    title:    ['A → Z', 'Z → A'],
+    rating:   ['alti', 'bassi'],
+    rt:       ['alti', 'bassi'],
+    myRating: ['alti', 'bassi'],
+    runtime:  ['lunghi', 'corti'],
+    added:    ['ultime', 'prime']
+  };
 
   const versoEl = $('#verso');
 
@@ -379,7 +390,8 @@
     if (!voci) return;
 
     const giu = filtro.verso === 1;
-    versoEl.innerHTML = `<span class="verso-freccia">${giu ? '↓' : '↑'}</span>${F.esc(voci[giu ? 0 : 1])}`;
+    const corte = VERSI_CORTI[filtro.sort];
+    versoEl.innerHTML = `<span class="verso-freccia">${giu ? '↓' : '↑'}</span><span class="verso-lungo">${F.esc(voci[giu ? 0 : 1])}</span><span class="verso-corto">${F.esc(corte[giu ? 0 : 1])}</span>`;
     versoEl.setAttribute('aria-label', `Ordine: ${voci[giu ? 0 : 1]}. Tocca per invertirlo.`);
   }
 
