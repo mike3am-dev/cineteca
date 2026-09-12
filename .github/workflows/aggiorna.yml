@@ -62,6 +62,10 @@ jobs:
           TMDB_KEY: ${{ secrets.TMDB_KEY }}
         run: node tools/notizie.mjs
 
+      - name: Prepara le schede da redigere
+        if: steps.ora.outputs.procedi == 'si'
+        run: node tools/schede.mjs
+
       - name: Date ancora senza uscita italiana
         if: steps.ora.outputs.procedi == 'si'
         run: node tools/date-da-controllare.mjs
