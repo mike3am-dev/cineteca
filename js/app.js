@@ -451,8 +451,8 @@
   });
 
   /* ── avvio ───────────────────────────────────────────── */
-  Store.init()
-    .then(info => {
+  Promise.all([Store.init(), Schede.carica()])
+    .then(([info]) => {
       meta = info;
       render();
       aggiornaFooter();

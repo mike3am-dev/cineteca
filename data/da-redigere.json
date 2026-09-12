@@ -1,0 +1,725 @@
+{
+  "preparato": "2026-09-12T13:45:59.955Z",
+  "ritratto": {
+    "generi": [
+      "Avventura (14)",
+      "Dramma (13)",
+      "Fantascienza (12)",
+      "Thriller (10)",
+      "Azione (10)",
+      "Horror (9)"
+    ],
+    "registi": [
+      "Denis Villeneuve (3)",
+      "Christopher Nolan (2)",
+      "Joseph Kosinski (2)",
+      "Colin Trevorrow (2)",
+      "James Cameron (2)",
+      "Chloé Zhao",
+      "David Frankel",
+      "Curry Barker",
+      "Kane Parsons",
+      "Steven Spielberg",
+      "Sébastien Vaniček",
+      "Phil Lord"
+    ],
+    "attori": [
+      "Timothée Chalamet (4)",
+      "Chris Pratt (4)",
+      "Emily Blunt (3)",
+      "Ryan Gosling (3)",
+      "Javier Bardem (3)",
+      "Bryce Dallas Howard (3)",
+      "Paul Mescal (2)",
+      "Anne Hathaway (2)",
+      "Matt Damon (2)",
+      "Tom Holland (2)",
+      "Robert Pattinson (2)",
+      "Margot Robbie (2)"
+    ],
+    "filmVisti": [
+      "Hamnet - Nel nome del figlio (2026), Chloé Zhao",
+      "Il diavolo veste Prada 2 (2026), David Frankel",
+      "Obsession (2026), Curry Barker",
+      "Backrooms (2026), Kane Parsons",
+      "Disclosure Day (2026), Steven Spielberg",
+      "Odissea (2026), Christopher Nolan",
+      "La casa - Il rogo del Male (2026), Sébastien Vaniček",
+      "L'ultima missione: Project Hail Mary (2026), Phil Lord",
+      "Cime tempestose (2026), Emerald Fennell",
+      "Marty Supreme (2026), Josh Safdie",
+      "Return to Silent Hill (2026), Christophe Gans",
+      "Frankenstein (2025), Guillermo del Toro",
+      "28 anni dopo (2025), Danny Boyle",
+      "F1: Il film (2025), Joseph Kosinski",
+      "Weapons (2025), Zach Cregger",
+      "Five Nights at Freddy's 2 (2025), Emma Tammi",
+      "Dune (2021), Denis Villeneuve",
+      "Dune - Parte due (2024), Denis Villeneuve",
+      "Oppenheimer (2023), Christopher Nolan",
+      "Joker (2019), Todd Phillips",
+      "Il gladiatore II (2024), Ridley Scott",
+      "Barbie (2023), Greta Gerwig",
+      "The Whale (2023), Darren Aronofsky",
+      "The Menu (2022), Mark Mylod",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "La sirenetta (2023), Rob Marshall",
+      "C'è ancora domani (2023), Paola Cortellesi",
+      "Wonka (2023), Paul King",
+      "Uncharted (2022), Ruben Fleischer",
+      "Top Gun: Maverick (2022), Joseph Kosinski",
+      "Jurassic World (2015), Colin Trevorrow",
+      "Jurassic World – Il regno distrutto (2018), J. A. Bayona",
+      "Jurassic World - Il dominio (2022), Colin Trevorrow",
+      "Avatar (2010), James Cameron",
+      "Avatar: La via dell'acqua (2022), James Cameron",
+      "The Batman (2022), Matt Reeves",
+      "Blade Runner 2049 (2017), Denis Villeneuve"
+    ]
+  },
+  "film": [
+    {
+      "id": "cs-65949",
+      "tmdbId": 1127384,
+      "imdbId": "tt29516222",
+      "titolo": "Deep Water",
+      "titoloOriginale": "Deep Water",
+      "anno": "2026",
+      "uscitaItalia": "2026-07-23",
+      "lista": "cinema",
+      "regia": "Renny Harlin",
+      "generi": [
+        "Thriller"
+      ],
+      "paesi": [
+        "Spagna",
+        "Nuova Zelanda",
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": "Surviving the crash is just the beginning.",
+      "cast": [
+        "Aaron Eckhart (Ben)",
+        "Ben Kingsley (Rich)",
+        "Molly Belle Wright (Cora)",
+        "Angus Sampson (Dan)",
+        "Elijah Tamati (Finn)",
+        "Zhao Simei (Lilly)",
+        "李汶翰 (Sam)",
+        "那尔那茜 (Zoe)"
+      ],
+      "tramaTmdb": "Un gruppo di passeggeri internazionali è a bordo di un volo intercontinentale da Los Angeles a Shanghai. Una situazione estrema li costringe a lottare per sopravvivere, isolati e senza via di fuga.",
+      "impronta": "Deep Water|197|Renny Harlin"
+    },
+    {
+      "id": "tmdb-969681",
+      "tmdbId": 969681,
+      "imdbId": "tt22084616",
+      "titolo": "Spider-Man: Brand New Day",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-07-29",
+      "lista": "cinema",
+      "regia": "Destin Daniel Cretton",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 144,
+      "tagline": "Un nuovo giorno inizia ora.",
+      "cast": [
+        "Tom Holland (Peter Parker / Spider-Man)",
+        "Zendaya (MJ)",
+        "Mark Ruffalo (Bruce Banner / Hulk)",
+        "Jon Bernthal (Frank Castle / Punisher)",
+        "Jacob Batalon (Ned Leeds)",
+        "Sadie Sink (Jean Grey)",
+        "Florence Pugh (Yelena Belova / Black Widow)",
+        "Liza Colón-Zayas (Detective Jean DeWolff)"
+      ],
+      "tramaTmdb": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter è ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce più il suo nome, si è dedicato interamente alla protezione della sua città. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, dà origine a una delle minacce più potenti che abbia mai affrontato.",
+      "impronta": "Spider-Man: Brand New Day|602|Destin Daniel Cretton"
+    },
+    {
+      "id": "tmdb-1430077",
+      "tmdbId": 1430077,
+      "imdbId": "tt35672862",
+      "titolo": "Hokum",
+      "titoloOriginale": "Hokum",
+      "anno": "2026",
+      "uscitaItalia": "2026-08-05",
+      "lista": "cinema",
+      "regia": "Damian McCarthy",
+      "generi": [
+        "Horror",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA",
+        "Irlanda",
+        "Emirati Arabi Uniti",
+        "Hong Kong"
+      ],
+      "durata": 108,
+      "tagline": "We've been expecting you.",
+      "cast": [
+        "Adam Scott (Ohm Bauman)",
+        "Peter Coonan (Mal)",
+        "David Wilmot (Jerry)",
+        "Florence Ordesh (Fiona)",
+        "Michael Patric (Fergal)",
+        "Will O'Connell (Alby / Jack (The Jackass))",
+        "Brendan Conroy (Cob)",
+        "Ezra Carlisle (Boy)"
+      ],
+      "tramaTmdb": "Quando lo scrittore Ohm Bauman si ritira in una locanda isolata per spargere le ceneri dei suoi genitori, viene ossessionato dai racconti di una strega che infesta la suite nuziale. Visioni inquietanti e una scioccante scomparsa lo costringono a confrontarsi con gli angoli oscuri del suo passato.",
+      "impronta": "Hokum|297|Damian McCarthy"
+    },
+    {
+      "id": "cs-66536",
+      "tmdbId": 1101383,
+      "imdbId": "tt27165187",
+      "titolo": "La Fine di Oak Street",
+      "titoloOriginale": "The End of Oak Street",
+      "anno": "2026",
+      "uscitaItalia": "2026-08-12",
+      "lista": "cinema",
+      "regia": "David Robert Mitchell",
+      "generi": [
+        "Thriller",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 100,
+      "tagline": "Where goes the neighborhood.",
+      "cast": [
+        "Anne Hathaway (Denise Platt)",
+        "Ewan McGregor (Greg Platt)",
+        "Maisy Stella (Audrey Platt)",
+        "Christian Convery (Brian Platt)",
+        "Jordan Alexa Davis (Jeannette Christiansen)",
+        "P.J. Byrne (Mel Jacobs)",
+        "Bethany Anne Lind (Mary Bagrowski)",
+        "Emily Kuroda (Mrs. Valcour)"
+      ],
+      "tramaTmdb": "Negli anni '80 una famiglia inizia a notare strani eventi nel proprio quartiere. Un misterioso fenomeno cosmico li isola in un luogo sconosciuto e dovranno restare uniti per sopravvivere.",
+      "impronta": "La Fine di Oak Street|187|David Robert Mitchell"
+    },
+    {
+      "id": "cs-68691",
+      "tmdbId": 1291595,
+      "imdbId": "tt32393988",
+      "titolo": "Insidious: Fuori dall'Altrove",
+      "titoloOriginale": "Insidious: Out of the Further",
+      "anno": "2026",
+      "uscitaItalia": "2026-08-19",
+      "lista": "cinema",
+      "regia": "Jacob Chase",
+      "generi": [
+        "Horror"
+      ],
+      "paesi": [
+        "Australia",
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": "L'orrore ha trovato una via d'uscita.",
+      "cast": [
+        "Amelia Eve (Gemma Hall)",
+        "Island Austin (Maya Hall)",
+        "Lin Shaye (Elise Rainier)",
+        "Sam Spruell (Cyrus Lam)",
+        "Brandon Perea (Nick Mendoza)",
+        "Maisie Richardson-Sellers (Clare)",
+        "Joseph Lopez (Lester)",
+        "Robina Beard (Edna)"
+      ],
+      "tramaTmdb": "Gemma, giovane madre, cresce sua figlia nella stessa casa in cui è cresciuta. Quando strani eventi riemergono, il passato sembra tornare a bussare alla porta.",
+      "impronta": "Insidious: Fuori dall'Altrove|158|Jacob Chase"
+    },
+    {
+      "id": "cs-67639",
+      "tmdbId": 1390382,
+      "imdbId": "tt34688195",
+      "titolo": "Couture",
+      "titoloOriginale": "Coutures",
+      "anno": "2026",
+      "uscitaItalia": "2026-08-26",
+      "lista": "cinema",
+      "regia": "Alice Winocour",
+      "generi": [
+        "Drammatico"
+      ],
+      "paesi": [
+        "Francia",
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": null,
+      "cast": [
+        "Angelina Jolie (Maxine Walker)",
+        "Anyier Anei (Ada)",
+        "Ella Rumpf (Angèle)",
+        "Louis Garrel (Anton)",
+        "Vincent Lindon (Dr. Laurent Hansen)",
+        "Garance Marillier (Christine)",
+        "Grégoire Colin (Le directeur d'image)",
+        "Aurore Clément (Anne)"
+      ],
+      "tramaTmdb": "Nella Fashion Week di Parigi, tra apparenze e pressione costante, tre donne si incrociano. I loro percorsi mettono a nudo fragilità e scelte, dentro e fuori dal mondo della moda.",
+      "impronta": "Couture|178|Alice Winocour"
+    },
+    {
+      "id": "cs-66983",
+      "tmdbId": 1384216,
+      "imdbId": "tt21285562",
+      "titolo": "The Dog Stars - Le Stelle Dopo la Fine",
+      "titoloOriginale": "The Dog Stars",
+      "anno": "2026",
+      "uscitaItalia": "2026-08-26",
+      "lista": "cinema",
+      "regia": "Ridley Scott",
+      "generi": [
+        "Azione",
+        "Avventura",
+        "Fantascienza",
+        "Thriller"
+      ],
+      "paesi": [
+        "Gran Bretagna"
+      ],
+      "durata": 118,
+      "tagline": "La fine del mondo era solo l'inizio.",
+      "cast": [
+        "Jacob Elordi (Hig)",
+        "Margaret Qualley (Cima)",
+        "Josh Brolin (Bangley)",
+        "Guy Pearce (Pops)",
+        "Allison Janney (Darlene)",
+        "Benedict Wong (Aaron)",
+        "Ewen Bremner (Crossbow Hunter)",
+        "James Craze (Logan)"
+      ],
+      "tramaTmdb": "Dopo un evento che ha cambiato il mondo, un sopravvissuto vive ai margini aggrappandosi a poche certezze. Un segnale inatteso riaccende la speranza e lo spinge a rimettersi in viaggio.",
+      "impronta": "The Dog Stars - Le Stelle Dopo la Fine|184|Ridley Scott"
+    },
+    {
+      "id": "tmdb-671-25",
+      "tmdbId": 671,
+      "imdbId": "tt0241527",
+      "titolo": "Harry Potter e la pietra filosofale — 25° anniversario",
+      "titoloOriginale": "Harry Potter and the Philosopher’s Stone",
+      "anno": "2026",
+      "uscitaItalia": "2026-08-26",
+      "lista": "cinema",
+      "regia": "Chris Columbus",
+      "generi": [
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 152,
+      "tagline": "La magia ha inizio.",
+      "cast": [
+        "Daniel Radcliffe (Harry Potter)",
+        "Rupert Grint (Ron Weasley)",
+        "Emma Watson (Hermione Granger)",
+        "Richard Harris (Albus Dumbledore)",
+        "Tom Felton (Draco Malfoy)",
+        "Alan Rickman (Severus Snape)",
+        "Robbie Coltrane (Hagrid)",
+        "Maggie Smith (Professor McGonagall)"
+      ],
+      "tramaTmdb": "Harry Potter vive con gli zii e il cuginetto sin dalla più tenera età dopo la morte dei suoi genitori. I parenti non lo amano per nulla. Harry sta ormai per compiere undici anni e viene guardato male anche per alcune sue capacità 'magiche'. Che sono effettive perché Harry è figlio di maghi e comincia a ricevere lettere, regolarmente sequestrate, portate da gufi. Dovrà giungere il gigantesco Hagrid a recapitargliene personalmente una perché possa apprendere di essere stato ammesso a frequentare la Scuola di Magia e Stregoneria di Hogwarts. Gli zii a questo punto non possono far più nulla e Harry raggiunge la Scuola dove apprende che il suo nome è già noto e dove scoprirà di avere naturali doti magiche.",
+      "impronta": "Harry Potter e la pietra filosofale — 25° anniversario|710|Chris Columbus"
+    },
+    {
+      "id": "tmdb-1329016",
+      "tmdbId": 1329016,
+      "imdbId": "tt33095251",
+      "titolo": "Tony - Diario di un giovane cuoco",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-08-27",
+      "lista": "cinema",
+      "regia": "Matt Johnson",
+      "generi": [
+        "Dramma",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA",
+        "Canada"
+      ],
+      "durata": 106,
+      "tagline": "Prima di essere Anthony Bourdain, era solo Tony.",
+      "cast": [
+        "Dominic Sessa (Tony)",
+        "Antonio Banderas (Chef)",
+        "Emilia Jones (Nancy)",
+        "Leo Woodall (Sal)",
+        "Stavros Halkias (Stavros)",
+        "Michael Jibrin (Tyrone)",
+        "Monica Raymund (Mary)",
+        "Rich Sommer (Pierre)"
+      ],
+      "tramaTmdb": "Quando il diciannovenne Anthony Bourdain arriva a Provincetown, finisce per ritrovarsi nel mondo caotico della cucina di un ristorante, dando il via a un'estate che segnerà il corso della sua vita.",
+      "impronta": "Tony - Diario di un giovane cuoco|197|Matt Johnson"
+    },
+    {
+      "id": "cs-53576",
+      "tmdbId": 396535,
+      "imdbId": "tt5700672",
+      "titolo": "Train to Busan",
+      "titoloOriginale": "Busanhaeng",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-02",
+      "lista": "cinema",
+      "regia": "Yeon Sang-ho",
+      "generi": [
+        "Azione",
+        "Horror",
+        "Thriller"
+      ],
+      "paesi": [
+        "Corea del Sud"
+      ],
+      "durata": 118,
+      "tagline": "La lotta per la sopravvivenza è cominciata...",
+      "cast": [
+        "공유 (Seok-woo)",
+        "김수안 (Soo-ahn)",
+        "정유미 (Sung-gyeong)",
+        "마동석 (Sang-hwa)",
+        "Choi Woo-shik (Yeong-gook)",
+        "안소희 (Jin-hee)",
+        "김의성 (Yong-suk)",
+        "예수정 (In-gil)"
+      ],
+      "tramaTmdb": "Seok-wu, manager assorbito dal lavoro, vuole portare la figlia Su-an dalla madre a Busan per il compleanno. Durante il viaggio, l'imprevisto trasforma il treno in una corsa contro il tempo.",
+      "impronta": "Train to Busan|189|Yeon Sang-ho"
+    },
+    {
+      "id": "tmdb-1684016",
+      "tmdbId": 1684016,
+      "imdbId": "tt38882652",
+      "titolo": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-09-02",
+      "lista": "cinema",
+      "regia": "Paul Dugdale",
+      "generi": [
+        "Documentario",
+        "Musica"
+      ],
+      "paesi": [
+        "USA",
+        "Francia"
+      ],
+      "durata": 119,
+      "tagline": "They said I couldn't. I did it. And I filmed it.",
+      "cast": [
+        "Katy Perry (Self)"
+      ],
+      "tramaTmdb": null,
+      "impronta": "Katy Perry: The Lifetimes Tour - Live from Paris|0|Paul Dugdale"
+    },
+    {
+      "id": "cs-68600",
+      "tmdbId": 1423191,
+      "imdbId": "tt35538033",
+      "titolo": "Resident Evil",
+      "titoloOriginale": "Resident Evil",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-17",
+      "lista": "cinema",
+      "regia": "Zach Cregger",
+      "generi": [
+        "Horror"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 90,
+      "tagline": "No sweat.",
+      "cast": [
+        "Austin Abrams (Bryan)",
+        "Zach Cherry (Dave)",
+        "Kali Reis (Pauline)",
+        "Paul Walter Hauser (Carl)",
+        "Johnno Wilson (Max)"
+      ],
+      "tramaTmdb": "Un nuovo capitolo reboot ispirato al survival horror Capcom, con una storia originale. L'incubo torna a crescere lontano dai personaggi più noti, ma con la stessa atmosfera di tensione.",
+      "impronta": "Resident Evil|185|Zach Cregger"
+    },
+    {
+      "id": "tmdb-1283515",
+      "tmdbId": 1283515,
+      "imdbId": "tt32261958",
+      "titolo": "Verity",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-01",
+      "lista": "cinema",
+      "regia": "Michael Showalter",
+      "generi": [
+        "Mistero",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": "Dove andiamo non c'è luce",
+      "cast": [
+        "Dakota Johnson (Lowen Ashleigh)",
+        "Anne Hathaway (Verity Crawford)",
+        "Josh Hartnett (Jeremy Crawford)",
+        "Ismael Cruz Cordova (Corey)",
+        "Brady Wagner (Crew Crawford)",
+        "Irina Dvorovenko",
+        "K.K. Moggie",
+        "Michael Abbott Jr."
+      ],
+      "tramaTmdb": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
+      "impronta": "Verity|512|Michael Showalter"
+    },
+    {
+      "id": "cs-67091",
+      "tmdbId": 1400837,
+      "imdbId": "tt36586020",
+      "titolo": "Mammina",
+      "titoloOriginale": "Other Mommy",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-08",
+      "lista": "cinema",
+      "regia": "Rob Savage",
+      "generi": [
+        "Horror"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 91,
+      "tagline": "Your mommy won't save you.",
+      "cast": [
+        "Jessica Chastain (Ursula / Other Mommy)",
+        "Arabella Olivia Clark (Bela)",
+        "Jay Duplass (Russ)",
+        "Dichen Lachman",
+        "Arian Moayed",
+        "Karen Allen (Grandma Ruth)",
+        "Sean Kaufman",
+        "Adam Silver"
+      ],
+      "tramaTmdb": "Una bambina di otto anni si trasferisce con la famiglia in una nuova casa. Qualcosa la segue nell'ombra: un'entità che lei chiama \"L'Altra Mamma\".",
+      "impronta": "Mammina|146|Rob Savage"
+    },
+    {
+      "id": "tmdb-1281331",
+      "tmdbId": 1281331,
+      "imdbId": "tt37510326",
+      "titolo": "The Social: Il prezzo della verità",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-08",
+      "lista": "cinema",
+      "regia": "Aaron Sorkin",
+      "generi": [
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": "We're way past making friends.",
+      "cast": [
+        "Jeremy Strong (Mark Zuckerberg)",
+        "Mikey Madison (Frances Haugen)",
+        "Jeremy Allen White (Jeff Horwitz)",
+        "Wunmi Mosaku (Raya)",
+        "Betty Gilpin (Kris)",
+        "Billy Magnussen (Teddy)",
+        "Bill Burr (Charlie)",
+        "Gbenga Akinnagbe"
+      ],
+      "tramaTmdb": "Frances Haugen, giovane ingegnere di Facebook, si avvale dell'aiuto di Jeff Horwitz, un reporter del Wall Street Journal, per intraprendere un pericoloso viaggio che finisce per rivelare i segreti più custoditi del social network.",
+      "impronta": "The Social: Il prezzo della verità|230|Aaron Sorkin"
+    },
+    {
+      "id": "tmdb-1400940",
+      "tmdbId": 1400940,
+      "imdbId": "tt34890576",
+      "titolo": "Clayface",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "lista": "cinema",
+      "regia": "James Watkins",
+      "generi": [
+        "Horror",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": null,
+      "tagline": "Guarda la paura in faccia",
+      "cast": [
+        "Tom Rhys Harries (Matt Hagen / Clayface)",
+        "Naomi Ackie (Caitlyn Corr)",
+        "Eddie Marsan",
+        "Max Minghella (John Borrelli)",
+        "David Dencik",
+        "Francesca Corney",
+        "Ruby Sear (Theresa)",
+        "Wil Coban (Bones)"
+      ],
+      "tramaTmdb": "La terrificante discesa di un uomo, da astro nascente di Hollywood a mostro assetato di vendetta, in una storia che esplora la perdita di identità e umanità, l’amore corrosivo e il lato oscuro dell’ambizione scientifica.",
+      "impronta": "Clayface|220|James Watkins"
+    },
+    {
+      "id": "tmdb-1300968",
+      "tmdbId": 1300968,
+      "imdbId": "tt32558705",
+      "titolo": "Hunger Games - L'alba sulla mietitura",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-11-19",
+      "lista": "cinema",
+      "regia": "Francis Lawrence",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA",
+        "Germania"
+      ],
+      "durata": null,
+      "tagline": "Questi giochi saranno diversi",
+      "cast": [
+        "Joseph Zada (Haymitch Abernathy)",
+        "Ralph Fiennes (President Coriolanus Snow)",
+        "Jesse Plemons (Plutarch Heavensbee)",
+        "Mckenna Grace (Maysilee Donner / Merrilee Donner)",
+        "Whitney Peak (Lenore Dove Baird)",
+        "Elle Fanning (Effie Trinket)",
+        "Maya Hawke (Wiress)",
+        "Lili Taylor (Mags Flanagan)"
+      ],
+      "tramaTmdb": null,
+      "impronta": "Hunger Games - L'alba sulla mietitura|0|Francis Lawrence"
+    },
+    {
+      "id": "tmdb-1170608",
+      "tmdbId": 1170608,
+      "imdbId": "tt31378509",
+      "titolo": "Dune - Parte tre",
+      "titoloOriginale": "Dune: Part Three",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-16",
+      "lista": "cinema",
+      "regia": "Denis Villeneuve",
+      "generi": [
+        "Fantascienza",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 140,
+      "tagline": "L'epica conclusione.",
+      "cast": [
+        "Timothée Chalamet (Paul Atreides)",
+        "Zendaya (Chani)",
+        "Jason Momoa (Hayt)",
+        "Florence Pugh (Princess Irulan)",
+        "Rebecca Ferguson (Lady Jessica)",
+        "Isaach de Bankolé (Farok)",
+        "Charlotte Rampling (Reverend Mother Mohiam)",
+        "Anya Taylor-Joy (Alia Atreides)"
+      ],
+      "tramaTmdb": "Paul Atreides è diventato Imperatore dell’universo. Ma il suo dominio è minacciato dai numerosi nemici e pur avendo previsto questo futuro, Paul lo considera il meno distruttivo possibile per l’umanità. Sposato con la principessa Irulan ma innamorato di Chani, Paul non riesce ad avere figli a causa di un complotto delle Bene Gesserit. Intanto queste, insieme alla Gilda Spaziale e ai Tleilaxu, tramano per eliminarlo.",
+      "impronta": "Dune - Parte tre|419|Denis Villeneuve"
+    },
+    {
+      "id": "tmdb-1492198",
+      "tmdbId": 1492198,
+      "imdbId": "tt37171180",
+      "titolo": "Artificial",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-12-25",
+      "lista": "cinema",
+      "regia": "Luca Guadagnino",
+      "generi": [
+        "Commedia",
+        "Dramma"
+      ],
+      "paesi": [
+        "Italia",
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 140,
+      "tagline": null,
+      "cast": [
+        "Andrew Garfield (Sam Altman)",
+        "Yura Borisov (Ilya Sutskever)",
+        "Jason Schwartzman",
+        "Cooper Koch",
+        "Cooper Hoffman (Greg Brockman)",
+        "Monica Barbaro (Mira Murati)",
+        "Billie Lourd",
+        "Zosia Mamet"
+      ],
+      "tramaTmdb": null,
+      "impronta": "Artificial|0|Luca Guadagnino"
+    },
+    {
+      "id": "tmdb-1297467",
+      "tmdbId": 1297467,
+      "imdbId": "tt32492552",
+      "titolo": "The Exorcist: Martyrs",
+      "titoloOriginale": null,
+      "anno": "2027",
+      "uscitaItalia": "2027-03-12",
+      "lista": "cinema",
+      "regia": "Mike Flanagan",
+      "generi": [
+        "Horror"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": null,
+      "tagline": null,
+      "cast": [
+        "Scarlett Johansson",
+        "Jacobi Jupe",
+        "Diane Lane",
+        "Chiwetel Ejiofor",
+        "Laurence Fishburne",
+        "Sasha Calle",
+        "John Leguizamo",
+        "Rahul Kohli"
+      ],
+      "tramaTmdb": null,
+      "impronta": "The Exorcist: Martyrs|0|Mike Flanagan"
+    }
+  ]
+}

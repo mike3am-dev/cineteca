@@ -101,10 +101,7 @@ const Detail = (() => {
 
         ${perche(m)}
 
-        ${m.plot ? `<section class="d-section">
-          <h4>Trama</h4>
-          <p class="d-plot">${F.esc(m.plot)}</p>
-        </section>` : ''}
+        ${trama(m)}
 
         ${statsBlock(m)}
         ${castBlock(m)}
@@ -249,12 +246,31 @@ const Detail = (() => {
     // da raccontare, questo riquadro non ha niente da dire.
     if (!p || !p.frase) return dubbio;
 
-    return `<section class="d-perche">
+    return `<section class="d-perche${p.redazione ? ' d-perche-red' : ''}">
       <span class="d-perche-et">Ti piacerà perché</span>
       <p class="d-perche-frase">${p.frase}</p>
+      ${p.vibes?.length ? `<div class="d-vibes"><span class="d-vibes-et">Stesse vibes di</span>${
+        p.vibes.map(v => `<span class="fact">${F.esc(v)}</span>`).join('')}</div>` : ''}
+      ${p.nota ? `<p class="d-perche-nota">${F.esc(p.nota)}</p>` : ''}
       ${p.caveat || p.pratico ? `<p class="d-perche-coda">${
         [p.caveat, p.pratico].filter(Boolean).join(' ')}</p>` : ''}
     </section>` + dubbio;
+  }
+
+  /* ── la trama ───────────────────────────────────────────
+     Quella della redazione quando c'è: dice di cosa parla il film
+     senza raccontarlo, e c'è anche per i film che TMDB lascia vuoti.
+     Altrimenti le righe di TMDB, che sono meglio di niente. */
+  function trama(m) {
+    const s = Schede.get(m.id);
+    const testo = s?.trama || m.plot;
+    if (!testo) return '';
+    const paragrafi = testo.split(/\n\s*\n/).map(x => x.trim()).filter(Boolean);
+    return `<section class="d-section">
+      <h4>Trama</h4>
+      ${paragrafi.map(x => `<p class="d-plot">${F.esc(x)}</p>`).join('')}
+      ${s?.trama && m.tagline ? '' : ''}
+    </section>`;
   }
 
   /* ── chi di questo film hai già incrociato ─────────────

@@ -275,6 +275,16 @@ const Consiglia = (() => {
   function perche(film, tutti) {
     const visti = tutti.filter(m => m.user.seen && m.id !== film.id);
     const amo = gancio(film);
+
+    /* La redazione, quando c'è, ha già scritto il perché: con i
+       richiami, le parentele, i film che hai visto. Le frasi calcolate
+       qui sotto restano per i film che una scheda non ce l'hanno ancora. */
+    const scheda = typeof Schede !== 'undefined' ? Schede.get(film.id) : null;
+    if (scheda?.perche) {
+      const pratico = praticoDi(film);
+      return { gancio: amo, frase: F.esc(scheda.perche), caveat: null, pratico, redazione: true,
+               vibes: scheda.vibes || [], nota: scheda.nota || null };
+    }
     if (visti.length < 3) return amo ? { gancio: amo, frase: null, caveat: null, pratico: null } : null;
 
     const p = profilo(visti);
@@ -400,19 +410,7 @@ const Consiglia = (() => {
     }
 
     /* Il dettaglio pratico: dove e quando. */
-    let pratico = null;
-    const gg = F.giorniA(film.releaseDate);
-    const prev = F.prevendita(film);
-
-    if (film.lista === 'cinema') {
-      if (prev?.urgente)               pratico = `${maiuscola(prev.testo)}.`;
-      else if (gg != null && gg > 0)   pratico = `Esce fra ${gg} giorni.`;
-      else if (gg != null && gg >= -70) pratico = 'È in sala adesso.';
-    } else if (film.user?.pronto) {
-      pratico = 'Lo hai segnato come pronto: si guarda stasera.';
-    } else if (gg != null && gg > 0 && gg <= 45) {
-      pratico = `Esce fra ${gg} giorni.`;
-    }
+    const pratico = praticoDi(film);
 
     const frase = !pezzi.length ? null
       : pezzi.length > 1
@@ -513,6 +511,22 @@ const Consiglia = (() => {
     /* "Forte" è quello che si merita un posto in "Ci penserei": il
        dubbio in fondo alla scheda si accontenta di meno. */
     return { frase, punti: malus, forte: malus <= -9 };
+  }
+
+  /* Dove e quando: l'unica riga che la redazione non può scrivere,
+     perché cambia ogni giorno. */
+  function praticoDi(film) {
+    const gg = F.giorniA(film.releaseDate);
+    const prev = F.prevendita(film);
+    if (film.lista === 'cinema') {
+      if (prev?.urgente)                return `${maiuscola(prev.testo)}.`;
+      if (gg != null && gg > 0)         return `Esce fra ${gg} giorni.`;
+      if (gg != null && gg >= -70)      return 'È in sala adesso.';
+      return null;
+    }
+    if (film.user?.pronto)              return 'Lo hai segnato come pronto: si guarda stasera.';
+    if (gg != null && gg > 0 && gg <= 45) return `Esce fra ${gg} giorni.`;
+    return null;
   }
 
   /* La frase può iniziare con un tag (<b>, <i>): la maiuscola va

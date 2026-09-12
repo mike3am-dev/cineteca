@@ -8,11 +8,11 @@
    quando la rete non c'è.
    ══════════════════════════════════════════════════════════ */
 
-const CACHE = 'cineteca-v202609120943';
+const CACHE = 'cineteca-v202609121345';
 const SHELL = [
   './', './index.html', './css/styles.css',
   './js/avviso.js', './js/store.js', './js/format.js', './js/charts.js',
-  './js/consiglia.js', './js/persone.js', './js/ciechi.js', './js/perte.js', './js/notizie.js', './js/stats.js', './js/detail.js', './js/novita.js', './js/cloud-config.js', './js/cloud.js', './js/app.js',
+  './js/schede.js', './js/consiglia.js', './js/persone.js', './js/ciechi.js', './js/perte.js', './js/notizie.js', './js/stats.js', './js/detail.js', './js/novita.js', './js/cloud-config.js', './js/cloud.js', './js/app.js',
   './data/movies.json', './manifest.webmanifest', './assets/icon-180.png', './assets/icon-192.png'
 ];
 
