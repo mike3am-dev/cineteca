@@ -1,242 +1,622 @@
 {
   "cs-65949": {
-    "trama": "Un volo intercontinentale da Los Angeles a Shanghai, il ventre di un aereo pieno di sconosciuti che hanno in comune soltanto la rotta. Poi qualcosa va storto, e il disastro che dovrebbe chiudere la storia ne è appena il preludio: chi sopravvive all'impatto si ritrova isolato, senza soccorsi in vista e senza una via di fuga, costretto a fare i conti con l'acqua, il freddo e la diffidenza reciproca.\n\nRenny Harlin lavora da sempre sul cinema di sopravvivenza ad alta tensione — la montagna di Cliffhanger, il mare di Deep Blue Sea — e qui riduce il campo all'osso: un gruppo, un orizzonte vuoto, il tempo che stringe. Ad ancorare tutto ci sono Aaron Eckhart e Ben Kingsley, due facce che reggono il primo piano quando il rumore si spegne. Centosei minuti in cui il thriller diventa questione di scelte pratiche: chi aiutare, cosa lasciare andare, quanto resistere.",
-    "perche": "Thriller di sopravvivenza secco e claustrofobico, nel filone fisico che ti ha tenuto sveglio con 28 anni dopo. Aaron Eckhart — l'Harvey Dent del Cavaliere oscuro di Nolan — divide la scena con Ben Kingsley, e Renny Harlin resta un artigiano affidabile quando si tratta di chiudere dei personaggi dentro una trappola naturale.",
+    "trama": "Un volo intercontinentale da Los Angeles a Shanghai, un corridoio pieno di sconosciuti che condividono soltanto una rotta e un fuso orario. Poi qualcosa va storto, e il disastro che in un altro film chiuderebbe la storia qui è appena il primo movimento: sopravvivere allo schianto significa ritrovarsi isolati sull'acqua, senza soccorsi in vista, senza terra all'orizzonte e con un gruppo che non ha nulla in comune se non il bisogno di restare a galla.\n\nRenny Harlin riduce il campo all'osso, come ha fatto per tutta la carriera: uno spazio chiuso, un orizzonte vuoto, il tempo che stringe. Ad ancorare il film ci sono Aaron Eckhart e Ben Kingsley, due facce costruite per reggere il primo piano quando il rumore si spegne. Centosei minuti in cui il thriller si riduce a una successione di scelte pratiche: chi tenere, cosa lasciare andare, quanto si può resistere.",
+    "perche": "Sopravvivenza fisica e claustrofobia pura, il filone che ti ha tenuto in tensione con 28 anni dopo. Aaron Eckhart — l'Harvey Dent del Cavaliere oscuro — divide la scena con Ben Kingsley. E Harlin resta un artigiano affidabile quando deve chiudere dei personaggi dentro una trappola naturale: da Cliffhanger a Die Hard 2 è terreno suo.",
     "vibes": [
-      "28 anni dopo",
       "Alive - Sopravvissuti",
-      "Cast Away"
+      "Cast Away",
+      "All Is Lost - Tutto è perduto"
+    ],
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Alive - Sopravvissuti",
+        "perche": "Il disastro aereo come inizio e non come fine: il modello di ogni sopravvivenza di gruppo."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Cliffhanger - L'ultima sfida",
+        "perche": "Il Renny Harlin migliore: un gruppo, un ambiente ostile, nessuna via d'uscita praticabile."
+      },
+      {
+        "tipo": "film",
+        "titolo": "All Is Lost - Tutto è perduto",
+        "perche": "Robert Redford solo in mare: la versione silenziosa e minimale della stessa paura."
+      }
     ],
     "nota": "Renny Harlin ha diretto Die Hard 2 e Cliffhanger: il disastro ad alta quota è terreno che frequenta da oltre trent'anni.",
     "impronta": "Deep Water|197|Renny Harlin",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-969681": {
-    "trama": "Sono passati quattro anni dalla notte in cui Peter Parker si è cancellato dalla memoria di chi amava. Vive solo, in una New York che non sa più il suo nome, e ha fatto della maschera un mestiere a tempo pieno: nessuno lo aspetta a casa, nessuno gli chiede come sta. È uno Spider-Man senza rete, e il film parte proprio da lì, dal costo umano di una scelta generosa.\n\nPoi la pressione presenta il conto: il corpo di Peter reagisce in un modo che non aveva previsto, mentre una strana serie di crimini attraversa la città e porta alla luce una minaccia di dimensioni nuove. Destin Daniel Cretton lavora su un registro più terreno e adulto dei capitoli precedenti, con una New York di strada in cui compaiono figure come Hulk e il Punitore. Il tono promesso è quello del ripartire da zero: un eroe che deve reinventarsi un'identità, non solo salvare la città.",
-    "perche": "Tom Holland è uno dei volti che incroci più spesso e qui il suo Peter è finalmente adulto e solo. Destin Daniel Cretton, che con Il diritto di opporsi aveva dimostrato di saper stare sui personaggi prima che sugli effetti, porta in scena il Frank Castle di Jon Bernthal: un Marvel più stradaiolo e molto meno cosmico.",
+    "trama": "Sono passati quattro anni dal finale di No Way Home e Peter Parker vive in una città che non sa più chi sia. Si è cancellato dalla memoria di tutti quelli che amava, e adesso abita una New York dove nessuno lo aspetta a casa: nessun nome da difendere, nessuna vita doppia da gestire, solo il lavoro. Uno Spider-Man a tempo pieno, che si getta sul crimine di strada perché è l'unica cosa rimasta.\n\nDestin Daniel Cretton porta il personaggio verso il registro più terreno della sua storia recente: al fianco di Tom Holland ci sono Mark Ruffalo nei panni di Bruce Banner e Jon Bernthal in quelli di Frank Castle, due presenze che spostano il film verso la violenza urbana e il dubbio morale. Ma il ritmo serrato comincia a incidere sul corpo di Peter, e una nuova serie di crimini annuncia una minaccia diversa da quelle affrontate finora.",
+    "perche": "Il Peter Parker senza rete che Holland insegue da tre film, stavolta con Jon Bernthal a portare dentro il Punitore della serie Netflix, la cosa più cupa mai uscita dal marchio Marvel. Cretton viene da Shang-Chi ma anche dal dramma giudiziario Il diritto di opporsi: sa girare le scene in cui si parla, non solo quelle in cui si vola.",
     "vibes": [
-      "The Batman",
       "Spider-Man: No Way Home",
+      "The Batman",
       "Logan - The Wolverine"
     ],
-    "nota": "Cretton arriva da Shang-Chi e la leggenda dei Dieci Anelli e raccoglie il testimone dalla trilogia diretta da Jon Watts.",
+    "dopo": [
+      {
+        "tipo": "fumetto",
+        "titolo": "Spider-Man: Un giorno in più",
+        "perche": "L'arco del 2007 di Straczynski e Quesada da cui il titolo Brand New Day prende le mosse."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Spider-Man: No Way Home",
+        "perche": "Il film da cui questo riparte: rivedere il finale spiega la solitudine di Peter."
+      },
+      {
+        "tipo": "serie",
+        "titolo": "The Punisher",
+        "perche": "Jon Bernthal è Frank Castle dal 2016: da lì viene il personaggio che porta nel film."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Il diritto di opporsi",
+        "perche": "Il Cretton pre-Marvel, per capire che regista sia quando non ci sono i supereroi."
+      }
+    ],
+    "nota": "Il titolo cita Brand New Day, il rilancio a fumetti del 2008 che seguì la cancellazione del matrimonio fra Peter e Mary Jane.",
     "impronta": "Spider-Man: Brand New Day|602|Destin Daniel Cretton",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1430077": {
-    "trama": "Lo scrittore Ohm Bauman si ritira in una locanda isolata con l'urna dei genitori: vuole spargere le ceneri e chiudere una faccenda di famiglia. Ma la casa ha le sue storie, e i clienti abituali gliele raccontano volentieri: nella suite nuziale, dicono, si aggira una strega. All'inizio sono chiacchiere da bancone; poi arrivano le visioni, e una scomparsa che nessuno sa spiegare costringe Ohm a guardare negli angoli più bui del proprio passato.\n\nDamian McCarthy fa horror di ambiente più che di effetto: corridoi, porte socchiuse, oggetti fermi nel posto sbagliato, un'inquadratura che resta un secondo di troppo. La sua Irlanda è umida e chiusa, e la paura nasce quasi sempre dal fuori campo. Adam Scott, che il pubblico associa alla commedia, porta qui un uomo civilissimo che si sta sgretolando: una scelta di casting che da sola dice il tipo di film.",
-    "perche": "Se i film che ti restano addosso sono quelli in cui la paura si costruisce lentamente — più Weapons che jump scare a raffica — McCarthy è il regista giusto: viene da Caveat e Oddity, due horror irlandesi girati con pochissimi mezzi e moltissima tensione. E Adam Scott fuori dal registro comico è la variabile più interessante.",
+    "trama": "Lo scrittore Ohm Bauman si chiude in una locanda isolata per una faccenda privata: spargere le ceneri dei genitori. È il genere di viaggio che si fa per chiudere un capitolo, e infatti l'albergo sembra costruito apposta per non lasciarlo andare. I proprietari hanno una storia già pronta, quella di una strega che infesterebbe la suite nuziale, e la raccontano con la disinvoltura di chi la ripete da anni.\n\nDamian McCarthy costruisce l'orrore come nei suoi film precedenti: pochi ambienti, quasi nessun effetto digitale, oggetti fermi al posto sbagliato, una minaccia che cresce molto prima che accada qualcosa. Adam Scott, attore che il pubblico associa alla commedia e a Severance, viene messo dentro una struttura in cui le visioni e il rimosso personale finiscono per confondersi. Quando una persona sparisce, il passato del protagonista smette di essere un dettaglio biografico.",
+    "perche": "McCarthy è il nome su cui l'horror irlandese ha puntato dopo Oddity: lavora con manichini, stanze vuote e silenzi, non con i jump scare. Se ti è rimasto addosso il disagio lento di Weapons, qui trovi la stessa idea di paura che non ha bisogno di spiegarsi. E vedere Adam Scott fuori dalla commedia è metà del piacere.",
     "vibes": [
-      "Weapons",
-      "The Witch",
-      "Saint Maud"
+      "Oddity",
+      "The Others",
+      "Shining"
     ],
-    "nota": "Damian McCarthy si è fatto notare con Caveat e Oddity, horror irlandesi a bassissimo budget costruiti sul fuori campo.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Oddity",
+        "perche": "Il film precedente di McCarthy: stesso metodo, effetti pratici e un manichino indimenticabile."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Caveat",
+        "perche": "L'esordio del regista, girato con pochissimo: la casa isolata è già tutta lì dentro."
+      },
+      {
+        "tipo": "serie",
+        "titolo": "Severance",
+        "perche": "Il lato inquieto di Adam Scott, quello che qui viene portato fino in fondo."
+      }
+    ],
+    "nota": "Damian McCarthy gira in Irlanda con budget minimi ed effetti pratici: Oddity è stato uno dei casi horror del 2024.",
     "impronta": "Hokum|297|Damian McCarthy",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "cs-66536": {
-    "trama": "Anni Ottanta, un quartiere americano come tanti: villette allineate, prati tagliati, vicini che si salutano dal vialetto. La famiglia Platt — i genitori Denise e Greg, i figli Audrey e Brian — comincia a notare che qualcosa non torna. Prima piccole anomalie, poi un fenomeno che non ha spiegazione terrestre e che nel giro di poco taglia Oak Street fuori dal mondo: la strada resta lì, ma non è più in nessun posto conosciuto. Restare uniti diventa l'unica strategia disponibile.\n\nDavid Robert Mitchell è il regista di It Follows, e il suo talento sta nel prendere la periferia americana e farla diventare un incubo geometrico: campi larghi, case identiche, una minaccia che non si spiega mai fino in fondo. Qui il registro è il fantastico di quartiere, con Anne Hathaway ed Ewan McGregor a tenere insieme un nucleo familiare che si scopre l'unico punto fermo rimasto.",
-    "perche": "Anne Hathaway ti capita spesso e qui è lontanissima dai ruoli glamour: madre di famiglia dentro un incubo di provincia. David Robert Mitchell, quello di It Follows, sa trasformare un quartiere ordinario in una trappola geometrica — e se Odissea ti ha lasciato voglia di fantascienza che parte dalle persone, questo è il formato piccolo e cattivo.",
+    "trama": "Un sobborgo americano negli anni Ottanta, con i prati tagliati corti e le automobili in fila nei vialetti. I Platt sono una famiglia come le altre finché il quartiere non comincia a comportarsi in modo strano: prima piccole anomalie, poi qualcosa di più grande, finché un fenomeno di natura cosmica non stacca Oak Street dal resto del mondo e la deposita in un luogo che nessuno sa nominare. Da lì in avanti la sopravvivenza dipende da quanto quella famiglia riesce a restare unita.\n\nDavid Robert Mitchell, che con It Follows ha riscritto le regole dell'horror adolescenziale e con Under the Silver Lake ha girato un labirinto su Los Angeles, torna alla periferia americana come luogo di orrore geometrico. Anne Hathaway ed Ewan McGregor sono i genitori; il decennio scelto non è nostalgia ma una cornice precisa, quella in cui il cinema aveva insegnato che il male arriva dal cielo e bussa alla porta di casa.",
+    "perche": "Mitchell è il regista di It Follows: sa trasformare una strada di villette in uno spazio che non finisce mai. Se ti è piaciuto il modo in cui Backrooms lavora sul luogo che si mangia le persone, qui c'è la versione adulta e familiare della stessa idea. E Anne Hathaway gioca per una volta il registro del terrore domestico.",
     "vibes": [
       "It Follows",
-      "Super 8",
-      "Signs"
+      "Signs",
+      "Super 8"
     ],
-    "nota": "David Robert Mitchell è l'autore di It Follows, l'horror del 2014 che ha rilanciato la periferia americana come luogo di paura.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "It Follows",
+        "perche": "Il film che ha fatto conoscere Mitchell: il sobborgo come trappola che avanza lentamente."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Poltergeist - Demoniache presenze",
+        "perche": "Il modello anni Ottanta: la villetta perfetta e la famiglia che si aggrappa a se stessa."
+      },
+      {
+        "tipo": "colonna sonora",
+        "titolo": "It Follows di Disasterpeace",
+        "perche": "Il synth che ha rilanciato una moda: ascoltarla spiega il gusto sonoro del regista."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Under the Silver Lake",
+        "perche": "Il Mitchell più sperimentale: divisivo, ma è lì che si vede quanto ami i rebus."
+      }
+    ],
+    "nota": "David Robert Mitchell non girava un film dal 2018: dopo Under the Silver Lake è rimasto fermo quasi otto anni.",
     "impronta": "La Fine di Oak Street|187|David Robert Mitchell",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "cs-68691": {
-    "trama": "Gemma cresce sua figlia Maya nella stessa casa in cui è cresciuta lei: una scelta pratica, forse sentimentale, che il film trasforma quasi subito in un errore. Perché quella casa ha una memoria, e quando i rumori e le presenze ricominciano il passato non bussa in senso figurato: bussa davvero. Il titolo dice il resto — stavolta l'orrore non aspetta di essere raggiunto nell'Altrove, ma ha trovato la strada per uscirne.\n\nUn nuovo capitolo della saga nata dalle mani di James Wan, fedele alla formula che la regge: casa infestata, due generazioni di donne, l'aldilà come stanza accanto. A fare da ponte c'è Lin Shaye, che dal primo Insidious presta a Elise Rainier il volto della medium riluttante e ostinata. Jacob Chase, che con Come Play aveva lavorato sulle paure infantili, punta su tensione domestica e apparizioni improvvise più che sul sangue.",
-    "perche": "Horror di saga, di quelli di cui conosci già il funzionamento e che proprio per questo fanno effetto: casa, buio, corridoio. Se ti sei goduto La casa - Il rogo del Male e Five Nights at Freddy's 2, questa è la stessa serata. E Lin Shaye, unica presenza costante del franchise dal 2010, è il motivo per cui la mitologia dell'Altrove sta ancora in piedi.",
+    "trama": "Gemma cresce sua figlia nella stessa casa in cui è cresciuta lei: una scelta pratica, forse affettiva, di sicuro un errore. Perché le case, nella saga di Insidious, non dimenticano, e l'Altrove — quel piano intermedio popolato di presenze che aspettano un corpo da abitare — non ha mai smesso di essere a due passi dal soggiorno. Le prime anomalie sembrano ordinarie, come sempre: rumori, oggetti spostati, il sonno della bambina. Poi il passato della madre torna a chiedere conto.\n\nJacob Chase, che veniva dall'horror a basso budget di Come Play, prende in mano il nuovo capitolo del franchise nato da James Wan e Leigh Whannell e recupera l'elemento che gli spettatori aspettano: Lin Shaye, cioè Elise Rainier, la medium che tiene insieme la saga dal 2010. Centosei minuti costruiti su una regola sola, sempre la stessa: più ti addormenti, più ti allontani.",
+    "perche": "La casa infestata resta la forma base dell'horror, e Insidious l'ha aggiornata inventando un aldilà che si può visitare e da cui si può tornare indietro. Se con La casa - Il rogo del Male ti è piaciuto vedere un marchio storico consegnare esattamente quello che promette, qui vale lo stesso patto. E Lin Shaye, oltre gli ottant'anni, è ancora il motivo per cui la saga tiene.",
     "vibes": [
       "Insidious",
-      "L'evocazione",
-      "Sinister"
+      "Sinister",
+      "The Conjuring - L'evocazione"
     ],
-    "nota": "Lin Shaye interpreta la medium Elise Rainier dal primo Insidious del 2010: è l'unico volto presente in tutti i capitoli.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Insidious",
+        "perche": "Il primo capitolo del 2010: senza quello l'Altrove e Elise Rainier non si capiscono."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Insidious 3 - L'inizio",
+        "perche": "Il prequel centrato su Elise, il personaggio che regge anche questo nuovo film."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Come Play",
+        "perche": "L'esordio di Jacob Chase: un horror piccolo su un mostro che vive dentro uno schermo."
+      }
+    ],
+    "nota": "Lin Shaye interpreta Elise Rainier dal 2010: è l'unico personaggio presente in tutti i capitoli della saga.",
     "impronta": "Insidious: Fuori dall'Altrove|158|Jacob Chase",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "cs-67639": {
-    "trama": "Parigi, settimana della moda: sfilate, backstage, camerini, un'industria che pretende corpi perfetti e nervi saldi. Alice Winocour incrocia i percorsi di tre donne che quel mondo attraversa in modi diversi — Maxine, regista americana arrivata in città per lavoro, Ada, giovane modella all'inizio di tutto, Angèle, che della bellezza altrui ha fatto un mestiere. Non si conoscono, o si sfiorano appena, e il film le segue mentre la pressione dell'evento porta a galla ciò che ciascuna tiene a bada.\n\nWinocour, autrice di Proxima e di Revoir Paris, filma i luoghi di lavoro con precisione quasi documentaria e poi ci mette dentro la fragilità: la sua regia guarda le mani, i tempi morti, le facce quando nessuno riprende. Angelina Jolie sta su un registro trattenuto, lontanissimo dalla star; intorno a lei un cast francese solido, da Vincent Lindon a Louis Garrel.",
-    "perche": "Hai appena visto Il diavolo veste Prada 2: qui la moda non è commedia ma luogo di lavoro, filmato da vicino e senza ironia. Alice Winocour ha diretto Proxima e co-scritto Mustang, e Angelina Jolie le consegna un ruolo dimesso e adulto, il più interessante che le capiti da diversi anni.",
+    "trama": "La settimana della moda a Parigi vista non dalla passerella ma dai corridoi: camerini, prove, sale d'attesa, il tempo morto fra un'apparizione e l'altra. Alice Winocour segue tre donne che quella macchina attraversa da posizioni diverse — chi la osserva da fuori, chi ci sfila dentro, chi ci lavora — e lascia che i loro percorsi si tocchino nei momenti in cui la facciata si incrina.\n\nNon è un film sulla moda, o non soltanto: Winocour ha sempre girato storie di corpi sotto pressione, dall'astronauta di Proxima alla guardia del corpo di Maryland, e qui la pressione è quella di un ambiente che pretende una superficie perfetta e non ammette il contrattempo. Angelina Jolie guida un cast europeo che comprende Vincent Lindon e Louis Garrel; il registro è quello del dramma d'autore francese, più attento agli sguardi e alle attese che agli eventi.",
+    "perche": "Winocour è una delle registe più solide del cinema francese di oggi: filma la fragilità fisica senza mai cadere nel patetico, come aveva fatto con Eva Green in Proxima. Vedere Angelina Jolie dentro una produzione europea, senza rete americana, è già di per sé una notizia. Se hai voglia di un dramma che lavora sui silenzi, questo è il posto giusto.",
     "vibes": [
       "Il diavolo veste Prada",
       "Personal Shopper",
-      "Il filo nascosto"
+      "Proxima"
+    ],
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Proxima",
+        "perche": "Il film precedente di Winocour con Eva Green: stesso sguardo su una donna sotto pressione."
+      },
+      {
+        "tipo": "documentario",
+        "titolo": "The September Issue",
+        "perche": "Anna Wintour e Vogue dall'interno: la macchina reale che il film mette in scena."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Personal Shopper",
+        "perche": "L'altra Parigi della moda al cinema, quella spettrale di Olivier Assayas."
+      }
     ],
     "nota": "Alice Winocour ha co-sceneggiato Mustang, candidato all'Oscar per il miglior film straniero nel 2016.",
     "impronta": "Couture|178|Alice Winocour",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "cs-66983": {
-    "trama": "Anni dopo l'epidemia che ha svuotato il mondo, Hig vive in un piccolo aeroporto abbandonato insieme al suo cane e a un vicino armato fino ai denti, Bangley, con cui condivide una tregua fatta di turni di guardia e diffidenza reciproca. Vola su un vecchio Cessna per perlustrare il perimetro, pesca, ricorda la moglie: una sopravvivenza ordinata, quasi domestica. Poi alla radio arriva una voce da fuori, un segnale che nessuno dovrebbe poter trasmettere, e Hig decide di andare a vedere sapendo che il carburante basta appena.\n\nRidley Scott adatta il romanzo di Peter Heller e torna su un terreno che frequenta da cinquant'anni: mondi finiti, uomini pratici, silenzi lunghi. Jacob Elordi è Hig, Josh Brolin il compagno scomodo, Margaret Qualley la possibilità di qualcosa di diverso. Fantascienza malinconica più che d'azione, dove la posta in gioco è tornare a fidarsi di qualcuno.",
-    "perche": "Il gladiatore II ti ha già portato da Ridley Scott: qui lo trovi in modalità intima, con un post-apocalisse senza orde né spettacolo. E se di 28 anni dopo ti è rimasta l'idea che la fine del mondo sia soprattutto una questione di legami, il romanzo di Peter Heller va esattamente in quella direzione.",
+    "trama": "Anni dopo l'evento che ha svuotato il mondo, Hig vive in un piccolo aeroporto di montagna con un vecchio aereo da turismo, un cane e un vicino armato fino ai denti di cui non si fida del tutto. La sua è una sopravvivenza fatta di routine: perimetri da controllare, orti, ricognizioni aeree che servono anche a non impazzire. Un'esistenza che funziona finché resta identica a se stessa.\n\nPoi arriva quello che non doveva arrivare: una voce alla radio, da molto lontano, che significa che qualcun altro è vivo là fuori. Ridley Scott adatta il romanzo di Peter Heller e resta sul registro che gli riesce meglio quando scende dalla scala epica: paesaggi enormi, uomini piccoli, la domanda se valga la pena di rimettersi in moto. Jacob Elordi è Hig, Josh Brolin il vicino, Margaret Qualley la ragione per cui il viaggio comincia.",
+    "perche": "Scott dopo Il gladiatore II torna alla fantascienza che lo ha fatto grande, ma in versione intima: niente astronavi, solo un pilota e un orizzonte vuoto. Se ti è rimasto addosso 28 anni dopo, qui trovi la stessa domanda — cosa resta di un uomo quando il mondo smette di guardarlo — declinata in chiave malinconica. E Josh Brolin è perfetto per la parte del sopravvissuto che non si fida di nessuno.",
     "vibes": [
-      "28 anni dopo",
       "The Road",
-      "A Quiet Place - Un posto tranquillo"
+      "28 anni dopo",
+      "Sopravvissuto - The Martian"
     ],
-    "nota": "Tratto dal romanzo The Dog Stars di Peter Heller, uscito nel 2012 e rimasto per anni in cerca di un adattamento.",
+    "dopo": [
+      {
+        "tipo": "libro",
+        "titolo": "The Dog Stars di Peter Heller",
+        "perche": "Il romanzo del 2012 da cui viene il film: scritto in prima persona, con una lingua spezzata."
+      },
+      {
+        "tipo": "libro",
+        "titolo": "La strada di Cormac McCarthy",
+        "perche": "Il testo che ha fissato le regole del post-apocalittico intimo: tutto quanto parte da lì."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Sopravvissuto - The Martian",
+        "perche": "L'altro Ridley Scott sulla solitudine tecnica: stessa fiducia nelle mani che riparano."
+      }
+    ],
+    "nota": "Il film adatta The Dog Stars, romanzo d'esordio di Peter Heller del 2012, noto per la prosa frammentata in prima persona.",
     "impronta": "The Dog Stars - Le Stelle Dopo la Fine|184|Ridley Scott",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-671-25": {
-    "trama": "Harry Potter sta per compiere undici anni e dorme nel sottoscala di casa Dursley, dove nessuno lo vuole e tutti fingono che non esista. Poi arrivano le lettere: prima una, poi decine, portate dai gufi e sequestrate dallo zio con crescente panico, finché un gigante di nome Hagrid non sfonda la porta per consegnargliene una di persona. Harry è figlio di maghi, è atteso a Hogwarts, e laggiù il suo nome lo conoscono già tutti.\n\nChris Columbus costruisce il primo capitolo come una soglia da attraversare: il binario nove e tre quarti, la bacchetta che sceglie il mago, il Cappello Parlante, la prima partita di Quidditch. È cinema d'avventura per famiglie fatto con mezzi enormi e mano leggera, con un cast adulto che oggi vale quanto un museo — Richard Harris, Alan Rickman, Maggie Smith, Robbie Coltrane. Torna in sala per i venticinque anni, che è poi il posto per cui era stato pensato.",
-    "perche": "Se Wonka ti ha ricordato che il fantasy per famiglie sa ancora essere fatto bene, qui c'è il film che ha insegnato a Hollywood come si apre una saga. Vale il biglietto soprattutto per il cast britannico — Rickman, Maggie Smith, Richard Harris — e per l'effetto di vedere su schermo grande quello che quasi tutti hanno visto in televisione.",
+    "trama": "Un bambino cresciuto in un sottoscala, in una casa dove nessuno lo vuole, scopre a undici anni che il mondo ha una seconda stanza: esiste una scuola in cui si insegna la magia, e il suo nome lì dentro è già leggendario per ragioni che nessuno gli ha mai spiegato. Le lettere arrivano a decine e vengono sequestrate una per una; serve un gigante che sfondi una porta perché Harry Potter capisca finalmente chi è.\n\nChris Columbus gira il primo capitolo come un film d'avventura per ragazzi di impianto classico: Hogwarts è un luogo prima che un simbolo, con i corridoi, i banchetti, le scale che si spostano e le regole da imparare. A venticinque anni di distanza il ritorno in sala vale soprattutto per due cose: il lavoro di Richard Harris, Alan Rickman, Maggie Smith e Robbie Coltrane, cioè mezzo teatro britannico messo al servizio di una favola, e la musica di John Williams.",
+    "perche": "Rivederlo su grande schermo significa recuperare quello che la saga perderà strada facendo: la meraviglia di un mondo appena scoperto, prima che diventi una guerra. Columbus veniva da Mamma ho perso l'aereo e sapeva come si filma un bambino, e il cast adulto è una collezione irripetibile di attori britannici. La partitura di John Williams resta la cosa più bella di tutti e otto i film.",
     "vibes": [
+      "Le cronache di Narnia - Il leone, la strega e l'armadio",
       "Wonka",
-      "La bussola d'oro",
-      "Le cronache di Narnia - Il leone, la strega e l'armadio"
+      "Il signore degli anelli - La compagnia dell'anello"
     ],
-    "nota": "Richard Harris interpretò Silente solo nei primi due film: morì nel 2002 e fu sostituito da Michael Gambon.",
+    "dopo": [
+      {
+        "tipo": "libro",
+        "titolo": "Harry Potter e la pietra filosofale di J.K. Rowling",
+        "perche": "Il romanzo del 1997: più asciutto del film e con dettagli che il montaggio ha tolto."
+      },
+      {
+        "tipo": "colonna sonora",
+        "titolo": "Harry Potter and the Sorcerer's Stone di John Williams",
+        "perche": "Hedwig's Theme ha retto vent'anni di saga: la partitura vale l'ascolto da sola."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Harry Potter e il prigioniero di Azkaban",
+        "perche": "Il terzo capitolo, diretto da Cuarón: il punto in cui la saga cambia registro visivo."
+      }
+    ],
+    "nota": "John Williams scrisse Hedwig's Theme per questo film: è rimasto il tema portante di tutti gli otto capitoli.",
     "impronta": "Harry Potter e la pietra filosofale — 25° anniversario|710|Chris Columbus",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1329016": {
-    "trama": "Provincetown, punta del Massachusetts, estate. Anthony Bourdain ha diciannove anni e non è ancora nessuno: finisce nella cucina di un ristorante, dentro un mondo di turni impossibili, coltelli, urla, alcol e cameratismo. È lì, tra il caos di una brigata e il fuori servizio alle tre di notte, che un ragazzo qualunque scopre il mestiere che gli darà una lingua e una vita.\n\nMatt Johnson, che con BlackBerry aveva raccontato l'ascesa e la caduta di un'azienda con energia da finto documentario, applica lo stesso passo nervoso a un ritratto di formazione: macchina a mano, dialoghi sovrapposti, umorismo secco. Dominic Sessa, la rivelazione di The Holdovers, è il giovane Tony; Antonio Banderas è lo chef che comanda la cucina. Non è un'agiografia postuma ma una commedia d'apprendistato, con l'odore di fritto addosso e la consapevolezza di dove quella storia andrà a finire.",
-    "perche": "The Menu ti ha già portato dentro una cucina, ma dalla parte della sala: qui ci stai dentro davvero, nei turni e nel sudore. Dominic Sessa viene da The Holdovers e ha la faccia giusta per un ragazzo che non sa ancora chi diventerà, e Matt Johnson porta dal suo BlackBerry lo stesso ritmo sporco e divertente.",
+    "trama": "Provincetown, Massachusetts, l'estate dei diciannove anni. Anthony Bourdain non è ancora nessuno: è un ragazzo che si presenta in una cucina per lavorare e ci trova un mondo fatto di turni impossibili, coltelli, alcol, gerarchie brutali e una solidarietà da equipaggio pirata. In quei mesi capisce due cose che gli resteranno addosso per tutta la vita: che quella fatica gli piace e che quel linguaggio è il suo.\n\nMatt Johnson, che con BlackBerry aveva raccontato un'ascesa aziendale con la nevrosi di un film di gruppo, applica lo stesso metodo — macchina a mano, comicità nervosa, ritratti corali — alla formazione di un futuro personaggio pubblico. Dominic Sessa, rivelazione di The Holdovers, ha il compito difficile di interpretare un uomo che milioni di persone hanno visto in televisione. Antonio Banderas è lo chef, cioè la prima autorità vera della sua vita.",
+    "perche": "Matt Johnson è uno dei registi più vivi del Nordamerica: con BlackBerry aveva trasformato una commedia nevrotica in tragedia industriale, e il metodo qui è lo stesso. Dominic Sessa, la rivelazione di The Holdovers, prende in mano un uomo che il pubblico ha visto per anni in tv. E Kitchen Confidential resta una delle prose più oneste mai scritte sul lavoro.",
     "vibes": [
-      "The Menu",
       "BlackBerry",
-      "Boiling Point - Il disastro è servito"
+      "Almost Famous - Quasi famosi",
+      "Il sapore del successo"
     ],
-    "nota": "Bourdain raccontò la sua stagione a Provincetown in Kitchen Confidential, il memoir del 2000 che lo rese famoso.",
+    "dopo": [
+      {
+        "tipo": "libro",
+        "titolo": "Kitchen Confidential di Anthony Bourdain",
+        "perche": "Il libro del 2000 che ha creato il personaggio: gli anni di Provincetown sono lì dentro."
+      },
+      {
+        "tipo": "documentario",
+        "titolo": "Roadrunner: A Film About Anthony Bourdain",
+        "perche": "Il ritratto di Morgan Neville del 2021, sull'uomo che il film racconta da ragazzo."
+      },
+      {
+        "tipo": "film",
+        "titolo": "BlackBerry",
+        "perche": "Il film precedente di Johnson: la stessa regia nervosa su un'ascesa e una caduta."
+      },
+      {
+        "tipo": "serie",
+        "titolo": "The Bear",
+        "perche": "La cucina come luogo di violenza e affetto: il riferimento televisivo obbligato."
+      }
+    ],
+    "nota": "Matt Johnson recitava anche in BlackBerry, nei panni del cofondatore Doug Fregin: qui resta solo dietro la macchina da presa.",
     "impronta": "Tony - Diario di un giovane cuoco|197|Matt Johnson",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "cs-53576": {
-    "trama": "Seok-woo è un gestore di fondi che lavora troppo e vede poco la figlia. Per il compleanno di Su-an accetta l'unica cosa che la bambina chiede davvero: accompagnarla a Busan, dalla madre. Salgono sul treno ad alta velocità delle prime ore del mattino, e nei minuti in cui il convoglio lascia Seul qualcosa di terribile sale a bordo con loro. Da quel momento il treno diventa un corridoio chiuso che attraversa a trecento all'ora un paese in pieno collasso, e ogni vagone è una frontiera da guadagnare.\n\nYeon Sang-ho, che veniva dall'animazione, firma uno degli horror d'azione più efficaci del suo decennio: geografia limpida, tempi perfetti e soprattutto un uso politico dello spazio — chi sta dentro, chi resta fuori, chi decide. Accanto a Gong Yoo c'è Ma Dong-seok, corpo e cuore del film. Torna in sala, che è il formato per cui era nato.",
-    "perche": "Se 28 anni dopo ti ha convinto che l'horror funziona meglio quando corre, qui trovi il modello: due ore di tensione senza un momento morto, con un rapporto padre-figlia che ti frega quando meno te lo aspetti. È il film che ha aperto al mondo il cinema di genere coreano e non ha perso un grammo in dieci anni.",
+    "trama": "Seok-woo è un gestore di fondi di Seul, divorziato, assorbito dal lavoro al punto di regalare alla figlia due volte lo stesso oggetto. Su-an per il compleanno vuole una cosa sola: andare a Busan dalla madre. Salgono sul treno ad alta velocità del primo mattino insieme a pendolari, una coppia che aspetta un figlio, una squadra di baseball, un dirigente in giacca e cravatta. Il convoglio parte con un passeggero di troppo.\n\nDa quel momento Yeon Sang-ho costruisce l'azione in orizzontale: carrozza dopo carrozza, porta dopo porta, con la geografia del treno che diventa la regola del gioco. È un film di infetti velocissimi girato però come un melodramma familiare coreano, dove la domanda vera non è chi sopravvive ma chi è disposto ad aprire la porta a qualcun altro. Ma Dong-seok, nei panni del marito in attesa, ha costruito qui la propria carriera internazionale.",
+    "perche": "È il film che nel 2016 ha riportato gli zombie al cinema e ha aperto la strada all'ondata coreana arrivata poi in Europa. Se ti è piaciuto il modo in cui 28 anni dopo tiene insieme la corsa e il lutto, qui trovi lo stesso patto, con un ultimo atto che in sala fa piangere anche chi non voleva. E rivederlo su schermo grande è un'altra cosa.",
     "vibes": [
-      "28 anni dopo",
+      "28 giorni dopo",
       "World War Z",
       "Snowpiercer"
     ],
-    "nota": "Yeon Sang-ho veniva dall'animazione: il prequel animato Seoul Station uscì nello stesso 2016.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Seoul Station",
+        "perche": "Il prequel animato dello stesso Yeon Sang-ho, uscito nel 2016: racconta come comincia."
+      },
+      {
+        "tipo": "film",
+        "titolo": "28 giorni dopo",
+        "perche": "Il Danny Boyle che ha inventato l'infetto veloce da cui questo cinema discende."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Snowpiercer",
+        "perche": "L'altro treno coreano come mappa sociale: stessa idea di carrozze come classi."
+      }
+    ],
+    "nota": "Yeon Sang-ho veniva dall'animazione: Train to Busan fu il suo primo film dal vero e uno dei maggiori incassi coreani del 2016.",
     "impronta": "Train to Busan|189|Yeon Sang-ho",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1684016": {
-    "trama": "Un film-concerto: la tappa parigina del Lifetimes Tour di Katy Perry, ripresa integralmente per la sala. Centodiciannove minuti di scaletta, scenografie, cambi d'abito e coreografie, senza materiale documentaristico dichiarato intorno. Dietro la macchina da presa c'è Paul Dugdale, specialista del genere, che di norma lavora con moltissime camere e un montaggio capace di alternare il colpo d'occhio dell'arena al dettaglio del palco. È un'operazione pensata per chi vuole l'evento sul grande schermo e sull'impianto audio della sala.",
-    "perche": "Non è cinema di finzione e sta lontano dai tuoi generi: ha senso solo se la musica di Katy Perry ti interessa davvero. Il valore aggiunto è tecnico — Paul Dugdale gira concerti da anni per Adele, Rolling Stones e Taylor Swift — e la sala resta il posto in cui un film-concerto ha ancora una ragione di esistere.",
+    "trama": "Un film-concerto girato a Parigi durante il Lifetimes Tour, il ritorno di Katy Perry sui palchi delle arene dopo anni di assenza. Centodiciannove minuti che seguono lo spettacolo dal vivo — scaletta, costumi, coreografie, pubblico — con la regia di Paul Dugdale, uno degli specialisti del genere. Sulla struttura del film non è stato dichiarato altro: è lo show, ripreso.",
+    "perche": "Il film-concerto vive o muore sulla regia, e Dugdale è fra i pochi che lo trattano come un genere vero, con la macchina dentro lo spettacolo invece che in tribuna. Detto questo, resta un oggetto per chi segue l'artista: se il pop da arena non ti interessa, qui non c'è un secondo livello di lettura da cercare.",
     "vibes": [
       "Taylor Swift: The Eras Tour",
       "Renaissance: A Film by Beyoncé"
     ],
-    "nota": "Paul Dugdale ha firmato i film-concerto di Adele, Rolling Stones e Taylor Swift: è tra i registi più richiesti del genere.",
+    "dopo": [
+      {
+        "tipo": "documentario",
+        "titolo": "Katy Perry: Part of Me",
+        "perche": "Il documentario del 2012 sul tour California Dreams: il ritratto dietro il personaggio."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Stop Making Sense",
+        "perche": "Il metro di paragone di ogni film-concerto: Jonathan Demme e i Talking Heads, 1984."
+      }
+    ],
+    "nota": "Paul Dugdale è uno dei registi di riferimento del film-concerto: ha filmato fra gli altri Adele alla Royal Albert Hall.",
     "impronta": "Katy Perry: The Lifetimes Tour - Live from Paris|0|Paul Dugdale",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "cs-68600": {
-    "trama": "Un nuovo inizio per Resident Evil, che abbandona i personaggi storici dei videogiochi Capcom e prova a raccontare una storia originale dentro lo stesso mondo: contagio, corporazioni, corpi che smettono di essere umani. I protagonisti non sono agenti speciali ma figure comuni, e la minaccia cresce lontano dalle stanze dei bottoni, in luoghi ordinari che si trasformano in trappole.\n\nA dirigerlo è Zach Cregger, che con Barbarian e Weapons si è costruito una reputazione su una regola sola: non dire mai allo spettatore dove sta andando il film. I suoi horror cambiano genere a metà strada, alternano terrore e comicità nera e trattano la struttura narrativa come un'arma. Novanta minuti secchi, un cast di caratteristi eccellenti a partire da Paul Walter Hauser, e la netta sensazione che questo reboot sia più un film di Cregger che un adattamento fedele.",
-    "perche": "Weapons ti è già passato davanti: sai quindi che Cregger costruisce l'orrore come un puzzle e non gioca pulito con la struttura. Hai visto anche Return to Silent Hill e Five Nights at Freddy's 2, ma qui l'adattamento da videogioco è un pretesto — la storia è originale e il rischio, per una volta, se lo prende tutto il regista.",
+    "trama": "Un reboot che riparte da zero: nessuno dei personaggi noti della saga Capcom, una storia originale ambientata nello stesso mondo di contagio e corporazioni. I novanta minuti dichiarati lasciano intendere un film compatto, più vicino all'horror di sopravvivenza che al blockbuster d'azione in cui il franchise cinematografico si era arenato negli anni Duemila.\n\nIl cast dice molto sul tono: Austin Abrams, Paul Walter Hauser, Kali Reis e Zach Cherry sono facce da cinema indipendente e da commedia nera, non da action movie. È la firma di Zach Cregger, che in Barbarian e in Weapons ha costruito la paura spostando continuamente il punto di vista e lasciando lo spettatore senza appigli su chi sia il protagonista e per quanto lo resterà. Difficile immaginare un innesto più anomalo su un marchio nato da un videogioco.",
+    "perche": "Hai visto Weapons: sai che Cregger è oggi il regista horror americano con la struttura narrativa più sorprendente in circolazione, e vederlo dentro un franchise da videogioco è l'esperimento più interessante dell'anno nel genere. Novanta minuti, cast da indie, nessun personaggio storico da rispettare: tutte le condizioni per un film libero.",
     "vibes": [
       "Weapons",
       "Barbarian",
       "28 giorni dopo"
     ],
-    "nota": "Il film non adatta nessun capitolo del videogioco Capcom: è una storia originale ambientata in quell'universo.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Barbarian",
+        "perche": "L'esordio di Cregger: la casa in affitto che cambia genere tre volte in novanta minuti."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Resident Evil",
+        "perche": "Il film del 2002 di Paul W.S. Anderson, per misurare quanto il reboot se ne allontani."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Zombi",
+        "perche": "Il Romero del 1978 all'origine dell'immaginario da cui nasce tutto il survival horror."
+      }
+    ],
+    "nota": "Zach Cregger ha scritto e diretto Barbarian e Weapons: è il primo regista horror d'autore affidato al marchio Resident Evil.",
     "impronta": "Resident Evil|185|Zach Cregger",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1283515": {
-    "trama": "Lowen Ashleigh è una scrittrice in difficoltà: pochi soldi, nessun libro che decolli e un'offerta che sembra troppo buona per essere vera. Deve fare da ghostwriter a Verity Crawford, autrice di enorme successo, e per questo si trasferisce nella tenuta isolata dei Crawford a spulciarne gli appunti. Tra le carte trova un manoscritto che non era destinato a nessuno: una confessione autobiografica, torbida, su sé stessa e sul marito Jeremy. Da quel momento Lowen deve decidere cosa credere, e capire quanto della propria attrazione per quella casa e per quell'uomo sia lucidità e quanto ossessione.\n\nMichael Showalter, regista più abituato alla commedia agrodolce, adatta un thriller domestico costruito sull'inaffidabilità della parola scritta. Dakota Johnson tiene il punto di vista, Anne Hathaway è la presenza che incombe, Josh Hartnett l'incognita su cui il film continua a cambiare idea.",
-    "perche": "Anne Hathaway qui gioca sul registro inquietante, ed è la seconda volta in poco tempo che te la ritrovi in libreria. Se le atmosfere gotiche e malate di Cime tempestose ti sono rimaste addosso, questo thriller domestico tratto dal romanzo di Colleen Hoover lavora sullo stesso terreno: una casa grande, un manoscritto e nessuna voce di cui fidarsi.",
+    "trama": "Lowen Ashleigh è una scrittrice che non sta andando da nessuna parte quando le arriva un incarico troppo ben pagato per essere semplice: completare la serie di romanzi di Verity Crawford, autrice di enorme successo ora impossibilitata a scrivere. Per farlo deve trasferirsi nella tenuta isolata dei Crawford e mettere le mani nell'archivio della collega. Fra le carte trova un manoscritto che non era destinato a nessuno: una specie di autobiografia, in un tono che non somiglia a niente di pubblicato.\n\nMichael Showalter dirige il thriller psicologico adattando il romanzo di Colleen Hoover e affida a Dakota Johnson e Anne Hathaway un duello che si gioca tutto sulla credibilità: di chi è la versione giusta, quella scritta o quella detta a voce. Josh Hartnett è il marito, terzo vertice di un triangolo in cui attrazione, manipolazione e opportunità diventano difficili da distinguere.",
+    "perche": "Il thriller domestico con due attrici messe una contro l'altra è un formato che il cinema americano ha quasi smesso di produrre per la sala. Anne Hathaway, che ritrovi anche altrove nella tua libreria, si prende qui il ruolo ambiguo invece di quello simpatico. E Showalter viene dalla commedia e dal biopic: sa lavorare sui dialoghi in stanza chiusa più che sui colpi di scena.",
     "vibes": [
-      "Cime tempestose",
-      "L'amore bugiardo - Gone Girl",
-      "Rebecca - La prima moglie"
+      "Gone Girl - L'amore bugiardo",
+      "Rebecca - La prima moglie",
+      "Misery non deve morire"
     ],
-    "nota": "Tratto da Verity di Colleen Hoover, romanzo del 2018 diventato un caso editoriale mondiale grazie al passaparola online.",
+    "dopo": [
+      {
+        "tipo": "libro",
+        "titolo": "Verity di Colleen Hoover",
+        "perche": "Il romanzo del 2018: la struttura del manoscritto dentro il manoscritto è tutta lì."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Misery non deve morire",
+        "perche": "Scrittore, casa isolata, lettrice ossessiva: il modello a cui il genere torna sempre."
+      },
+      {
+        "tipo": "libro",
+        "titolo": "Rebecca di Daphne du Maurier",
+        "perche": "La casa dominata dalla presenza di un'altra donna: l'archetipo di tutta la famiglia."
+      }
+    ],
+    "nota": "Verity ha reso Colleen Hoover un fenomeno editoriale globale: pubblicato nel 2018, è stato riscoperto in massa anni dopo sui social.",
     "impronta": "Verity|512|Michael Showalter",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "cs-67091": {
-    "trama": "Bela ha otto anni e si è appena trasferita con i genitori in una casa nuova. Come capita ai bambini si inventa una compagnia, solo che la sua non resta nella testa: la chiama «l'Altra Mamma», arriva quando le luci si spengono e ha il difetto di somigliare troppo a qualcuno che Bela conosce bene. Gli adulti, naturalmente, non vedono niente, e il film costruisce la propria tensione sullo scarto tra quello che la bambina sa e quello che i grandi sono disposti ad ascoltare.\n\nRob Savage arriva da Host, l'horror girato interamente dentro una videochiamata durante il lockdown, e da The Boogeyman: sa lavorare sul buio di una stanza e su quello che ci mettiamo dentro noi. Jessica Chastain accetta il doppio ruolo, madre e mostro, e in un horror di questo tipo è una scelta di casting che vale mezzo film.",
-    "perche": "È impossibile non pensare a Coraline, ma qui il registro è horror puro e il doppio ruolo di Jessica Chastain porta il conflitto dentro la famiglia. Rob Savage viene da Host, girato interamente su una videochiamata in lockdown; e se Weapons ti ha convinto che i bambini sono il materiale più inquietante dell'horror recente, questo è il passo successivo.",
+    "trama": "Una bambina di otto anni, una casa nuova, una famiglia che si è appena trasferita e che ha altro a cui pensare. Bela comincia a parlare di una presenza che la segue e che chiama «l'Altra Mamma»: prima come un gioco, poi con una precisione che nessuno vuole ascoltare. Gli adulti hanno la spiegazione pronta — il trasloco, l'età, l'immaginazione — e il film si muove nello spazio fra quello che la bambina vede e quello che i genitori sono disposti a credere.\n\nRob Savage arriva dall'horror low-fi girato in videochiamata di Host e dal più classico The Boogeyman: sa quanto vale il fuoricampo e quanto poco serva mostrare. Jessica Chastain interpreta entrambe le figure materne, quella vera e l'altra, e il film scommette tutto sulla differenza fra le due — su quanto ci mette lo spettatore ad accorgersene, e quanto ci mette la famiglia.",
+    "perche": "L'horror della madre doppia ha una genealogia precisa — Coraline, Babadook — e qui viene affidato a un'attrice che di solito lavora altrove: Jessica Chastain nei panni del mostro è un'idea di casting che vale il biglietto. Savage con Host aveva dimostrato di saper spaventare con quasi niente, e stavolta ha finalmente i mezzi per costruire la casa che gli serve.",
     "vibes": [
-      "Coraline e la porta magica",
       "Babadook",
-      "Weapons"
+      "Coraline e la porta magica",
+      "The Boogeyman"
     ],
-    "nota": "Rob Savage si è fatto notare con Host, horror del 2020 girato interamente durante una videochiamata in lockdown.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Coraline e la porta magica",
+        "perche": "L'Altra Madre di Selick e Gaiman: l'immagine da cui questo tipo di horror non si stacca."
+      },
+      {
+        "tipo": "libro",
+        "titolo": "Coraline di Neil Gaiman",
+        "perche": "Il romanzo breve del 2002, più spaventoso del film e sullo stesso identico mostro."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Host",
+        "perche": "Il film che Savage girò in lockdown su Zoom in poche settimane: paura a costo zero."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Babadook",
+        "perche": "La maternità come orrore, senza scorciatoie: il riferimento obbligato del sottogenere."
+      }
+    ],
+    "nota": "Nel cast c'è Karen Allen, la Marion dei Predatori dell'arca perduta, nel ruolo della nonna.",
     "impronta": "Mammina|146|Rob Savage",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1281331": {
-    "trama": "Frances Haugen è una giovane ingegnere dentro Facebook e ha accesso a ricerche interne che l'azienda non intende pubblicare: documenti che raccontano cosa la piattaforma sa dei propri effetti e sceglie di non correggere. Insieme a Jeff Horwitz, cronista del Wall Street Journal, comincia il lavoro lungo e rischioso di portarli fuori — copiare, verificare, capire di chi ci si può fidare — sapendo che una volta partita la cosa non si torna indietro.\n\nAaron Sorkin torna sul terreno di The Social Network, stavolta anche in regia, e sposta l'oggetto dal mito della fondazione al conto da pagare molti anni dopo. Il suo è cinema di dialoghi e di stanze: riunioni, corridoi, telefonate, la parola usata come arma. Jeremy Strong è un Mark Zuckerberg irrigidito dal potere, Mikey Madison la whistleblower, Jeremy Allen White il giornalista che deve decidere quanto spingere.",
-    "perche": "Se Oppenheimer ti ha tenuto incollato a un film fatto quasi soltanto di conversazioni in stanze chiuse, Sorkin è l'autore che quel meccanismo lo ha messo a punto. Qui firma anche la regia, e Jeremy Strong — dopo anni passati a fare Kendall Roy — ha esattamente la rigidità giusta per un Zuckerberg arrivato al potere.",
+    "trama": "Frances Haugen è un'ingegnere che dentro Facebook si occupa di integrità civica. Ha accesso a ricerche interne che l'azienda non ha mai reso pubbliche e che dicono cose molto precise su quello che la piattaforma fa alle persone che la usano. Decide di portarle fuori, e per farlo si rivolge a Jeff Horwitz, cronista del Wall Street Journal: da quel contatto nasce la più grande fuga di documenti nella storia dell'azienda.\n\nAaron Sorkin torna sul terreno che aveva già battuto scrivendo The Social Network, ma stavolta dirige e sposta l'obiettivo: non più la fondazione, ma il conto da pagare. Jeremy Strong interpreta Mark Zuckerberg, Mikey Madison la whistleblower, Jeremy Allen White il giornalista. Il registro è quello del dramma di parola ad alta velocità, dove il conflitto si gioca in stanze piccole e la posta in palio è enorme.",
+    "perche": "Sorkin scrive i dialoghi più veloci del cinema americano e qui ha il materiale giusto: un'inchiesta giornalistica vera, con i documenti alla mano. Jeremy Strong dopo Succession nei panni di Zuckerberg è un incontro che fa impressione, e Mikey Madison arriva dall'Oscar per Anora. Se ti interessa come si racconta il potere tecnologico, è il seguito naturale di The Social Network.",
     "vibes": [
       "The Social Network",
       "Il caso Spotlight",
-      "Oppenheimer"
+      "The Post"
     ],
-    "nota": "Il film nasce dai Facebook Files, l'inchiesta del Wall Street Journal del 2021 basata sui documenti di Frances Haugen.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "The Social Network",
+        "perche": "Il film del 2010 diretto da Fincher su sceneggiatura di Sorkin: l'origine di questo."
+      },
+      {
+        "tipo": "documentario",
+        "titolo": "The Social Dilemma",
+        "perche": "Il documentario del 2020 con gli ex dipendenti che denunciano gli algoritmi dall'interno."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Il caso Spotlight",
+        "perche": "Come si filma il lavoro giornalistico senza trasformarlo in spettacolo: il modello."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Tutti gli uomini del presidente",
+        "perche": "Il capostipite: la fonte, il cronista, la redazione che deve decidere se pubblicare."
+      }
+    ],
+    "nota": "Il film parte dai Facebook Files, l'inchiesta del Wall Street Journal del 2021 sui documenti interni consegnati da Frances Haugen.",
     "impronta": "The Social: Il prezzo della verità|230|Aaron Sorkin",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1400940": {
-    "trama": "Matt Hagen è un attore di Hollywood che ha smesso di salire: una carriera che non decolla più, un volto che il mercato ha già consumato. Quando gli viene offerta una via per rimettersi in gioco — una scorciatoia sperimentale che promette un corpo capace di diventare qualsiasi cosa — accetta, e comincia una trasformazione che non si ferma alla pelle. Il film è la discesa di un uomo dalla vanità al mostro, con la vendetta come unica bussola rimasta.\n\nJames Watkins, regista di Eden Lake e Speak No Evil, gira un film DC dichiaratamente costruito come body horror: il criminale di Gotham trattato come un caso clinico e non come un nemico da manuale. I temi annunciati sono l'identità che si dissolve, l'amore che corrode e l'ambizione scientifica senza freni. Un tassello del nuovo corso DC che, invece del cinecomic, sceglie di stare nell'orrore.",
-    "perche": "Hai visto The Batman e Joker: sai che Gotham funziona meglio quando il film è un altro genere travestito. Qui è body horror, scritto da Mike Flanagan e diretto da James Watkins, l'uomo di Eden Lake — due nomi che non vengono dal supereroistico. Il riferimento dichiarato è più La mosca di Cronenberg che un film di costumi e mantelli.",
+    "trama": "Matt Hagen è un attore di Hollywood in ascesa, uno di quelli a cui il corpo serve come strumento di lavoro. Qualcosa — una sostanza, un esperimento, un'ambizione mal riposta — gli toglie la forma stabile e gliene restituisce una che può cambiare a comando. È la premessa di Clayface, personaggio nato nei fumetti di Batman nel 1940 e riletto qui come tragedia dell'identità: un uomo che può diventare chiunque e che proprio per questo smette di essere qualcuno.\n\nJames Watkins, regista di Eden Lake e del recente Speak No Evil, gira un film di supereroi in chiave dichiaratamente horror, sul terreno del corpo che si disfa. Tom Rhys Harries è Hagen, Naomi Ackie la coprotagonista, Eddie Marsan completa un cast quasi interamente britannico. È il primo esperimento di genere puro tentato dal nuovo corso dei film DC.",
+    "perche": "Un cinecomic horror scritto da Mike Flanagan e affidato al regista di Eden Lake: sulla carta è il progetto più anomalo uscito dal rilancio DC. Il body horror è un filone che il fumetto supereroistico ha sempre sfiorato senza mai attraversarlo davvero, e qui sembra il punto di partenza. Se The Batman ti aveva convinto che è il tono a fare la differenza, questo va parecchio oltre.",
     "vibes": [
       "La mosca",
-      "Joker",
-      "The Substance"
+      "The Substance",
+      "Darkman"
     ],
-    "nota": "La sceneggiatura è firmata da Mike Flanagan, autore di Doctor Sleep e della serie The Haunting of Hill House.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "Darkman",
+        "perche": "Sam Raimi nel 1990: l'uomo sfigurato che può indossare qualsiasi volto. Stesso nucleo."
+      },
+      {
+        "tipo": "film",
+        "titolo": "La mosca",
+        "perche": "Cronenberg 1986: il metro di paragone di ogni film sul corpo che si trasforma."
+      },
+      {
+        "tipo": "fumetto",
+        "titolo": "Batman: Anno uno",
+        "perche": "Miller e Mazzucchelli: la Gotham realistica da cui viene il tono del nuovo corso."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Speak No Evil - Non parlare con gli sconosciuti",
+        "perche": "Il film precedente di Watkins, per capire come costruisce il disagio a lenta salita."
+      }
+    ],
+    "nota": "La sceneggiatura è firmata da Mike Flanagan, autore delle serie horror tratte da Shirley Jackson e da Edgar Allan Poe.",
     "impronta": "Clayface|220|James Watkins",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1300968": {
-    "trama": "Ventiquattro anni prima che Katniss Everdeen salisse su quel palco, la mietitura del Distretto 12 chiama il nome di un ragazzo di sedici anni: Haymitch Abernathy. È l'anno dell'Edizione della Memoria, e la regola straordinaria raddoppia i tributi — il doppio dei ragazzi nell'arena, il doppio dello spettacolo per Capitol City. Haymitch entra nei Giochi con una ragazza amata lasciata a casa, un'alleata inattesa e nessuna intenzione di stare alla propaganda del presidente Snow.\n\nFrancis Lawrence, che dirige la saga dal secondo capitolo, adatta il romanzo di Suzanne Collins uscito nel 2025 e torna sul tema che tiene in piedi tutto Hunger Games: come si fabbrica il consenso e chi decide la versione ufficiale dei fatti. Ralph Fiennes è Snow, Jesse Plemons un giovane Plutarch, Elle Fanning una Effie Trinket agli inizi. Il tono annunciato è il più cupo della serie.",
-    "perche": "Se de Il gladiatore II ti è rimasta l'idea dell'arena come teatro del potere, qui trovi la stessa meccanica portata dentro la distopia. Francis Lawrence dirige la saga da oltre dieci anni e stavolta lavora sul materiale più nero di Suzanne Collins; Ralph Fiennes eredita il presidente Snow da Donald Sutherland e Jesse Plemons, nei ruoli ambigui, non sbaglia mai.",
+    "trama": "Molti anni prima che Katniss Everdeen si offrisse volontaria, Panem celebra una Edizione della Memoria: un'edizione speciale dei Giochi in cui il numero dei tributi raddoppia, quarantotto ragazzi invece di ventiquattro. Fra i nomi estratti nel Distretto 12 c'è quello di un adolescente insolente e sveglio di nome Haymitch Abernathy, che il pubblico della saga conosce soltanto come l'uomo rovinato che anni dopo farà da mentore.\n\nFrancis Lawrence, che ha diretto quattro film della saga, adatta il romanzo con cui Suzanne Collins è tornata nel 2025 al suo mondo. Ralph Fiennes eredita il presidente Snow, Elle Fanning è una giovanissima Effie Trinket, Maya Hawke la Wiress che rivedremo adulta. Il libro è dichiaratamente un romanzo sulla propaganda: su come si costruisce, e si trasmette in diretta, la versione ufficiale di un massacro.",
+    "perche": "Collins non è tornata su Panem per nostalgia: questo è il più politico dei suoi libri, costruito sulla differenza fra quello che succede e quello che viene mandato in onda. Sapere già come finisce la storia di Haymitch rende tutto più duro, non meno. E Ralph Fiennes che raccoglie l'eredità di Donald Sutherland nei panni di Snow è un passaggio di consegne perfetto.",
     "vibes": [
-      "Il gladiatore II",
-      "Hunger Games: La ragazza di fuoco",
+      "Hunger Games - La ragazza di fuoco",
+      "Hunger Games: La ballata dell'usignolo e del serpente",
       "Battle Royale"
     ],
-    "nota": "Tratto dal romanzo di Suzanne Collins del 2025 dedicato all'edizione dei Giochi vinta da Haymitch Abernathy.",
+    "dopo": [
+      {
+        "tipo": "libro",
+        "titolo": "Hunger Games - L'alba sulla mietitura di Suzanne Collins",
+        "perche": "Il romanzo del 2025 da cui viene il film: la voce narrante di Haymitch cambia tutto."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Hunger Games: La ballata dell'usignolo e del serpente",
+        "perche": "L'altro prequel, sul giovane Snow: insieme raccontano come nasce un regime."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Battle Royale",
+        "perche": "Il film giapponese del 2000 a cui la saga viene sempre paragonata: vale il confronto."
+      }
+    ],
+    "nota": "Suzanne Collins ha pubblicato il romanzo nel 2025: racconta la cinquantesima edizione dei Giochi, vinta dal futuro mentore di Katniss.",
     "impronta": "Hunger Games - L'alba sulla mietitura|0|Francis Lawrence",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1170608": {
-    "trama": "Paul Atreides ha vinto, ed è esattamente il problema. Imperatore di un universo che gli ha giurato fedeltà nel sangue, governa un potere costruito su una fede che non controlla più, circondato da nemici che la sconfitta ha soltanto reso pazienti. Ha sposato la principessa Irulan per ragioni dinastiche ma ama Chani, e il trono resta senza eredi, perché alle Bene Gesserit conviene così. Intanto la Sorellanza, la Gilda Spaziale e i Tleilaxu lavorano allo stesso obiettivo da tavoli diversi.\n\nDenis Villeneuve chiude il proprio ciclo adattando Messia di Dune, il libro in cui Frank Herbert smonta l'eroe costruito nel primo romanzo. È il capitolo più politico e più amaro: meno battaglie, più cospirazione, il peso di una prescienza che vede tutto e non salva nessuno. Tornano Chalamet, Zendaya e Rebecca Ferguson; arrivano Anya Taylor-Joy come Alia e Jason Momoa nei panni di Hayt.",
-    "perche": "È il film che aspettavi: hai visto entrambi i Dune e Blade Runner 2049, e Villeneuve resta il regista che segui più di ogni altro. Qui però il tono cambia — Messia di Dune è il romanzo in cui Herbert demolisce il proprio messia — e il risultato promette di essere più cospirazione di palazzo che battaglia nel deserto.",
+    "trama": "Anni dopo la battaglia di Arrakeen, Paul Atreides siede sul trono di un universo che ha conquistato e che nel suo nome ha ucciso miliardi di persone. È l'imperatore, il Muad'Dib, il messia di una religione che non controlla più: la guerra santa fremen si è propagata da un pianeta all'altro, e lui la osserva sapendo che ogni futuro alternativo che ha visto era peggiore di questo. Sposato con Irulan per ragioni dinastiche e legato a Chani, Paul regna dentro una gabbia fatta di profezie.\n\nVilleneuve chiude la trilogia adattando Messia di Dune, il romanzo con cui Frank Herbert demoliva volontariamente l'eroe costruito nel primo libro. Attorno al trono si stringono le Bene Gesserit, la Gilda Spaziale e i Tleilaxu; Anya Taylor-Joy entra come Alia, Jason Momoa torna in una forma diversa. È il capitolo in cui la saga smette di essere epica e diventa tragedia politica.",
+    "perche": "Hai visto entrambi i capitoli precedenti: questo ne è il rovescio dichiarato. Herbert scrisse Messia di Dune perché si era accorto che i lettori ammiravano Paul invece di temerlo, e Villeneuve ha detto più volte che è proprio quel ribaltamento ad averlo interessato fin dall'inizio. Il messia diventa il problema, e l'Alia di Anya Taylor-Joy entra finalmente in scena.",
     "vibes": [
       "Dune - Parte due",
       "Blade Runner 2049",
-      "Oppenheimer"
+      "Il padrino - Parte II"
     ],
-    "nota": "Messia di Dune (1969) fu scritto da Herbert per correggere i lettori che avevano scambiato Paul per un eroe.",
+    "dopo": [
+      {
+        "tipo": "libro",
+        "titolo": "Messia di Dune di Frank Herbert",
+        "perche": "Il romanzo del 1969 da cui viene il film: breve, amaro e molto diverso dal primo."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Dune di David Lynch",
+        "perche": "L'adattamento del 1984: un fallimento glorioso che vale la pena vedere per confronto."
+      },
+      {
+        "tipo": "colonna sonora",
+        "titolo": "Dune: Part Two di Hans Zimmer",
+        "perche": "Zimmer rinunciò a Tenet di Nolan per lavorare a Dune: la musica è metà del film."
+      },
+      {
+        "tipo": "libro",
+        "titolo": "Dune di Frank Herbert",
+        "perche": "Rileggere l'originale prima del finale chiarisce quanto i film abbiano semplificato."
+      }
+    ],
+    "nota": "Messia di Dune è lungo meno della metà del primo romanzo: Herbert lo scrisse per correggere chi aveva letto Paul come un eroe.",
     "impronta": "Dune - Parte tre|419|Denis Villeneuve",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1492198": {
-    "trama": "Cinque giorni di novembre in cui il consiglio di amministrazione di OpenAI licenziò il proprio amministratore delegato e poi, tra rivolta interna e pressione degli investitori, fu costretto a riprenderlo. Luca Guadagnino racconta quella settimana dall'interno delle stanze in cui si decise: Sam Altman (Andrew Garfield), il cofondatore e capo scienziato Ilya Sutskever (Yura Borisov), il presidente Greg Brockman (Cooper Hoffman), la responsabile tecnica Mira Murati (Monica Barbaro). Ambizione, lealtà, e la paura di ciò che si sta costruendo.\n\nI generi dichiarati sono commedia e dramma, e la combinazione dice parecchio: è materiale da satira del potere tecnologico, con l'ironia che nasce dallo scarto tra la posta in gioco — il futuro dell'intelligenza artificiale — e le meschinità molto umane di chi la gestisce. Per Guadagnino è un cambio di passo netto dopo Challengers e Queer: meno corpi, più parole, un film di stanze e telefonate.",
-    "perche": "Hai in libreria anche The Social di Sorkin: i due film si guardano di fila, perché pongono la stessa domanda a vent'anni di distanza. Guadagnino porta qui l'abilità con i triangoli di potere già vista in Challengers, e Andrew Garfield — che fu Eduardo Saverin in The Social Network — chiude un cerchio piuttosto curioso.",
+    "trama": "Novembre 2023, San Francisco: il consiglio di amministrazione di OpenAI licenzia il proprio amministratore delegato, e nell'arco di cinque giorni l'azienda più discussa del mondo rischia di dissolversi prima che quella decisione venga ribaltata. È il materiale da cui parte Artificial, con Andrew Garfield nei panni di Sam Altman, Yura Borisov in quelli del cofondatore e capo scienziato Ilya Sutskever, Monica Barbaro in quelli di Mira Murati e Cooper Hoffman in quelli di Greg Brockman.\n\nLuca Guadagnino lo affronta da regista che non ha mai amato il registro documentario: i generi dichiarati sono commedia e dramma, e la sua idea di gruppo — corpi, desiderio, rivalità, stanze in cui si decide troppo in fretta — promette un film sulle persone più che sulla tecnologia. Sui contenuti precisi, per ora, non si sa molto più di questo.",
+    "perche": "Guadagnino è diventato il regista più prolifico e imprevedibile in circolazione: Challengers e Queer in due anni, registri opposti. Prendere il caso OpenAI e trattarlo come un dramma di gruppo — cinque giorni, poche stanze, persone che si tradiscono a vicenda — è esattamente il suo terreno. E Yura Borisov, rivelazione di Anora, è un casting che dice molto sul tono.",
     "vibes": [
       "The Social Network",
       "Steve Jobs",
       "Challengers"
     ],
-    "nota": "La sceneggiatura è di Simon Rich, umorista del New Yorker con un passato tra gli autori del Saturday Night Live.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "The Social Network",
+        "perche": "Il modello di ogni film su una startup: l'amicizia come primo materiale di consumo."
+      },
+      {
+        "tipo": "libro",
+        "titolo": "Empire of AI di Karen Hao",
+        "perche": "L'inchiesta del 2025 su OpenAI: il contesto più solido per capire i fatti del film."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Challengers",
+        "perche": "Il Guadagnino del triangolo e della rivalità, qui applicato a un consiglio di amministrazione."
+      },
+      {
+        "tipo": "film",
+        "titolo": "Steve Jobs",
+        "perche": "Sorkin e Boyle nel 2015: il fondatore raccontato in tre stanze e tre rese dei conti."
+      }
+    ],
+    "nota": "Il film ricostruisce i cinque giorni del novembre 2023 in cui Sam Altman fu licenziato da OpenAI e poi reintegrato.",
     "impronta": "Artificial|0|Luca Guadagnino",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-1297467": {
-    "trama": "Del film si sa ancora poco: nessuna sinossi diffusa, un'uscita fissata per il 2027 e un titolo — Martyrs, i martiri — che promette un ritorno alle radici teologiche della saga. Mike Flanagan scrive e dirige, ripartendo dopo il capitolo del 2023 che aveva diviso pubblico e critica. A parlare, per ora, è il cast: Scarlett Johansson, Diane Lane, Chiwetel Ejiofor e Laurence Fishburne accanto al giovane Jacobi Jupe, più nomi da dramma d'autore che da horror di cassetta.",
-    "perche": "Il motivo è Mike Flanagan: i suoi horror — da Doctor Sleep a The Haunting of Hill House — funzionano perché il soprannaturale è sempre il sintomo di un lutto. Dopo il mezzo passo falso del capitolo del 2023, qui ha mano libera e un cast da film d'autore. Se ti piace l'horror che si prende sul serio, è l'appuntamento del 2027.",
+    "trama": "Del film si sa ancora pochissimo: un nuovo capitolo del franchise dell'Esorcista, scritto e diretto da Mike Flanagan, con Scarlett Johansson in un ruolo non dichiarato e un cast che comprende Chiwetel Ejiofor, Laurence Fishburne, Diane Lane e John Leguizamo nei panni di un sacerdote. Il titolo — Martyrs, martiri — è l'unico indizio pubblico sul registro: suggerisce un'impostazione teologica e sacrificale più che la meccanica dello spavento seriale.\n\nÈ il rilancio di un marchio che negli ultimi anni ha faticato parecchio, affidato però al regista che ha passato dieci anni a dimostrare che l'horror può reggere il lutto, la malattia e il dubbio religioso senza scadere nel trucco. L'uscita è fissata al 2027: tutto il resto, per ora, è materiale di cui i produttori non hanno voluto parlare.",
+    "perche": "Flanagan ha costruito con Midnight Mass una delle riflessioni più serie sulla fede che l'horror contemporaneo abbia prodotto: mandarlo sull'Esorcista è la scelta più sensata fatta dal franchise in cinquant'anni. Scarlett Johansson dentro un film di possessione è un'anomalia che incuriosisce. E Flanagan scrive sempre da sé: qui non c'è una sceneggiatura di reparto.",
     "vibes": [
       "L'esorcista",
-      "Doctor Sleep",
-      "Hereditary - Le radici del male"
+      "Hereditary - Le radici del male",
+      "The Exorcism of Emily Rose"
     ],
-    "nota": "Flanagan ha adattato Stephen King tre volte — Il gioco di Gerald, Doctor Sleep, The Life of Chuck — prima di arrivare a Blatty.",
+    "dopo": [
+      {
+        "tipo": "film",
+        "titolo": "L'esorcista",
+        "perche": "Il film di Friedkin del 1973: ogni capitolo successivo si misura soltanto con quello."
+      },
+      {
+        "tipo": "libro",
+        "titolo": "L'esorcista di William Peter Blatty",
+        "perche": "Il romanzo del 1971 da cui tutto nasce: più teologico e più dettagliato del film."
+      },
+      {
+        "tipo": "serie",
+        "titolo": "Midnight Mass",
+        "perche": "Il Flanagan che parla di fede senza ironia: il motivo per cui gli hanno dato questo film."
+      },
+      {
+        "tipo": "documentario",
+        "titolo": "Leap of Faith: William Friedkin on The Exorcist",
+        "perche": "Friedkin racconta il proprio film inquadratura per inquadratura: un'ora e mezza di lezione."
+      }
+    ],
+    "nota": "Mike Flanagan firma da sé le sceneggiature dei propri film: è anche l'autore del copione di Clayface, in sala quest'anno.",
     "impronta": "The Exorcist: Martyrs|0|Mike Flanagan",
-    "scritta": "2026-09-12"
+    "scritta": "2026-09-13"
   },
   "tmdb-806704": {
     "trama": "Non esiste ancora una sinossi ufficiale. Quello che si sa è che Matt Reeves torna nella Gotham piovosa e corrotta del primo film, girata come una città vera e non come un fumetto, con Robert Pattinson di nuovo sotto il cappuccio e Jeffrey Wright, Andy Serkis e Colin Farrell ai loro posti. Le liste del cast indicano l'arrivo di Harvey Dent e Gilda Dent, nomi che nella mitologia di Batman portano dritti a Due Facce. L'uscita è annunciata per il 2028.",
