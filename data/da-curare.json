@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-12T20:54:20.604Z",
+  "preparato": "2026-09-13T05:06:49.340Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -34,6 +34,19 @@
   },
   "articoli": [
     {
+      "link": "https://deadline.com/2026/09/the-surgeon-review-michelle-yeoh-toronto-film-festival-1237099602/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-13T02:05:00.000Z",
+      "titolo": "‘The Surgeon’ Review: Michelle Yeoh Goes All John Wick Taking Her Scalpel To The Bad Guys – Toronto Film Festival",
+      "sommario": "After supporting roles in blockbusters like Wicked, Michelle Yeoh has her first all out starring role since winning the Best Actress Oscar for Everything Everywhere All At Once three years ago. Considering her expertise in martial arts and kick ass action (Crouching Tiger, Hidden Dragon for starters), her latest effort",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Wicked (in libreria)"
+      ],
+      "radar": null
+    },
+    {
       "link": "https://www.hollywoodreporter.com/movies/movie-news/slavoj-zizek-on-documentary-the-perverts-guide-to-utopias-1236684005/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
@@ -47,31 +60,83 @@
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/obsession-producer-haley-nicole-johnson-1236699030/",
-      "fonte": "Hollywood Reporter",
+      "link": "https://variety.com/2026/film/awards/misty-green-oscars-rosalind-eleazar-chris-rock-tiff-1236859652/",
+      "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-09-12T18:11:05.000Z",
-      "titolo": "‘Obsession’ Producer Haley Nicole Johnson on Dizzying Hollywood Breakout Hit: “It’s a Lot”",
-      "sommario": "Curry Barker's horror pic sold to Focus Features for $15 million, and has crossed $500 million at the global box office.",
+      "data": "2026-09-13T04:32:05.000Z",
+      "titolo": "Chris Rock’s Hollywood Send-Up ‘Misty Green’ Hits TIFF With Rosalind Eleazar’s Knockout Lead Performance",
+      "sommario": "Roughly two-thirds through “Misty Green,” Rosalind Eleazar takes a breath and lets a rendition of “One Night Only,” from the musical “Dreamgirls,” rip. The characters around her go quiet, and the crowd at the Toronto International Film Festival, where Chris Rock’s film made its world premiere, seemed similarly enraptur",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Obsession (in libreria, visto)",
-        "Curry Barker"
+        "One Night Only - Quando tutto è possibile"
       ],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/news/pierce-brosnan-james-bond-1236859814/",
+      "link": "https://deadline.com/2026/09/i-play-rocky-review-peter-farrelly-biopic-tallones-classic-1237100498/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-13T04:30:21.000Z",
+      "titolo": "‘I Play Rocky’ Review: Peter Farrelly’s Sensational Biopic Of The Making Of Stallone’s Classic Is Just As Inspiring As The Original Movie Itself – Toronto Film Festival",
+      "sommario": "It is no spoiler to say I am going to reveal the final moments of Peter Farrelly’s fantastic crowd pleasing biopic chronicling the making of the 1976 classic, Rocky, that not only made Sylvester Stallone a major star, but also became one of the greatest behind the scenes stories in Hollywood history. Stay all the […]",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/misty-green-review-rosalind-eleazar-chris-rock-hollywood-1237099694/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-13T03:30:00.000Z",
+      "titolo": "‘Misty Green’ Review: Rosalind Eleazar Is The Whole Show In Chris Rock’s Sizzling Hollywood Portrait Of A Down And Out Emmy Winner Whose Career Is On The Skids – Toronto Film Festival",
+      "sommario": "I have to confess I am a sucker for down-on-your-luck Hollywood stories, especially movies about actresses who once had success and are now scraping the bottom. Of course there is the classic of classics, Sunset Boulevard, but there are many more. A personal favorite is The Star which got Bette Davis an Academy Award n",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/naza-review-venice-film-festival-1237100430/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-13T00:56:22.000Z",
+      "titolo": "‘NAZA’ Review: Israeli Military Accused Of Depraved Indifference To Palestinian Life, Using AI To Kill In Gaza – Venice Film Festival",
+      "sommario": "The devastating documentary NAZA, an investigation into Israel’s mass killing of civilians in Gaza, was shot at night on rooftops in Tel Aviv, in part to avoid potential Israeli eavesdropping, presumably, and to facilitate shielding the identities of participants. Those participants are 24 Israeli military intelligence",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/babies-review-lauren-miller-rogen-film-is-a-witty-heartfelt-exploration-of-childless-adulthood-chosen-family-toronto-film-festival-1237100427/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-13T00:17:00.000Z",
+      "titolo": "‘Babies’ Review: Lauren Miller Rogen Film Is A Witty, Heartfelt Exploration Of Childless Adulthood & Chosen Family – Toronto Film Festival",
+      "sommario": "After years of fielding questions about whether she wants to be a mom, Lauren Miller Rogen gives the definitive answer in the form of her witty, heartfelt comedy Babies. Written and directed by Miller Rogen, Babies stars Anna Kendrick and the auteur’s husband Seth Rogen as the happily married Aaron and Annie, a couple ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/festivals/letters-from-silenced-country-golden-globes-impact-prize-1236858484/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-09-12T19:28:09.000Z",
-      "titolo": "Pierce Brosnan Thinks the Next James Bond Will Be ‘Someone That None of Us Know About’: ‘There Are Lots of Good Hats in the Ring’",
-      "sommario": "Ever since Denis Villeneuve’s forthcoming James Bond film was announced, the million-dollar question has been: Who will take on the role of the iconic spy? Now, former 007 Pierce Brosnan is offering his thoughts. In a recent interview with The Times, the actor, who played the character in four films from 1995 to 2002, ",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Denis Villeneuve"
-      ],
-      "radar": "regia di Denis Villeneuve, di cui hai visto 3 film"
+      "data": "2026-09-12T21:00:00.000Z",
+      "titolo": "‘Letters From the Silenced Country’ Wins Golden Globes Impact Prize for Documentary Presented During Venice Film Festival (EXCLUSIVE)",
+      "sommario": "Belarusian director Andrei Kutsila’s “Letters from the Silenced Country,” a portrayal of contemporary Belarus seen through the lives of five individuals whose existence has been upended by state violence and political repression, is the winner of The Golden Globes Impact Prize for Documentary awarded in partnership wit",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/mia-wasikowska-agata-the-writer-kuba-dorabialski-venice-1236859514/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-12T20:56:32.000Z",
+      "titolo": "Mia Wasikowska Fills Out the Screen As ‘Agata the Writer’ in Kuba Dorabialski’s Venice Drama: ‘It’s Our Responsibility to Understand Each Other’",
+      "sommario": "Mia Wasikowska fills out the screen in Kuba Dorabialski’s “Agata the Writer.” Metaphorically and figuratively, as one especially arresting sequence shows her in close-up looking directly at the audience and recounting the rest of the story. “I was so curious about it,” she says. “Luckily, when I’m doing something, I do",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
     },
     {
       "link": "https://deadline.com/2026/09/closing-night-review-sarah-paulson-naomi-watts-dianne-wiest-1237099740/",
@@ -96,56 +161,34 @@
       "radar": null
     },
     {
-      "link": "https://deadline.com/gallery/2026-venice-film-festival-premieres-red-carpet-photos/",
-      "fonte": "Deadline",
+      "link": "https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize",
+      "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-09-12T19:00:29.000Z",
-      "titolo": "Venice Film Festival 2025 In Photos: The Red Carpet Premieres & Closing Ceremony Winners",
-      "sommario": "The 83rd edition of the Venice Film Festival concludes today with the Closing Ceremony and presentation of the winners of the Lions. The 83rd edition of the Venice Film Festival concludes today with the Closing Ceremony and presentation of the winners of the Lions. Director May el-Toukhy took home the coveted Golden Li",
+      "data": "2026-09-12T21:17:08.000Z",
+      "titolo": "Woman Unknown wins Venice film festival as NAZA takes special jury prize",
+      "sommario": "<p>May el-Toukhy becomes eighth female director to take Golden Lion as Lee Chang-dong’s Possible Love and Guardian-produced exposé of Israel’s Gaza killings also awarded</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza\">Bold a",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://deadline.com/gallery/venice-golden-lion-winners-photos-from-every-one-of-the-festivals-top-films-through-the-years/",
-      "fonte": "Deadline",
+      "link": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
+      "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-09-12T18:55:17.000Z",
-      "titolo": "Venice Golden Lion Winners: Photos From Every One Of The Festival’s Top Films Through The Years",
-      "sommario": "The Golden Lion, the highest honor at the Venice Film Festival, is a prestigious award that has been given to many of the world’s most acclaimed directors and films. The prize has recognized a diverse range of cinematic masterpieces from different eras and countries. Some notable winners include Akira Kurosawa’s Rashom",
+      "data": "2026-09-12T21:07:33.000Z",
+      "titolo": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA",
+      "sommario": "<p>After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize\">Woman Unknown wins Venice film festival as NA",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/festivals/venice-film-festival-2026-award-winners-list-golden-lion-1236859418/",
-      "fonte": "Variety",
+      "link": "https://www.slashfilm.com/2247912/the-x-files-writers-90s-sci-fi-show-space-above-and-beyond-canceled/",
+      "fonte": "/Film",
       "lingua": "en",
-      "data": "2026-09-12T16:57:04.000Z",
-      "titolo": "Venice Film Festival Winners: May El-Toukhy’s ‘Woman Unknown’ Scores Golden Lion, John Malkovich Gets Best Actor and More",
-      "sommario": "The Venice Film Festival has revealed its 2026 award winners, with May el-Toukhy’s “Woman Unknown” taking home the prestigious Golden Lion for best film. The Danish drama — which follows a young housemaid whose intimate relationship with a German soldier during World War II threatens her future — was the only film in c",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/09/venice-winners-2026-1237100060/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-12T16:56:24.000Z",
-      "titolo": "Venice 2026 Winners: May El-Toukhy’s ‘Woman Unknown’ Wins Golden Lion For Best Film",
-      "sommario": "Danish director May El-Toukhy’s Woman Unknown has won the Golden Lion for Best Film at the 83rd Venice Film Festival. The post-World War Two psychological thriller was directed by one of just two female directors in the running for the Golden Lion this year. Set in Denmark in the summer of 1945, the picture stars Mathi",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/09/courteney-cox-ready-direct-scream-movie-1237099746/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-12T16:46:52.000Z",
-      "titolo": "Courteney Cox Is Ready To Direct A ‘Scream’ Movie: “I Think I Should”",
-      "sommario": "As Courteney Cox returns to the director’s chair for her sophomore feature Evil Genius, she’s ready to take on a franchise she’s been with for 30 years. While discussing the TIFF true-crime film at the Deadline Studio, the Golden Globe nominee revealed she’d be open to directing an upcoming installment in the Scream fr",
+      "data": "2026-09-12T22:00:00.000Z",
+      "titolo": "This Acclaimed '90s Sci-Fi Show Created By Two X-Files Writers Was Canceled Too Soon",
+      "sommario": "After writing for The X-Files, Glen Morgan and James Wong left to create this sci-fi series that was canceled after only one season.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -162,14 +205,16 @@
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-venice-winners-full-list-golden-lion-1236698825/",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-pervert-audition-asked-drop-my-pants-1236699363/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-09-12T19:51:47.000Z",
-      "titolo": "‘Woman Unknown’ Wins Golden Lion in Venice: Full Winners List",
-      "sommario": "All eyes were on the Lido as John Malkovich ('Wild Horse Nine') and Mathilde Arcel ('Woman Unknown') won best actor and best actress, and Venice sensation 'NAZA' claimed the Special Jury Prize.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
+      "data": "2026-09-12T23:32:43.000Z",
+      "titolo": "Sandra Bullock Recalls “Auditioning for Every Pervert” and Being Asked to “Drop My Pants”: “Not the Role for Me”",
+      "sommario": "The Oscar winner looked back on her career in the entertainment industry in conversation with Jennifer Aniston for Interview magazine.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Sandra Bullock"
+      ],
       "radar": null
     },
     {
@@ -184,78 +229,67 @@
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/global/jeremy-thomas-tributes-luca-guadagnino-1236859499/",
+      "link": "https://variety.com/2026/film/news/mahershala-ali-blade-your-mother-your-mother-your-mother-tiff-adia-bassam-tariq-1236860243/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-09-12T20:36:00.000Z",
-      "titolo": "Jeremy Thomas Remembered as a Filmmaker ‘Full of Stories’ and a ‘Rebel With Taste’: ‘The Canon of His Work Is Unmatched’",
-      "sommario": "Tributes have begun flowing from across the film world for Jeremy Thomas, the legendary British producer who passed away on Friday at the age of 77. Terry Gilliam, who worked with Thomas on “Tideland” and “The Man Who Killed Don Quixote,” told Variety, “Jeremy Thomas loved making movies. He loved every aspect of the bu",
+      "data": "2026-09-13T04:01:23.000Z",
+      "titolo": "Mahershala Ali Finally Made His ‘Blade’ Film With ‘Your Mother Your Mother Your Mother’",
+      "sommario": "Bassam Tariq and Mahershala Ali finally made their “Blade” movie. On Saturday night, “Your Mother Your Mother Your Mother” made its world premiere at the Toronto International Film Festival before its theatrical release on Sept. 25. Tariq’s film centers on Latif (Ali), a devout Muslim hitman who, following the sudden d",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/news/andrew-scott-tiff-elsinore-gay-actors-prejudice-fleabag-1236859840/",
+      "link": "https://variety.com/2026/music/news/pretenders-documentary-chrissie-hynde-toronto-film-festival-1236859953/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-09-12T19:49:51.000Z",
-      "titolo": "Andrew Scott Gets Candid at TIFF About ‘Elsinore’ and People Against Gay Actors Playing Straight Roles: ‘That’s Just Prejudice’",
-      "sommario": "Could Andrew Scott make history? That is the big question concerning the Irish actor’s towering performance in “Elsinore,” which debuted in Telluride before playing the Toronto International Film Festival. Directed by Simon Stone, the film features Scott as Ian Charleson, a Scottish actor whose career has slowed down s",
+      "data": "2026-09-12T21:27:37.000Z",
+      "titolo": "Camera-Shy Chrissie Hynde on Finally Allowing a Definitive Doc to Be Made About ‘The Pretenders,’ Bowing in Toronto: ‘I Just Wanted to Be in a Band. I’ve Never Graduated Beyond That Initial Interest in It’",
+      "sommario": "At this late date, what the Pretenders accomplished is no mystery achievement. But it’s also a story that has never been extensively chronicled on film until “The Pretenders,” a Joss Crowley-directed doc that premieres Sunday at the Toronto International Film Festival. The band released what might rightly be considered",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/reviews/oasis-review-1236859441/",
-      "fonte": "Variety",
+      "link": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
+      "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-09-12T18:27:09.000Z",
-      "titolo": "‘Oasis’ Review: A Sleek, Strange Parable about Bullying and Bonding at the Most Difficult Age",
-      "sommario": "The difficult teenage years are sometimes characterized as a wasteland, but more resemble a forest for the interdependent trio at the sinking heart of Jannis Lenz’s “Oasis,” the German-born, Austrian-trained filmmaker’s creepy, controlled debut feature. Retreating to the woods surrounding their German hometown, three o",
+      "data": "2026-09-13T04:01:52.000Z",
+      "titolo": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
+      "sommario": "<p><strong>Toronto film festival:</strong> the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama</p><p>Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I can’t tell if that’s because they come in handy when soaking up pools of bl",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/festivals/ah-girl-ang-geck-geck-priscilla-toronto-1236859417/",
-      "fonte": "Variety",
+      "link": "https://www.theguardian.com/film/2026/sep/12/misty-green-review-chris-rocks-rosalind-eleazar",
+      "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-09-12T17:43:31.000Z",
-      "titolo": "Inside ‘Ah Girl,’ the Singapore Drama Built From a Director’s Own Childhood: ‘We Can’t Fly Without First Learning How to Walk’",
-      "sommario": "Ang Geck Geck Priscilla spent more than a decade making “Ah Girl” before she ever made “Ah Girl.” Three short films and a decade of festival labs later, the Singaporean director’s feature debut is a Centrepiece selection at the Toronto Film Festival for its North American premiere, following wins at Rotterdam and Hong ",
-      "sezioneProvvisoria": "notizia",
+      "data": "2026-09-13T03:30:51.000Z",
+      "titolo": "Misty Green review – Chris Rock’s jumbled LA drama saved by fiery Rosalind Eleazar",
+      "sommario": "<p><strong>Toronto film festival:</strong> There’s a stunning lead performance from the breakout British actor but the film surrounding her can’t quite match what she’s bringing</p><p>There’s a mighty, all-guns-blazing performance at the centre of <a href=\"https://www.theguardian.com/stage/chris-rock\">Chris Rock</a>’s ",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/music/news/darlene-love-documentary-interview-toronto-film-festival-1236859617/",
-      "fonte": "Variety",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/",
+      "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-09-12T17:12:01.000Z",
-      "titolo": "Love Has Everything to Do With It: Darlene Love, Producer Taraji P. Henson and Director Barry Avrich on ‘Darlene Love: I Know Where I’ve Been,’ a Stirring Music Doc Premiering in Toronto",
-      "sommario": "The truly legendary singer Darlene Love had her story already lightly sketched out in a 2013 film about backup singers of yore, 2013’s Oscar-winning “20 Feet From Stardom.” But what Love’s fans — and they are legion — really have hungered for is a movie in which she is less than 10 feet from the […]",
-      "sezioneProvvisoria": "notizia",
+      "data": "2026-09-13T02:02:00.000Z",
+      "titolo": "‘The Surgeon’ Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
+      "sommario": "Martin Freeman has a supporting role as a crime boss in this film from Roshan Sethi ('A Nice Indian Boy'), premiering in Toronto.",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
-      "fonte": "Variety",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/anthony-ippolito-sylvester-stallone-i-play-rocky-daunting-1236699402/",
+      "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-09-12T16:08:35.000Z",
-      "titolo": "Kling AI’s TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking: ‘The Script Is Still the Blueprint’",
-      "sommario": "Kling AI hit the opening morning of the inaugural TIFF: The Market with a lively, well attended panel, “A New Creative Paradigm: Consistent, Cinematic AI Video Powered by Kling AI,” geared towards a Canadian industry audience of animation and live-action film creators eager for up-to-date insight into their roles and h",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-12T16:15:00.000Z",
-      "titolo": "‘Being Heumann’ Producer Kevin Walsh Readies Star Vehicles For Paul Rudd & Sam Rockwell, Series With Casey Affleck: TIFF",
-      "sommario": "EXCLUSIVE: In the wake of a splashy Thursday night TIFF opening night premiere of the Sian Heder-directed Being Heumann, producer Kevin Walsh has two star vehicles happening quickly. He’s next readying Reasonable People, a drama that Cory Finley will direct with Paul Rudd and Sam Rockwell starring. On the series side i",
+      "data": "2026-09-13T01:15:16.000Z",
+      "titolo": "Anthony Ippolito on Speaking to Sylvester Stallone Before Filming ‘I Play Rocky’: “Very Overwhelming and Daunting”",
+      "sommario": "\"It was a lot to take in because I'd spent over a year, by that point, studying him,” the actor said at THR‘s Studio at 1 Hotel during TIFF, presented by sponsor Canada Goose.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -283,6 +317,17 @@
       "radar": null
     },
     {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/mahersala-ali-yearning-your-mother-your-mother-your-mother-1236699277/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-12T22:19:05.000Z",
+      "titolo": "Mahershala Ali Reveals He Was “Yearning” to Perform Action On-Screen Before Filming ‘Your Mother, Your Mother, Your Mother’",
+      "sommario": "“It offered up an opportunity to engage and commit to the type of difficult I want to commit to,\" the Oscar winner said about the Bassam Tariq-directed film.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
       "link": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
       "fonte": "The Guardian",
       "lingua": "en",
@@ -294,13 +339,13 @@
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/sep/12/girl-group-review-rebel-wilson",
-      "fonte": "The Guardian",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/seth-rogen-babies-directed-by-wife-lauren-personal-1236699218/",
+      "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-09-12T13:20:23.000Z",
-      "titolo": "Girl Group review – Rebel Wilson’s dreadful music comedy is a spice-free wannabe",
-      "sommario": "<p><strong>Toronto film festival:</strong> the actor turned writer-director’s ode to girl groups is a shoddily made and embarrassingly unfunny catastrophe</p><p>There were plentiful on-paper delights for certain music fans of a certain generation promised at Toronto’s splashy Friday-night premiere of pop comedy Girl Gr",
-      "sezioneProvvisoria": "approfondimento",
+      "data": "2026-09-12T21:12:07.000Z",
+      "titolo": "Seth Rogen Says ‘Babies’ Is “Reflective” of His “Experiences” Exploring Parenthood: “It’s Shocking How Personal It Is”",
+      "sommario": "\"It's very brave to put yourself out there like that,\" the actor said about the film, directed by Lauren Miller Rogen.",
+      "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
@@ -311,28 +356,6 @@
       "data": "2026-09-12T20:27:14.000Z",
       "titolo": "How a Small Chinese Drama Became a $300 Million Phenomenon",
       "sommario": "'Dear You' director Lan Hongchun on the film's surprise success, its real-life family reunions and its arrival at TIFF's China Film Showcase.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/your-mother-your-mother-your-mother-john-cho-interview-1236698846/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-12T20:00:00.000Z",
-      "titolo": "In ‘Your Mother Your Mother Your Mother,’ John Cho Finally Gets to Play the Villain: “This Is Not What People Would Expect From Me”",
-      "sommario": "In Bassam Tariq‘s action film, set to premiere at TIFF, Cho plays a Texas pastor with a violent streak opposite Mahershala Ali’s grieving contract killer.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-indigenous-directors-1236698855/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-12T19:37:47.000Z",
-      "titolo": "Toronto: Indigenous Directors Flex Artistry With Bigger-Budget Films",
-      "sommario": "No longer just go-to foils for the white heroes in movie westerns, Canadian indigenous actors and filmmakers are showcasing their storytelling traditions at TIFF with eight titles in the official lineup.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -375,17 +398,6 @@
       "radar": null
     },
     {
-      "link": "https://www.badtaste.it/articoli/venezia-83-il-leone-doro-e-la-lista-di-tutti-i-vincitori-della-mostra",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-12T18:54:41.000Z",
-      "titolo": "Venezia 83: il leone d’oro e la lista di tutti i vincitori della Mostra",
-      "sommario": "Il leone d’oro e tutti i vincitori dell’83esima Mostra Internazionale d’Arte Cinematografica di Venezia.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
       "link": "https://movieplayer.it/news/venezia-83-tutti-i-premi-leone-doro-vincitori_171031/",
       "fonte": "MoviePlayer",
       "lingua": "it",
@@ -393,6 +405,17 @@
       "titolo": "Venezia 83, tutti i premi: il Leone d'Oro è Woman Unknown, Naza Premio Speciale",
       "sommario": "La Giuria della Mostra del Cinema di Venezia ha scelto il film danese di May el-Toukhy come Leone d'Oro. L'Italia? Nonostante gli ottimi film resta (quasi) a bocca asciutta. Il Leone d'Oro della 83. Mostra del Cinema di Venezia va a Woman Unknown di May el-Toukhy. \"Il mio film parla di donne che non hanno una voce. Inv",
       "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/venezia-83-il-leone-doro-e-la-lista-di-tutti-i-vincitori-della-mostra",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-12T18:54:41.000Z",
+      "titolo": "Venezia 83: il leone d’oro e la lista di tutti i vincitori della Mostra",
+      "sommario": "Il leone d’oro e tutti i vincitori dell’83esima Mostra Internazionale d’Arte Cinematografica di Venezia.",
+      "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
@@ -454,17 +477,6 @@
       "radar": null
     },
     {
-      "link": "https://www.badtaste.it/articoli/su-prime-video-il-capolavoro-tecnico-di-steve-mcqueen-che-pero-lascia-lo-spettatore-disconnesso",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-12T14:00:14.000Z",
-      "titolo": "Su Prime Video, il capolavoro tecnico di Steve McQueen (che però lascia lo spettatore disconnesso)",
-      "sommario": "Perché il film di Steve McQueen su Prime Video, pur tecnicamente perfetto, lascia lo spettatore emotivamente disconnesso dalla storia di Solomon Northup.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
       "link": "https://cinefilos.it/tutto-film/approfondimenti/vermiglio-storia-vera-film-maura-delpero-721281",
       "fonte": "Cinefilos",
       "lingua": "it",
@@ -493,6 +505,17 @@
       "data": "2026-09-12T17:44:52.000Z",
       "titolo": "Dracula di Bram Stoker: la spiegazione del finale del film di Francis Ford Coppola",
       "sommario": "Dracula di Bram Stoker: la spiegazione del finale del film di Francis Ford Coppola Il Dracula di Bram Stoker (leggi qui la nostra recensione) diretto da Francis Ford Coppola (autore de Il padrino e Apocalypse Now) nel 1992 è una delle più celebri riletture cinematografiche del romanzo di Bram Stoker, ma anche una delle",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/su-prime-video-il-capolavoro-tecnico-di-steve-mcqueen-che-pero-lascia-lo-spettatore-disconnesso",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-12T14:00:14.000Z",
+      "titolo": "Su Prime Video, il capolavoro tecnico di Steve McQueen (che però lascia lo spettatore disconnesso)",
+      "sommario": "Perché il film di Steve McQueen su Prime Video, pur tecnicamente perfetto, lascia lo spettatore emotivamente disconnesso dalla storia di Solomon Northup.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null

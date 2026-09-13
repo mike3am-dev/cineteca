@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-12T20:54:24.919Z",
+  "preparato": "2026-09-13T05:06:57.007Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,347 +79,375 @@
   },
   "film": [
     {
-      "id": "tmdb-235",
-      "tmdbId": 235,
-      "imdbId": "tt0092005",
-      "origine": "scoperta",
-      "titolo": "Stand by Me - Ricordo di un'estate",
-      "titoloOriginale": "Stand by Me",
-      "anno": "1986",
-      "uscitaItalia": "1986-11-01",
-      "regia": "Rob Reiner",
+      "id": "tmdb-1101412",
+      "tmdbId": 1101412,
+      "imdbId": "tt31192372",
+      "origine": "trailer",
+      "titolo": "Fall 2: Deadpoint",
+      "titoloOriginale": "Fall 2: Deadpoint",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-01",
+      "regia": "Michael Spierig",
       "generi": [
-        "Dramma",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 89,
-      "tagline": "Per alcuni è l'ultimo vero assaggio di innocenza e il primo vero assaggio di vita.",
-      "cast": [
-        "Wil Wheaton (Gordie Lachance)",
-        "River Phoenix (Chris Chambers)",
-        "Corey Feldman (Teddy Duchamp)",
-        "Jerry O'Connell (Vern Tessio)",
-        "Kiefer Sutherland (Ace Merrill)",
-        "Casey Siemaszko (Billy Tessio)"
-      ],
-      "tramaTmdb": "Oregon, estate del 1959. Quattro ragazzini partono per un'escursione di 50 chilometri lungo la ferrovia, affrontando varie avventure per cercare il cadavere di un ragazzo scomparso giorni prima. Da un racconto (The Body, 1982) di Stephen King, uno dei film più belli sull'adolescenza degli anni '80, nel miracoloso equilibrio della memoria tra sentimento e avventura.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Stand by Me - Ricordo di un'estate|367|Rob Reiner"
-    },
-    {
-      "id": "tmdb-14306",
-      "tmdbId": 14306,
-      "imdbId": "tt0822832",
-      "origine": "scoperta",
-      "titolo": "Io & Marley",
-      "titoloOriginale": "Marley & Me",
-      "anno": "2009",
-      "uscitaItalia": "2009-04-03",
-      "regia": "David Frankel",
-      "generi": [
-        "Commedia",
-        "Famiglia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 120,
-      "tagline": "Sconfitto l'amore.",
-      "cast": [
-        "Owen Wilson (John Grogan)",
-        "Jennifer Aniston (Jennifer Grogan)",
-        "Eric Dane (Sebastian Tunney)",
-        "Kathleen Turner (Ms. Kornblut)",
-        "Alan Arkin (Arnie Klein)",
-        "Nathan Gamble (Patrick (Age 10))"
-      ],
-      "tramaTmdb": "John e Jenny sono sposi nell'inverno gelido del Michigan. Innamorati e ansiosi di intraprendere una vita insieme si trasferiscono nella più calda Florida, dove trovano il lavoro e la casa dei loro sogni. Occupati per testate giornalistiche diverse, i coniugi Grogan progettano in salotto di allargare la famiglia. John, indeciso sulla paternità, fa le prove generali e compra un cucciolo in saldo per il compleanno di Jenny. Battezzato Marley sulle note del cantautore giamaicano, il Labrador biondo travolgerà la vita dei Grogan, \"rosicchiando\" mobili, progetti e certezze e invitandoli a vivere il ",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
-      ],
-      "impronta": "Io & Marley|600|David Frankel"
-    },
-    {
-      "id": "tmdb-299534",
-      "tmdbId": 299534,
-      "imdbId": "tt4154796",
-      "origine": "scoperta",
-      "titolo": "Avengers: Endgame",
-      "titoloOriginale": "Avengers: Endgame",
-      "anno": "2019",
-      "uscitaItalia": "2019-04-24",
-      "regia": "Anthony Russo",
-      "generi": [
-        "Avventura",
-        "Fantascienza",
-        "Azione"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 181,
-      "tagline": "Una parte del viaggio è la fine.",
-      "cast": [
-        "Robert Downey Jr. (Tony Stark / Iron Man)",
-        "Chris Evans (Steve Rogers / Captain America)",
-        "Mark Ruffalo (Bruce Banner / Hulk)",
-        "Chris Hemsworth (Thor)",
-        "Scarlett Johansson (Natasha Romanoff / Black Widow)",
-        "Jeremy Renner (Clint Barton / Hawkeye)"
-      ],
-      "tramaTmdb": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
-      "motivi": [
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "c'è Chris Pratt, che hai visto 4 volte"
-      ],
-      "impronta": "Avengers: Endgame|508|Anthony Russo"
-    },
-    {
-      "id": "tmdb-550",
-      "tmdbId": 550,
-      "imdbId": "tt0137523",
-      "origine": "scoperta",
-      "titolo": "Fight Club",
-      "titoloOriginale": "Fight Club",
-      "anno": "1999",
-      "uscitaItalia": "1999-10-29",
-      "regia": "David Fincher",
-      "generi": [
-        "Dramma",
         "Thriller"
-      ],
-      "paesi": [
-        "Germania",
-        "USA"
-      ],
-      "durata": 139,
-      "tagline": "Combatti per sapere chi sei",
-      "cast": [
-        "Edward Norton (Narrator)",
-        "Brad Pitt (Tyler Durden)",
-        "Helena Bonham Carter (Marla Singer)",
-        "Meat Loaf (Robert Paulson)",
-        "Jared Leto (Angel Face)",
-        "Zach Grenier (Richard Chesler (Regional Manager))"
-      ],
-      "tramaTmdb": "Un uomo di trent'anni è insofferente su tutto e la notte non riesce più a dormire. In cerca di qualche luogo dove scaricare la propria ansia si mette a frequentare quei corsi dove gruppi di malati gravi si riuniscono e confessano agli altri le rispettive situazioni. Mentre si lascia andare alla commozione e al pianto di fronte a quello che vede, l'uomo fa la conoscenza prima di Marla Singer poi di Tyler Durden. Lei è una ragazza a sua volta alla deriva, incapace di scelte o decisioni; lui è un tipo deciso e vigoroso con un'idea precisa in testa. Tyler fa saltare per aria l'appartamento dell'uo",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Fight Club|600|David Fincher"
-    },
-    {
-      "id": "tmdb-152601",
-      "tmdbId": 152601,
-      "imdbId": "tt1798709",
-      "origine": "scoperta",
-      "titolo": "Lei",
-      "titoloOriginale": "Her",
-      "anno": "2014",
-      "uscitaItalia": "2014-03-13",
-      "regia": "Spike Jonze",
-      "generi": [
-        "Romance",
-        "Fantascienza",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 126,
-      "tagline": "Innamorarsi è una pazzia.",
-      "cast": [
-        "Joaquin Phoenix (Theodore)",
-        "Scarlett Johansson (Samantha (voice))",
-        "Lynn Adrianna (Letter Writer #1)",
-        "Lisa Renee Pitts (Letter Writer #2)",
-        "Gabe Gomez (Letter Writer #3)",
-        "Chris Pratt (Paul)"
-      ],
-      "tramaTmdb": "Los Angeles, in un futuro non troppo lontano. Theodore, un uomo solitario dal cuore spezzato che si guadagna da vivere scrivendo lettere “personali” per gli altri, acquista un sistema informatico di nuova generazione progettato per soddisfare tutte le esigenze dell’utente. Il nome della voce del sistema operativo è Samantha, che si dimostra sensibile, profonda e divertente. Il rapporto di Theodore e Samantha crescerà e l’amicizia si trasformerà in amore ma…",
-      "motivi": [
-        "c'è Chris Pratt, che hai visto 4 volte",
-        "c'è Chris Pratt, che hai visto 4 volte"
-      ],
-      "impronta": "Lei|461|Spike Jonze"
-    },
-    {
-      "id": "tmdb-581",
-      "tmdbId": 581,
-      "imdbId": "tt0099348",
-      "origine": "scoperta",
-      "titolo": "Balla coi lupi",
-      "titoloOriginale": "Dances with Wolves",
-      "anno": "1990",
-      "uscitaItalia": "1990-12-14",
-      "regia": "Kevin Costner",
-      "generi": [
-        "Avventura",
-        "Dramma",
-        "Western"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 180,
+      "durata": 98,
       "tagline": null,
       "cast": [
-        "Kevin Costner (Lieutenant Dunbar)",
-        "Mary McDonnell (Stands With A Fist)",
-        "Graham Greene (Kicking Bird)",
-        "Rodney A. Grant (Wind In His Hair)",
-        "Floyd 'Red Crow' Westerman (Ten Bears)",
-        "Tantoo Cardinal (Black Shawl)"
+        "Harriet Slater (Jax Hunter)",
+        "Arsema Thomas (Luce)",
+        "Tom Brittney (Jon Platt)",
+        "Virginia Gardner (Shiloh Hunter)",
+        "Sahajak Boonthanakit (Thai Barman)",
+        "Korakod Yensuk (Large Woman)"
       ],
-      "tramaTmdb": "Joh Dunbar è considerato un eroe dopo che accidentalmente conduce le truppe dell'unione alla vittoria durante la Guerra Civile. Richiede una posizione sulla frontiera dell'ovest, ma la trova deserta. Presto, però, scopre di non essere solo ed incontra un lupo che chiama \"due calzini\" e una tribù pellerossa. Presto, Dunbar stringe amicizia con la tribù e scopre una donna bianca cresciuta dalla tribù di nativi...",
+      "tramaTmdb": null,
       "motivi": [
-        "avventura: il tuo terreno"
+        "thriller, il tuo terreno"
       ],
-      "impronta": "Balla coi lupi|414|Kevin Costner"
+      "impronta": "Fall 2: Deadpoint|0|Michael Spierig"
     },
     {
-      "id": "tmdb-1315772",
-      "tmdbId": 1315772,
-      "imdbId": "tt32890033",
+      "id": "tmdb-975",
+      "tmdbId": 975,
+      "imdbId": "tt0050825",
       "origine": "scoperta",
-      "titolo": "Minions & Monsters",
-      "titoloOriginale": "Minions & Monsters",
-      "anno": "2026",
-      "uscitaItalia": "2026-07-01",
-      "regia": "Pierre Coffin",
+      "titolo": "Orizzonti di gloria",
+      "titoloOriginale": "Paths of Glory",
+      "anno": "1958",
+      "uscitaItalia": "1958-01-22",
+      "regia": "Stanley Kubrick",
       "generi": [
-        "Avventura",
-        "Animazione",
-        "Commedia",
-        "Famiglia",
-        "Fantasy"
+        "Guerra",
+        "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 90,
-      "tagline": "Hollywood ha un problema mostruoso.",
+      "durata": 86,
+      "tagline": "Esplora la terra di nessuno che nessun film ha mai osato attraversare prima!",
       "cast": [
-        "Pierre Coffin (The Minions (voice))",
-        "Trey Parker (Goomi (voice))",
-        "Christoph Waltz (Max (voice))",
-        "Allison Janney (Olivia (voice))",
-        "Jesse Eisenberg (Dort (voice))",
-        "Jeff Bridges (Frank / Elwood (voice))"
+        "Kirk Douglas (Col. Dax)",
+        "Ralph Meeker (Cpl. Philippe Paris)",
+        "Adolphe Menjou (Gen. George Broulard)",
+        "George Macready (Gen. Paul Mireau)",
+        "Wayne Morris (Lt. Roget/Singing man)",
+        "Richard Anderson (Maj. Saint-Auban)"
       ],
-      "tramaTmdb": "Questa è la storia turbolenta, assurda e assolutamente vera di come i Minions abbiano conquistato Hollywood, siano diventati star del cinema, abbiano perso tutto, abbiano liberato dei mostri nel mondo e poi si siano riuniti per cercare di salvare il pianeta dal caos che loro stessi avevano creato.",
+      "tramaTmdb": "Durante la Prima Guerra Mondiale, per uno stupido puntiglio, un generale francese ordina un attacco a una postazione tedesca praticamente inespugnabile. Il colonnello Dax, ufficiale coraggioso e onesto, capisce la follia dell'ordine e cerca di evitare la carneficina, ma, di fronte all'ottusità dei suoi superiori, è costretto a eseguire i comandi. L'assalto, naturalmente, fallisce, ma non è tutto: il tronfio generale fa fucilare tre soldati per vigliaccheria.",
       "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Minions & Monsters|298|Pierre Coffin"
-    },
-    {
-      "id": "tmdb-10681",
-      "tmdbId": 10681,
-      "imdbId": "tt0910970",
-      "origine": "scoperta",
-      "titolo": "WALL•E",
-      "titoloOriginale": "WALL·E",
-      "anno": "2008",
-      "uscitaItalia": "2008-10-17",
-      "regia": "Andrew Stanton",
-      "generi": [
-        "Animazione",
-        "Famiglia",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 97,
-      "tagline": "Dopo 700 anni passati a fare quello per cui è stato costruito , ha scoperto a cosa era destinato",
-      "cast": [
-        "Ben Burtt (WALL·E / M-O (voice))",
-        "Elissa Knight (EVE (voice))",
-        "Jeff Garlin (Captain (voice))",
-        "Fred Willard (Shelby Forthright, BnL CEO)",
-        "John Ratzenberger (John (voice))",
-        "Kathy Najimy (Mary (voice))"
-      ],
-      "tramaTmdb": "Dopo centinaia di anni passati a svolgere il compito per cui era stato costruito, WALL-E, un robot progettato per ripulire la Terra, scopre un nuovo scopo nella vita quando incontra un elegante robot esploratore di nome EVE. EVE si rende conto che WALL-E ha inavvertitamente scoperto la chiave per il futuro del pianeta e corre nello spazio per riferire agli umani. Nel frattempo, WALL-E insegue EVE attraverso la galassia, dando inizio a una delle avventure più fantasiose mai portate sul grande schermo.",
-      "motivi": [
-        "c'è Sigourney Weaver, che hai visto 2 volte",
         "un classico che ti manca"
       ],
-      "impronta": "WALL•E|505|Andrew Stanton"
+      "impronta": "Orizzonti di gloria|462|Stanley Kubrick"
     },
     {
-      "id": "tmdb-500",
-      "tmdbId": 500,
-      "imdbId": "tt0105236",
+      "id": "tmdb-522924",
+      "tmdbId": 522924,
+      "imdbId": "tt1478839",
       "origine": "scoperta",
-      "titolo": "Le iene",
-      "titoloOriginale": "Reservoir Dogs",
-      "anno": "1992",
-      "uscitaItalia": "1992-10-09",
-      "regia": "Quentin Tarantino",
+      "titolo": "Attraverso i miei occhi",
+      "titoloOriginale": "The Art of Racing in the Rain",
+      "anno": "2019",
+      "uscitaItalia": "2019-11-07",
+      "regia": "Simon Curtis",
       "generi": [
-        "Crime",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 109,
+      "tagline": null,
+      "cast": [
+        "Kevin Costner (Enzo (voice))",
+        "Milo Ventimiglia (Denny Swift)",
+        "Amanda Seyfried (Avery \"Eve\" Swift)",
+        "Ryan Kiera Armstrong (Zoë Swift)",
+        "Lily Dodsworth-Evans (17-Year-Old Zoë)",
+        "Ian Lake (Mike)"
+      ],
+      "tramaTmdb": "Un cane chiamato Enzo ricorda le lezioni di vita che ha impartito e imparato. Dallo spirito intrepido e avventuroso, Enzo ha incrociato lungo il suo cammino Denny Swift, un giovane che ha dedicato la sua esistenza al mondo dei motori e che sembra destinato a un futuro roseo come pilota di auto da corsa.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Attraverso i miei occhi|304|Simon Curtis"
+    },
+    {
+      "id": "tmdb-755898",
+      "tmdbId": 755898,
+      "imdbId": "tt13186306",
+      "origine": "scoperta",
+      "titolo": "La guerra dei mondi",
+      "titoloOriginale": "War of the Worlds",
+      "anno": "2025",
+      "uscitaItalia": "2025-07-29",
+      "regia": "Rich Lee",
+      "generi": [
+        "Fantascienza",
         "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 99,
-      "tagline": "Amici prima, iene dopo. Finirono per sbranarsi tra loro.",
+      "durata": 91,
+      "tagline": null,
       "cast": [
-        "Harvey Keitel (Mr. White / Larry Dimmick)",
-        "Tim Roth (Mr. Orange / Freddy Newandyke)",
-        "Michael Madsen (Mr. Blonde / Vic Vega)",
-        "Chris Penn (\"Nice Guy\" Eddie Cabot)",
-        "Steve Buscemi (Mr. Pink)",
-        "Lawrence Tierney (Joe Cabot)"
+        "Ice Cube (William Radford)",
+        "Eva Longoria (NASA Scientist Sandra Salas)",
+        "Clark Gregg (NSA Director Donald Briggs)",
+        "Iman Benson (Faith Radford)",
+        "Henry Hunter Hall (David Radford)",
+        "Devon Bostick (Mark Goodman)"
       ],
-      "tramaTmdb": "Los Angeles. Una rapina a un importatore di diamanti che avrebbe potuto dare un ottimo bottino con un rischio calcolato si trasforma in una sparatoria che costringe i malviventi a una fuga disordinata. C'è però un punto di ritrovo prestabilito da Joe, il loro capo. Si tratta di un deposito abbandonato che viene raggiunto per primi da Mr. White e Mr. Orange gravemente ferito. Ognuno degli appartenenti alla banda ha finora conosciuto gli altri solo con il nome di un colore per evitare eventuali delazioni. Ma è proprio il dubbio che al loro interno si nasconda un infiltrato della polizia che comi",
+      "tramaTmdb": null,
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "La guerra dei mondi|0|Rich Lee"
+    },
+    {
+      "id": "tmdb-603",
+      "tmdbId": 603,
+      "imdbId": "tt0133093",
+      "origine": "scoperta",
+      "titolo": "Matrix",
+      "titoloOriginale": "The Matrix",
+      "anno": "1999",
+      "uscitaItalia": "1999-05-07",
+      "regia": "Lana Wachowski",
+      "generi": [
+        "Azione",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 136,
+      "tagline": "Credete all'incredibile.",
+      "cast": [
+        "Keanu Reeves (Neo)",
+        "Laurence Fishburne (Morpheus)",
+        "Carrie-Anne Moss (Trinity)",
+        "Hugo Weaving (Agent Smith)",
+        "Gloria Foster (Oracle)",
+        "Joe Pantoliano (Cypher)"
+      ],
+      "tramaTmdb": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e de",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Le iene|600|Quentin Tarantino"
+      "impronta": "Matrix|600|Lana Wachowski"
     },
     {
-      "id": "tmdb-257211",
-      "tmdbId": 257211,
-      "imdbId": "tt2361509",
+      "id": "tmdb-350",
+      "tmdbId": 350,
+      "imdbId": "tt0458352",
       "origine": "scoperta",
-      "titolo": "Lo stagista inaspettato",
-      "titoloOriginale": "The Intern",
-      "anno": "2015",
-      "uscitaItalia": "2015-10-15",
-      "regia": "Nancy Meyers",
+      "titolo": "Il diavolo veste Prada",
+      "titoloOriginale": "The Devil Wears Prada",
+      "anno": "2006",
+      "uscitaItalia": "2006-10-13",
+      "regia": "David Frankel",
       "generi": [
+        "Dramma",
         "Commedia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 121,
+      "durata": 109,
+      "tagline": "Un lavoro da amare. Un capo da odiare.",
+      "cast": [
+        "Meryl Streep (Miranda Priestly)",
+        "Anne Hathaway (Andy Sachs)",
+        "Emily Blunt (Emily)",
+        "Stanley Tucci (Nigel)",
+        "Simon Baker (Christian Thompson)",
+        "Adrian Grenier (Nate)"
+      ],
+      "tramaTmdb": "Dopo essersi laureata con successo nella cittadina di provincia nella quale ha sempre vissuto, Andy si trasferisce a New York dove riesce ad essere assunta come assistente di Miranda Priestly, direttrice di Runaway, rivista di moda per eccellenza, che detta legge anche agli stilisti. I modi dispotici di Miranda e la mancanza di feeling con le ambiziosissime colleghe impongono ad Andy di cambiare se stessa tanto nell'aspetto, quanto nell'animo, per poter sopravvivere alla giungla dell'ambiente di lavoro. Pian piano conquista la fiducia di Miranda, a scapito delle amicizie e dell'amore...",
+      "motivi": [
+        "regia di David Frankel, di cui hai visto un film",
+        "c'è Anne Hathaway, che hai visto 2 volte",
+        "regia di David Frankel, che segui"
+      ],
+      "impronta": "Il diavolo veste Prada|593|David Frankel"
+    },
+    {
+      "id": "tmdb-64690",
+      "tmdbId": 64690,
+      "imdbId": "tt0780504",
+      "origine": "scoperta",
+      "titolo": "Drive",
+      "titoloOriginale": "Drive",
+      "anno": "2011",
+      "uscitaItalia": "2011-09-30",
+      "regia": "Nicolas Winding Refn",
+      "generi": [
+        "Dramma",
+        "Thriller",
+        "Crime"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 100,
       "tagline": null,
       "cast": [
-        "Robert De Niro (Ben Whitaker)",
-        "Anne Hathaway (Jules Ostin)",
-        "Rene Russo (Fiona Farwell)",
-        "Anders Holm (Matt Ostin)",
-        "JoJo Kushner (Paige Ostin)",
-        "Andrew Rannells (Cameron)"
+        "Ryan Gosling (Driver)",
+        "Carey Mulligan (Irene)",
+        "Bryan Cranston (Shannon)",
+        "Albert Brooks (Bernie Rose)",
+        "Oscar Isaac (Standard)",
+        "Christina Hendricks (Blanche)"
       ],
-      "tramaTmdb": "Una società di moda assume uno stagista decisamente fuori dagli schemi: Ben Whittaker (Robert De Niro) un settantenne pensionato che ha scoperto che in fondo la pensione non è come immaginava e decide così di sfruttare la prima occasione utile per rimettersi in pista. Nonostante le diffidenze iniziali, Ben dimostrerà alla fondatrice della compagnia (Anne Hathaway) di essere una valida risorsa per l’azienda e tra i due nascerà un’inaspettata sintonia.",
+      "tramaTmdb": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di casa, e diventa amico di suo figlio Benicio. Irene però è sposata e quando il marito, Standard, esce dal carcere la situazione precipita. Perché Standard ha dei debiti con dei criminali i quali minaccia",
       "motivi": [
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "c'è Anne Hathaway, che hai visto 2 volte"
+        "c'è Ryan Gosling, che hai visto 3 volte",
+        "c'è Ryan Gosling, che hai visto 3 volte"
       ],
-      "impronta": "Lo stagista inaspettato|454|Nancy Meyers"
+      "impronta": "Drive|600|Nicolas Winding Refn"
+    },
+    {
+      "id": "tmdb-843847",
+      "tmdbId": 843847,
+      "imdbId": "tt8323668",
+      "origine": "scoperta",
+      "titolo": "Jerry e Marge giocano alla lotteria",
+      "titoloOriginale": "Jerry & Marge Go Large",
+      "anno": "2022",
+      "uscitaItalia": "2022-10-20",
+      "regia": "David Frankel",
+      "generi": [
+        "Commedia",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 96,
+      "tagline": null,
+      "cast": [
+        "Bryan Cranston (Jerry Selbee)",
+        "Annette Bening (Marge Selbee)",
+        "Rainn Wilson (Bill)",
+        "Larry Wilmore (Steve)",
+        "Michael McKean (Howard)",
+        "Jake McDorman (Doug)"
+      ],
+      "tramaTmdb": "La storia vera di Jerry e Marge Selbee, una coppia di pensionati di una piccola cittadina del Michigan che ha trovato un escamotage per vincere alla lotteria del Massachussetts e ha vinto ben 27 milioni di dollari, con i quali ha aiutato l'intera cittadina a migliorare le proprie condizioni.",
+      "motivi": [
+        "regia di David Frankel, di cui hai visto un film",
+        "regia di David Frankel, che segui"
+      ],
+      "impronta": "Jerry e Marge giocano alla lotteria|292|David Frankel"
+    },
+    {
+      "id": "tmdb-19",
+      "tmdbId": 19,
+      "imdbId": "tt0017136",
+      "origine": "scoperta",
+      "titolo": "Metropolis",
+      "titoloOriginale": "Metropolis",
+      "anno": "1928",
+      "uscitaItalia": "1928-10-01",
+      "regia": "Fritz Lang",
+      "generi": [
+        "Dramma",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "Germania"
+      ],
+      "durata": 150,
+      "tagline": "Non ci può essere comprensione tra le mani e il cervello a meno che il cuore non agisca da mediatore.",
+      "cast": [
+        "Gustav Fröhlich (Freder Fredersen)",
+        "Brigitte Helm (Maria / The Machine Man)",
+        "Alfred Abel (Johann 'Joh' Fredersen)",
+        "Rudolf Klein-Rogge (C.A. Rotwang)",
+        "Theodor Loos (Josaphat)",
+        "Fritz Rasp (The Thin Man)"
+      ],
+      "tramaTmdb": "Nel 2026 in una megalopoli a due livelli gli operai che lavorano come schiavi nei sotterranei sono incitati alla rivolta da un robot femmineo che riproduce le fattezze di una di loro, la mite e pia Maria. L'ha costruito uno scienziato al servizio dei padroni che vuole vendicarsi del potente John Fredersen, dominatore della città. La rivolta provoca un'inondazione che colpisce i quartieri operai finché, sollecitato da Maria, Freder, figlio di Fredersen, fa da mediatore tra padroni e operai. È nato un nuovo patto sociale. Realizzato nel 1926 a costi così alti che rischiarono di far fallire la UF",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Metropolis|600|Fritz Lang"
+    },
+    {
+      "id": "tmdb-2118",
+      "tmdbId": 2118,
+      "imdbId": "tt0119488",
+      "origine": "scoperta",
+      "titolo": "L.A. Confidential",
+      "titoloOriginale": "L.A. Confidential",
+      "anno": "1997",
+      "uscitaItalia": "1997-11-07",
+      "regia": "Curtis Hanson",
+      "generi": [
+        "Crime",
+        "Mistero",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 138,
+      "tagline": "Tutto è sospetto ... Tutti sono in vendita ... E niente è come sembra.",
+      "cast": [
+        "Kevin Spacey (Jack Vincennes)",
+        "Russell Crowe (Wendell 'Bud' White)",
+        "Guy Pearce (Edmund 'Ed' Exley)",
+        "James Cromwell (Dudley Smith)",
+        "Kim Basinger (Lynn Bracken)",
+        "Danny DeVito (Sid Hudgens)"
+      ],
+      "tramaTmdb": "Nella Los Angeles degli anni 50 si intrecciano numerose storie all'interno e al di fuori del locale distretto di polizia: protagonisti i detective Jack Vincennes (un vero e proprio divo televisivo), Ed Exley, ambizioso e pronto a far dichiarazioni sui suoi colleghi, e Bud White, che indaga sui rapporti tra malavita e forze dell'ordine e incontra Lynn, una copia in carne ed ossa di Veronika Lake che lavora in un giro ben poco raccomandabile di \"attrici\"...",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "L.A. Confidential|459|Curtis Hanson"
+    },
+    {
+      "id": "tmdb-82696",
+      "tmdbId": 82696,
+      "imdbId": "tt1535438",
+      "origine": "scoperta",
+      "titolo": "Il matrimonio che vorrei",
+      "titoloOriginale": "Hope Springs",
+      "anno": "2012",
+      "uscitaItalia": "2012-10-18",
+      "regia": "David Frankel",
+      "generi": [
+        "Dramma",
+        "Commedia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 100,
+      "tagline": "A volte, per mantenere la magia, devi imparare qualche trucco.",
+      "cast": [
+        "Meryl Streep (Kay)",
+        "Tommy Lee Jones (Arnold Soames)",
+        "Steve Carell (Dr. Bernie Feld)",
+        "Jean Smart (Eileen, Kay's Friend)",
+        "Marin Ireland (Molly, Their Daughter)",
+        "Ben Rappaport (Brad, Their Son)"
+      ],
+      "tramaTmdb": "Kay e Arnold sono una coppia solida, ma decine d’anni di matrimonio hanno lasciato nella donna il desiderio di ravvivare un po’ le cose e di ritrovare intimità con il marito. Quando viene a sapere dell’esistenza di un rinomato terapeuta di coppia nella cittadina di Great Hope Springs, Kay cerca di persuadere il suo scettico marito, un uomo schivo e abitudinario, a salire su un aereo per andare a trascorrere una settimana intensiva di terapia di coppia. Già solo convincere il testardo Arnold a sperimentare questo singolare “ritiro” è un’impresa, ma la vera sfida per entrambi arriverà quando cer",
+      "motivi": [
+        "regia di David Frankel, di cui hai visto un film",
+        "regia di David Frankel, che segui"
+      ],
+      "impronta": "Il matrimonio che vorrei|600|David Frankel"
     }
   ]
 }
