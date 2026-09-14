@@ -1,94 +1,96 @@
 {
-  "aggiornato": "2026-09-13T05:06:57.005Z",
-  "giorno": "2026-09-13",
+  "aggiornato": "2026-09-14T05:06:22.978Z",
+  "giorno": "2026-09-14",
   "film": [
     {
-      "tmdbId": 975,
-      "imdbId": "tt0050825",
-      "title": "Orizzonti di gloria",
-      "originalTitle": "Paths of Glory",
-      "release": "1958-01-22",
+      "tmdbId": 395991,
+      "imdbId": "tt3829920",
+      "title": "Fire Squad - Incubo di fuoco",
+      "originalTitle": "Only the Brave",
+      "release": "2018-08-22",
       "releaseFonte": "IT",
       "genres": [
-        "Guerra",
-        "Dramma"
+        "Dramma",
+        "Storia"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 86,
-      "plot": "Durante la Prima Guerra Mondiale, per uno stupido puntiglio, un generale francese ordina un attacco a una postazione tedesca praticamente inespugnabile. Il colonnello Dax, ufficiale coraggioso e onesto, capisce la follia dell'ordine e cerca di evitare la carneficina, ma, di fronte all'ottusità dei suoi superiori, è costretto a eseguire i comandi. L'assalto, naturalmente, fallisce, ma non è tutto: il tronfio generale fa fucilare tre soldati per vigliaccheria.",
-      "tagline": "Esplora la terra di nessuno che nessun film ha mai osato attraversare prima!",
-      "poster": "/q77lgcbE2Iuzp97AsZzViUTNvJ3.jpg",
-      "backdrop": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
-      "director": "Stanley Kubrick",
+      "runtime": 133,
+      "plot": "Basato sulla vera storia dei Granite Mountain Hotshots, narra dell’eroica storia di un’unità locale di pompieri che con speranza, determinazione, sacrificio e di voglia di proteggere famiglie, comunità e il paese, diventò una delle più importanti unità d’élite della nazione. Mentre molti di noi cercano di sfuggire al pericolo, loro lo fronteggiarono, proteggendo le nostre vite, le nostre case e le cose a noi più care, rivelando un incredibile spirito di corpo che venne fuori durante un fatale incendio.",
+      "tagline": "Solo i coraggiosi",
+      "poster": "/dMvn4EJKbUaGwU10r6B7CaEBtiM.jpg",
+      "backdrop": "/zaX6d5GCtb2CmOH9jrHBl58xxBY.jpg",
+      "director": "Joseph Kosinski",
       "cast": [
-        "Kirk Douglas",
-        "Ralph Meeker",
-        "Adolphe Menjou",
-        "George Macready",
-        "Wayne Morris"
+        "Josh Brolin",
+        "Miles Teller",
+        "Jeff Bridges",
+        "Jennifer Connelly",
+        "James Badge Dale"
       ],
       "castDetail": [
         {
-          "name": "Kirk Douglas",
-          "character": "Col. Dax",
-          "profile": "/t94It9bPI6uBvNuuQlQipyYyURC.jpg"
+          "name": "Josh Brolin",
+          "character": "Eric Marsh",
+          "profile": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
         },
         {
-          "name": "Ralph Meeker",
-          "character": "Cpl. Philippe Paris",
-          "profile": "/3gxXZRouc813WFmA6zVUl3ciq0P.jpg"
+          "name": "Miles Teller",
+          "character": "Brendan 'Donut' McDonough",
+          "profile": "/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
         },
         {
-          "name": "Adolphe Menjou",
-          "character": "Gen. George Broulard",
-          "profile": "/88FfjxT3cFDIbCIK0UmwyjEF6tU.jpg"
+          "name": "Jeff Bridges",
+          "character": "Duane Steinbrink",
+          "profile": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
         },
         {
-          "name": "George Macready",
-          "character": "Gen. Paul Mireau",
-          "profile": "/gGtegV82TMbcd5psHx6w7by5FgO.jpg"
+          "name": "Jennifer Connelly",
+          "character": "Amanda Marsh",
+          "profile": "/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
         },
         {
-          "name": "Wayne Morris",
-          "character": "Lt. Roget/Singing man",
-          "profile": "/2HFQHQrPdlr8eRca5x9BAfeQnjc.jpg"
+          "name": "James Badge Dale",
+          "character": "Jesse Steed",
+          "profile": "/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
         },
         {
-          "name": "Richard Anderson",
-          "character": "Maj. Saint-Auban",
-          "profile": "/eNVusMxsfee5t79jXbYBP8JnVvm.jpg"
+          "name": "Taylor Kitsch",
+          "character": "Christopher MacKenzie",
+          "profile": "/pTFkwvE2URbbftiaofexfolhkH9.jpg"
         },
         {
-          "name": "Joe Turkel",
-          "character": "Pvt. Pierre Arnaud",
-          "profile": "/rqpNzjLFCoMrvGSf6SIL5JnWwMT.jpg"
+          "name": "Alex Russell",
+          "character": "Andrew Ashcraft",
+          "profile": "/6ICuiVBMCCY2phrHXpXftoKHqM2.jpg"
         },
         {
-          "name": "Christiane Kubrick",
-          "character": "German Singer",
-          "profile": "/vAMX00LJH0B38o5mCNCKn6DDdEI.jpg"
+          "name": "Andie MacDowell",
+          "character": "Marvel Steinbrink",
+          "profile": "/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
         }
       ],
-      "tmdbRating": 8.251,
-      "tmdbVotes": 3368,
-      "popularity": 7.9365,
-      "trailer": "https://www.youtube.com/watch?v=FESvZ0HG2p4",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
+      "tmdbRating": 7.481,
+      "tmdbVotes": 1943,
+      "popularity": 8.3883,
+      "trailer": "https://www.youtube.com/watch?v=noyK87zFEnI",
+      "fonte": "regia di Joseph Kosinski, che segui",
+      "categoria": "qualcuno che segui",
+      "perche": "regia di Joseph Kosinski, di cui hai visto 2 film",
       "motivi": [
-        "un classico che ti manca"
+        "regia di Joseph Kosinski, di cui hai visto 2 film",
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "regia di Joseph Kosinski, che segui"
       ],
-      "proposto": "2026-09-13"
+      "proposto": "2026-09-14"
     },
     {
-      "tmdbId": 522924,
-      "imdbId": "tt1478839",
-      "title": "Attraverso i miei occhi",
-      "originalTitle": "The Art of Racing in the Rain",
-      "release": "2019-11-07",
+      "tmdbId": 289,
+      "imdbId": "tt0034583",
+      "title": "Casablanca",
+      "originalTitle": "Casablanca",
+      "release": "1946-10-03",
       "releaseFonte": "IT",
       "genres": [
         "Dramma",
@@ -97,750 +99,763 @@
       "countries": [
         "USA"
       ],
-      "runtime": 109,
-      "plot": "Un cane chiamato Enzo ricorda le lezioni di vita che ha impartito e imparato. Dallo spirito intrepido e avventuroso, Enzo ha incrociato lungo il suo cammino Denny Swift, un giovane che ha dedicato la sua esistenza al mondo dei motori e che sembra destinato a un futuro roseo come pilota di auto da corsa.",
-      "tagline": null,
-      "poster": "/8321nRYpGd19Usp21PtCt1S7Qru.jpg",
-      "backdrop": "/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
-      "director": "Simon Curtis",
+      "runtime": 102,
+      "plot": "Nel principale porto del Marocco nel 1941 si incontrano poliziotti francesi, spie naziste, fuoriusciti antifascisti, avventurieri di rango, piccoli sciacalli. L'americano Rick Blaine, proprietario di un bar, aiuta Ilsa, la donna che amava (e ama ancora) e suo marito, perseguitato politico, a lasciare in aereo la città.",
+      "tagline": "Avevano un appuntamento con il destino a Casablanca!",
+      "poster": "/cdD6aBaiApx0n6cIYEDkSA5vNSv.jpg",
+      "backdrop": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+      "director": "Michael Curtiz",
       "cast": [
-        "Kevin Costner",
-        "Milo Ventimiglia",
-        "Amanda Seyfried",
-        "Ryan Kiera Armstrong",
-        "Lily Dodsworth-Evans"
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid",
+        "Claude Rains",
+        "Conrad Veidt"
       ],
       "castDetail": [
         {
-          "name": "Kevin Costner",
-          "character": "Enzo (voice)",
-          "profile": "/608blZipRDZkDpzp8VItB64qMaT.jpg"
+          "name": "Humphrey Bogart",
+          "character": "Rick Blaine",
+          "profile": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
         },
         {
-          "name": "Milo Ventimiglia",
-          "character": "Denny Swift",
-          "profile": "/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg"
+          "name": "Ingrid Bergman",
+          "character": "Ilsa Lund",
+          "profile": "/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
         },
         {
-          "name": "Amanda Seyfried",
-          "character": "Avery \"Eve\" Swift",
-          "profile": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+          "name": "Paul Henreid",
+          "character": "Victor Laszlo",
+          "profile": "/kqlDSharpQjqeNVS5BZkqqJl3ZF.jpg"
         },
         {
-          "name": "Ryan Kiera Armstrong",
-          "character": "Zoë Swift",
-          "profile": "/fBToPwwvEWHw9MhRzZP1packFDi.jpg"
+          "name": "Claude Rains",
+          "character": "Captain Louis Renault",
+          "profile": "/fcM7Xfs0lWBw8TDjcFSLosX2YAD.jpg"
         },
         {
-          "name": "Lily Dodsworth-Evans",
-          "character": "17-Year-Old Zoë",
-          "profile": "/oaij4943rI7ro3mXfmDGQgffj8b.jpg"
+          "name": "Conrad Veidt",
+          "character": "Major Heinrich Strasser",
+          "profile": "/rmlK341dwK57BVWz1S96tpv7SSF.jpg"
         },
         {
-          "name": "Ian Lake",
-          "character": "Mike",
-          "profile": "/f8FK8fiDSq7qUtITo2wdMjbB8c5.jpg"
+          "name": "Sydney Greenstreet",
+          "character": "Signor Ferrari",
+          "profile": "/67bcDUjZEXrTpOTejsweP53KQGV.jpg"
         },
         {
-          "name": "Martin Donovan",
-          "character": "Maxwell",
-          "profile": "/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+          "name": "Peter Lorre",
+          "character": "Ugarte",
+          "profile": "/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
         },
         {
-          "name": "Kathy Baker",
-          "character": "Trish",
-          "profile": "/34zuI0qWTD5jdqmJRtPwaW70JcQ.jpg"
+          "name": "S.Z. Sakall",
+          "character": "Carl",
+          "profile": "/AviTmjTn7MUezntky2YqBUh9Jiu.jpg"
         }
       ],
-      "tmdbRating": 8.155,
-      "tmdbVotes": 1722,
-      "popularity": 8.1387,
-      "trailer": "https://www.youtube.com/watch?v=_lNxFo97ck4",
+      "tmdbRating": 8.1,
+      "tmdbVotes": 6211,
+      "popularity": 10.7097,
+      "trailer": "https://www.youtube.com/watch?v=ZT4T_H1Gf9Y",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-09-14"
+    },
+    {
+      "tmdbId": 5156,
+      "imdbId": "tt0040522",
+      "title": "Ladri di biciclette",
+      "originalTitle": "Ladri di biciclette",
+      "release": "1948-11-24",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma"
+      ],
+      "countries": [
+        "Italia"
+      ],
+      "runtime": 92,
+      "plot": "Dopo il furto della propria bicicletta, mezzo che gli permetteva di lavorare, un uomo vaga per la città con tutta la famiglia sperando di poterla ritrovare. Preso dalla disperazione non gli resta che rubarne una a sua volta ma viene bloccato dalla polizia, a questo punto il derubato commuovendosi lo lascia andare...",
+      "tagline": "A tutto si rimedia, meno che alla morte.",
+      "poster": "/wgQ2WD0mIgCjIkKvUea6oWXZ95B.jpg",
+      "backdrop": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+      "director": "Vittorio De Sica",
+      "cast": [
+        "Lamberto Maggiorani",
+        "Enzo Staiola",
+        "Lianella Carell",
+        "Gino Saltamerenda",
+        "Vittorio Antonucci"
+      ],
+      "castDetail": [
+        {
+          "name": "Lamberto Maggiorani",
+          "character": "Antonio",
+          "profile": "/qp3oZcD8UwTGRg1GiMMOyWLwSaX.jpg"
+        },
+        {
+          "name": "Enzo Staiola",
+          "character": "Bruno",
+          "profile": "/k64j9HlXiHIn0DJOUX9Uk8MCtAw.jpg"
+        },
+        {
+          "name": "Lianella Carell",
+          "character": "Maria",
+          "profile": "/dbLf4dnEpapogvOYoe6Mm5rbWbG.jpg"
+        },
+        {
+          "name": "Gino Saltamerenda",
+          "character": "Baiocco",
+          "profile": "/xGSWaSgVYBTC2meKANoZp9JrM9S.jpg"
+        },
+        {
+          "name": "Vittorio Antonucci",
+          "character": "Alfredo Catelli, The Thief",
+          "profile": "/uIWKAPeLJzfVvUawLOAM8DKWntA.jpg"
+        },
+        {
+          "name": "Giulio Chiari",
+          "character": "The Beggar",
+          "profile": "/cQQiRWDh2w14TMrxBIgdUOlctP.jpg"
+        },
+        {
+          "name": "Elena Altieri",
+          "character": "The Charitable Lady",
+          "profile": "/pHGnV083CrEWuJgq8EH6WdpzBxU.jpg"
+        },
+        {
+          "name": "Carlo Jachino",
+          "character": "A Beggar",
+          "profile": null
+        }
+      ],
+      "tmdbRating": 8.162,
+      "tmdbVotes": 2740,
+      "popularity": 5.8609,
+      "trailer": "https://www.youtube.com/watch?v=_I_LgU9Hw5s",
       "fonte": "dramma: il tuo terreno",
       "categoria": "il tuo genere",
       "perche": "dramma: il tuo terreno",
       "motivi": [
         "dramma: il tuo terreno"
       ],
-      "proposto": "2026-09-13"
+      "proposto": "2026-09-14"
     },
     {
-      "tmdbId": 755898,
-      "imdbId": "tt13186306",
-      "title": "La guerra dei mondi",
-      "originalTitle": "War of the Worlds",
-      "release": "2025-07-29",
-      "releaseFonte": "globale",
-      "genres": [
-        "Fantascienza",
-        "Thriller"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 91,
-      "plot": "",
-      "tagline": null,
-      "poster": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
-      "backdrop": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "director": "Rich Lee",
-      "cast": [
-        "Ice Cube",
-        "Eva Longoria",
-        "Clark Gregg",
-        "Iman Benson",
-        "Henry Hunter Hall"
-      ],
-      "castDetail": [
-        {
-          "name": "Ice Cube",
-          "character": "William Radford",
-          "profile": "/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
-        },
-        {
-          "name": "Eva Longoria",
-          "character": "NASA Scientist Sandra Salas",
-          "profile": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
-        },
-        {
-          "name": "Clark Gregg",
-          "character": "NSA Director Donald Briggs",
-          "profile": "/mq686D91XoZpqkzELn0888NOiZW.jpg"
-        },
-        {
-          "name": "Iman Benson",
-          "character": "Faith Radford",
-          "profile": "/6s8Cyc4rxDRpX1vYnczU52RM4IM.jpg"
-        },
-        {
-          "name": "Henry Hunter Hall",
-          "character": "David Radford",
-          "profile": "/qZEv8RIGC9yLwY29Vo4KQzpO9Dt.jpg"
-        },
-        {
-          "name": "Devon Bostick",
-          "character": "Mark Goodman",
-          "profile": "/fO1LaBwXX0AIy5JOCdvA1DAJfnK.jpg"
-        },
-        {
-          "name": "Andrea Savage",
-          "character": "FBI Field Agent Sheila Jeffries",
-          "profile": "/dh2prcwPU9U1PBdCNu5SSd4Of9j.jpg"
-        },
-        {
-          "name": "Nicole Pulliam",
-          "character": "News Reporter",
-          "profile": "/XcJAw0P7bPE9ET52P4fZ2hdokk.jpg"
-        }
-      ],
-      "tmdbRating": 4.016,
-      "tmdbVotes": 1130,
-      "popularity": 90.0166,
-      "trailer": "https://www.youtube.com/watch?v=d9erkpdh5o0",
-      "fonte": "se ne parla adesso",
-      "categoria": "di tendenza",
-      "perche": "se ne parla adesso",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "proposto": "2026-09-13"
-    },
-    {
-      "tmdbId": 603,
-      "imdbId": "tt0133093",
-      "title": "Matrix",
-      "originalTitle": "The Matrix",
-      "release": "1999-05-07",
+      "tmdbId": 20526,
+      "imdbId": "tt1104001",
+      "title": "TRON: Legacy",
+      "originalTitle": "TRON: Legacy",
+      "release": "2010-12-29",
       "releaseFonte": "IT",
       "genres": [
+        "Avventura",
         "Azione",
         "Fantascienza"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 136,
-      "plot": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e de",
-      "tagline": "Credete all'incredibile.",
-      "poster": "/yQZX4scmfYtj4ccKFNGZJlOj1y9.jpg",
-      "backdrop": "/lrtSb1skJayPydZk0OSMAKjBOVe.jpg",
-      "director": "Lana Wachowski",
+      "runtime": 125,
+      "plot": "Sam Flynn, esperto di tecnologia e figlio ventisettenne di Kevin Flynn, indaga sulla scomparsa del padre e si trova sospinto nello stesso mondo di programmi killer e potenti videogame in cui il padre è vissuto per 25 anni. Insieme a una fedele confidente, padre e figlio s'imbarcano in un viaggio ai limiti della vita e della morte in un cyber universo estremamente avanzato e pericoloso.",
+      "tagline": "l gioco è cambiato.",
+      "poster": "/sWmlzpFdFpXkVp3qYXjapWq6zHI.jpg",
+      "backdrop": "/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
+      "director": "Joseph Kosinski",
       "cast": [
-        "Keanu Reeves",
-        "Laurence Fishburne",
-        "Carrie-Anne Moss",
-        "Hugo Weaving",
-        "Gloria Foster"
+        "Garrett Hedlund",
+        "Olivia Wilde",
+        "Jeff Bridges",
+        "Bruce Boxleitner",
+        "James Frain"
       ],
       "castDetail": [
         {
-          "name": "Keanu Reeves",
-          "character": "Neo",
-          "profile": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+          "name": "Garrett Hedlund",
+          "character": "Sam Flynn",
+          "profile": "/9zec61HuFJgiUEzPSt0NfPIj0Xv.jpg"
         },
         {
-          "name": "Laurence Fishburne",
-          "character": "Morpheus",
-          "profile": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+          "name": "Olivia Wilde",
+          "character": "Quorra",
+          "profile": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
         },
         {
-          "name": "Carrie-Anne Moss",
-          "character": "Trinity",
-          "profile": "/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+          "name": "Jeff Bridges",
+          "character": "Kevin Flynn / Clu",
+          "profile": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
         },
         {
-          "name": "Hugo Weaving",
-          "character": "Agent Smith",
-          "profile": "/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+          "name": "Bruce Boxleitner",
+          "character": "Alan Bradley / Tron",
+          "profile": "/1x99F4oJTFAFY2HR4PbQdxiGyMH.jpg"
         },
         {
-          "name": "Gloria Foster",
-          "character": "Oracle",
-          "profile": "/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
+          "name": "James Frain",
+          "character": "Jarvis",
+          "profile": "/1KnxsxRbVZkh5bdY3gA8v4YKhKR.jpg"
         },
         {
-          "name": "Joe Pantoliano",
-          "character": "Cypher",
-          "profile": "/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+          "name": "Beau Garrett",
+          "character": "Gem",
+          "profile": "/Avwi2Brbb6GgxrU337u6zAbGvj.jpg"
         },
         {
-          "name": "Marcus Chong",
-          "character": "Tank",
-          "profile": "/q9HQttibTj2MoXVtLjq2kKqmPrE.jpg"
+          "name": "Michael Sheen",
+          "character": "Castor / Zuse",
+          "profile": "/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
         },
         {
-          "name": "Julian Arahanga",
-          "character": "Apoc",
-          "profile": "/g2YkF3PWSJU1vTKuURBH0DOMblm.jpg"
+          "name": "Anis Cheurfa",
+          "character": "Rinzler",
+          "profile": "/sToFORAIVPHffNHKcsIYjEISMv0.jpg"
         }
       ],
-      "tmdbRating": 8.258,
-      "tmdbVotes": 28697,
-      "popularity": 47.943,
-      "trailer": "https://www.youtube.com/watch?v=ECEgpFPVFns",
+      "tmdbRating": 6.548,
+      "tmdbVotes": 8142,
+      "popularity": 12.0082,
+      "trailer": "https://www.youtube.com/watch?v=2FEyZS1IJzA",
+      "fonte": "regia di Joseph Kosinski, che segui",
+      "categoria": "qualcuno che segui",
+      "perche": "regia di Joseph Kosinski, di cui hai visto 2 film",
+      "motivi": [
+        "regia di Joseph Kosinski, di cui hai visto 2 film",
+        "regia di Joseph Kosinski, che segui"
+      ],
+      "proposto": "2026-09-14"
+    },
+    {
+      "tmdbId": 980431,
+      "imdbId": "tt18259538",
+      "title": "Avatar Aang: L’ultimo dominatore dell’aria",
+      "originalTitle": "Avatar Aang: The Last Airbender",
+      "release": "2026-07-24",
+      "releaseFonte": "globale",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Fantasy",
+        "Azione"
+      ],
+      "countries": [
+        "USA",
+        "Corea del Sud",
+        "Australia"
+      ],
+      "runtime": 100,
+      "plot": "L'Avatar Aang, l'ultimo dominatore dell'aria, scopre un antico potere che potrebbe salvare la sua civiltà dall'estinzione. Insieme ai suoi amici, deve trovarlo prima che cada nelle mani sbagliate e distrugga la pace per cui hanno sacrificato tutto.",
+      "tagline": "La leggenda si risveglia",
+      "poster": "/nOmKZmxMX9xdDnvlId9kIV4TBxI.jpg",
+      "backdrop": "/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+      "director": "Lauren Montgomery",
+      "cast": [
+        "Eric Nam",
+        "Dave Bautista",
+        "Jessica Matten",
+        "Román Zaragoza",
+        "Steven Yeun"
+      ],
+      "castDetail": [
+        {
+          "name": "Eric Nam",
+          "character": "Aang (voice)",
+          "profile": "/gEH0b5q9tupL49dmUFkjm9dnxP2.jpg"
+        },
+        {
+          "name": "Dave Bautista",
+          "character": "Tagah (voice)",
+          "profile": "/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+        },
+        {
+          "name": "Jessica Matten",
+          "character": "Katara (voice)",
+          "profile": "/EQsPxsav8AZmaeT3mpU3Evilee.jpg"
+        },
+        {
+          "name": "Román Zaragoza",
+          "character": "Sokka (voice)",
+          "profile": "/uWkOkSLqj2POMqkeLk5E5UJzebv.jpg"
+        },
+        {
+          "name": "Steven Yeun",
+          "character": "Zuko (voice)",
+          "profile": "/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+        },
+        {
+          "name": "Dionne Quan",
+          "character": "Toph (voice)",
+          "profile": "/vGe0bMTfYDX1Wcw9ZCfY3YCSgai.jpg"
+        },
+        {
+          "name": "Dee Bradley Baker",
+          "character": "Appa / Momo (voice)",
+          "profile": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+        },
+        {
+          "name": "Freida Pinto",
+          "character": "Avatar Sonam (voice)",
+          "profile": "/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+        }
+      ],
+      "tmdbRating": 9.148,
+      "tmdbVotes": 1116,
+      "popularity": 91.1521,
+      "trailer": "https://www.youtube.com/watch?v=V-m8z6E7AVU",
+      "fonte": "se ne parla adesso",
+      "categoria": "di tendenza",
+      "perche": "se ne parla adesso",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "proposto": "2026-09-14"
+    },
+    {
+      "tmdbId": 629,
+      "imdbId": "tt0114814",
+      "title": "I soliti sospetti",
+      "originalTitle": "The Usual Suspects",
+      "release": "1995-11-30",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Crime",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 105,
+      "plot": "Cinque criminali si ritrovano incomprensibilmente insieme in un confronto all'americana. Scopriranno che dietro a tutto c'è il re dei malfattori, Keyser Soze, che li costringerà a partecipare ad una missione suicida.",
+      "tagline": "Cinque criminali, un confronto, nessuna coincidenza.",
+      "poster": "/niMggxAW9Ig34cGL0ZITSNcjoeO.jpg",
+      "backdrop": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+      "director": "Bryan Singer",
+      "cast": [
+        "Stephen Baldwin",
+        "Gabriel Byrne",
+        "Benicio Del Toro",
+        "Kevin Pollak",
+        "Kevin Spacey"
+      ],
+      "castDetail": [
+        {
+          "name": "Stephen Baldwin",
+          "character": "McManus",
+          "profile": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg"
+        },
+        {
+          "name": "Gabriel Byrne",
+          "character": "Keaton",
+          "profile": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+        },
+        {
+          "name": "Benicio Del Toro",
+          "character": "Fenster",
+          "profile": "/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+        },
+        {
+          "name": "Kevin Pollak",
+          "character": "Hockney",
+          "profile": "/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+        },
+        {
+          "name": "Kevin Spacey",
+          "character": "Verbal",
+          "profile": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+        },
+        {
+          "name": "Chazz Palminteri",
+          "character": "Dave Kujan",
+          "profile": "/mCbjKVyE5B2tleshbJw44tw3ktZ.jpg"
+        },
+        {
+          "name": "Pete Postlethwaite",
+          "character": "Kobayashi",
+          "profile": "/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+        },
+        {
+          "name": "Suzy Amis",
+          "character": "Edie Finneran",
+          "profile": "/q8aPLY9CjCl7tp60neddbJl4ZfW.jpg"
+        }
+      ],
+      "tmdbRating": 8.164,
+      "tmdbVotes": 11725,
+      "popularity": 17.4139,
+      "trailer": "https://www.youtube.com/watch?v=uD_zVpEtwsQ",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "dramma: il tuo terreno",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "proposto": "2026-09-14"
+    },
+    {
+      "tmdbId": 382614,
+      "imdbId": "tt4572792",
+      "title": "Il libro di Henry",
+      "originalTitle": "The Book of Henry",
+      "release": "2017-11-23",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Thriller",
+        "Mistero"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 105,
+      "plot": "Susan Carpenter, madre single, scopre che il figlio, un vero genio, ha scritto un libro che contiene un piano per raddrizzare un terribile male che accade nella casa vicino alla sua. Tentando di mettere in atto quanto scritto, Susan scoprirà dentro di sé una nuova forza come genitrice.",
+      "tagline": null,
+      "poster": "/9gamJmVN8etgzDHKQ7WFd729ENY.jpg",
+      "backdrop": "/sYnrdolxonyMucMezj8PMVBRlVr.jpg",
+      "director": "Colin Trevorrow",
+      "cast": [
+        "Naomi Watts",
+        "Jaeden Martell",
+        "Jacob Tremblay",
+        "Sarah Silverman",
+        "Lee Pace"
+      ],
+      "castDetail": [
+        {
+          "name": "Naomi Watts",
+          "character": "Susan Carpenter",
+          "profile": "/7ysvff7ZhW388SIh2YjQ0XIryOn.jpg"
+        },
+        {
+          "name": "Jaeden Martell",
+          "character": "Henry Carpenter",
+          "profile": "/oR7ZJsOHMNFzM1HeugV4a4qCMSF.jpg"
+        },
+        {
+          "name": "Jacob Tremblay",
+          "character": "Peter Carpenter",
+          "profile": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+        },
+        {
+          "name": "Sarah Silverman",
+          "character": "Sheila",
+          "profile": "/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+        },
+        {
+          "name": "Lee Pace",
+          "character": "Dr. David Daniels",
+          "profile": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+        },
+        {
+          "name": "Maddie Ziegler",
+          "character": "Christina",
+          "profile": "/uYMtRyQS78el5XRLLnGBfMhVhif.jpg"
+        },
+        {
+          "name": "Dean Norris",
+          "character": "Glenn Sickleman",
+          "profile": "/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+        },
+        {
+          "name": "Bobby Moynihan",
+          "character": "John",
+          "profile": "/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+        }
+      ],
+      "tmdbRating": 7.472,
+      "tmdbVotes": 1379,
+      "popularity": 3.0018,
+      "trailer": "https://www.youtube.com/watch?v=Nd60i3ZnLOE",
+      "fonte": "regia di Colin Trevorrow, che segui",
+      "categoria": "qualcuno che segui",
+      "perche": "regia di Colin Trevorrow, di cui hai visto 2 film",
+      "motivi": [
+        "regia di Colin Trevorrow, di cui hai visto 2 film",
+        "regia di Colin Trevorrow, che segui"
+      ],
+      "proposto": "2026-09-14"
+    },
+    {
+      "tmdbId": 118340,
+      "imdbId": "tt2015381",
+      "title": "Guardiani della Galassia",
+      "originalTitle": "Guardians of the Galaxy",
+      "release": "2014-10-22",
+      "releaseFonte": "IT",
+      "genres": [
+        "Azione",
+        "Fantascienza",
+        "Avventura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 122,
+      "plot": "L'audace esploratore Peter Quill è inseguito dai cacciatori di taglie per aver rubato una misteriosa sfera ambita da Ronan, un essere malvagio la cui sfrenata ambizione minaccia l'intero universo. Per sfuggire all’ostinato Ronan, Quill è costretto a una scomoda alleanza con quattro improbabili personaggi: Rocket, un procione armato; Groot, un umanoide dalle sembianze di un albero; la letale ed enigmatica Gamora e il vendicativo Drax il Distruttore. Ma quando Quill scopre il vero potere della sfera e la minaccia che costituisce per il cosmo, farà di tutto per guidare questa squadra improvvisata",
+      "tagline": "Tutti gli eroi iniziano da qualche parte.",
+      "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
+      "backdrop": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+      "director": "James Gunn",
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista",
+        "Vin Diesel",
+        "Bradley Cooper"
+      ],
+      "castDetail": [
+        {
+          "name": "Chris Pratt",
+          "character": "Peter Quill",
+          "profile": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+        },
+        {
+          "name": "Zoe Saldaña",
+          "character": "Gamora",
+          "profile": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        },
+        {
+          "name": "Dave Bautista",
+          "character": "Drax",
+          "profile": "/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+        },
+        {
+          "name": "Vin Diesel",
+          "character": "Groot (voice)",
+          "profile": "/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+        },
+        {
+          "name": "Bradley Cooper",
+          "character": "Rocket (voice)",
+          "profile": "/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+        },
+        {
+          "name": "Lee Pace",
+          "character": "Ronan",
+          "profile": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+        },
+        {
+          "name": "Michael Rooker",
+          "character": "Yondu Udonta",
+          "profile": "/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+        },
+        {
+          "name": "Karen Gillan",
+          "character": "Nebula",
+          "profile": "/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+        }
+      ],
+      "tmdbRating": 7.907,
+      "tmdbVotes": 30285,
+      "popularity": 13.4793,
+      "trailer": "https://www.youtube.com/watch?v=PYcgR4iP8r8",
+      "fonte": "c'è Chris Pratt, che hai visto 4 volte",
+      "categoria": "qualcuno che segui",
+      "perche": "c'è Chris Pratt, che hai visto 4 volte",
+      "motivi": [
+        "c'è Chris Pratt, che hai visto 4 volte",
+        "c'è Chris Pratt, che hai visto 4 volte"
+      ],
+      "proposto": "2026-09-14"
+    },
+    {
+      "tmdbId": 489,
+      "imdbId": "tt0119217",
+      "title": "Will Hunting - Genio ribelle",
+      "originalTitle": "Good Will Hunting",
+      "release": "1998-03-06",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 126,
+      "plot": "Will Hunting è un ragazzo orfano dedito a piccoli furti, ma con grandi capacità per la matematica. Queste doti vengono notate da un professore universitario, che mandandolo da un suo amico psichiatra cerca di aiutarlo a togliersi dalla strada.",
+      "tagline": "Selvaggio. Geniale. Ribelle. Nei primi vent'anni della sua vita Will Hunting ha ignorato ogni regola, ora sta per incontrare chi gli può tenere testa.",
+      "poster": "/6WreRnpotk4sC7SD4SMTAGZWUGl.jpg",
+      "backdrop": "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
+      "director": "Gus Van Sant",
+      "cast": [
+        "Matt Damon",
+        "Robin Williams",
+        "Ben Affleck",
+        "Stellan Skarsgård",
+        "Minnie Driver"
+      ],
+      "castDetail": [
+        {
+          "name": "Matt Damon",
+          "character": "Will Hunting",
+          "profile": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        },
+        {
+          "name": "Robin Williams",
+          "character": "Sean Maguire",
+          "profile": "/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+        },
+        {
+          "name": "Ben Affleck",
+          "character": "Chuckie Sullivan",
+          "profile": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+          "name": "Stellan Skarsgård",
+          "character": "Gerald Lambeau",
+          "profile": "/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+        },
+        {
+          "name": "Minnie Driver",
+          "character": "Skylar",
+          "profile": "/2uwaHwpoutbXMuYY5v2dhWU0hml.jpg"
+        },
+        {
+          "name": "Casey Affleck",
+          "character": "Morgan O'Mally",
+          "profile": "/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+        },
+        {
+          "name": "Cole Hauser",
+          "character": "Billy McBride",
+          "profile": "/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+        },
+        {
+          "name": "Vik Sahay",
+          "character": "MIT Student",
+          "profile": "/690bPfmzaXsrZ1eDcUOCDT5TPpq.jpg"
+        }
+      ],
+      "tmdbRating": 8.167,
+      "tmdbVotes": 14289,
+      "popularity": 21.0027,
+      "trailer": "https://www.youtube.com/watch?v=mjaL4-VpiaQ",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "c'è Matt Damon, che hai visto 2 volte",
+      "motivi": [
+        "c'è Matt Damon, che hai visto 2 volte",
+        "dramma: il tuo terreno"
+      ],
+      "proposto": "2026-09-14"
+    },
+    {
+      "tmdbId": 426,
+      "imdbId": "tt0052357",
+      "title": "La donna che visse due volte",
+      "originalTitle": "Vertigo",
+      "release": "1958-12-18",
+      "releaseFonte": "IT",
+      "genres": [
+        "Mistero",
+        "Romance",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 128,
+      "plot": "A causa delle sue vertigini, l'agente Ferguson è a riposo per non aver impedito un incidente mortale a un collega. Un amico gli chiede di sorvegliare sua moglie, che ha manie suicide. Di fronte a Ferguson, paralizzato dalle vertigini, la donna si butta da un campanile, o almeno così crede il povero agente. Ma un giorno un incontro casuale rimette tutto in gioco.",
+      "tagline": null,
+      "poster": "/5Aae7GBLVvuCPHlWDhvswcxuaZv.jpg",
+      "backdrop": "/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes",
+        "Tom Helmore",
+        "Henry Jones"
+      ],
+      "castDetail": [
+        {
+          "name": "James Stewart",
+          "character": "Det. John 'Scottie' Ferguson",
+          "profile": "/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg"
+        },
+        {
+          "name": "Kim Novak",
+          "character": "Madeleine Elster / Judy Barton",
+          "profile": "/wQYlkzNBJkvFAY3R0FQZfwLhTDx.jpg"
+        },
+        {
+          "name": "Barbara Bel Geddes",
+          "character": "Marjorie 'Midge' Wood",
+          "profile": "/99XLCtElLhFY7F7WwO6W4vigrN7.jpg"
+        },
+        {
+          "name": "Tom Helmore",
+          "character": "Gavin Elster",
+          "profile": "/aEKwGuDjktdF13YBrEAQjC7Te2m.jpg"
+        },
+        {
+          "name": "Henry Jones",
+          "character": "Coroner",
+          "profile": "/shJyQYEvp9P66ikDgzyGph7YguL.jpg"
+        },
+        {
+          "name": "Raymond Bailey",
+          "character": "Scottie's Doctor",
+          "profile": "/wM6u14GHDOvWfT4XAP8PARA60qj.jpg"
+        },
+        {
+          "name": "Ellen Corby",
+          "character": "Manager of McKittrick Hotel",
+          "profile": "/sf45aqBW2iYSnWU1aTGozEemMby.jpg"
+        },
+        {
+          "name": "Konstantin Shayne",
+          "character": "Pop Leibel",
+          "profile": "/cWSabUme2MxFDwdQ9aeEYf141bo.jpg"
+        }
+      ],
+      "tmdbRating": 8.131,
+      "tmdbVotes": 6493,
+      "popularity": 10.8322,
+      "trailer": "https://www.youtube.com/watch?v=f4mUkv1HJ3I",
       "fonte": "un classico che ti manca",
       "categoria": "un classico",
       "perche": "un classico che ti manca",
       "motivi": [
         "un classico che ti manca"
       ],
-      "proposto": "2026-09-13"
-    },
-    {
-      "tmdbId": 350,
-      "imdbId": "tt0458352",
-      "title": "Il diavolo veste Prada",
-      "originalTitle": "The Devil Wears Prada",
-      "release": "2006-10-13",
-      "releaseFonte": "IT",
-      "genres": [
-        "Dramma",
-        "Commedia"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 109,
-      "plot": "Dopo essersi laureata con successo nella cittadina di provincia nella quale ha sempre vissuto, Andy si trasferisce a New York dove riesce ad essere assunta come assistente di Miranda Priestly, direttrice di Runaway, rivista di moda per eccellenza, che detta legge anche agli stilisti. I modi dispotici di Miranda e la mancanza di feeling con le ambiziosissime colleghe impongono ad Andy di cambiare se stessa tanto nell'aspetto, quanto nell'animo, per poter sopravvivere alla giungla dell'ambiente di lavoro. Pian piano conquista la fiducia di Miranda, a scapito delle amicizie e dell'amore...",
-      "tagline": "Un lavoro da amare. Un capo da odiare.",
-      "poster": "/34r7kwVQh9UDGgAkA1EBDUWn7Sx.jpg",
-      "backdrop": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
-      "director": "David Frankel",
-      "cast": [
-        "Meryl Streep",
-        "Anne Hathaway",
-        "Emily Blunt",
-        "Stanley Tucci",
-        "Simon Baker"
-      ],
-      "castDetail": [
-        {
-          "name": "Meryl Streep",
-          "character": "Miranda Priestly",
-          "profile": "/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
-        },
-        {
-          "name": "Anne Hathaway",
-          "character": "Andy Sachs",
-          "profile": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
-        },
-        {
-          "name": "Emily Blunt",
-          "character": "Emily",
-          "profile": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
-        },
-        {
-          "name": "Stanley Tucci",
-          "character": "Nigel",
-          "profile": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
-        },
-        {
-          "name": "Simon Baker",
-          "character": "Christian Thompson",
-          "profile": "/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
-        },
-        {
-          "name": "Adrian Grenier",
-          "character": "Nate",
-          "profile": "/ghSzUkiw7OjRq0poNOlCjbXbdU6.jpg"
-        },
-        {
-          "name": "Tracie Thoms",
-          "character": "Lily",
-          "profile": "/9PKUJJtqFRbZDhme6uDzIu0mRIE.jpg"
-        },
-        {
-          "name": "Rich Sommer",
-          "character": "Doug",
-          "profile": "/cfbJ3nyiyRpSq2mLrbbrbg1k3Dh.jpg"
-        }
-      ],
-      "tmdbRating": 7.435,
-      "tmdbVotes": 14217,
-      "popularity": 28.1449,
-      "trailer": "https://www.youtube.com/watch?v=YaZ5T8P7aw0",
-      "fonte": "regia di David Frankel, che segui",
-      "categoria": "qualcuno che segui",
-      "perche": "regia di David Frankel, di cui hai visto un film",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "regia di David Frankel, che segui"
-      ],
-      "proposto": "2026-09-13"
-    },
-    {
-      "tmdbId": 64690,
-      "imdbId": "tt0780504",
-      "title": "Drive",
-      "originalTitle": "Drive",
-      "release": "2011-09-30",
-      "releaseFonte": "IT",
-      "genres": [
-        "Dramma",
-        "Thriller",
-        "Crime"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 100,
-      "plot": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di casa, e diventa amico di suo figlio Benicio. Irene però è sposata e quando il marito, Standard, esce dal carcere la situazione precipita. Perché Standard ha dei debiti con dei criminali i quali minaccia",
-      "tagline": null,
-      "poster": "/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
-      "backdrop": "/hoyAALgfmjMEK7O1wZ4r8wT91RP.jpg",
-      "director": "Nicolas Winding Refn",
-      "cast": [
-        "Ryan Gosling",
-        "Carey Mulligan",
-        "Bryan Cranston",
-        "Albert Brooks",
-        "Oscar Isaac"
-      ],
-      "castDetail": [
-        {
-          "name": "Ryan Gosling",
-          "character": "Driver",
-          "profile": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
-        },
-        {
-          "name": "Carey Mulligan",
-          "character": "Irene",
-          "profile": "/gmIwSz2XBwaadR9eksgYDLxEdCi.jpg"
-        },
-        {
-          "name": "Bryan Cranston",
-          "character": "Shannon",
-          "profile": "/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
-        },
-        {
-          "name": "Albert Brooks",
-          "character": "Bernie Rose",
-          "profile": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
-        },
-        {
-          "name": "Oscar Isaac",
-          "character": "Standard",
-          "profile": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
-        },
-        {
-          "name": "Christina Hendricks",
-          "character": "Blanche",
-          "profile": "/nwSh3NXQtUT3joHbCVwLvOoBxJG.jpg"
-        },
-        {
-          "name": "Ron Perlman",
-          "character": "Nino",
-          "profile": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
-        },
-        {
-          "name": "Kaden Leos",
-          "character": "Benicio",
-          "profile": "/5mp6qF9xLaRU3FC6aDqpMd8ptbB.jpg"
-        }
-      ],
-      "tmdbRating": 7.583,
-      "tmdbVotes": 13981,
-      "popularity": 13.5675,
-      "trailer": "https://www.youtube.com/watch?v=FWniGytawoQ",
-      "fonte": "c'è Ryan Gosling, che hai visto 3 volte",
-      "categoria": "qualcuno che segui",
-      "perche": "c'è Ryan Gosling, che hai visto 3 volte",
-      "motivi": [
-        "c'è Ryan Gosling, che hai visto 3 volte",
-        "c'è Ryan Gosling, che hai visto 3 volte"
-      ],
-      "proposto": "2026-09-13"
-    },
-    {
-      "tmdbId": 843847,
-      "imdbId": "tt8323668",
-      "title": "Jerry e Marge giocano alla lotteria",
-      "originalTitle": "Jerry & Marge Go Large",
-      "release": "2022-10-20",
-      "releaseFonte": "globale",
-      "genres": [
-        "Commedia",
-        "Dramma"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 96,
-      "plot": "La storia vera di Jerry e Marge Selbee, una coppia di pensionati di una piccola cittadina del Michigan che ha trovato un escamotage per vincere alla lotteria del Massachussetts e ha vinto ben 27 milioni di dollari, con i quali ha aiutato l'intera cittadina a migliorare le proprie condizioni.",
-      "tagline": null,
-      "poster": "/taphtO4k2KlkrwfC1A9Hxv1hpAf.jpg",
-      "backdrop": "/4OjoH07cxYQbnGiJzJxto0NUejH.jpg",
-      "director": "David Frankel",
-      "cast": [
-        "Bryan Cranston",
-        "Annette Bening",
-        "Rainn Wilson",
-        "Larry Wilmore",
-        "Michael McKean"
-      ],
-      "castDetail": [
-        {
-          "name": "Bryan Cranston",
-          "character": "Jerry Selbee",
-          "profile": "/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
-        },
-        {
-          "name": "Annette Bening",
-          "character": "Marge Selbee",
-          "profile": "/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
-        },
-        {
-          "name": "Rainn Wilson",
-          "character": "Bill",
-          "profile": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
-        },
-        {
-          "name": "Larry Wilmore",
-          "character": "Steve",
-          "profile": "/6Z55cIMHa50Wy3EEP8uCaK2sVGM.jpg"
-        },
-        {
-          "name": "Michael McKean",
-          "character": "Howard",
-          "profile": "/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
-        },
-        {
-          "name": "Jake McDorman",
-          "character": "Doug",
-          "profile": "/zjAyeIH98VIO6udwdlzeGWtbTfv.jpg"
-        },
-        {
-          "name": "Anna Camp",
-          "character": "Dawn",
-          "profile": "/32H0SJbTK3tvLVgf3X1aiaUdcxe.jpg"
-        },
-        {
-          "name": "Uly Schlesinger",
-          "character": "Tyler",
-          "profile": "/sip1Q8n3SUnF5WqA8mikwpXWiTl.jpg"
-        }
-      ],
-      "tmdbRating": 7.381,
-      "tmdbVotes": 510,
-      "popularity": 4.0871,
-      "trailer": "https://www.youtube.com/watch?v=z3tUqR4M0HU",
-      "fonte": "regia di David Frankel, che segui",
-      "categoria": "qualcuno che segui",
-      "perche": "regia di David Frankel, di cui hai visto un film",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
-      ],
-      "proposto": "2026-09-13"
-    },
-    {
-      "tmdbId": 19,
-      "imdbId": "tt0017136",
-      "title": "Metropolis",
-      "originalTitle": "Metropolis",
-      "release": "1928-10-01",
-      "releaseFonte": "IT",
-      "genres": [
-        "Dramma",
-        "Fantascienza"
-      ],
-      "countries": [
-        "Germania"
-      ],
-      "runtime": 150,
-      "plot": "Nel 2026 in una megalopoli a due livelli gli operai che lavorano come schiavi nei sotterranei sono incitati alla rivolta da un robot femmineo che riproduce le fattezze di una di loro, la mite e pia Maria. L'ha costruito uno scienziato al servizio dei padroni che vuole vendicarsi del potente John Fredersen, dominatore della città. La rivolta provoca un'inondazione che colpisce i quartieri operai finché, sollecitato da Maria, Freder, figlio di Fredersen, fa da mediatore tra padroni e operai. È nato un nuovo patto sociale. Realizzato nel 1926 a costi così alti che rischiarono di far fallire la UF",
-      "tagline": "Non ci può essere comprensione tra le mani e il cervello a meno che il cuore non agisca da mediatore.",
-      "poster": "/b9IVtOO89Ays4v0eWfADQ4Lq3wZ.jpg",
-      "backdrop": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
-      "director": "Fritz Lang",
-      "cast": [
-        "Gustav Fröhlich",
-        "Brigitte Helm",
-        "Alfred Abel",
-        "Rudolf Klein-Rogge",
-        "Theodor Loos"
-      ],
-      "castDetail": [
-        {
-          "name": "Gustav Fröhlich",
-          "character": "Freder Fredersen",
-          "profile": "/bkjDaorTT3LcOeTcQF1TDpBlHwt.jpg"
-        },
-        {
-          "name": "Brigitte Helm",
-          "character": "Maria / The Machine Man",
-          "profile": "/a7mwxoeF34BCxmteoHQSB1ENth0.jpg"
-        },
-        {
-          "name": "Alfred Abel",
-          "character": "Johann 'Joh' Fredersen",
-          "profile": "/dGk5r64zQZVHplTwRDZGpNkoCjc.jpg"
-        },
-        {
-          "name": "Rudolf Klein-Rogge",
-          "character": "C.A. Rotwang",
-          "profile": "/fbP75fGfXFQlkf3Q5oHbJ4wjG1g.jpg"
-        },
-        {
-          "name": "Theodor Loos",
-          "character": "Josaphat",
-          "profile": "/4NYdHddN0cg4598XOsRXiFlwulg.jpg"
-        },
-        {
-          "name": "Fritz Rasp",
-          "character": "The Thin Man",
-          "profile": "/6NnV7WF489FZqMYSVhm3tFHEQXe.jpg"
-        },
-        {
-          "name": "Erwin Biswanger",
-          "character": "No. 11811 - Georgy",
-          "profile": null
-        },
-        {
-          "name": "Heinrich George",
-          "character": "Grot",
-          "profile": "/gy4bpVG804KFIj6LCZJLWa93WmU.jpg"
-        }
-      ],
-      "tmdbRating": 8.085,
-      "tmdbVotes": 3193,
-      "popularity": 8.5946,
-      "trailer": "https://www.youtube.com/watch?v=v-KP85zMV2U",
-      "fonte": "fantascienza: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "proposto": "2026-09-13"
-    },
-    {
-      "tmdbId": 2118,
-      "imdbId": "tt0119488",
-      "title": "L.A. Confidential",
-      "originalTitle": "L.A. Confidential",
-      "release": "1997-11-07",
-      "releaseFonte": "IT",
-      "genres": [
-        "Crime",
-        "Mistero",
-        "Thriller"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 138,
-      "plot": "Nella Los Angeles degli anni 50 si intrecciano numerose storie all'interno e al di fuori del locale distretto di polizia: protagonisti i detective Jack Vincennes (un vero e proprio divo televisivo), Ed Exley, ambizioso e pronto a far dichiarazioni sui suoi colleghi, e Bud White, che indaga sui rapporti tra malavita e forze dell'ordine e incontra Lynn, una copia in carne ed ossa di Veronika Lake che lavora in un giro ben poco raccomandabile di \"attrici\"...",
-      "tagline": "Tutto è sospetto ... Tutti sono in vendita ... E niente è come sembra.",
-      "poster": "/kU4GF9yABZqov2XhLe4oHfcBR1d.jpg",
-      "backdrop": "/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
-      "director": "Curtis Hanson",
-      "cast": [
-        "Kevin Spacey",
-        "Russell Crowe",
-        "Guy Pearce",
-        "James Cromwell",
-        "Kim Basinger"
-      ],
-      "castDetail": [
-        {
-          "name": "Kevin Spacey",
-          "character": "Jack Vincennes",
-          "profile": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
-        },
-        {
-          "name": "Russell Crowe",
-          "character": "Wendell 'Bud' White",
-          "profile": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
-        },
-        {
-          "name": "Guy Pearce",
-          "character": "Edmund 'Ed' Exley",
-          "profile": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
-        },
-        {
-          "name": "James Cromwell",
-          "character": "Dudley Smith",
-          "profile": "/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
-        },
-        {
-          "name": "Kim Basinger",
-          "character": "Lynn Bracken",
-          "profile": "/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
-        },
-        {
-          "name": "Danny DeVito",
-          "character": "Sid Hudgens",
-          "profile": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
-        },
-        {
-          "name": "David Strathairn",
-          "character": "Pierce Patchett",
-          "profile": "/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
-        },
-        {
-          "name": "Ron Rifkin",
-          "character": "D.A. Ellis Loew",
-          "profile": "/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
-        }
-      ],
-      "tmdbRating": 7.8,
-      "tmdbVotes": 5720,
-      "popularity": 10.514,
-      "trailer": "https://www.youtube.com/watch?v=oilba_Ng4to",
-      "fonte": "thriller: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "thriller: il tuo terreno",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "proposto": "2026-09-13"
-    },
-    {
-      "tmdbId": 82696,
-      "imdbId": "tt1535438",
-      "title": "Il matrimonio che vorrei",
-      "originalTitle": "Hope Springs",
-      "release": "2012-10-18",
-      "releaseFonte": "IT",
-      "genres": [
-        "Dramma",
-        "Commedia",
-        "Romance"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 100,
-      "plot": "Kay e Arnold sono una coppia solida, ma decine d’anni di matrimonio hanno lasciato nella donna il desiderio di ravvivare un po’ le cose e di ritrovare intimità con il marito. Quando viene a sapere dell’esistenza di un rinomato terapeuta di coppia nella cittadina di Great Hope Springs, Kay cerca di persuadere il suo scettico marito, un uomo schivo e abitudinario, a salire su un aereo per andare a trascorrere una settimana intensiva di terapia di coppia. Già solo convincere il testardo Arnold a sperimentare questo singolare “ritiro” è un’impresa, ma la vera sfida per entrambi arriverà quando cer",
-      "tagline": "A volte, per mantenere la magia, devi imparare qualche trucco.",
-      "poster": "/ocGo1EppaebEzSxeyXgRYf8mRul.jpg",
-      "backdrop": "/ivNDj0LuziOuz0ZivgA7sxHIi3z.jpg",
-      "director": "David Frankel",
-      "cast": [
-        "Meryl Streep",
-        "Tommy Lee Jones",
-        "Steve Carell",
-        "Jean Smart",
-        "Marin Ireland"
-      ],
-      "castDetail": [
-        {
-          "name": "Meryl Streep",
-          "character": "Kay",
-          "profile": "/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
-        },
-        {
-          "name": "Tommy Lee Jones",
-          "character": "Arnold Soames",
-          "profile": "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
-        },
-        {
-          "name": "Steve Carell",
-          "character": "Dr. Bernie Feld",
-          "profile": "/cS7Cbyff6wFVfUGem497vy9LS7A.jpg"
-        },
-        {
-          "name": "Jean Smart",
-          "character": "Eileen, Kay's Friend",
-          "profile": "/gOvEAOtrtedfgS7oQvPgHuJV4F8.jpg"
-        },
-        {
-          "name": "Marin Ireland",
-          "character": "Molly, Their Daughter",
-          "profile": "/jAIOQNraHjvIAdqk81QDV5Phupp.jpg"
-        },
-        {
-          "name": "Ben Rappaport",
-          "character": "Brad, Their Son",
-          "profile": "/dsnRZIHKRitKYkiJMyGurcswBe3.jpg"
-        },
-        {
-          "name": "Brett Rice",
-          "character": "Vince, Arnold's Friend",
-          "profile": "/4OTUfCVDOsCFQoQwiNE8deDFxKW.jpg"
-        },
-        {
-          "name": "Becky Ann Baker",
-          "character": "Cora, The Waitress",
-          "profile": "/84fEZMqVMlcl9EaBeCLbrYhHn0x.jpg"
-        }
-      ],
-      "tmdbRating": 6.269,
-      "tmdbVotes": 846,
-      "popularity": 4.211,
-      "trailer": "https://www.youtube.com/watch?v=vCF2FtZKkk0",
-      "fonte": "regia di David Frankel, che segui",
-      "categoria": "qualcuno che segui",
-      "perche": "regia di David Frankel, di cui hai visto un film",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
-      ],
-      "proposto": "2026-09-13"
+      "proposto": "2026-09-14"
     }
   ],
   "storico": {
     "19": "2026-09-13",
     "235": "2026-09-12",
+    "289": "2026-09-14",
     "350": "2026-09-13",
+    "426": "2026-09-14",
+    "489": "2026-09-14",
     "500": "2026-09-12",
     "550": "2026-09-12",
     "581": "2026-09-12",
     "603": "2026-09-13",
+    "629": "2026-09-14",
     "975": "2026-09-13",
     "2118": "2026-09-13",
+    "5156": "2026-09-14",
     "10681": "2026-09-12",
     "14306": "2026-09-12",
+    "20526": "2026-09-14",
     "64690": "2026-09-13",
     "82696": "2026-09-13",
+    "118340": "2026-09-14",
     "152601": "2026-09-12",
     "257211": "2026-09-12",
     "299534": "2026-09-12",
+    "382614": "2026-09-14",
+    "395991": "2026-09-14",
     "522924": "2026-09-13",
     "755898": "2026-09-13",
     "843847": "2026-09-13",
+    "980431": "2026-09-14",
     "1315772": "2026-09-12"
   },
   "persone": {
@@ -855,6 +870,8 @@
     "Ryan Gosling": 30614,
     "Timothée Chalamet": 1190668,
     "Paul Mescal": 2326151,
-    "Curry Barker": 2381985
+    "Curry Barker": 2381985,
+    "Joseph Kosinski": 86270,
+    "James Cameron": 2710
   }
 }

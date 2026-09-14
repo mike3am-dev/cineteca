@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-13T05:06:57.007Z",
+  "preparato": "2026-09-14T05:06:22.980Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -79,81 +79,114 @@
   },
   "film": [
     {
-      "id": "tmdb-1101412",
-      "tmdbId": 1101412,
-      "imdbId": "tt31192372",
+      "id": "tmdb-1263337",
+      "tmdbId": 1263337,
+      "imdbId": "tt7526136",
       "origine": "trailer",
-      "titolo": "Fall 2: Deadpoint",
-      "titoloOriginale": "Fall 2: Deadpoint",
+      "titolo": "Heart of the Beast - Nel profondo selvaggio",
+      "titoloOriginale": "Heart of the Beast",
       "anno": "2026",
-      "uscitaItalia": "2026-09-01",
-      "regia": "Michael Spierig",
+      "uscitaItalia": "2026-09-24",
+      "regia": "David Ayer",
       "generi": [
+        "Avventura",
         "Thriller"
       ],
       "paesi": [
-        "Regno Unito",
         "USA"
       ],
-      "durata": 98,
+      "durata": 95,
       "tagline": null,
       "cast": [
-        "Harriet Slater (Jax Hunter)",
-        "Arsema Thomas (Luce)",
-        "Tom Brittney (Jon Platt)",
-        "Virginia Gardner (Shiloh Hunter)",
-        "Sahajak Boonthanakit (Thai Barman)",
-        "Korakod Yensuk (Large Woman)"
+        "Brad Pitt (James Belmont)",
+        "Uber (Odin The Dog)",
+        "J.K. Simmons (Walter Boone)",
+        "Anna Lambe"
       ],
-      "tramaTmdb": null,
+      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
       "motivi": [
-        "thriller, il tuo terreno"
+        "avventura e thriller: il tuo terreno"
       ],
-      "impronta": "Fall 2: Deadpoint|0|Michael Spierig"
+      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
-      "id": "tmdb-975",
-      "tmdbId": 975,
-      "imdbId": "tt0050825",
-      "origine": "scoperta",
-      "titolo": "Orizzonti di gloria",
-      "titoloOriginale": "Paths of Glory",
-      "anno": "1958",
-      "uscitaItalia": "1958-01-22",
-      "regia": "Stanley Kubrick",
+      "id": "tmdb-1736490",
+      "tmdbId": 1736490,
+      "imdbId": "tt43704846",
+      "origine": "trailer",
+      "titolo": "Un po' di luce",
+      "titoloOriginale": "کمی نور",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-01",
+      "regia": "Ali Asgari",
       "generi": [
-        "Guerra",
         "Dramma"
+      ],
+      "paesi": [
+        "Iran",
+        "Svizzera",
+        "Italia"
+      ],
+      "durata": 87,
+      "tagline": null,
+      "cast": [
+        "میثاق زارع (Arash)",
+        "Sadaf Asgari (Mahsa)",
+        "Forouzan Jamshidnejad (Massi)",
+        "Ramtin Daghigh",
+        "Mina Rahimzadeh"
+      ],
+      "tramaTmdb": "Dopo l’arresto e la chiusura del suo ambulatorio, un medico iraniano, disilluso, perde ogni fiducia nel futuro. Deciso a porre fine alla propria vita, trascorre un’ultima giornata con i fratelli e la madre, per prepararli alla sua scomparsa. Ma la compassione, la cura e la vicinanza che gli dimostrano finiscono per riconciliarlo con la realtà.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Un po' di luce|345|Ali Asgari"
+    },
+    {
+      "id": "tmdb-395991",
+      "tmdbId": 395991,
+      "imdbId": "tt3829920",
+      "origine": "scoperta",
+      "titolo": "Fire Squad - Incubo di fuoco",
+      "titoloOriginale": "Only the Brave",
+      "anno": "2018",
+      "uscitaItalia": "2018-08-22",
+      "regia": "Joseph Kosinski",
+      "generi": [
+        "Dramma",
+        "Storia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 86,
-      "tagline": "Esplora la terra di nessuno che nessun film ha mai osato attraversare prima!",
+      "durata": 133,
+      "tagline": "Solo i coraggiosi",
       "cast": [
-        "Kirk Douglas (Col. Dax)",
-        "Ralph Meeker (Cpl. Philippe Paris)",
-        "Adolphe Menjou (Gen. George Broulard)",
-        "George Macready (Gen. Paul Mireau)",
-        "Wayne Morris (Lt. Roget/Singing man)",
-        "Richard Anderson (Maj. Saint-Auban)"
+        "Josh Brolin (Eric Marsh)",
+        "Miles Teller (Brendan 'Donut' McDonough)",
+        "Jeff Bridges (Duane Steinbrink)",
+        "Jennifer Connelly (Amanda Marsh)",
+        "James Badge Dale (Jesse Steed)",
+        "Taylor Kitsch (Christopher MacKenzie)"
       ],
-      "tramaTmdb": "Durante la Prima Guerra Mondiale, per uno stupido puntiglio, un generale francese ordina un attacco a una postazione tedesca praticamente inespugnabile. Il colonnello Dax, ufficiale coraggioso e onesto, capisce la follia dell'ordine e cerca di evitare la carneficina, ma, di fronte all'ottusità dei suoi superiori, è costretto a eseguire i comandi. L'assalto, naturalmente, fallisce, ma non è tutto: il tronfio generale fa fucilare tre soldati per vigliaccheria.",
+      "tramaTmdb": "Basato sulla vera storia dei Granite Mountain Hotshots, narra dell’eroica storia di un’unità locale di pompieri che con speranza, determinazione, sacrificio e di voglia di proteggere famiglie, comunità e il paese, diventò una delle più importanti unità d’élite della nazione. Mentre molti di noi cercano di sfuggire al pericolo, loro lo fronteggiarono, proteggendo le nostre vite, le nostre case e le cose a noi più care, rivelando un incredibile spirito di corpo che venne fuori durante un fatale incendio.",
       "motivi": [
-        "un classico che ti manca"
+        "regia di Joseph Kosinski, di cui hai visto 2 film",
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "regia di Joseph Kosinski, che segui"
       ],
-      "impronta": "Orizzonti di gloria|462|Stanley Kubrick"
+      "impronta": "Fire Squad - Incubo di fuoco|507|Joseph Kosinski"
     },
     {
-      "id": "tmdb-522924",
-      "tmdbId": 522924,
-      "imdbId": "tt1478839",
+      "id": "tmdb-289",
+      "tmdbId": 289,
+      "imdbId": "tt0034583",
       "origine": "scoperta",
-      "titolo": "Attraverso i miei occhi",
-      "titoloOriginale": "The Art of Racing in the Rain",
-      "anno": "2019",
-      "uscitaItalia": "2019-11-07",
-      "regia": "Simon Curtis",
+      "titolo": "Casablanca",
+      "titoloOriginale": "Casablanca",
+      "anno": "1946",
+      "uscitaItalia": "1946-10-03",
+      "regia": "Michael Curtiz",
       "generi": [
         "Dramma",
         "Romance"
@@ -161,293 +194,296 @@
       "paesi": [
         "USA"
       ],
-      "durata": 109,
-      "tagline": null,
+      "durata": 102,
+      "tagline": "Avevano un appuntamento con il destino a Casablanca!",
       "cast": [
-        "Kevin Costner (Enzo (voice))",
-        "Milo Ventimiglia (Denny Swift)",
-        "Amanda Seyfried (Avery \"Eve\" Swift)",
-        "Ryan Kiera Armstrong (Zoë Swift)",
-        "Lily Dodsworth-Evans (17-Year-Old Zoë)",
-        "Ian Lake (Mike)"
+        "Humphrey Bogart (Rick Blaine)",
+        "Ingrid Bergman (Ilsa Lund)",
+        "Paul Henreid (Victor Laszlo)",
+        "Claude Rains (Captain Louis Renault)",
+        "Conrad Veidt (Major Heinrich Strasser)",
+        "Sydney Greenstreet (Signor Ferrari)"
       ],
-      "tramaTmdb": "Un cane chiamato Enzo ricorda le lezioni di vita che ha impartito e imparato. Dallo spirito intrepido e avventuroso, Enzo ha incrociato lungo il suo cammino Denny Swift, un giovane che ha dedicato la sua esistenza al mondo dei motori e che sembra destinato a un futuro roseo come pilota di auto da corsa.",
+      "tramaTmdb": "Nel principale porto del Marocco nel 1941 si incontrano poliziotti francesi, spie naziste, fuoriusciti antifascisti, avventurieri di rango, piccoli sciacalli. L'americano Rick Blaine, proprietario di un bar, aiuta Ilsa, la donna che amava (e ama ancora) e suo marito, perseguitato politico, a lasciare in aereo la città.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Casablanca|320|Michael Curtiz"
+    },
+    {
+      "id": "tmdb-5156",
+      "tmdbId": 5156,
+      "imdbId": "tt0040522",
+      "origine": "scoperta",
+      "titolo": "Ladri di biciclette",
+      "titoloOriginale": "Ladri di biciclette",
+      "anno": "1948",
+      "uscitaItalia": "1948-11-24",
+      "regia": "Vittorio De Sica",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Italia"
+      ],
+      "durata": 92,
+      "tagline": "A tutto si rimedia, meno che alla morte.",
+      "cast": [
+        "Lamberto Maggiorani (Antonio)",
+        "Enzo Staiola (Bruno)",
+        "Lianella Carell (Maria)",
+        "Gino Saltamerenda (Baiocco)",
+        "Vittorio Antonucci (Alfredo Catelli, The Thief)",
+        "Giulio Chiari (The Beggar)"
+      ],
+      "tramaTmdb": "Dopo il furto della propria bicicletta, mezzo che gli permetteva di lavorare, un uomo vaga per la città con tutta la famiglia sperando di poterla ritrovare. Preso dalla disperazione non gli resta che rubarne una a sua volta ma viene bloccato dalla polizia, a questo punto il derubato commuovendosi lo lascia andare...",
       "motivi": [
         "dramma: il tuo terreno"
       ],
-      "impronta": "Attraverso i miei occhi|304|Simon Curtis"
+      "impronta": "Ladri di biciclette|317|Vittorio De Sica"
     },
     {
-      "id": "tmdb-755898",
-      "tmdbId": 755898,
-      "imdbId": "tt13186306",
+      "id": "tmdb-20526",
+      "tmdbId": 20526,
+      "imdbId": "tt1104001",
       "origine": "scoperta",
-      "titolo": "La guerra dei mondi",
-      "titoloOriginale": "War of the Worlds",
-      "anno": "2025",
-      "uscitaItalia": "2025-07-29",
-      "regia": "Rich Lee",
+      "titolo": "TRON: Legacy",
+      "titoloOriginale": "TRON: Legacy",
+      "anno": "2010",
+      "uscitaItalia": "2010-12-29",
+      "regia": "Joseph Kosinski",
       "generi": [
-        "Fantascienza",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": null,
-      "cast": [
-        "Ice Cube (William Radford)",
-        "Eva Longoria (NASA Scientist Sandra Salas)",
-        "Clark Gregg (NSA Director Donald Briggs)",
-        "Iman Benson (Faith Radford)",
-        "Henry Hunter Hall (David Radford)",
-        "Devon Bostick (Mark Goodman)"
-      ],
-      "tramaTmdb": null,
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "La guerra dei mondi|0|Rich Lee"
-    },
-    {
-      "id": "tmdb-603",
-      "tmdbId": 603,
-      "imdbId": "tt0133093",
-      "origine": "scoperta",
-      "titolo": "Matrix",
-      "titoloOriginale": "The Matrix",
-      "anno": "1999",
-      "uscitaItalia": "1999-05-07",
-      "regia": "Lana Wachowski",
-      "generi": [
+        "Avventura",
         "Azione",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 136,
-      "tagline": "Credete all'incredibile.",
+      "durata": 125,
+      "tagline": "l gioco è cambiato.",
       "cast": [
-        "Keanu Reeves (Neo)",
-        "Laurence Fishburne (Morpheus)",
-        "Carrie-Anne Moss (Trinity)",
-        "Hugo Weaving (Agent Smith)",
-        "Gloria Foster (Oracle)",
-        "Joe Pantoliano (Cypher)"
+        "Garrett Hedlund (Sam Flynn)",
+        "Olivia Wilde (Quorra)",
+        "Jeff Bridges (Kevin Flynn / Clu)",
+        "Bruce Boxleitner (Alan Bradley / Tron)",
+        "James Frain (Jarvis)",
+        "Beau Garrett (Gem)"
       ],
-      "tramaTmdb": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e de",
+      "tramaTmdb": "Sam Flynn, esperto di tecnologia e figlio ventisettenne di Kevin Flynn, indaga sulla scomparsa del padre e si trova sospinto nello stesso mondo di programmi killer e potenti videogame in cui il padre è vissuto per 25 anni. Insieme a una fedele confidente, padre e figlio s'imbarcano in un viaggio ai limiti della vita e della morte in un cyber universo estremamente avanzato e pericoloso.",
       "motivi": [
-        "un classico che ti manca"
+        "regia di Joseph Kosinski, di cui hai visto 2 film",
+        "regia di Joseph Kosinski, che segui"
       ],
-      "impronta": "Matrix|600|Lana Wachowski"
+      "impronta": "TRON: Legacy|388|Joseph Kosinski"
     },
     {
-      "id": "tmdb-350",
-      "tmdbId": 350,
-      "imdbId": "tt0458352",
+      "id": "tmdb-980431",
+      "tmdbId": 980431,
+      "imdbId": "tt18259538",
       "origine": "scoperta",
-      "titolo": "Il diavolo veste Prada",
-      "titoloOriginale": "The Devil Wears Prada",
-      "anno": "2006",
-      "uscitaItalia": "2006-10-13",
-      "regia": "David Frankel",
+      "titolo": "Avatar Aang: L’ultimo dominatore dell’aria",
+      "titoloOriginale": "Avatar Aang: The Last Airbender",
+      "anno": "2026",
+      "uscitaItalia": "2026-07-24",
+      "regia": "Lauren Montgomery",
       "generi": [
-        "Dramma",
-        "Commedia"
+        "Animazione",
+        "Avventura",
+        "Fantasy",
+        "Azione"
       ],
       "paesi": [
-        "USA"
-      ],
-      "durata": 109,
-      "tagline": "Un lavoro da amare. Un capo da odiare.",
-      "cast": [
-        "Meryl Streep (Miranda Priestly)",
-        "Anne Hathaway (Andy Sachs)",
-        "Emily Blunt (Emily)",
-        "Stanley Tucci (Nigel)",
-        "Simon Baker (Christian Thompson)",
-        "Adrian Grenier (Nate)"
-      ],
-      "tramaTmdb": "Dopo essersi laureata con successo nella cittadina di provincia nella quale ha sempre vissuto, Andy si trasferisce a New York dove riesce ad essere assunta come assistente di Miranda Priestly, direttrice di Runaway, rivista di moda per eccellenza, che detta legge anche agli stilisti. I modi dispotici di Miranda e la mancanza di feeling con le ambiziosissime colleghe impongono ad Andy di cambiare se stessa tanto nell'aspetto, quanto nell'animo, per poter sopravvivere alla giungla dell'ambiente di lavoro. Pian piano conquista la fiducia di Miranda, a scapito delle amicizie e dell'amore...",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "regia di David Frankel, che segui"
-      ],
-      "impronta": "Il diavolo veste Prada|593|David Frankel"
-    },
-    {
-      "id": "tmdb-64690",
-      "tmdbId": 64690,
-      "imdbId": "tt0780504",
-      "origine": "scoperta",
-      "titolo": "Drive",
-      "titoloOriginale": "Drive",
-      "anno": "2011",
-      "uscitaItalia": "2011-09-30",
-      "regia": "Nicolas Winding Refn",
-      "generi": [
-        "Dramma",
-        "Thriller",
-        "Crime"
-      ],
-      "paesi": [
-        "USA"
+        "USA",
+        "Corea del Sud",
+        "Australia"
       ],
       "durata": 100,
-      "tagline": null,
+      "tagline": "La leggenda si risveglia",
       "cast": [
-        "Ryan Gosling (Driver)",
-        "Carey Mulligan (Irene)",
-        "Bryan Cranston (Shannon)",
-        "Albert Brooks (Bernie Rose)",
-        "Oscar Isaac (Standard)",
-        "Christina Hendricks (Blanche)"
+        "Eric Nam (Aang (voice))",
+        "Dave Bautista (Tagah (voice))",
+        "Jessica Matten (Katara (voice))",
+        "Román Zaragoza (Sokka (voice))",
+        "Steven Yeun (Zuko (voice))",
+        "Dionne Quan (Toph (voice))"
       ],
-      "tramaTmdb": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di casa, e diventa amico di suo figlio Benicio. Irene però è sposata e quando il marito, Standard, esce dal carcere la situazione precipita. Perché Standard ha dei debiti con dei criminali i quali minaccia",
+      "tramaTmdb": "L'Avatar Aang, l'ultimo dominatore dell'aria, scopre un antico potere che potrebbe salvare la sua civiltà dall'estinzione. Insieme ai suoi amici, deve trovarlo prima che cada nelle mani sbagliate e distrugga la pace per cui hanno sacrificato tutto.",
       "motivi": [
-        "c'è Ryan Gosling, che hai visto 3 volte",
-        "c'è Ryan Gosling, che hai visto 3 volte"
+        "se ne parla adesso"
       ],
-      "impronta": "Drive|600|Nicolas Winding Refn"
+      "impronta": "Avatar Aang: L’ultimo dominatore dell’aria|248|Lauren Montgomery"
     },
     {
-      "id": "tmdb-843847",
-      "tmdbId": 843847,
-      "imdbId": "tt8323668",
+      "id": "tmdb-629",
+      "tmdbId": 629,
+      "imdbId": "tt0114814",
       "origine": "scoperta",
-      "titolo": "Jerry e Marge giocano alla lotteria",
-      "titoloOriginale": "Jerry & Marge Go Large",
-      "anno": "2022",
-      "uscitaItalia": "2022-10-20",
-      "regia": "David Frankel",
-      "generi": [
-        "Commedia",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 96,
-      "tagline": null,
-      "cast": [
-        "Bryan Cranston (Jerry Selbee)",
-        "Annette Bening (Marge Selbee)",
-        "Rainn Wilson (Bill)",
-        "Larry Wilmore (Steve)",
-        "Michael McKean (Howard)",
-        "Jake McDorman (Doug)"
-      ],
-      "tramaTmdb": "La storia vera di Jerry e Marge Selbee, una coppia di pensionati di una piccola cittadina del Michigan che ha trovato un escamotage per vincere alla lotteria del Massachussetts e ha vinto ben 27 milioni di dollari, con i quali ha aiutato l'intera cittadina a migliorare le proprie condizioni.",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
-      ],
-      "impronta": "Jerry e Marge giocano alla lotteria|292|David Frankel"
-    },
-    {
-      "id": "tmdb-19",
-      "tmdbId": 19,
-      "imdbId": "tt0017136",
-      "origine": "scoperta",
-      "titolo": "Metropolis",
-      "titoloOriginale": "Metropolis",
-      "anno": "1928",
-      "uscitaItalia": "1928-10-01",
-      "regia": "Fritz Lang",
+      "titolo": "I soliti sospetti",
+      "titoloOriginale": "The Usual Suspects",
+      "anno": "1995",
+      "uscitaItalia": "1995-11-30",
+      "regia": "Bryan Singer",
       "generi": [
         "Dramma",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "Germania"
-      ],
-      "durata": 150,
-      "tagline": "Non ci può essere comprensione tra le mani e il cervello a meno che il cuore non agisca da mediatore.",
-      "cast": [
-        "Gustav Fröhlich (Freder Fredersen)",
-        "Brigitte Helm (Maria / The Machine Man)",
-        "Alfred Abel (Johann 'Joh' Fredersen)",
-        "Rudolf Klein-Rogge (C.A. Rotwang)",
-        "Theodor Loos (Josaphat)",
-        "Fritz Rasp (The Thin Man)"
-      ],
-      "tramaTmdb": "Nel 2026 in una megalopoli a due livelli gli operai che lavorano come schiavi nei sotterranei sono incitati alla rivolta da un robot femmineo che riproduce le fattezze di una di loro, la mite e pia Maria. L'ha costruito uno scienziato al servizio dei padroni che vuole vendicarsi del potente John Fredersen, dominatore della città. La rivolta provoca un'inondazione che colpisce i quartieri operai finché, sollecitato da Maria, Freder, figlio di Fredersen, fa da mediatore tra padroni e operai. È nato un nuovo patto sociale. Realizzato nel 1926 a costi così alti che rischiarono di far fallire la UF",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Metropolis|600|Fritz Lang"
-    },
-    {
-      "id": "tmdb-2118",
-      "tmdbId": 2118,
-      "imdbId": "tt0119488",
-      "origine": "scoperta",
-      "titolo": "L.A. Confidential",
-      "titoloOriginale": "L.A. Confidential",
-      "anno": "1997",
-      "uscitaItalia": "1997-11-07",
-      "regia": "Curtis Hanson",
-      "generi": [
         "Crime",
-        "Mistero",
         "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 138,
-      "tagline": "Tutto è sospetto ... Tutti sono in vendita ... E niente è come sembra.",
+      "durata": 105,
+      "tagline": "Cinque criminali, un confronto, nessuna coincidenza.",
       "cast": [
-        "Kevin Spacey (Jack Vincennes)",
-        "Russell Crowe (Wendell 'Bud' White)",
-        "Guy Pearce (Edmund 'Ed' Exley)",
-        "James Cromwell (Dudley Smith)",
-        "Kim Basinger (Lynn Bracken)",
-        "Danny DeVito (Sid Hudgens)"
+        "Stephen Baldwin (McManus)",
+        "Gabriel Byrne (Keaton)",
+        "Benicio Del Toro (Fenster)",
+        "Kevin Pollak (Hockney)",
+        "Kevin Spacey (Verbal)",
+        "Chazz Palminteri (Dave Kujan)"
       ],
-      "tramaTmdb": "Nella Los Angeles degli anni 50 si intrecciano numerose storie all'interno e al di fuori del locale distretto di polizia: protagonisti i detective Jack Vincennes (un vero e proprio divo televisivo), Ed Exley, ambizioso e pronto a far dichiarazioni sui suoi colleghi, e Bud White, che indaga sui rapporti tra malavita e forze dell'ordine e incontra Lynn, una copia in carne ed ossa di Veronika Lake che lavora in un giro ben poco raccomandabile di \"attrici\"...",
+      "tramaTmdb": "Cinque criminali si ritrovano incomprensibilmente insieme in un confronto all'americana. Scopriranno che dietro a tutto c'è il re dei malfattori, Keyser Soze, che li costringerà a partecipare ad una missione suicida.",
       "motivi": [
-        "thriller: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "L.A. Confidential|459|Curtis Hanson"
+      "impronta": "I soliti sospetti|216|Bryan Singer"
     },
     {
-      "id": "tmdb-82696",
-      "tmdbId": 82696,
-      "imdbId": "tt1535438",
+      "id": "tmdb-382614",
+      "tmdbId": 382614,
+      "imdbId": "tt4572792",
       "origine": "scoperta",
-      "titolo": "Il matrimonio che vorrei",
-      "titoloOriginale": "Hope Springs",
-      "anno": "2012",
-      "uscitaItalia": "2012-10-18",
-      "regia": "David Frankel",
+      "titolo": "Il libro di Henry",
+      "titoloOriginale": "The Book of Henry",
+      "anno": "2017",
+      "uscitaItalia": "2017-11-23",
+      "regia": "Colin Trevorrow",
       "generi": [
         "Dramma",
-        "Commedia",
-        "Romance"
+        "Thriller",
+        "Mistero"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 100,
-      "tagline": "A volte, per mantenere la magia, devi imparare qualche trucco.",
+      "durata": 105,
+      "tagline": null,
       "cast": [
-        "Meryl Streep (Kay)",
-        "Tommy Lee Jones (Arnold Soames)",
-        "Steve Carell (Dr. Bernie Feld)",
-        "Jean Smart (Eileen, Kay's Friend)",
-        "Marin Ireland (Molly, Their Daughter)",
-        "Ben Rappaport (Brad, Their Son)"
+        "Naomi Watts (Susan Carpenter)",
+        "Jaeden Martell (Henry Carpenter)",
+        "Jacob Tremblay (Peter Carpenter)",
+        "Sarah Silverman (Sheila)",
+        "Lee Pace (Dr. David Daniels)",
+        "Maddie Ziegler (Christina)"
       ],
-      "tramaTmdb": "Kay e Arnold sono una coppia solida, ma decine d’anni di matrimonio hanno lasciato nella donna il desiderio di ravvivare un po’ le cose e di ritrovare intimità con il marito. Quando viene a sapere dell’esistenza di un rinomato terapeuta di coppia nella cittadina di Great Hope Springs, Kay cerca di persuadere il suo scettico marito, un uomo schivo e abitudinario, a salire su un aereo per andare a trascorrere una settimana intensiva di terapia di coppia. Già solo convincere il testardo Arnold a sperimentare questo singolare “ritiro” è un’impresa, ma la vera sfida per entrambi arriverà quando cer",
+      "tramaTmdb": "Susan Carpenter, madre single, scopre che il figlio, un vero genio, ha scritto un libro che contiene un piano per raddrizzare un terribile male che accade nella casa vicino alla sua. Tentando di mettere in atto quanto scritto, Susan scoprirà dentro di sé una nuova forza come genitrice.",
       "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
+        "regia di Colin Trevorrow, di cui hai visto 2 film",
+        "regia di Colin Trevorrow, che segui"
       ],
-      "impronta": "Il matrimonio che vorrei|600|David Frankel"
+      "impronta": "Il libro di Henry|286|Colin Trevorrow"
+    },
+    {
+      "id": "tmdb-118340",
+      "tmdbId": 118340,
+      "imdbId": "tt2015381",
+      "origine": "scoperta",
+      "titolo": "Guardiani della Galassia",
+      "titoloOriginale": "Guardians of the Galaxy",
+      "anno": "2014",
+      "uscitaItalia": "2014-10-22",
+      "regia": "James Gunn",
+      "generi": [
+        "Azione",
+        "Fantascienza",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 122,
+      "tagline": "Tutti gli eroi iniziano da qualche parte.",
+      "cast": [
+        "Chris Pratt (Peter Quill)",
+        "Zoe Saldaña (Gamora)",
+        "Dave Bautista (Drax)",
+        "Vin Diesel (Groot (voice))",
+        "Bradley Cooper (Rocket (voice))",
+        "Lee Pace (Ronan)"
+      ],
+      "tramaTmdb": "L'audace esploratore Peter Quill è inseguito dai cacciatori di taglie per aver rubato una misteriosa sfera ambita da Ronan, un essere malvagio la cui sfrenata ambizione minaccia l'intero universo. Per sfuggire all’ostinato Ronan, Quill è costretto a una scomoda alleanza con quattro improbabili personaggi: Rocket, un procione armato; Groot, un umanoide dalle sembianze di un albero; la letale ed enigmatica Gamora e il vendicativo Drax il Distruttore. Ma quando Quill scopre il vero potere della sfera e la minaccia che costituisce per il cosmo, farà di tutto per guidare questa squadra improvvisata",
+      "motivi": [
+        "c'è Chris Pratt, che hai visto 4 volte",
+        "c'è Chris Pratt, che hai visto 4 volte"
+      ],
+      "impronta": "Guardiani della Galassia|600|James Gunn"
+    },
+    {
+      "id": "tmdb-489",
+      "tmdbId": 489,
+      "imdbId": "tt0119217",
+      "origine": "scoperta",
+      "titolo": "Will Hunting - Genio ribelle",
+      "titoloOriginale": "Good Will Hunting",
+      "anno": "1998",
+      "uscitaItalia": "1998-03-06",
+      "regia": "Gus Van Sant",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 126,
+      "tagline": "Selvaggio. Geniale. Ribelle. Nei primi vent'anni della sua vita Will Hunting ha ignorato ogni regola, ora sta per incontrare chi gli può tenere testa.",
+      "cast": [
+        "Matt Damon (Will Hunting)",
+        "Robin Williams (Sean Maguire)",
+        "Ben Affleck (Chuckie Sullivan)",
+        "Stellan Skarsgård (Gerald Lambeau)",
+        "Minnie Driver (Skylar)",
+        "Casey Affleck (Morgan O'Mally)"
+      ],
+      "tramaTmdb": "Will Hunting è un ragazzo orfano dedito a piccoli furti, ma con grandi capacità per la matematica. Queste doti vengono notate da un professore universitario, che mandandolo da un suo amico psichiatra cerca di aiutarlo a togliersi dalla strada.",
+      "motivi": [
+        "c'è Matt Damon, che hai visto 2 volte",
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Will Hunting - Genio ribelle|243|Gus Van Sant"
+    },
+    {
+      "id": "tmdb-426",
+      "tmdbId": 426,
+      "imdbId": "tt0052357",
+      "origine": "scoperta",
+      "titolo": "La donna che visse due volte",
+      "titoloOriginale": "Vertigo",
+      "anno": "1958",
+      "uscitaItalia": "1958-12-18",
+      "regia": "Alfred Hitchcock",
+      "generi": [
+        "Mistero",
+        "Romance",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 128,
+      "tagline": null,
+      "cast": [
+        "James Stewart (Det. John 'Scottie' Ferguson)",
+        "Kim Novak (Madeleine Elster / Judy Barton)",
+        "Barbara Bel Geddes (Marjorie 'Midge' Wood)",
+        "Tom Helmore (Gavin Elster)",
+        "Henry Jones (Coroner)",
+        "Raymond Bailey (Scottie's Doctor)"
+      ],
+      "tramaTmdb": "A causa delle sue vertigini, l'agente Ferguson è a riposo per non aver impedito un incidente mortale a un collega. Un amico gli chiede di sorvegliare sua moglie, che ha manie suicide. Di fronte a Ferguson, paralizzato dalle vertigini, la donna si butta da un campanile, o almeno così crede il povero agente. Ma un giorno un incontro casuale rimette tutto in gioco.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "La donna che visse due volte|364|Alfred Hitchcock"
     }
   ]
 }
