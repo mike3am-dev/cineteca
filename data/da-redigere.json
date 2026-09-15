@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-14T05:06:20.459Z",
+  "preparato": "2026-09-15T05:07:04.013Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -87,7 +87,7 @@
       "anno": "2025",
       "uscitaItalia": "2025-05-15",
       "lista": "casa",
-      "regia": "Zach Lipovsky",
+      "regia": "Adam Stein",
       "generi": [
         "Horror",
         "Mistero"
@@ -108,205 +108,42 @@
         "April Telek (Aunt Brenda)"
       ],
       "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
+      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
     },
     {
-      "id": "tmdb-840464",
-      "tmdbId": 840464,
-      "imdbId": "tt14850054",
-      "titolo": "Greenland 2: Migration",
+      "id": "tmdb-1022787",
+      "tmdbId": 1022787,
+      "imdbId": "tt4900148",
+      "titolo": "Elio",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-01-26",
+      "anno": "2025",
+      "uscitaItalia": "2025-06-18",
       "lista": "casa",
-      "regia": "Ric Roman Waugh",
+      "regia": "Domee Shi",
       "generi": [
+        "Animazione",
         "Avventura",
-        "Thriller",
-        "Fantascienza"
+        "Fantascienza",
+        "Famiglia",
+        "Commedia"
       ],
       "paesi": [
-        "Gran Bretagna",
         "USA"
       ],
       "durata": 98,
-      "tagline": "La fine del mondo è solo l'inizio.",
+      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
       "cast": [
-        "Gerard Butler (John Garrity)",
-        "Morena Baccarin (Allison Garrity)",
-        "Roman Griffin Davis (Nathan Garrity)",
-        "Tommie Earl Jenkins (General Sharpe)",
-        "Trond Fausa Aurvåg (Adam Shaw)",
-        "Amber Rose Revah (Dr Casey Amina)",
-        "Gina Gangar (Elizabeth Price)",
-        "Antonio De Lima (Charles Williams)"
+        "Yonas Kibreab (Elio / Other Elio (voice))",
+        "Remy Edgerly (Glordon (voice))",
+        "Zoe Saldaña (Olga Solís (voice))",
+        "Brad Garrett (Lord Grigon (voice))",
+        "Brandon Moon (Ambassador Helix (voice))",
+        "Jameela Jamil (Ambassador Questa (voice))",
+        "Young Dylan (Bryce (voice))",
+        "Jake T. Getman (Caleb (voice))"
       ],
-      "tramaTmdb": "Avendo trovato la sicurezza del bunker della Groenlandia dopo che la cometa Clarke ha decimato la Terra, la famiglia Garrity deve ora rischiare tutto per intraprendere un pericoloso viaggio attraverso la terra desolata d'Europa per trovare una nuova casa.",
-      "impronta": "Greenland 2: Migration|255|Ric Roman Waugh"
-    },
-    {
-      "id": "tmdb-1198994",
-      "tmdbId": 1198994,
-      "imdbId": "tt8036976",
-      "titolo": "Send Help",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-01-29",
-      "lista": "casa",
-      "regia": "Sam Raimi",
-      "generi": [
-        "Horror",
-        "Thriller",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 113,
-      "tagline": "Lei è Linda Liddle... ufficio strategy and planning. Ora è il capo.",
-      "cast": [
-        "Rachel McAdams (Linda Liddle)",
-        "Dylan O'Brien (Bradley Preston)",
-        "Edyll Ismail (Zuri)",
-        "Xavier Samuel (Donovan)",
-        "Dennis Haysbert (Franklin)",
-        "Chris Pang (Chase)",
-        "ธเนศ วรากุลนุเคราะห์ (Boat Captain)",
-        "Emma Raimi (River)"
-      ],
-      "tramaTmdb": "Due colleghi un tempo rivali si ritrovano improvvisamente naufraghi su un'isola deserta dopo essere gli unici sopravvissuti a un disastro aereo. Costretti a collaborare per sopravvivere, Linda e Bradley dovranno affrontare vecchi rancori e mettere alla prova la propria forza di volontà per riuscire a salvarsi.",
-      "impronta": "Send Help|311|Sam Raimi"
-    },
-    {
-      "id": "tmdb-1208348",
-      "tmdbId": 1208348,
-      "imdbId": "tt14142060",
-      "titolo": "Rental Family - Nelle vite degli altri",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-02-19",
-      "lista": "casa",
-      "regia": "Hikari",
-      "generi": [
-        "Commedia",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 110,
-      "tagline": "Felicità su misura per te!",
-      "cast": [
-        "Brendan Fraser (Phillip Vanderploeg)",
-        "平岳大 (Shinji Tada)",
-        "Mari Yamamoto (Aiko Nakajima)",
-        "Shannon Mahina Gorman (Mia Kawasaki)",
-        "Akira Emoto (Kikuo Hasegawa)",
-        "Paolo Andrea Di Pietro (Handsome Actor)",
-        "尾関伸嗣 (Casting Director)",
-        "キンタカオ (Bartender)"
-      ],
-      "tramaTmdb": "Philip Vandarpleog è un attore americano che vive da otto anni a Tokyo, in Giappone, che considera ormai casa propria. Un tempo celebre perché interpretava un grosso tubetto di dentifricio, supereroe di una pubblicità popolarissima, adesso passa da un’audizione all’altra, mentre il suo agente lo manda a fare la comparsa in eventi come matrimoni e funerali. Ed è proprio a un finto funerale che Philip incontra Shinji, il capo di Rental Family, un’agenzia che procura attori per impersonare parenti e amici che non esistono, e lo scrittura: Philip diventa un giornalista amico di un anziano attore, il padre assente di una bambina sino-americana, il compagno di giochi di un appassionato di videogame.",
-      "impronta": "Rental Family - Nelle vite degli altri|702|Hikari"
-    },
-    {
-      "id": "tmdb-1159559",
-      "tmdbId": 1159559,
-      "imdbId": "tt27047903",
-      "titolo": "Scream 7",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-02-25",
-      "lista": "casa",
-      "regia": "Kevin Williamson",
-      "generi": [
-        "Horror",
-        "Mistero",
-        "Crime"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 114,
-      "tagline": "La paura torna a casa",
-      "cast": [
-        "Neve Campbell (Sidney Evans)",
-        "Courteney Cox (Gale Weathers)",
-        "Isabel May (Tatum Evans)",
-        "Jasmin Savoy Brown (Mindy Meeks-Martin)",
-        "Mason Gooding (Chad Meeks-Martin)",
-        "Roger L. Jackson ('The Voice' (voice))",
-        "Anna Camp (Jessica Bowden)",
-        "Joel McHale (Mark Evans)"
-      ],
-      "tramaTmdb": "Quando un nuovo assassino mascherato da Ghostface semina il terrore nella tranquilla cittadina dove Sidney Prescott (Neve Campbell) ha ricostruito la sua vita, i suoi incubi più profondi diventano realtà: la prossima vittima designata è sua figlia (Isabel May). Decisa a proteggere ciò che ama, Sidney dovrà riaprire le porte del suo passato e affrontare, una volta per tutte, l’orrore che pensava di aver lasciato alle spalle.",
-      "impronta": "Scream 7|427|Kevin Williamson"
-    },
-    {
-      "id": "tmdb-1327819",
-      "tmdbId": 1327819,
-      "imdbId": "tt26443616",
-      "titolo": "Jumpers - Un salto tra gli animali",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-03-05",
-      "lista": "casa",
-      "regia": "Daniel Chong",
-      "generi": [
-        "Avventura",
-        "Animazione",
-        "Commedia",
-        "Famiglia",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": "Sii naturale.",
-      "cast": [
-        "Piper Curda (Mabel (voice))",
-        "Bobby Moynihan (King George (voice))",
-        "Jon Hamm (Mayor Jerry Generazzo (voice))",
-        "Kathy Najimy (Dr. Sam (voice))",
-        "Dave Franco (Insect King (voice))",
-        "Eduardo Franco (Loaf (voice))",
-        "Aparna Nancherla (Nisha (voice))",
-        "Tom Law (Tom Lizard (voice))"
-      ],
-      "tramaTmdb": "Gli scienziati hanno scoperto come far “saltare” la coscienza umana in animali robotici realistici, permettendo alle persone di comunicare con gli animali, come animali! L'amante degli animali Mabel coglie l'opportunità per usare la tecnologia, svelando misteri nel mondo animale oltre qualsiasi cosa potesse immaginare.",
-      "impronta": "Jumpers - Un salto tra gli animali|320|Daniel Chong"
-    },
-    {
-      "id": "tmdb-1517606",
-      "tmdbId": 1517606,
-      "imdbId": "tt38281842",
-      "titolo": "Notte prima degli esami 3.0",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-03-19",
-      "lista": "casa",
-      "regia": "Tommaso Renzoni",
-      "generi": [
-        "Commedia"
-      ],
-      "paesi": [
-        "Italia"
-      ],
-      "durata": 95,
-      "tagline": null,
-      "cast": [
-        "Tommaso Cassissa (Giulio Sabatini)",
-        "Sabrina Ferilli (professoressa Martinelli)",
-        "Adriano Moretti",
-        "Alice Lupparelli",
-        "Alice Maselli",
-        "Ditonellapiaga",
-        "Aleandro Falciglia",
-        "Bea Barret"
-      ],
-      "tramaTmdb": "Alla vigilia della maturità, un gruppo di liceali romani si ritrova a vivere la sua ultima grande avventura insieme: amori segreti, tradimenti, amicizie messe alla prova e piani disperati per ingannare la prof più temuta della scuola. Tra feste clandestine, motorini che sfrecciano nella notte e un viaggio improvvisato fino a Napoli, Giulio e i suoi amici dovranno affrontare il passaggio all’età adulta scoprendo che crescere significa anche sbagliare, perdonare e avere il coraggio di dire finalmente la verità.",
-      "impronta": "Notte prima degli esami 3.0|514|Tommaso Renzoni"
+      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
+      "impronta": "Elio|287|Domee Shi"
     },
     {
       "id": "tmdb-1226863",
@@ -317,7 +154,7 @@
       "anno": "2026",
       "uscitaItalia": "2026-04-01",
       "lista": "casa",
-      "regia": "Michael Jelenic",
+      "regia": "Aaron Horvath",
       "generi": [
         "Famiglia",
         "Commedia",
@@ -342,284 +179,146 @@
         "Brie Larson (Rosalina (voice))"
       ],
       "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
-      "impronta": "Super Mario Galaxy - Il film|521|Michael Jelenic"
+      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
     },
     {
-      "id": "tmdb-1325734",
-      "tmdbId": 1325734,
-      "imdbId": "tt33071426",
-      "titolo": "The Drama - Un segreto è per sempre",
+      "id": "tmdb-438631",
+      "tmdbId": 438631,
+      "imdbId": "tt1160419",
+      "titolo": "Dune",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-04-02",
-      "lista": "casa",
-      "regia": "Kristoffer Borgli",
+      "anno": "2021",
+      "uscitaItalia": "2021-09-16",
+      "lista": "visto",
+      "regia": "Denis Villeneuve",
       "generi": [
-        "Romance",
-        "Commedia",
-        "Dramma"
+        "Fantascienza",
+        "Avventura"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 106,
-      "tagline": "Conosci davvero chi ami?",
+      "durata": 155,
+      "tagline": "L'inizio di un viaggio straordinario",
       "cast": [
-        "Zendaya (Emma)",
-        "Robert Pattinson (Charlie)",
-        "Alana Haim (Rachel)",
-        "Mamoudou Athie (Mike)",
-        "Hailey Benton Gates (Misha)",
-        "Sydney Lemmon (Pauline)",
-        "Hannah Gross (Alice)",
-        "Anna Baryshnikov (Sam)"
+        "Timothée Chalamet (Paul Atreides)",
+        "Rebecca Ferguson (Lady Jessica Atreides)",
+        "Oscar Isaac (Duke Leto Atreides)",
+        "Jason Momoa (Duncan Idaho)",
+        "Stellan Skarsgård (Baron Vladimir Harkonnen)",
+        "Stephen McKinley Henderson (Thufir Hawat)",
+        "Josh Brolin (Gurney Halleck)",
+        "Javier Bardem (Stilgar)"
       ],
-      "tramaTmdb": "Una coppia, nei giorni che precedono le nozze, attraversa una profonda crisi scaturita da una serie di rivelazioni inaspettate, che smentiscono quello che uno dei due futuri coniugi pensava di sapere dell'altro.",
-      "impronta": "The Drama - Un segreto è per sempre|211|Kristoffer Borgli"
+      "tramaTmdb": "Paul Atreides, un brillante e dotato giovane nato per un grande destino oltre la sua comprensione, deve viaggiare sul pianeta più pericoloso dell'universo per garantire il futuro della sua famiglia e del suo popolo. Mentre forze malevole esplodono in conflitti per la riserva esclusiva del pianeta della risorsa più preziosa esistente, \"la spezia\", una merce capace di sbloccare il massimo potenziale dell'umanità, soltanto chi riesce a superare la propria paura sopravvivrà.",
+      "impronta": "Dune|475|Denis Villeneuve"
     },
     {
-      "id": "tmdb-936075",
-      "tmdbId": 936075,
-      "imdbId": "tt11378946",
-      "titolo": "Michael",
+      "id": "tmdb-335787",
+      "tmdbId": 335787,
+      "imdbId": "tt1464335",
+      "titolo": "Uncharted",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-04-23",
-      "lista": "casa",
-      "regia": "Antoine Fuqua",
+      "anno": "2022",
+      "uscitaItalia": "2022-02-17",
+      "lista": "visto",
+      "regia": "Ruben Fleischer",
       "generi": [
-        "Musica",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 127,
-      "tagline": "Scopri come nasce un re",
-      "cast": [
-        "Jaafar Jackson (Michael)",
-        "Colman Domingo (Joseph Jackson)",
-        "Nia Long (Katherine Jackson)",
-        "Juliano Krue Valdi (Young Michael)",
-        "KeiLyn Durrel Jones (Bill Bray)",
-        "Miles Teller (John Branca)",
-        "Larenz Tate (Berry Gordy)",
-        "Laura Harrier (Suzanne de Passe)"
-      ],
-      "tramaTmdb": "La storia di Michael Jackson oltre la musica, il suo viaggio dalla scoperta del suo straordinario talento come protagonista dei Jackson Five all'artista precursore la cui ambizione creativa ha alimentato un'incessante ricerca per diventare il più grande intrattenitore del mondo. Seguendo la sua vita fuori dal palco e alcune delle performance più iconiche degli inizi della sua carriera da solista, il film offre al pubblico un posto in prima fila a Michael Jackson come mai prima d'ora.",
-      "impronta": "Michael|488|Antoine Fuqua"
-    },
-    {
-      "id": "tmdb-1215532",
-      "tmdbId": 1215532,
-      "imdbId": "tt31260224",
-      "titolo": "Hopper - Il segreto della marmotta",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-05-14",
-      "lista": "casa",
-      "regia": "Benjamin Mousquet",
-      "generi": [
-        "Animazione",
+        "Azione",
         "Avventura",
-        "Commedia",
-        "Famiglia"
+        "Mistero"
       ],
       "paesi": [
-        "Belgio",
-        "Francia",
         "USA"
       ],
-      "durata": 88,
-      "tagline": "Il destino del mondo è nelle sue zampe!",
+      "durata": 116,
+      "tagline": "La fortuna aiuta gli audaci.",
       "cast": [
-        "Jordan Tartakow (Chickenhare (voice))",
-        "Laila Berzins (Meg (voice))",
-        "Joe Ochman (Abe (voice))",
-        "Xanthe Huynh (Gina (voice))",
-        "Odessa Lurlean (Crolloq (voice))",
-        "Dino Andrade (Miggie (voice))",
-        "Todd Haberkorn (Rolf (voice))",
-        "Christopher Bass (Groundhog (voice))"
+        "Tom Holland (Nathan Drake)",
+        "Mark Wahlberg (Victor 'Sully' Sullivan)",
+        "Sophia Ali (Chloe Frazer)",
+        "Tati Gabrielle (Jo Braddock)",
+        "Antonio Banderas (Santiago Moncada)",
+        "Steven Waddington (The Scotsman)",
+        "Rudy Pankow (Young Sam)",
+        "Tiernan Jones (Young Nate)"
       ],
-      "tramaTmdb": "Continuano le avventure dell'esploratore Hopper, sempre alla scoperta di mondi nuovi e affascinanti insieme agli inseparabili compagni Meg e Abe.  Tuttavia, il suo destino rischia di cambiare radicalmente quando incontra Gina, una misteriosa sconosciuta che si rivela essere sua sorella. Per la prima volta, Hopper scopre di non essere l’unico della sua specie. Diviso tra la lealtà verso il padre adottivo e il desiderio di aiutare i suoi simili, Hopper si ritrova a dover seguire il suo cuore e partire per una nuova avventura. Decide cosi di accompagnare Gina in una missione pericolosa: trovare l’unico potere capace di salvarli da una grave minaccia. La ricerca conduce i protagonisti sulle tracce della leggendaria marmotta in grado di manipolare il tempo. Tra superstizioni, enigmi e rivelazioni sul passato e futuro, Hopper, Abe e Meg affrontano un viaggio epico ricco di insidie, scoperte e colpi di scena.",
-      "impronta": "Hopper - Il segreto della marmotta|915|Benjamin Mousquet"
+      "tramaTmdb": "Basato su una delle serie di videogiochi più vendute e acclamate dalla critica, Uncharted presenta al pubblico il giovane e furbo Nathan Drake nella sua prima avventura alla ricerca del tesoro con l’arguto partner Victor \"Sully\" Sullivan. In un’epica avventura piena di azione che attraversa il mondo intero, i due protagonisti partono alla pericolosa ricerca del \"più grande tesoro mai trovato\", inseguendo indizi che potrebbero condurli al fratello di Nathan, scomparso da tempo.",
+      "impronta": "Uncharted|481|Ruben Fleischer"
     },
     {
-      "id": "tmdb-1102883",
-      "tmdbId": 1102883,
-      "imdbId": "tt27200708",
-      "titolo": "Mother Mary",
+      "id": "tmdb-414906",
+      "tmdbId": 414906,
+      "imdbId": "tt1877830",
+      "titolo": "The Batman",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-05-14",
-      "lista": "casa",
-      "regia": "David Lowery",
+      "anno": "2022",
+      "uscitaItalia": "2022-03-03",
+      "lista": "visto",
+      "regia": "Matt Reeves",
       "generi": [
-        "Musica",
-        "Dramma",
+        "Crime",
+        "Mistero",
         "Thriller"
       ],
       "paesi": [
-        "USA",
-        "Germania",
-        "Irlanda",
-        "Finlandia"
-      ],
-      "durata": 112,
-      "tagline": "This is not a ghost story.",
-      "cast": [
-        "Anne Hathaway (Mother Mary)",
-        "Michaela Coel (Sam Anselm)",
-        "Hunter Schafer (Hilda Offer)",
-        "FKA twigs (Imogen)",
-        "Sian Clifford (Jade)",
-        "Kaia Gerber (Nikki)",
-        "Alba Baptista (Miel Contrera)",
-        "Atheena Frizzell (Emily)"
-      ],
-      "tramaTmdb": "Alla vigilia del suo grande rientro in scena, l’iconica pop star Mother Mary riavvicina Sam, un tempo sua migliore amica e costumista e ora stilista affermata, per chiederle di confezionarle un nuovo abito. L’incontro riaprirà la strada a sentimenti forti e mai sopiti, ferite e tensioni irrisolte.",
-      "impronta": "Mother Mary|298|David Lowery"
-    },
-    {
-      "id": "tmdb-1273221",
-      "tmdbId": 1273221,
-      "imdbId": "tt32093575",
-      "titolo": "Scary Movie",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-06-04",
-      "lista": "casa",
-      "regia": "Michael Tiddes",
-      "generi": [
-        "Commedia"
-      ],
-      "paesi": [
         "USA"
       ],
-      "durata": 96,
-      "tagline": "Ogni limite sarà superato.",
+      "durata": 176,
+      "tagline": "Smaschera la verità.",
       "cast": [
-        "Marlon Wayans (Shorty / 'Joe' / 'Tiffany' / Count Brolock)",
-        "Shawn Wayans (Ray)",
-        "Anna Faris (Cindy)",
-        "Regina Hall (Brenda)",
-        "Olivia Rose Keegan (Sara)",
-        "Cameron Scott Roberts (Jack)",
-        "Savannah Lee Nassif (Tuesday)",
-        "Sydney Park (DEI)"
+        "Robert Pattinson (Bruce Wayne / The Batman)",
+        "Zoë Kravitz (Selina Kyle)",
+        "Jeffrey Wright (Lt. James Gordon)",
+        "Colin Farrell (Oz / The Penguin)",
+        "Paul Dano (The Riddler)",
+        "John Turturro (Carmine Falcone)",
+        "Andy Serkis (Alfred)",
+        "Peter Sarsgaard (District Attorney Gil Colson)"
       ],
-      "tramaTmdb": "Ventisei anni dopo essere sfuggiti a un killer mascherato fin troppo familiare, i Core Four tornano nel mirino dell’assassino — e nessun franchise horror è al sicuro.",
-      "impronta": "Scary Movie|166|Michael Tiddes"
+      "tramaTmdb": "Quando un killer prende di mira l’élite di Gotham con una serie di malvagi stratagemmi, una scia di indizi criptici spinge il più grande detective del mondo a indagare nei bassifondi, incontrando personaggi come Selina Kyle alias Catwoman, Oswald Cobblepot alias il Pinguino, Carmine Falcone e Edward Nashton alias l’Enigmista. Mentre le prove iniziano a condurlo più vicino alla soluzione e la portata dei piani del malfattore diventa chiara, Batman deve stringere nuove alleanze, smascherare il colpevole e rendere giustizia all’abuso di potere e alla corruzione che da tempo affliggono Gotham City.",
+      "impronta": "The Batman|601|Matt Reeves"
     },
     {
-      "id": "tmdb-1084244",
-      "tmdbId": 1084244,
-      "imdbId": "tt29355505",
-      "titolo": "Toy Story 5",
+      "id": "tmdb-361743",
+      "tmdbId": 361743,
+      "imdbId": "tt1745960",
+      "titolo": "Top Gun: Maverick",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-06-18",
-      "lista": "casa",
-      "regia": "Andrew Stanton",
-      "generi": [
-        "Animazione",
-        "Famiglia",
-        "Commedia",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 102,
-      "tagline": "Ciao! Giochiamo!",
-      "cast": [
-        "Joan Cusack (Jessie (voice))",
-        "Tom Hanks (Woody (voice))",
-        "Tim Allen (Buzz Lightyear (voice))",
-        "Conan O'Brien (Smarty Pants (voice))",
-        "Scarlett Spears (Bonnie (voice))",
-        "Greta Lee (Lilypad (voice))",
-        "Shelby Rabara (Snappy (voice))",
-        "Mykal-Michelle Harris (Blaze (voice))"
-      ],
-      "tramaTmdb": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
-      "impronta": "Toy Story 5|227|Andrew Stanton"
-    },
-    {
-      "id": "tmdb-1022888",
-      "tmdbId": 1022888,
-      "imdbId": "tt22525442",
-      "titolo": "Ti auguro ogni bene",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-06-18",
-      "lista": "casa",
-      "regia": "Tommy Dorfman",
-      "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 93,
-      "tagline": "Essere amati per ciò che si è",
-      "cast": [
-        "Corey Fogelmanis (Ben de Backer)",
-        "Miles Gutierrez-Riley (Nathan)",
-        "Alexandra Daddario (Hannah)",
-        "Cole Sprouse (Thomas)",
-        "Amy Landecker (Brenda de Backer)",
-        "Judson Mills (Mr. de Backer)",
-        "Lexi Underwood (Meleika)",
-        "Lisa Yamada (Sophie)"
-      ],
-      "tramaTmdb": "In una scuola diversa, con nuovi compagni e nuovi sguardi addosso, Ben si sente perso. Finché non incontra Ms. Lions, un’eccentrica insegnante d’arte capace di leggere oltre il silenzio, e Nathan, uno studente gentile che vede Ben per quello che è davvero. Tra timidezze, prime emozioni, ansie, piccoli fallimenti e improvvise cadute, Ben scopre che crescere significa anche lasciarsi aiutare, accettare l’amore degli altri e trovare la forza di amarsi per primi. Mentre affronta il dolore dell’abbandono e la confusione del presente, Ben inizia un percorso di rinascita che parla a chiunque abbia mai avuto paura di essere sé stesso. Attraverso legami inattesi e nuovi punti di appoggio, impara che la verità, anche quando fa male, può aprire la strada a una vita finalmente libera.",
-      "impronta": "Ti auguro ogni bene|783|Tommy Dorfman"
-    },
-    {
-      "id": "tmdb-19995",
-      "tmdbId": 19995,
-      "imdbId": "tt0499549",
-      "titolo": "Avatar",
-      "titoloOriginale": null,
-      "anno": "2010",
-      "uscitaItalia": "2010-01-15",
+      "anno": "2022",
+      "uscitaItalia": "2022-05-25",
       "lista": "visto",
-      "regia": "James Cameron",
+      "regia": "Joseph Kosinski",
       "generi": [
-        "Fantascienza",
         "Azione",
-        "Avventura"
+        "Dramma"
       ],
       "paesi": [
-        "USA",
-        "Gran Bretagna"
+        "USA"
       ],
-      "durata": 162,
-      "tagline": "Entra nel mondo di Pandora.",
+      "durata": 131,
+      "tagline": "Feel the need... The need for speed.",
       "cast": [
-        "Sam Worthington (Jake Sully)",
-        "Zoe Saldaña (Neytiri)",
-        "Sigourney Weaver (Dr. Grace Augustine)",
-        "Stephen Lang (Colonel Miles Quaritch)",
-        "Michelle Rodriguez (Trudy Chacon)",
-        "Giovanni Ribisi (Parker Selfridge)",
-        "Joel David Moore (Norm Spellman)",
-        "CCH Pounder (Mo'at)"
+        "Tom Cruise (Capt. Pete 'Maverick' Mitchell)",
+        "Miles Teller (Lt. Bradley 'Rooster' Bradshaw)",
+        "Jennifer Connelly (Penny Benjamin)",
+        "Bashir Salahuddin (Wo-1. Bernie 'Hondo' Coleman)",
+        "Jon Hamm (Adm. Beau 'Cyclone' Simpson)",
+        "Charles Parnell (Adm. Solomon 'Warlock' Bates)",
+        "Monica Barbaro (Lt. Natasha 'Phoenix' Trace)",
+        "Lewis Pullman (Lt. Robert 'Bob' Floyd)"
       ],
-      "tramaTmdb": "Jake Sully è un marine costretto su una sedia a rotelle che accetta di trasferirsi sul pianeta Pandora in sostituzione del fratello morto, la cui missione era quella di esplorare il pianeta. Essendo l'atmosfera del pianeta tossica per gli umani sono stati creati degli esseri simili ai nativi Na'vi che possono essere 'guidati' dagli umani. Pandora è un enorme giacimento di un minerale prezioso per la Terra dove le fonti di energia sono azzerate. Gli indigeni Na'vi non hanno intenzione di essere colonizzati. Il compito iniziale dell'avatar di Jake sarà quello di conoscerne usi e costumi e di farsi accettare all'interno delle comunità indigene. Jake conosce così Neytiri, una guerriera Na'vi figlia del capo tribù. Da lei impara a divenire un guerriero molto diverso dal marine che è stato e se ne innamora ricambiato.",
-      "impronta": "Avatar|823|James Cameron"
+      "tramaTmdb": "Dopo più di trent’anni di servizio nella Marina, il capitano Pete “Maverick” Mitchell si ritrova a essere quello che sognava, un pilota collaudatore che può spingersi oltre ogni limite, schivando l’avanzamento di carriera che metterebbe un freno alla sua libertà. Quando viene richiamato a addestrare i migliori allievi Top Gun per una missione di altissima specializzazione, Maverick incontra il tenente Bradley Bradshaw, nome in codice “Rooster”, figlio del compianto “Goose”. Alle prese con un futuro incerto e con i fantasmi del passato, Maverick deve confrontarsi con le sue paure più profonde, fino alla missione che richiederà il sacrificio ultimo di quelli che sceglieranno di parteciparvi.",
+      "impronta": "Top Gun: Maverick|698|Joseph Kosinski"
     },
     {
-      "id": "tmdb-135397",
-      "tmdbId": 135397,
-      "imdbId": "tt0369610",
-      "titolo": "Jurassic World",
+      "id": "tmdb-507086",
+      "tmdbId": 507086,
+      "imdbId": "tt8041270",
+      "titolo": "Jurassic World - Il dominio",
       "titoloOriginale": null,
-      "anno": "2015",
-      "uscitaItalia": "2015-06-11",
+      "anno": "2022",
+      "uscitaItalia": "2022-06-02",
       "lista": "visto",
       "regia": "Colin Trevorrow",
       "generi": [
@@ -631,122 +330,419 @@
       "paesi": [
         "USA"
       ],
-      "durata": 124,
-      "tagline": "Il parco è aperto.",
+      "durata": 146,
+      "tagline": "L'epica conclusione dell'era Giurassica",
       "cast": [
-        "Chris Pratt (Owen)",
-        "Bryce Dallas Howard (Claire)",
-        "Irrfan Khan (Masrani)",
-        "Vincent D'Onofrio (Hoskins)",
-        "Ty Simpkins (Gray)",
-        "Nick Robinson (Zach)",
-        "Jake Johnson (Lowery)",
-        "Omar Sy (Barry)"
+        "Chris Pratt (Owen Grady)",
+        "Bryce Dallas Howard (Claire Dearing)",
+        "Laura Dern (Ellie Sattler)",
+        "Sam Neill (Alan Grant)",
+        "Jeff Goldblum (Ian Malcolm)",
+        "DeWanda Wise (Kayla Watts)",
+        "Mamoudou Athie (Ramsay Cole)",
+        "Isabella Sermon (Maisie Lockwood / Young Charlotte Lockwood)"
       ],
-      "tramaTmdb": "Ventidue anni dopo gli eventi di Jurassic Park, Isla Nublar dispone di un parco a tema di dinosauri completamente rifatto che calamita milioni di turisti: il Jurassic World, proprio come il sogno originale dell'ormai deceduto magnate John Hammond, costruito sui resti del parco originale. Tra i membri dello staff vi è Owen Grady, un ex militare che svolge ricerche comportamentali su un branco di quattro velociraptor.  Passati alcuni anni dall'apertura, il numero di turisti in visita al Jurassic World inizia a calare. Per ravvivarne l'interesse, la responsabile delle operazioni e il genetista capo decidono di creare un nuovo dinosauro, combinando i DNA di diverse specie, e di chiamarlo Indominus Rex. Poco prima dell'inaugurazione, l'Indominus Rex riesce a fuggire e inizia a scatenare il caos.",
-      "impronta": "Jurassic World|801|Colin Trevorrow"
+      "tramaTmdb": "Il Dominio si svolge quattro anni dopo la distruzione di Isla Nublar. I dinosauri ora vivono e cacciano insieme agli umani in tutto il mondo. Questo equilibrio fragile rimodellerà il futuro e determinerà, una volta per tutte, se gli esseri umani rimarranno i predatori dominanti su un pianeta che ora condividono con le creature più temibili della storia.",
+      "impronta": "Jurassic World - Il dominio|355|Colin Trevorrow"
     },
     {
-      "id": "tmdb-335984",
-      "tmdbId": 335984,
-      "imdbId": "tt1856101",
-      "titolo": "Blade Runner 2049",
+      "id": "tmdb-593643",
+      "tmdbId": 593643,
+      "imdbId": "tt9764362",
+      "titolo": "The Menu",
       "titoloOriginale": null,
-      "anno": "2017",
-      "uscitaItalia": "2017-10-05",
+      "anno": "2022",
+      "uscitaItalia": "2022-11-17",
+      "lista": "visto",
+      "regia": "Mark Mylod",
+      "generi": [
+        "Commedia",
+        "Horror"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 107,
+      "tagline": "Meravigliose sorprese vi attendono",
+      "cast": [
+        "Anya Taylor-Joy (Margot)",
+        "Ralph Fiennes (Chef Slowik)",
+        "Nicholas Hoult (Tyler)",
+        "Janet McTeer (Lillian)",
+        "Paul Adelstein (Ted)",
+        "Rob Yang (Bryce)",
+        "Aimee Carrero (Felicity)",
+        "John Leguizamo (Movie Star)"
+      ],
+      "tramaTmdb": "Margot e Tyler sono una giovane coppia che si reca su una remota ed elitaria isola privata per cenare in un ristorante esclusivo, dove un misterioso chef ha messo a punto un costosissimo e sontuoso menù. Ma i pretenziosi e viziati clienti del locale troveranno alcune scioccanti sorprese ad attenderli.",
+      "impronta": "The Menu|302|Mark Mylod"
+    },
+    {
+      "id": "tmdb-76600",
+      "tmdbId": 76600,
+      "imdbId": "tt1630029",
+      "titolo": "Avatar: La via dell'acqua",
+      "titoloOriginale": null,
+      "anno": "2022",
+      "uscitaItalia": "2022-12-14",
+      "lista": "visto",
+      "regia": "James Cameron",
+      "generi": [
+        "Azione",
+        "Avventura",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 190,
+      "tagline": "Ritorno a Pandora.",
+      "cast": [
+        "Sam Worthington (Jake Sully)",
+        "Zoe Saldaña (Neytiri)",
+        "Sigourney Weaver (Kiri)",
+        "Stephen Lang (Colonel Miles Quaritch)",
+        "Kate Winslet (Ronal)",
+        "Cliff Curtis (Tonowari)",
+        "Joel David Moore (Norm Spellman)",
+        "CCH Pounder (Mo'at)"
+      ],
+      "tramaTmdb": "Jake vive felicemente la sua vita insieme a Neytiri ma Pandora nasconde ancora numerosi misteri. Quando una vecchia, familiare minaccia torna ad affacciarsi per terminare quel che era stato iniziato un tempo, Jake dovrà nuovamente collaborare con l'esercito dei Na'vi per proteggere il loro incredibile pianeta. In veste di patriarca si ritroverà a dover combattere una dura guerra contro gli umani. Jake e Neytiri saranno pertanto costretti a lasciare la loro casa ed esplorare varie regioni di Pandora...",
+      "impronta": "Avatar: La via dell'acqua|506|James Cameron"
+    },
+    {
+      "id": "tmdb-785084",
+      "tmdbId": 785084,
+      "imdbId": "tt13833688",
+      "titolo": "The Whale",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-02-23",
+      "lista": "visto",
+      "regia": "Darren Aronofsky",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": null,
+      "cast": [
+        "Brendan Fraser (Charlie)",
+        "Sadie Sink (Ellie)",
+        "Ty Simpkins (Thomas)",
+        "Hong Chau (Liz)",
+        "Samantha Morton (Mary)",
+        "Sathya Sridharan (Dan the Pizza Man)",
+        "Jacey Sink (Young Ellie)",
+        "Allison Altman (Young Mary (uncredited))"
+      ],
+      "tramaTmdb": "Charlie è un uomo obeso di una cinquantina d'anni. Vive solo, passa le giornate seduto sul divano tenendo corsi di scrittura online, guardando la tv e mangiando compulsivamente. Nella sua vita ci sono Liz, amica infermiera che si prende cura del suo stato di salute sempre più precario, e la figlia Ellie, diciassettenne che ha abbandonato quando era bambina per seguire l'amore della sua vita, Adam, il cui successivo suicidio è alla causa della sua obesità. Sentendo la morte avvicinarsi Charlie decide di spendere il tempo che gli resta per riconciliarsi con Ellie, la quale non gli ha mai perdonato la sua scelta...",
+      "impronta": "The Whale|619|Darren Aronofsky"
+    },
+    {
+      "id": "tmdb-502356",
+      "tmdbId": 502356,
+      "imdbId": "tt6718170",
+      "titolo": "Super Mario Bros. Il Film",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-04-05",
+      "lista": "visto",
+      "regia": "Aaron Horvath",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 92,
+      "tagline": "Not all heroes wear capes. Some wear overalls.",
+      "cast": [
+        "Chris Pratt (Mario (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Seth Rogen (Donkey Kong (voice))",
+        "Fred Armisen (Cranky Kong (voice))",
+        "Sebastian Maniscalco (Spike (voice))"
+      ],
+      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
+      "impronta": "Super Mario Bros. Il Film|258|Aaron Horvath"
+    },
+    {
+      "id": "tmdb-447277",
+      "tmdbId": 447277,
+      "imdbId": "tt5971474",
+      "titolo": "La sirenetta",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-05-24",
+      "lista": "visto",
+      "regia": "Rob Marshall",
+      "generi": [
+        "Avventura",
+        "Famiglia",
+        "Fantasy",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 135,
+      "tagline": "Be a part of her world.",
+      "cast": [
+        "Halle Bailey (Ariel)",
+        "Jonah Hauer-King (Eric)",
+        "Melissa McCarthy (Ursula)",
+        "Javier Bardem (King Triton)",
+        "Noma Dumezweni (The Queen)",
+        "Art Malik (Sir Grimsby)",
+        "Daveed Diggs (Sebastian (voice))",
+        "Jacob Tremblay (Flounder (voice))"
+      ],
+      "tramaTmdb": "La Sirenetta racconta l'amata storia di Ariel, una bellissima e vivace giovane sirena in cerca di avventura. Ariel, la figlia più giovane di Re Tritone e la più ribelle, desidera scoprire di più sul mondo al di là del mare e, mentre esplora la superficie, si innamora dell'affascinante principe Eric. Alle sirene è vietato interagire con gli umani ma Ariel deve seguire il suo cuore e stringe un patto con la malvagia strega del mare, Ursula, che le offre la possibilità di sperimentare la vita sulla terraferma, mettendo però in pericolo la sua vita e la corona di suo padre.",
+      "impronta": "La sirenetta|576|Rob Marshall"
+    },
+    {
+      "id": "tmdb-346698",
+      "tmdbId": 346698,
+      "imdbId": "tt1517268",
+      "titolo": "Barbie",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-07-20",
+      "lista": "visto",
+      "regia": "Greta Gerwig",
+      "generi": [
+        "Commedia",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 114,
+      "tagline": "Lei può essere tutto ciò che vuole. Lui è solo Ken.",
+      "cast": [
+        "Margot Robbie (Barbie)",
+        "Ryan Gosling (Ken)",
+        "America Ferrera (Gloria)",
+        "Ariana Greenblatt (Sasha)",
+        "Issa Rae (Barbie)",
+        "Kate McKinnon (Barbie)",
+        "Alexandra Shipp (Barbie)",
+        "Emma Mackey (Barbie)"
+      ],
+      "tramaTmdb": "Barbie, che vive a Barbie Land, viene cacciata dal paese perché non è una bambola dall'aspetto perfetto. Senza un posto dove andare, parte per il mondo umano e cerca la vera felicità.",
+      "impronta": "Barbie|183|Greta Gerwig"
+    },
+    {
+      "id": "tmdb-872585",
+      "tmdbId": 872585,
+      "imdbId": "tt15398776",
+      "titolo": "Oppenheimer",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-08-23",
+      "lista": "visto",
+      "regia": "Christopher Nolan",
+      "generi": [
+        "Dramma",
+        "Storia"
+      ],
+      "paesi": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 189,
+      "tagline": "Il mondo cambia per sempre",
+      "cast": [
+        "Cillian Murphy (J. Robert Oppenheimer)",
+        "Emily Blunt (Kitty Oppenheimer)",
+        "Matt Damon (Leslie Groves)",
+        "Robert Downey Jr. (Lewis Strauss)",
+        "Florence Pugh (Jean Tatlock)",
+        "Josh Hartnett (Ernest Lawrence)",
+        "Casey Affleck (Boris Pash)",
+        "Rami Malek (David Hill)"
+      ],
+      "tramaTmdb": "La storia del ruolo di J. Robert Oppenheimer, i cui studi condussero alle scoperte legate alla bomba atomica, con il conseguente utilizzo durante le stragi di Hiroshima e Nagasaki durante la Seconda Guerra Mondiale.",
+      "impronta": "Oppenheimer|215|Christopher Nolan"
+    },
+    {
+      "id": "tmdb-1026227",
+      "tmdbId": 1026227,
+      "imdbId": "tt21800162",
+      "titolo": "C'è ancora domani",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-10-26",
+      "lista": "visto",
+      "regia": "Paola Cortellesi",
+      "generi": [
+        "Dramma",
+        "Commedia",
+        "Storia"
+      ],
+      "paesi": [
+        "Italia"
+      ],
+      "durata": 118,
+      "tagline": "The Italian phenomenon.",
+      "cast": [
+        "Paola Cortellesi (Delia)",
+        "Valerio Mastandrea (Ivano)",
+        "Romana Maggiora Vergano (Marcella)",
+        "Emanuela Fanelli (Marisa)",
+        "Giorgio Colangeli (Sor Ottorino)",
+        "Vinicio Marchioni (Nino)",
+        "Alessia Barela (Orietta)",
+        "Francesco Centorame (Giulio)"
+      ],
+      "tramaTmdb": "È primavera e tutta la famiglia è in fermento per l'imminente fidanzamento dell'amata primogenita Marcella (Romana Maggiora Vergano), che, dal canto suo, spera solo di sposarsi in fretta con un bravo ragazzo di ceto borghese, Giulio (Francesco Centorame), e liberarsi finalmente di quella famiglia imbarazzante.",
+      "impronta": "C'è ancora domani|311|Paola Cortellesi"
+    },
+    {
+      "id": "tmdb-787699",
+      "tmdbId": 787699,
+      "imdbId": "tt6166392",
+      "titolo": "Wonka",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-12-14",
+      "lista": "visto",
+      "regia": "Paul King",
+      "generi": [
+        "Commedia",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": "Tutte le cose belle a questo mondo sono cominciate con un sogno.",
+      "cast": [
+        "Timothée Chalamet (Willy Wonka)",
+        "Calah Lane (Noodle)",
+        "Keegan-Michael Key (Chief of Police)",
+        "Hugh Grant (Oompa Loompa)",
+        "Paterson Joseph (Arthur Slugworth)",
+        "Olivia Colman (Mrs. Scrubbit)",
+        "Tom Davis (Bleacher)",
+        "Jim Carter (Abacus Crunch)"
+      ],
+      "tramaTmdb": "Basato sullo straordinario protagonista de La Fabbrica di Cioccolato, il romanzo per bambini più iconico dell’autore Roald Dahl nonché uno dei libri per bambini più venduti di tutti i tempi, Wonka racconta la meravigliosa storia di come il più grande inventore, mago e cioccolataio del mondo sia diventato l'amato Willy Wonka che conosciamo oggi.",
+      "impronta": "Wonka|346|Paul King"
+    },
+    {
+      "id": "tmdb-693134",
+      "tmdbId": 693134,
+      "imdbId": "tt15239678",
+      "titolo": "Dune - Parte due",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-02-28",
       "lista": "visto",
       "regia": "Denis Villeneuve",
       "generi": [
         "Fantascienza",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 166,
+      "tagline": "Lunga vita ai combattenti",
+      "cast": [
+        "Timothée Chalamet (Paul Atreides)",
+        "Zendaya (Chani)",
+        "Rebecca Ferguson (Jessica)",
+        "Javier Bardem (Stilgar)",
+        "Josh Brolin (Gurney Halleck)",
+        "Austin Butler (Feyd-Rautha)",
+        "Florence Pugh (Princess Irulan)",
+        "Dave Bautista (Beast Rabban)"
+      ],
+      "tramaTmdb": "Paul Atreides si unisce a Chani e ai Fremen mentre è sul sentiero di guerra per vendicarsi dei cospiratori che hanno annientato la sua famiglia. Di fronte a una scelta tra l'amore della sua vita e il destino dell'universo conosciuto, Paul si sforza di prevenire un terribile futuro che solo lui può prevedere.",
+      "impronta": "Dune - Parte due|309|Denis Villeneuve"
+    },
+    {
+      "id": "tmdb-558449",
+      "tmdbId": 558449,
+      "imdbId": "tt9218128",
+      "titolo": "Il gladiatore II",
+      "titoloOriginale": null,
+      "anno": "2024",
+      "uscitaItalia": "2024-11-14",
+      "lista": "visto",
+      "regia": "Ridley Scott",
+      "generi": [
+        "Azione",
+        "Avventura",
         "Dramma"
       ],
       "paesi": [
-        "Canada",
+        "USA"
+      ],
+      "durata": 148,
+      "tagline": "Ciò che facciamo nella vita riecheggia nell'eternità.",
+      "cast": [
+        "Paul Mescal (Lucius)",
+        "Denzel Washington (Macrinus)",
+        "Pedro Pascal (General Acacius)",
+        "Connie Nielsen (Lucilla)",
+        "Joseph Quinn (Emperor Geta)",
+        "Fred Hechinger (Emperor Caracalla)",
+        "ליאור רז (Viggo)",
+        "Derek Jacobi (Gracchus)"
+      ],
+      "tramaTmdb": "Anni dopo aver assistito alla tragica morte del venerato eroe Massimo per mano del suo perfido zio, Lucio (Paul Mescal) si trova costretto a combattere nel Colosseo dopo che la sua patria viene conquistata da parte di due tirannici imperatori, che ora governano Roma.  Con il cuore ardente di rabbia e il destino dell'Impero appeso a un filo, Lucio deve affrontare pericoli e nemici, riscoprendo nel suo passato la forza e l'onore necessari per riportare la gloria di Roma al suo popolo. Preparatevi per un viaggio epico di coraggio e vendetta nella sanguinosa arena del Colosseo.",
+      "impronta": "Il gladiatore II|580|Ridley Scott"
+    },
+    {
+      "id": "tmdb-1100988",
+      "tmdbId": 1100988,
+      "imdbId": "tt10548174",
+      "titolo": "28 anni dopo",
+      "titoloOriginale": null,
+      "anno": "2025",
+      "uscitaItalia": "2025-06-18",
+      "lista": "visto",
+      "regia": "Danny Boyle",
+      "generi": [
+        "Horror",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "paesi": [
         "Gran Bretagna",
         "USA"
       ],
-      "durata": 164,
-      "tagline": "Chi sono io?",
+      "durata": 115,
+      "tagline": "Nessun posto è sicuro.",
       "cast": [
-        "Ryan Gosling ('K')",
-        "Harrison Ford (Rick Deckard)",
-        "Ana de Armas (Joi)",
-        "Dave Bautista (Sapper Morton)",
-        "Robin Wright (Lieutenant Joshi)",
-        "Sylvia Hoeks (Luv)",
-        "Mackenzie Davis (Mariette)",
-        "Jared Leto (Niander Wallace)"
+        "Aaron Taylor-Johnson (Jamie)",
+        "Alfie Williams (Spike)",
+        "Ralph Fiennes (Dr. Kelson)",
+        "Jodie Comer (Isla)",
+        "Jack O'Connell (Sir Jimmy Crystal)",
+        "Chi Lewis-Parry (Samson)",
+        "Edvin Ryding (Erik Sundqvist)",
+        "Christopher Fulford (Sam)"
       ],
-      "tramaTmdb": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che è rimasto della società. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
-      "impronta": "Blade Runner 2049|365|Denis Villeneuve"
-    },
-    {
-      "id": "tmdb-351286",
-      "tmdbId": 351286,
-      "imdbId": "tt4881806",
-      "titolo": "Jurassic World – Il regno distrutto",
-      "titoloOriginale": null,
-      "anno": "2018",
-      "uscitaItalia": "2018-06-07",
-      "lista": "visto",
-      "regia": "J. A. Bayona",
-      "generi": [
-        "Avventura",
-        "Fantascienza",
-        "Thriller",
-        "Azione"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 124,
-      "tagline": "La vita vince sempre",
-      "cast": [
-        "Chris Pratt (Owen Grady)",
-        "Bryce Dallas Howard (Claire Dearing)",
-        "Rafe Spall (Eli Mills)",
-        "Justice Smith (Franklin Webb)",
-        "Daniella Pineda (Zia Rodriguez)",
-        "James Cromwell (Benjamin Lockwood)",
-        "Toby Jones (Mr. Eversoll)",
-        "Ted Levine (Ken Wheatley)"
-      ],
-      "tramaTmdb": "Sono passati tre anni da quando il parco tematico di Jurassic World è stato distrutto dai dinosauri scappati dalle gabbie di contenimento; Isla Nublar adesso è un luogo selvaggio abbandonato dagli umani dove i dinosauri sopravvissuti cercano riparo nella giungla.  Al risveglio del vulcano, inattivo fino a quel momento, Owen (Chris Pratt) e Claire (Bryce Dallas Howard) intraprendono una campagna per salvaguardare le specie di dinosauri ancora in vita da un evento di distruzione di massa. Owen è intento a cercare Blue, il suo principale velociraptor ancora disperso nella foresta, mentre Claire nel frattempo ha sviluppato un rispetto nei confronti di queste creature, divenute ormai la sua missione.  Giunti sull’isola proprio mentre la lava inizia a scorrere i due scoprono anche una cospirazione di portata globale che potrebbe far ritornare l’intero pianeta a un rovinoso stato di disordine come non si vedeva dalla preistoria.",
-      "impronta": "Jurassic World – Il regno distrutto|935|J. A. Bayona"
-    },
-    {
-      "id": "tmdb-475557",
-      "tmdbId": 475557,
-      "imdbId": "tt7286456",
-      "titolo": "Joker",
-      "titoloOriginale": null,
-      "anno": "2019",
-      "uscitaItalia": "2019-10-03",
-      "lista": "visto",
-      "regia": "Todd Phillips",
-      "generi": [
-        "Crime",
-        "Thriller",
-        "Dramma"
-      ],
-      "paesi": [
-        "Canada",
-        "USA"
-      ],
-      "durata": 122,
-      "tagline": "Fai un bel sorriso.",
-      "cast": [
-        "Joaquin Phoenix (Arthur Fleck)",
-        "Robert De Niro (Murray Franklin)",
-        "Zazie Beetz (Sophie Dumond)",
-        "Frances Conroy (Penny Fleck)",
-        "Brett Cullen (Thomas Wayne)",
-        "Shea Whigham (Detective Burke)",
-        "Bill Camp (Detective Garrity)",
-        "Glenn Fleshler (Randall)"
-      ],
-      "tramaTmdb": "Arthur Fleck vive con l'anziana madre in un palazzone fatiscente e sbarca il lunario facendo pubblicità per la strada travestito da clown, in attesa di avere il giusto materiale per realizzare il desiderio di fare il comico. La sua vita, però, è una tragedia: ignorato, calpestato, bullizzato, preso in giro da da chiunque, ha sviluppato un tic nervoso che lo fa ridere a sproposito incontrollabilmente, rendendolo inquietante e allontanando ulteriormente da lui ogni possibile relazione sociale. Ma un giorno Arthur non ce la fa più e reagisce violentemente, pistola alla mano. Mentre la polizia di Gotham City dà la caccia al clown killer, la popolazione lo elegge a eroe metropolitano, simbolo della rivolta degli oppressi contro l'arroganza dei ricchi.",
-      "impronta": "Joker|756|Todd Phillips"
+      "tramaTmdb": "Sono passati quasi tre decenni da quando il virus della rabbia è fuoriuscito da un laboratorio di armi biologiche e ora, ancora in una quarantena forzata e brutale, alcuni sono riusciti a sopravvivere in mezzo agli infetti. Un gruppo di sopravvissuti vive su una piccola isola collegata alla terraferma da un'unica strada rialzata ed estremamente protetta. Quando uno di questi  lascia l'isola per una missione diretta nel profondo della terraferma, scoprirà segreti, meraviglie e orrori che hanno mutato non solo gli infetti ma anche gli altri sopravvissuti.",
+      "impronta": "28 anni dopo|559|Danny Boyle"
     }
   ]
 }

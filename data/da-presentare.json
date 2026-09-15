@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-14T05:06:22.980Z",
+  "preparato": "2026-09-15T05:07:06.620Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -143,347 +143,386 @@
       "impronta": "Un po' di luce|345|Ali Asgari"
     },
     {
-      "id": "tmdb-395991",
-      "tmdbId": 395991,
-      "imdbId": "tt3829920",
-      "origine": "scoperta",
-      "titolo": "Fire Squad - Incubo di fuoco",
-      "titoloOriginale": "Only the Brave",
-      "anno": "2018",
-      "uscitaItalia": "2018-08-22",
-      "regia": "Joseph Kosinski",
+      "id": "tmdb-1542877",
+      "tmdbId": 1542877,
+      "imdbId": "tt38649153",
+      "origine": "trailer",
+      "titolo": "Assassination Classroom: The Movie - L'ora di tutti noi",
+      "titoloOriginale": "劇場版「暗殺教室」みんなの時間",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-14",
+      "regia": "北村真咲",
       "generi": [
-        "Dramma",
-        "Storia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 133,
-      "tagline": "Solo i coraggiosi",
-      "cast": [
-        "Josh Brolin (Eric Marsh)",
-        "Miles Teller (Brendan 'Donut' McDonough)",
-        "Jeff Bridges (Duane Steinbrink)",
-        "Jennifer Connelly (Amanda Marsh)",
-        "James Badge Dale (Jesse Steed)",
-        "Taylor Kitsch (Christopher MacKenzie)"
-      ],
-      "tramaTmdb": "Basato sulla vera storia dei Granite Mountain Hotshots, narra dell’eroica storia di un’unità locale di pompieri che con speranza, determinazione, sacrificio e di voglia di proteggere famiglie, comunità e il paese, diventò una delle più importanti unità d’élite della nazione. Mentre molti di noi cercano di sfuggire al pericolo, loro lo fronteggiarono, proteggendo le nostre vite, le nostre case e le cose a noi più care, rivelando un incredibile spirito di corpo che venne fuori durante un fatale incendio.",
-      "motivi": [
-        "regia di Joseph Kosinski, di cui hai visto 2 film",
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "regia di Joseph Kosinski, che segui"
-      ],
-      "impronta": "Fire Squad - Incubo di fuoco|507|Joseph Kosinski"
-    },
-    {
-      "id": "tmdb-289",
-      "tmdbId": 289,
-      "imdbId": "tt0034583",
-      "origine": "scoperta",
-      "titolo": "Casablanca",
-      "titoloOriginale": "Casablanca",
-      "anno": "1946",
-      "uscitaItalia": "1946-10-03",
-      "regia": "Michael Curtiz",
-      "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 102,
-      "tagline": "Avevano un appuntamento con il destino a Casablanca!",
-      "cast": [
-        "Humphrey Bogart (Rick Blaine)",
-        "Ingrid Bergman (Ilsa Lund)",
-        "Paul Henreid (Victor Laszlo)",
-        "Claude Rains (Captain Louis Renault)",
-        "Conrad Veidt (Major Heinrich Strasser)",
-        "Sydney Greenstreet (Signor Ferrari)"
-      ],
-      "tramaTmdb": "Nel principale porto del Marocco nel 1941 si incontrano poliziotti francesi, spie naziste, fuoriusciti antifascisti, avventurieri di rango, piccoli sciacalli. L'americano Rick Blaine, proprietario di un bar, aiuta Ilsa, la donna che amava (e ama ancora) e suo marito, perseguitato politico, a lasciare in aereo la città.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Casablanca|320|Michael Curtiz"
-    },
-    {
-      "id": "tmdb-5156",
-      "tmdbId": 5156,
-      "imdbId": "tt0040522",
-      "origine": "scoperta",
-      "titolo": "Ladri di biciclette",
-      "titoloOriginale": "Ladri di biciclette",
-      "anno": "1948",
-      "uscitaItalia": "1948-11-24",
-      "regia": "Vittorio De Sica",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Italia"
-      ],
-      "durata": 92,
-      "tagline": "A tutto si rimedia, meno che alla morte.",
-      "cast": [
-        "Lamberto Maggiorani (Antonio)",
-        "Enzo Staiola (Bruno)",
-        "Lianella Carell (Maria)",
-        "Gino Saltamerenda (Baiocco)",
-        "Vittorio Antonucci (Alfredo Catelli, The Thief)",
-        "Giulio Chiari (The Beggar)"
-      ],
-      "tramaTmdb": "Dopo il furto della propria bicicletta, mezzo che gli permetteva di lavorare, un uomo vaga per la città con tutta la famiglia sperando di poterla ritrovare. Preso dalla disperazione non gli resta che rubarne una a sua volta ma viene bloccato dalla polizia, a questo punto il derubato commuovendosi lo lascia andare...",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Ladri di biciclette|317|Vittorio De Sica"
-    },
-    {
-      "id": "tmdb-20526",
-      "tmdbId": 20526,
-      "imdbId": "tt1104001",
-      "origine": "scoperta",
-      "titolo": "TRON: Legacy",
-      "titoloOriginale": "TRON: Legacy",
-      "anno": "2010",
-      "uscitaItalia": "2010-12-29",
-      "regia": "Joseph Kosinski",
-      "generi": [
-        "Avventura",
+        "Animazione",
+        "Commedia",
         "Azione",
         "Fantascienza"
       ],
       "paesi": [
-        "USA"
+        "Giappone"
       ],
-      "durata": 125,
-      "tagline": "l gioco è cambiato.",
+      "durata": 87,
+      "tagline": null,
       "cast": [
-        "Garrett Hedlund (Sam Flynn)",
-        "Olivia Wilde (Quorra)",
-        "Jeff Bridges (Kevin Flynn / Clu)",
-        "Bruce Boxleitner (Alan Bradley / Tron)",
-        "James Frain (Jarvis)",
-        "Beau Garrett (Gem)"
+        "Jun Fukuyama (Koro-sensei (voice))",
+        "Tomokazu Sugita (Tadaomi Karasuma (voice))",
+        "Shizuka Itō (Irina Jelavic (voice))",
+        "渕上舞 (Nagisa Shiota / Hotaru (voice))",
+        "Nobuhiko Okamoto (Karma Akabane (voice))",
+        "Aya Suzaki (Kaede Kayano (voice))"
       ],
-      "tramaTmdb": "Sam Flynn, esperto di tecnologia e figlio ventisettenne di Kevin Flynn, indaga sulla scomparsa del padre e si trova sospinto nello stesso mondo di programmi killer e potenti videogame in cui il padre è vissuto per 25 anni. Insieme a una fedele confidente, padre e figlio s'imbarcano in un viaggio ai limiti della vita e della morte in un cyber universo estremamente avanzato e pericoloso.",
-      "motivi": [
-        "regia di Joseph Kosinski, di cui hai visto 2 film",
-        "regia di Joseph Kosinski, che segui"
-      ],
-      "impronta": "TRON: Legacy|388|Joseph Kosinski"
+      "tramaTmdb": "Il film raccoglie episodi mai animati nella serie TV originale a causa dei limiti temporali e non si tratta solo di un omaggio per il decimo anniversario, ma anche di una continuazione diretta della storia principale.",
+      "motivi": [],
+      "impronta": "Assassination Classroom: The Movie - L'ora di tutti noi|217|北村真咲"
     },
     {
-      "id": "tmdb-980431",
-      "tmdbId": 980431,
-      "imdbId": "tt18259538",
+      "id": "tmdb-77338",
+      "tmdbId": 77338,
+      "imdbId": "tt1675434",
       "origine": "scoperta",
-      "titolo": "Avatar Aang: L’ultimo dominatore dell’aria",
-      "titoloOriginale": "Avatar Aang: The Last Airbender",
-      "anno": "2026",
-      "uscitaItalia": "2026-07-24",
-      "regia": "Lauren Montgomery",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy",
-        "Azione"
-      ],
-      "paesi": [
-        "USA",
-        "Corea del Sud",
-        "Australia"
-      ],
-      "durata": 100,
-      "tagline": "La leggenda si risveglia",
-      "cast": [
-        "Eric Nam (Aang (voice))",
-        "Dave Bautista (Tagah (voice))",
-        "Jessica Matten (Katara (voice))",
-        "Román Zaragoza (Sokka (voice))",
-        "Steven Yeun (Zuko (voice))",
-        "Dionne Quan (Toph (voice))"
-      ],
-      "tramaTmdb": "L'Avatar Aang, l'ultimo dominatore dell'aria, scopre un antico potere che potrebbe salvare la sua civiltà dall'estinzione. Insieme ai suoi amici, deve trovarlo prima che cada nelle mani sbagliate e distrugga la pace per cui hanno sacrificato tutto.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Avatar Aang: L’ultimo dominatore dell’aria|248|Lauren Montgomery"
-    },
-    {
-      "id": "tmdb-629",
-      "tmdbId": 629,
-      "imdbId": "tt0114814",
-      "origine": "scoperta",
-      "titolo": "I soliti sospetti",
-      "titoloOriginale": "The Usual Suspects",
-      "anno": "1995",
-      "uscitaItalia": "1995-11-30",
-      "regia": "Bryan Singer",
+      "titolo": "Quasi amici - Intouchables",
+      "titoloOriginale": "Intouchables",
+      "anno": "2012",
+      "uscitaItalia": "2012-02-24",
+      "regia": "Olivier Nakache",
       "generi": [
         "Dramma",
+        "Commedia"
+      ],
+      "paesi": [
+        "Francia"
+      ],
+      "durata": 113,
+      "tagline": null,
+      "cast": [
+        "François Cluzet (Philippe)",
+        "Omar Sy (Driss)",
+        "Anne Le Ny (Yvonne)",
+        "Audrey Fleurot (Magalie)",
+        "Joséphine de Meaux (La DRH société de courses)",
+        "Clotilde Mollet (Marcelle)"
+      ],
+      "tramaTmdb": "La vita derelitta di Driss, tra carcere, ricerca di sussidi statali e un rapporto non facile con la famiglia, subisce un'impennata quando, a sorpresa, il miliardario paraplegico Philippe lo sceglie come proprio aiutante personale. Incaricato di stargli sempre accanto per spostarlo, lavarlo, aiutarlo nella fisioterapia e via dicendo Driss non tiene a freno la sua personalità poco austera e contenuta. Diventa così l'elemento perturbatore in un ordine alto borghese fatto di regole e paletti, un portatore sano di vitalità e scurrilità che stringe un legame di sincera amicizia con il suo superiore,",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Quasi amici - Intouchables|600|Olivier Nakache"
+    },
+    {
+      "id": "tmdb-273481",
+      "tmdbId": 273481,
+      "imdbId": "tt3397884",
+      "origine": "scoperta",
+      "titolo": "Sicario",
+      "titoloOriginale": "Sicario",
+      "anno": "2015",
+      "uscitaItalia": "2015-09-24",
+      "regia": "Denis Villeneuve",
+      "generi": [
+        "Azione",
         "Crime",
         "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 105,
-      "tagline": "Cinque criminali, un confronto, nessuna coincidenza.",
+      "durata": 121,
+      "tagline": "Ci sono guerre in cui non c'è confine tra bene e male",
       "cast": [
-        "Stephen Baldwin (McManus)",
-        "Gabriel Byrne (Keaton)",
-        "Benicio Del Toro (Fenster)",
-        "Kevin Pollak (Hockney)",
-        "Kevin Spacey (Verbal)",
-        "Chazz Palminteri (Dave Kujan)"
+        "Emily Blunt (Kate Macer)",
+        "Benicio Del Toro (Alejandro Gillick)",
+        "Josh Brolin (Matt Graver)",
+        "Victor Garber (Dave Jennings)",
+        "Jon Bernthal (Ted)",
+        "Daniel Kaluuya (Reggie Wayne)"
       ],
-      "tramaTmdb": "Cinque criminali si ritrovano incomprensibilmente insieme in un confronto all'americana. Scopriranno che dietro a tutto c'è il re dei malfattori, Keyser Soze, che li costringerà a partecipare ad una missione suicida.",
+      "tramaTmdb": "Al confine tra Stati Uniti e Messico, in una zona dove non esiste la legge, Kate, un'agente dell'FBI idealista è arruolata da un agente del governo in una task force d'elite impegnata nella sempre più difficile guerra al traffico di droga. Guidati da un consulente dal passato discutibile, la squadra parte per una missione segreta che costringerà Kate a mettere in discussione tutto ciò in cui credeva, per poter sopravvivere.",
       "motivi": [
-        "dramma: il tuo terreno"
+        "regia di Denis Villeneuve, di cui hai visto 3 film",
+        "c'è Emily Blunt, che hai visto 3 volte",
+        "regia di Denis Villeneuve, che segui"
       ],
-      "impronta": "I soliti sospetti|216|Bryan Singer"
+      "impronta": "Sicario|427|Denis Villeneuve"
     },
     {
-      "id": "tmdb-382614",
-      "tmdbId": 382614,
-      "imdbId": "tt4572792",
+      "id": "tmdb-335",
+      "tmdbId": 335,
+      "imdbId": "tt0064116",
       "origine": "scoperta",
-      "titolo": "Il libro di Henry",
-      "titoloOriginale": "The Book of Henry",
-      "anno": "2017",
-      "uscitaItalia": "2017-11-23",
-      "regia": "Colin Trevorrow",
+      "titolo": "C'era una volta il West",
+      "titoloOriginale": "C'era una volta il West",
+      "anno": "1968",
+      "uscitaItalia": "1968-12-21",
+      "regia": "Sergio Leone",
+      "generi": [
+        "Dramma",
+        "Western"
+      ],
+      "paesi": [
+        "Italia",
+        "USA"
+      ],
+      "durata": 166,
+      "tagline": "Il più spettacolare western di tutti i tempi",
+      "cast": [
+        "Claudia Cardinale (Jill)",
+        "Henry Fonda (Frank)",
+        "Jason Robards ('Cheyenne')",
+        "Charles Bronson ('Harmonica')",
+        "Gabriele Ferzetti (Morton)",
+        "Paolo Stoppa (Sam)"
+      ],
+      "tramaTmdb": "Mentre i costruttori della ferrovia marciano inarrestabilmente attraverso il deserto dell'Arizona sulla loro strada verso il mare, Jill arriva nella piccola città di Flagstone intenzionata a iniziare una nuova vita.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "C'era una volta il West|215|Sergio Leone"
+    },
+    {
+      "id": "tmdb-146233",
+      "tmdbId": 146233,
+      "imdbId": "tt1392214",
+      "origine": "scoperta",
+      "titolo": "Prisoners",
+      "titoloOriginale": "Prisoners",
+      "anno": "2013",
+      "uscitaItalia": "2013-11-07",
+      "regia": "Denis Villeneuve",
       "generi": [
         "Dramma",
         "Thriller",
-        "Mistero"
+        "Crime"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 105,
-      "tagline": null,
+      "durata": 153,
+      "tagline": "Una ricerca disperata. Una verità oscura.",
       "cast": [
-        "Naomi Watts (Susan Carpenter)",
-        "Jaeden Martell (Henry Carpenter)",
-        "Jacob Tremblay (Peter Carpenter)",
-        "Sarah Silverman (Sheila)",
-        "Lee Pace (Dr. David Daniels)",
-        "Maddie Ziegler (Christina)"
+        "Hugh Jackman (Keller Dover)",
+        "Jake Gyllenhaal (Detective Loki)",
+        "Viola Davis (Nancy Birch)",
+        "Maria Bello (Grace Dover)",
+        "Terrence Howard (Franklin Birch)",
+        "Melissa Leo (Holly Jones)"
       ],
-      "tramaTmdb": "Susan Carpenter, madre single, scopre che il figlio, un vero genio, ha scritto un libro che contiene un piano per raddrizzare un terribile male che accade nella casa vicino alla sua. Tentando di mettere in atto quanto scritto, Susan scoprirà dentro di sé una nuova forza come genitrice.",
+      "tramaTmdb": "Nella (apparentemente) tranquilla provincia americana due bambine di sei e sette anni, Anna ed Eliza, escono a giocare insieme e svaniscono senza lasciare traccia. I genitori, fra di loro amici, reagiscono nei modi più disparati (e disperati): Keller, il padre della piccola Anna, comincia una caccia all'uomo senza esclusione di colpi, mentre sua moglie Grace si imbottisce di psicofarmaci per attutire il dolore e lo sgomento; Franklin, il padre di Eliza, cerca di non farsi travolgere dalla sete di giustizia di Keller, la moglie Nancy invece pare disposta ad appoggiarne i modi estremi.  Il detec",
       "motivi": [
-        "regia di Colin Trevorrow, di cui hai visto 2 film",
-        "regia di Colin Trevorrow, che segui"
+        "regia di Denis Villeneuve, di cui hai visto 3 film",
+        "regia di Denis Villeneuve, che segui"
       ],
-      "impronta": "Il libro di Henry|286|Colin Trevorrow"
+      "impronta": "Prisoners|600|Denis Villeneuve"
     },
     {
-      "id": "tmdb-118340",
-      "tmdbId": 118340,
-      "imdbId": "tt2015381",
+      "id": "tmdb-218",
+      "tmdbId": 218,
+      "imdbId": "tt0088247",
       "origine": "scoperta",
-      "titolo": "Guardiani della Galassia",
-      "titoloOriginale": "Guardians of the Galaxy",
-      "anno": "2014",
-      "uscitaItalia": "2014-10-22",
-      "regia": "James Gunn",
+      "titolo": "Terminator",
+      "titoloOriginale": "The Terminator",
+      "anno": "1985",
+      "uscitaItalia": "1985-01-25",
+      "regia": "James Cameron",
       "generi": [
         "Azione",
-        "Fantascienza",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 108,
+      "tagline": "Il tuo futuro è nelle sue mani.",
+      "cast": [
+        "Arnold Schwarzenegger (Terminator)",
+        "Michael Biehn (Kyle Reese)",
+        "Linda Hamilton (Sarah Connor)",
+        "Paul Winfield (Traxler)",
+        "Lance Henriksen (Vukovich)",
+        "Rick Rossovich (Matt)"
+      ],
+      "tramaTmdb": "Anno 2029: un computer chiamato Skynet sta lottando contro un gruppo di resistenza umana, dopo aver distrutto l'umanità nel 1997. Skynet manda nel passato uno dei suoi guerrieri, un cyborg di sembianze umane chiamato Terminator, per uccidere Sarah Connor, la madre del leader della resistenza, prima che dia alla luce suo figlio. La resistenza manda un guerriero di nome Kyle Reese nel 1984 per proteggere Sarah.",
+      "motivi": [
+        "regia di James Cameron, di cui hai visto 2 film",
+        "se ne parla adesso"
+      ],
+      "impronta": "Terminator|412|James Cameron"
+    },
+    {
+      "id": "tmdb-12155",
+      "tmdbId": 12155,
+      "imdbId": "tt1014759",
+      "origine": "scoperta",
+      "titolo": "Alice in Wonderland",
+      "titoloOriginale": "Alice in Wonderland",
+      "anno": "2010",
+      "uscitaItalia": "2010-03-03",
+      "regia": "Tim Burton",
+      "generi": [
+        "Famiglia",
+        "Fantasy",
         "Avventura"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 122,
-      "tagline": "Tutti gli eroi iniziano da qualche parte.",
+      "durata": 108,
+      "tagline": null,
       "cast": [
-        "Chris Pratt (Peter Quill)",
-        "Zoe Saldaña (Gamora)",
-        "Dave Bautista (Drax)",
-        "Vin Diesel (Groot (voice))",
-        "Bradley Cooper (Rocket (voice))",
-        "Lee Pace (Ronan)"
+        "Mia Wasikowska (Alice Kingsleigh)",
+        "Johnny Depp (Tarrant Hightopp / Mad Hatter)",
+        "Anne Hathaway (Mirana / White Queen)",
+        "Helena Bonham Carter (Iracebeth / Red Queen)",
+        "Crispin Glover (Ilosovic Stayne / Knave of Hearts)",
+        "Matt Lucas (Tweedledee / Tweedledum)"
       ],
-      "tramaTmdb": "L'audace esploratore Peter Quill è inseguito dai cacciatori di taglie per aver rubato una misteriosa sfera ambita da Ronan, un essere malvagio la cui sfrenata ambizione minaccia l'intero universo. Per sfuggire all’ostinato Ronan, Quill è costretto a una scomoda alleanza con quattro improbabili personaggi: Rocket, un procione armato; Groot, un umanoide dalle sembianze di un albero; la letale ed enigmatica Gamora e il vendicativo Drax il Distruttore. Ma quando Quill scopre il vero potere della sfera e la minaccia che costituisce per il cosmo, farà di tutto per guidare questa squadra improvvisata",
+      "tramaTmdb": "Alice teme di essere pazza. Da quando è piccola continua a fare lo stesso sogno, non sta mai attenta quando le parlano, è diversa dal resto della società che frequenta e non si integra nelle regole. Affinchè non rimanga zitella come la zia, che senza marito pazza lo è diventata sul serio, i parenti le combinano il matrimonio con un ottimo partito: un giovanotto integrato di nobile lignaggio e con qualche problema digestivo. Al ricevimento nel quale le verrà fatta la proposta però le visioni di Alice si fanno insistenti, il ticchettio di un orologio sembra ossessionarla e sul più bello vede com",
       "motivi": [
-        "c'è Chris Pratt, che hai visto 4 volte",
-        "c'è Chris Pratt, che hai visto 4 volte"
+        "c'è Anne Hathaway, che hai visto 2 volte",
+        "c'è Anne Hathaway, che hai visto 2 volte"
       ],
-      "impronta": "Guardiani della Galassia|600|James Gunn"
+      "impronta": "Alice in Wonderland|600|Tim Burton"
     },
     {
-      "id": "tmdb-489",
-      "tmdbId": 489,
-      "imdbId": "tt0119217",
+      "id": "tmdb-792307",
+      "tmdbId": 792307,
+      "imdbId": "tt14230458",
       "origine": "scoperta",
-      "titolo": "Will Hunting - Genio ribelle",
-      "titoloOriginale": "Good Will Hunting",
-      "anno": "1998",
-      "uscitaItalia": "1998-03-06",
-      "regia": "Gus Van Sant",
+      "titolo": "Povere creature!",
+      "titoloOriginale": "Poor Things",
+      "anno": "2024",
+      "uscitaItalia": "2024-01-25",
+      "regia": "Yórgos Lánthimos",
       "generi": [
-        "Dramma"
+        "Fantascienza",
+        "Romance",
+        "Commedia"
+      ],
+      "paesi": [
+        "Irlanda",
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 141,
+      "tagline": "Lei non somiglia a niente che tu conosca.",
+      "cast": [
+        "Emma Stone (Bella Baxter)",
+        "Mark Ruffalo (Duncan Wedderburn)",
+        "Willem Dafoe (Godwin Baxter)",
+        "Ramy Youssef (Max McCandles)",
+        "Christopher Abbott (Alfie Blessington)",
+        "Suzy Bemba (Toinette)"
+      ],
+      "tramaTmdb": "Bella Baxter viene riportata in vita dal brillante e poco ortodosso scienziato Dr. Godwin Baxter. Affamata della mondanità che le manca, Bella fugge con Duncan Wedderburn, un avvocato elegante e dissoluto, in una vorticosa avventura attraverso i continenti.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Povere creature!|257|Yórgos Lánthimos"
+    },
+    {
+      "id": "tmdb-22",
+      "tmdbId": 22,
+      "imdbId": "tt0325980",
+      "origine": "scoperta",
+      "titolo": "La maledizione della prima luna",
+      "titoloOriginale": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "anno": "2003",
+      "uscitaItalia": "2003-09-05",
+      "regia": "Gore Verbinski",
+      "generi": [
+        "Avventura",
+        "Fantasy",
+        "Azione"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 126,
-      "tagline": "Selvaggio. Geniale. Ribelle. Nei primi vent'anni della sua vita Will Hunting ha ignorato ogni regola, ora sta per incontrare chi gli può tenere testa.",
+      "durata": 135,
+      "tagline": "Preparatevi ad esser soffiati fuori dall'acqua.",
       "cast": [
-        "Matt Damon (Will Hunting)",
-        "Robin Williams (Sean Maguire)",
-        "Ben Affleck (Chuckie Sullivan)",
-        "Stellan Skarsgård (Gerald Lambeau)",
-        "Minnie Driver (Skylar)",
-        "Casey Affleck (Morgan O'Mally)"
+        "Johnny Depp (Jack Sparrow)",
+        "Geoffrey Rush (Barbossa)",
+        "Orlando Bloom (Will Turner)",
+        "Keira Knightley (Elizabeth Swann)",
+        "Jack Davenport (Norrington)",
+        "Jonathan Pryce (Governor Weatherby Swann)"
       ],
-      "tramaTmdb": "Will Hunting è un ragazzo orfano dedito a piccoli furti, ma con grandi capacità per la matematica. Queste doti vengono notate da un professore universitario, che mandandolo da un suo amico psichiatra cerca di aiutarlo a togliersi dalla strada.",
+      "tramaTmdb": "Caraibi, 1700. La figlia del governatore viene rapita dal malvagio pirata Barbossa. Will Turner  amico d'infanzia della ragazza e segretamente innamorato di lei, si unisce a Jack Sparrow, un pirata vagabondo e per cui la parola strano suona eufemistica, per portare in salvo la fanciulla. Ma per riuscirci, dovranno affrontare misteriose e sinistre forze del male che risalgono addirittura a una maledizione azteca...",
       "motivi": [
-        "c'è Matt Damon, che hai visto 2 volte",
-        "dramma: il tuo terreno"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Will Hunting - Genio ribelle|243|Gus Van Sant"
+      "impronta": "La maledizione della prima luna|417|Gore Verbinski"
     },
     {
-      "id": "tmdb-426",
-      "tmdbId": 426,
-      "imdbId": "tt0052357",
+      "id": "tmdb-244786",
+      "tmdbId": 244786,
+      "imdbId": "tt2582802",
       "origine": "scoperta",
-      "titolo": "La donna che visse due volte",
-      "titoloOriginale": "Vertigo",
-      "anno": "1958",
-      "uscitaItalia": "1958-12-18",
-      "regia": "Alfred Hitchcock",
+      "titolo": "Whiplash",
+      "titoloOriginale": "Whiplash",
+      "anno": "2015",
+      "uscitaItalia": "2015-02-12",
+      "regia": "Damien Chazelle",
       "generi": [
-        "Mistero",
-        "Romance",
+        "Dramma",
+        "Musica",
         "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 128,
-      "tagline": null,
+      "durata": 107,
+      "tagline": "La strada per il successo può portare al limite",
       "cast": [
-        "James Stewart (Det. John 'Scottie' Ferguson)",
-        "Kim Novak (Madeleine Elster / Judy Barton)",
-        "Barbara Bel Geddes (Marjorie 'Midge' Wood)",
-        "Tom Helmore (Gavin Elster)",
-        "Henry Jones (Coroner)",
-        "Raymond Bailey (Scottie's Doctor)"
+        "Miles Teller (Andrew)",
+        "J.K. Simmons (Fletcher)",
+        "Paul Reiser (Jim)",
+        "Melissa Benoist (Nicole)",
+        "Austin Stowell (Ryan)",
+        "Nate Lang (Carl)"
       ],
-      "tramaTmdb": "A causa delle sue vertigini, l'agente Ferguson è a riposo per non aver impedito un incidente mortale a un collega. Un amico gli chiede di sorvegliare sua moglie, che ha manie suicide. Di fronte a Ferguson, paralizzato dalle vertigini, la donna si butta da un campanile, o almeno così crede il povero agente. Ma un giorno un incontro casuale rimette tutto in gioco.",
+      "tramaTmdb": "Andrew studia batteria jazz nella più prestigiosa ed importante scuola di musica di New York, è al suo primo anno e già viene notato da Terence Fletcher, temutissimo e inflessibile insegnante che a sorpresa lo vuole nella propria band. Il ragazzo è eccitato dalla possibilità ma non sa che in realtà sarà un inferno di prove, esercizi e umiliazioni come non pensava fosse possibile. Gli standard richiesti da Fletcher sono mostruosi e progressivamente alienano sempre di più Andrew dalle altre parti della sua vita.",
       "motivi": [
-        "un classico che ti manca"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "La donna che visse due volte|364|Alfred Hitchcock"
+      "impronta": "Whiplash|515|Damien Chazelle"
+    },
+    {
+      "id": "tmdb-696506",
+      "tmdbId": 696506,
+      "imdbId": "tt12299608",
+      "origine": "scoperta",
+      "titolo": "Mickey 17",
+      "titoloOriginale": "Mickey 17",
+      "anno": "2025",
+      "uscitaItalia": "2025-03-06",
+      "regia": "봉준호",
+      "generi": [
+        "Fantascienza",
+        "Commedia",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito"
+      ],
+      "durata": 137,
+      "tagline": "Il suo lavoro è morire per salvare l'umanità.",
+      "cast": [
+        "Robert Pattinson (Mickey Barnes)",
+        "Naomi Ackie (Nasha)",
+        "Steven Yeun (Timo)",
+        "Mark Ruffalo (Kenneth Marshall)",
+        "Toni Collette (Ylfa)",
+        "Anamaria Vartolomei (Kai Katz)"
+      ],
+      "tramaTmdb": "Mickey 17 è un \"sacrificabile\", un impiegato usa e getta, in una spedizione umana inviata a colonizzare il mondo ghiacciato Niflheim. Dopo la morte di un'iterazione, un nuovo corpo viene rigenerato con la maggior parte dei suoi ricordi intatti.",
+      "motivi": [
+        "c'è Robert Pattinson, che hai visto 2 volte",
+        "regia di Chloé Zhao, che segui"
+      ],
+      "impronta": "Mickey 17|244|봉준호"
     }
   ]
 }
