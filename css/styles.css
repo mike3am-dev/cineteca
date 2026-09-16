@@ -144,7 +144,11 @@ main{ padding-bottom:calc(96px + env(safe-area-inset-bottom)) !important; }
 
 main{ max-width:var(--maxw); margin-inline:auto; padding:0 var(--pad) 96px; }
 .view{ display:none; }
-.view.is-active{ display:block; animation:fade .45s ease both; }
+.view.is-active{ display:block; animation:fade .45s ease; }
+/* Niente fill-mode "both" qui sopra: a fine dissolvenza terrebbe applicato
+   il transform (anche se identità), e un antenato trasformato cattura i
+   discendenti position:fixed — il pannello di accesso sul telefono finiva
+   in fondo alla sezione, fuori dallo schermo, e "Accedi" sembrava morto. */
 @keyframes fade{ from{ opacity:0; transform:translateY(10px); } }
 
 /* ── hero: prossima uscita ───────────────────────────────── */
