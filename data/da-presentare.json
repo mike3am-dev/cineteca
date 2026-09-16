@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-15T05:07:06.620Z",
+  "preparato": "2026-09-16T05:06:00.283Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,6 +79,41 @@
   },
   "film": [
     {
+      "id": "tmdb-1375441",
+      "tmdbId": 1375441,
+      "imdbId": "tt34206385",
+      "origine": "trailer",
+      "titolo": "Primetime",
+      "titoloOriginale": "Primetime",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Lance Oppenheim",
+      "generi": [
+        "Crime",
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": "Siete pronti ad entrare nella storia della televisione?",
+      "cast": [
+        "Robert Pattinson (Chris Hansen)",
+        "Merritt Wever (Andie Bender)",
+        "Skyler Gisondo (Dan Plumb)",
+        "Phoebe Bridgers (Del)",
+        "Matthew Maher (Xavier Von Erck)",
+        "Bokeem Woodbine (Cortland Gunn)"
+      ],
+      "tramaTmdb": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+      "motivi": [
+        "c'è Robert Pattinson, che hai visto 2 volte",
+        "dramma e thriller: il tuo terreno"
+      ],
+      "impronta": "Primetime|523|Lance Oppenheim"
+    },
+    {
       "id": "tmdb-1263337",
       "tmdbId": 1263337,
       "imdbId": "tt7526136",
@@ -99,7 +134,6 @@
       "tagline": null,
       "cast": [
         "Brad Pitt (James Belmont)",
-        "Uber (Odin The Dog)",
         "J.K. Simmons (Walter Boone)",
         "Anna Lambe"
       ],
@@ -143,386 +177,380 @@
       "impronta": "Un po' di luce|345|Ali Asgari"
     },
     {
-      "id": "tmdb-1542877",
-      "tmdbId": 1542877,
-      "imdbId": "tt38649153",
+      "id": "tmdb-1732420",
+      "tmdbId": 1732420,
+      "imdbId": "tt44925656",
       "origine": "trailer",
-      "titolo": "Assassination Classroom: The Movie - L'ora di tutti noi",
-      "titoloOriginale": "劇場版「暗殺教室」みんなの時間",
+      "titolo": "Power Trip",
+      "titoloOriginale": "Power Trip",
       "anno": "2026",
-      "uscitaItalia": "2026-09-14",
-      "regia": "北村真咲",
+      "uscitaItalia": "2026-09-24",
+      "regia": "Patrick Willems",
       "generi": [
-        "Animazione",
-        "Commedia",
-        "Azione",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 87,
-      "tagline": null,
-      "cast": [
-        "Jun Fukuyama (Koro-sensei (voice))",
-        "Tomokazu Sugita (Tadaomi Karasuma (voice))",
-        "Shizuka Itō (Irina Jelavic (voice))",
-        "渕上舞 (Nagisa Shiota / Hotaru (voice))",
-        "Nobuhiko Okamoto (Karma Akabane (voice))",
-        "Aya Suzaki (Kaede Kayano (voice))"
-      ],
-      "tramaTmdb": "Il film raccoglie episodi mai animati nella serie TV originale a causa dei limiti temporali e non si tratta solo di un omaggio per il decimo anniversario, ma anche di una continuazione diretta della storia principale.",
-      "motivi": [],
-      "impronta": "Assassination Classroom: The Movie - L'ora di tutti noi|217|北村真咲"
-    },
-    {
-      "id": "tmdb-77338",
-      "tmdbId": 77338,
-      "imdbId": "tt1675434",
-      "origine": "scoperta",
-      "titolo": "Quasi amici - Intouchables",
-      "titoloOriginale": "Intouchables",
-      "anno": "2012",
-      "uscitaItalia": "2012-02-24",
-      "regia": "Olivier Nakache",
-      "generi": [
-        "Dramma",
-        "Commedia"
-      ],
-      "paesi": [
-        "Francia"
-      ],
-      "durata": 113,
-      "tagline": null,
-      "cast": [
-        "François Cluzet (Philippe)",
-        "Omar Sy (Driss)",
-        "Anne Le Ny (Yvonne)",
-        "Audrey Fleurot (Magalie)",
-        "Joséphine de Meaux (La DRH société de courses)",
-        "Clotilde Mollet (Marcelle)"
-      ],
-      "tramaTmdb": "La vita derelitta di Driss, tra carcere, ricerca di sussidi statali e un rapporto non facile con la famiglia, subisce un'impennata quando, a sorpresa, il miliardario paraplegico Philippe lo sceglie come proprio aiutante personale. Incaricato di stargli sempre accanto per spostarlo, lavarlo, aiutarlo nella fisioterapia e via dicendo Driss non tiene a freno la sua personalità poco austera e contenuta. Diventa così l'elemento perturbatore in un ordine alto borghese fatto di regole e paletti, un portatore sano di vitalità e scurrilità che stringe un legame di sincera amicizia con il suo superiore,",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Quasi amici - Intouchables|600|Olivier Nakache"
-    },
-    {
-      "id": "tmdb-273481",
-      "tmdbId": 273481,
-      "imdbId": "tt3397884",
-      "origine": "scoperta",
-      "titolo": "Sicario",
-      "titoloOriginale": "Sicario",
-      "anno": "2015",
-      "uscitaItalia": "2015-09-24",
-      "regia": "Denis Villeneuve",
-      "generi": [
-        "Azione",
-        "Crime",
         "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 121,
-      "tagline": "Ci sono guerre in cui non c'è confine tra bene e male",
+      "durata": 26,
+      "tagline": null,
       "cast": [
-        "Emily Blunt (Kate Macer)",
-        "Benicio Del Toro (Alejandro Gillick)",
-        "Josh Brolin (Matt Graver)",
-        "Victor Garber (Dave Jennings)",
-        "Jon Bernthal (Ted)",
-        "Daniel Kaluuya (Reggie Wayne)"
+        "Amir Arison",
+        "Julia Knitel"
       ],
-      "tramaTmdb": "Al confine tra Stati Uniti e Messico, in una zona dove non esiste la legge, Kate, un'agente dell'FBI idealista è arruolata da un agente del governo in una task force d'elite impegnata nella sempre più difficile guerra al traffico di droga. Guidati da un consulente dal passato discutibile, la squadra parte per una missione segreta che costringerà Kate a mettere in discussione tutto ciò in cui credeva, per poter sopravvivere.",
+      "tramaTmdb": null,
       "motivi": [
-        "regia di Denis Villeneuve, di cui hai visto 3 film",
-        "c'è Emily Blunt, che hai visto 3 volte",
-        "regia di Denis Villeneuve, che segui"
+        "thriller, il tuo terreno"
       ],
-      "impronta": "Sicario|427|Denis Villeneuve"
+      "impronta": "Power Trip|0|Patrick Willems"
     },
     {
-      "id": "tmdb-335",
-      "tmdbId": 335,
-      "imdbId": "tt0064116",
+      "id": "tmdb-520763",
+      "tmdbId": 520763,
+      "imdbId": "tt8332922",
       "origine": "scoperta",
-      "titolo": "C'era una volta il West",
-      "titoloOriginale": "C'era una volta il West",
-      "anno": "1968",
-      "uscitaItalia": "1968-12-21",
-      "regia": "Sergio Leone",
+      "titolo": "A Quiet Place II",
+      "titoloOriginale": "A Quiet Place Part II",
+      "anno": "2021",
+      "uscitaItalia": "2021-06-24",
+      "regia": "John Krasinski",
       "generi": [
-        "Dramma",
-        "Western"
+        "Fantascienza",
+        "Thriller",
+        "Horror"
       ],
       "paesi": [
-        "Italia",
         "USA"
       ],
-      "durata": 166,
-      "tagline": "Il più spettacolare western di tutti i tempi",
+      "durata": 96,
+      "tagline": "Restare in silenzio non basterà",
       "cast": [
-        "Claudia Cardinale (Jill)",
-        "Henry Fonda (Frank)",
-        "Jason Robards ('Cheyenne')",
-        "Charles Bronson ('Harmonica')",
-        "Gabriele Ferzetti (Morton)",
-        "Paolo Stoppa (Sam)"
+        "Emily Blunt (Evelyn Abbott)",
+        "John Krasinski (Lee Abbott)",
+        "Millicent Simmonds (Regan Abbott)",
+        "Noah Jupe (Marcus Abbott)",
+        "Cillian Murphy (Emmett)",
+        "Djimon Hounsou (Man on Island)"
       ],
-      "tramaTmdb": "Mentre i costruttori della ferrovia marciano inarrestabilmente attraverso il deserto dell'Arizona sulla loro strada verso il mare, Jill arriva nella piccola città di Flagstone intenzionata a iniziare una nuova vita.",
+      "tramaTmdb": "In seguito a quanto avvenuto in precedenza in casa, la famiglia Abbott è costretta ad affrontare i terrori del mondo esterno continuando la sua lotta per la sopravvivenza in silenzio. Costretti ad avventurarsi nell'ignoto, gli Abbott si renderanno presto conto che le terribili creature attratte dai suoni non sono le uniche minacce da cui guardarsi.",
+      "motivi": [
+        "c'è Emily Blunt, che hai visto 3 volte",
+        "c'è Emily Blunt, che hai visto 3 volte"
+      ],
+      "impronta": "A Quiet Place II|350|John Krasinski"
+    },
+    {
+      "id": "tmdb-372058",
+      "tmdbId": 372058,
+      "imdbId": "tt5311514",
+      "origine": "scoperta",
+      "titolo": "Your Name.",
+      "titoloOriginale": "君の名は。",
+      "anno": "2017",
+      "uscitaItalia": "2017-01-23",
+      "regia": "新海誠",
+      "generi": [
+        "Animazione",
+        "Romance",
+        "Dramma"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 106,
+      "tagline": "Intrappolati in uno strano sogno che sembra la vita di qualcun altro",
+      "cast": [
+        "Ryūnosuke Kamiki (Taki Tachibana (voice))",
+        "上白石萌音 (Mitsuha Miyamizu (voice))",
+        "成田凌 (Katsuhiko Teshigawara (voice))",
+        "Aoi Yuuki (Sayaka Natori (voice))",
+        "Nobunaga Shimazaki (Tsukasa Fujii (voice))",
+        "Kaito Ishikawa (Shinta Takagi (voice))"
+      ],
+      "tramaTmdb": "Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell’arte o dell’architettura. Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai vis",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "C'era una volta il West|215|Sergio Leone"
+      "impronta": "Your Name.|600|新海誠"
     },
     {
-      "id": "tmdb-146233",
-      "tmdbId": 146233,
-      "imdbId": "tt1392214",
+      "id": "tmdb-1700",
+      "tmdbId": 1700,
+      "imdbId": "tt0100157",
       "origine": "scoperta",
-      "titolo": "Prisoners",
-      "titoloOriginale": "Prisoners",
-      "anno": "2013",
-      "uscitaItalia": "2013-11-07",
-      "regia": "Denis Villeneuve",
+      "titolo": "Misery non deve morire",
+      "titoloOriginale": "Misery",
+      "anno": "1991",
+      "uscitaItalia": "1991-03-08",
+      "regia": "Rob Reiner",
       "generi": [
         "Dramma",
-        "Thriller",
-        "Crime"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 153,
-      "tagline": "Una ricerca disperata. Una verità oscura.",
-      "cast": [
-        "Hugh Jackman (Keller Dover)",
-        "Jake Gyllenhaal (Detective Loki)",
-        "Viola Davis (Nancy Birch)",
-        "Maria Bello (Grace Dover)",
-        "Terrence Howard (Franklin Birch)",
-        "Melissa Leo (Holly Jones)"
-      ],
-      "tramaTmdb": "Nella (apparentemente) tranquilla provincia americana due bambine di sei e sette anni, Anna ed Eliza, escono a giocare insieme e svaniscono senza lasciare traccia. I genitori, fra di loro amici, reagiscono nei modi più disparati (e disperati): Keller, il padre della piccola Anna, comincia una caccia all'uomo senza esclusione di colpi, mentre sua moglie Grace si imbottisce di psicofarmaci per attutire il dolore e lo sgomento; Franklin, il padre di Eliza, cerca di non farsi travolgere dalla sete di giustizia di Keller, la moglie Nancy invece pare disposta ad appoggiarne i modi estremi.  Il detec",
-      "motivi": [
-        "regia di Denis Villeneuve, di cui hai visto 3 film",
-        "regia di Denis Villeneuve, che segui"
-      ],
-      "impronta": "Prisoners|600|Denis Villeneuve"
-    },
-    {
-      "id": "tmdb-218",
-      "tmdbId": 218,
-      "imdbId": "tt0088247",
-      "origine": "scoperta",
-      "titolo": "Terminator",
-      "titoloOriginale": "The Terminator",
-      "anno": "1985",
-      "uscitaItalia": "1985-01-25",
-      "regia": "James Cameron",
-      "generi": [
-        "Azione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 108,
-      "tagline": "Il tuo futuro è nelle sue mani.",
-      "cast": [
-        "Arnold Schwarzenegger (Terminator)",
-        "Michael Biehn (Kyle Reese)",
-        "Linda Hamilton (Sarah Connor)",
-        "Paul Winfield (Traxler)",
-        "Lance Henriksen (Vukovich)",
-        "Rick Rossovich (Matt)"
-      ],
-      "tramaTmdb": "Anno 2029: un computer chiamato Skynet sta lottando contro un gruppo di resistenza umana, dopo aver distrutto l'umanità nel 1997. Skynet manda nel passato uno dei suoi guerrieri, un cyborg di sembianze umane chiamato Terminator, per uccidere Sarah Connor, la madre del leader della resistenza, prima che dia alla luce suo figlio. La resistenza manda un guerriero di nome Kyle Reese nel 1984 per proteggere Sarah.",
-      "motivi": [
-        "regia di James Cameron, di cui hai visto 2 film",
-        "se ne parla adesso"
-      ],
-      "impronta": "Terminator|412|James Cameron"
-    },
-    {
-      "id": "tmdb-12155",
-      "tmdbId": 12155,
-      "imdbId": "tt1014759",
-      "origine": "scoperta",
-      "titolo": "Alice in Wonderland",
-      "titoloOriginale": "Alice in Wonderland",
-      "anno": "2010",
-      "uscitaItalia": "2010-03-03",
-      "regia": "Tim Burton",
-      "generi": [
-        "Famiglia",
-        "Fantasy",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 108,
-      "tagline": null,
-      "cast": [
-        "Mia Wasikowska (Alice Kingsleigh)",
-        "Johnny Depp (Tarrant Hightopp / Mad Hatter)",
-        "Anne Hathaway (Mirana / White Queen)",
-        "Helena Bonham Carter (Iracebeth / Red Queen)",
-        "Crispin Glover (Ilosovic Stayne / Knave of Hearts)",
-        "Matt Lucas (Tweedledee / Tweedledum)"
-      ],
-      "tramaTmdb": "Alice teme di essere pazza. Da quando è piccola continua a fare lo stesso sogno, non sta mai attenta quando le parlano, è diversa dal resto della società che frequenta e non si integra nelle regole. Affinchè non rimanga zitella come la zia, che senza marito pazza lo è diventata sul serio, i parenti le combinano il matrimonio con un ottimo partito: un giovanotto integrato di nobile lignaggio e con qualche problema digestivo. Al ricevimento nel quale le verrà fatta la proposta però le visioni di Alice si fanno insistenti, il ticchettio di un orologio sembra ossessionarla e sul più bello vede com",
-      "motivi": [
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "c'è Anne Hathaway, che hai visto 2 volte"
-      ],
-      "impronta": "Alice in Wonderland|600|Tim Burton"
-    },
-    {
-      "id": "tmdb-792307",
-      "tmdbId": 792307,
-      "imdbId": "tt14230458",
-      "origine": "scoperta",
-      "titolo": "Povere creature!",
-      "titoloOriginale": "Poor Things",
-      "anno": "2024",
-      "uscitaItalia": "2024-01-25",
-      "regia": "Yórgos Lánthimos",
-      "generi": [
-        "Fantascienza",
-        "Romance",
-        "Commedia"
-      ],
-      "paesi": [
-        "Irlanda",
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 141,
-      "tagline": "Lei non somiglia a niente che tu conosca.",
-      "cast": [
-        "Emma Stone (Bella Baxter)",
-        "Mark Ruffalo (Duncan Wedderburn)",
-        "Willem Dafoe (Godwin Baxter)",
-        "Ramy Youssef (Max McCandles)",
-        "Christopher Abbott (Alfie Blessington)",
-        "Suzy Bemba (Toinette)"
-      ],
-      "tramaTmdb": "Bella Baxter viene riportata in vita dal brillante e poco ortodosso scienziato Dr. Godwin Baxter. Affamata della mondanità che le manca, Bella fugge con Duncan Wedderburn, un avvocato elegante e dissoluto, in una vorticosa avventura attraverso i continenti.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Povere creature!|257|Yórgos Lánthimos"
-    },
-    {
-      "id": "tmdb-22",
-      "tmdbId": 22,
-      "imdbId": "tt0325980",
-      "origine": "scoperta",
-      "titolo": "La maledizione della prima luna",
-      "titoloOriginale": "Pirates of the Caribbean: The Curse of the Black Pearl",
-      "anno": "2003",
-      "uscitaItalia": "2003-09-05",
-      "regia": "Gore Verbinski",
-      "generi": [
-        "Avventura",
-        "Fantasy",
-        "Azione"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 135,
-      "tagline": "Preparatevi ad esser soffiati fuori dall'acqua.",
-      "cast": [
-        "Johnny Depp (Jack Sparrow)",
-        "Geoffrey Rush (Barbossa)",
-        "Orlando Bloom (Will Turner)",
-        "Keira Knightley (Elizabeth Swann)",
-        "Jack Davenport (Norrington)",
-        "Jonathan Pryce (Governor Weatherby Swann)"
-      ],
-      "tramaTmdb": "Caraibi, 1700. La figlia del governatore viene rapita dal malvagio pirata Barbossa. Will Turner  amico d'infanzia della ragazza e segretamente innamorato di lei, si unisce a Jack Sparrow, un pirata vagabondo e per cui la parola strano suona eufemistica, per portare in salvo la fanciulla. Ma per riuscirci, dovranno affrontare misteriose e sinistre forze del male che risalgono addirittura a una maledizione azteca...",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "La maledizione della prima luna|417|Gore Verbinski"
-    },
-    {
-      "id": "tmdb-244786",
-      "tmdbId": 244786,
-      "imdbId": "tt2582802",
-      "origine": "scoperta",
-      "titolo": "Whiplash",
-      "titoloOriginale": "Whiplash",
-      "anno": "2015",
-      "uscitaItalia": "2015-02-12",
-      "regia": "Damien Chazelle",
-      "generi": [
-        "Dramma",
-        "Musica",
         "Thriller"
       ],
       "paesi": [
         "USA"
       ],
       "durata": 107,
-      "tagline": "La strada per il successo può portare al limite",
+      "tagline": "Paul Sheldon ha sempre scritto per vivere, ora dovrà scrivere per sopravvivere.",
       "cast": [
-        "Miles Teller (Andrew)",
-        "J.K. Simmons (Fletcher)",
-        "Paul Reiser (Jim)",
-        "Melissa Benoist (Nicole)",
-        "Austin Stowell (Ryan)",
-        "Nate Lang (Carl)"
+        "Kathy Bates (Annie Wilkes)",
+        "James Caan (Paul Sheldon)",
+        "Richard Farnsworth (Buster)",
+        "Lauren Bacall (Marcia Sindell)",
+        "Frances Sternhagen (Virginia)",
+        "Graham Jarvis (Libby)"
       ],
-      "tramaTmdb": "Andrew studia batteria jazz nella più prestigiosa ed importante scuola di musica di New York, è al suo primo anno e già viene notato da Terence Fletcher, temutissimo e inflessibile insegnante che a sorpresa lo vuole nella propria band. Il ragazzo è eccitato dalla possibilità ma non sa che in realtà sarà un inferno di prove, esercizi e umiliazioni come non pensava fosse possibile. Gli standard richiesti da Fletcher sono mostruosi e progressivamente alienano sempre di più Andrew dalle altre parti della sua vita.",
+      "tramaTmdb": "Lo scrittore Paul Sheldon ha appena terminato il suo ultimo romanzo. Al ritorno dall'albergo in cui si era volutamente isolato per lavoro ha un incidente d'auto ma viene tratto in salvo da Annie Wilkes, la sua \"fan numero uno\". Sfortunatamente Annie inizia a manifestare instabilità psichica, e ben presto Paul si renderà conto di essere in grave pericolo.",
       "motivi": [
-        "dramma: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Whiplash|515|Damien Chazelle"
+      "impronta": "Misery non deve morire|356|Rob Reiner"
     },
     {
-      "id": "tmdb-696506",
-      "tmdbId": 696506,
-      "imdbId": "tt12299608",
+      "id": "tmdb-402900",
+      "tmdbId": 402900,
+      "imdbId": "tt5164214",
       "origine": "scoperta",
-      "titolo": "Mickey 17",
-      "titoloOriginale": "Mickey 17",
-      "anno": "2025",
-      "uscitaItalia": "2025-03-06",
-      "regia": "봉준호",
+      "titolo": "Ocean's 8",
+      "titoloOriginale": "Ocean's Eight",
+      "anno": "2018",
+      "uscitaItalia": "2018-07-26",
+      "regia": "Gary Ross",
       "generi": [
-        "Fantascienza",
+        "Crime",
+        "Commedia",
+        "Azione"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": "Sono pronte per il colpo del secolo",
+      "cast": [
+        "Sandra Bullock (Debbie Ocean)",
+        "Cate Blanchett (Lou)",
+        "Anne Hathaway (Daphne Kluger)",
+        "Mindy Kaling (Amita)",
+        "Sarah Paulson (Tammy)",
+        "Awkwafina (Constance)"
+      ],
+      "tramaTmdb": "Debbie Ocean ha passato cinque anni in carcere a progettare un colpo del secolo degno delle imprese del fratello Danny, ormai dato per morto. Il piano di Debbie è ambizioso: rubare una collana di Cartier del valore di 150 milioni di dollari, e farlo durante il Gala annuale del Metropolitan Museum. Ma per portare a termine quel piano ha bisogno di alleate, tutte donne perché \"un lui si nota e una lei si ignora\". La prima componente della banda è la sua partner storica nel crimine, la biker Louise. Seguono un'esperta di gioielli, una hacker, una borseggiatrice, una stilista di moda e una ricetta",
+      "motivi": [
+        "c'è Anne Hathaway, che hai visto 2 volte",
+        "c'è Anne Hathaway, che hai visto 2 volte"
+      ],
+      "impronta": "Ocean's 8|600|Gary Ross"
+    },
+    {
+      "id": "tmdb-398818",
+      "tmdbId": 398818,
+      "imdbId": "tt5726616",
+      "origine": "scoperta",
+      "titolo": "Chiamami col tuo nome",
+      "titoloOriginale": "Call Me by Your Name",
+      "anno": "2018",
+      "uscitaItalia": "2018-01-25",
+      "regia": "Luca Guadagnino",
+      "generi": [
+        "Romance",
+        "Dramma"
+      ],
+      "paesi": [
+        "Brasile",
+        "Francia",
+        "Italia"
+      ],
+      "durata": 130,
+      "tagline": null,
+      "cast": [
+        "Timothée Chalamet (Elio)",
+        "Armie Hammer (Oliver)",
+        "Michael Stuhlbarg (Mr. Perlman)",
+        "Amira Casar (Annella)",
+        "Esther Garrel (Marzia)",
+        "Victoire du Bois (Chiara)"
+      ],
+      "tramaTmdb": "Nel 1983, una calda estate segna per sempre la vita del diciassettenne Elio, un musicista più colto e sensibile dei suoi coetanei, che ogni estate trascorre le vacanze nella villa di famiglia. Il padre, un professore universitario, come ogni anno ospita uno studente straniero per lavorare alla sua tesi di post dottorato. L'arrivo di Oliver, ventiquattrenne statunitense, per la sua bellezza e i modi disinvolti, sconvolge la vita di Elio, che se ne innamora immediatamente. Tra lunghe passeggiate, nuotate e discussioni, tra i due giovani nasce un desiderio travolgente e irrefrenabile.",
+      "motivi": [
+        "c'è Timothée Chalamet, che hai visto 4 volte",
+        "c'è Timothée Chalamet, che hai visto 4 volte"
+      ],
+      "impronta": "Chiamami col tuo nome|588|Luca Guadagnino"
+    },
+    {
+      "id": "tmdb-269149",
+      "tmdbId": 269149,
+      "imdbId": "tt2948356",
+      "origine": "scoperta",
+      "titolo": "Zootropolis",
+      "titoloOriginale": "Zootopia",
+      "anno": "2016",
+      "uscitaItalia": "2016-02-18",
+      "regia": "Byron Howard",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Famiglia",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 108,
+      "tagline": null,
+      "cast": [
+        "Ginnifer Goodwin (Judy Hopps (voice))",
+        "Jason Bateman (Nick Wilde (voice))",
+        "Idris Elba (Chief Bogo (voice))",
+        "Jenny Slate (Bellwether (voice))",
+        "Nate Torrence (Clawhauser (voice))",
+        "Bonnie Hunt (Bonnie Hopps (voice))"
+      ],
+      "tramaTmdb": "Il mondo animale è cambiato: non è più diviso in due fra docili prede e feroci predatori, ma armoniosamente coabitato da entrambi. Judy è una coniglietta dalle grandi ambizioni che sogna di diventare poliziotta, poiché le è stato insegnato che tutto è possibile in questo nuovo mondo. Nick è una volpe che vive di espedienti nella capitale, Zootropolis, dove Judy, dopo un estenuante training in accademia, approda come ausiliaria del traffico. Toccherà a loro, inaspettatamente uniti, risolvere il mistero dei 14 animali scomparsi che tutta la città sta cercando e sventare i piani di chi vuole impo",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Zootropolis|600|Byron Howard"
+    },
+    {
+      "id": "tmdb-12477",
+      "tmdbId": 12477,
+      "imdbId": "tt0095327",
+      "origine": "scoperta",
+      "titolo": "La tomba delle lucciole",
+      "titoloOriginale": "火垂るの墓",
+      "anno": "2015",
+      "uscitaItalia": "2015-11-10",
+      "regia": "高畑勲",
+      "generi": [
+        "Animazione",
+        "Dramma",
+        "Guerra"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 93,
+      "tagline": null,
+      "cast": [
+        "辰巳努 (Seita (voice))",
+        "白石綾乃 (Setsuko (voice))",
+        "志乃原良子 (Mother (voice))",
+        "山口朱美 (Auntie (voice))",
+        "Masayo Sakai (Woman who takes care of Setsuko (voice))",
+        "Kozo Hashida (Obayashi Chairman (voice))"
+      ],
+      "tramaTmdb": "Giappone, 21 settembre 1945. Alla stazione di Kobe, il quattordicenne Seita muore di inedia. Il suo spirito ripercorre i tragici eventi degli ultimi quattro mesi: i bombardamenti americani, il cadavere della madre sfigurato dalle ustioni, il padre a difendere la gloria dell'impero nella sua bianca uniforme da ufficiale di marina. E poi l'orgoglio, la fuga, i furti, la fame. Questa notte spaventosa è rischiarata dai flebili bagliori delle lucciole. Ma all'alba non ne rimarrà più nessuna.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "La tomba delle lucciole|491|高畑勲"
+    },
+    {
+      "id": "tmdb-98",
+      "tmdbId": 98,
+      "imdbId": "tt0172495",
+      "origine": "scoperta",
+      "titolo": "Il gladiatore",
+      "titoloOriginale": "Gladiator",
+      "anno": "2000",
+      "uscitaItalia": "2000-05-19",
+      "regia": "Ridley Scott",
+      "generi": [
+        "Azione",
+        "Dramma",
+        "Avventura"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 155,
+      "tagline": "La gloria rende gli eroi immortali",
+      "cast": [
+        "Russell Crowe (Maximus)",
+        "Joaquin Phoenix (Commodus)",
+        "Connie Nielsen (Lucilla)",
+        "Oliver Reed (Proximo)",
+        "Richard Harris (Marcus Aurelius)",
+        "Derek Jacobi (Gracchus)"
+      ],
+      "tramaTmdb": "Dopo una vittoria contro i Britanni l'imperatore Marco Aurelio, che disprezza il figlio Commodo, decide che il suo successore sarà il generale Massimo, uomo straordinario, amato da tutti. Ma Commodo uccide il padre e ordina la morte del generale e della sua famiglia. Massimo fugge in Africa, diventa gladiatore, torna a Roma dove si fa riconoscere. Diventa l'eroe del Colosseo, idolatrato dal popolo. Tanto che lo stesso Commodo non può farlo uccidere. Lo sfida a un duello nell'arena, dopo averlo vigliaccamente ferito. Massimo uccide finalmente l'orrendo imperatore.",
+      "motivi": [
+        "regia di Ridley Scott, di cui hai visto un film",
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Il gladiatore|569|Ridley Scott"
+    },
+    {
+      "id": "tmdb-1108427",
+      "tmdbId": 1108427,
+      "imdbId": "tt27419466",
+      "origine": "scoperta",
+      "titolo": "Oceania",
+      "titoloOriginale": "Moana",
+      "anno": "2026",
+      "uscitaItalia": "2026-08-19",
+      "regia": "Thomas Kail",
+      "generi": [
+        "Famiglia",
+        "Fantasy",
         "Commedia",
         "Avventura"
       ],
       "paesi": [
-        "USA",
-        "Regno Unito"
+        "USA"
       ],
-      "durata": 137,
-      "tagline": "Il suo lavoro è morire per salvare l'umanità.",
+      "durata": 115,
+      "tagline": null,
       "cast": [
-        "Robert Pattinson (Mickey Barnes)",
-        "Naomi Ackie (Nasha)",
-        "Steven Yeun (Timo)",
-        "Mark Ruffalo (Kenneth Marshall)",
-        "Toni Collette (Ylfa)",
-        "Anamaria Vartolomei (Kai Katz)"
+        "Catherine Lagaʻaia (Moana)",
+        "Dwayne Johnson (Maui)",
+        "Rena Owen (Gramma Tala)",
+        "John Tui (Chief Tui)",
+        "Frankie Adams (Sina)",
+        "Jemaine Clement (Tamatoa (voice))"
       ],
-      "tramaTmdb": "Mickey 17 è un \"sacrificabile\", un impiegato usa e getta, in una spedizione umana inviata a colonizzare il mondo ghiacciato Niflheim. Dopo la morte di un'iterazione, un nuovo corpo viene rigenerato con la maggior parte dei suoi ricordi intatti.",
+      "tramaTmdb": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
       "motivi": [
-        "c'è Robert Pattinson, che hai visto 2 volte",
-        "regia di Chloé Zhao, che segui"
+        "se ne parla adesso"
       ],
-      "impronta": "Mickey 17|244|봉준호"
+      "impronta": "Oceania|262|Thomas Kail"
+    },
+    {
+      "id": "tmdb-299536",
+      "tmdbId": 299536,
+      "imdbId": "tt4154756",
+      "origine": "scoperta",
+      "titolo": "Avengers: Infinity War",
+      "titoloOriginale": "Avengers: Infinity War",
+      "anno": "2018",
+      "uscitaItalia": "2018-04-25",
+      "regia": "Anthony Russo",
+      "generi": [
+        "Avventura",
+        "Azione",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 156,
+      "tagline": "Un intero universo. Una volta per tutte.",
+      "cast": [
+        "Robert Downey Jr. (Tony Stark / Iron Man)",
+        "Chris Evans (Steve Rogers / Captain America)",
+        "Chris Hemsworth (Thor)",
+        "Josh Brolin (Thanos)",
+        "Mark Ruffalo (Bruce Banner / Hulk)",
+        "Scarlett Johansson (Natasha Romanoff / Black Widow)"
+      ],
+      "tramaTmdb": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. È questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro ",
+      "motivi": [
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "c'è Chris Pratt, che hai visto 4 volte"
+      ],
+      "impronta": "Avengers: Infinity War|600|Anthony Russo"
     }
   ]
 }
