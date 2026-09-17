@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-16T05:06:00.283Z",
+  "preparato": "2026-09-17T05:07:00.371Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -144,6 +144,41 @@
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
+      "id": "tmdb-1554956",
+      "tmdbId": 1554956,
+      "imdbId": "tt36980182",
+      "origine": "trailer",
+      "titolo": "The Incomer",
+      "titoloOriginale": "The Incomer",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-04",
+      "regia": "Louis Paxton",
+      "generi": [
+        "Commedia",
+        "Dramma"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA",
+        "Irlanda"
+      ],
+      "durata": 102,
+      "tagline": null,
+      "cast": [
+        "Domhnall Gleeson (Daniel)",
+        "Gayle Rankin (Isla)",
+        "Grant O'Rourke (Sandy)",
+        "Emun Elliott (Calum)",
+        "Michelle Gomez (Roz)",
+        "John Hannah (Fin Man / Father)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "The Incomer|0|Louis Paxton"
+    },
+    {
       "id": "tmdb-1736490",
       "tmdbId": 1736490,
       "imdbId": "tt43704846",
@@ -177,380 +212,348 @@
       "impronta": "Un po' di luce|345|Ali Asgari"
     },
     {
-      "id": "tmdb-1732420",
-      "tmdbId": 1732420,
-      "imdbId": "tt44925656",
-      "origine": "trailer",
-      "titolo": "Power Trip",
-      "titoloOriginale": "Power Trip",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-24",
-      "regia": "Patrick Willems",
+      "id": "tmdb-775",
+      "tmdbId": 775,
+      "imdbId": "tt0000417",
+      "origine": "scoperta",
+      "titolo": "Viaggio nella Luna",
+      "titoloOriginale": "Le Voyage dans la Lune",
+      "anno": "1902",
+      "uscitaItalia": "1902-12-07",
+      "regia": "Georges Méliès",
       "generi": [
-        "Thriller"
+        "Avventura",
+        "Fantascienza",
+        "Commedia"
       ],
       "paesi": [
-        "USA"
+        "Francia"
       ],
-      "durata": 26,
+      "durata": 14,
       "tagline": null,
       "cast": [
-        "Amir Arison",
-        "Julia Knitel"
+        "Georges Méliès (Professeur Barbenfouillis / La Lune)",
+        "Bleuette Bernon (Phoebe Déesse de la Lune)",
+        "François Lallement (L'officier de Marine / Commandant de la Base de Lancement)",
+        "Jehanne d'Alcy (La Secrétaire / Une Étoile / Agent de Bord de la Fusée)",
+        "Henri Delannoy (Le Pilote de la Fusée Lunaire)",
+        "Victor André (Un Astronome et Spationaute)"
       ],
-      "tramaTmdb": null,
+      "tramaTmdb": "“Viaggio nella Luna” è un film fantastico del 1902 realizzato da Georges Méliès. Assieme al Viaggio attraverso l'impossibile è uno dei suoi film più famosi, forse il capolavoro. Il film è una parodia basata liberamente sul romanzo di Jules Verne “Dalla Terra alla Luna” e su quello di H. G. Wells “I primi uomini sulla Luna”. È considerato il primo film di fantascienza e una delle scene iniziali del film, la navicella spaziale che si schianta sull'occhio della Luna (che presenta un volto umano), è entrata nell'immaginario collettivo ed è una delle sequenze che hanno fatto la storia del cinema.",
       "motivi": [
-        "thriller, il tuo terreno"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Power Trip|0|Patrick Willems"
+      "impronta": "Viaggio nella Luna|598|Georges Méliès"
     },
     {
-      "id": "tmdb-520763",
-      "tmdbId": 520763,
-      "imdbId": "tt8332922",
+      "id": "tmdb-447332",
+      "tmdbId": 447332,
+      "imdbId": "tt6644200",
       "origine": "scoperta",
-      "titolo": "A Quiet Place II",
-      "titoloOriginale": "A Quiet Place Part II",
-      "anno": "2021",
-      "uscitaItalia": "2021-06-24",
+      "titolo": "A Quiet Place - Un posto tranquillo",
+      "titoloOriginale": "A Quiet Place",
+      "anno": "2018",
+      "uscitaItalia": "2018-04-05",
       "regia": "John Krasinski",
       "generi": [
-        "Fantascienza",
-        "Thriller",
-        "Horror"
+        "Horror",
+        "Dramma",
+        "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 96,
-      "tagline": "Restare in silenzio non basterà",
+      "durata": 95,
+      "tagline": "Se ti sentono, ti danno la caccia.",
       "cast": [
         "Emily Blunt (Evelyn Abbott)",
         "John Krasinski (Lee Abbott)",
         "Millicent Simmonds (Regan Abbott)",
         "Noah Jupe (Marcus Abbott)",
-        "Cillian Murphy (Emmett)",
-        "Djimon Hounsou (Man on Island)"
+        "Cade Woodward (Beau Abbott)",
+        "Leon Russom (Man in the Woods)"
       ],
-      "tramaTmdb": "In seguito a quanto avvenuto in precedenza in casa, la famiglia Abbott è costretta ad affrontare i terrori del mondo esterno continuando la sua lotta per la sopravvivenza in silenzio. Costretti ad avventurarsi nell'ignoto, gli Abbott si renderanno presto conto che le terribili creature attratte dai suoni non sono le uniche minacce da cui guardarsi.",
+      "tramaTmdb": "Una famiglia vive un'esistenza isolata nel silenzio più assoluto, per paura di una minaccia sconosciuta che segue solo il suono e attacca a qualsiasi rumore.",
       "motivi": [
         "c'è Emily Blunt, che hai visto 3 volte",
         "c'è Emily Blunt, che hai visto 3 volte"
       ],
-      "impronta": "A Quiet Place II|350|John Krasinski"
+      "impronta": "A Quiet Place - Un posto tranquillo|157|John Krasinski"
     },
     {
-      "id": "tmdb-372058",
-      "tmdbId": 372058,
-      "imdbId": "tt5311514",
+      "id": "tmdb-137113",
+      "tmdbId": 137113,
+      "imdbId": "tt1631867",
       "origine": "scoperta",
-      "titolo": "Your Name.",
-      "titoloOriginale": "君の名は。",
-      "anno": "2017",
-      "uscitaItalia": "2017-01-23",
-      "regia": "新海誠",
+      "titolo": "Edge of Tomorrow - Senza domani",
+      "titoloOriginale": "Edge of Tomorrow",
+      "anno": "2014",
+      "uscitaItalia": "2014-05-29",
+      "regia": "Doug Liman",
       "generi": [
-        "Animazione",
-        "Romance",
-        "Dramma"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 106,
-      "tagline": "Intrappolati in uno strano sogno che sembra la vita di qualcun altro",
-      "cast": [
-        "Ryūnosuke Kamiki (Taki Tachibana (voice))",
-        "上白石萌音 (Mitsuha Miyamizu (voice))",
-        "成田凌 (Katsuhiko Teshigawara (voice))",
-        "Aoi Yuuki (Sayaka Natori (voice))",
-        "Nobunaga Shimazaki (Tsukasa Fujii (voice))",
-        "Kaito Ishikawa (Shinta Takagi (voice))"
-      ],
-      "tramaTmdb": "Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell’arte o dell’architettura. Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai vis",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Your Name.|600|新海誠"
-    },
-    {
-      "id": "tmdb-1700",
-      "tmdbId": 1700,
-      "imdbId": "tt0100157",
-      "origine": "scoperta",
-      "titolo": "Misery non deve morire",
-      "titoloOriginale": "Misery",
-      "anno": "1991",
-      "uscitaItalia": "1991-03-08",
-      "regia": "Rob Reiner",
-      "generi": [
-        "Dramma",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 107,
-      "tagline": "Paul Sheldon ha sempre scritto per vivere, ora dovrà scrivere per sopravvivere.",
-      "cast": [
-        "Kathy Bates (Annie Wilkes)",
-        "James Caan (Paul Sheldon)",
-        "Richard Farnsworth (Buster)",
-        "Lauren Bacall (Marcia Sindell)",
-        "Frances Sternhagen (Virginia)",
-        "Graham Jarvis (Libby)"
-      ],
-      "tramaTmdb": "Lo scrittore Paul Sheldon ha appena terminato il suo ultimo romanzo. Al ritorno dall'albergo in cui si era volutamente isolato per lavoro ha un incidente d'auto ma viene tratto in salvo da Annie Wilkes, la sua \"fan numero uno\". Sfortunatamente Annie inizia a manifestare instabilità psichica, e ben presto Paul si renderà conto di essere in grave pericolo.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Misery non deve morire|356|Rob Reiner"
-    },
-    {
-      "id": "tmdb-402900",
-      "tmdbId": 402900,
-      "imdbId": "tt5164214",
-      "origine": "scoperta",
-      "titolo": "Ocean's 8",
-      "titoloOriginale": "Ocean's Eight",
-      "anno": "2018",
-      "uscitaItalia": "2018-07-26",
-      "regia": "Gary Ross",
-      "generi": [
-        "Crime",
-        "Commedia",
-        "Azione"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 110,
-      "tagline": "Sono pronte per il colpo del secolo",
-      "cast": [
-        "Sandra Bullock (Debbie Ocean)",
-        "Cate Blanchett (Lou)",
-        "Anne Hathaway (Daphne Kluger)",
-        "Mindy Kaling (Amita)",
-        "Sarah Paulson (Tammy)",
-        "Awkwafina (Constance)"
-      ],
-      "tramaTmdb": "Debbie Ocean ha passato cinque anni in carcere a progettare un colpo del secolo degno delle imprese del fratello Danny, ormai dato per morto. Il piano di Debbie è ambizioso: rubare una collana di Cartier del valore di 150 milioni di dollari, e farlo durante il Gala annuale del Metropolitan Museum. Ma per portare a termine quel piano ha bisogno di alleate, tutte donne perché \"un lui si nota e una lei si ignora\". La prima componente della banda è la sua partner storica nel crimine, la biker Louise. Seguono un'esperta di gioielli, una hacker, una borseggiatrice, una stilista di moda e una ricetta",
-      "motivi": [
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "c'è Anne Hathaway, che hai visto 2 volte"
-      ],
-      "impronta": "Ocean's 8|600|Gary Ross"
-    },
-    {
-      "id": "tmdb-398818",
-      "tmdbId": 398818,
-      "imdbId": "tt5726616",
-      "origine": "scoperta",
-      "titolo": "Chiamami col tuo nome",
-      "titoloOriginale": "Call Me by Your Name",
-      "anno": "2018",
-      "uscitaItalia": "2018-01-25",
-      "regia": "Luca Guadagnino",
-      "generi": [
-        "Romance",
-        "Dramma"
-      ],
-      "paesi": [
-        "Brasile",
-        "Francia",
-        "Italia"
-      ],
-      "durata": 130,
-      "tagline": null,
-      "cast": [
-        "Timothée Chalamet (Elio)",
-        "Armie Hammer (Oliver)",
-        "Michael Stuhlbarg (Mr. Perlman)",
-        "Amira Casar (Annella)",
-        "Esther Garrel (Marzia)",
-        "Victoire du Bois (Chiara)"
-      ],
-      "tramaTmdb": "Nel 1983, una calda estate segna per sempre la vita del diciassettenne Elio, un musicista più colto e sensibile dei suoi coetanei, che ogni estate trascorre le vacanze nella villa di famiglia. Il padre, un professore universitario, come ogni anno ospita uno studente straniero per lavorare alla sua tesi di post dottorato. L'arrivo di Oliver, ventiquattrenne statunitense, per la sua bellezza e i modi disinvolti, sconvolge la vita di Elio, che se ne innamora immediatamente. Tra lunghe passeggiate, nuotate e discussioni, tra i due giovani nasce un desiderio travolgente e irrefrenabile.",
-      "motivi": [
-        "c'è Timothée Chalamet, che hai visto 4 volte",
-        "c'è Timothée Chalamet, che hai visto 4 volte"
-      ],
-      "impronta": "Chiamami col tuo nome|588|Luca Guadagnino"
-    },
-    {
-      "id": "tmdb-269149",
-      "tmdbId": 269149,
-      "imdbId": "tt2948356",
-      "origine": "scoperta",
-      "titolo": "Zootropolis",
-      "titoloOriginale": "Zootopia",
-      "anno": "2016",
-      "uscitaItalia": "2016-02-18",
-      "regia": "Byron Howard",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Famiglia",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 108,
-      "tagline": null,
-      "cast": [
-        "Ginnifer Goodwin (Judy Hopps (voice))",
-        "Jason Bateman (Nick Wilde (voice))",
-        "Idris Elba (Chief Bogo (voice))",
-        "Jenny Slate (Bellwether (voice))",
-        "Nate Torrence (Clawhauser (voice))",
-        "Bonnie Hunt (Bonnie Hopps (voice))"
-      ],
-      "tramaTmdb": "Il mondo animale è cambiato: non è più diviso in due fra docili prede e feroci predatori, ma armoniosamente coabitato da entrambi. Judy è una coniglietta dalle grandi ambizioni che sogna di diventare poliziotta, poiché le è stato insegnato che tutto è possibile in questo nuovo mondo. Nick è una volpe che vive di espedienti nella capitale, Zootropolis, dove Judy, dopo un estenuante training in accademia, approda come ausiliaria del traffico. Toccherà a loro, inaspettatamente uniti, risolvere il mistero dei 14 animali scomparsi che tutta la città sta cercando e sventare i piani di chi vuole impo",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Zootropolis|600|Byron Howard"
-    },
-    {
-      "id": "tmdb-12477",
-      "tmdbId": 12477,
-      "imdbId": "tt0095327",
-      "origine": "scoperta",
-      "titolo": "La tomba delle lucciole",
-      "titoloOriginale": "火垂るの墓",
-      "anno": "2015",
-      "uscitaItalia": "2015-11-10",
-      "regia": "高畑勲",
-      "generi": [
-        "Animazione",
-        "Dramma",
-        "Guerra"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 93,
-      "tagline": null,
-      "cast": [
-        "辰巳努 (Seita (voice))",
-        "白石綾乃 (Setsuko (voice))",
-        "志乃原良子 (Mother (voice))",
-        "山口朱美 (Auntie (voice))",
-        "Masayo Sakai (Woman who takes care of Setsuko (voice))",
-        "Kozo Hashida (Obayashi Chairman (voice))"
-      ],
-      "tramaTmdb": "Giappone, 21 settembre 1945. Alla stazione di Kobe, il quattordicenne Seita muore di inedia. Il suo spirito ripercorre i tragici eventi degli ultimi quattro mesi: i bombardamenti americani, il cadavere della madre sfigurato dalle ustioni, il padre a difendere la gloria dell'impero nella sua bianca uniforme da ufficiale di marina. E poi l'orgoglio, la fuga, i furti, la fame. Questa notte spaventosa è rischiarata dai flebili bagliori delle lucciole. Ma all'alba non ne rimarrà più nessuna.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "La tomba delle lucciole|491|高畑勲"
-    },
-    {
-      "id": "tmdb-98",
-      "tmdbId": 98,
-      "imdbId": "tt0172495",
-      "origine": "scoperta",
-      "titolo": "Il gladiatore",
-      "titoloOriginale": "Gladiator",
-      "anno": "2000",
-      "uscitaItalia": "2000-05-19",
-      "regia": "Ridley Scott",
-      "generi": [
-        "Azione",
-        "Dramma",
-        "Avventura"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 155,
-      "tagline": "La gloria rende gli eroi immortali",
-      "cast": [
-        "Russell Crowe (Maximus)",
-        "Joaquin Phoenix (Commodus)",
-        "Connie Nielsen (Lucilla)",
-        "Oliver Reed (Proximo)",
-        "Richard Harris (Marcus Aurelius)",
-        "Derek Jacobi (Gracchus)"
-      ],
-      "tramaTmdb": "Dopo una vittoria contro i Britanni l'imperatore Marco Aurelio, che disprezza il figlio Commodo, decide che il suo successore sarà il generale Massimo, uomo straordinario, amato da tutti. Ma Commodo uccide il padre e ordina la morte del generale e della sua famiglia. Massimo fugge in Africa, diventa gladiatore, torna a Roma dove si fa riconoscere. Diventa l'eroe del Colosseo, idolatrato dal popolo. Tanto che lo stesso Commodo non può farlo uccidere. Lo sfida a un duello nell'arena, dopo averlo vigliaccamente ferito. Massimo uccide finalmente l'orrendo imperatore.",
-      "motivi": [
-        "regia di Ridley Scott, di cui hai visto un film",
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Il gladiatore|569|Ridley Scott"
-    },
-    {
-      "id": "tmdb-1108427",
-      "tmdbId": 1108427,
-      "imdbId": "tt27419466",
-      "origine": "scoperta",
-      "titolo": "Oceania",
-      "titoloOriginale": "Moana",
-      "anno": "2026",
-      "uscitaItalia": "2026-08-19",
-      "regia": "Thomas Kail",
-      "generi": [
-        "Famiglia",
-        "Fantasy",
-        "Commedia",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 115,
-      "tagline": null,
-      "cast": [
-        "Catherine Lagaʻaia (Moana)",
-        "Dwayne Johnson (Maui)",
-        "Rena Owen (Gramma Tala)",
-        "John Tui (Chief Tui)",
-        "Frankie Adams (Sina)",
-        "Jemaine Clement (Tamatoa (voice))"
-      ],
-      "tramaTmdb": "Vaiana (Catherine Lagaʻaia) risponde al richiamo dell'oceano e, per la prima volta, viaggia oltre la barriera corallina dell’isola di Motunui con il famigerato semidio Maui (Dwayne Johnson) in un viaggio indimenticabile per riportare la prosperità al suo popolo.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Oceania|262|Thomas Kail"
-    },
-    {
-      "id": "tmdb-299536",
-      "tmdbId": 299536,
-      "imdbId": "tt4154756",
-      "origine": "scoperta",
-      "titolo": "Avengers: Infinity War",
-      "titoloOriginale": "Avengers: Infinity War",
-      "anno": "2018",
-      "uscitaItalia": "2018-04-25",
-      "regia": "Anthony Russo",
-      "generi": [
-        "Avventura",
         "Azione",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 156,
-      "tagline": "Un intero universo. Una volta per tutte.",
+      "durata": 113,
+      "tagline": "Vivi. Muori. Ripeti.",
       "cast": [
-        "Robert Downey Jr. (Tony Stark / Iron Man)",
-        "Chris Evans (Steve Rogers / Captain America)",
-        "Chris Hemsworth (Thor)",
-        "Josh Brolin (Thanos)",
-        "Mark Ruffalo (Bruce Banner / Hulk)",
-        "Scarlett Johansson (Natasha Romanoff / Black Widow)"
+        "Tom Cruise (Cage)",
+        "Emily Blunt (Rita)",
+        "Brendan Gleeson (General Brigham)",
+        "Bill Paxton (Master Sergeant Farell)",
+        "Jonas Armstrong (Skinner)",
+        "Tony Way (Kimmel)"
       ],
-      "tramaTmdb": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. È questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro ",
+      "tramaTmdb": "La storia di “Edge of Tomorrow” si svolge in un futuro prossimo in cui una razza aliena ha colpito la Terra con un implacabile assalto che nessuno esercito al mondo riesce a respingere. Il tenente William Cage è un ufficiale che non ha mai partecipato neppure a un giorno di combattimento quando viene inviato senza tanti complimenti a compiere una missione suicida. Ucciso in pochi minuti, incredibilmente Cage si risveglia ed è costretto a combattere e a morire ancora e ancora, in un continuo loop temporale. Ma a ogni scontro Cage diventa sempre più abile nell’affrontare il nemico, insieme alla ",
       "motivi": [
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "c'è Chris Pratt, che hai visto 4 volte"
+        "c'è Emily Blunt, che hai visto 3 volte",
+        "c'è Emily Blunt, che hai visto 3 volte"
       ],
-      "impronta": "Avengers: Infinity War|600|Anthony Russo"
+      "impronta": "Edge of Tomorrow - Senza domani|600|Doug Liman"
+    },
+    {
+      "id": "tmdb-49047",
+      "tmdbId": 49047,
+      "imdbId": "tt1454468",
+      "origine": "scoperta",
+      "titolo": "Gravity",
+      "titoloOriginale": "Gravity",
+      "anno": "2013",
+      "uscitaItalia": "2013-10-03",
+      "regia": "Alfonso Cuarón",
+      "generi": [
+        "Fantascienza",
+        "Thriller",
+        "Dramma"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 92,
+      "tagline": "Non mollare ora.",
+      "cast": [
+        "Sandra Bullock (Ryan Stone)",
+        "George Clooney (Matt Kowalski)",
+        "Ed Harris (Mission Control (voice))",
+        "Orto Ignatiussen (Aningaaq (voice))",
+        "Phaldut Sharma (Shariff (voice))",
+        "Amy Warren (Explorer Captain (voice))"
+      ],
+      "tramaTmdb": "Gli astronauti Ryan Stone e Matt Kowalsky lavorano ad alcune riparazioni di una stazione orbitante nello spazio quando un'imprevedibile catena di eventi gli scaraventa contro una tempesta di detriti. L'impatto è devastante, distrugge la loro stazione e li lascia a vagare nello spazio nel disperato tentativo di sopravvivere e trovare una maniera per tornare sulla Terra.",
+      "motivi": [
+        "regia di James Cameron, che segui"
+      ],
+      "impronta": "Gravity|371|Alfonso Cuarón"
+    },
+    {
+      "id": "tmdb-37165",
+      "tmdbId": 37165,
+      "imdbId": "tt0120382",
+      "origine": "scoperta",
+      "titolo": "The Truman Show",
+      "titoloOriginale": "The Truman Show",
+      "anno": "1998",
+      "uscitaItalia": "1998-09-25",
+      "regia": "Peter Weir",
+      "generi": [
+        "Commedia",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 103,
+      "tagline": "In onda. Senza saperlo.",
+      "cast": [
+        "Jim Carrey (Truman Burbank)",
+        "Laura Linney (Meryl Burbank / Hannah Gill)",
+        "Noah Emmerich (Marlon / Louis Coltrane)",
+        "Natascha McElhone (Lauren Garland / Sylvia)",
+        "Holland Taylor (Angela Montclair / Alanis Montclair)",
+        "Ed Harris (Christof)"
+      ],
+      "tramaTmdb": "In una cittadina di mare perfetta, un assicuratore inizia a rendersi conto che tutta la sua esistenza potrebbe essere inscenata e osservata da un vasto pubblico invisibile come parte di un reality show.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "The Truman Show|202|Peter Weir"
+    },
+    {
+      "id": "tmdb-1560520",
+      "tmdbId": 1560520,
+      "imdbId": "tt32333324",
+      "origine": "scoperta",
+      "titolo": "Batman: Knightfall Part 1: Knightfall",
+      "titoloOriginale": "Batman: Knightfall Part 1: Knightfall",
+      "anno": "2026",
+      "uscitaItalia": "2026-06-23",
+      "regia": "Jeff Wamester",
+      "generi": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 79,
+      "tagline": null,
+      "cast": [
+        "Anson Mount (Batman / Bruce Wayne (voice))",
+        "Michael Mando (Bane (voice))",
+        "Pablo Schreiber (Azrael / Jean-Paul Valley (voice))",
+        "Jeff Bennett (Ventriloquist / Scarface / Vincent (voice))",
+        "Luis Bermudez (Catman / Doctor / Guard (voice))",
+        "Bruce Boxleitner (Commissioner Jim Gordon (voice))"
+      ],
+      "tramaTmdb": null,
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Batman: Knightfall Part 1: Knightfall|0|Jeff Wamester"
+    },
+    {
+      "id": "tmdb-280",
+      "tmdbId": 280,
+      "imdbId": "tt0103064",
+      "origine": "scoperta",
+      "titolo": "Terminator 2 - Il giorno del giudizio",
+      "titoloOriginale": "Terminator 2: Judgment Day",
+      "anno": "1991",
+      "uscitaItalia": "1991-12-19",
+      "regia": "James Cameron",
+      "generi": [
+        "Azione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "Francia",
+        "USA"
+      ],
+      "durata": 137,
+      "tagline": "Non è niente di personale.",
+      "cast": [
+        "Arnold Schwarzenegger (The Terminator)",
+        "Linda Hamilton (Sarah Connor)",
+        "Edward Furlong (John Connor)",
+        "Robert Patrick (T-1000)",
+        "Earl Boen (Dr. Silberman)",
+        "Joe Morton (Miles Dyson)"
+      ],
+      "tramaTmdb": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+      "motivi": [
+        "regia di James Cameron, di cui hai visto 2 film",
+        "regia di James Cameron, che segui"
+      ],
+      "impronta": "Terminator 2 - Il giorno del giudizio|322|James Cameron"
+    },
+    {
+      "id": "tmdb-399174",
+      "tmdbId": 399174,
+      "imdbId": "tt5104604",
+      "origine": "scoperta",
+      "titolo": "L'isola dei cani",
+      "titoloOriginale": "Isle of Dogs",
+      "anno": "2018",
+      "uscitaItalia": "2018-05-01",
+      "regia": "Wes Anderson",
+      "generi": [
+        "Avventura",
+        "Commedia",
+        "Animazione"
+      ],
+      "paesi": [
+        "USA",
+        "Germania"
+      ],
+      "durata": 101,
+      "tagline": "Benvenuti sull'Isola dei Cani.",
+      "cast": [
+        "Bryan Cranston (Chief (voice))",
+        "Koyu Rankin (Atari Kobayashi (voice))",
+        "Bob Balaban (King (voice))",
+        "Edward Norton (Rex (voice))",
+        "Bill Murray (Boss (voice))",
+        "Jeff Goldblum (Duke (voice))"
+      ],
+      "tramaTmdb": "Atari Kobayashi è una guardia di dodici anni che vive a Megasaki City, città giapponese di cui è sindaco Kobayashi. Quando, con un decreto esecutivo, tutti i cani domestici vengono esiliati in un'enorme isola adibita ai rifiuti, Atari si allontana da solo alla ricerca del suo cane Spot. Con l'aiuto di nuovi amici, inizierà un epico viaggio che deciderà il destino e il futuro dell'intera Prefettura.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "L'isola dei cani|401|Wes Anderson"
+    },
+    {
+      "id": "tmdb-1184918",
+      "tmdbId": 1184918,
+      "imdbId": "tt29623480",
+      "origine": "scoperta",
+      "titolo": "Il robot selvaggio",
+      "titoloOriginale": "The Wild Robot",
+      "anno": "2024",
+      "uscitaItalia": "2024-10-10",
+      "regia": "Chris Sanders",
+      "generi": [
+        "Famiglia",
+        "Animazione",
+        "Fantascienza",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 102,
+      "tagline": "Scopri la tua vera natura.",
+      "cast": [
+        "Lupita Nyong'o (Roz / Rummage (voice))",
+        "Pedro Pascal (Fink (voice))",
+        "Kit Connor (Brightbill (voice))",
+        "Bill Nighy (Longneck (voice))",
+        "Stephanie Hsu (Vontra (voice))",
+        "Matt Berry (Paddler (voice))"
+      ],
+      "tramaTmdb": "L'epica avventura segue il viaggio di un robot - l'unità ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovrà imparare ad adattarsi all’ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell’isola e adottando un'ochetta orfana.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il robot selvaggio|306|Chris Sanders"
+    },
+    {
+      "id": "tmdb-73",
+      "tmdbId": 73,
+      "imdbId": "tt0120586",
+      "origine": "scoperta",
+      "titolo": "American History X",
+      "titoloOriginale": "American History X",
+      "anno": "1999",
+      "uscitaItalia": "1999-08-27",
+      "regia": "Tony Kaye",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 119,
+      "tagline": "Uniti dall'odio, divisi dalla verità.",
+      "cast": [
+        "Edward Norton (Derek)",
+        "Edward Furlong (Danny)",
+        "Beverly D'Angelo (Doris)",
+        "Jennifer Lien (Davina)",
+        "Ethan Suplee (Seth)",
+        "Fairuza Balk (Stacey)"
+      ],
+      "tramaTmdb": "In un tema in classe il giovane Danny tratta argomenti ispirati al 'Mein Kampf' e il preside Sweeney, per punirlo, lo obbliga a preparare una relazione sul fratello maggiore Derek. Quest'ultimo, ex leader di un gruppo giovanile paranazista che si riconosceva in Cameron, ideologo della violenza razzista contro ogni forma di diversità, è appena uscito dal carcere dopo aver scontato alcuni anni per l'uccisione di due ragazzi neri che gli stavano rubando l'automobile. Danny aspetta da tempo questo momento. Ha immaginato molte volte la scarcerazione di Derek e non desidera altro che mettersi ai 'su",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "American History X|600|Tony Kaye"
     }
   ]
 }
