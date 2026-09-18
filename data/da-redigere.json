@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-17T05:06:58.468Z",
+  "preparato": "2026-09-18T05:06:12.553Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,38 +79,6 @@
   },
   "film": [
     {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
-      "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-05-15",
-      "lista": "casa",
-      "regia": "Adam Stein",
-      "generi": [
-        "Horror",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
-      "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
-      ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
-    },
-    {
       "id": "tmdb-1022787",
       "tmdbId": 1022787,
       "imdbId": "tt4900148",
@@ -119,7 +87,7 @@
       "anno": "2025",
       "uscitaItalia": "2025-06-18",
       "lista": "casa",
-      "regia": "Domee Shi",
+      "regia": "Madeline Sharafian",
       "generi": [
         "Animazione",
         "Avventura",
@@ -143,7 +111,7 @@
         "Jake T. Getman (Caleb (voice))"
       ],
       "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Domee Shi"
+      "impronta": "Elio|287|Madeline Sharafian"
     }
   ]
 }

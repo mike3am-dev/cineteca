@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-17T05:07:00.371Z",
+  "preparato": "2026-09-18T05:06:14.166Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -135,6 +135,7 @@
       "cast": [
         "Brad Pitt (James Belmont)",
         "J.K. Simmons (Walter Boone)",
+        "Uber (Odin the Dog)",
         "Anna Lambe"
       ],
       "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
@@ -144,416 +145,346 @@
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
-      "id": "tmdb-1554956",
-      "tmdbId": 1554956,
-      "imdbId": "tt36980182",
-      "origine": "trailer",
-      "titolo": "The Incomer",
-      "titoloOriginale": "The Incomer",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-04",
-      "regia": "Louis Paxton",
-      "generi": [
-        "Commedia",
-        "Dramma"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA",
-        "Irlanda"
-      ],
-      "durata": 102,
-      "tagline": null,
-      "cast": [
-        "Domhnall Gleeson (Daniel)",
-        "Gayle Rankin (Isla)",
-        "Grant O'Rourke (Sandy)",
-        "Emun Elliott (Calum)",
-        "Michelle Gomez (Roz)",
-        "John Hannah (Fin Man / Father)"
-      ],
-      "tramaTmdb": null,
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "The Incomer|0|Louis Paxton"
-    },
-    {
-      "id": "tmdb-1736490",
-      "tmdbId": 1736490,
-      "imdbId": "tt43704846",
-      "origine": "trailer",
-      "titolo": "Un po' di luce",
-      "titoloOriginale": "کمی نور",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-01",
-      "regia": "Ali Asgari",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Iran",
-        "Svizzera",
-        "Italia"
-      ],
-      "durata": 87,
-      "tagline": null,
-      "cast": [
-        "میثاق زارع (Arash)",
-        "Sadaf Asgari (Mahsa)",
-        "Forouzan Jamshidnejad (Massi)",
-        "Ramtin Daghigh",
-        "Mina Rahimzadeh"
-      ],
-      "tramaTmdb": "Dopo l’arresto e la chiusura del suo ambulatorio, un medico iraniano, disilluso, perde ogni fiducia nel futuro. Deciso a porre fine alla propria vita, trascorre un’ultima giornata con i fratelli e la madre, per prepararli alla sua scomparsa. Ma la compassione, la cura e la vicinanza che gli dimostrano finiscono per riconciliarlo con la realtà.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Un po' di luce|345|Ali Asgari"
-    },
-    {
-      "id": "tmdb-775",
-      "tmdbId": 775,
-      "imdbId": "tt0000417",
+      "id": "tmdb-73937",
+      "tmdbId": 73937,
+      "imdbId": "tt1053810",
       "origine": "scoperta",
-      "titolo": "Viaggio nella Luna",
-      "titoloOriginale": "Le Voyage dans la Lune",
-      "anno": "1902",
-      "uscitaItalia": "1902-12-07",
-      "regia": "Georges Méliès",
+      "titolo": "Un anno da leoni",
+      "titoloOriginale": "The Big Year",
+      "anno": "2012",
+      "uscitaItalia": "2012-07-27",
+      "regia": "David Frankel",
       "generi": [
-        "Avventura",
-        "Fantascienza",
         "Commedia"
       ],
       "paesi": [
-        "Francia"
+        "USA",
+        "Regno Unito"
       ],
-      "durata": 14,
-      "tagline": null,
+      "durata": 100,
+      "tagline": "Ognuno di noi è in cerca di qualcosa.",
       "cast": [
-        "Georges Méliès (Professeur Barbenfouillis / La Lune)",
-        "Bleuette Bernon (Phoebe Déesse de la Lune)",
-        "François Lallement (L'officier de Marine / Commandant de la Base de Lancement)",
-        "Jehanne d'Alcy (La Secrétaire / Une Étoile / Agent de Bord de la Fusée)",
-        "Henri Delannoy (Le Pilote de la Fusée Lunaire)",
-        "Victor André (Un Astronome et Spationaute)"
+        "Steve Martin (Stu Preissler)",
+        "Jack Black (Brad Harris)",
+        "Owen Wilson (Kenny Bostick)",
+        "Brian Dennehy (Raymond Harris)",
+        "Anjelica Huston (Annie Auklet)",
+        "Rashida Jones (Ellie)"
       ],
-      "tramaTmdb": "“Viaggio nella Luna” è un film fantastico del 1902 realizzato da Georges Méliès. Assieme al Viaggio attraverso l'impossibile è uno dei suoi film più famosi, forse il capolavoro. Il film è una parodia basata liberamente sul romanzo di Jules Verne “Dalla Terra alla Luna” e su quello di H. G. Wells “I primi uomini sulla Luna”. È considerato il primo film di fantascienza e una delle scene iniziali del film, la navicella spaziale che si schianta sull'occhio della Luna (che presenta un volto umano), è entrata nell'immaginario collettivo ed è una delle sequenze che hanno fatto la storia del cinema.",
+      "tramaTmdb": "Brad Harris ha 36 anni, è divorziato e vive con i genitori. Se la madre lo sostiene nella sua passione per il bird watching il padre costituisce un ostacolo. Brad però ha un idolo: Kenny Bostick, che ha vinto la competizione denominata \"The Big Year\", una gara che consiste nel riuscire, nell'arco di un anno, a vedere il maggior numero di specie di uccelli. Bostick, che ne ha individuati più di 700, teme che il suo record possa essere battuto e torna a competere nonostante il parere contrario della moglie. Oltre alle sue imprese e a quelle di Brad, che ha vinto le resistenze paterne, seguiamo i",
       "motivi": [
-        "avventura: il tuo terreno"
+        "regia di David Frankel, di cui hai visto un film",
+        "regia di David Frankel, che segui"
       ],
-      "impronta": "Viaggio nella Luna|598|Georges Méliès"
+      "impronta": "Un anno da leoni|600|David Frankel"
     },
     {
-      "id": "tmdb-447332",
-      "tmdbId": 447332,
-      "imdbId": "tt6644200",
+      "id": "tmdb-1439930",
+      "tmdbId": 1439930,
+      "imdbId": "tt36042156",
       "origine": "scoperta",
-      "titolo": "A Quiet Place - Un posto tranquillo",
-      "titoloOriginale": "A Quiet Place",
-      "anno": "2018",
-      "uscitaItalia": "2018-04-05",
-      "regia": "John Krasinski",
-      "generi": [
-        "Horror",
-        "Dramma",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 95,
-      "tagline": "Se ti sentono, ti danno la caccia.",
-      "cast": [
-        "Emily Blunt (Evelyn Abbott)",
-        "John Krasinski (Lee Abbott)",
-        "Millicent Simmonds (Regan Abbott)",
-        "Noah Jupe (Marcus Abbott)",
-        "Cade Woodward (Beau Abbott)",
-        "Leon Russom (Man in the Woods)"
-      ],
-      "tramaTmdb": "Una famiglia vive un'esistenza isolata nel silenzio più assoluto, per paura di una minaccia sconosciuta che segue solo il suono e attacca a qualsiasi rumore.",
-      "motivi": [
-        "c'è Emily Blunt, che hai visto 3 volte",
-        "c'è Emily Blunt, che hai visto 3 volte"
-      ],
-      "impronta": "A Quiet Place - Un posto tranquillo|157|John Krasinski"
-    },
-    {
-      "id": "tmdb-137113",
-      "tmdbId": 137113,
-      "imdbId": "tt1631867",
-      "origine": "scoperta",
-      "titolo": "Edge of Tomorrow - Senza domani",
-      "titoloOriginale": "Edge of Tomorrow",
-      "anno": "2014",
-      "uscitaItalia": "2014-05-29",
-      "regia": "Doug Liman",
+      "titolo": "The Punisher: One Last Kill",
+      "titoloOriginale": "The Punisher: One Last Kill",
+      "anno": "2026",
+      "uscitaItalia": "2026-05-12",
+      "regia": "Reinaldo Marcus Green",
       "generi": [
         "Azione",
-        "Fantascienza"
+        "Dramma",
+        "Crime"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 113,
-      "tagline": "Vivi. Muori. Ripeti.",
+      "durata": 50,
+      "tagline": "Per trovare la pace... la perderà",
       "cast": [
-        "Tom Cruise (Cage)",
-        "Emily Blunt (Rita)",
-        "Brendan Gleeson (General Brigham)",
-        "Bill Paxton (Master Sergeant Farell)",
-        "Jonas Armstrong (Skinner)",
-        "Tony Way (Kimmel)"
+        "Jon Bernthal (Frank Castle)",
+        "Deborah Ann Woll (Karen Page)",
+        "Jason R. Moore (Curtis Hoyle)",
+        "Judith Light (Ma)",
+        "Kelli Barrett (Maria Castle)",
+        "Andre Royo (Dre)"
       ],
-      "tramaTmdb": "La storia di “Edge of Tomorrow” si svolge in un futuro prossimo in cui una razza aliena ha colpito la Terra con un implacabile assalto che nessuno esercito al mondo riesce a respingere. Il tenente William Cage è un ufficiale che non ha mai partecipato neppure a un giorno di combattimento quando viene inviato senza tanti complimenti a compiere una missione suicida. Ucciso in pochi minuti, incredibilmente Cage si risveglia ed è costretto a combattere e a morire ancora e ancora, in un continuo loop temporale. Ma a ogni scontro Cage diventa sempre più abile nell’affrontare il nemico, insieme alla ",
+      "tramaTmdb": "Frank Castle è un uomo tormentato dal disturbo post-traumatico e dai fantasmi del passato dopo aver compiuto la sua vendetta. Quando la spietata boss mafiosa Ma Gnucci mette una taglia sulla sua testa, scatenando il caos dei criminali a New York, Frank deve combattere un'ultima volta per proteggere gli innocenti e ritrovare il suo scopo.",
       "motivi": [
-        "c'è Emily Blunt, che hai visto 3 volte",
-        "c'è Emily Blunt, che hai visto 3 volte"
+        "un classico che ti manca"
       ],
-      "impronta": "Edge of Tomorrow - Senza domani|600|Doug Liman"
+      "impronta": "The Punisher: One Last Kill|339|Reinaldo Marcus Green"
     },
     {
-      "id": "tmdb-49047",
-      "tmdbId": 49047,
-      "imdbId": "tt1454468",
+      "id": "tmdb-103663",
+      "tmdbId": 103663,
+      "imdbId": "tt2106476",
       "origine": "scoperta",
-      "titolo": "Gravity",
-      "titoloOriginale": "Gravity",
-      "anno": "2013",
-      "uscitaItalia": "2013-10-03",
-      "regia": "Alfonso Cuarón",
+      "titolo": "Il sospetto",
+      "titoloOriginale": "Jagten",
+      "anno": "2012",
+      "uscitaItalia": "2012-11-22",
+      "regia": "Thomas Vinterberg",
       "generi": [
-        "Fantascienza",
-        "Thriller",
         "Dramma"
       ],
       "paesi": [
-        "Regno Unito",
-        "USA"
+        "Danimarca",
+        "Svezia"
       ],
-      "durata": 92,
-      "tagline": "Non mollare ora.",
+      "durata": 115,
+      "tagline": "La menzogna si sta diffondendo.",
       "cast": [
-        "Sandra Bullock (Ryan Stone)",
-        "George Clooney (Matt Kowalski)",
-        "Ed Harris (Mission Control (voice))",
-        "Orto Ignatiussen (Aningaaq (voice))",
-        "Phaldut Sharma (Shariff (voice))",
-        "Amy Warren (Explorer Captain (voice))"
+        "Mads Mikkelsen (Lucas)",
+        "Thomas Bo Larsen (Theo)",
+        "Annika (Klara)",
+        "Lasse Fogelstrøm (Marcus)",
+        "Susse Wold (Grethe)",
+        "Anne Louise Hassing (Agnes)"
       ],
-      "tramaTmdb": "Gli astronauti Ryan Stone e Matt Kowalsky lavorano ad alcune riparazioni di una stazione orbitante nello spazio quando un'imprevedibile catena di eventi gli scaraventa contro una tempesta di detriti. L'impatto è devastante, distrugge la loro stazione e li lascia a vagare nello spazio nel disperato tentativo di sopravvivere e trovare una maniera per tornare sulla Terra.",
-      "motivi": [
-        "regia di James Cameron, che segui"
-      ],
-      "impronta": "Gravity|371|Alfonso Cuarón"
-    },
-    {
-      "id": "tmdb-37165",
-      "tmdbId": 37165,
-      "imdbId": "tt0120382",
-      "origine": "scoperta",
-      "titolo": "The Truman Show",
-      "titoloOriginale": "The Truman Show",
-      "anno": "1998",
-      "uscitaItalia": "1998-09-25",
-      "regia": "Peter Weir",
-      "generi": [
-        "Commedia",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 103,
-      "tagline": "In onda. Senza saperlo.",
-      "cast": [
-        "Jim Carrey (Truman Burbank)",
-        "Laura Linney (Meryl Burbank / Hannah Gill)",
-        "Noah Emmerich (Marlon / Louis Coltrane)",
-        "Natascha McElhone (Lauren Garland / Sylvia)",
-        "Holland Taylor (Angela Montclair / Alanis Montclair)",
-        "Ed Harris (Christof)"
-      ],
-      "tramaTmdb": "In una cittadina di mare perfetta, un assicuratore inizia a rendersi conto che tutta la sua esistenza potrebbe essere inscenata e osservata da un vasto pubblico invisibile come parte di un reality show.",
+      "tramaTmdb": "Dopo un difficile divorzio, il quarantenne Lucas ha una nuova compagna e un nuovo lavoro, e sta finalmente recuperando il rapporto col figlio adolescente, Marcus. Ma qualcosa va storto. Durante le feste natalizie, una storia inventata, una bugia qualsiasi si diffonde come un virus. Lo shock e i sospetti prendono il sopravvento e la piccola comunità viene travolta da un’ondata di isteria collettiva, mentre Lucas combatte una battaglia solitaria per difendere la sua vita e la sua dignità.",
       "motivi": [
         "dramma: il tuo terreno"
       ],
-      "impronta": "The Truman Show|202|Peter Weir"
+      "impronta": "Il sospetto|491|Thomas Vinterberg"
     },
     {
-      "id": "tmdb-1560520",
-      "tmdbId": 1560520,
-      "imdbId": "tt32333324",
+      "id": "tmdb-84332",
+      "tmdbId": 84332,
+      "imdbId": "tt1862079",
       "origine": "scoperta",
-      "titolo": "Batman: Knightfall Part 1: Knightfall",
-      "titoloOriginale": "Batman: Knightfall Part 1: Knightfall",
-      "anno": "2026",
-      "uscitaItalia": "2026-06-23",
-      "regia": "Jeff Wamester",
+      "titolo": "Safety Not Guaranteed",
+      "titoloOriginale": "Safety Not Guaranteed",
+      "anno": "2012",
+      "uscitaItalia": "2012-06-08",
+      "regia": "Colin Trevorrow",
       "generi": [
-        "Animazione",
-        "Azione",
-        "Avventura",
+        "Commedia",
+        "Romance",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 79,
+      "durata": 85,
       "tagline": null,
       "cast": [
-        "Anson Mount (Batman / Bruce Wayne (voice))",
-        "Michael Mando (Bane (voice))",
-        "Pablo Schreiber (Azrael / Jean-Paul Valley (voice))",
-        "Jeff Bennett (Ventriloquist / Scarface / Vincent (voice))",
-        "Luis Bermudez (Catman / Doctor / Guard (voice))",
-        "Bruce Boxleitner (Commissioner Jim Gordon (voice))"
+        "Aubrey Plaza (Darius)",
+        "Mark Duplass (Kenneth)",
+        "Jake Johnson (Jeff)",
+        "Karan Soni (Arnau)",
+        "Jenica Bergere (Liz)",
+        "Kristen Bell (Belinda)"
       ],
-      "tramaTmdb": null,
+      "tramaTmdb": "Aubrey Plaza, Jake M. Johnson e Mark Duplass sono i protagonisti della commedia surreale Safety Not Guaranteed. Il film, scritto da Derek Connolly e diretto da Colin Trevorrow, è basato su una storia decisamente bizzarra: un uomo crea un annuncio molto serio su un giornale, dove scrive che è alla ricerca di un compagno per un viaggio nel tempo, affermando che chi ha intenzione di accettare deve portarsi dietro le proprie armi e avverte che la “sicurezza non è garantita\". Generando un vero e proprio tormentone su internet, uno scrittore per una rivista di Seattle decide di andare ad intervistar",
       "motivi": [
-        "se ne parla adesso"
+        "regia di Colin Trevorrow, di cui hai visto 2 film",
+        "regia di Colin Trevorrow, che segui"
       ],
-      "impronta": "Batman: Knightfall Part 1: Knightfall|0|Jeff Wamester"
+      "impronta": "Safety Not Guaranteed|600|Colin Trevorrow"
     },
     {
-      "id": "tmdb-280",
-      "tmdbId": 280,
-      "imdbId": "tt0103064",
+      "id": "tmdb-597",
+      "tmdbId": 597,
+      "imdbId": "tt0120338",
       "origine": "scoperta",
-      "titolo": "Terminator 2 - Il giorno del giudizio",
-      "titoloOriginale": "Terminator 2: Judgment Day",
-      "anno": "1991",
-      "uscitaItalia": "1991-12-19",
+      "titolo": "Titanic",
+      "titoloOriginale": "Titanic",
+      "anno": "1998",
+      "uscitaItalia": "1998-01-16",
       "regia": "James Cameron",
       "generi": [
-        "Azione",
-        "Thriller",
-        "Fantascienza"
+        "Dramma",
+        "Romance"
       ],
       "paesi": [
-        "Francia",
         "USA"
       ],
-      "durata": 137,
-      "tagline": "Non è niente di personale.",
+      "durata": 194,
+      "tagline": "Nulla al mondo poteva dividerli.",
       "cast": [
-        "Arnold Schwarzenegger (The Terminator)",
-        "Linda Hamilton (Sarah Connor)",
-        "Edward Furlong (John Connor)",
-        "Robert Patrick (T-1000)",
-        "Earl Boen (Dr. Silberman)",
-        "Joe Morton (Miles Dyson)"
+        "Leonardo DiCaprio (Jack Dawson)",
+        "Kate Winslet (Rose DeWitt Bukater)",
+        "Billy Zane (Cal Hockley)",
+        "Kathy Bates (Molly Brown)",
+        "Frances Fisher (Ruth DeWitt Bukater)",
+        "Gloria Stuart (Old Rose)"
       ],
-      "tramaTmdb": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+      "tramaTmdb": "Rose ha diciassette anni, una madre egoista, un fidanzato facoltoso e una vita pianificata. Imbarcata sul Titanic e insoddisfatta della propria subalternità al futuro sposo incontra Jack, romantico disegnatore della terza classe che ha vinto a poker un biglietto per l'America. Contro le convenzioni e il destino, che chiederà il conto in una notte senza luna, Rose e Jack si innamorano, spiegando il loro spirito come i motori del più grande transatlantico del mondo. Lanciato nella sua prima traversata oceanica il Titanic è colpito al cuore da un iceberg, 'affondando' millecinquecento persone e i",
       "motivi": [
         "regia di James Cameron, di cui hai visto 2 film",
         "regia di James Cameron, che segui"
       ],
-      "impronta": "Terminator 2 - Il giorno del giudizio|322|James Cameron"
+      "impronta": "Titanic|600|James Cameron"
     },
     {
-      "id": "tmdb-399174",
-      "tmdbId": 399174,
-      "imdbId": "tt5104604",
+      "id": "tmdb-62",
+      "tmdbId": 62,
+      "imdbId": "tt0062622",
       "origine": "scoperta",
-      "titolo": "L'isola dei cani",
-      "titoloOriginale": "Isle of Dogs",
-      "anno": "2018",
-      "uscitaItalia": "2018-05-01",
-      "regia": "Wes Anderson",
+      "titolo": "2001: Odissea nello spazio",
+      "titoloOriginale": "2001: A Space Odyssey",
+      "anno": "1968",
+      "uscitaItalia": "1968-12-12",
+      "regia": "Stanley Kubrick",
       "generi": [
-        "Avventura",
-        "Commedia",
-        "Animazione"
-      ],
-      "paesi": [
-        "USA",
-        "Germania"
-      ],
-      "durata": 101,
-      "tagline": "Benvenuti sull'Isola dei Cani.",
-      "cast": [
-        "Bryan Cranston (Chief (voice))",
-        "Koyu Rankin (Atari Kobayashi (voice))",
-        "Bob Balaban (King (voice))",
-        "Edward Norton (Rex (voice))",
-        "Bill Murray (Boss (voice))",
-        "Jeff Goldblum (Duke (voice))"
-      ],
-      "tramaTmdb": "Atari Kobayashi è una guardia di dodici anni che vive a Megasaki City, città giapponese di cui è sindaco Kobayashi. Quando, con un decreto esecutivo, tutti i cani domestici vengono esiliati in un'enorme isola adibita ai rifiuti, Atari si allontana da solo alla ricerca del suo cane Spot. Con l'aiuto di nuovi amici, inizierà un epico viaggio che deciderà il destino e il futuro dell'intera Prefettura.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "L'isola dei cani|401|Wes Anderson"
-    },
-    {
-      "id": "tmdb-1184918",
-      "tmdbId": 1184918,
-      "imdbId": "tt29623480",
-      "origine": "scoperta",
-      "titolo": "Il robot selvaggio",
-      "titoloOriginale": "The Wild Robot",
-      "anno": "2024",
-      "uscitaItalia": "2024-10-10",
-      "regia": "Chris Sanders",
-      "generi": [
-        "Famiglia",
-        "Animazione",
         "Fantascienza",
+        "Mistero",
         "Avventura"
       ],
       "paesi": [
+        "Regno Unito",
         "USA"
       ],
-      "durata": 102,
-      "tagline": "Scopri la tua vera natura.",
+      "durata": 141,
+      "tagline": "Un'epica e drammatica avventura di esplorazione del cosmo.",
       "cast": [
-        "Lupita Nyong'o (Roz / Rummage (voice))",
-        "Pedro Pascal (Fink (voice))",
-        "Kit Connor (Brightbill (voice))",
-        "Bill Nighy (Longneck (voice))",
-        "Stephanie Hsu (Vontra (voice))",
-        "Matt Berry (Paddler (voice))"
+        "Keir Dullea (Dr. David Bowman)",
+        "Gary Lockwood (Dr. Frank Poole)",
+        "William Sylvester (Dr. Heywood Floyd)",
+        "Douglas Rain (HAL 9000 (voice))",
+        "Daniel Richter (Moonwatcher)",
+        "Leonard Rossiter (Dr. Andrei Smyslov)"
       ],
-      "tramaTmdb": "L'epica avventura segue il viaggio di un robot - l'unità ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovrà imparare ad adattarsi all’ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell’isola e adottando un'ochetta orfana.",
+      "tramaTmdb": "Un gigantesco monolite, individuato sulla superficie lunare, trasmette dei messaggi radio in direzione del pianeta Giove. Per seguire il fascio di onde elettromagnetiche viene organizzata una spedizione che ben presto però si trova in balia del computer che governa l'astronave. La lotta avrà un solo vincitore.",
       "motivi": [
-        "un classico che ti manca"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Il robot selvaggio|306|Chris Sanders"
+      "impronta": "2001: Odissea nello spazio|311|Stanley Kubrick"
     },
     {
-      "id": "tmdb-73",
-      "tmdbId": 73,
-      "imdbId": "tt0120586",
+      "id": "tmdb-274",
+      "tmdbId": 274,
+      "imdbId": "tt0102926",
       "origine": "scoperta",
-      "titolo": "American History X",
-      "titoloOriginale": "American History X",
-      "anno": "1999",
-      "uscitaItalia": "1999-08-27",
-      "regia": "Tony Kaye",
+      "titolo": "Il silenzio degli innocenti",
+      "titoloOriginale": "The Silence of the Lambs",
+      "anno": "1991",
+      "uscitaItalia": "1991-03-05",
+      "regia": "Jonathan Demme",
       "generi": [
+        "Crime",
+        "Thriller",
         "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 119,
-      "tagline": "Uniti dall'odio, divisi dalla verità.",
+      "durata": 118,
+      "tagline": "\"Uno che faceva un censimento una volta tentò di interrogarmi. Mi mangiai il suo fegato con un bel piatto di fave ed un buon Chianti.\"",
       "cast": [
-        "Edward Norton (Derek)",
-        "Edward Furlong (Danny)",
-        "Beverly D'Angelo (Doris)",
-        "Jennifer Lien (Davina)",
-        "Ethan Suplee (Seth)",
-        "Fairuza Balk (Stacey)"
+        "Jodie Foster (Clarice Starling)",
+        "Anthony Hopkins (Dr. Hannibal Lecter)",
+        "Scott Glenn (Jack Crawford)",
+        "Ted Levine (Jame Gumb)",
+        "Anthony Heald (Dr. Frederick Chilton)",
+        "Brooke Smith (Catherine Martin)"
       ],
-      "tramaTmdb": "In un tema in classe il giovane Danny tratta argomenti ispirati al 'Mein Kampf' e il preside Sweeney, per punirlo, lo obbliga a preparare una relazione sul fratello maggiore Derek. Quest'ultimo, ex leader di un gruppo giovanile paranazista che si riconosceva in Cameron, ideologo della violenza razzista contro ogni forma di diversità, è appena uscito dal carcere dopo aver scontato alcuni anni per l'uccisione di due ragazzi neri che gli stavano rubando l'automobile. Danny aspetta da tempo questo momento. Ha immaginato molte volte la scarcerazione di Derek e non desidera altro che mettersi ai 'su",
+      "tramaTmdb": "Dal romanzo omonimo di Thomas Harris. Una giovane recluta dell'FBI è incaricata di far visita in carcere a Hannibal Lecter, psichiatra pluriomicida, per ottenere informazioni su un assassino psicopatico che ha ucciso e scuoiato cinque donne.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Il silenzio degli innocenti|241|Jonathan Demme"
+    },
+    {
+      "id": "tmdb-290250",
+      "tmdbId": 290250,
+      "imdbId": "tt3799694",
+      "origine": "scoperta",
+      "titolo": "The Nice Guys",
+      "titoloOriginale": "The Nice Guys",
+      "anno": "2016",
+      "uscitaItalia": "2016-06-01",
+      "regia": "Shane Black",
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Azione"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 116,
+      "tagline": null,
+      "cast": [
+        "Russell Crowe (Jackson Healy)",
+        "Ryan Gosling (Holland March)",
+        "Angourie Rice (Holly March)",
+        "Matt Bomer (John Boy)",
+        "Margaret Qualley (Amelia Kuttner)",
+        "Yaya DaCosta (Tally)"
+      ],
+      "tramaTmdb": "Nella Los Angeles degli anni ‘70, libertina, stravagante e decisamente trendy, un investigatore privato, Holland March (Ryan Gosling), e un detective senza scrupoli, Jackson Healy (Russell Crowe), si alleano per risolvere il caso di una ragazza scomparsa e la morte di una porno star che apparentemente non sembrerebbero correlate: scopriranno che un semplice omicidio nasconde il caso del secolo!",
+      "motivi": [
+        "c'è Ryan Gosling, che hai visto 3 volte",
+        "c'è Ryan Gosling, che hai visto 3 volte"
+      ],
+      "impronta": "The Nice Guys|397|Shane Black"
+    },
+    {
+      "id": "tmdb-901",
+      "tmdbId": 901,
+      "imdbId": "tt0021749",
+      "origine": "scoperta",
+      "titolo": "Luci della città",
+      "titoloOriginale": "City Lights",
+      "anno": "1931",
+      "uscitaItalia": "1931-04-02",
+      "regia": "Charlie Chaplin",
+      "generi": [
+        "Commedia",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 89,
+      "tagline": null,
+      "cast": [
+        "Charlie Chaplin (A Tramp)",
+        "Virginia Cherrill (A Blind Girl)",
+        "Florence Lee (Her Grandmother)",
+        "Harry Myers (An Eccentric Millionaire)",
+        "Al Ernest Garcia (His Butler)",
+        "Hank Mann (A Prizefighter)"
+      ],
+      "tramaTmdb": "Un vagabondo si innamora di una bella fioraia cieca che lo scambia per un milionario. Il povero vagabondo vivrà numerose avventure, nel tentativo di aiutare economicamente la fioraia.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "American History X|600|Tony Kaye"
+      "impronta": "Luci della città|183|Charlie Chaplin"
+    },
+    {
+      "id": "tmdb-1375646",
+      "tmdbId": 1375646,
+      "imdbId": "tt34385135",
+      "origine": "scoperta",
+      "titolo": "Colony",
+      "titoloOriginale": "군체",
+      "anno": "2026",
+      "uscitaItalia": "2026-05-21",
+      "regia": "Yeon Sang-ho",
+      "generi": [
+        "Azione",
+        "Horror",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "Corea del Sud"
+      ],
+      "durata": 122,
+      "tagline": null,
+      "cast": [
+        "전지현 (Kwon Se-jeong)",
+        "구교환 (Seo Young-cheol)",
+        "지창욱 (Choi Hyun-seok)",
+        "김신록 (Choi Hyun-hee)",
+        "Shin Hyun-been (Kong Seol-hee)",
+        "고수 (Han Kyu-seong)"
+      ],
+      "tramaTmdb": "La professoressa Se-jeong precipita in un incubo sanguinoso quando, durante una conferenza di biotecnologie, viene rilasciato un virus in rapida mutazione che spinge le autorità a sigillare la struttura. Intrappolata all'interno e senza via di fuga, Se-jeong deve lottare per sopravvivere insieme a un piccolo gruppo di superstiti, mentre gli infetti subiscono orribili trasformazioni.",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Colony|385|Yeon Sang-ho"
     }
   ]
 }
