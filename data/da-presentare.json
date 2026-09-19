@@ -1,13 +1,13 @@
 {
-  "preparato": "2026-09-18T05:06:14.166Z",
+  "preparato": "2026-09-19T05:06:21.965Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
       "Dramma (13)",
       "Fantascienza (12)",
       "Thriller (10)",
-      "Azione (10)",
-      "Horror (9)"
+      "Horror (9)",
+      "Azione (7)"
     ],
     "registi": [
       "Denis Villeneuve (3)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,6 +78,40 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1288069",
+      "tmdbId": 1288069,
+      "imdbId": "tt6262770",
+      "origine": "trailer",
+      "titolo": "Tenzing",
+      "titoloOriginale": "Tenzing",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-09",
+      "regia": "Jennifer Peedom",
+      "generi": [
+        "Dramma",
+        "Storia"
+      ],
+      "paesi": [
+        "Australia",
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 126,
+      "tagline": null,
+      "cast": [
+        "更登彭措 (Tenzing Norgay)",
+        "Tom Hiddleston (Sir Edmund Hillary)",
+        "Willem Dafoe (Colonel John Hunt)",
+        "Caitríona Balfe (Jill Henderson)",
+        "Thinley Lhamo (Dawa Norgay)"
+      ],
+      "tramaTmdb": "Un uomo molto determinato intraprende un’impresa ad alto rischio, sfidando ostacoli apparentemente insormontabili, per realizzare il suo sogno: essere il primo a raggiungere la vetta del Monte Everest.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Tenzing|201|Jennifer Peedom"
+    },
     {
       "id": "tmdb-1375441",
       "tmdbId": 1375441,
@@ -114,6 +148,39 @@
       "impronta": "Primetime|523|Lance Oppenheim"
     },
     {
+      "id": "tmdb-1236045",
+      "tmdbId": 1236045,
+      "imdbId": "tt31049299",
+      "origine": "trailer",
+      "titolo": "Animals",
+      "titoloOriginale": "Animals",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-09",
+      "regia": "Ben Affleck",
+      "generi": [
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": null,
+      "cast": [
+        "Ben Affleck (Mark Kimball)",
+        "Kerry Washington (Abigail)",
+        "Steven Yeun",
+        "Gillian Anderson",
+        "Adriana Paz",
+        "Luis Gerardo Méndez"
+      ],
+      "tramaTmdb": "Milo Bradgord (Ben Affleck), il candidato a sindaco di Los Angeles,  si trova a vivere in un incubo, dopo che suo figlio viene rapito. Lui e sua moglie hanno poche ore per pagare il riscatto, ma hanno speso la maggior parte del loro denato per la campagna politica dell'uomo. I due saranno costretti a ricorrere a misure estreme per racimolare i soldi, sporcandosi le mani e rivelando un lato della loro vita che non avrebbero mai voluto portare alla luce...",
+      "motivi": [
+        "thriller, il tuo terreno"
+      ],
+      "impronta": "Animals|458|Ben Affleck"
+    },
+    {
       "id": "tmdb-1263337",
       "tmdbId": 1263337,
       "imdbId": "tt7526136",
@@ -145,346 +212,355 @@
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
-      "id": "tmdb-73937",
-      "tmdbId": 73937,
-      "imdbId": "tt1053810",
+      "id": "tmdb-46738",
+      "tmdbId": 46738,
+      "imdbId": "tt1255953",
       "origine": "scoperta",
-      "titolo": "Un anno da leoni",
-      "titoloOriginale": "The Big Year",
-      "anno": "2012",
-      "uscitaItalia": "2012-07-27",
-      "regia": "David Frankel",
+      "titolo": "La donna che canta",
+      "titoloOriginale": "Incendies",
+      "anno": "2011",
+      "uscitaItalia": "2011-01-21",
+      "regia": "Denis Villeneuve",
       "generi": [
-        "Commedia"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 100,
-      "tagline": "Ognuno di noi è in cerca di qualcosa.",
-      "cast": [
-        "Steve Martin (Stu Preissler)",
-        "Jack Black (Brad Harris)",
-        "Owen Wilson (Kenny Bostick)",
-        "Brian Dennehy (Raymond Harris)",
-        "Anjelica Huston (Annie Auklet)",
-        "Rashida Jones (Ellie)"
-      ],
-      "tramaTmdb": "Brad Harris ha 36 anni, è divorziato e vive con i genitori. Se la madre lo sostiene nella sua passione per il bird watching il padre costituisce un ostacolo. Brad però ha un idolo: Kenny Bostick, che ha vinto la competizione denominata \"The Big Year\", una gara che consiste nel riuscire, nell'arco di un anno, a vedere il maggior numero di specie di uccelli. Bostick, che ne ha individuati più di 700, teme che il suo record possa essere battuto e torna a competere nonostante il parere contrario della moglie. Oltre alle sue imprese e a quelle di Brad, che ha vinto le resistenze paterne, seguiamo i",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
-      ],
-      "impronta": "Un anno da leoni|600|David Frankel"
-    },
-    {
-      "id": "tmdb-1439930",
-      "tmdbId": 1439930,
-      "imdbId": "tt36042156",
-      "origine": "scoperta",
-      "titolo": "The Punisher: One Last Kill",
-      "titoloOriginale": "The Punisher: One Last Kill",
-      "anno": "2026",
-      "uscitaItalia": "2026-05-12",
-      "regia": "Reinaldo Marcus Green",
-      "generi": [
-        "Azione",
         "Dramma",
-        "Crime"
+        "Guerra",
+        "Mistero"
       ],
       "paesi": [
-        "USA"
+        "Canada",
+        "Francia"
       ],
-      "durata": 50,
-      "tagline": "Per trovare la pace... la perderà",
-      "cast": [
-        "Jon Bernthal (Frank Castle)",
-        "Deborah Ann Woll (Karen Page)",
-        "Jason R. Moore (Curtis Hoyle)",
-        "Judith Light (Ma)",
-        "Kelli Barrett (Maria Castle)",
-        "Andre Royo (Dre)"
-      ],
-      "tramaTmdb": "Frank Castle è un uomo tormentato dal disturbo post-traumatico e dai fantasmi del passato dopo aver compiuto la sua vendetta. Quando la spietata boss mafiosa Ma Gnucci mette una taglia sulla sua testa, scatenando il caos dei criminali a New York, Frank deve combattere un'ultima volta per proteggere gli innocenti e ritrovare il suo scopo.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "The Punisher: One Last Kill|339|Reinaldo Marcus Green"
-    },
-    {
-      "id": "tmdb-103663",
-      "tmdbId": 103663,
-      "imdbId": "tt2106476",
-      "origine": "scoperta",
-      "titolo": "Il sospetto",
-      "titoloOriginale": "Jagten",
-      "anno": "2012",
-      "uscitaItalia": "2012-11-22",
-      "regia": "Thomas Vinterberg",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Danimarca",
-        "Svezia"
-      ],
-      "durata": 115,
-      "tagline": "La menzogna si sta diffondendo.",
-      "cast": [
-        "Mads Mikkelsen (Lucas)",
-        "Thomas Bo Larsen (Theo)",
-        "Annika (Klara)",
-        "Lasse Fogelstrøm (Marcus)",
-        "Susse Wold (Grethe)",
-        "Anne Louise Hassing (Agnes)"
-      ],
-      "tramaTmdb": "Dopo un difficile divorzio, il quarantenne Lucas ha una nuova compagna e un nuovo lavoro, e sta finalmente recuperando il rapporto col figlio adolescente, Marcus. Ma qualcosa va storto. Durante le feste natalizie, una storia inventata, una bugia qualsiasi si diffonde come un virus. Lo shock e i sospetti prendono il sopravvento e la piccola comunità viene travolta da un’ondata di isteria collettiva, mentre Lucas combatte una battaglia solitaria per difendere la sua vita e la sua dignità.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Il sospetto|491|Thomas Vinterberg"
-    },
-    {
-      "id": "tmdb-84332",
-      "tmdbId": 84332,
-      "imdbId": "tt1862079",
-      "origine": "scoperta",
-      "titolo": "Safety Not Guaranteed",
-      "titoloOriginale": "Safety Not Guaranteed",
-      "anno": "2012",
-      "uscitaItalia": "2012-06-08",
-      "regia": "Colin Trevorrow",
-      "generi": [
-        "Commedia",
-        "Romance",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 85,
+      "durata": 131,
       "tagline": null,
       "cast": [
-        "Aubrey Plaza (Darius)",
-        "Mark Duplass (Kenneth)",
-        "Jake Johnson (Jeff)",
-        "Karan Soni (Arnau)",
-        "Jenica Bergere (Liz)",
-        "Kristen Bell (Belinda)"
+        "Lubna Azabal (Nawal)",
+        "Mélissa Désormeaux-Poulin (Jeanne Marwan)",
+        "Maxim Gaudette (Simon Marwan)",
+        "Rémy Girard (Notary Lebel)",
+        "Allen Altman (Notaire Maddad)",
+        "Abdelghafour Elaaziz (Abou Tarek)"
       ],
-      "tramaTmdb": "Aubrey Plaza, Jake M. Johnson e Mark Duplass sono i protagonisti della commedia surreale Safety Not Guaranteed. Il film, scritto da Derek Connolly e diretto da Colin Trevorrow, è basato su una storia decisamente bizzarra: un uomo crea un annuncio molto serio su un giornale, dove scrive che è alla ricerca di un compagno per un viaggio nel tempo, affermando che chi ha intenzione di accettare deve portarsi dietro le proprie armi e avverte che la “sicurezza non è garantita\". Generando un vero e proprio tormentone su internet, uno scrittore per una rivista di Seattle decide di andare ad intervistar",
+      "tramaTmdb": "Quando il notaio Lebel, legge a Jeanne e Simon Marwan il testamento della loro madre Nawal, i gemelli restano scioccati nel vedersi porgere due buste, una destinata ad un padre che credevano morto e l'altra ad un fratello di cui ignoravano l'esistenza. Jeanne vede in questo lascito enigmatico, la chiave del silenzio di Nawal, chiusa in un mutismo inesplicabile durante le ultime settimane precedenti la sua morte. Decide di partire subito per il Medio Oriente per riesumare il passato di questa famiglia di cui non sa quasi nulla. Simon, per quanto lo riguarda, non ha bisogno dei capricci postumi ",
       "motivi": [
-        "regia di Colin Trevorrow, di cui hai visto 2 film",
-        "regia di Colin Trevorrow, che segui"
+        "regia di Denis Villeneuve, di cui hai visto 3 film",
+        "regia di Denis Villeneuve, che segui"
       ],
-      "impronta": "Safety Not Guaranteed|600|Colin Trevorrow"
+      "impronta": "La donna che canta|600|Denis Villeneuve"
     },
     {
-      "id": "tmdb-597",
-      "tmdbId": 597,
-      "imdbId": "tt0120338",
+      "id": "tmdb-808",
+      "tmdbId": 808,
+      "imdbId": "tt0126029",
       "origine": "scoperta",
-      "titolo": "Titanic",
-      "titoloOriginale": "Titanic",
-      "anno": "1998",
-      "uscitaItalia": "1998-01-16",
-      "regia": "James Cameron",
+      "titolo": "Shrek",
+      "titoloOriginale": "Shrek",
+      "anno": "2001",
+      "uscitaItalia": "2001-06-15",
+      "regia": "Andrew Adamson",
       "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 194,
-      "tagline": "Nulla al mondo poteva dividerli.",
-      "cast": [
-        "Leonardo DiCaprio (Jack Dawson)",
-        "Kate Winslet (Rose DeWitt Bukater)",
-        "Billy Zane (Cal Hockley)",
-        "Kathy Bates (Molly Brown)",
-        "Frances Fisher (Ruth DeWitt Bukater)",
-        "Gloria Stuart (Old Rose)"
-      ],
-      "tramaTmdb": "Rose ha diciassette anni, una madre egoista, un fidanzato facoltoso e una vita pianificata. Imbarcata sul Titanic e insoddisfatta della propria subalternità al futuro sposo incontra Jack, romantico disegnatore della terza classe che ha vinto a poker un biglietto per l'America. Contro le convenzioni e il destino, che chiederà il conto in una notte senza luna, Rose e Jack si innamorano, spiegando il loro spirito come i motori del più grande transatlantico del mondo. Lanciato nella sua prima traversata oceanica il Titanic è colpito al cuore da un iceberg, 'affondando' millecinquecento persone e i",
-      "motivi": [
-        "regia di James Cameron, di cui hai visto 2 film",
-        "regia di James Cameron, che segui"
-      ],
-      "impronta": "Titanic|600|James Cameron"
-    },
-    {
-      "id": "tmdb-62",
-      "tmdbId": 62,
-      "imdbId": "tt0062622",
-      "origine": "scoperta",
-      "titolo": "2001: Odissea nello spazio",
-      "titoloOriginale": "2001: A Space Odyssey",
-      "anno": "1968",
-      "uscitaItalia": "1968-12-12",
-      "regia": "Stanley Kubrick",
-      "generi": [
-        "Fantascienza",
-        "Mistero",
-        "Avventura"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 141,
-      "tagline": "Un'epica e drammatica avventura di esplorazione del cosmo.",
-      "cast": [
-        "Keir Dullea (Dr. David Bowman)",
-        "Gary Lockwood (Dr. Frank Poole)",
-        "William Sylvester (Dr. Heywood Floyd)",
-        "Douglas Rain (HAL 9000 (voice))",
-        "Daniel Richter (Moonwatcher)",
-        "Leonard Rossiter (Dr. Andrei Smyslov)"
-      ],
-      "tramaTmdb": "Un gigantesco monolite, individuato sulla superficie lunare, trasmette dei messaggi radio in direzione del pianeta Giove. Per seguire il fascio di onde elettromagnetiche viene organizzata una spedizione che ben presto però si trova in balia del computer che governa l'astronave. La lotta avrà un solo vincitore.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "2001: Odissea nello spazio|311|Stanley Kubrick"
-    },
-    {
-      "id": "tmdb-274",
-      "tmdbId": 274,
-      "imdbId": "tt0102926",
-      "origine": "scoperta",
-      "titolo": "Il silenzio degli innocenti",
-      "titoloOriginale": "The Silence of the Lambs",
-      "anno": "1991",
-      "uscitaItalia": "1991-03-05",
-      "regia": "Jonathan Demme",
-      "generi": [
-        "Crime",
-        "Thriller",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 118,
-      "tagline": "\"Uno che faceva un censimento una volta tentò di interrogarmi. Mi mangiai il suo fegato con un bel piatto di fave ed un buon Chianti.\"",
-      "cast": [
-        "Jodie Foster (Clarice Starling)",
-        "Anthony Hopkins (Dr. Hannibal Lecter)",
-        "Scott Glenn (Jack Crawford)",
-        "Ted Levine (Jame Gumb)",
-        "Anthony Heald (Dr. Frederick Chilton)",
-        "Brooke Smith (Catherine Martin)"
-      ],
-      "tramaTmdb": "Dal romanzo omonimo di Thomas Harris. Una giovane recluta dell'FBI è incaricata di far visita in carcere a Hannibal Lecter, psichiatra pluriomicida, per ottenere informazioni su un assassino psicopatico che ha ucciso e scuoiato cinque donne.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Il silenzio degli innocenti|241|Jonathan Demme"
-    },
-    {
-      "id": "tmdb-290250",
-      "tmdbId": 290250,
-      "imdbId": "tt3799694",
-      "origine": "scoperta",
-      "titolo": "The Nice Guys",
-      "titoloOriginale": "The Nice Guys",
-      "anno": "2016",
-      "uscitaItalia": "2016-06-01",
-      "regia": "Shane Black",
-      "generi": [
+        "Animazione",
         "Commedia",
-        "Crime",
-        "Azione"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 116,
-      "tagline": null,
-      "cast": [
-        "Russell Crowe (Jackson Healy)",
-        "Ryan Gosling (Holland March)",
-        "Angourie Rice (Holly March)",
-        "Matt Bomer (John Boy)",
-        "Margaret Qualley (Amelia Kuttner)",
-        "Yaya DaCosta (Tally)"
-      ],
-      "tramaTmdb": "Nella Los Angeles degli anni ‘70, libertina, stravagante e decisamente trendy, un investigatore privato, Holland March (Ryan Gosling), e un detective senza scrupoli, Jackson Healy (Russell Crowe), si alleano per risolvere il caso di una ragazza scomparsa e la morte di una porno star che apparentemente non sembrerebbero correlate: scopriranno che un semplice omicidio nasconde il caso del secolo!",
-      "motivi": [
-        "c'è Ryan Gosling, che hai visto 3 volte",
-        "c'è Ryan Gosling, che hai visto 3 volte"
-      ],
-      "impronta": "The Nice Guys|397|Shane Black"
-    },
-    {
-      "id": "tmdb-901",
-      "tmdbId": 901,
-      "imdbId": "tt0021749",
-      "origine": "scoperta",
-      "titolo": "Luci della città",
-      "titoloOriginale": "City Lights",
-      "anno": "1931",
-      "uscitaItalia": "1931-04-02",
-      "regia": "Charlie Chaplin",
-      "generi": [
-        "Commedia",
-        "Dramma",
-        "Romance"
+        "Fantasy",
+        "Avventura",
+        "Famiglia"
       ],
       "paesi": [
         "USA"
       ],
       "durata": 89,
+      "tagline": "La più bella favola mai raccontata",
+      "cast": [
+        "Mike Myers (Shrek / Blind Mouse (voice))",
+        "Eddie Murphy (Donkey (voice))",
+        "Cameron Diaz (Princess Fiona (voice))",
+        "John Lithgow (Lord Farquaad (voice))",
+        "Vincent Cassel (Monsieur Hood (voice))",
+        "Peter Dennis (Ogre Hunter (voice))"
+      ],
+      "tramaTmdb": "Shrek, un orco dal cuore d'oro, insieme al suo \"destriero\" Ciuchino cerca di tornare in possesso della sua palude, ora occupata dai personaggi delle fiabe, i quali sono stati imprigionati dal perfido Lord Farquaad, tiranno della terra di Duloc. L'orco e l'inseparabile asinello devono inoltre darsi da fare per liberare una principessa sottoposta a un sortilegio e tenuta prigioniera in un castello sorvegliato da un drago.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Shrek|423|Andrew Adamson"
+    },
+    {
+      "id": "tmdb-1007757",
+      "tmdbId": 1007757,
+      "imdbId": "tt29552248",
+      "origine": "scoperta",
+      "titolo": "Swapped - Al tuo posto",
+      "titoloOriginale": "Swapped",
+      "anno": "2026",
+      "uscitaItalia": "2026-05-01",
+      "regia": "Nathan Greno",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA",
+        "Spagna"
+      ],
+      "durata": 102,
       "tagline": null,
       "cast": [
-        "Charlie Chaplin (A Tramp)",
-        "Virginia Cherrill (A Blind Girl)",
-        "Florence Lee (Her Grandmother)",
-        "Harry Myers (An Eccentric Millionaire)",
-        "Al Ernest Garcia (His Butler)",
-        "Hank Mann (A Prizefighter)"
+        "Michael B. Jordan (Ollie (voice))",
+        "Juno Temple (Ivy (voice))",
+        "Tracy Morgan (Boogle / Firewolf (voice))",
+        "Cedric the Entertainer (Caloo (voice))",
+        "Justina Machado (Calli (voice))",
+        "Nate Torrence (Lodd (voice))"
       ],
-      "tramaTmdb": "Un vagabondo si innamora di una bella fioraia cieca che lo scambia per un milionario. Il povero vagabondo vivrà numerose avventure, nel tentativo di aiutare economicamente la fioraia.",
+      "tramaTmdb": "Una piccola creatura del bosco e un maestoso uccello si scambiano improvvisamente di corpo e devono fare squadra per sopravvivere all'avventura più folle della loro vita.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Luci della città|183|Charlie Chaplin"
+      "impronta": "Swapped - Al tuo posto|170|Nathan Greno"
     },
     {
-      "id": "tmdb-1375646",
-      "tmdbId": 1375646,
-      "imdbId": "tt34385135",
+      "id": "tmdb-331482",
+      "tmdbId": 331482,
+      "imdbId": "tt3281548",
       "origine": "scoperta",
-      "titolo": "Colony",
-      "titoloOriginale": "군체",
-      "anno": "2026",
-      "uscitaItalia": "2026-05-21",
-      "regia": "Yeon Sang-ho",
+      "titolo": "Piccole donne",
+      "titoloOriginale": "Little Women",
+      "anno": "2020",
+      "uscitaItalia": "2020-01-09",
+      "regia": "Greta Gerwig",
       "generi": [
-        "Azione",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 134,
+      "tagline": "Scegli la tua storia",
+      "cast": [
+        "Saoirse Ronan (Jo March)",
+        "Emma Watson (Meg March)",
+        "Florence Pugh (Amy March)",
+        "Eliza Scanlen (Beth March)",
+        "Laura Dern (Marmee March)",
+        "Timothée Chalamet (Laurie)"
+      ],
+      "tramaTmdb": "Dopo la fine della guerra di secessione americana le sorelle March dovranno affrontare problemi economici, sentimentali e sociali. Tra tutte spicca la figura di Jo, determinata a trovare la propria libertà e indipendenza, spronando anche le sorelle a dare spazio al proprio talento, nonostante le rigide imposizioni della società di quel periodo.",
+      "motivi": [
+        "regia di Greta Gerwig, di cui hai visto un film",
+        "c'è Timothée Chalamet, che hai visto 4 volte",
+        "c'è Timothée Chalamet, che hai visto 4 volte"
+      ],
+      "impronta": "Piccole donne|346|Greta Gerwig"
+    },
+    {
+      "id": "tmdb-345920",
+      "tmdbId": 345920,
+      "imdbId": "tt4682786",
+      "origine": "scoperta",
+      "titolo": "Collateral Beauty",
+      "titoloOriginale": "Collateral Beauty",
+      "anno": "2017",
+      "uscitaItalia": "2017-01-04",
+      "regia": "David Frankel",
+      "generi": [
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 97,
+      "tagline": "Tutto è collegato",
+      "cast": [
+        "Will Smith (Howard Inlet)",
+        "Edward Norton (Whit Yardsham)",
+        "Kate Winslet (Claire Wilson)",
+        "Michael Peña (Simon Scott)",
+        "Helen Mirren (Brigitte)",
+        "Jacob Latimore (Raffi)"
+      ],
+      "tramaTmdb": "Dopo aver subito una grave perdita, un manager della pubblicità di New York perde ogni interesse per la vita che conduceva. Mentre i suoi amici preoccupati tentano disperatamente di ristabilire un contatto, lui cerca risposte dall’universo scrivendo lettere all’Amore, al Tempo e alla Morte. Ma quando le sue annotazioni ricevono risposte inaspettate e personali, inizia a comprendere come queste costanti siano legate ad una vita vissuta appieno, e di come anche la perdita più triste possa rivelare momenti significativi e di bellezza.",
+      "motivi": [
+        "regia di David Frankel, di cui hai visto un film",
+        "regia di David Frankel, che segui"
+      ],
+      "impronta": "Collateral Beauty|537|David Frankel"
+    },
+    {
+      "id": "tmdb-50014",
+      "tmdbId": 50014,
+      "imdbId": "tt1454029",
+      "origine": "scoperta",
+      "titolo": "The Help",
+      "titoloOriginale": "The Help",
+      "anno": "2012",
+      "uscitaItalia": "2012-01-04",
+      "regia": "Tate Taylor",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 146,
+      "tagline": "Il vento della libertà inizia a soffiare.",
+      "cast": [
+        "Emma Stone (Skeeter Phelan)",
+        "Viola Davis (Aibileen Clark)",
+        "Bryce Dallas Howard (Hilly Holbrook)",
+        "Octavia Spencer (Minny Jackson)",
+        "Jessica Chastain (Celia Foote)",
+        "Ahna O'Reilly (Elizabeth Leefolt)"
+      ],
+      "tramaTmdb": "Nel Mississippi, durante gli anni Sessanta, Eugenia Skeeter Phelan dopo aver terminato gli studi ha l’intenzione di divenire un giorno scrittrice e raccontare la storia delle discriminazioni razziali a cui sono costrette le donne di colore che, come Aibileen e Minnie, da sempre si prendono cura delle famiglie della zona. La ragazza rivoluzionerà con le sue interviste per un libro la vita di amici e concittadini, costretti a rivedere le loro ataviche convinzioni, di cui la portavoce per eccellenza è Hilly Holbrook, reginetta dei salotti borghesi.",
+      "motivi": [
+        "c'è Bryce Dallas Howard, che hai visto 3 volte",
+        "c'è Bryce Dallas Howard, che hai visto 3 volte"
+      ],
+      "impronta": "The Help|551|Tate Taylor"
+    },
+    {
+      "id": "tmdb-122",
+      "tmdbId": 122,
+      "imdbId": "tt0167260",
+      "origine": "scoperta",
+      "titolo": "Il Signore degli Anelli - Il ritorno del re",
+      "titoloOriginale": "The Lord of the Rings: The Return of the King",
+      "anno": "2004",
+      "uscitaItalia": "2004-01-22",
+      "regia": "Peter Jackson",
+      "generi": [
+        "Avventura",
+        "Fantasy",
+        "Azione"
+      ],
+      "paesi": [
+        "Nuova Zelanda",
+        "USA"
+      ],
+      "durata": 201,
+      "tagline": "L'occhio del nemico si muove",
+      "cast": [
+        "Elijah Wood (Frodo)",
+        "Ian McKellen (Gandalf)",
+        "Viggo Mortensen (Aragorn)",
+        "Sean Astin (Sam)",
+        "Andy Serkis (Gollum / Smeagol)",
+        "Dominic Monaghan (Merry)"
+      ],
+      "tramaTmdb": "Le forze di Sauron hanno attaccato la capitale di Gondor, Minas Tirith, nel suo assedio finale contro l'umanità. Tenuto da un debole sovrintendente, quello che una volta era un fastoso regno non ha mai avuto così bisogno del proprio re. Mentre Gandalf tenta disperatamente di spingere lo smembrato esercito di Gondor ad agire, Thèoden si unisce ai guerrieri di Rohan per combattere assieme a loro. Pieno di coraggio e di appassionata lealtà, l'esercito degli umani non riesce però a tener testa alle numerosissime legioni nemiche che giungono su tutto il regno. Ogni vittoria è accompagnata da un gra",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il Signore degli Anelli - Il ritorno del re|600|Peter Jackson"
+    },
+    {
+      "id": "tmdb-50646",
+      "tmdbId": 50646,
+      "imdbId": "tt1570728",
+      "origine": "scoperta",
+      "titolo": "Crazy, Stupid, Love.",
+      "titoloOriginale": "Crazy, Stupid, Love.",
+      "anno": "2011",
+      "uscitaItalia": "2011-09-16",
+      "regia": "Glenn Ficarra",
+      "generi": [
+        "Commedia",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 118,
+      "tagline": "Questo è folle. Questo è stupido. Questo è amore.",
+      "cast": [
+        "Steve Carell (Cal)",
+        "Ryan Gosling (Jacob)",
+        "Julianne Moore (Emily)",
+        "Emma Stone (Hannah)",
+        "Lio Tipton (Jessica)",
+        "Jonah Bobo (Robbie)"
+      ],
+      "tramaTmdb": "Cal Weaver e signora sono sposati da venticinque anni, hanno due figli e pochi problemi. Almeno fino a quando lei non lo informa di averlo tradito con un collega e di desiderare il divorzio. Improvvisamente single, Cal finisce ad ubriacarsi ogni sera di vodka al mirtillo in un bar dove non aveva mai messo piede prima, evitato da tutte tranne che dalla babysitter di suo figlio, una diciassettenne perseguitata dal ragazzino ma cotta del padre. L'autocommiserazione ostentata di Cal, al bancone del bar, infastidisce Jacob Palmer, giovane seduttore seriale, che si ripromette di aiutarlo a dimentica",
+      "motivi": [
+        "c'è Ryan Gosling, che hai visto 3 volte",
+        "c'è Ryan Gosling, che hai visto 3 volte"
+      ],
+      "impronta": "Crazy, Stupid, Love.|600|Glenn Ficarra"
+    },
+    {
+      "id": "tmdb-1091",
+      "tmdbId": 1091,
+      "imdbId": "tt0084787",
+      "origine": "scoperta",
+      "titolo": "La cosa",
+      "titoloOriginale": "The Thing",
+      "anno": "1982",
+      "uscitaItalia": "1982-11-26",
+      "regia": "John Carpenter",
+      "generi": [
         "Horror",
+        "Mistero",
         "Fantascienza"
       ],
       "paesi": [
-        "Corea del Sud"
+        "USA"
       ],
-      "durata": 122,
-      "tagline": null,
+      "durata": 104,
+      "tagline": "Non fidarti di nessuno",
       "cast": [
-        "전지현 (Kwon Se-jeong)",
-        "구교환 (Seo Young-cheol)",
-        "지창욱 (Choi Hyun-seok)",
-        "김신록 (Choi Hyun-hee)",
-        "Shin Hyun-been (Kong Seol-hee)",
-        "고수 (Han Kyu-seong)"
+        "Kurt Russell (MacReady)",
+        "Wilford Brimley (Blair)",
+        "T.K. Carter (Nauls)",
+        "David Clennon (Palmer)",
+        "Keith David (Childs)",
+        "Richard Dysart (Dr. Copper)"
       ],
-      "tramaTmdb": "La professoressa Se-jeong precipita in un incubo sanguinoso quando, durante una conferenza di biotecnologie, viene rilasciato un virus in rapida mutazione che spinge le autorità a sigillare la struttura. Intrappolata all'interno e senza via di fuga, Se-jeong deve lottare per sopravvivere insieme a un piccolo gruppo di superstiti, mentre gli infetti subiscono orribili trasformazioni.",
+      "tramaTmdb": "Gli scienziati di una base di ricerche in Alaska raccolgono un cane lupo che i loro colleghi norvegesi hanno tentato di abbattere. Lo mettono nel canile mentre due di essi si recano nella base norvegese che trovano abbandonata e piena di cadaveri. Trovano anche i resti di quello che sembra un disco volante. In breve il cane viene posseduto da una strana forza e si trasforma in belva. Il panico si diffonde nella base.",
       "motivi": [
-        "se ne parla adesso"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Colony|385|Yeon Sang-ho"
+      "impronta": "La cosa|420|John Carpenter"
+    },
+    {
+      "id": "tmdb-585511",
+      "tmdbId": 585511,
+      "imdbId": "tt7214954",
+      "origine": "scoperta",
+      "titolo": "Luck",
+      "titoloOriginale": "Luck",
+      "anno": "2022",
+      "uscitaItalia": "2022-08-05",
+      "regia": "Peggy Holmes",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Fantasy",
+        "Famiglia"
+      ],
+      "paesi": [
+        "Spagna",
+        "USA"
+      ],
+      "durata": 97,
+      "tagline": "A volte, hai solo bisogno che tutto vada male.",
+      "cast": [
+        "Eva Noblezada (Sam (voice))",
+        "Simon Pegg (Bob (voice))",
+        "Jane Fonda (Dragon (voice))",
+        "Whoopi Goldberg (Captain (voice))",
+        "Colin O'Donoghue (Gerry (voice))",
+        "Lil Rel Howery (Marvin (voice))"
+      ],
+      "tramaTmdb": "Sam Greenfield è la persona più sfortunata del mondo! Ritrovandosi improvvisamente nella sconosciuta Terra della Fortuna, dovrà unirsi alle magiche creature di quel luogo per capovolgere la sua sfortuna.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Luck|203|Peggy Holmes"
     }
   ]
 }

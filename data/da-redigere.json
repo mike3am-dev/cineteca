@@ -1,13 +1,13 @@
 {
-  "preparato": "2026-09-18T05:06:12.553Z",
+  "preparato": "2026-09-19T05:06:20.020Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
       "Dramma (13)",
       "Fantascienza (12)",
       "Thriller (10)",
-      "Azione (10)",
-      "Horror (9)"
+      "Horror (9)",
+      "Azione (7)"
     ],
     "registi": [
       "Denis Villeneuve (3)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -79,39 +79,108 @@
   },
   "film": [
     {
-      "id": "tmdb-1022787",
-      "tmdbId": 1022787,
-      "imdbId": "tt4900148",
-      "titolo": "Elio",
+      "id": "tmdb-574475",
+      "tmdbId": 574475,
+      "imdbId": "tt9619824",
+      "titolo": "Final Destination - Bloodlines",
       "titoloOriginale": null,
       "anno": "2025",
-      "uscitaItalia": "2025-06-18",
+      "uscitaItalia": "2025-05-15",
       "lista": "casa",
-      "regia": "Madeline Sharafian",
+      "regia": "Zach Lipovsky",
       "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantascienza",
-        "Famiglia",
-        "Commedia"
+        "Horror",
+        "Mistero"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 98,
-      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
+      "durata": 110,
+      "tagline": "Una famiglia con la morte nel sangue.",
       "cast": [
-        "Yonas Kibreab (Elio / Other Elio (voice))",
-        "Remy Edgerly (Glordon (voice))",
-        "Zoe Saldaña (Olga Solís (voice))",
-        "Brad Garrett (Lord Grigon (voice))",
-        "Brandon Moon (Ambassador Helix (voice))",
-        "Jameela Jamil (Ambassador Questa (voice))",
-        "Young Dylan (Bryce (voice))",
-        "Jake T. Getman (Caleb (voice))"
+        "Kaitlyn Santa Juana (Stefani Reyes)",
+        "Teo Briones (Charlie Reyes)",
+        "Rya Kihlstedt (Darlene Campbell)",
+        "Richard Harmon (Erik)",
+        "Owen Patrick Joyner (Bobby)",
+        "Anna Lore (Julia)",
+        "Alex Zahara (Uncle Howard)",
+        "April Telek (Aunt Brenda)"
       ],
-      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Madeline Sharafian"
+      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
+      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
+    },
+    {
+      "id": "tmdb-1226863",
+      "tmdbId": 1226863,
+      "imdbId": "tt28650488",
+      "titolo": "Super Mario Galaxy - Il film",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-04-01",
+      "lista": "casa",
+      "regia": "Aaron Horvath",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": "La galassia ti attende.",
+      "cast": [
+        "Chris Pratt (Mario (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Benny Safdie (Bowser Junior (voice))",
+        "Glen Powell (Fox McCloud (voice))",
+        "Brie Larson (Rosalina (voice))"
+      ],
+      "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
+      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
+    },
+    {
+      "id": "tmdb-502356",
+      "tmdbId": 502356,
+      "imdbId": "tt6718170",
+      "titolo": "Super Mario Bros. Il Film",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-04-05",
+      "lista": "visto",
+      "regia": "Michael Jelenic",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 92,
+      "tagline": "Not all heroes wear capes. Some wear overalls.",
+      "cast": [
+        "Chris Pratt (Mario (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Seth Rogen (Donkey Kong (voice))",
+        "Fred Armisen (Cranky Kong (voice))",
+        "Sebastian Maniscalco (Spike (voice))"
+      ],
+      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
+      "impronta": "Super Mario Bros. Il Film|258|Michael Jelenic"
     }
   ]
 }
