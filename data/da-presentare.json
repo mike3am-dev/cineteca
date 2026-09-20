@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-19T05:06:21.965Z",
+  "preparato": "2026-09-20T05:06:21.454Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -123,7 +123,6 @@
       "uscitaItalia": "2026-10-15",
       "regia": "Lance Oppenheim",
       "generi": [
-        "Crime",
         "Dramma",
         "Thriller"
       ],
@@ -212,355 +211,377 @@
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
-      "id": "tmdb-46738",
-      "tmdbId": 46738,
-      "imdbId": "tt1255953",
-      "origine": "scoperta",
-      "titolo": "La donna che canta",
-      "titoloOriginale": "Incendies",
-      "anno": "2011",
-      "uscitaItalia": "2011-01-21",
-      "regia": "Denis Villeneuve",
+      "id": "tmdb-1204680",
+      "tmdbId": 1204680,
+      "imdbId": "tt1756855",
+      "origine": "trailer",
+      "titolo": "Coyote vs. Acme",
+      "titoloOriginale": "Coyote vs. Acme",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-02",
+      "regia": "Dave Green",
       "generi": [
-        "Dramma",
-        "Guerra",
-        "Mistero"
-      ],
-      "paesi": [
-        "Canada",
-        "Francia"
-      ],
-      "durata": 131,
-      "tagline": null,
-      "cast": [
-        "Lubna Azabal (Nawal)",
-        "Mélissa Désormeaux-Poulin (Jeanne Marwan)",
-        "Maxim Gaudette (Simon Marwan)",
-        "Rémy Girard (Notary Lebel)",
-        "Allen Altman (Notaire Maddad)",
-        "Abdelghafour Elaaziz (Abou Tarek)"
-      ],
-      "tramaTmdb": "Quando il notaio Lebel, legge a Jeanne e Simon Marwan il testamento della loro madre Nawal, i gemelli restano scioccati nel vedersi porgere due buste, una destinata ad un padre che credevano morto e l'altra ad un fratello di cui ignoravano l'esistenza. Jeanne vede in questo lascito enigmatico, la chiave del silenzio di Nawal, chiusa in un mutismo inesplicabile durante le ultime settimane precedenti la sua morte. Decide di partire subito per il Medio Oriente per riesumare il passato di questa famiglia di cui non sa quasi nulla. Simon, per quanto lo riguarda, non ha bisogno dei capricci postumi ",
-      "motivi": [
-        "regia di Denis Villeneuve, di cui hai visto 3 film",
-        "regia di Denis Villeneuve, che segui"
-      ],
-      "impronta": "La donna che canta|600|Denis Villeneuve"
-    },
-    {
-      "id": "tmdb-808",
-      "tmdbId": 808,
-      "imdbId": "tt0126029",
-      "origine": "scoperta",
-      "titolo": "Shrek",
-      "titoloOriginale": "Shrek",
-      "anno": "2001",
-      "uscitaItalia": "2001-06-15",
-      "regia": "Andrew Adamson",
-      "generi": [
-        "Animazione",
         "Commedia",
-        "Fantasy",
         "Avventura",
         "Famiglia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 89,
-      "tagline": "La più bella favola mai raccontata",
+      "durata": 98,
+      "tagline": "Lui non si arrende. Mai.",
       "cast": [
-        "Mike Myers (Shrek / Blind Mouse (voice))",
-        "Eddie Murphy (Donkey (voice))",
-        "Cameron Diaz (Princess Fiona (voice))",
-        "John Lithgow (Lord Farquaad (voice))",
-        "Vincent Cassel (Monsieur Hood (voice))",
-        "Peter Dennis (Ogre Hunter (voice))"
+        "Will Forte (Kevin Avery)",
+        "Lana Condor (Paige Avery)",
+        "John Cena (Buddy Crane)",
+        "Tone Bell (Sal Maltese)",
+        "Martha Kelly (Dottie Jones)",
+        "Luis Guzmán (Judge Troppogrosso)"
       ],
-      "tramaTmdb": "Shrek, un orco dal cuore d'oro, insieme al suo \"destriero\" Ciuchino cerca di tornare in possesso della sua palude, ora occupata dai personaggi delle fiabe, i quali sono stati imprigionati dal perfido Lord Farquaad, tiranno della terra di Duloc. L'orco e l'inseparabile asinello devono inoltre darsi da fare per liberare una principessa sottoposta a un sortilegio e tenuta prigioniera in un castello sorvegliato da un drago.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Shrek|423|Andrew Adamson"
+      "tramaTmdb": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+      "motivi": [],
+      "impronta": "Coyote vs. Acme|518|Dave Green"
     },
     {
-      "id": "tmdb-1007757",
-      "tmdbId": 1007757,
-      "imdbId": "tt29552248",
+      "id": "tmdb-183011",
+      "tmdbId": 183011,
+      "imdbId": "tt2820466",
       "origine": "scoperta",
-      "titolo": "Swapped - Al tuo posto",
-      "titoloOriginale": "Swapped",
-      "anno": "2026",
-      "uscitaItalia": "2026-05-01",
-      "regia": "Nathan Greno",
+      "titolo": "Justice League: The Flashpoint Paradox",
+      "titoloOriginale": "Justice League: The Flashpoint Paradox",
+      "anno": "2013",
+      "uscitaItalia": "2013-07-30",
+      "regia": "Jay Oliva",
       "generi": [
-        "Avventura",
         "Animazione",
-        "Famiglia",
-        "Fantasy"
+        "Azione",
+        "Fantascienza"
       ],
       "paesi": [
-        "USA",
-        "Spagna"
+        "USA"
       ],
-      "durata": 102,
+      "durata": 81,
+      "tagline": "Combatti il Futuro",
+      "cast": [
+        "Justin Chambers (Flash / Barry Allen (voice))",
+        "C. Thomas Howell (Professor Zoom / Thawne (voice))",
+        "Michael B. Jordan (Cyborg / Victor Stone (voice))",
+        "Kevin McKidd (Batman / Thomas Wayne (voice))",
+        "Dee Bradley Baker (Etrigan (voice))",
+        "Steve Blum (Lex Luthor (voice))"
+      ],
+      "tramaTmdb": "Mentre fa visita alla tomba di sua madre, Barry Allen, alter ego del supereroe Flash, riceve notizia che qualcuno sta attaccando il museo a lui dedicato nella sua città, Central City. Giunto sul posto scopre che il manipolo di criminali è guidato dalla sua nemesi, il Professor Zoom, che ha intenzione di distruggere buona parte della città grazie a delle bombe e infangare così il nome del velocista scarlatto. Grazie tuttavia all'intervento della Justice League, tutto va per il meglio.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Justice League: The Flashpoint Paradox|488|Jay Oliva"
+    },
+    {
+      "id": "tmdb-451048",
+      "tmdbId": 451048,
+      "imdbId": "tt0870154",
+      "origine": "scoperta",
+      "titolo": "Jungle Cruise",
+      "titoloOriginale": "Jungle Cruise",
+      "anno": "2021",
+      "uscitaItalia": "2021-07-28",
+      "regia": "Jaume Collet Serra",
+      "generi": [
+        "Fantasy",
+        "Commedia",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 128,
       "tagline": null,
       "cast": [
-        "Michael B. Jordan (Ollie (voice))",
-        "Juno Temple (Ivy (voice))",
-        "Tracy Morgan (Boogle / Firewolf (voice))",
-        "Cedric the Entertainer (Caloo (voice))",
-        "Justina Machado (Calli (voice))",
-        "Nate Torrence (Lodd (voice))"
+        "Dwayne Johnson (Frank Wolff)",
+        "Emily Blunt (Dr. Lily Houghton)",
+        "Edgar Ramírez (Lope de Aguirre)",
+        "Jack Whitehall (McGregor Houghton)",
+        "Jesse Plemons (Prince Joachim)",
+        "Paul Giamatti (Nilo Nemolato)"
       ],
-      "tramaTmdb": "Una piccola creatura del bosco e un maestoso uccello si scambiano improvvisamente di corpo e devono fare squadra per sopravvivere all'avventura più folle della loro vita.",
+      "tramaTmdb": "Londra, 1916: dopo aver rubato una preziosa punta di freccia a una società di geografi, la botanica Lily Houghton parte con il fratello MacGregor alla volta della foresta amazzonica per cercare un antico albero dalle straordinarie proprietà curative. Giunta sul posto, l'intraprendente Lily affitta un'imbarcazione dal marinaio Frank, un piccolo truffatore spiantato, parecchio matto e altrettanto coraggioso. Per gli improvvisati compagni di viaggio è l'inizio di un'avventura che li porterà a confrontarsi con i pericoli del Rio delle Amazzoni, con le popolazioni indigene della giungla e con i fan",
       "motivi": [
-        "un classico che ti manca"
+        "c'è Emily Blunt, che hai visto 3 volte",
+        "c'è Emily Blunt, che hai visto 3 volte"
       ],
-      "impronta": "Swapped - Al tuo posto|170|Nathan Greno"
+      "impronta": "Jungle Cruise|600|Jaume Collet Serra"
     },
     {
-      "id": "tmdb-331482",
-      "tmdbId": 331482,
-      "imdbId": "tt3281548",
+      "id": "tmdb-389",
+      "tmdbId": 389,
+      "imdbId": "tt0050083",
       "origine": "scoperta",
-      "titolo": "Piccole donne",
-      "titoloOriginale": "Little Women",
-      "anno": "2020",
-      "uscitaItalia": "2020-01-09",
-      "regia": "Greta Gerwig",
-      "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 134,
-      "tagline": "Scegli la tua storia",
-      "cast": [
-        "Saoirse Ronan (Jo March)",
-        "Emma Watson (Meg March)",
-        "Florence Pugh (Amy March)",
-        "Eliza Scanlen (Beth March)",
-        "Laura Dern (Marmee March)",
-        "Timothée Chalamet (Laurie)"
-      ],
-      "tramaTmdb": "Dopo la fine della guerra di secessione americana le sorelle March dovranno affrontare problemi economici, sentimentali e sociali. Tra tutte spicca la figura di Jo, determinata a trovare la propria libertà e indipendenza, spronando anche le sorelle a dare spazio al proprio talento, nonostante le rigide imposizioni della società di quel periodo.",
-      "motivi": [
-        "regia di Greta Gerwig, di cui hai visto un film",
-        "c'è Timothée Chalamet, che hai visto 4 volte",
-        "c'è Timothée Chalamet, che hai visto 4 volte"
-      ],
-      "impronta": "Piccole donne|346|Greta Gerwig"
-    },
-    {
-      "id": "tmdb-345920",
-      "tmdbId": 345920,
-      "imdbId": "tt4682786",
-      "origine": "scoperta",
-      "titolo": "Collateral Beauty",
-      "titoloOriginale": "Collateral Beauty",
-      "anno": "2017",
-      "uscitaItalia": "2017-01-04",
-      "regia": "David Frankel",
-      "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 97,
-      "tagline": "Tutto è collegato",
-      "cast": [
-        "Will Smith (Howard Inlet)",
-        "Edward Norton (Whit Yardsham)",
-        "Kate Winslet (Claire Wilson)",
-        "Michael Peña (Simon Scott)",
-        "Helen Mirren (Brigitte)",
-        "Jacob Latimore (Raffi)"
-      ],
-      "tramaTmdb": "Dopo aver subito una grave perdita, un manager della pubblicità di New York perde ogni interesse per la vita che conduceva. Mentre i suoi amici preoccupati tentano disperatamente di ristabilire un contatto, lui cerca risposte dall’universo scrivendo lettere all’Amore, al Tempo e alla Morte. Ma quando le sue annotazioni ricevono risposte inaspettate e personali, inizia a comprendere come queste costanti siano legate ad una vita vissuta appieno, e di come anche la perdita più triste possa rivelare momenti significativi e di bellezza.",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
-      ],
-      "impronta": "Collateral Beauty|537|David Frankel"
-    },
-    {
-      "id": "tmdb-50014",
-      "tmdbId": 50014,
-      "imdbId": "tt1454029",
-      "origine": "scoperta",
-      "titolo": "The Help",
-      "titoloOriginale": "The Help",
-      "anno": "2012",
-      "uscitaItalia": "2012-01-04",
-      "regia": "Tate Taylor",
+      "titolo": "La parola ai giurati",
+      "titoloOriginale": "12 Angry Men",
+      "anno": "1957",
+      "uscitaItalia": "1957-09-04",
+      "regia": "Sidney Lumet",
       "generi": [
         "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 146,
-      "tagline": "Il vento della libertà inizia a soffiare.",
+      "durata": 96,
+      "tagline": "La vita è nelle loro mani. La morte è nelle loro menti!",
       "cast": [
-        "Emma Stone (Skeeter Phelan)",
-        "Viola Davis (Aibileen Clark)",
-        "Bryce Dallas Howard (Hilly Holbrook)",
-        "Octavia Spencer (Minny Jackson)",
-        "Jessica Chastain (Celia Foote)",
-        "Ahna O'Reilly (Elizabeth Leefolt)"
+        "Martin Balsam (Juror 1)",
+        "John Fiedler (Juror 2)",
+        "Lee J. Cobb (Juror 3)",
+        "E.G. Marshall (Juror 4)",
+        "Jack Klugman (Juror 5)",
+        "Edward Binns (Juror 6)"
       ],
-      "tramaTmdb": "Nel Mississippi, durante gli anni Sessanta, Eugenia Skeeter Phelan dopo aver terminato gli studi ha l’intenzione di divenire un giorno scrittrice e raccontare la storia delle discriminazioni razziali a cui sono costrette le donne di colore che, come Aibileen e Minnie, da sempre si prendono cura delle famiglie della zona. La ragazza rivoluzionerà con le sue interviste per un libro la vita di amici e concittadini, costretti a rivedere le loro ataviche convinzioni, di cui la portavoce per eccellenza è Hilly Holbrook, reginetta dei salotti borghesi.",
-      "motivi": [
-        "c'è Bryce Dallas Howard, che hai visto 3 volte",
-        "c'è Bryce Dallas Howard, che hai visto 3 volte"
-      ],
-      "impronta": "The Help|551|Tate Taylor"
-    },
-    {
-      "id": "tmdb-122",
-      "tmdbId": 122,
-      "imdbId": "tt0167260",
-      "origine": "scoperta",
-      "titolo": "Il Signore degli Anelli - Il ritorno del re",
-      "titoloOriginale": "The Lord of the Rings: The Return of the King",
-      "anno": "2004",
-      "uscitaItalia": "2004-01-22",
-      "regia": "Peter Jackson",
-      "generi": [
-        "Avventura",
-        "Fantasy",
-        "Azione"
-      ],
-      "paesi": [
-        "Nuova Zelanda",
-        "USA"
-      ],
-      "durata": 201,
-      "tagline": "L'occhio del nemico si muove",
-      "cast": [
-        "Elijah Wood (Frodo)",
-        "Ian McKellen (Gandalf)",
-        "Viggo Mortensen (Aragorn)",
-        "Sean Astin (Sam)",
-        "Andy Serkis (Gollum / Smeagol)",
-        "Dominic Monaghan (Merry)"
-      ],
-      "tramaTmdb": "Le forze di Sauron hanno attaccato la capitale di Gondor, Minas Tirith, nel suo assedio finale contro l'umanità. Tenuto da un debole sovrintendente, quello che una volta era un fastoso regno non ha mai avuto così bisogno del proprio re. Mentre Gandalf tenta disperatamente di spingere lo smembrato esercito di Gondor ad agire, Thèoden si unisce ai guerrieri di Rohan per combattere assieme a loro. Pieno di coraggio e di appassionata lealtà, l'esercito degli umani non riesce però a tener testa alle numerosissime legioni nemiche che giungono su tutto il regno. Ogni vittoria è accompagnata da un gra",
+      "tramaTmdb": "Dodici giurati sono riuniti in consiglio per decidere della sorte di un diciottenne accusato d'omicidio. Undici lo ritengono colpevole. Soltanto uno, Davis, lo considera innocente; trattandosi di una possibile condanna a morte, è necessaria l'unanimità. Con appassionata eloquenza e con il rigore dei suoi ragionamenti, Davis convince gli altri uno a uno che l'accusa non regge.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Il Signore degli Anelli - Il ritorno del re|600|Peter Jackson"
+      "impronta": "La parola ai giurati|378|Sidney Lumet"
     },
     {
-      "id": "tmdb-50646",
-      "tmdbId": 50646,
-      "imdbId": "tt1570728",
+      "id": "tmdb-1632",
+      "tmdbId": 1632,
+      "imdbId": "tt0095647",
       "origine": "scoperta",
-      "titolo": "Crazy, Stupid, Love.",
-      "titoloOriginale": "Crazy, Stupid, Love.",
-      "anno": "2011",
-      "uscitaItalia": "2011-09-16",
-      "regia": "Glenn Ficarra",
+      "titolo": "Mississippi Burning - Le radici dell'odio",
+      "titoloOriginale": "Mississippi Burning",
+      "anno": "1989",
+      "uscitaItalia": "1989-02-23",
+      "regia": "Alan Parker",
       "generi": [
-        "Commedia",
         "Dramma",
-        "Romance"
+        "Crime",
+        "Mistero",
+        "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 118,
-      "tagline": "Questo è folle. Questo è stupido. Questo è amore.",
+      "durata": 121,
+      "tagline": "1964. Quando l'America era in guerra con se stessa.",
       "cast": [
-        "Steve Carell (Cal)",
-        "Ryan Gosling (Jacob)",
-        "Julianne Moore (Emily)",
-        "Emma Stone (Hannah)",
-        "Lio Tipton (Jessica)",
-        "Jonah Bobo (Robbie)"
+        "Gene Hackman (Agent Rupert Anderson)",
+        "Willem Dafoe (Agent Alan Ward)",
+        "Frances McDormand (Mrs. Pell)",
+        "Brad Dourif (Deputy Clinton Pell)",
+        "R. Lee Ermey (Mayor Tilman)",
+        "Gailard Sartain (Sheriff Stuckey)"
       ],
-      "tramaTmdb": "Cal Weaver e signora sono sposati da venticinque anni, hanno due figli e pochi problemi. Almeno fino a quando lei non lo informa di averlo tradito con un collega e di desiderare il divorzio. Improvvisamente single, Cal finisce ad ubriacarsi ogni sera di vodka al mirtillo in un bar dove non aveva mai messo piede prima, evitato da tutte tranne che dalla babysitter di suo figlio, una diciassettenne perseguitata dal ragazzino ma cotta del padre. L'autocommiserazione ostentata di Cal, al bancone del bar, infastidisce Jacob Palmer, giovane seduttore seriale, che si ripromette di aiutarlo a dimentica",
+      "tramaTmdb": "Estate del 1964 in un piccolo centro dello stato del Mississippi. Due agenti dell' Fbi indagano sulla misteriosa scomparsa di tre attivisti del movimento per i diritti civili: due ebrei bianchi e un nero. Il detective Anderson è un duro ex sceriffo di quelle parti che conosce fin troppo bene vizi e pregiudizi del profondo Sud. Invece Alan Ward vorrebbe seguire alla lettera il regolamento del Bureau.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Mississippi Burning - Le radici dell'odio|402|Alan Parker"
+    },
+    {
+      "id": "tmdb-646380",
+      "tmdbId": 646380,
+      "imdbId": "tt11286314",
+      "origine": "scoperta",
+      "titolo": "Don't Look Up",
+      "titoloOriginale": "Don't Look Up",
+      "anno": "2021",
+      "uscitaItalia": "2021-12-08",
+      "regia": "Adam McKay",
+      "generi": [
+        "Commedia",
+        "Fantascienza",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 145,
+      "tagline": "A volte le stelle finiscono per scontrarsi.",
+      "cast": [
+        "Leonardo DiCaprio (Dr. Randall Mindy)",
+        "Jennifer Lawrence (Kate Dibiasky)",
+        "Meryl Streep (President Orlean)",
+        "Cate Blanchett (Brie Evantee)",
+        "Rob Morgan (Dr. Teddy Oglethorpe)",
+        "Jonah Hill (Jason Orlean)"
+      ],
+      "tramaTmdb": "Per avvisare l'umanità di una cometa in rotta di collisione con la Terra, due astronomi contattano i mass media, ma sembra che a nessuno importi più di tanto...",
+      "motivi": [
+        "c'è Timothée Chalamet, che hai visto 4 volte"
+      ],
+      "impronta": "Don't Look Up|160|Adam McKay"
+    },
+    {
+      "id": "tmdb-238",
+      "tmdbId": 238,
+      "imdbId": "tt0068646",
+      "origine": "scoperta",
+      "titolo": "Il padrino",
+      "titoloOriginale": "The Godfather",
+      "anno": "1972",
+      "uscitaItalia": "1972-09-21",
+      "regia": "Francis Ford Coppola",
+      "generi": [
+        "Dramma",
+        "Crime"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 175,
+      "tagline": "Gli farò un'offerta che non potrà rifiutare.",
+      "cast": [
+        "Marlon Brando (Don Vito Corleone)",
+        "Al Pacino (Michael Corleone)",
+        "James Caan (Sonny Corleone)",
+        "Robert Duvall (Tom Hagen)",
+        "Richard S. Castellano (Clemenza)",
+        "Diane Keaton (Kay Adams)"
+      ],
+      "tramaTmdb": "Anni Quaranta. Come è consuetudine, durante il rinfresco per festeggiare le nozze della figlia Conny con Carlo, il \"padrino\" don Vito Corleone promette assistenza e protezione a familiari e amici. Invia il figliastro Tom Hagen in California per convincere in ogni modo il produttore Jack Woltz a scritturare il cantante Johnny nel suo prossimo film. Woltz non acconsente. Tom allora lo costringe ad accettare con un \"avvertimento\": l'uccisione del suo cavallo di razza preferito. Sollozzo, a nome della potente \"famiglia\" Tartaglia, chiede a Corleone finanziamenti e appoggi per il traffico di droga.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il padrino|600|Francis Ford Coppola"
+    },
+    {
+      "id": "tmdb-965150",
+      "tmdbId": 965150,
+      "imdbId": "tt19770238",
+      "origine": "scoperta",
+      "titolo": "Aftersun",
+      "titoloOriginale": "Aftersun",
+      "anno": "2022",
+      "uscitaItalia": "2022-10-21",
+      "regia": "Charlotte Wells",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 101,
+      "tagline": null,
+      "cast": [
+        "Paul Mescal (Calum)",
+        "Frankie Corio (Sophie)",
+        "Brooklyn Toulson (Michael)",
+        "Celia Rowlson-Hall (Adult Sophie)",
+        "Sally Messham (Belinda)",
+        "Ayşe Parlak (Teen Girl 1)"
+      ],
+      "tramaTmdb": "In un resort che ha visto giorni migliori, l’undicenne Sophie si gode i rari momenti che riesce a trascorrere con suo padre, l’idealista e amorevole Calum. Vent’anni dopo, il ricordo della loro ultima vacanza diventa un ritratto potente e straziante del loro rapporto.",
+      "motivi": [
+        "c'è Paul Mescal, che hai visto 2 volte",
+        "c'è Paul Mescal, che hai visto 2 volte"
+      ],
+      "impronta": "Aftersun|268|Charlotte Wells"
+    },
+    {
+      "id": "tmdb-482321",
+      "tmdbId": 482321,
+      "imdbId": "tt7504818",
+      "origine": "scoperta",
+      "titolo": "Ron - Un amico fuori programma",
+      "titoloOriginale": "Ron's Gone Wrong",
+      "anno": "2021",
+      "uscitaItalia": "2021-10-14",
+      "regia": "Sarah Smith",
+      "generi": [
+        "Animazione",
+        "Fantascienza",
+        "Famiglia",
+        "Commedia"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": "Migliori amici per sempre* (*la durata della batteria può variare)",
+      "cast": [
+        "Jack Dylan Grazer (Barney (voice))",
+        "Zach Galifianakis (Ron (voice))",
+        "Ed Helms (Graham (voice))",
+        "Olivia Colman (Donka (voice))",
+        "Rob Delaney (Andrew (voice))",
+        "Justice Smith (Marc (voice))"
+      ],
+      "tramaTmdb": "Barney è un goffo studente delle scuole medie. Ron, invece, è il suo nuovo robot in grado di camminare e parlare. I malfunzionamenti di Ron in un mondo in cui tutto è perfetto porteranno i due a vivere un'avventura alla scoperta della vera amicizia.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Ron - Un amico fuori programma|249|Sarah Smith"
+    },
+    {
+      "id": "tmdb-1311031",
+      "tmdbId": 1311031,
+      "imdbId": "tt32820897",
+      "origine": "scoperta",
+      "titolo": "Demon Slayer: Il Castello dell'Infinito - Parte 1",
+      "titoloOriginale": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "anno": "2025",
+      "uscitaItalia": "2025-09-11",
+      "regia": "外崎春雄",
+      "generi": [
+        "Animazione",
+        "Azione",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 156,
+      "tagline": "Si accende la battaglia finale",
+      "cast": [
+        "Natsuki Hanae (Tanjiro Kamado (voice))",
+        "Takahiro Sakurai (Giyu Tomioka (voice))",
+        "Akira Ishida (Akaza (voice))",
+        "Hiro Shimono (Zenitsu Agatsuma (voice))",
+        "Yoshimasa Hosoya (Kaigaku (voice))",
+        "Saori Hayami (Shinobu Kocho (voice))"
+      ],
+      "tramaTmdb": "Tanjiro Kamado è un ragazzo unitosi a un’organizzazione dedita alla caccia dei demoni chiamata Squadra dei cacciatori di demoni dopo che la sorella minore Nezuko è diventata una di questi mostri. Acquisendo sempre più forza e approfondendo i legami di amicizia con i suoi compagni, Tanjiro ha combattuto molti demoni con i suoi compagni Zenitsu Agatsuma e Inosuke Hashibira. Con il capo della Squadra dei cacciatori di demoni in pericolo, Tanjiro e i Pilastri accorrono al quartier generale, dove però per mano di Muzan Kibutsuji precipitano in un luogo misterioso. Lo spazio in cui Tanjiro e la Squa",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Demon Slayer: Il Castello dell'Infinito - Parte 1|600|外崎春雄"
+    },
+    {
+      "id": "tmdb-318846",
+      "tmdbId": 318846,
+      "imdbId": "tt1596363",
+      "origine": "scoperta",
+      "titolo": "La grande scommessa",
+      "titoloOriginale": "The Big Short",
+      "anno": "2016",
+      "uscitaItalia": "2016-01-07",
+      "regia": "Adam McKay",
+      "generi": [
+        "Commedia",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 130,
+      "tagline": "Se non puoi battere le banche, fagliela pagare",
+      "cast": [
+        "Steve Carell (Mark Baum)",
+        "Christian Bale (Michael Burry)",
+        "Ryan Gosling (Jared Vennett)",
+        "Brad Pitt (Ben Rickert)",
+        "Marisa Tomei (Cynthia Baum)",
+        "Melissa Leo (Georgia Hale)"
+      ],
+      "tramaTmdb": "Quando quattro investitori visionari, al contrario di quanto mostrato dalle grandi banche, dai media e dal governo stesso, intuiscono che l’andamento dei mercati finanziari avrebbe portato alla crisi mondiale dell’economia, mettono in atto \"La grande scommessa\". I loro coraggiosi investimenti li porteranno nei meandri oscuri dei sistemi bancari moderni, facendoli dubitare di tutto e tutti. Basato su una storia vera ed ispirato al libro bestseller di Michael Lewis (The Blind Side, L’arte di Vincere).",
       "motivi": [
         "c'è Ryan Gosling, che hai visto 3 volte",
         "c'è Ryan Gosling, che hai visto 3 volte"
       ],
-      "impronta": "Crazy, Stupid, Love.|600|Glenn Ficarra"
-    },
-    {
-      "id": "tmdb-1091",
-      "tmdbId": 1091,
-      "imdbId": "tt0084787",
-      "origine": "scoperta",
-      "titolo": "La cosa",
-      "titoloOriginale": "The Thing",
-      "anno": "1982",
-      "uscitaItalia": "1982-11-26",
-      "regia": "John Carpenter",
-      "generi": [
-        "Horror",
-        "Mistero",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 104,
-      "tagline": "Non fidarti di nessuno",
-      "cast": [
-        "Kurt Russell (MacReady)",
-        "Wilford Brimley (Blair)",
-        "T.K. Carter (Nauls)",
-        "David Clennon (Palmer)",
-        "Keith David (Childs)",
-        "Richard Dysart (Dr. Copper)"
-      ],
-      "tramaTmdb": "Gli scienziati di una base di ricerche in Alaska raccolgono un cane lupo che i loro colleghi norvegesi hanno tentato di abbattere. Lo mettono nel canile mentre due di essi si recano nella base norvegese che trovano abbandonata e piena di cadaveri. Trovano anche i resti di quello che sembra un disco volante. In breve il cane viene posseduto da una strana forza e si trasforma in belva. Il panico si diffonde nella base.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "La cosa|420|John Carpenter"
-    },
-    {
-      "id": "tmdb-585511",
-      "tmdbId": 585511,
-      "imdbId": "tt7214954",
-      "origine": "scoperta",
-      "titolo": "Luck",
-      "titoloOriginale": "Luck",
-      "anno": "2022",
-      "uscitaItalia": "2022-08-05",
-      "regia": "Peggy Holmes",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy",
-        "Famiglia"
-      ],
-      "paesi": [
-        "Spagna",
-        "USA"
-      ],
-      "durata": 97,
-      "tagline": "A volte, hai solo bisogno che tutto vada male.",
-      "cast": [
-        "Eva Noblezada (Sam (voice))",
-        "Simon Pegg (Bob (voice))",
-        "Jane Fonda (Dragon (voice))",
-        "Whoopi Goldberg (Captain (voice))",
-        "Colin O'Donoghue (Gerry (voice))",
-        "Lil Rel Howery (Marvin (voice))"
-      ],
-      "tramaTmdb": "Sam Greenfield è la persona più sfortunata del mondo! Ritrovandosi improvvisamente nella sconosciuta Terra della Fortuna, dovrà unirsi alle magiche creature di quel luogo per capovolgere la sua sfortuna.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Luck|203|Peggy Holmes"
+      "impronta": "La grande scommessa|504|Adam McKay"
     }
   ]
 }
