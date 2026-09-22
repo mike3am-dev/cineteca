@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-21T05:06:51.716Z",
+  "preparato": "2026-09-22T05:06:59.892Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -242,342 +242,357 @@
       "impronta": "Coyote vs. Acme|518|Dave Green"
     },
     {
-      "id": "tmdb-637920",
-      "tmdbId": 637920,
-      "imdbId": "tt10431500",
+      "id": "tmdb-1580",
+      "tmdbId": 1580,
+      "imdbId": "tt0040746",
       "origine": "scoperta",
-      "titolo": "Miracle in Cell No. 7",
-      "titoloOriginale": "7. Koğuştaki Mucize",
-      "anno": "2019",
-      "uscitaItalia": "2019-10-10",
-      "regia": "Mehmet Ada Öztekin",
+      "titolo": "Nodo alla gola",
+      "titoloOriginale": "Rope",
+      "anno": "1956",
+      "uscitaItalia": "1956-11-17",
+      "regia": "Alfred Hitchcock",
       "generi": [
+        "Thriller",
+        "Crime",
         "Dramma"
       ],
       "paesi": [
-        "Turkey"
+        "USA"
       ],
-      "durata": 127,
+      "durata": 77,
       "tagline": null,
       "cast": [
-        "Aras Bulut İynemli (Memo)",
-        "Nisa Sofiya Aksongur (Ova)",
-        "İlker Aksum (Askorozlu)",
-        "Mesut Akusta (Yusuf)",
-        "Yıldıray Şahinler (Hafız)",
-        "Yurdaer Okur (Yarbay Aydın)"
+        "James Stewart (Rupert Cadell)",
+        "John Dall (Brandon Shaw)",
+        "Farley Granger (Phillip Morgan)",
+        "Cedric Hardwicke (Mr. Henry Kentley)",
+        "Constance Collier (Mrs. Anita Atwater)",
+        "Douglas Dick (Kenneth Lawrence)"
       ],
-      "tramaTmdb": "Separato dalla sua bambina, un padre con disabilità intellettiva viene incarcerato per la morte della figlia di un comandante. Dovrà dimostrare la propria innocenza.",
+      "tramaTmdb": "Brandon Shaw e Phillip Morgan, due giovani studenti, uccidono il loro amico David Kentley, strangolandolo con una corda, e ne nascondono il corpo in un baule antico sul quale imbandiscono la tavola per un party. Inizia una singolare festa, a cui sono chiamati a partecipare anche il padre del ragazzo ucciso e la sua ragazza Janet Walker, che in precedenza aveva avuto una relazione con Brandon.",
       "motivi": [
-        "un classico che ti manca"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Miracle in Cell No. 7|165|Mehmet Ada Öztekin"
+      "impronta": "Nodo alla gola|395|Alfred Hitchcock"
     },
     {
-      "id": "tmdb-724089",
-      "tmdbId": 724089,
-      "imdbId": "tt13535454",
+      "id": "tmdb-760245",
+      "tmdbId": 760245,
+      "imdbId": "tt8258502",
       "origine": "scoperta",
-      "titolo": "Gabriel's Inferno: Part II",
-      "titoloOriginale": "Gabriel's Inferno: Part II",
-      "anno": "2020",
-      "uscitaItalia": "2020-07-31",
-      "regia": "Tosca Musk",
+      "titolo": "Il nemico",
+      "titoloOriginale": "Foe",
+      "anno": "2023",
+      "uscitaItalia": "2023-10-06",
+      "regia": "Garth Davis",
       "generi": [
-        "Romance",
+        "Fantascienza",
         "Dramma"
       ],
-      "paesi": [],
-      "durata": 106,
-      "tagline": null,
-      "cast": [
-        "Melanie Zanetti (Julia Mitchell)",
-        "Giulio Berruti (Gabriel Emerson)",
-        "James Andrew Fraser (Paul Norris)",
-        "Margaux Brooke (Christa Peterson)",
-        "Agnes Albright (Paulina)",
-        "Purva Bedi (Professor Tara Chakravartty)"
-      ],
-      "tramaTmdb": null,
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Gabriel's Inferno: Part II|0|Tosca Musk"
-    },
-    {
-      "id": "tmdb-11878",
-      "tmdbId": 11878,
-      "imdbId": "tt0055630",
-      "origine": "scoperta",
-      "titolo": "La sfida del samurai",
-      "titoloOriginale": "用心棒",
-      "anno": "1963",
-      "uscitaItalia": "1963-06-28",
-      "regia": "Akira Kurosawa",
-      "generi": [
-        "Dramma",
-        "Thriller"
-      ],
       "paesi": [
-        "Giappone"
+        "Australia",
+        "USA"
       ],
       "durata": 110,
-      "tagline": "Sarebbe meglio se tutti questi uomini fossero morti. Pensaci!",
+      "tagline": "Alcune persone sono fatte l'una per l'altra.",
       "cast": [
-        "Toshirō Mifune (Sanjuro Kuwabatake / The Samurai)",
-        "Tatsuya Nakadai (Unosuke, gunfighter)",
-        "司葉子 (Nui)",
-        "山田五十鈴 (Orin)",
-        "加東大介 (Inokichi)",
-        "河津清三郎 (Seibê - brothel operator)"
+        "Paul Mescal (Junior)",
+        "Saoirse Ronan (Hen)",
+        "Aaron Pierre (Terrence)",
+        "Jordan Chodziesner (Formal Escort 1)",
+        "William Freeman (Formal Escort 2)",
+        "Jalen Ong (Computer Technician 1)"
       ],
-      "tramaTmdb": "Nel XVII secolo un samurai vagabondo arriva in un villaggio insanguinato dalla guerra tra due clan e, con machiavellica strategia, diventa l'ago della bilancia mettendo gli uni contro gli altri. Splendido film d'azione in chiave ironica e di ritmo snello, ma anche limpida parabola sulla cupidigia del denaro con risvolti ironici e una lontana parentela con Goldoni (Arlecchino servitore di due padroni). Yojimbo (che significa \"guardia del corpo\") è il modello su cui Sergio Leone ricalcò Per un pugno di dollari e Walter Hill Ancora vivo. Ma, forse, all'origine di tutto c'è Red Harvest (Piombo e s",
+      "tramaTmdb": "Ambientato in un futuro prossimo in cui il potere aziendale e il degrado ambientale stanno devastando il pianeta, Hen e Junior sono una giovane coppia sposata che vive una vita solitaria nella propria fattoria isolata. Una sera, il bussare alla porta di uno sconosciuto di nome Terrance cambia tutto: Junior è stato selezionato a caso per viaggiare su una grande stazione spaziale sperimentale in orbita intorno alla Terra.",
       "motivi": [
-        "thriller: il tuo terreno"
+        "c'è Paul Mescal, che hai visto 2 volte",
+        "c'è Paul Mescal, che hai visto 2 volte"
       ],
-      "impronta": "La sfida del samurai|600|Akira Kurosawa"
+      "impronta": "Il nemico|423|Garth Davis"
     },
     {
-      "id": "tmdb-832",
-      "tmdbId": 832,
-      "imdbId": "tt0022100",
+      "id": "tmdb-490132",
+      "tmdbId": 490132,
+      "imdbId": "tt6966692",
       "origine": "scoperta",
-      "titolo": "M - Il mostro di Düsseldorf",
-      "titoloOriginale": "M - Eine Stadt sucht einen Mörder",
-      "anno": "1960",
-      "uscitaItalia": "1960-08-26",
-      "regia": "Fritz Lang",
+      "titolo": "Green Book",
+      "titoloOriginale": "Green Book",
+      "anno": "2019",
+      "uscitaItalia": "2019-01-31",
+      "regia": "Peter Farrelly",
       "generi": [
         "Dramma",
-        "Thriller",
-        "Crime"
-      ],
-      "paesi": [
-        "Germania"
-      ],
-      "durata": 118,
-      "tagline": "Chi è l'assassino?",
-      "cast": [
-        "Peter Lorre (Hans Beckert)",
-        "Ellen Widmann (Frau Beckmann)",
-        "Inge Landgut (Elsie Beckmann)",
-        "Otto Wernicke (Inspector Karl Lohmann)",
-        "Theodor Loos (Inspector Groeber)",
-        "Gustaf Gründgens (Schränker)"
-      ],
-      "tramaTmdb": "Nel 1931 Fritz Lang gira M - Il mostro di Düsseldorf (suo primo film sonoro), in cui un ignoto assassino violenta e uccide numerose bambine senza lasciare alcuna traccia. Nella città viene organizzata una fitta rete di ricerche a cui partecipano anche i mendicanti e i criminali. Così si scopre il primo indizio: l'assassino quando avvicina le vittime fischietta un macabro motivo, tratto dal Peer Gynt di Grieg. Presto il mostro viene individuato da un venditore di palloncini che riesce con un gesso a segnargli sulle spalle una grande M (che sta per Morder, assassino).",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "M - Il mostro di Düsseldorf|572|Fritz Lang"
-    },
-    {
-      "id": "tmdb-120",
-      "tmdbId": 120,
-      "imdbId": "tt0120737",
-      "origine": "scoperta",
-      "titolo": "Il Signore degli Anelli - La Compagnia dell'Anello",
-      "titoloOriginale": "The Lord of the Rings: The Fellowship of the Ring",
-      "anno": "2002",
-      "uscitaItalia": "2002-01-18",
-      "regia": "Peter Jackson",
-      "generi": [
-        "Avventura",
-        "Fantasy",
-        "Azione"
-      ],
-      "paesi": [
-        "Nuova Zelanda",
-        "USA"
-      ],
-      "durata": 179,
-      "tagline": "Un anello per domarli tutti",
-      "cast": [
-        "Elijah Wood (Frodo)",
-        "Ian McKellen (Gandalf)",
-        "Viggo Mortensen (Aragorn)",
-        "Sean Astin (Sam)",
-        "Ian Holm (Bilbo)",
-        "Liv Tyler (Arwen)"
-      ],
-      "tramaTmdb": "Bilbo Baggins ha deciso di celebrare il suo centoundicesimo compleanno in maniera molto particolare;alla fine della festa, abbandona parenti, amici, conoscenti e il suo affezionato nipote Frodo, cui lascia ogni cosa. Lo stregone Gandalf insiste perché lo hobbit lasci a Frodo anche il suo anello magico, su cui intende tenere un occhio vigile e fare alcune ricerche, perché potrebbe celare un mistero più inquietante di quanto non sembri. E così è; quello di Bilbo è l'Unico Anello, l'Anello per domarli, il cuore del potere del malefico Signore Oscuro Sauron, che sta tornando a tessere le sue trame",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Il Signore degli Anelli - La Compagnia dell'Anello|600|Peter Jackson"
-    },
-    {
-      "id": "tmdb-329865",
-      "tmdbId": 329865,
-      "imdbId": "tt2543164",
-      "origine": "scoperta",
-      "titolo": "Arrival",
-      "titoloOriginale": "Arrival",
-      "anno": "2017",
-      "uscitaItalia": "2017-01-19",
-      "regia": "Denis Villeneuve",
-      "generi": [
-        "Dramma",
-        "Fantascienza",
-        "Mistero"
+        "Commedia",
+        "Storia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 116,
-      "tagline": "Perché sono venuti qui?",
+      "durata": 130,
+      "tagline": "Tratto da un'amicizia vera",
       "cast": [
-        "Amy Adams (Louise Banks)",
-        "Jeremy Renner (Ian Donnelly)",
-        "Forest Whitaker (Colonel Weber)",
-        "Michael Stuhlbarg (Agent Halpern)",
-        "Mark O'Brien (Captain Marks)",
-        "馬泰 (General Shang)"
+        "Viggo Mortensen (Tony Lip)",
+        "Mahershala Ali (Dr. Don Shirley)",
+        "Linda Cardellini (Dolores)",
+        "Sebastian Maniscalco (Johnny Venere)",
+        "Dimiter D. Marinov (Oleg)",
+        "Mike Hatton (George)"
       ],
-      "tramaTmdb": "Quando un misterioso oggetto proveniente dallo spazio atterra sul nostro pianeta, per le susseguenti investigazioni viene formata una squadra di élite, capitanata dall’esperta linguista Louise Banks. Mentre l’umanità vacilla sull’orlo di una Guerra globale, Banks e il suo gruppo affronta una corsa contro il tempo in cerca di risposte – e per trovarle, farà una scelta che metterà a repentaglio la sua vita e, forse, anche quella del resto della razza umana.",
-      "motivi": [
-        "regia di Denis Villeneuve, di cui hai visto 3 film",
-        "regia di Denis Villeneuve, che segui"
-      ],
-      "impronta": "Arrival|459|Denis Villeneuve"
-    },
-    {
-      "id": "tmdb-142",
-      "tmdbId": 142,
-      "imdbId": "tt0388795",
-      "origine": "scoperta",
-      "titolo": "I segreti di Brokeback Mountain",
-      "titoloOriginale": "Brokeback Mountain",
-      "anno": "2005",
-      "uscitaItalia": "2005-10-22",
-      "regia": "李安",
-      "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "Canada",
-        "USA"
-      ],
-      "durata": 134,
-      "tagline": "« L'amore è una forza della natura. »",
-      "cast": [
-        "Heath Ledger (Ennis Del Mar)",
-        "Jake Gyllenhaal (Jack Twist)",
-        "Michelle Williams (Alma Beers)",
-        "Anne Hathaway (Lureen Newsome)",
-        "Randy Quaid (Joe Aguirre)",
-        "Linda Cardellini (Cassie Cartwright)"
-      ],
-      "tramaTmdb": "Wyoming 1963. Sotto i cappelli due cowboy attendono davanti all'ufficio del rancher locale, Joe Aguirre, di salire sul Brokeback per la transumanza. Ennis Del Mar non ha famiglia, persa dietro una curva di una strada diritta, Jack Twist ne ha una da dimenticare in fondo alla campagna texana. Fuori dal mondo, in quel luogo sospeso che \"rompe\" con le convenzioni giù a valle, che \"spezza\" i tempi della cultura per seguire quelli di natura, i due giovani si avvicinano fino a toccarsi. Nella tenda, generosa alcova, il cameratismo si converte in passione, la realtà in epica amorosa.",
-      "motivi": [
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "c'è Anne Hathaway, che hai visto 2 volte"
-      ],
-      "impronta": "I segreti di Brokeback Mountain|583|李安"
-    },
-    {
-      "id": "tmdb-28",
-      "tmdbId": 28,
-      "imdbId": "tt0078788",
-      "origine": "scoperta",
-      "titolo": "Apocalypse Now",
-      "titoloOriginale": "Apocalypse Now",
-      "anno": "1979",
-      "uscitaItalia": "1979-12-18",
-      "regia": "Francis Ford Coppola",
-      "generi": [
-        "Dramma",
-        "Guerra"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 150,
-      "tagline": "Questa è la fine...",
-      "cast": [
-        "Martin Sheen (Captain Benjamin Willard)",
-        "Marlon Brando (Colonel Walter Kurtz)",
-        "Frederic Forrest (Jay 'Chef' Hicks)",
-        "Albert Hall (Chief Phillips)",
-        "Laurence Fishburne (Tyrone 'Clean' Miller)",
-        "Sam Bottoms (Lance B. Johnson)"
-      ],
-      "tramaTmdb": "A Saigon, durante la guerra in Vietnam il capitano dei corpi speciali Benjamin Willard riceve dai superiori l'ordine di trovare ed eliminare il colonnello Walter Kurtz che uscito con i suoi soldati dai ranghi dell'esercito americano, sta combattendo una guerra personale ai confini fra il Vietnam e la Cambogia. Scortato da alcuni uomini, Willard risale un fiume a caccia del colonnello. Dopo varie peripezie il capitano individua Kurtz all'interno di una sorta di reggia-tempio protetta dalla vegetazione e da numerosi indigeni armati. Willard non sa che fare, ma è lo stesso Kurtz che lo induce ad ",
+      "tramaTmdb": "Nel 1962, dopo la chiusura di uno dei migliori club di New York in cui lavorava, il buttafuori italoamericano Tony Lip deve a tutti i costi trovare un lavoro per mantenere la sua famiglia. Accetta di lavorare per il pianista afroamericano Don Shirley e decide di seguirlo in tour nel sud degli Stati Uniti. Nonostante le differenze e gli iniziali contrasti, tra i due si instaurerà una forte amicizia.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Apocalypse Now|600|Francis Ford Coppola"
+      "impronta": "Green Book|401|Peter Farrelly"
     },
     {
-      "id": "tmdb-313369",
-      "tmdbId": 313369,
-      "imdbId": "tt3783958",
+      "id": "tmdb-59967",
+      "tmdbId": 59967,
+      "imdbId": "tt1276104",
       "origine": "scoperta",
-      "titolo": "La La Land",
-      "titoloOriginale": "La La Land",
-      "anno": "2017",
-      "uscitaItalia": "2017-01-26",
-      "regia": "Damien Chazelle",
+      "titolo": "Looper - In fuga dal passato",
+      "titoloOriginale": "Looper",
+      "anno": "2013",
+      "uscitaItalia": "2013-01-31",
+      "regia": "Rian Johnson",
       "generi": [
-        "Commedia",
-        "Dramma",
-        "Romance"
+        "Azione",
+        "Thriller",
+        "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 126,
-      "tagline": "Una moderna versione della classica storia d'amore ambientata a Hollywood, resa più intensa da numeri spettacolari di canto e danza.",
+      "durata": 119,
+      "tagline": "Affronta il passato, cambia il futuro.",
       "cast": [
-        "Ryan Gosling (Sebastian)",
-        "Emma Stone (Mia)",
-        "John Legend (Keith)",
-        "Rosemarie DeWitt (Laura)",
-        "Finn Wittrock (Greg)",
-        "Callie Hernandez (Tracy)"
+        "Joseph Gordon-Levitt (Joe)",
+        "Bruce Willis (Old Joe)",
+        "Emily Blunt (Sara)",
+        "Paul Dano (Seth)",
+        "Noah Segan (Kid Blue)",
+        "Piper Perabo (Suzie)"
       ],
-      "tramaTmdb": "Los Angeles. Mia sogna di poter recitare ma intanto, mentre passa da un provino all'altro, serve caffè e cappuccini alle star. Sebastian è un musicista jazz che si guadagna da vivere suonando nei piano bar in cui nessuno si interessa a ciò che propone. I due si scontrano e si incontrano fino a quando nasce un rapporto che è cementato anche dalla comune volontà di realizzare i propri sogni e quindi dal sostegno reciproco. Il successo arriverà ma, insieme ad esso, gli ostacoli che porrà sul percorso della loro relazione.",
+      "tramaTmdb": "Kansas 2044. Il viaggio nel tempo non è ancora stato inventato ma trent'anni più avanti è divenuto una realtà di cui però è vietato l'utilizzo. Ovviamente il crimine non si occupa dei divieti e ne fa un uso molto specifico. Un'organizzazione guidata da un capo spietato 'trasferisce' le proprie vittime trent'anni indietro dove un killer (detto 'looper' traducibile in 'uomo che si occupa del cerchio') lo attende per eliminarlo e farne sparire il cadavere. Joe è un looper che risparmia ciò che guadagna in questo mestiere per alimentare il sogno di potersi trasferire in Francia. Ma dal futuro è in",
       "motivi": [
-        "c'è Ryan Gosling, che hai visto 3 volte",
-        "c'è Ryan Gosling, che hai visto 3 volte"
+        "c'è Emily Blunt, che hai visto 3 volte",
+        "c'è Emily Blunt, che hai visto 3 volte"
       ],
-      "impronta": "La La Land|524|Damien Chazelle"
+      "impronta": "Looper - In fuga dal passato|600|Rian Johnson"
     },
     {
-      "id": "tmdb-283995",
-      "tmdbId": 283995,
-      "imdbId": "tt3896198",
+      "id": "tmdb-315162",
+      "tmdbId": 315162,
+      "imdbId": "tt3915174",
       "origine": "scoperta",
-      "titolo": "Guardiani della Galassia Vol. 2",
-      "titoloOriginale": "Guardians of the Galaxy Vol. 2",
-      "anno": "2017",
-      "uscitaItalia": "2017-04-25",
-      "regia": "James Gunn",
+      "titolo": "Il gatto con gli stivali 2 - L'ultimo desiderio",
+      "titoloOriginale": "Puss in Boots: The Last Wish",
+      "anno": "2022",
+      "uscitaItalia": "2022-12-07",
+      "regia": "Joel Crawford",
       "generi": [
-        "Fantascienza",
+        "Animazione",
         "Avventura",
-        "Azione"
+        "Fantasy",
+        "Commedia",
+        "Famiglia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 100,
+      "tagline": "Dite hola ai suoi compagni d'avventura",
+      "cast": [
+        "Antonio Banderas (Puss in Boots (voice))",
+        "Salma Hayek Pinault (Kitty Softpaws (voice))",
+        "Harvey Guillén (Perrito (voice))",
+        "Wagner Moura (Wolf (voice))",
+        "Florence Pugh (Goldilocks (voice))",
+        "Olivia Colman (Mama Bear (voice))"
+      ],
+      "tramaTmdb": "Il Gatto con gli Stivali scopre che la sua passione per l'avventura è stata pagata a caro prezzo: ben otto delle sue nove vite sono andate bruciate.  Dovrà così intraprendere una nuova epica avventura alla ricerca del mitico Ultimo Desiderio, che gli permetterà di recuperare le sue nove vite.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il gatto con gli stivali 2 - L'ultimo desiderio|293|Joel Crawford"
+    },
+    {
+      "id": "tmdb-679",
+      "tmdbId": 679,
+      "imdbId": "tt0090605",
+      "origine": "scoperta",
+      "titolo": "Aliens - Scontro finale",
+      "titoloOriginale": "Aliens",
+      "anno": "1986",
+      "uscitaItalia": "1986-09-24",
+      "regia": "James Cameron",
+      "generi": [
+        "Azione",
+        "Thriller",
+        "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
       "durata": 137,
-      "tagline": "Ovviamente",
+      "tagline": "Questa volta è guerra!",
       "cast": [
-        "Chris Pratt (Peter Quill / Star-Lord)",
-        "Zoe Saldaña (Gamora)",
-        "Dave Bautista (Drax)",
-        "Vin Diesel (Baby Groot (voice))",
-        "Bradley Cooper (Rocket (voice))",
-        "Kurt Russell (Ego)"
+        "Sigourney Weaver (Ripley)",
+        "Carrie Henn (Newt)",
+        "Michael Biehn (Corporal Hicks)",
+        "Paul Reiser (Burke)",
+        "Lance Henriksen (Bishop)",
+        "Bill Paxton (Private Hudson)"
       ],
-      "tramaTmdb": "Mentre sono alle prese con il mistero che avvolge le vere origini di Peter Quill, i Guardiani della Galassia dovranno combattere per mantenere unita la propria squadra. Il gruppo di eroi dovrà allearsi con vecchi nemici e potrà contare sull'aiuto di inaspettati alleati.",
+      "tramaTmdb": "Ellen Ripley, l'unica sopravvissuta all'incontro mortale della Nostromo con il mostruoso alieno, torna sulla Terra dopo aver vagato nello spazio in ipersonno per 57 anni. Sebbene la sua storia venga inizialmente accolta con scetticismo, accetta di accompagnare una squadra di Marines coloniali a LV-426.",
       "motivi": [
-        "c'è Chris Pratt, che hai visto 4 volte",
-        "c'è Chris Pratt, che hai visto 4 volte"
+        "regia di James Cameron, di cui hai visto 2 film",
+        "c'è Sigourney Weaver, che hai visto 2 volte",
+        "regia di James Cameron, che segui"
       ],
-      "impronta": "Guardiani della Galassia Vol. 2|270|James Gunn"
+      "impronta": "Aliens - Scontro finale|303|James Cameron"
+    },
+    {
+      "id": "tmdb-49026",
+      "tmdbId": 49026,
+      "imdbId": "tt1345836",
+      "origine": "scoperta",
+      "titolo": "Il cavaliere oscuro - Il ritorno",
+      "titoloOriginale": "The Dark Knight Rises",
+      "anno": "2012",
+      "uscitaItalia": "2012-08-29",
+      "regia": "Christopher Nolan",
+      "generi": [
+        "Azione",
+        "Crime",
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 165,
+      "tagline": "Il fuoco divamperà",
+      "cast": [
+        "Christian Bale (Bruce Wayne)",
+        "Gary Oldman (Commissioner Gordon)",
+        "Tom Hardy (Bane)",
+        "Joseph Gordon-Levitt (Blake)",
+        "Anne Hathaway (Selina)",
+        "Marion Cotillard (Miranda)"
+      ],
+      "tramaTmdb": "Sono passati otto anni da quando Batman è svanito nella notte, trasformandosi in un istante da eroe a fuggitivo. Prendendosi la colpa della morte del procuratore Harvey Dent, il Cavaliere oscuro ha sacrificato tutto per ciò che lui e il Commissario Gordon speravano fosse un bene superiore. Per un po’ di tempo la bugia ha funzionato e l’attività criminale di Gotham City è stata schiacciata dal peso della legge anti-criminale Dent Act. Ma tutto cambierà con l’arrivo di un’astuta ladra con un misterioso piano. Ma molto più pericoloso è l’arrivo di Bane, un terrorista mascherato i cui spietati pia",
+      "motivi": [
+        "regia di Christopher Nolan, di cui hai visto 2 film",
+        "c'è Anne Hathaway, che hai visto 2 volte",
+        "c'è Anne Hathaway, che hai visto 2 volte"
+      ],
+      "impronta": "Il cavaliere oscuro - Il ritorno|600|Christopher Nolan"
+    },
+    {
+      "id": "tmdb-1891",
+      "tmdbId": 1891,
+      "imdbId": "tt0080684",
+      "origine": "scoperta",
+      "titolo": "L'Impero colpisce ancora",
+      "titoloOriginale": "The Empire Strikes Back",
+      "anno": "1980",
+      "uscitaItalia": "1980-09-19",
+      "regia": "Irvin Kershner",
+      "generi": [
+        "Avventura",
+        "Azione",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 124,
+      "tagline": "Continua la saga di Guerre Stellari.",
+      "cast": [
+        "Mark Hamill (Luke Skywalker)",
+        "Harrison Ford (Han Solo)",
+        "Carrie Fisher (Princess Leia)",
+        "Billy Dee Williams (Lando Calrissian)",
+        "Anthony Daniels (C-3PO)",
+        "David Prowse (Darth Vader)"
+      ],
+      "tramaTmdb": "Malgrado la Morte Nera sia stata distrutta, le truppe imperiali si sono impadronite nuovamente di Yavin. I ribelli si sono rifugiati sul pianeta di ghiaccio, ma sono costretti ancora alla fuga. Ian Solo (Han Solo nome originale), la principessa Leia e il droide D3BO (C-3PO), seminano gli inseguitori, mentre Luke, assieme al fido C1P8 (R2-D2) , si reca dal maestro jedi Yoda, sul pianeta Dogabahd, per ritrovare la \"Forza\". Nel tentativo di liberare Leila e gli amici, incontra poi Darth Vader, che si rivela essere suo padre. Seconda puntata (ma in realtà è la quinta) della saga di \"Guerre stellar",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "L'Impero colpisce ancora|600|Irvin Kershner"
+    },
+    {
+      "id": "tmdb-324857",
+      "tmdbId": 324857,
+      "imdbId": "tt4633694",
+      "origine": "scoperta",
+      "titolo": "Spider-Man: Un nuovo universo",
+      "titoloOriginale": "Spider-Man: Into the Spider-Verse",
+      "anno": "2018",
+      "uscitaItalia": "2018-12-25",
+      "regia": "Bob Persichetti",
+      "generi": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": "Piú di uno indossa la maschera",
+      "cast": [
+        "Shameik Moore (Miles Morales (voice))",
+        "Jake Johnson (Peter B. Parker (voice))",
+        "Hailee Steinfeld (Gwen Stacy (voice))",
+        "Mahershala Ali (Uncle Aaron (voice))",
+        "Brian Tyree Henry (Jefferson Davis (voice))",
+        "Lily Tomlin (Aunt May (voice))"
+      ],
+      "tramaTmdb": "Miles Morales è un ragazzo afro-ispanico di New York che è appena entrato in una scuola relativamente esclusiva, dove però si sente fuori luogo. Qui infatti non conosce nessuno e suo padre, un poliziotto che detesta Spider-Man, non lo aiuta mettendolo in imbarazzo. Miles si rifugia dallo zio, che asseconda invece la sua passione da street artist, ma durante una escursione nei sotterranei di New York Miles viene morso da un ragno radioattivo. Il giorno dopo, sconvolto da sorprendenti poteri che somigliano a quelli di Spider-Man, torna a cercare il ragno e finisce per assistere a uno scontro tra",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Spider-Man: Un nuovo universo|600|Bob Persichetti"
+    },
+    {
+      "id": "tmdb-181886",
+      "tmdbId": 181886,
+      "imdbId": "tt2316411",
+      "origine": "scoperta",
+      "titolo": "Enemy",
+      "titoloOriginale": "Enemy",
+      "anno": "2014",
+      "uscitaItalia": "2014-03-14",
+      "regia": "Denis Villeneuve",
+      "generi": [
+        "Thriller",
+        "Mistero"
+      ],
+      "paesi": [
+        "Canada",
+        "Francia",
+        "Spagna"
+      ],
+      "durata": 91,
+      "tagline": "Non puoi sfuggire a te stesso!",
+      "cast": [
+        "Jake Gyllenhaal (Adam / Anthony)",
+        "Mélanie Laurent (Mary)",
+        "Sarah Gadon (Helen)",
+        "Isabella Rossellini (Mother)",
+        "Joshua Peace (Teacher at School)",
+        "Tim Post (Anthony's Concierge)"
+      ],
+      "tramaTmdb": "Jake Gyllenhaal è un insegnante di storia depresso che un giorno scopre all'interno di un film la presenza di un attore totalmente identico a se stesso, così com'era cinque anni prima. Parte quindi alla ricerca dell'uomo misterioso.",
+      "motivi": [
+        "regia di Denis Villeneuve, di cui hai visto 3 film",
+        "regia di Denis Villeneuve, che segui"
+      ],
+      "impronta": "Enemy|232|Denis Villeneuve"
     }
   ]
 }
