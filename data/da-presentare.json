@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-22T05:06:59.892Z",
+  "preparato": "2026-09-23T05:06:13.231Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,6 +79,37 @@
   },
   "film": [
     {
+      "id": "tmdb-1263337",
+      "tmdbId": 1263337,
+      "imdbId": "tt7526136",
+      "origine": "trailer",
+      "titolo": "Heart of the Beast - Nel profondo selvaggio",
+      "titoloOriginale": "Heart of the Beast",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-24",
+      "regia": "David Ayer",
+      "generi": [
+        "Avventura",
+        "Thriller",
+        "Guerra"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 95,
+      "tagline": null,
+      "cast": [
+        "Brad Pitt (James Belmont)",
+        "J.K. Simmons (Walter Boone)",
+        "Anna Lambe"
+      ],
+      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+      "motivi": [
+        "avventura e thriller: il tuo terreno"
+      ],
+      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
+    },
+    {
       "id": "tmdb-1288069",
       "tmdbId": 1288069,
       "imdbId": "tt6262770",
@@ -113,38 +144,73 @@
       "impronta": "Tenzing|201|Jennifer Peedom"
     },
     {
-      "id": "tmdb-1375441",
-      "tmdbId": 1375441,
-      "imdbId": "tt34206385",
+      "id": "tmdb-1244523",
+      "tmdbId": 1244523,
+      "imdbId": "tt10377864",
       "origine": "trailer",
-      "titolo": "Primetime",
-      "titoloOriginale": "Primetime",
+      "titolo": "Il risveglio di Boiúna",
+      "titoloOriginale": "Beware Boiúna",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "Mike P. Nelson",
+      "generi": [
+        "Avventura",
+        "Horror",
+        "Thriller"
+      ],
+      "paesi": [
+        "Germania",
+        "USA",
+        "Colombia"
+      ],
+      "durata": 104,
+      "tagline": null,
+      "cast": [
+        "Logan Marshall-Green (Brennan Malloy)",
+        "Kiana Madeira (Lena)",
+        "Jessica Rothe (Alli)",
+        "Jackson Bews (Shawn)",
+        "Juan Pablo Shuk (Miguel)",
+        "Will Close (Callum)"
+      ],
+      "tramaTmdb": "Un gruppo di giovani medici impegnato a portare assistenza sanitaria nei villaggi più remoti dell’Amazzonia è costretto a fuggire nella giungla dopo un violento scontro con alcuni uomini coinvolti nella costruzione di una strada. Ma nelle profondità della foresta li attende una minaccia ancora più terrificante: Boiúna, un gigantesco serpente leggendario che sembra essere molto più di una semplice creatura del folklore. Braccati in un ambiente estremo e implacabile, i protagonisti dovranno lottare per sopravvivere contro un predatore che domina la giungla da milioni di anni.",
+      "motivi": [
+        "avventura e thriller: il tuo terreno"
+      ],
+      "impronta": "Il risveglio di Boiúna|580|Mike P. Nelson"
+    },
+    {
+      "id": "tmdb-1255833",
+      "tmdbId": 1255833,
+      "imdbId": "tt28535715",
+      "origine": "trailer",
+      "titolo": "Whalefall - Nella balena",
+      "titoloOriginale": "Whalefall",
       "anno": "2026",
       "uscitaItalia": "2026-10-15",
-      "regia": "Lance Oppenheim",
+      "regia": "Brian Duffield",
       "generi": [
-        "Dramma",
         "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 110,
-      "tagline": "Siete pronti ad entrare nella storia della televisione?",
+      "durata": 98,
+      "tagline": null,
       "cast": [
-        "Robert Pattinson (Chris Hansen)",
-        "Merritt Wever (Andie Bender)",
-        "Skyler Gisondo (Dan Plumb)",
-        "Phoebe Bridgers (Del)",
-        "Matthew Maher (Xavier Von Erck)",
-        "Bokeem Woodbine (Cortland Gunn)"
+        "Austin Abrams (Jay Gardiner)",
+        "Josh Brolin (Mitt Gardiner)",
+        "Elisabeth Shue (Zara Gardiner)",
+        "John Ortiz (Hewey)",
+        "Jane Levy (Eva Gardiner)",
+        "Emily Rudd (Nan Gardiner)"
       ],
-      "tramaTmdb": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
       "motivi": [
-        "c'è Robert Pattinson, che hai visto 2 volte",
-        "dramma e thriller: il tuo terreno"
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "thriller, il tuo terreno"
       ],
-      "impronta": "Primetime|523|Lance Oppenheim"
+      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
     {
       "id": "tmdb-1236045",
@@ -180,361 +246,329 @@
       "impronta": "Animals|458|Ben Affleck"
     },
     {
-      "id": "tmdb-1263337",
-      "tmdbId": 1263337,
-      "imdbId": "tt7526136",
-      "origine": "trailer",
-      "titolo": "Heart of the Beast - Nel profondo selvaggio",
-      "titoloOriginale": "Heart of the Beast",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-24",
-      "regia": "David Ayer",
-      "generi": [
-        "Avventura",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 95,
-      "tagline": null,
-      "cast": [
-        "Brad Pitt (James Belmont)",
-        "J.K. Simmons (Walter Boone)",
-        "Anna Lambe"
-      ],
-      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-      "motivi": [
-        "avventura e thriller: il tuo terreno"
-      ],
-      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
-    },
-    {
-      "id": "tmdb-1204680",
-      "tmdbId": 1204680,
-      "imdbId": "tt1756855",
-      "origine": "trailer",
-      "titolo": "Coyote vs. Acme",
-      "titoloOriginale": "Coyote vs. Acme",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-02",
-      "regia": "Dave Green",
+      "id": "tmdb-496243",
+      "tmdbId": 496243,
+      "imdbId": "tt6751668",
+      "origine": "scoperta",
+      "titolo": "Parasite",
+      "titoloOriginale": "기생충",
+      "anno": "2019",
+      "uscitaItalia": "2019-11-07",
+      "regia": "봉준호",
       "generi": [
         "Commedia",
-        "Avventura",
-        "Famiglia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": "Lui non si arrende. Mai.",
-      "cast": [
-        "Will Forte (Kevin Avery)",
-        "Lana Condor (Paige Avery)",
-        "John Cena (Buddy Crane)",
-        "Tone Bell (Sal Maltese)",
-        "Martha Kelly (Dottie Jones)",
-        "Luis Guzmán (Judge Troppogrosso)"
-      ],
-      "tramaTmdb": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
-      "motivi": [],
-      "impronta": "Coyote vs. Acme|518|Dave Green"
-    },
-    {
-      "id": "tmdb-1580",
-      "tmdbId": 1580,
-      "imdbId": "tt0040746",
-      "origine": "scoperta",
-      "titolo": "Nodo alla gola",
-      "titoloOriginale": "Rope",
-      "anno": "1956",
-      "uscitaItalia": "1956-11-17",
-      "regia": "Alfred Hitchcock",
-      "generi": [
         "Thriller",
-        "Crime",
         "Dramma"
       ],
       "paesi": [
+        "Corea del Sud"
+      ],
+      "durata": 132,
+      "tagline": "Cerca l'intruso.",
+      "cast": [
+        "Song Kang-ho (Kim Ki-taek)",
+        "이선균 (Park Dong-ik)",
+        "Cho Yeo-jeong (Yeon-kyo)",
+        "Choi Woo-shik (Ki-woo)",
+        "박소담 (Ki-jung)",
+        "이정은 (Moon-gwang)"
+      ],
+      "tramaTmdb": "Tutta la famiglia di Ki-taek è senza lavoro. Ki-taek è particolarmente interessata allo stile di vita della ricchissima famiglia Park. Un giorno, suo figlio riesce a farsi assumere dai Park e le due famiglie si ritrovano così intrecciate da una serie di eventi incontrollabili.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Parasite|277|봉준호"
+    },
+    {
+      "id": "tmdb-1239193",
+      "tmdbId": 1239193,
+      "imdbId": "tt31121295",
+      "origine": "scoperta",
+      "titolo": "Deep Cover - Attori sotto copertura",
+      "titoloOriginale": "Deep Cover",
+      "anno": "2025",
+      "uscitaItalia": "2025-06-12",
+      "regia": "Tom Kingsley",
+      "generi": [
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "paesi": [
         "USA"
       ],
-      "durata": 77,
-      "tagline": null,
+      "durata": 99,
+      "tagline": "Se vuoi sopravvivere, improvvisa.",
       "cast": [
-        "James Stewart (Rupert Cadell)",
-        "John Dall (Brandon Shaw)",
-        "Farley Granger (Phillip Morgan)",
-        "Cedric Hardwicke (Mr. Henry Kentley)",
-        "Constance Collier (Mrs. Anita Atwater)",
-        "Douglas Dick (Kenneth Lawrence)"
+        "Bryce Dallas Howard (Kat)",
+        "Orlando Bloom (Marlon)",
+        "Nick Mohammed (Hugh)",
+        "Paddy Considine (Fly)",
+        "Sonoya Mizuno (Shosh)",
+        "Ian McShane (Metcalfe)"
       ],
-      "tramaTmdb": "Brandon Shaw e Phillip Morgan, due giovani studenti, uccidono il loro amico David Kentley, strangolandolo con una corda, e ne nascondono il corpo in un baule antico sul quale imbandiscono la tavola per un party. Inizia una singolare festa, a cui sono chiamati a partecipare anche il padre del ragazzo ucciso e la sua ragazza Janet Walker, che in precedenza aveva avuto una relazione con Brandon.",
+      "tramaTmdb": "Bryce Dallas Howard interpreta Kat, insegnante di improvvisazione, si chiede se abbia perso la sua chance per avere successo. Quando un poliziotto sotto copertura le offre il ruolo della vita, recluta due allievi per infiltrarsi nelle gang londinesi interpretando dei pericolosi criminali.",
+      "motivi": [
+        "c'è Bryce Dallas Howard, che hai visto 3 volte",
+        "regia di Colin Trevorrow, che segui"
+      ],
+      "impronta": "Deep Cover - Attori sotto copertura|289|Tom Kingsley"
+    },
+    {
+      "id": "tmdb-4977",
+      "tmdbId": 4977,
+      "imdbId": "tt0851578",
+      "origine": "scoperta",
+      "titolo": "Paprika - Sognando un sogno",
+      "titoloOriginale": "パプリカ",
+      "anno": "2007",
+      "uscitaItalia": "2007-06-15",
+      "regia": "Satoshi Kon",
+      "generi": [
+        "Animazione",
+        "Fantascienza",
+        "Thriller"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 90,
+      "tagline": "Questo è il tuo cervello in un anime",
+      "cast": [
+        "Megumi Hayashibara (Paprika / Atsuko Chiba (voice))",
+        "江守徹 (Seijiro Inui (voice))",
+        "堀勝之祐 (Torataro Shima (voice))",
+        "Tōru Furuya (Kosaku Tokita (voice))",
+        "Akio Ōtsuka (Toshimi Konakawa (voice))",
+        "Kōichi Yamadera (Morio Osanai (voice))"
+      ],
+      "tramaTmdb": "In un futuro non troppo lontano l'invenzione della DC Mini permette agli psicoanalisti di immergersi nei sogni, e quindi nel subconscio, dei propri pazienti in modo da conoscere e curare stati alterati e problematiche nascoste dell'io. La dottoressa Atsuko Chiba, sotto lo pseudonimo di Paprika, comincia ad utilizzare questa procedura anche al di fuori della struttura ospedaliera in cui è capo della ricerca, sempre con il fine di aiutare le persone traumatizzate da eventi passati. Essendo la procedura ad alto rischio e ancora in via sperimentale, le DC Mini vengono custodite con la massima atte",
       "motivi": [
         "thriller: il tuo terreno"
       ],
-      "impronta": "Nodo alla gola|395|Alfred Hitchcock"
+      "impronta": "Paprika - Sognando un sogno|600|Satoshi Kon"
     },
     {
-      "id": "tmdb-760245",
-      "tmdbId": 760245,
-      "imdbId": "tt8258502",
+      "id": "tmdb-404",
+      "tmdbId": 404,
+      "imdbId": "tt0166896",
       "origine": "scoperta",
-      "titolo": "Il nemico",
-      "titoloOriginale": "Foe",
-      "anno": "2023",
-      "uscitaItalia": "2023-10-06",
-      "regia": "Garth Davis",
-      "generi": [
-        "Fantascienza",
-        "Dramma"
-      ],
-      "paesi": [
-        "Australia",
-        "USA"
-      ],
-      "durata": 110,
-      "tagline": "Alcune persone sono fatte l'una per l'altra.",
-      "cast": [
-        "Paul Mescal (Junior)",
-        "Saoirse Ronan (Hen)",
-        "Aaron Pierre (Terrence)",
-        "Jordan Chodziesner (Formal Escort 1)",
-        "William Freeman (Formal Escort 2)",
-        "Jalen Ong (Computer Technician 1)"
-      ],
-      "tramaTmdb": "Ambientato in un futuro prossimo in cui il potere aziendale e il degrado ambientale stanno devastando il pianeta, Hen e Junior sono una giovane coppia sposata che vive una vita solitaria nella propria fattoria isolata. Una sera, il bussare alla porta di uno sconosciuto di nome Terrance cambia tutto: Junior è stato selezionato a caso per viaggiare su una grande stazione spaziale sperimentale in orbita intorno alla Terra.",
-      "motivi": [
-        "c'è Paul Mescal, che hai visto 2 volte",
-        "c'è Paul Mescal, che hai visto 2 volte"
-      ],
-      "impronta": "Il nemico|423|Garth Davis"
-    },
-    {
-      "id": "tmdb-490132",
-      "tmdbId": 490132,
-      "imdbId": "tt6966692",
-      "origine": "scoperta",
-      "titolo": "Green Book",
-      "titoloOriginale": "Green Book",
-      "anno": "2019",
-      "uscitaItalia": "2019-01-31",
-      "regia": "Peter Farrelly",
+      "titolo": "Una storia vera",
+      "titoloOriginale": "The Straight Story",
+      "anno": "2000",
+      "uscitaItalia": "2000-02-11",
+      "regia": "David Lynch",
       "generi": [
         "Dramma",
-        "Commedia",
-        "Storia"
+        "Avventura"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito",
+        "Francia"
+      ],
+      "durata": 111,
+      "tagline": null,
+      "cast": [
+        "Richard Farnsworth (Alvin)",
+        "Sissy Spacek (Rose)",
+        "Jane Galloway Heitz (Dorothy)",
+        "Joseph A. Carpenter (Bud)",
+        "Donald Wiegert (Sig)",
+        "Tracey Maloney (Nurse)"
+      ],
+      "tramaTmdb": "Il vecchio Alvin Straight ne ha viste davvero tante, negli anni trascorsi sulla strada e in quelli passati sul prato di casa e nel drugstore dietro l'angolo. Un giorno prende il tagliaerba e parte, attraversa a passo di lumaca strade, campi di mais, cieli, il Mississippi per riconciliarsi con il fratello che non vede da troppo tempo.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Una storia vera|335|David Lynch"
+    },
+    {
+      "id": "tmdb-1538",
+      "tmdbId": 1538,
+      "imdbId": "tt0369339",
+      "origine": "scoperta",
+      "titolo": "Collateral",
+      "titoloOriginale": "Collateral",
+      "anno": "2004",
+      "uscitaItalia": "2004-10-15",
+      "regia": "Michael Mann",
+      "generi": [
+        "Dramma",
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 130,
-      "tagline": "Tratto da un'amicizia vera",
+      "durata": 120,
+      "tagline": "Cominciò come una notte qualsiasi",
       "cast": [
-        "Viggo Mortensen (Tony Lip)",
-        "Mahershala Ali (Dr. Don Shirley)",
-        "Linda Cardellini (Dolores)",
-        "Sebastian Maniscalco (Johnny Venere)",
-        "Dimiter D. Marinov (Oleg)",
-        "Mike Hatton (George)"
+        "Tom Cruise (Vincent)",
+        "Jamie Foxx (Max Durocher)",
+        "Jada Pinkett Smith (Annie Farrell)",
+        "Mark Ruffalo (Det. Ray Fanning)",
+        "Peter Berg (Richard Weidner)",
+        "Javier Bardem (Felix Reyes-Torrena)"
       ],
-      "tramaTmdb": "Nel 1962, dopo la chiusura di uno dei migliori club di New York in cui lavorava, il buttafuori italoamericano Tony Lip deve a tutti i costi trovare un lavoro per mantenere la sua famiglia. Accetta di lavorare per il pianista afroamericano Don Shirley e decide di seguirlo in tour nel sud degli Stati Uniti. Nonostante le differenze e gli iniziali contrasti, tra i due si instaurerà una forte amicizia.",
+      "tramaTmdb": "Los Angeles, atmosfera sincopata. Max, tassista modello, compie una corsa con un procuratore donna che avrebbe dovuto discutere un caso in tribunale la mattina successiva. Immediatamente dopo, un nuovo cliente, Vincent, che gli fa una proposta allettante, accompagnarlo per l'intera notte in cambio di 700 dollari. Max si fa convincere, senza sapere che da quel momento avrebbe iniziato un viaggio allucinante. Vincent è infatti un killer di professione che deve regolare i conti con cinque persone, una delle quali, a sua insaputa, sta a cuore al conducente di taxi.",
+      "motivi": [
+        "c'è Javier Bardem, che hai visto 3 volte",
+        "c'è Javier Bardem, che hai visto 3 volte"
+      ],
+      "impronta": "Collateral|567|Michael Mann"
+    },
+    {
+      "id": "tmdb-391713",
+      "tmdbId": 391713,
+      "imdbId": "tt4925292",
+      "origine": "scoperta",
+      "titolo": "Lady Bird",
+      "titoloOriginale": "Lady Bird",
+      "anno": "2018",
+      "uscitaItalia": "2018-03-01",
+      "regia": "Greta Gerwig",
+      "generi": [
+        "Dramma",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 93,
+      "tagline": "Vola via.",
+      "cast": [
+        "Saoirse Ronan (Lady Bird McPherson)",
+        "Laurie Metcalf (Marion McPherson)",
+        "Tracy Letts (Larry McPherson)",
+        "Lucas Hedges (Danny O'Neill)",
+        "Timothée Chalamet (Kyle Sheible)",
+        "Beanie Feldstein (Julie Steffans)"
+      ],
+      "tramaTmdb": "Christine \"Lady Bird\" McPherson combatte, ma è esattamente come sua madre: selvaggia, profondamente supponente e determinata, un’infermiera che lavora instancabilmente per mantenere a galla la sua famiglia dopo che il padre di Lady Bird perde il lavoro. Ambientato a Sacramento, California nel 2002, in un panorama economico americano che cambia rapidamente, Lady Bird è uno sguardo commovente sulle relazioni che ci formano, le credenze che ci definiscono e l’ineguagliabile bellezza di un luogo chiamato casa.",
+      "motivi": [
+        "regia di Greta Gerwig, di cui hai visto un film",
+        "c'è Timothée Chalamet, che hai visto 4 volte",
+        "c'è Timothée Chalamet, che hai visto 4 volte"
+      ],
+      "impronta": "Lady Bird|511|Greta Gerwig"
+    },
+    {
+      "id": "tmdb-1018",
+      "tmdbId": 1018,
+      "imdbId": "tt0166924",
+      "origine": "scoperta",
+      "titolo": "Mulholland Drive",
+      "titoloOriginale": "Mulholland Drive",
+      "anno": "2002",
+      "uscitaItalia": "2002-02-15",
+      "regia": "David Lynch",
+      "generi": [
+        "Thriller",
+        "Dramma",
+        "Mistero"
+      ],
+      "paesi": [
+        "Francia",
+        "USA"
+      ],
+      "durata": 145,
+      "tagline": "Un'attrice che desidera essere una star. Una donna che cerca se stessa. Entrambi i mondi si scontreranno... su Mulholland Drive.",
+      "cast": [
+        "Naomi Watts (Betty Elms / Diane Selwyn)",
+        "Laura Harring (Rita / Camilla Rhodes)",
+        "Justin Theroux (Adam)",
+        "Ann Miller (Coco)",
+        "Mark Pellegrino (Joe)",
+        "Robert Forster (Detective McKnight)"
+      ],
+      "tramaTmdb": "In tarda notte, una limousine percorre Mulholland Drive (una strada che attraversa le colline attorno a Los Angeles, California); al suo interno c'è una donna dai capelli scuri (interpretata da Laura Elena Harring) e due uomini; improvvisamente, l'auto si ferma ed uno dei due uomini punta una pistola contro la donna; subito dopo, però, dei pirati della strada si schiantano contro la limousine. La donna resta miracolosamente illesa, ma ha un'amnesia. Abbandona la scena dell'incidente e scende la collina che porta a Los Angeles, stendendosi nel giardino di un appartamento e mettendosi a dormire.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Mulholland Drive|600|David Lynch"
+    },
+    {
+      "id": "tmdb-680",
+      "tmdbId": 680,
+      "imdbId": "tt0110912",
+      "origine": "scoperta",
+      "titolo": "Pulp Fiction",
+      "titoloOriginale": "Pulp Fiction",
+      "anno": "1994",
+      "uscitaItalia": "1994-10-28",
+      "regia": "Quentin Tarantino",
+      "generi": [
+        "Thriller",
+        "Crime",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 154,
+      "tagline": "Le ragazze come me non invitano in questo modo a chiunque!",
+      "cast": [
+        "John Travolta (Vincent Vega)",
+        "Samuel L. Jackson (Jules Winnfield)",
+        "Uma Thurman (Mia Wallace)",
+        "Bruce Willis (Butch Coolidge)",
+        "Ving Rhames (Marsellus Wallace)",
+        "Harvey Keitel (The Wolf)"
+      ],
+      "tramaTmdb": "Le vite di due gangster, di un pugile e della moglie di un potente boss della malavita finiscono per intrecciarsi in una paradossale storia di violenza, vendetta e redenzione.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Green Book|401|Peter Farrelly"
+      "impronta": "Pulp Fiction|175|Quentin Tarantino"
     },
     {
-      "id": "tmdb-59967",
-      "tmdbId": 59967,
-      "imdbId": "tt1276104",
+      "id": "tmdb-374720",
+      "tmdbId": 374720,
+      "imdbId": "tt5013056",
       "origine": "scoperta",
-      "titolo": "Looper - In fuga dal passato",
-      "titoloOriginale": "Looper",
-      "anno": "2013",
-      "uscitaItalia": "2013-01-31",
-      "regia": "Rian Johnson",
-      "generi": [
-        "Azione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 119,
-      "tagline": "Affronta il passato, cambia il futuro.",
-      "cast": [
-        "Joseph Gordon-Levitt (Joe)",
-        "Bruce Willis (Old Joe)",
-        "Emily Blunt (Sara)",
-        "Paul Dano (Seth)",
-        "Noah Segan (Kid Blue)",
-        "Piper Perabo (Suzie)"
-      ],
-      "tramaTmdb": "Kansas 2044. Il viaggio nel tempo non è ancora stato inventato ma trent'anni più avanti è divenuto una realtà di cui però è vietato l'utilizzo. Ovviamente il crimine non si occupa dei divieti e ne fa un uso molto specifico. Un'organizzazione guidata da un capo spietato 'trasferisce' le proprie vittime trent'anni indietro dove un killer (detto 'looper' traducibile in 'uomo che si occupa del cerchio') lo attende per eliminarlo e farne sparire il cadavere. Joe è un looper che risparmia ciò che guadagna in questo mestiere per alimentare il sogno di potersi trasferire in Francia. Ma dal futuro è in",
-      "motivi": [
-        "c'è Emily Blunt, che hai visto 3 volte",
-        "c'è Emily Blunt, che hai visto 3 volte"
-      ],
-      "impronta": "Looper - In fuga dal passato|600|Rian Johnson"
-    },
-    {
-      "id": "tmdb-315162",
-      "tmdbId": 315162,
-      "imdbId": "tt3915174",
-      "origine": "scoperta",
-      "titolo": "Il gatto con gli stivali 2 - L'ultimo desiderio",
-      "titoloOriginale": "Puss in Boots: The Last Wish",
-      "anno": "2022",
-      "uscitaItalia": "2022-12-07",
-      "regia": "Joel Crawford",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy",
-        "Commedia",
-        "Famiglia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 100,
-      "tagline": "Dite hola ai suoi compagni d'avventura",
-      "cast": [
-        "Antonio Banderas (Puss in Boots (voice))",
-        "Salma Hayek Pinault (Kitty Softpaws (voice))",
-        "Harvey Guillén (Perrito (voice))",
-        "Wagner Moura (Wolf (voice))",
-        "Florence Pugh (Goldilocks (voice))",
-        "Olivia Colman (Mama Bear (voice))"
-      ],
-      "tramaTmdb": "Il Gatto con gli Stivali scopre che la sua passione per l'avventura è stata pagata a caro prezzo: ben otto delle sue nove vite sono andate bruciate.  Dovrà così intraprendere una nuova epica avventura alla ricerca del mitico Ultimo Desiderio, che gli permetterà di recuperare le sue nove vite.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Il gatto con gli stivali 2 - L'ultimo desiderio|293|Joel Crawford"
-    },
-    {
-      "id": "tmdb-679",
-      "tmdbId": 679,
-      "imdbId": "tt0090605",
-      "origine": "scoperta",
-      "titolo": "Aliens - Scontro finale",
-      "titoloOriginale": "Aliens",
-      "anno": "1986",
-      "uscitaItalia": "1986-09-24",
-      "regia": "James Cameron",
-      "generi": [
-        "Azione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 137,
-      "tagline": "Questa volta è guerra!",
-      "cast": [
-        "Sigourney Weaver (Ripley)",
-        "Carrie Henn (Newt)",
-        "Michael Biehn (Corporal Hicks)",
-        "Paul Reiser (Burke)",
-        "Lance Henriksen (Bishop)",
-        "Bill Paxton (Private Hudson)"
-      ],
-      "tramaTmdb": "Ellen Ripley, l'unica sopravvissuta all'incontro mortale della Nostromo con il mostruoso alieno, torna sulla Terra dopo aver vagato nello spazio in ipersonno per 57 anni. Sebbene la sua storia venga inizialmente accolta con scetticismo, accetta di accompagnare una squadra di Marines coloniali a LV-426.",
-      "motivi": [
-        "regia di James Cameron, di cui hai visto 2 film",
-        "c'è Sigourney Weaver, che hai visto 2 volte",
-        "regia di James Cameron, che segui"
-      ],
-      "impronta": "Aliens - Scontro finale|303|James Cameron"
-    },
-    {
-      "id": "tmdb-49026",
-      "tmdbId": 49026,
-      "imdbId": "tt1345836",
-      "origine": "scoperta",
-      "titolo": "Il cavaliere oscuro - Il ritorno",
-      "titoloOriginale": "The Dark Knight Rises",
-      "anno": "2012",
-      "uscitaItalia": "2012-08-29",
+      "titolo": "Dunkirk",
+      "titoloOriginale": "Dunkirk",
+      "anno": "2017",
+      "uscitaItalia": "2017-08-31",
       "regia": "Christopher Nolan",
       "generi": [
+        "Guerra",
         "Azione",
-        "Crime",
-        "Dramma",
-        "Thriller"
+        "Dramma"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 165,
-      "tagline": "Il fuoco divamperà",
+      "durata": 106,
+      "tagline": "L'evento che ha cambiato il destino del mondo",
       "cast": [
-        "Christian Bale (Bruce Wayne)",
-        "Gary Oldman (Commissioner Gordon)",
-        "Tom Hardy (Bane)",
-        "Joseph Gordon-Levitt (Blake)",
-        "Anne Hathaway (Selina)",
-        "Marion Cotillard (Miranda)"
+        "Fionn Whitehead (Tommy)",
+        "Tom Hardy (Farrier)",
+        "Mark Rylance (Mr. Dawson)",
+        "Kenneth Branagh (Commander Bolton)",
+        "Cillian Murphy (Shivering Soldier)",
+        "Barry Keoghan (George)"
       ],
-      "tramaTmdb": "Sono passati otto anni da quando Batman è svanito nella notte, trasformandosi in un istante da eroe a fuggitivo. Prendendosi la colpa della morte del procuratore Harvey Dent, il Cavaliere oscuro ha sacrificato tutto per ciò che lui e il Commissario Gordon speravano fosse un bene superiore. Per un po’ di tempo la bugia ha funzionato e l’attività criminale di Gotham City è stata schiacciata dal peso della legge anti-criminale Dent Act. Ma tutto cambierà con l’arrivo di un’astuta ladra con un misterioso piano. Ma molto più pericoloso è l’arrivo di Bane, un terrorista mascherato i cui spietati pia",
+      "tramaTmdb": "Il film, ambientato durante la Seconda Guerra Mondiale, racconta la drammatica evacuazione verso la Gran Bretagna di centinaia di migliaia di soldati alleati dalla spiaggia di Dunkerque sotto la minaccia dell'esercito tedesco.",
       "motivi": [
         "regia di Christopher Nolan, di cui hai visto 2 film",
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "c'è Anne Hathaway, che hai visto 2 volte"
+        "regia di Christopher Nolan, che segui"
       ],
-      "impronta": "Il cavaliere oscuro - Il ritorno|600|Christopher Nolan"
+      "impronta": "Dunkirk|226|Christopher Nolan"
     },
     {
-      "id": "tmdb-1891",
-      "tmdbId": 1891,
-      "imdbId": "tt0080684",
+      "id": "tmdb-1228710",
+      "tmdbId": 1228710,
+      "imdbId": "tt30825738",
       "origine": "scoperta",
-      "titolo": "L'Impero colpisce ancora",
-      "titoloOriginale": "The Empire Strikes Back",
-      "anno": "1980",
-      "uscitaItalia": "1980-09-19",
-      "regia": "Irvin Kershner",
+      "titolo": "Star Wars: The Mandalorian and Grogu",
+      "titoloOriginale": "The Mandalorian and Grogu",
+      "anno": "2026",
+      "uscitaItalia": "2026-05-20",
+      "regia": "Jon Favreau",
       "generi": [
-        "Avventura",
-        "Azione",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 124,
-      "tagline": "Continua la saga di Guerre Stellari.",
-      "cast": [
-        "Mark Hamill (Luke Skywalker)",
-        "Harrison Ford (Han Solo)",
-        "Carrie Fisher (Princess Leia)",
-        "Billy Dee Williams (Lando Calrissian)",
-        "Anthony Daniels (C-3PO)",
-        "David Prowse (Darth Vader)"
-      ],
-      "tramaTmdb": "Malgrado la Morte Nera sia stata distrutta, le truppe imperiali si sono impadronite nuovamente di Yavin. I ribelli si sono rifugiati sul pianeta di ghiaccio, ma sono costretti ancora alla fuga. Ian Solo (Han Solo nome originale), la principessa Leia e il droide D3BO (C-3PO), seminano gli inseguitori, mentre Luke, assieme al fido C1P8 (R2-D2) , si reca dal maestro jedi Yoda, sul pianeta Dogabahd, per ritrovare la \"Forza\". Nel tentativo di liberare Leila e gli amici, incontra poi Darth Vader, che si rivela essere suo padre. Seconda puntata (ma in realtà è la quinta) della saga di \"Guerre stellar",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "L'Impero colpisce ancora|600|Irvin Kershner"
-    },
-    {
-      "id": "tmdb-324857",
-      "tmdbId": 324857,
-      "imdbId": "tt4633694",
-      "origine": "scoperta",
-      "titolo": "Spider-Man: Un nuovo universo",
-      "titoloOriginale": "Spider-Man: Into the Spider-Verse",
-      "anno": "2018",
-      "uscitaItalia": "2018-12-25",
-      "regia": "Bob Persichetti",
-      "generi": [
-        "Animazione",
         "Azione",
         "Avventura",
         "Fantascienza"
@@ -542,57 +576,22 @@
       "paesi": [
         "USA"
       ],
-      "durata": 117,
-      "tagline": "Piú di uno indossa la maschera",
+      "durata": 133,
+      "tagline": "Se sei in cerca di una nuova avventura, \"Questa è la via\"",
       "cast": [
-        "Shameik Moore (Miles Morales (voice))",
-        "Jake Johnson (Peter B. Parker (voice))",
-        "Hailee Steinfeld (Gwen Stacy (voice))",
-        "Mahershala Ali (Uncle Aaron (voice))",
-        "Brian Tyree Henry (Jefferson Davis (voice))",
-        "Lily Tomlin (Aunt May (voice))"
+        "Pedro Pascal (The Mandalorian)",
+        "Jeremy Allen White (Rotta (voice))",
+        "Sigourney Weaver (Colonel Ward)",
+        "Brendan Wayne (The Mandalorian Suit Performer)",
+        "Lateef Crowder (The Mandalorian Stunt Performer)",
+        "Steve Blum (Zeb Orrelios (voice))"
       ],
-      "tramaTmdb": "Miles Morales è un ragazzo afro-ispanico di New York che è appena entrato in una scuola relativamente esclusiva, dove però si sente fuori luogo. Qui infatti non conosce nessuno e suo padre, un poliziotto che detesta Spider-Man, non lo aiuta mettendolo in imbarazzo. Miles si rifugia dallo zio, che asseconda invece la sua passione da street artist, ma durante una escursione nei sotterranei di New York Miles viene morso da un ragno radioattivo. Il giorno dopo, sconvolto da sorprendenti poteri che somigliano a quelli di Spider-Man, torna a cercare il ragno e finisce per assistere a uno scontro tra",
+      "tramaTmdb": "L’Impero è caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ciò per cui l’Alleanza Ribelle ha combattuto, ha arruolato l’aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu.",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "c'è Sigourney Weaver, che hai visto 2 volte",
+        "se ne parla adesso"
       ],
-      "impronta": "Spider-Man: Un nuovo universo|600|Bob Persichetti"
-    },
-    {
-      "id": "tmdb-181886",
-      "tmdbId": 181886,
-      "imdbId": "tt2316411",
-      "origine": "scoperta",
-      "titolo": "Enemy",
-      "titoloOriginale": "Enemy",
-      "anno": "2014",
-      "uscitaItalia": "2014-03-14",
-      "regia": "Denis Villeneuve",
-      "generi": [
-        "Thriller",
-        "Mistero"
-      ],
-      "paesi": [
-        "Canada",
-        "Francia",
-        "Spagna"
-      ],
-      "durata": 91,
-      "tagline": "Non puoi sfuggire a te stesso!",
-      "cast": [
-        "Jake Gyllenhaal (Adam / Anthony)",
-        "Mélanie Laurent (Mary)",
-        "Sarah Gadon (Helen)",
-        "Isabella Rossellini (Mother)",
-        "Joshua Peace (Teacher at School)",
-        "Tim Post (Anthony's Concierge)"
-      ],
-      "tramaTmdb": "Jake Gyllenhaal è un insegnante di storia depresso che un giorno scopre all'interno di un film la presenza di un attore totalmente identico a se stesso, così com'era cinque anni prima. Parte quindi alla ricerca dell'uomo misterioso.",
-      "motivi": [
-        "regia di Denis Villeneuve, di cui hai visto 3 film",
-        "regia di Denis Villeneuve, che segui"
-      ],
-      "impronta": "Enemy|232|Denis Villeneuve"
+      "impronta": "Star Wars: The Mandalorian and Grogu|315|Jon Favreau"
     }
   ]
 }

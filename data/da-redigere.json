@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-22T05:06:57.902Z",
+  "preparato": "2026-09-23T05:06:11.254Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,36 +79,39 @@
   },
   "film": [
     {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
+      "id": "tmdb-1022787",
+      "tmdbId": 1022787,
+      "imdbId": "tt4900148",
+      "titolo": "Elio",
       "titoloOriginale": null,
       "anno": "2025",
-      "uscitaItalia": "2025-05-15",
+      "uscitaItalia": "2025-06-18",
       "lista": "casa",
-      "regia": "Adam Stein",
+      "regia": "Domee Shi",
       "generi": [
-        "Horror",
-        "Mistero"
+        "Animazione",
+        "Avventura",
+        "Fantascienza",
+        "Famiglia",
+        "Commedia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
+      "durata": 98,
+      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
       "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
+        "Yonas Kibreab (Elio / Other Elio (voice))",
+        "Remy Edgerly (Glordon (voice))",
+        "Zoe Saldaña (Olga Solís (voice))",
+        "Brad Garrett (Lord Grigon (voice))",
+        "Brandon Moon (Ambassador Helix (voice))",
+        "Jameela Jamil (Ambassador Questa (voice))",
+        "Young Dylan (Bryce (voice))",
+        "Jake T. Getman (Caleb (voice))"
       ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
+      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
+      "impronta": "Elio|287|Domee Shi"
     }
   ]
 }
