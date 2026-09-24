@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-23T05:06:11.254Z",
+  "preparato": "2026-09-24T05:05:53.560Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -87,7 +87,7 @@
       "anno": "2025",
       "uscitaItalia": "2025-06-18",
       "lista": "casa",
-      "regia": "Domee Shi",
+      "regia": "Madeline Sharafian",
       "generi": [
         "Animazione",
         "Avventura",
@@ -111,7 +111,43 @@
         "Jake T. Getman (Caleb (voice))"
       ],
       "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Domee Shi"
+      "impronta": "Elio|287|Madeline Sharafian"
+    },
+    {
+      "id": "tmdb-502356",
+      "tmdbId": 502356,
+      "imdbId": "tt6718170",
+      "titolo": "Super Mario Bros. Il Film",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-04-05",
+      "lista": "visto",
+      "regia": "Michael Jelenic",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 92,
+      "tagline": "Not all heroes wear capes. Some wear overalls.",
+      "cast": [
+        "Chris Pratt (Mario (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Seth Rogen (Donkey Kong (voice))",
+        "Fred Armisen (Cranky Kong (voice))",
+        "Sebastian Maniscalco (Spike (voice))"
+      ],
+      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
+      "impronta": "Super Mario Bros. Il Film|258|Michael Jelenic"
     }
   ]
 }
