@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-24T05:05:55.227Z",
+  "preparato": "2026-09-25T05:06:16.500Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -169,47 +169,13 @@
       "cast": [
         "Brad Pitt (James Belmont)",
         "J.K. Simmons (Walter Boone)",
-        "Anna Lambe"
+        "Anna Lambe (Amber)"
       ],
       "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
       "motivi": [
         "avventura e thriller: il tuo terreno"
       ],
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
-    },
-    {
-      "id": "tmdb-1288069",
-      "tmdbId": 1288069,
-      "imdbId": "tt6262770",
-      "origine": "trailer",
-      "titolo": "Tenzing",
-      "titoloOriginale": "Tenzing",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-09",
-      "regia": "Jennifer Peedom",
-      "generi": [
-        "Dramma",
-        "Storia"
-      ],
-      "paesi": [
-        "Australia",
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 126,
-      "tagline": null,
-      "cast": [
-        "更登彭措 (Tenzing Norgay)",
-        "Tom Hiddleston (Sir Edmund Hillary)",
-        "Willem Dafoe (Colonel John Hunt)",
-        "Caitríona Balfe (Jill Henderson)",
-        "Thinley Lhamo (Dawa Norgay)"
-      ],
-      "tramaTmdb": "Un uomo molto determinato intraprende un’impresa ad alto rischio, sfidando ostacoli apparentemente insormontabili, per realizzare il suo sogno: essere il primo a raggiungere la vetta del Monte Everest.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Tenzing|201|Jennifer Peedom"
     },
     {
       "id": "tmdb-1375441",
@@ -244,6 +210,36 @@
         "dramma e thriller: il tuo terreno"
       ],
       "impronta": "Primetime|523|Lance Oppenheim"
+    },
+    {
+      "id": "tmdb-1765072",
+      "tmdbId": 1765072,
+      "imdbId": "tt45368240",
+      "origine": "trailer",
+      "titolo": "You Can See Everything",
+      "titoloOriginale": "You Can See Everything",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-16",
+      "regia": "Nathan Fielder",
+      "generi": [
+        "Documentario"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 174,
+      "tagline": null,
+      "cast": [
+        "Elizabeth Holmes (Self)",
+        "Nathan Fielder (Self)",
+        "Billy Evans (Self)",
+        "Amanda Seyfried (Self / Elizabeth Holmes)",
+        "Christopher Abbott (Self)",
+        "William Holmes Evans (Self)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [],
+      "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
       "id": "tmdb-1477170",
@@ -312,352 +308,349 @@
       "impronta": "Frankie e le creature dimenticate|600|Steve Hudson"
     },
     {
-      "id": "tmdb-75612",
-      "tmdbId": 75612,
-      "imdbId": "tt1483013",
+      "id": "tmdb-381283",
+      "tmdbId": 381283,
+      "imdbId": "tt5109784",
       "origine": "scoperta",
-      "titolo": "Oblivion",
-      "titoloOriginale": "Oblivion",
-      "anno": "2013",
-      "uscitaItalia": "2013-04-11",
-      "regia": "Joseph Kosinski",
+      "titolo": "Madre!",
+      "titoloOriginale": "mother!",
+      "anno": "2017",
+      "uscitaItalia": "2017-09-28",
+      "regia": "Darren Aronofsky",
       "generi": [
-        "Azione",
-        "Fantascienza",
-        "Avventura",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito",
-        "Giappone"
-      ],
-      "durata": 124,
-      "tagline": "La terra è un ricordo per cui vale la pena combattere",
-      "cast": [
-        "Tom Cruise (Jack)",
-        "Morgan Freeman (Beech)",
-        "Olga Kurylenko (Julia)",
-        "Andrea Riseborough (Victoria)",
-        "Nikolaj Coster-Waldau (Sykes)",
-        "Melissa Leo (Sally)"
-      ],
-      "tramaTmdb": "Nella seconda metà degli anni 2000 la Terra è stata devastata da una guerra nucleare che gli umani hanno combattuto e vinto contro gli invasori alieni. La Luna è stata distrutta e questo ha causato terremoti, tsunami e diversi sconvolgimenti che hanno reso il pianeta una landa desolata in cui è possibile solo scorgere qualche rovina di quel che è stato.  In seguito alla devastazione l'umanità è in esodo su Titano mentre sul nostro mondo gli ultimi impiegati si assicurano che i grossi macchinari che prosciugano le risorse naturali (per generare energia utile alla vita sul nuovo pianeta) non sia",
-      "motivi": [
-        "regia di Joseph Kosinski, di cui hai visto 2 film",
-        "regia di Joseph Kosinski, che segui"
-      ],
-      "impronta": "Oblivion|600|Joseph Kosinski"
-    },
-    {
-      "id": "tmdb-18491",
-      "tmdbId": 18491,
-      "imdbId": "tt0169858",
-      "origine": "scoperta",
-      "titolo": "Neon Genesis Evangelion: The End of Evangelion",
-      "titoloOriginale": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
-      "anno": "2012",
-      "uscitaItalia": "2012-06-18",
-      "regia": "Hideaki Anno",
-      "generi": [
-        "Animazione",
-        "Fantascienza",
-        "Dramma",
-        "Fantasy",
-        "Azione"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 87,
-      "tagline": null,
-      "cast": [
-        "緒方恵美 (Shinji Ikari (voice))",
-        "Megumi Hayashibara (Rei Ayanami / Yui Ikari (voice))",
-        "Kotono Mitsuishi (Misato Katsuragi (voice))",
-        "宮村優子 (Asuka Langley Soryu (voice))",
-        "Fumihiko Tachiki (Gendo Ikari (voice))",
-        "長沢美樹 (Maya Ibuki (voice))"
-      ],
-      "tramaTmdb": "NERV è stata attaccato dalla SEELE e Rei e diventa un tutt'uno con Lillith. Insieme con la Lancia di Longino e il completamento della serie EVA, Shinji deve decidere se l'umanità cesserà o meno di esistere. Lui dovrà decidere ora se vuole rimanere in vita o morire, ma la sua decisione influenzerà tutta l'umanità.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Neon Genesis Evangelion: The End of Evangelion|314|Hideaki Anno"
-    },
-    {
-      "id": "tmdb-533533",
-      "tmdbId": 533533,
-      "imdbId": "tt6604188",
-      "origine": "scoperta",
-      "titolo": "TRON: Ares",
-      "titoloOriginale": "TRON: Ares",
-      "anno": "2025",
-      "uscitaItalia": "2025-10-09",
-      "regia": "Joachim Rønning",
-      "generi": [
-        "Fantascienza",
-        "Avventura",
-        "Azione"
+        "Horror",
+        "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 119,
-      "tagline": "Senza Ritorno",
+      "durata": 115,
+      "tagline": "Ogni domanda verrà alla luce",
       "cast": [
-        "Jared Leto (Ares)",
-        "Greta Lee (Eve Kim)",
-        "Evan Peters (Julian Dillinger)",
-        "Gillian Anderson (Elisabeth Dillinger)",
-        "Jodie Turner-Smith (Athena)",
-        "Jeff Bridges (Kevin Flynn)"
+        "Jennifer Lawrence (Mother)",
+        "Javier Bardem (Him)",
+        "Ed Harris (Man)",
+        "Michelle Pfeiffer (Woman)",
+        "Brian Gleeson (Younger Brother)",
+        "Domhnall Gleeson (Oldest Son)"
       ],
-      "tramaTmdb": "Ares, un programma altamente sofisticato, viene inviato dal mondo digitale al mondo reale per una missione pericolosa, segnando il primo incontro dell'umanità con esseri dotati di intelligenza artificiale.",
+      "tramaTmdb": "Il rapporto di una coppia tra Lei e Lui è messo in discussione quando alla loro porta si presentano ospiti inattesi, un uomo e una donna, che turbano la loro tranquilla esistenza.",
       "motivi": [
-        "regia di Joseph Kosinski, che segui"
+        "regia di Darren Aronofsky, di cui hai visto un film",
+        "c'è Javier Bardem, che hai visto 3 volte",
+        "c'è Javier Bardem, che hai visto 3 volte"
       ],
-      "impronta": "TRON: Ares|205|Joachim Rønning"
+      "impronta": "Madre!|179|Darren Aronofsky"
     },
     {
-      "id": "tmdb-559",
-      "tmdbId": 559,
-      "imdbId": "tt0413300",
+      "id": "tmdb-581734",
+      "tmdbId": 581734,
+      "imdbId": "tt9770150",
       "origine": "scoperta",
-      "titolo": "Spider-Man 3",
-      "titoloOriginale": "Spider-Man 3",
-      "anno": "2007",
-      "uscitaItalia": "2007-05-01",
-      "regia": "Sam Raimi",
-      "generi": [
-        "Azione",
-        "Avventura",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 139,
-      "tagline": "Il nemico più grande si nasconde dentro di te",
-      "cast": [
-        "Tobey Maguire (Spider-Man / Peter Parker)",
-        "Kirsten Dunst (Mary Jane Watson)",
-        "James Franco (New Goblin / Harry Osborn)",
-        "Thomas Haden Church (Sandman / Flint Marko)",
-        "Topher Grace (Venom / Eddie Brock)",
-        "Bryce Dallas Howard (Gwen Stacy)"
-      ],
-      "tramaTmdb": "La vita è meravigliosa per Peter Parker: ama, ricambiato, Mary Jane Watson, è idolatrato dalla popolazione e dalla stampa, nessun cattivo sembra resistergli. Le cose cambiano quando da un meteorite caduto nei pressi di New York, emerge un parassita che si insinua nel suo costume: lo sgradito ospite ha la capacità di scavare nell'animo dell'eroe e di fargli mostrare il suo lato peggiore. Intanto, nuovi e vecchi nemici si dimostrano più pericolosi del previsto ed anche Mary Jane, delusa dal comportamento del \"nuovo\" Peter lo abbandona....Riuscirà Spiderman a sconfiggere gli avversari e riconquis",
-      "motivi": [
-        "c'è Bryce Dallas Howard, che hai visto 3 volte",
-        "c'è Bryce Dallas Howard, che hai visto 3 volte"
-      ],
-      "impronta": "Spider-Man 3|600|Sam Raimi"
-    },
-    {
-      "id": "tmdb-11474",
-      "tmdbId": 11474,
-      "imdbId": "tt0080120",
-      "origine": "scoperta",
-      "titolo": "I guerrieri della notte",
-      "titoloOriginale": "The Warriors",
-      "anno": "1979",
-      "uscitaItalia": "1979-08-30",
-      "regia": "Walter Hill",
-      "generi": [
-        "Azione",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 93,
-      "tagline": "Queste sono le armate della notte.",
-      "cast": [
-        "Michael Beck (Swan)",
-        "James Remar (Ajax)",
-        "David Patrick Kelly (Luther)",
-        "Dorsey Wright (Cleon)",
-        "David Harris (Cochise)",
-        "Deborah Van Valkenburgh (Mercy)"
-      ],
-      "tramaTmdb": "Nel Bronx, durante un raduno di tutte le gang di New York, un carismatico leader viene ucciso: la colpa ricade sui Warriors, gang poco nota di Coney Island. Comincia la caccia. Senza il loro capo, ucciso per ritorsione, gli otto Warriors disarmati devono tornare a casa attraversando la metropoli, braccati dalle altre vendicative gang e dalla polizia.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "I guerrieri della notte|352|Walter Hill"
-    },
-    {
-      "id": "tmdb-797",
-      "tmdbId": 797,
-      "imdbId": "tt0060827",
-      "origine": "scoperta",
-      "titolo": "Persona",
-      "titoloOriginale": "Persona",
-      "anno": "1967",
-      "uscitaItalia": "1967-01-05",
-      "regia": "Ingmar Bergman",
+      "titolo": "Nomadland",
+      "titoloOriginale": "Nomadland",
+      "anno": "2021",
+      "uscitaItalia": "2021-04-28",
+      "regia": "Chloé Zhao",
       "generi": [
         "Dramma"
       ],
       "paesi": [
-        "Svezia"
+        "USA"
       ],
-      "durata": 85,
+      "durata": 108,
       "tagline": null,
       "cast": [
-        "Bibi Andersson (Alma)",
-        "Liv Ullmann (Elisabet Vogler)",
-        "Margaretha Krook (The Doctor)",
-        "Gunnar Björnstrand (Herr Vogler)",
-        "Jörgen Lindström (Elisabet's Son (uncredited))",
-        "Thích Quảng Đức (Self - burning monk (archive footage))"
+        "Frances McDormand (Fern)",
+        "David Strathairn (Dave)",
+        "Linda May (Linda)",
+        "Swankie (Swankie)",
+        "Gay DeForest (Gay)",
+        "Patricia Grier (Patty)"
       ],
-      "tramaTmdb": "Alma, giovane infermiera, assiste elisabeth, un'attrice che da tempo ha scelto di non parlare. Lontane dalla clinica, le due donne si trasferiscono in una casa in riva al mare: qui la convivenza forzata incrina il rapporto di amicizia e poco a poco l'astio e le incomprensioni prendono il sopravvento, in un confronto dove l'una scoprirà di avere sempre più bisogno dell'altra.",
+      "tramaTmdb": "Empire, stato del Nevada. Nel 1988 la fabbrica presso cui Fern e suo marito Bo hanno lavorato tutta la vita ha chiuso i battenti, lasciando i dipendenti letteralmente per strada. Anche Bo se ne è andato, dopo una lunga malattia, e ora il mondo di Fern si divide fra un garage in cui sono rinchiuse tutte le cose del marito e un van che la donna ha riempito di tutto ciò che ha ancora per lei un significato materico. Vive di lavoretti saltuari poiché non ha diritto ai sussidi statali e non ha l'età per riciclarsi in un Paese in crisi, e si sposta di posteggio in posteggio, cercando di tenere insie",
       "motivi": [
-        "un classico che ti manca"
+        "regia di Chloé Zhao, di cui hai visto un film",
+        "regia di Chloé Zhao, che segui"
       ],
-      "impronta": "Persona|377|Ingmar Bergman"
+      "impronta": "Nomadland|600|Chloé Zhao"
     },
     {
-      "id": "tmdb-46195",
-      "tmdbId": 46195,
-      "imdbId": "tt1436562",
+      "id": "tmdb-209112",
+      "tmdbId": 209112,
+      "imdbId": "tt2975590",
       "origine": "scoperta",
-      "titolo": "Rio",
-      "titoloOriginale": "Rio",
-      "anno": "2011",
-      "uscitaItalia": "2011-04-15",
-      "regia": "Carlos Saldanha",
+      "titolo": "Batman v Superman: Dawn of Justice",
+      "titoloOriginale": "Batman v Superman: Dawn of Justice",
+      "anno": "2016",
+      "uscitaItalia": "2016-03-23",
+      "regia": "Zack Snyder",
       "generi": [
-        "Animazione",
+        "Azione",
         "Avventura",
-        "Commedia",
-        "Famiglia"
+        "Fantasy"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 96,
-      "tagline": "Lui visiterà il luogo più suggestivo e magico del pianeta... casa sua.",
+      "durata": 151,
+      "tagline": "Giustizia o vendetta?",
       "cast": [
-        "Jesse Eisenberg (Blu (voice))",
-        "Anne Hathaway (Jewel (voice))",
-        "Leslie Mann (Linda (voice))",
-        "Jane Lynch (Alice / Goose (voice))",
-        "will.i.am (Pedro (voice))",
-        "George López (Rafael (voice))"
+        "Ben Affleck (Bruce Wayne / Batman)",
+        "Henry Cavill (Clark Kent / Superman)",
+        "Jesse Eisenberg (Lex Luthor)",
+        "Gal Gadot (Diana Prince / Wonder Woman)",
+        "Amy Adams (Lois)",
+        "Diane Lane (Martha Kent)"
       ],
-      "tramaTmdb": "Blu è un ara macao strappato in fasce alla giungla brasiliana. Trasferito nel freddo inverno del Minnesota in seguito a un incidente, viene adottato da Linda, fanciulla appassionata di libri e della vita sedentaria. Addomesticato e cresciuto a cioccolata e biscotti, Blu è un pappagallo colto che sperimenta la vita tra quattro mura. Incapace di volare a causa della cattività, compensa la deficienza con l'ingegno e la fantasia. Raggiunta da Tullio, un ornitologo entusiasta, Linda scopre di essere la proprietaria dell'unico esemplare maschio della specie e di avere l'obbligo morale di concedere c",
+      "tramaTmdb": "Temendo le azioni di un supereroe che è quasi un dio e che è rimasto troppo a lungo incontrollato, il formidabile e poderoso vigilante di Gotham City affronta il riverito e contemporaneo salvatore di Metropolis, mentre il mondo cerca di capire di quale tipo di eroe abbia realmente bisogno. E mentre Batman e Superman sono in guerra l'uno con l'altro, una nuova minaccia emerge rapidamente, mettendo tutta l'umanità in un pericolo più grande di qualsiasi altro abbia conosciuto fino a quel momento.",
       "motivi": [
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "c'è Anne Hathaway, che hai visto 2 volte"
+        "regia di Christopher Nolan, che segui"
       ],
-      "impronta": "Rio|600|Carlos Saldanha"
+      "impronta": "Batman v Superman: Dawn of Justice|498|Zack Snyder"
     },
     {
-      "id": "tmdb-460458",
-      "tmdbId": 460458,
-      "imdbId": "tt6920084",
+      "id": "tmdb-497",
+      "tmdbId": 497,
+      "imdbId": "tt0120689",
       "origine": "scoperta",
-      "titolo": "Resident Evil: Welcome to Raccoon City",
-      "titoloOriginale": "Resident Evil: Welcome to Raccoon City",
-      "anno": "2021",
-      "uscitaItalia": "2021-11-25",
-      "regia": "Johannes Roberts",
+      "titolo": "Il miglio verde",
+      "titoloOriginale": "The Green Mile",
+      "anno": "2000",
+      "uscitaItalia": "2000-03-10",
+      "regia": "Frank Darabont",
       "generi": [
-        "Azione",
-        "Horror",
-        "Fantascienza"
+        "Fantasy",
+        "Dramma",
+        "Crime"
       ],
       "paesi": [
-        "Germania",
-        "USA",
-        "Canada"
+        "USA"
       ],
-      "durata": 107,
-      "tagline": "Scoprite l'origine del male",
+      "durata": 188,
+      "tagline": "Paul Edgecomb non credeva ai miracoli... fino al giorno in cui ne ha incontrato uno.",
       "cast": [
-        "Kaya Scodelario (Claire Redfield)",
-        "Hannah John-Kamen (Jill Valentine)",
-        "Robbie Amell (Chris Redfield)",
-        "Tom Hopper (Albert Wesker)",
-        "Avan Jogia (Leon Kennedy)",
-        "Donal Logue (Chief Irons)"
+        "Tom Hanks (Paul Edgecomb)",
+        "David Morse (Brutus 'Brutal' Howell)",
+        "Bonnie Hunt (Jan Edgecomb)",
+        "Michael Clarke Duncan (John Coffey)",
+        "James Cromwell (Warden Hal Moores)",
+        "Michael Jeter (Eduard Delacroix)"
       ],
-      "tramaTmdb": "Un tempo fiorente casa del colosso farmaceutico Umbrella Corporation, Raccoon City, è ora una morente città del Midwest americano. L’esodo della compagnia ha trasformato la città in una landa desolata… dove un enorme male cova sotto alla superficie. E quando questo male si scatena, i cittadini cambiano… per sempre. E un piccolo manipolo di sopravvissuti dovrà lavorare insieme per smascherare la verità dietro la Umbrella e riuscire a sopravvivere alla nottata.",
+      "tramaTmdb": "E' il racconto che Paul Edgecomb fa all'amica Elaine Connelly in una casa di riposo. Sono passati circa sessanta anni da quando lavorava come capo delle guardie del braccio della morte nel penitenziario di Could Mountain. Durante la grande depressione, nel carcere del sud degli Usa, Edgecomb si occupava di quattro assassini che attendevano di compiere la loro ultima passeggiata lungo il 'Miglio verde', il corridoio rivestito di linoleum verde che li avrebbe condotti nella stanza della sedia elettrica. Fra questi c'era anche John Coffrey, un ragazzone nero condannato per l'omicidio di due gemel",
       "motivi": [
-        "se ne parla adesso"
+        "un classico che ti manca"
       ],
-      "impronta": "Resident Evil: Welcome to Raccoon City|463|Johannes Roberts"
+      "impronta": "Il miglio verde|600|Frank Darabont"
     },
     {
-      "id": "tmdb-600",
-      "tmdbId": 600,
-      "imdbId": "tt0093058",
+      "id": "tmdb-272",
+      "tmdbId": 272,
+      "imdbId": "tt0372784",
       "origine": "scoperta",
-      "titolo": "Full Metal Jacket",
-      "titoloOriginale": "Full Metal Jacket",
-      "anno": "1987",
-      "uscitaItalia": "1987-10-05",
-      "regia": "Stanley Kubrick",
+      "titolo": "Batman Begins",
+      "titoloOriginale": "Batman Begins",
+      "anno": "2005",
+      "uscitaItalia": "2005-06-17",
+      "regia": "Christopher Nolan",
+      "generi": [
+        "Dramma",
+        "Crime",
+        "Azione"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 140,
+      "tagline": "Il male teme il cavaliere.",
+      "cast": [
+        "Christian Bale (Bruce Wayne / Batman)",
+        "Michael Caine (Alfred)",
+        "Liam Neeson (Ducard)",
+        "Katie Holmes (Rachel Dawes)",
+        "Gary Oldman (Jim Gordon)",
+        "Cillian Murphy (Dr. Jonathan Crane)"
+      ],
+      "tramaTmdb": "Bruce Wayne, figlio di un illuminato filantropo di Gotham City, vede i suoi genitori assassinati da un rapinatore. Incapace di liberarsi del senso di colpa, inizia un vagabondaggio che lo porta fin sulle vette dell'Himalaya, dove Ra's Al Ghul e il suo fido Ducard lo iniziano alla lotta contro il male. Wayne è deciso a servire la giustizia, e una volta tornato a Gotham trova in Falcone, potente trafficante di droga, e in Crane, altrettanto corrotto psichiatra, due acerrimi nemici, dietro ai quali però pare celarsi qualcuno di ancor più potente. L'unico modo per combatterli è diventare Batman, u",
+      "motivi": [
+        "regia di Christopher Nolan, di cui hai visto 2 film",
+        "regia di Christopher Nolan, che segui"
+      ],
+      "impronta": "Batman Begins|600|Christopher Nolan"
+    },
+    {
+      "id": "tmdb-19404",
+      "tmdbId": 19404,
+      "imdbId": "tt0112870",
+      "origine": "scoperta",
+      "titolo": "Il coraggioso prenderà la sposa",
+      "titoloOriginale": "दिलवाले दुल्हनिया ले जायेंगे",
+      "anno": "1995",
+      "uscitaItalia": "1995-10-20",
+      "regia": "Aditya Chopra",
+      "generi": [
+        "Commedia",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "India"
+      ],
+      "durata": 190,
+      "tagline": null,
+      "cast": [
+        "काजोल (Simran Singh)",
+        "शाहरुख़ ख़ान (Raj Malhotra)",
+        "Amrish Puri (Chaudhry Baldev Singh)",
+        "Farida Jalal (Lajwanti 'Lajjo' Singh)",
+        "Anupam Kher (Dharamvir Malhotra)",
+        "Pooja Ruparel (Rajeshwari \"Chutki\" Singh)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il coraggioso prenderà la sposa|0|Aditya Chopra"
+    },
+    {
+      "id": "tmdb-539",
+      "tmdbId": 539,
+      "imdbId": "tt0054215",
+      "origine": "scoperta",
+      "titolo": "Psyco",
+      "titoloOriginale": "Psycho",
+      "anno": "1960",
+      "uscitaItalia": "1960-10-28",
+      "regia": "Alfred Hitchcock",
+      "generi": [
+        "Horror",
+        "Thriller",
+        "Mistero"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 109,
+      "tagline": "Il migliore amico di un ragazzo è sua madre.",
+      "cast": [
+        "Anthony Perkins (Norman Bates)",
+        "Janet Leigh (Marion Crane)",
+        "Vera Miles (Lila Crane)",
+        "John Gavin (Sam Loomis)",
+        "Martin Balsam (Milton Arbogast)",
+        "John McIntire (Al Chambers)"
+      ],
+      "tramaTmdb": "Marion Crane, impiegata in una società immobiliare, scappa con 40.000$ rubati dalle casse della ditta. Durante la fuga verso casa del fidanzato però, decide di fermarsi nel Motel gestito dal giovane Norman Bates e dalla madre, che però vive rintanata nella casa attigua al Motel stesso.  Il capolavoro di Alfred Hitchcock.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Psyco|322|Alfred Hitchcock"
+    },
+    {
+      "id": "tmdb-567",
+      "tmdbId": 567,
+      "imdbId": "tt0047396",
+      "origine": "scoperta",
+      "titolo": "La finestra sul cortile",
+      "titoloOriginale": "Rear Window",
+      "anno": "1955",
+      "uscitaItalia": "1955-04-14",
+      "regia": "Alfred Hitchcock",
+      "generi": [
+        "Thriller",
+        "Mistero",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 112,
+      "tagline": "Basta un testimone per rovinare il delitto perfetto",
+      "cast": [
+        "James Stewart (L.B. Jefferies)",
+        "Grace Kelly (Lisa Fremont)",
+        "Wendell Corey (Thomas Doyle)",
+        "Thelma Ritter (Stella)",
+        "Raymond Burr (Lars Thorwald)",
+        "Judith Evelyn (Miss Lonelyhearts)"
+      ],
+      "tramaTmdb": "Costretto sulla sedia a rotelle da un incidente sul lavoro che gli ha procurato la frattura della gamba sinistra, un fotoreporter d'azione passa il tempo spiando col teleobiettivo i suoi vicini di casa, e con l'aiuto della fidanzata e dell'infermiera scopre che é stato commesso un omicidio...",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "La finestra sul cortile|293|Alfred Hitchcock"
+    },
+    {
+      "id": "tmdb-424",
+      "tmdbId": 424,
+      "imdbId": "tt0108052",
+      "origine": "scoperta",
+      "titolo": "Schindler's List",
+      "titoloOriginale": "Schindler's List",
+      "anno": "1994",
+      "uscitaItalia": "1994-03-11",
+      "regia": "Steven Spielberg",
+      "generi": [
+        "Dramma",
+        "Storia",
+        "Guerra"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 195,
+      "tagline": "Chiunque salva una vita salva il mondo intero.",
+      "cast": [
+        "Liam Neeson (Oskar Schindler)",
+        "Ben Kingsley (Itzhak Stern)",
+        "Ralph Fiennes (Amon Goeth)",
+        "Caroline Goodall (Emilie Schindler)",
+        "Jonathan Sagall (Poldek Pfefferberg)",
+        "Embeth Davidtz (Helen Hirsch)"
+      ],
+      "tramaTmdb": "Tratto dal libro di Thomas Keneally è la vera storia di Oscar Schindler, industriale tedesco, che nel 1938 capisce che è bene legarsi ai comandanti militari. Li frequenta nei locali notturni, offre bottiglie preziose. Quando gli ebrei sono relegati nel ghetto di Cracovia Schindler riesce a farsene assegnare alcune centinaia come operai in una fabbrica di pentole. All'inizio sembra sfruttarli, in realtà li salva. Di fronte alla persecuzione tremenda, il tedesco trasforma quella sua prima iniziativa in una vera missione, fino a comprare letteralmente le vite di quasi milleduecento ebrei (la famo",
+      "motivi": [
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "c'è Ralph Fiennes, che hai visto 2 volte",
+        "un classico che ti manca"
+      ],
+      "impronta": "Schindler's List|600|Steven Spielberg"
+    },
+    {
+      "id": "tmdb-423",
+      "tmdbId": 423,
+      "imdbId": "tt0253474",
+      "origine": "scoperta",
+      "titolo": "Il pianista",
+      "titoloOriginale": "The Pianist",
+      "anno": "2002",
+      "uscitaItalia": "2002-10-25",
+      "regia": "Roman Polanski",
       "generi": [
         "Dramma",
         "Guerra"
       ],
       "paesi": [
-        "Regno Unito",
-        "USA"
+        "Francia",
+        "Germania",
+        "Polonia"
       ],
-      "durata": 115,
-      "tagline": "Una pagina epica della guerra del Vietnam.",
+      "durata": 150,
+      "tagline": "La musica era la sua passione. La sopravvivenza era il suo capolavoro.",
       "cast": [
-        "Matthew Modine (Pvt. Joker)",
-        "Adam Baldwin (Animal Mother)",
-        "Vincent D'Onofrio (Pvt. Pyle)",
-        "R. Lee Ermey (Gny. Sgt. Hartman)",
-        "Dorian Harewood (Eightball)",
-        "Kevyn Major Howard (Rafterman)"
+        "Adrien Brody (Władysław 'Władek' Szpilman)",
+        "Thomas Kretschmann (Captain Wilm Hosenfeld)",
+        "Frank Finlay (Father)",
+        "Maureen Lipman (Mother)",
+        "Emilia Fox (Dorota)",
+        "Ed Stoppard (Henryk Szpilman)"
       ],
-      "tramaTmdb": "In un campo di addestramento dei Marines nel South Carolina diciassette giovani civili vengono trasformati in macchine da guerra e di morte. Partito per il Vietnam, uno dei diciassette lavora per un giornale militare e si trova coinvolto nell'offensiva del Tet.",
+      "tramaTmdb": "È la storia di Wladyslaw Szpilman, pianista ebreo polacco, attraverso la Seconda Guerra Mondiale, dall’occupazione di Varsavia all’arrivo dell’Armata Rossa. Il film è diviso in due parti: la prima è incentrata sulla famiglia Szpilman, dall’iniziale mix di stupore e indignazione per le leggi razziali alla reclusione nel ghetto, infine alla deportazione; col treno che parte, e Wladyslaw che rimane giù, inizia la seconda parte, la fuga del pianista, il suo continuo cambiar nascondiglio, sempre a un passo dalla cattura, a mezzo dalla morte, a nessuno dall’orrore che in quegli anni ha avvolto Varsa",
       "motivi": [
-        "un classico che ti manca"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "Full Metal Jacket|261|Stanley Kubrick"
-    },
-    {
-      "id": "tmdb-105",
-      "tmdbId": 105,
-      "imdbId": "tt0088763",
-      "origine": "scoperta",
-      "titolo": "Ritorno al futuro",
-      "titoloOriginale": "Back to the Future",
-      "anno": "1985",
-      "uscitaItalia": "1985-10-18",
-      "regia": "Robert Zemeckis",
-      "generi": [
-        "Avventura",
-        "Commedia",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 116,
-      "tagline": "Non arriva mai in tempo a scuola... Non arriva mai in tempo a cena... Ma un giorno... si trovò completamente fuori dal tempo.",
-      "cast": [
-        "Michael J. Fox (Marty McFly)",
-        "Christopher Lloyd (Emmett Brown)",
-        "Crispin Glover (George McFly)",
-        "Lea Thompson (Lorraine Baines)",
-        "Claudia Wells (Jennifer Parker)",
-        "Thomas F. Wilson (Biff Tannen)"
-      ],
-      "tramaTmdb": "Marty McFly è stato catapultato per errore nel 1955, grazie alla macchina del tempo ideata dal suo amico scienziato Doc. Non avendo più \"carburante\" per poter tornare nel futuro si rivolge alla versione più giovane di Doc, che nonostante l'incredulità iniziale si farà in quattro per aiutarlo. Ma nel 1955 non è solo Doc ad essere più giovane, Marty infatti si imbatte casualmente nei suoi genitori, all'epoca teenager, ma l'incontro aggiungerà altri problemi.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Ritorno al futuro|460|Robert Zemeckis"
+      "impronta": "Il pianista|600|Roman Polanski"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-24T05:05:53.560Z",
+  "preparato": "2026-09-25T05:06:14.533Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,75 +79,36 @@
   },
   "film": [
     {
-      "id": "tmdb-1022787",
-      "tmdbId": 1022787,
-      "imdbId": "tt4900148",
-      "titolo": "Elio",
+      "id": "tmdb-574475",
+      "tmdbId": 574475,
+      "imdbId": "tt9619824",
+      "titolo": "Final Destination - Bloodlines",
       "titoloOriginale": null,
       "anno": "2025",
-      "uscitaItalia": "2025-06-18",
+      "uscitaItalia": "2025-05-15",
       "lista": "casa",
-      "regia": "Madeline Sharafian",
+      "regia": "Zach Lipovsky",
       "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantascienza",
-        "Famiglia",
-        "Commedia"
+        "Horror",
+        "Mistero"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 98,
-      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
+      "durata": 110,
+      "tagline": "Una famiglia con la morte nel sangue.",
       "cast": [
-        "Yonas Kibreab (Elio / Other Elio (voice))",
-        "Remy Edgerly (Glordon (voice))",
-        "Zoe Saldaña (Olga Solís (voice))",
-        "Brad Garrett (Lord Grigon (voice))",
-        "Brandon Moon (Ambassador Helix (voice))",
-        "Jameela Jamil (Ambassador Questa (voice))",
-        "Young Dylan (Bryce (voice))",
-        "Jake T. Getman (Caleb (voice))"
+        "Kaitlyn Santa Juana (Stefani Reyes)",
+        "Teo Briones (Charlie Reyes)",
+        "Rya Kihlstedt (Darlene Campbell)",
+        "Richard Harmon (Erik)",
+        "Owen Patrick Joyner (Bobby)",
+        "Anna Lore (Julia)",
+        "Alex Zahara (Uncle Howard)",
+        "April Telek (Aunt Brenda)"
       ],
-      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Madeline Sharafian"
-    },
-    {
-      "id": "tmdb-502356",
-      "tmdbId": 502356,
-      "imdbId": "tt6718170",
-      "titolo": "Super Mario Bros. Il Film",
-      "titoloOriginale": null,
-      "anno": "2023",
-      "uscitaItalia": "2023-04-05",
-      "lista": "visto",
-      "regia": "Michael Jelenic",
-      "generi": [
-        "Famiglia",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Animazione"
-      ],
-      "paesi": [
-        "Giappone",
-        "USA"
-      ],
-      "durata": 92,
-      "tagline": "Not all heroes wear capes. Some wear overalls.",
-      "cast": [
-        "Chris Pratt (Mario (voice))",
-        "Anya Taylor-Joy (Princess Peach (voice))",
-        "Charlie Day (Luigi (voice))",
-        "Jack Black (Bowser (voice))",
-        "Keegan-Michael Key (Toad (voice))",
-        "Seth Rogen (Donkey Kong (voice))",
-        "Fred Armisen (Cranky Kong (voice))",
-        "Sebastian Maniscalco (Spike (voice))"
-      ],
-      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
-      "impronta": "Super Mario Bros. Il Film|258|Michael Jelenic"
+      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
+      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
     }
   ]
 }
