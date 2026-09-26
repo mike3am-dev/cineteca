@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-25T05:06:16.500Z",
+  "preparato": "2026-09-26T05:05:53.427Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,42 +78,6 @@
     ]
   },
   "film": [
-    {
-      "id": "tmdb-1244523",
-      "tmdbId": 1244523,
-      "imdbId": "tt10377864",
-      "origine": "trailer",
-      "titolo": "Il risveglio di Boiúna",
-      "titoloOriginale": "Beware Boiúna",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "Mike P. Nelson",
-      "generi": [
-        "Avventura",
-        "Horror",
-        "Thriller"
-      ],
-      "paesi": [
-        "Germania",
-        "USA",
-        "Colombia"
-      ],
-      "durata": 104,
-      "tagline": null,
-      "cast": [
-        "Logan Marshall-Green (Brennan Malloy)",
-        "Kiana Madeira (Lena)",
-        "Jessica Rothe (Alli)",
-        "Jackson Bews (Shawn)",
-        "Juan Pablo Shuk (Miguel)",
-        "Will Close (Callum)"
-      ],
-      "tramaTmdb": "Un gruppo di giovani medici impegnato a portare assistenza sanitaria nei villaggi più remoti dell’Amazzonia è costretto a fuggire nella giungla dopo un violento scontro con alcuni uomini coinvolti nella costruzione di una strada. Ma nelle profondità della foresta li attende una minaccia ancora più terrificante: Boiúna, un gigantesco serpente leggendario che sembra essere molto più di una semplice creatura del folklore. Braccati in un ambiente estremo e implacabile, i protagonisti dovranno lottare per sopravvivere contro un predatore che domina la giungla da milioni di anni.",
-      "motivi": [
-        "avventura e thriller: il tuo terreno"
-      ],
-      "impronta": "Il risveglio di Boiúna|580|Mike P. Nelson"
-    },
     {
       "id": "tmdb-1255833",
       "tmdbId": 1255833,
@@ -178,38 +142,39 @@
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
-      "id": "tmdb-1375441",
-      "tmdbId": 1375441,
-      "imdbId": "tt34206385",
+      "id": "tmdb-1244523",
+      "tmdbId": 1244523,
+      "imdbId": "tt10377864",
       "origine": "trailer",
-      "titolo": "Primetime",
-      "titoloOriginale": "Primetime",
+      "titolo": "Il risveglio di Boiúna",
+      "titoloOriginale": "Beware Boiúna",
       "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Lance Oppenheim",
+      "uscitaItalia": "2026-11-26",
+      "regia": "Mike P. Nelson",
       "generi": [
-        "Dramma",
+        "Horror",
         "Thriller"
       ],
       "paesi": [
-        "USA"
+        "Germania",
+        "USA",
+        "Colombia"
       ],
-      "durata": 109,
-      "tagline": "Siete pronti ad entrare nella storia della televisione?",
+      "durata": 104,
+      "tagline": null,
       "cast": [
-        "Robert Pattinson (Chris Hansen)",
-        "Merritt Wever (Andie Bender)",
-        "Skyler Gisondo (Dan Plumb)",
-        "Phoebe Bridgers (Del)",
-        "Matthew Maher (Xavier Von Erck)",
-        "Bokeem Woodbine (Cortland Gunn)"
+        "Logan Marshall-Green (Brennan Malloy)",
+        "Kiana Madeira (Lena)",
+        "Jessica Rothe (Alli)",
+        "Jackson Bews (Shawn)",
+        "Juan Pablo Shuk (Miguel)",
+        "Will Close (Callum)"
       ],
-      "tramaTmdb": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+      "tramaTmdb": "Un gruppo di giovani medici impegnato a portare assistenza sanitaria nei villaggi più remoti dell’Amazzonia è costretto a fuggire nella giungla dopo un violento scontro con alcuni uomini coinvolti nella costruzione di una strada. Ma nelle profondità della foresta li attende una minaccia ancora più terrificante: Boiúna, un gigantesco serpente leggendario che sembra essere molto più di una semplice creatura del folklore. Braccati in un ambiente estremo e implacabile, i protagonisti dovranno lottare per sopravvivere contro un predatore che domina la giungla da milioni di anni.",
       "motivi": [
-        "c'è Robert Pattinson, che hai visto 2 volte",
-        "dramma e thriller: il tuo terreno"
+        "thriller, il tuo terreno"
       ],
-      "impronta": "Primetime|523|Lance Oppenheim"
+      "impronta": "Il risveglio di Boiúna|580|Mike P. Nelson"
     },
     {
       "id": "tmdb-1765072",
@@ -242,415 +207,354 @@
       "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
-      "id": "tmdb-1477170",
-      "tmdbId": 1477170,
-      "imdbId": "tt36841139",
-      "origine": "trailer",
-      "titolo": "Il tempo di Anne",
-      "titoloOriginale": "LOL 2.0",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Lisa Azuelos",
-      "generi": [
-        "Commedia"
-      ],
-      "paesi": [
-        "Francia",
-        "Belgio"
-      ],
-      "durata": 100,
-      "tagline": "Ogni età ha la sua prima volta",
-      "cast": [
-        "Sophie Marceau (Anne)",
-        "Thaïs Alessandrin (Louise)",
-        "Vincent Elbaz (Vincent)",
-        "Alexandre Astier (Alain)",
-        "Françoise Fabian (Françoise)",
-        "Victor Belmondo (Théo)"
-      ],
-      "tramaTmdb": "Anne si gode finalmente la sua libertà dopo la partenza dei figli. Ma tutto cambia quando sua figlia Louise torna a vivere con lei in seguito a un fallimento professionale e sentimentale. E siccome le sorprese non arrivano mai da sole, suo figlio Théo le annuncia che sta per diventare nonna. Tra scontri generazionali, sogni in evoluzione e nuovi slanci amorosi, Anne capisce che la vita non segue mai del tutto i piani stabiliti e che, a qualsiasi età, non si smette mai di imparare a crescere.",
-      "motivi": [],
-      "impronta": "Il tempo di Anne|496|Lisa Azuelos"
-    },
-    {
-      "id": "tmdb-1214130",
-      "tmdbId": 1214130,
-      "imdbId": "tt26720001",
-      "origine": "trailer",
-      "titolo": "Frankie e le creature dimenticate",
-      "titoloOriginale": "Stitch Head",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Steve Hudson",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Famiglia",
-        "Commedia"
-      ],
-      "paesi": [
-        "Germania",
-        "Luxembourg",
-        "India"
-      ],
-      "durata": 91,
-      "tagline": "Essere diversi è la vera attrazione.",
-      "cast": [
-        "Asa Butterfield (Stitch Head (voice))",
-        "Joel Fry (Creature (voice))",
-        "Alison Steadman (Nan (voice))",
-        "Rob Brydon (Professor (voice))",
-        "Seth Usdenov (Fulbert Freakfinder (voice))",
-        "Fern Brady (Madame Miranda (voice))"
-      ],
-      "tramaTmdb": "Stitch Head è stata la prima creatura riportata a una “quasi vita” dal folle professor Erasmus. Negli anni successivi è diventato il custode della sempre più ampia collezione di creature trascurate del suo padrone, con il compito di insegnare loro a reprimere il proprio “mostro interiore” e a nascondersi nel castello — lontano dagli sguardi indiscreti e dalle mani impazienti della folla del villaggio nella valle sottostante. Ma quando il sudicio impresario di circo Fulbert Freakfinder arriva offrendogli un ruolo da protagonista nel suo spettacolo di mostri, Stitch Head viene tentato dalla prom",
-      "motivi": [],
-      "impronta": "Frankie e le creature dimenticate|600|Steve Hudson"
-    },
-    {
-      "id": "tmdb-381283",
-      "tmdbId": 381283,
-      "imdbId": "tt5109784",
+      "id": "tmdb-166426",
+      "tmdbId": 166426,
+      "imdbId": "tt1790809",
       "origine": "scoperta",
-      "titolo": "Madre!",
-      "titoloOriginale": "mother!",
+      "titolo": "Pirati dei Caraibi - La vendetta di Salazar",
+      "titoloOriginale": "Pirates of the Caribbean: Dead Men Tell No Tales",
       "anno": "2017",
-      "uscitaItalia": "2017-09-28",
-      "regia": "Darren Aronofsky",
+      "uscitaItalia": "2017-05-24",
+      "regia": "Joachim Rønning",
       "generi": [
-        "Horror",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 115,
-      "tagline": "Ogni domanda verrà alla luce",
-      "cast": [
-        "Jennifer Lawrence (Mother)",
-        "Javier Bardem (Him)",
-        "Ed Harris (Man)",
-        "Michelle Pfeiffer (Woman)",
-        "Brian Gleeson (Younger Brother)",
-        "Domhnall Gleeson (Oldest Son)"
-      ],
-      "tramaTmdb": "Il rapporto di una coppia tra Lei e Lui è messo in discussione quando alla loro porta si presentano ospiti inattesi, un uomo e una donna, che turbano la loro tranquilla esistenza.",
-      "motivi": [
-        "regia di Darren Aronofsky, di cui hai visto un film",
-        "c'è Javier Bardem, che hai visto 3 volte",
-        "c'è Javier Bardem, che hai visto 3 volte"
-      ],
-      "impronta": "Madre!|179|Darren Aronofsky"
-    },
-    {
-      "id": "tmdb-581734",
-      "tmdbId": 581734,
-      "imdbId": "tt9770150",
-      "origine": "scoperta",
-      "titolo": "Nomadland",
-      "titoloOriginale": "Nomadland",
-      "anno": "2021",
-      "uscitaItalia": "2021-04-28",
-      "regia": "Chloé Zhao",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 108,
-      "tagline": null,
-      "cast": [
-        "Frances McDormand (Fern)",
-        "David Strathairn (Dave)",
-        "Linda May (Linda)",
-        "Swankie (Swankie)",
-        "Gay DeForest (Gay)",
-        "Patricia Grier (Patty)"
-      ],
-      "tramaTmdb": "Empire, stato del Nevada. Nel 1988 la fabbrica presso cui Fern e suo marito Bo hanno lavorato tutta la vita ha chiuso i battenti, lasciando i dipendenti letteralmente per strada. Anche Bo se ne è andato, dopo una lunga malattia, e ora il mondo di Fern si divide fra un garage in cui sono rinchiuse tutte le cose del marito e un van che la donna ha riempito di tutto ciò che ha ancora per lei un significato materico. Vive di lavoretti saltuari poiché non ha diritto ai sussidi statali e non ha l'età per riciclarsi in un Paese in crisi, e si sposta di posteggio in posteggio, cercando di tenere insie",
-      "motivi": [
-        "regia di Chloé Zhao, di cui hai visto un film",
-        "regia di Chloé Zhao, che segui"
-      ],
-      "impronta": "Nomadland|600|Chloé Zhao"
-    },
-    {
-      "id": "tmdb-209112",
-      "tmdbId": 209112,
-      "imdbId": "tt2975590",
-      "origine": "scoperta",
-      "titolo": "Batman v Superman: Dawn of Justice",
-      "titoloOriginale": "Batman v Superman: Dawn of Justice",
-      "anno": "2016",
-      "uscitaItalia": "2016-03-23",
-      "regia": "Zack Snyder",
-      "generi": [
-        "Azione",
         "Avventura",
+        "Azione",
         "Fantasy"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 151,
-      "tagline": "Giustizia o vendetta?",
+      "durata": 135,
+      "tagline": "Tutti i pirati devono morire.",
       "cast": [
-        "Ben Affleck (Bruce Wayne / Batman)",
-        "Henry Cavill (Clark Kent / Superman)",
-        "Jesse Eisenberg (Lex Luthor)",
-        "Gal Gadot (Diana Prince / Wonder Woman)",
-        "Amy Adams (Lois)",
-        "Diane Lane (Martha Kent)"
+        "Johnny Depp (Jack Sparrow)",
+        "Javier Bardem (Armando Salazar)",
+        "Geoffrey Rush (Hector Barbossa)",
+        "Brenton Thwaites (Henry Turner)",
+        "Kaya Scodelario (Carina Smyth)",
+        "Golshifteh Farahani (Shansa)"
       ],
-      "tramaTmdb": "Temendo le azioni di un supereroe che è quasi un dio e che è rimasto troppo a lungo incontrollato, il formidabile e poderoso vigilante di Gotham City affronta il riverito e contemporaneo salvatore di Metropolis, mentre il mondo cerca di capire di quale tipo di eroe abbia realmente bisogno. E mentre Batman e Superman sono in guerra l'uno con l'altro, una nuova minaccia emerge rapidamente, mettendo tutta l'umanità in un pericolo più grande di qualsiasi altro abbia conosciuto fino a quel momento.",
+      "tramaTmdb": "Catapultato in una nuova e travolgente avventura, lo sventurato Capitan Jack Sparrow vede peggiorare la propria sfortuna quando dei letali marinai fantasma fuggono dal Triangolo del Diavolo guidati dal terrificante Capitano Salazar e decisi a uccidere ogni pirata del mare… soprattutto Jack. La sua unica speranza di sopravvivenza risiede nel leggendario Tridente di Poseidone, ma per riuscire a trovarlo Jack dovrà formare una precaria alleanza con la brillante e affascinante astronoma Carina Smyth e con Henry, un giovane e risoluto marinaio della Royal Navy. Capitan Jack si metterà al timone del",
       "motivi": [
-        "regia di Christopher Nolan, che segui"
+        "c'è Javier Bardem, che hai visto 3 volte",
+        "c'è Javier Bardem, che hai visto 3 volte"
       ],
-      "impronta": "Batman v Superman: Dawn of Justice|498|Zack Snyder"
+      "impronta": "Pirati dei Caraibi - La vendetta di Salazar|600|Joachim Rønning"
     },
     {
-      "id": "tmdb-497",
-      "tmdbId": 497,
-      "imdbId": "tt0120689",
+      "id": "tmdb-429",
+      "tmdbId": 429,
+      "imdbId": "tt0060196",
       "origine": "scoperta",
-      "titolo": "Il miglio verde",
-      "titoloOriginale": "The Green Mile",
-      "anno": "2000",
-      "uscitaItalia": "2000-03-10",
-      "regia": "Frank Darabont",
+      "titolo": "Il buono, il brutto, il cattivo",
+      "titoloOriginale": "Il buono, il brutto, il cattivo",
+      "anno": "1966",
+      "uscitaItalia": "1966-12-23",
+      "regia": "Sergio Leone",
       "generi": [
-        "Fantasy",
-        "Dramma",
-        "Crime"
+        "Western"
       ],
       "paesi": [
-        "USA"
+        "USA",
+        "Italia",
+        "Spagna"
       ],
-      "durata": 188,
-      "tagline": "Paul Edgecomb non credeva ai miracoli... fino al giorno in cui ne ha incontrato uno.",
+      "durata": 179,
+      "tagline": "Per tre uomini la guerra civile non era un inferno... Era pratica.",
       "cast": [
-        "Tom Hanks (Paul Edgecomb)",
-        "David Morse (Brutus 'Brutal' Howell)",
-        "Bonnie Hunt (Jan Edgecomb)",
-        "Michael Clarke Duncan (John Coffey)",
-        "James Cromwell (Warden Hal Moores)",
-        "Michael Jeter (Eduard Delacroix)"
+        "Clint Eastwood (Blondie)",
+        "Eli Wallach (Tuco Ramirez)",
+        "Lee Van Cleef (Sentenza / Angel Eyes)",
+        "Aldo Giuffrè (Alcoholic Union Captain)",
+        "Luigi Pistilli (Father Pablo Ramirez)",
+        "Rada Rassimov (Maria)"
       ],
-      "tramaTmdb": "E' il racconto che Paul Edgecomb fa all'amica Elaine Connelly in una casa di riposo. Sono passati circa sessanta anni da quando lavorava come capo delle guardie del braccio della morte nel penitenziario di Could Mountain. Durante la grande depressione, nel carcere del sud degli Usa, Edgecomb si occupava di quattro assassini che attendevano di compiere la loro ultima passeggiata lungo il 'Miglio verde', il corridoio rivestito di linoleum verde che li avrebbe condotti nella stanza della sedia elettrica. Fra questi c'era anche John Coffrey, un ragazzone nero condannato per l'omicidio di due gemel",
+      "tramaTmdb": "Durante la guerra di Secessione, tre spregiudicati avventurieri, cercano di impossessarsi di un carico d'oro che gli permetterebbe di chiudere con la vita da pistoleri. Ma la guerra li costringerà a cambiare i loro piani.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Il miglio verde|600|Frank Darabont"
+      "impronta": "Il buono, il brutto, il cattivo|221|Sergio Leone"
     },
     {
-      "id": "tmdb-272",
-      "tmdbId": 272,
-      "imdbId": "tt0372784",
+      "id": "tmdb-829",
+      "tmdbId": 829,
+      "imdbId": "tt0071315",
       "origine": "scoperta",
-      "titolo": "Batman Begins",
-      "titoloOriginale": "Batman Begins",
-      "anno": "2005",
-      "uscitaItalia": "2005-06-17",
-      "regia": "Christopher Nolan",
+      "titolo": "Chinatown",
+      "titoloOriginale": "Chinatown",
+      "anno": "1974",
+      "uscitaItalia": "1974-12-13",
+      "regia": "Roman Polanski",
       "generi": [
-        "Dramma",
         "Crime",
-        "Azione"
+        "Mistero",
+        "Thriller"
       ],
       "paesi": [
-        "Regno Unito",
         "USA"
       ],
-      "durata": 140,
-      "tagline": "Il male teme il cavaliere.",
-      "cast": [
-        "Christian Bale (Bruce Wayne / Batman)",
-        "Michael Caine (Alfred)",
-        "Liam Neeson (Ducard)",
-        "Katie Holmes (Rachel Dawes)",
-        "Gary Oldman (Jim Gordon)",
-        "Cillian Murphy (Dr. Jonathan Crane)"
-      ],
-      "tramaTmdb": "Bruce Wayne, figlio di un illuminato filantropo di Gotham City, vede i suoi genitori assassinati da un rapinatore. Incapace di liberarsi del senso di colpa, inizia un vagabondaggio che lo porta fin sulle vette dell'Himalaya, dove Ra's Al Ghul e il suo fido Ducard lo iniziano alla lotta contro il male. Wayne è deciso a servire la giustizia, e una volta tornato a Gotham trova in Falcone, potente trafficante di droga, e in Crane, altrettanto corrotto psichiatra, due acerrimi nemici, dietro ai quali però pare celarsi qualcuno di ancor più potente. L'unico modo per combatterli è diventare Batman, u",
-      "motivi": [
-        "regia di Christopher Nolan, di cui hai visto 2 film",
-        "regia di Christopher Nolan, che segui"
-      ],
-      "impronta": "Batman Begins|600|Christopher Nolan"
-    },
-    {
-      "id": "tmdb-19404",
-      "tmdbId": 19404,
-      "imdbId": "tt0112870",
-      "origine": "scoperta",
-      "titolo": "Il coraggioso prenderà la sposa",
-      "titoloOriginale": "दिलवाले दुल्हनिया ले जायेंगे",
-      "anno": "1995",
-      "uscitaItalia": "1995-10-20",
-      "regia": "Aditya Chopra",
-      "generi": [
-        "Commedia",
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "India"
-      ],
-      "durata": 190,
+      "durata": 130,
       "tagline": null,
       "cast": [
-        "काजोल (Simran Singh)",
-        "शाहरुख़ ख़ान (Raj Malhotra)",
-        "Amrish Puri (Chaudhry Baldev Singh)",
-        "Farida Jalal (Lajwanti 'Lajjo' Singh)",
-        "Anupam Kher (Dharamvir Malhotra)",
-        "Pooja Ruparel (Rajeshwari \"Chutki\" Singh)"
+        "Jack Nicholson (J.J. 'Jake' Gittes)",
+        "Faye Dunaway (Evelyn Cross Mulwray)",
+        "John Huston (Noah Cross)",
+        "Perry Lopez (Lieutenant Lou Escobar)",
+        "Burt Young (Curly)",
+        "John Hillerman (Russ Yelburton)"
       ],
-      "tramaTmdb": null,
+      "tramaTmdb": "L'investigatore Gittes viene assoldato da una donna che si presenta come la signora Mulray per investigare sulla presunta infedeltà del marito. Riesce dopo diverso tempo a fotografarlo in compagnia di una giovane ragazza, ma si presenta al suo cospetto la vera moglie di Mulray che minaccia l'uomo. Intanto si ritrova il corpo senza vita del marito. Continuano quindi con molti pericoli le indagini di Gittes che lo condurranno da Noah Cross, padre della signora Mulray mentre la ragazza che tempo prima aveva fotografata era la sorella della donna. Le due donne cercheranno di fuggire dal padre poss",
       "motivi": [
-        "un classico che ti manca"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Il coraggioso prenderà la sposa|0|Aditya Chopra"
+      "impronta": "Chinatown|600|Roman Polanski"
     },
     {
-      "id": "tmdb-539",
-      "tmdbId": 539,
-      "imdbId": "tt0054215",
+      "id": "tmdb-181812",
+      "tmdbId": 181812,
+      "imdbId": "tt2527338",
       "origine": "scoperta",
-      "titolo": "Psyco",
-      "titoloOriginale": "Psycho",
-      "anno": "1960",
-      "uscitaItalia": "1960-10-28",
-      "regia": "Alfred Hitchcock",
+      "titolo": "Star Wars: L'ascesa di Skywalker",
+      "titoloOriginale": "Star Wars: The Rise of Skywalker",
+      "anno": "2019",
+      "uscitaItalia": "2019-12-18",
+      "regia": "J.J. Abrams",
       "generi": [
-        "Horror",
+        "Avventura",
+        "Azione",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 142,
+      "tagline": "La saga volge al termine. La storia vivrà per sempre.",
+      "cast": [
+        "Carrie Fisher (General Leia Organa)",
+        "Mark Hamill (Luke Skywalker)",
+        "Daisy Ridley (Rey)",
+        "Adam Driver (Kylo Ren / Ben Solo)",
+        "John Boyega (Finn)",
+        "Oscar Isaac (Poe Dameron)"
+      ],
+      "tramaTmdb": "La resistenza è ridotta a poche unità, il primo ordine dilaga sotto il comando del leader supremo Kylo Ren, ma un messaggio ha turbato la galassia. L'imperatore Palpatine giura vendetta! Ren si mette così alla ricerca dell'origine della trasmissione e arriva a confrontarsi con Palpatine, che gli offre una spaventosa flotta se saprà eliminare la ragazza Jedi, Rey. Questa combatte e si addestra seguendo gli insegnamenti del generale Organa, mentre Finn, Poe e Chewbacca ricevono messaggi da una spia nel Primo Ordine.",
+      "motivi": [
+        "c'è Oscar Isaac, che hai visto 2 volte",
+        "regia di Colin Trevorrow, che segui"
+      ],
+      "impronta": "Star Wars: L'ascesa di Skywalker|519|J.J. Abrams"
+    },
+    {
+      "id": "tmdb-6977",
+      "tmdbId": 6977,
+      "imdbId": "tt0477348",
+      "origine": "scoperta",
+      "titolo": "Non è un paese per vecchi",
+      "titoloOriginale": "No Country for Old Men",
+      "anno": "2008",
+      "uscitaItalia": "2008-02-22",
+      "regia": "Joel Coen",
+      "generi": [
+        "Crime",
         "Thriller",
-        "Mistero"
+        "Western"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 122,
+      "tagline": "Non si può mai scappare facilmente.",
+      "cast": [
+        "Javier Bardem (Anton Chigurh)",
+        "Tommy Lee Jones (Ed Tom Bell)",
+        "Josh Brolin (Llewelyn Moss)",
+        "Woody Harrelson (Carson Wells)",
+        "Kelly Macdonald (Carla Jean Moss)",
+        "Garret Dillahunt (Wendell)"
+      ],
+      "tramaTmdb": "Llewelyn Moss trova, in una zona desertica, un camioncino circondato da cadaveri. Il carico è di eroina e in una valigetta ci sono due milioni di dollari. Che fare? Llewelyn è una persona onesta ma quel denaro lo tenta troppo. Decide di tenerselo dando il via a una reazione a catena che neppure il disilluso sceriffo Bell può riuscire ad arginare. Moss deve fuggire, in particolare, le 'attenzioni' di un sanguinario e misterioso inseguitore.",
+      "motivi": [
+        "c'è Javier Bardem, che hai visto 3 volte",
+        "c'è Javier Bardem, che hai visto 3 volte"
+      ],
+      "impronta": "Non è un paese per vecchi|443|Joel Coen"
+    },
+    {
+      "id": "tmdb-354912",
+      "tmdbId": 354912,
+      "imdbId": "tt2380307",
+      "origine": "scoperta",
+      "titolo": "Coco",
+      "titoloOriginale": "Coco",
+      "anno": "2017",
+      "uscitaItalia": "2017-12-28",
+      "regia": "Lee Unkrich",
+      "generi": [
+        "Famiglia",
+        "Animazione",
+        "Musica",
+        "Avventura"
       ],
       "paesi": [
         "USA"
       ],
       "durata": 109,
-      "tagline": "Il migliore amico di un ragazzo è sua madre.",
+      "tagline": "Insegui i tuoi sogni",
       "cast": [
-        "Anthony Perkins (Norman Bates)",
-        "Janet Leigh (Marion Crane)",
-        "Vera Miles (Lila Crane)",
-        "John Gavin (Sam Loomis)",
-        "Martin Balsam (Milton Arbogast)",
-        "John McIntire (Al Chambers)"
+        "Anthony Gonzalez (Miguel Rivera (voice))",
+        "Gael García Bernal (Héctor (voice))",
+        "Benjamin Bratt (Ernesto de la Cruz (voice))",
+        "Alanna Ubach (Mamá Imelda (voice))",
+        "Renée Victor (Abuelita (voice))",
+        "Jaime Camil (Papá (voice))"
       ],
-      "tramaTmdb": "Marion Crane, impiegata in una società immobiliare, scappa con 40.000$ rubati dalle casse della ditta. Durante la fuga verso casa del fidanzato però, decide di fermarsi nel Motel gestito dal giovane Norman Bates e dalla madre, che però vive rintanata nella casa attigua al Motel stesso.  Il capolavoro di Alfred Hitchcock.",
+      "tramaTmdb": "Nonostante il divieto di musica che dura da generazioni nella sua famiglia, Miguel sogna di diventare un musicista affermato come il suo idolo, Ernesto de la Cruz. Disperato di dimostrare il suo talento, Miguel si ritrova nella splendida e colorata Terra dei Morti, seguendo una misteriosa catena di eventi. Lungo il cammino incontra il fascinante imbroglione Hector e insieme partono per un viaggio straordinario per svelare la vera storia della famiglia di Miguel.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Coco|466|Lee Unkrich"
+    },
+    {
+      "id": "tmdb-24021",
+      "tmdbId": 24021,
+      "imdbId": "tt1325004",
+      "origine": "scoperta",
+      "titolo": "The Twilight Saga - Eclipse",
+      "titoloOriginale": "The Twilight Saga: Eclipse",
+      "anno": "2010",
+      "uscitaItalia": "2010-06-30",
+      "regia": "David Slade",
+      "generi": [
+        "Avventura",
+        "Fantasy",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 124,
+      "tagline": "Tutto inizia con una scelta",
+      "cast": [
+        "Kristen Stewart (Bella Swan)",
+        "Robert Pattinson (Edward Cullen)",
+        "Taylor Lautner (Jacob Black)",
+        "Bryce Dallas Howard (Victoria)",
+        "Dakota Fanning (Jane)",
+        "Billy Burke (Charlie Swan)"
+      ],
+      "tramaTmdb": "Una serie di omicidi, sparizioni e misteriose disgrazie scuote Seattle e minaccia Forks. I Cullen comprendono in fretta che si tratta di un esercito di NeoNati della loro specie: vampiri da poco trasformati, assetati di sangue, violenti e indomabili. Mentre si domanda chi abbia voluto tutto questo e perché, Bella deve anche fronteggiare l'imminenza del diploma e soprattutto della scelta che ha fatto, una scelta irreversibile, decisa per amore di Edward ma osteggiata dal suo migliore amico, Jacob, che ha promesso di lottare fino all'ultimo per farle cambiare idea. La minaccia esterna impone un'",
+      "motivi": [
+        "c'è Robert Pattinson, che hai visto 2 volte",
+        "c'è Bryce Dallas Howard, che hai visto 3 volte"
+      ],
+      "impronta": "The Twilight Saga - Eclipse|600|David Slade"
+    },
+    {
+      "id": "tmdb-76341",
+      "tmdbId": 76341,
+      "imdbId": "tt1392190",
+      "origine": "scoperta",
+      "titolo": "Mad Max: Fury Road",
+      "titoloOriginale": "Mad Max: Fury Road",
+      "anno": "2015",
+      "uscitaItalia": "2015-05-14",
+      "regia": "George Miller",
+      "generi": [
+        "Azione",
+        "Avventura",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "Australia",
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": "Il futuro appartiene ai folli",
+      "cast": [
+        "Tom Hardy (Max Rockatansky)",
+        "Charlize Theron (Imperator Furiosa)",
+        "Nicholas Hoult (Nux)",
+        "Hugh Keays-Byrne (Immortan Joe)",
+        "Josh Helman (Slit)",
+        "Nathan Jones (Rictus Erectus)"
+      ],
+      "tramaTmdb": "Ossessionato dal suo turbolento passato, Mad Max crede che il modo migliore per sopravvivere sia muoversi da solo, ma si ritrova coinvolto con un gruppo in fuga attraverso la Terre Desolata su un blindato da combattimento, guidato dall’imperatrice Furiosa. Il gruppo è sfuggito alla tirannide di Immortan Joe, cui è stato sottratto qualcosa di insostituibile. Furibondo, l’uomo ha sguinzagliato tutti i suoi uomini sulle tracce dei ribelli e così ha inizio una guerra spietata.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Mad Max: Fury Road|477|George Miller"
+    },
+    {
+      "id": "tmdb-265195",
+      "tmdbId": 265195,
+      "imdbId": "tt3011894",
+      "origine": "scoperta",
+      "titolo": "Storie pazzesche",
+      "titoloOriginale": "Relatos salvajes",
+      "anno": "2014",
+      "uscitaItalia": "2014-12-11",
+      "regia": "Damián Szifron",
+      "generi": [
+        "Dramma",
+        "Thriller",
+        "Commedia"
+      ],
+      "paesi": [
+        "Argentina",
+        "Spagna",
+        "Francia"
+      ],
+      "durata": 122,
+      "tagline": "Per rispetto delle vicende e dei personaggi si prega di ridere con moderazione!",
+      "cast": [
+        "Ricardo Darín (Simón Fisher (segment \"Bombita\"))",
+        "Leonardo Sbaraglia (Diego (segment \"El más fuerte\"))",
+        "Érica Rivas (Romina (segment \"Hasta que la muerte nos separe\"))",
+        "Oscar Martínez (Mauricio (segment \"La propuesta\"))",
+        "Rita Cortese (Cook (segment \"Las ratas\"))",
+        "Julieta Zylberberg (Waitress (segment \"Las ratas\"))"
+      ],
+      "tramaTmdb": "Mix di storie che si intrecciano che vedono protagonisti un ingegnere che si occupa di demolizioni, la cameriera e la cuoca di una umile trattoria, un passeggero di un aereo, una donna che sta per sposarsi, ma la cerimonia di matrimonio è destinata al fallimento, un magnate che ha a che fare con un'oscura tragedia famigliare e un uomo che guida la sua macchina per una strada deserta, ma si trova coinvolto in un corpo a corpo con un altro guidatore.",
       "motivi": [
         "thriller: il tuo terreno"
       ],
-      "impronta": "Psyco|322|Alfred Hitchcock"
+      "impronta": "Storie pazzesche|452|Damián Szifron"
     },
     {
-      "id": "tmdb-567",
-      "tmdbId": 567,
-      "imdbId": "tt0047396",
+      "id": "tmdb-598",
+      "tmdbId": 598,
+      "imdbId": "tt0317248",
       "origine": "scoperta",
-      "titolo": "La finestra sul cortile",
-      "titoloOriginale": "Rear Window",
-      "anno": "1955",
-      "uscitaItalia": "1955-04-14",
-      "regia": "Alfred Hitchcock",
-      "generi": [
-        "Thriller",
-        "Mistero",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 112,
-      "tagline": "Basta un testimone per rovinare il delitto perfetto",
-      "cast": [
-        "James Stewart (L.B. Jefferies)",
-        "Grace Kelly (Lisa Fremont)",
-        "Wendell Corey (Thomas Doyle)",
-        "Thelma Ritter (Stella)",
-        "Raymond Burr (Lars Thorwald)",
-        "Judith Evelyn (Miss Lonelyhearts)"
-      ],
-      "tramaTmdb": "Costretto sulla sedia a rotelle da un incidente sul lavoro che gli ha procurato la frattura della gamba sinistra, un fotoreporter d'azione passa il tempo spiando col teleobiettivo i suoi vicini di casa, e con l'aiuto della fidanzata e dell'infermiera scopre che é stato commesso un omicidio...",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "La finestra sul cortile|293|Alfred Hitchcock"
-    },
-    {
-      "id": "tmdb-424",
-      "tmdbId": 424,
-      "imdbId": "tt0108052",
-      "origine": "scoperta",
-      "titolo": "Schindler's List",
-      "titoloOriginale": "Schindler's List",
-      "anno": "1994",
-      "uscitaItalia": "1994-03-11",
-      "regia": "Steven Spielberg",
+      "titolo": "City of God",
+      "titoloOriginale": "Cidade de Deus",
+      "anno": "2003",
+      "uscitaItalia": "2003-05-09",
+      "regia": "Fernando Meirelles",
       "generi": [
         "Dramma",
-        "Storia",
-        "Guerra"
+        "Crime"
       ],
       "paesi": [
-        "USA"
+        "Brasile",
+        "Francia",
+        "Germania"
       ],
-      "durata": 195,
-      "tagline": "Chiunque salva una vita salva il mondo intero.",
+      "durata": 130,
+      "tagline": null,
       "cast": [
-        "Liam Neeson (Oskar Schindler)",
-        "Ben Kingsley (Itzhak Stern)",
-        "Ralph Fiennes (Amon Goeth)",
-        "Caroline Goodall (Emilie Schindler)",
-        "Jonathan Sagall (Poldek Pfefferberg)",
-        "Embeth Davidtz (Helen Hirsch)"
+        "Alexandre Rodrigues (Buscapé)",
+        "Leandro Firmino (Zé Pequeno / Dadinho)",
+        "Phellipe Haagensen (Bené)",
+        "Douglas Silva (Dadinho)",
+        "Jonathan Haagensen (Cabeleira)",
+        "Matheus Nachtergaele (Sandro Cenoura)"
       ],
-      "tramaTmdb": "Tratto dal libro di Thomas Keneally è la vera storia di Oscar Schindler, industriale tedesco, che nel 1938 capisce che è bene legarsi ai comandanti militari. Li frequenta nei locali notturni, offre bottiglie preziose. Quando gli ebrei sono relegati nel ghetto di Cracovia Schindler riesce a farsene assegnare alcune centinaia come operai in una fabbrica di pentole. All'inizio sembra sfruttarli, in realtà li salva. Di fronte alla persecuzione tremenda, il tedesco trasforma quella sua prima iniziativa in una vera missione, fino a comprare letteralmente le vite di quasi milleduecento ebrei (la famo",
+      "tramaTmdb": "Rio de Janeiro, dagli anni ’60 agli ’80. La favela di Cidade de Deus diventa il palcoscenico delle storie parallele di Buscapé e Dadinho. Entrambi tredicenni, sono però mossi da ambizioni diversissime: il primo vorrebbe diventare fotografo, il secondo il più temuto criminale della città. Se Buscapé trova molti ostacoli nella realizzazione dei propri sogni, Dadinho diventa rapidamente padrone del quartiere e del narcotraffico con lo pseudonimo di Zé Pequeno. La morte del suo braccio destro Bené e la violenza perpetrata ai danni della fidanzata del mite Galinha innescheranno una guerra tra bande",
       "motivi": [
-        "regia di Steven Spielberg, di cui hai visto un film",
-        "c'è Ralph Fiennes, che hai visto 2 volte",
         "un classico che ti manca"
       ],
-      "impronta": "Schindler's List|600|Steven Spielberg"
-    },
-    {
-      "id": "tmdb-423",
-      "tmdbId": 423,
-      "imdbId": "tt0253474",
-      "origine": "scoperta",
-      "titolo": "Il pianista",
-      "titoloOriginale": "The Pianist",
-      "anno": "2002",
-      "uscitaItalia": "2002-10-25",
-      "regia": "Roman Polanski",
-      "generi": [
-        "Dramma",
-        "Guerra"
-      ],
-      "paesi": [
-        "Francia",
-        "Germania",
-        "Polonia"
-      ],
-      "durata": 150,
-      "tagline": "La musica era la sua passione. La sopravvivenza era il suo capolavoro.",
-      "cast": [
-        "Adrien Brody (Władysław 'Władek' Szpilman)",
-        "Thomas Kretschmann (Captain Wilm Hosenfeld)",
-        "Frank Finlay (Father)",
-        "Maureen Lipman (Mother)",
-        "Emilia Fox (Dorota)",
-        "Ed Stoppard (Henryk Szpilman)"
-      ],
-      "tramaTmdb": "È la storia di Wladyslaw Szpilman, pianista ebreo polacco, attraverso la Seconda Guerra Mondiale, dall’occupazione di Varsavia all’arrivo dell’Armata Rossa. Il film è diviso in due parti: la prima è incentrata sulla famiglia Szpilman, dall’iniziale mix di stupore e indignazione per le leggi razziali alla reclusione nel ghetto, infine alla deportazione; col treno che parte, e Wladyslaw che rimane giù, inizia la seconda parte, la fuga del pianista, il suo continuo cambiar nascondiglio, sempre a un passo dalla cattura, a mezzo dalla morte, a nessuno dall’orrore che in quegli anni ha avvolto Varsa",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Il pianista|600|Roman Polanski"
+      "impronta": "City of God|600|Fernando Meirelles"
     }
   ]
 }

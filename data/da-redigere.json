@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-25T05:06:14.533Z",
+  "preparato": "2026-09-26T05:05:52.647Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -79,36 +79,40 @@
   },
   "film": [
     {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
+      "id": "tmdb-502356",
+      "tmdbId": 502356,
+      "imdbId": "tt6718170",
+      "titolo": "Super Mario Bros. Il Film",
       "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-05-15",
-      "lista": "casa",
-      "regia": "Zach Lipovsky",
+      "anno": "2023",
+      "uscitaItalia": "2023-04-05",
+      "lista": "visto",
+      "regia": "Aaron Horvath",
       "generi": [
-        "Horror",
-        "Mistero"
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
       ],
       "paesi": [
+        "Giappone",
         "USA"
       ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
+      "durata": 92,
+      "tagline": "Not all heroes wear capes. Some wear overalls.",
       "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
+        "Chris Pratt (Mario (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Seth Rogen (Donkey Kong (voice))",
+        "Fred Armisen (Cranky Kong (voice))",
+        "Sebastian Maniscalco (Spike (voice))"
       ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
+      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
+      "impronta": "Super Mario Bros. Il Film|258|Aaron Horvath"
     }
   ]
 }
