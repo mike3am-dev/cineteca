@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-27T05:06:13.222Z",
+  "preparato": "2026-09-28T05:07:04.775Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -135,7 +135,8 @@
         "J.K. Simmons (Watkins)",
         "Anna Lambe (Amber)",
         "Justin Melnick (Military Soldier)",
-        "Shaun DeZern (Military Soldier)"
+        "Shaun DeZern (Military Soldier)",
+        "Uber (Odin)"
       ],
       "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
       "motivi": [
@@ -177,6 +178,38 @@
         "thriller, il tuo terreno"
       ],
       "impronta": "Il risveglio di Boiúna|580|Mike P. Nelson"
+    },
+    {
+      "id": "tmdb-1153576",
+      "tmdbId": 1153576,
+      "imdbId": "tt27419420",
+      "origine": "trailer",
+      "titolo": "Street Fighter",
+      "titoloOriginale": "Street Fighter",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Kitao Sakurai",
+      "generi": [
+        "Azione",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": null,
+      "tagline": null,
+      "cast": [
+        "Andrew Koji (Ryu)",
+        "Noah Centineo (Ken Masters)",
+        "Callina Liang (Chun-Li)",
+        "Joe Anoa'i (Akuma)",
+        "David Dastmalchian (M. Bison)",
+        "Cody Rhodes (Guile)"
+      ],
+      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
+      "motivi": [],
+      "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
       "id": "tmdb-1755291",
@@ -235,350 +268,348 @@
       "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
-      "id": "tmdb-1726",
-      "tmdbId": 1726,
-      "imdbId": "tt0371746",
+      "id": "tmdb-155",
+      "tmdbId": 155,
+      "imdbId": "tt0468569",
       "origine": "scoperta",
-      "titolo": "Iron Man",
-      "titoloOriginale": "Iron Man",
+      "titolo": "Il cavaliere oscuro",
+      "titoloOriginale": "The Dark Knight",
       "anno": "2008",
-      "uscitaItalia": "2008-05-01",
-      "regia": "Jon Favreau",
-      "generi": [
-        "Azione",
-        "Fantascienza",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 126,
-      "tagline": "Gli eroi non nascono, vengono costruiti.",
-      "cast": [
-        "Robert Downey Jr. (Tony Stark)",
-        "Terrence Howard (Rhodey)",
-        "Jeff Bridges (Obadiah Stane)",
-        "Gwyneth Paltrow (Pepper Potts)",
-        "Leslie Bibb (Christine Everhart)",
-        "Shaun Toub (Yinsen)"
-      ],
-      "tramaTmdb": "Dopo aver subito un grave incidente, il ricco e tormentato scienziato Tony Stark inventa una speciale tuta di ferro che gli garantisce la sopravvivenza e gli conferisce straordinari poteri. L'uomo decide ben presto di utilizzare l'armatura per combattere il male e proteggere il prossimo.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Iron Man|288|Jon Favreau"
-    },
-    {
-      "id": "tmdb-27205",
-      "tmdbId": 27205,
-      "imdbId": "tt1375666",
-      "origine": "scoperta",
-      "titolo": "Inception",
-      "titoloOriginale": "Inception",
-      "anno": "2010",
-      "uscitaItalia": "2010-09-24",
+      "uscitaItalia": "2008-07-23",
       "regia": "Christopher Nolan",
       "generi": [
         "Azione",
-        "Fantascienza",
-        "Avventura"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 148,
-      "tagline": "La tua mente è la scena del crimine",
-      "cast": [
-        "Leonardo DiCaprio (Dom Cobb)",
-        "Joseph Gordon-Levitt (Arthur)",
-        "Ken Watanabe (Saito)",
-        "Tom Hardy (Eames)",
-        "Elliot Page (Ariadne)",
-        "Dileep Rao (Yusuf)"
-      ],
-      "tramaTmdb": "Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni altrui per prelevare i segreti nascosti nel più profondo del subconscio. Viene contattato da Saito, un potentissimo industriale di origine giapponese, il quale gli chiede di tentare l'operazione opposta. Non deve prelevare pensieri celati ma inserire un'idea che si radichi nella mente di una persona. Costui è Robert Fischer Jr. il quale, alla morte dell'anziano e dittatoriale genitore, dovrà convincersi che l'unica cosa che può fare è distruggere l'impero ereditato. Saito avrà allora campo libero. In cambio offrirà a C",
-      "motivi": [
-        "regia di Christopher Nolan, di cui hai visto 2 film",
-        "regia di Christopher Nolan, che segui"
-      ],
-      "impronta": "Inception|600|Christopher Nolan"
-    },
-    {
-      "id": "tmdb-807",
-      "tmdbId": 807,
-      "imdbId": "tt0114369",
-      "origine": "scoperta",
-      "titolo": "Seven",
-      "titoloOriginale": "Se7en",
-      "anno": "1995",
-      "uscitaItalia": "1995-12-15",
-      "regia": "David Fincher",
-      "generi": [
-        "Crime",
-        "Mistero",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 128,
-      "tagline": "Lasciate che chi è senza peccato cerchi di sopravvivere.",
-      "cast": [
-        "Morgan Freeman (Somerset)",
-        "Brad Pitt (Mills)",
-        "Gwyneth Paltrow (Tracy)",
-        "John Cassini (Officer Davis)",
-        "Peter Crombie (Dr. O'Neill)",
-        "Reg E. Cathey (Dr. Santiago)"
-      ],
-      "tramaTmdb": "Un killer astuto e spietato sta uccidendo a raffica, nei modi più raccapriccianti, personaggi scelti con cura. Sulle sue tracce ci sono il giovane e ambizioso Mills, alla prima missione, e l'esperto Somerset, ormai prossimo alla pensione; personalità opposte che mal si tollerano a vicenda. Imparano a \"convivere\" man mano che la caccia all'assassino si fa più serrata e il mistero comincia a districarsi.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Seven|405|David Fincher"
-    },
-    {
-      "id": "tmdb-68",
-      "tmdbId": 68,
-      "imdbId": "tt0088846",
-      "origine": "scoperta",
-      "titolo": "Brazil",
-      "titoloOriginale": "Brazil",
-      "anno": "1985",
-      "uscitaItalia": "1985-08-23",
-      "regia": "Terry Gilliam",
-      "generi": [
-        "Commedia",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 131,
-      "tagline": "È solo uno stato mentale.",
-      "cast": [
-        "Jonathan Pryce (Sam Lowry)",
-        "Robert De Niro (Harry Tuttle)",
-        "Katherine Helmond (Mrs. Ida Lowry)",
-        "Ian Holm (Mr. Kurtzmann)",
-        "Bob Hoskins (Spoor)",
-        "Michael Palin (Jack Lint)"
-      ],
-      "tramaTmdb": "Sam Lowry è un tecnocrate in una società futuristica che è inutilmente contorta e inefficiente. Sogna una vita dove può volare via dalla tecnologia, dalla burocrazia opprimente e trascorrere l'eternità con la donna dei suoi sogni. Cercando di correggere l'arresto illegittimo di Harry Buttle, Lowry incontra la donna che insegue sempre nei suoi sogni, Jill Layton. Nel frattempo, la burocrazia lo ha indicato come responsabile di una serie di attentati terroristici, e le vite di Sam e Jill sono in pericolo.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Brazil|508|Terry Gilliam"
-    },
-    {
-      "id": "tmdb-209361",
-      "tmdbId": 209361,
-      "imdbId": "tt1196956",
-      "origine": "scoperta",
-      "titolo": "One Chance - L'opera della mia vita",
-      "titoloOriginale": "One Chance",
-      "anno": "2013",
-      "uscitaItalia": "2013-09-09",
-      "regia": "David Frankel",
-      "generi": [
-        "Dramma",
-        "Commedia",
-        "Musica"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 96,
-      "tagline": "L'incredibile storia vera di un perdente che non si è mai arreso",
-      "cast": [
-        "James Corden (Paul Potts)",
-        "Alexandra Roach (Julz)",
-        "Julie Walters (Yvonne)",
-        "Colm Meaney (Roland Potts)",
-        "Jemima Rooper (Hydrangea)",
-        "Mackenzie Crook (Braddon)"
-      ],
-      "tramaTmdb": "La vera ed emozionante storia di Paul Potts (James Corden), un timido commesso vittima di bullismo che di notte si trasforma in un cantante lirico amatoriale. Dopo essere stato scelto da Simon Cowell per il programma \"Britain's Got Talent\", Paul diventa una stella di YouTube, capace con la sua potente voce di attirare e allietare il pubblico di tutto il mondo conquistandone il cuore.",
-      "motivi": [
-        "regia di David Frankel, di cui hai visto un film",
-        "regia di David Frankel, che segui"
-      ],
-      "impronta": "One Chance - L'opera della mia vita|386|David Frankel"
-    },
-    {
-      "id": "tmdb-311",
-      "tmdbId": 311,
-      "imdbId": "tt0087843",
-      "origine": "scoperta",
-      "titolo": "C'era una volta in America",
-      "titoloOriginale": "Once Upon a Time in America",
-      "anno": "1984",
-      "uscitaItalia": "1984-09-28",
-      "regia": "Sergio Leone",
-      "generi": [
-        "Dramma",
-        "Crime"
-      ],
-      "paesi": [
-        "USA",
-        "Italia"
-      ],
-      "durata": 229,
-      "tagline": null,
-      "cast": [
-        "Robert De Niro (Noodles)",
-        "James Woods (Max)",
-        "Elizabeth McGovern (Deborah)",
-        "Joe Pesci (Frankie)",
-        "Burt Young (Joe)",
-        "Tuesday Weld (Carol)"
-      ],
-      "tramaTmdb": "Il quartiere ebraico della New York anni '20 costituisce il campo delle gesta di una piccola banda di ragazzini. Li capeggiano Max e Noodles, la strada è il loro regno per scippi, furterelli, ricatti al poliziotto di zona e così via. Ma i ragazzi crescono, e l'epoca del proibizionismo incalza...",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "C'era una volta in America|296|Sergio Leone"
-    },
-    {
-      "id": "tmdb-37724",
-      "tmdbId": 37724,
-      "imdbId": "tt1074638",
-      "origine": "scoperta",
-      "titolo": "Skyfall",
-      "titoloOriginale": "Skyfall",
-      "anno": "2012",
-      "uscitaItalia": "2012-10-31",
-      "regia": "Sam Mendes",
-      "generi": [
-        "Azione",
-        "Avventura",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 143,
-      "tagline": "Agente 007 - Skyfall",
-      "cast": [
-        "Daniel Craig (James Bond)",
-        "Judi Dench (M)",
-        "Javier Bardem (Silva)",
-        "Ralph Fiennes (Gareth Mallory)",
-        "Naomie Harris (Eve)",
-        "Bérénice Marlohe (Séverine)"
-      ],
-      "tramaTmdb": "James Bond deve recuperare un file segretato contenente la lista dei nomi degli agenti infiltrati dell'MI6, che però finisce pubblicato su Internet. Bond, sopravvissuto alla caduta e alla inoperosità, è richiamato al dovere da un attentato alla sede dell'MI6. L’obiettivo è M e il mandante è Silva, un ex agente che ha coltivato la vendetta e chiede il conto al suo ex direttore.",
-      "motivi": [
-        "c'è Javier Bardem, che hai visto 3 volte",
-        "c'è Javier Bardem, che hai visto 3 volte"
-      ],
-      "impronta": "Skyfall|379|Sam Mendes"
-    },
-    {
-      "id": "tmdb-10775",
-      "tmdbId": 10775,
-      "imdbId": "tt0338564",
-      "origine": "scoperta",
-      "titolo": "Infernal Affairs",
-      "titoloOriginale": "無間道",
-      "anno": "2002",
-      "uscitaItalia": "2002-12-12",
-      "regia": "麥兆輝",
-      "generi": [
-        "Dramma",
         "Thriller",
         "Crime"
       ],
       "paesi": [
-        "Hong Kong"
-      ],
-      "durata": 101,
-      "tagline": null,
-      "cast": [
-        "Andy Lau (Senior Inspector Lau Kin-ming)",
-        "Tony Leung Chiu-wai (Chan Wing-yan)",
-        "黃秋生 (Superintendent Wong Chi-shing)",
-        "曾志偉 (Hon Sam)",
-        "陳慧琳 (Dr. Lee Sum-yee)",
-        "鄭秀文 (Mary)"
-      ],
-      "tramaTmdb": "Chan e' un poliziotto che si e' infiltrato nelle Triadi per ottenere informazioni sull'organizzazione criminale e sui suoi membri; Lau e' un membro delle Triadi che si e' infiltrato nella polizia per passare informazioni ai suoi capi. Presto le rispettive \"finzioni\" creeranno non pochi problemi di ordine morale ai due, mentre in entrambi gli ambienti cresce il sospetto della presenza di una spia.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Infernal Affairs|399|麥兆輝"
-    },
-    {
-      "id": "tmdb-510",
-      "tmdbId": 510,
-      "imdbId": "tt0073486",
-      "origine": "scoperta",
-      "titolo": "Qualcuno volò sul nido del cuculo",
-      "titoloOriginale": "One Flew Over the Cuckoo's Nest",
-      "anno": "1976",
-      "uscitaItalia": "1976-03-12",
-      "regia": "Miloš Forman",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 133,
-      "tagline": null,
-      "cast": [
-        "Jack Nicholson (Randle Patrick McMurphy)",
-        "Brad Dourif (Billy Bibbit)",
-        "Louise Fletcher (Nurse Mildred Ratched)",
-        "Danny DeVito (Martini)",
-        "William Redfield (Dale Harding)",
-        "Scatman Crothers (Orderly Turkle)"
-      ],
-      "tramaTmdb": "Candle McMurphy, arrestato per piccoli reati, viene portato in una clinica psichiatrica: tenta di fingersi pazzo per sfuggire al carcere. Qui viene a contatto con gli altri pazienti dei quali diventa ben presto il beniamino: si prende gioco delle sedute di psicoanalisi, si improvvisa telecronista, organizza una piccola gita in barca. L'ospedale è diretto dalla ferrea capoinfermiera, la signorina Ratched che ha organizzato la vita dei pazienti secondo regole di intransigente disciplina.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Qualcuno volò sul nido del cuculo|490|Miloš Forman"
-    },
-    {
-      "id": "tmdb-1124",
-      "tmdbId": 1124,
-      "imdbId": "tt0482571",
-      "origine": "scoperta",
-      "titolo": "The Prestige",
-      "titoloOriginale": "The Prestige",
-      "anno": "2006",
-      "uscitaItalia": "2006-12-22",
-      "regia": "Christopher Nolan",
-      "generi": [
-        "Dramma",
-        "Mistero",
-        "Fantascienza"
-      ],
-      "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 130,
-      "tagline": "Stai guardando attentamente?",
+      "durata": 146,
+      "tagline": "Benvenuti in un mondo senza regole.",
       "cast": [
-        "Hugh Jackman (Robert Angier)",
-        "Christian Bale (Alfred Borden)",
-        "Michael Caine (Cutter)",
-        "Piper Perabo (Julia McCullough)",
-        "Rebecca Hall (Sarah)",
-        "Scarlett Johansson (Olivia Wenscombe)"
+        "Christian Bale (Bruce Wayne)",
+        "Heath Ledger (Joker)",
+        "Aaron Eckhart (Harvey Dent)",
+        "Michael Caine (Alfred)",
+        "Maggie Gyllenhaal (Rachel)",
+        "Gary Oldman (Gordon)"
       ],
-      "tramaTmdb": "Due giovani maghi apprendisti, Robert Angier e Alfred Borden, vengono istruiti e seguiti da Cutter, un ingegnere illusionista ed ex mago, ma durante un numero in cui una donna viene legata e messa in una cassa di vetro piena d'acqua, qualcosa va storto e Angier incolperà l'amico dell'accaduto, tentando di vendicarsi. Inizia così un crudele gioco tra i due uomini su chi sia il migliore e la rivalità si trasformerà pian piano in ossessione.",
+      "tramaTmdb": "Il crimine organizzato a Gotham City ha le ore contate. Batman, il tenente Gordon, il nuovo Procuratore Distrettuale e alcuni improbabili epigoni dell'Uomo Pipistrello in imbottiture da hockey hanno dichiarato guerra ai criminali. La loro fortuna e i loro dollari, accumulati in una banca di massima sicurezza, vengono rubati da Joker, un pagliaccio sadico e mascherato che getterà la città nel disordine e nell'anarchia. Riempite le tasche di lame, polvere da sparo e lanugine, Joker sfiderà il cavaliere oscuro di Bruce Wayne e rivelerà il lato oscuro di Harvey Dent, l'eroe procuratore che applica",
       "motivi": [
         "regia di Christopher Nolan, di cui hai visto 2 film",
         "regia di Christopher Nolan, che segui"
       ],
-      "impronta": "The Prestige|442|Christopher Nolan"
+      "impronta": "Il cavaliere oscuro|600|Christopher Nolan"
+    },
+    {
+      "id": "tmdb-11423",
+      "tmdbId": 11423,
+      "imdbId": "tt0353969",
+      "origine": "scoperta",
+      "titolo": "Memorie di un assassino",
+      "titoloOriginale": "살인의 추억",
+      "anno": "2020",
+      "uscitaItalia": "2020-02-13",
+      "regia": "봉준호",
+      "generi": [
+        "Crime",
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "Corea del Sud"
+      ],
+      "durata": 129,
+      "tagline": "Il peggio di loro rimarrà con te ... per sempre",
+      "cast": [
+        "Song Kang-ho (Detective Park Doo-man)",
+        "김상경 (Detective Seo Tae-yoon)",
+        "김뢰하 (Detective Cho Yong-koo)",
+        "Song Jae-ho (Sergeant Shin Dong-chul)",
+        "변희봉 (Sergeant Koo Hee-bong)",
+        "고서희 (Officer Kwon Kwi-ok)"
+      ],
+      "tramaTmdb": "In un villaggio nella provincia di Gyunggi viene rinvenuto il cadavere di una donna che prima di essere uccisa è stata stuprata. Due detectives locali si fanno carico del caso ma, sebbene non usino i guanti bianchi nel condurre le indagini, non arrivano a nulla. Ad aiutare l'inesperta coppia arriva da Seul il collega Seo Tae-yoon, mentre altri omicidi commessi con lo stesso modus operandi cominciano a far pensare ad un serial killer…",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Memorie di un assassino|437|봉준호"
+    },
+    {
+      "id": "tmdb-670",
+      "tmdbId": 670,
+      "imdbId": "tt0364569",
+      "origine": "scoperta",
+      "titolo": "Old Boy",
+      "titoloOriginale": "올드보이",
+      "anno": "2005",
+      "uscitaItalia": "2005-05-06",
+      "regia": "Park Chan-wook",
+      "generi": [
+        "Thriller",
+        "Mistero"
+      ],
+      "paesi": [
+        "Corea del Sud"
+      ],
+      "durata": 119,
+      "tagline": "Ridi, e il mondo riderà con te. Piangi, e piangerai da solo.",
+      "cast": [
+        "최민식 (Oh Dae-su)",
+        "유지태 (Lee Woo-jin)",
+        "강혜정 (Mi-do)",
+        "김병옥 (Mr. Han)",
+        "지대한 (No Joo-hwan)",
+        "오달수 (Park Cheol-woong)"
+      ],
+      "tramaTmdb": "È la storia di Dae-su, imprigionato per 15 anni senza sapere perché, e della sua implacabile vendetta una volta libero. Non dovrà cercare lontano, perché il suo persecutore non ha ancora chiuso la partita. L'appena conosciuta e subito amata Mi-do lo accompagnerà alla ricerca della rivincita e, più ancora, del motivo della sua prigionia.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Old Boy|338|Park Chan-wook"
+    },
+    {
+      "id": "tmdb-635302",
+      "tmdbId": 635302,
+      "imdbId": "tt11032374",
+      "origine": "scoperta",
+      "titolo": "Demon Slayer - Il treno Mugen",
+      "titoloOriginale": "劇場版「鬼滅の刃」無限列車編",
+      "anno": "2020",
+      "uscitaItalia": "2020-10-16",
+      "regia": "外崎春雄",
+      "generi": [
+        "Animazione",
+        "Azione",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 117,
+      "tagline": "Con la tua lama, poni fine all'incubo",
+      "cast": [
+        "Natsuki Hanae (Tanjiro Kamado (voice))",
+        "Akari Kito (Nezuko Kamado (voice))",
+        "Hiro Shimono (Zenitsu Agatsuma (voice))",
+        "Yoshitsugu Matsuoka (Inosuke Hashibira (voice))",
+        "Satoshi Hino (Kyojuro Rengoku (voice))",
+        "Takahiro Sakurai (Giyu Tomioka (voice))"
+      ],
+      "tramaTmdb": "Enmu, recentemente liberato dalle celle Muzan, si propone di attaccare un misterioso treno in movimento. Nel corso dell'attacco, il demone consuma molti passeggeri. Tanjiro Kamado viene in soccorso, ma questo treno in movimento trasporta più di un cattivo demone da combattere.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Demon Slayer - Il treno Mugen|277|外崎春雄"
+    },
+    {
+      "id": "tmdb-524434",
+      "tmdbId": 524434,
+      "imdbId": "tt9032400",
+      "origine": "scoperta",
+      "titolo": "Eternals",
+      "titoloOriginale": "Eternals",
+      "anno": "2021",
+      "uscitaItalia": "2021-11-03",
+      "regia": "Chloé Zhao",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 156,
+      "tagline": "La fine è solo l'inizio!",
+      "cast": [
+        "Gemma Chan (Sersi)",
+        "Richard Madden (Ikaris)",
+        "Angelina Jolie (Thena)",
+        "Salma Hayek Pinault (Ajak)",
+        "Kumail Nanjiani (Kingo)",
+        "Lia McHugh (Sprite)"
+      ],
+      "tramaTmdb": "Ne \"Gli Eterni\" dei Marvel Studios un nuovo, entusiasmante, team di supereroi debutta nell’universo cinematografico Marvel: antichi alieni che vivono in segreto sulla Terra da migliaia di anni. A seguito degli eventi di \"Avengers: Endgame\", una tragedia inaspettata li costringe a uscire dalle ombre per ricongiungersi con il più antico nemico dell’umanità, i Devianti.",
+      "motivi": [
+        "regia di Chloé Zhao, di cui hai visto un film",
+        "regia di Chloé Zhao, che segui"
+      ],
+      "impronta": "Eternals|369|Chloé Zhao"
+    },
+    {
+      "id": "tmdb-554230",
+      "tmdbId": 554230,
+      "imdbId": "tt9100054",
+      "origine": "scoperta",
+      "titolo": "La figlia oscura",
+      "titoloOriginale": "The Lost Daughter",
+      "anno": "2022",
+      "uscitaItalia": "2022-04-07",
+      "regia": "Maggie Gyllenhaal",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Greece",
+        "Israel",
+        "Regno Unito"
+      ],
+      "durata": 121,
+      "tagline": null,
+      "cast": [
+        "Olivia Colman (Leda Caruso)",
+        "Jessie Buckley (Young Leda Caruso)",
+        "Dakota Johnson (Nina)",
+        "Ed Harris (Lyle)",
+        "Paul Mescal (Will)",
+        "Peter Sarsgaard (Professor Hardy)"
+      ],
+      "tramaTmdb": "Sola in una località di mare, Leda osserva ossessivamente una giovane madre e la figlia in spiaggia. Turbata dalla complicità del loro rapporto (e dalla loro famiglia, chiassosa e sinistra), Leda è sopraffatta dai ricordi legati allo sgomento, allo smarrimento e all’intensità della propria maternità. Un gesto impulsivo catapulta Leda nello strano e minaccioso universo della sua stessa mente, in cui è costretta a fare i conti con le scelte anticonformiste fatte quando era una giovane madre e con le loro conseguenze.",
+      "motivi": [
+        "c'è Paul Mescal, che hai visto 2 volte",
+        "c'è Paul Mescal, che hai visto 2 volte"
+      ],
+      "impronta": "La figlia oscura|520|Maggie Gyllenhaal"
+    },
+    {
+      "id": "tmdb-453278",
+      "tmdbId": 453278,
+      "imdbId": "tt6217608",
+      "origine": "scoperta",
+      "titolo": "The Rider - Il sogno di un cowboy",
+      "titoloOriginale": "The Rider",
+      "anno": "2019",
+      "uscitaItalia": "2019-08-29",
+      "regia": "Chloé Zhao",
+      "generi": [
+        "Dramma",
+        "Western"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 103,
+      "tagline": null,
+      "cast": [
+        "Brady Jandreau (Brady Blackburn)",
+        "Tim Jandreau (Wayne Blackburn)",
+        "Lilly Jandreau (Lilly Blackburn)",
+        "Cat Clifford (Cat Clifford)",
+        "Terri Dawn Pourier (Terri Dawn Pourier)",
+        "Lane Scott (Lane Scott)"
+      ],
+      "tramaTmdb": "Nella riserva di Pine Ridge, nel South Dakota, Brady Blackburn addestra cavalli selvaggi. Giovane cowboy e stella nascente del rodeo, apprende dal suo medico di non poter più cavalcare. Una brutta caduta lo ha disarcionato per sempre, sfondandogli il cranio in maniera quasi fatale. A fianco della sorellina, affetta dalla sindrome di Asperger, e in lotta col padre piegato dal lavoro e dalle responsabilità, cerca una nuova ragione di vita in un Paese che non fa sconti.",
+      "motivi": [
+        "regia di Chloé Zhao, di cui hai visto un film",
+        "regia di Chloé Zhao, che segui"
+      ],
+      "impronta": "The Rider - Il sogno di un cowboy|471|Chloé Zhao"
+    },
+    {
+      "id": "tmdb-165",
+      "tmdbId": 165,
+      "imdbId": "tt0096874",
+      "origine": "scoperta",
+      "titolo": "Ritorno al futuro - Parte II",
+      "titoloOriginale": "Back to the Future Part II",
+      "anno": "1989",
+      "uscitaItalia": "1989-12-22",
+      "regia": "Robert Zemeckis",
+      "generi": [
+        "Avventura",
+        "Commedia",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 108,
+      "tagline": "Strade? Dove stiamo andando non c'è bisogno di strade!",
+      "cast": [
+        "Michael J. Fox (Marty McFly / Marty McFly Junior / Marlene McFly)",
+        "Christopher Lloyd (Doctor Emmett Brown)",
+        "Lea Thompson (Lorraine)",
+        "Thomas F. Wilson (Biff Tannen / Griff)",
+        "Elisabeth Shue (Jennifer)",
+        "James Tolkan (Strickland)"
+      ],
+      "tramaTmdb": "Il film comincia dove terminava il primo capitolo, ovvero con Marty e Jennifer che partono insieme allo scienziato Doc, inventore della macchina del tempo, per il 2015 allo scopo di evitare che il futuro dei loro figli possa essere in pericolo. Ma la situazione precipita e ad essere in pericolo non è più il futuro, ma il passato. Marty dovrà tornare nuovamente nel 1955 e...",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Ritorno al futuro - Parte II|376|Robert Zemeckis"
+    },
+    {
+      "id": "tmdb-8871",
+      "tmdbId": 8871,
+      "imdbId": "tt0170016",
+      "origine": "scoperta",
+      "titolo": "Il Grinch",
+      "titoloOriginale": "How the Grinch Stole Christmas",
+      "anno": "2000",
+      "uscitaItalia": "2000-11-17",
+      "regia": "Ron Howard",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA",
+        "Germania"
+      ],
+      "durata": 104,
+      "tagline": "Metti tutto il verde che c'è.",
+      "cast": [
+        "Jim Carrey (Grinch)",
+        "Taylor Momsen (Cindy Lou Who)",
+        "Jeffrey Tambor (Mayor Augustus Maywho)",
+        "Christine Baranski (Martha May Whovier)",
+        "Bill Irwin (Lou Lou Who)",
+        "Molly Shannon (Betty Lou Who)"
+      ],
+      "tramaTmdb": "È la storia di una creatura con il cuore due volte più piccolo del normale e che si traveste da Babbo Natale. Ruba regali, alberi di Natale e cibo.",
+      "motivi": [
+        "c'è Bryce Dallas Howard, che hai visto 3 volte"
+      ],
+      "impronta": "Il Grinch|147|Ron Howard"
+    },
+    {
+      "id": "tmdb-166428",
+      "tmdbId": 166428,
+      "imdbId": "tt2386490",
+      "origine": "scoperta",
+      "titolo": "Dragon Trainer - Il mondo nascosto",
+      "titoloOriginale": "How to Train Your Dragon: The Hidden World",
+      "anno": "2019",
+      "uscitaItalia": "2019-01-31",
+      "regia": "Dean DeBlois",
+      "generi": [
+        "Animazione",
+        "Famiglia",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 104,
+      "tagline": null,
+      "cast": [
+        "Jay Baruchel (Hiccup (voice))",
+        "America Ferrera (Astrid (voice))",
+        "F. Murray Abraham (Grimmel (voice))",
+        "Cate Blanchett (Valka (voice))",
+        "Gerard Butler (Stoick (voice))",
+        "Craig Ferguson (Gobber (voice))"
+      ],
+      "tramaTmdb": "Hiccup ha preso il posto del padre Stoyck come leader di Berk, nonostante del leader debba ancora trovare la stoffa, mentre Sdentato è il nuovo Alfa, il drago da cui tutti gli altri draghi si lasciano guidare. Uomini e draghi convivono, dunque, felicemente e scomodamente, ma l'utopia ha i giorni contati: Grimmel il Grifagno, assetato killer di Furie Buie, è sulle tracce di Sdentato e ha stretto un patto con i nemici di Hiccup promettendo loro di riportare in gabbia ogni drago in libertà. Non resta che partire, lasciare la propria terra, alla ricerca di quel mondo nascosto di cui vaneggiava Sto",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Dragon Trainer - Il mondo nascosto|600|Dean DeBlois"
     }
   ]
 }

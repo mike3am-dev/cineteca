@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-27T05:06:05.688Z",
+  "preparato": "2026-09-28T05:06:58.657Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -34,84 +34,279 @@
   },
   "articoli": [
     {
-      "link": "https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714/",
+      "link": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-rerelease-huge-86-million-globally-1236876861/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-09-27T02:04:00.000Z",
-      "titolo": "Jon Watts to Direct Next ‘Star Wars’ Movie",
-      "sommario": "A new “Star Wars” movie is currently in development with director Jon Watts attached. Watts is best known for directing the popular “Spider-Man” trilogy starring Tom Holland, which includes 2017’s Spider-Man: Homecoming,” 2019’s “Spider-Man: Far From Home,” and 2021’s “Spider-Man: No Way Home.” (2026’s “Spider-Man: Bra",
+      "data": "2026-09-27T16:16:45.000Z",
+      "titolo": "‘Avengers: Endgame Encore’ Scores Massive $86 Million Globally, Brad Pitt’s ‘Heart of the Beast’ Launches to $50 Million Worldwide",
+      "sommario": "“Avengers: Endgame” returned to theaters and assembled a massive $86 million globally, including $26 million in North America and $60 million overseas. Disney and Marvel’s 2019 blockbuster was already the second-highest-grossing movie in box office history with $2.79 billion; this weekend’s haul brings the movie’s stag",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Spider-Man: Brand New Day (in libreria)",
-        "Tom Holland"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/09/star-wars-continuing-skywalker-saga-director-jon-watts-1237114584/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-27T03:07:27.000Z",
-      "titolo": "‘Star Wars’ Is Continuing Skywalker Saga With ‘Spider-Man’ Director Jon Watts",
-      "sommario": "After eight years and countless entries in the expanding onscreen universe, Star Wars is revisiting the Skywalker family with its next project. Deadline can confirm that Lucasfilm has tapped Skeleton Crew co-creator Jon Watts (director of Spider-Man: Homecoming, Spider-Man: Far From Home and Spider-Man: No Way Home) to",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Spider-Man: Brand New Day (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/09/backrooms-kane-parson-not-horror-project-zurich-summit-1237114440/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-26T13:41:28.000Z",
-      "titolo": "‘Backrooms’ Director Kane Parsons Says: “I Don’t View It As A Horror Project” – Zurich Summit",
-      "sommario": "Kane Parson’s $400M hit Backrooms, spinning off his web-series inspired by “creepypasta’ horror content on the internet, is invariably and understandably billed as a horror. The director told a panel at the Zurich Summit on Saturday, however, that he does not see it as being aligned with the genre. “I didn’t direct lik",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Backrooms (in libreria, visto)",
-        "Kane Parsons"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-encore-box-office-primetime-heart-beast-1236712502/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-26T16:01:22.000Z",
-      "titolo": "‘Avengers: Endgame’ Snapping Up $26M at Box Office Amid Crowded Weekend",
-      "sommario": "'Heart of the Beast,' 'Primetime' and 'Forgotten Island' are among the newcomers battling with returnee 'Resident Evil.'",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Resident Evil (in libreria)",
         "Heart of the Beast - Nel profondo selvaggio",
-        "L'isola dei ricordi",
         "Avengers: Doomsday",
         "Brad Pitt"
       ],
+      "radar": "avventura e thriller: il tuo terreno"
+    },
+    {
+      "link": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-27T15:35:35.000Z",
+      "titolo": "Box Office: ‘Avengers: Endgame Encore’ Returns to No. 1 With $26 Million, ‘Primetime’ Scores Impressive $19 Million Debut",
+      "sommario": "“Avengers: Endgame Encore,” a re-release of Disney and Marvel’s 2019 blockbuster (with extra footage!), emerged victorious at the domestic box office over several new releases. “Avengers: Endgame Encore” generated $26 million from 3,060 North American theaters over the weekend, a sizable haul for a movie that’s been av",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Heart of the Beast - Nel profondo selvaggio",
+        "L'isola dei ricordi"
+      ],
+      "radar": "avventura e thriller: il tuo terreno"
+    },
+    {
+      "link": "https://variety.com/2026/film/news/avengers-doomsday-director-very-difficult-mcu-characters-1236876967/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-27T21:02:16.000Z",
+      "titolo": "‘Avengers: Doomsday’ Co-Director Explains It’s ‘Very Difficult’ to Evolve Marvel Characters, but ‘We Need to Surprise Ourselves’ and ‘Audiences’",
+      "sommario": "“Avengers: Doomsday” co-director Anthony Russo has opened up about the pressure that comes with evolving the franchise’s iconic superhero characters, explaining that finding the balance between moving the story forward and honoring those already-beloved characters can be “very difficult.” “It’s a very difficult part of",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://www.slashfilm.com/2266650/robert-pattinson-primetime-oscar-buzz-actor-skyler-gisondo/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-09-27T13:00:00.000Z",
+      "titolo": "Robert Pattinson's Primetime Oscar Buzz Overlooks A Crucial Co-Star",
+      "sommario": "Robert Pattinson is fantastic in Primetime and deserves all the buzz he's getting, but one of his co-stars deserves just as much attention.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Robert Pattinson"
+      ],
+      "radar": "c'è Robert Pattinson, che hai visto 2 volte"
+    },
+    {
+      "link": "https://variety.com/2026/film/box-office/korea-box-office-the-assassins-tazza-4-chuseok-holiday-weekend-1236877125/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-28T01:23:59.000Z",
+      "titolo": "Korea Box Office: ‘The Assassin(s)’ and ‘Tazza 4’ Dominate Chuseok Holiday Weekend Surge",
+      "sommario": "Director Hur Jin-ho’s political crime thriller “The Assassin(s)” powered to the top of the South Korean box office over the weekend of Sep. 25–27, leading a major holiday box office surge across the peak Chuseok festival frame. According to data from KOBIS, the tracking service operated by the Korean Film Council, the ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/kane-parsons-backrooms-2-film-sequel-zurich-hollywood-1236712483/",
+      "link": "https://variety.com/2026/film/news/godzilla-minus-zero-best-picture-nomination-oscars-nyff-1236876769/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-27T15:12:34.000Z",
+      "titolo": "‘Godzilla Minus Zero’ Sets Sights on Best Picture Oscar Nomination: ‘If the Possibility Is Not Zero, It’s Hard Not to Have a Little Bit of Hope’",
+      "sommario": "“Godzilla Minus One” made franchise history in 2024 when it won Best Visual Effects at the 96th Academy Awards, becoming the first Godzilla film to win an Oscar. Now, after Takashi Yamazaki’s highly anticipated sequel, “Godzilla Minus Zero,” premiered to rave reviews at the New York Film Festival, some fans are already",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-batman-tough-exist-james-gunn-dcu-1236712962/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-09-26T13:14:51.000Z",
-      "titolo": "Kane Parsons Says ‘Backrooms’ Fans Were Braced for Hollywood to “Mess It Up”",
-      "sommario": "Luckily, the young filmmaker told the Zurich Summit that he likes to think he did the core idea of his iconic YouTube series justice — and touched on the possibility of a sequel.",
+      "data": "2026-09-27T20:43:17.000Z",
+      "titolo": "Robert Pattinson Says It Would Be “Tough” for His Batman to Interact With Other Characters in James Gunn’s DCU",
+      "sommario": "The actor plays Bruce Wayne in Matt Reeves’ 'The Batman' and the upcoming sequel.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Backrooms (in libreria, visto)",
-        "Kane Parsons"
+        "The Batman: Part II (in libreria)",
+        "The Batman (in libreria, visto)",
+        "Matt Reeves",
+        "Robert Pattinson"
       ],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/news/robert-pattinson-batman-superman-james-gunn-1236876674/",
+      "link": "https://variety.com/2026/film/news/chris-rock-infidelity-hollywood-misty-green-nyff-1236876867/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-09-27T00:04:39.000Z",
-      "titolo": "Robert Pattinson Says It Would Be ‘Tough’ for His Batman to Exist Within James Gunn’s DCU",
-      "sommario": "Superman and Batman might be one of the DC Universe’s most famous partnerships, but Robert Pattinson is officially ending speculation that his take on Bruce Wayne would fit in the cinematic world created by James Gunn. “I think it would be kind of tough to have this version of Bruce outside of that world,” Pattinson […",
+      "data": "2026-09-27T16:52:25.000Z",
+      "titolo": "Chris Rock Says Infidelity and Struggling to ‘Make It’ Aren’t Just Hollywood Problems: ‘If You Got No Love, You’re Broke as F—k’",
+      "sommario": "Chris Rock’s new movie “Misty Green” centers on a fictional actress (Rosalind Eleazar) mounting a Hollywood comeback after years in the throes of a fading career. Misty’s journey pokes fun at some of the trappings of trying to “make it” in the entertainment industry, a pursuit that Rock himself is rejecting after his d",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-27T15:48:01.000Z",
+      "titolo": "‘Musk’ Producer, Atwater-Magnific Exec & ‘Gods Don’t Give Gifts’ Director Talk AI: “It’s Important To Get In The Driver’s Seat” – Zurich Summit",
+      "sommario": "Musk producer Nick Shumaker, Hollywood film financier Vania Schlogel, directors Zack London (Gods Don’t Give Gifts) and Nick Holt (AI: Probably Nothing to Worry About) took to the stage at the Zurich Summit this weekend to dig into the implications of AI for film. Schlogel, who is founder and managing partner of L.A.-b",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-27T15:12:33.000Z",
+      "titolo": "Anna Kendrick ‘Over the Moon’ About Directing ‘The Seven Husbands of Evelyn Hugo,’ Compares ‘Pitch Perfect’ Friendships to the Avengers",
+      "sommario": "Anna Kendrick, who is at the Zurich Film Festival for the European premiere of Lauren Miller Rogen’s “Babies,” spoke briefly about her next directorial project, “The Seven Husbands of Evelyn Hugo.” Back in June, it was announced that Kendrick would direct the Netflix film, adapted from Taylor Jenkins Reid’s best-sellin",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/awards/naomi-watts-mullholland-drive-early-career-menopause-1236876797/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-27T13:14:13.000Z",
+      "titolo": "Naomi Watts Recalls Being Told She ‘Freaked People Out’ Early in Her Career: ‘Yeah, No S—. I Was Desperate, Behind on My Rent and Getting Evicted’",
+      "sommario": "Naomi Watts waited a long time to become a star. “It was a grind. That 10 years before I met David, I became so locked up and I felt worthless. My agent pulled me aside and she said: ‘We need to have a heart to heart. Honey, you are too intense. You are freaking people […]",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/awards/martin-mcdonagh-wild-horse-nine-political-john-malkovich-1236876794/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-09-27T11:54:24.000Z",
+      "titolo": "Martin McDonagh Jokes About His Past – as a Hitman – and Calls ‘Wild Horse Nine’ His Most Political Film: ‘There’s Too Much Artistic Neutrality and Too Much Saying Nothing’",
+      "sommario": "Martin McDonagh is taking a stand with “Wild Horse Nine.” “This is probably my most political film. That’s why I find it very exciting to be releasing this monster into the world,” he said at the Zurich Film Festival. “I feel like, in the modern day, there’s perhaps a little too much artistic neutrality, or […]",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/09/federal-film-tax-incentives-impact-timeline-price-rises-1237114676/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-09-27T11:43:46.000Z",
+      "titolo": "Film Execs Ponder Federal Film Tax Credit Impact, Timeline & Potential Price Rises — Zurich Summit",
+      "sommario": "At this weekend’s Zurich Summit a group of film financiers were asked by Deadline for their thoughts on the prospects of a U.S. federal film incentive. Last week, a bipartisan group of lawmakers unveiled the bill for a 20% incentive, which with bonuses could bring the total rebate to 30%. The move has long been […]",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/israeli-americans-protest-naza-doc-new-york-premiere-1236712821/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-27T16:23:33.000Z",
+      "titolo": "Israeli Americans Protest Outside ‘NAZA’ New York Premiere by Screening Oct. 7 Attacks Footage",
+      "sommario": "Israeli-American Council (IAC) co-chair Tal Shuster said of the Israel–Gaza war documentary, \"We're not saying, don't show the film. We're saying: show all the facts.\"",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/anna-kendrick-seven-husbands-evelyn-hugo-film-babies-zurich-1236712816/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-09-27T15:39:09.000Z",
+      "titolo": "Anna Kendrick Is “Over the Moon” About Directing ‘The Seven Husbands of Evelyn Hugo’",
+      "sommario": "The 'Babies' actress covered George Clooney, 'Twilight' (\"what the f*** am I doing here?\") and 'Pitch Perfect's \"revisionist history\" in a career-spanning conversation at the Zurich Film Festival.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/27/salzburg-new-sound-of-music-museum-celebrates-true-story-of-von-trapp-family",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-27T05:00:55.000Z",
+      "titolo": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
+      "sommario": "<p>Sixty years after the film’s release, Salzburg is embracing a Hollywood classic it once kept at arm’s length</p><p>Let’s start at the very beginning – famously, a very good place to start.</p><p>Just two decades after the second world war, a Hollywood crew descended on Salzburg with stars, show tunes and a compellin",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-27T00:00:49.000Z",
+      "titolo": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
+      "sommario": "<p><strong>New York film festival: </strong>The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects</p><p>Even by the standards of older movie stars catching a major second wind later in their careers, Godzilla pulled off an impressive reclamation of the sp",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-09-27T00:48:09.000Z",
+      "titolo": "NAZA film-makers address threats at documentary’s New York City premiere",
+      "sommario": "<p>Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officials</p><p>The film-makers behind <a href=\"https://www.theguardian.com/film/naza\">NAZA</a>, the award-winning documentary on Israel’s systemic mass killing of Palestinians in Gaza, defended their findings",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/cinema-news/2026/avengers-endgame-extra-torna-al-primo-posto-al-box-office-usa-723635",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-27T16:06:51.000Z",
+      "titolo": "Avengers: Endgame Extra torna al primo posto al box office USA: $26 milioni nel weekend",
+      "sommario": "Avengers: Endgame Extra torna al primo posto al box office USA: $26 milioni nel weekend Avengers: Endgame Extra torna al primo posto del box office nordamericano e riporta in sala il pubblico Marvel a pochi mesi dall’arrivo di Avengers: Doomsday. La riedizione del film del 2019, arricchita da materiale aggiuntivo, ha i",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://cinefilos.it/serie-tv/news/scapegoat-ari-aster-cast-scarlett-johansson-ella-purnell-723653",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-27T20:52:08.000Z",
+      "titolo": "Scapegoat, il nuovo film di Ari Aster con Scarlett Johansson aggiunge tre nuovi volti al cast",
+      "sommario": "Scapegoat, il nuovo film di Ari Aster con Scarlett Johansson aggiunge tre nuovi volti al cast Scapegoat, il nuovo film scritto e diretto da Ari Aster per A24, continua ad ampliare un cast già ricco di nomi importanti. Dopo Scarlett Johansson, Jude Law e Jacob Elordi, il progetto ha infatti aggiunto Ella Purnell, Samba ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Jacob Elordi",
+        "Scarlett Johansson"
+      ],
+      "radar": "c'è Jacob Elordi, che hai visto 2 volte"
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/avengers-doomsday-tutto-porta-qui-spiegata-la-timeline-del-multiverso-marvel",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-27T10:40:04.000Z",
+      "titolo": "Avengers: Doomsday, tutto porta qui: spiegata la timeline del Multiverso Marvel",
+      "sommario": "Scopri il filo conduttore dell'intera saga Marvel: da Avengers: Endgame a Loki, Doctor Strange e Deadpool, tutti gli eventi verso Avengers: Doomsday.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://cinefilos.it/cinema-news/2026/dont-breathe-3-jane-levy-stephen-lang-ritorno-723647",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-09-27T20:32:27.000Z",
+      "titolo": "Don’t Breathe 3 riunirà Jane Levy e Stephen Lang: il nuovo film ha già una sceneggiatura",
+      "sommario": "Don’t Breathe 3 riunirà Jane Levy e Stephen Lang: il nuovo film ha già una sceneggiatura Man in the Dark (Don’t Breathe) tornerà ufficialmente con un terzo film e lo farà riportando in scena due dei volti più importanti del franchise. Jane Levy e Stephen Lang torneranno infatti per Don’t Breathe 3, mentre Fede Álvarez ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Stephen Lang"
+      ],
+      "radar": "c'è Stephen Lang, che hai visto 2 volte"
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/primetime-robert-pattinson-al-centro-di-una-storia-controversa-perche-il-regista-ha-scelto-di-raccontarla",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-27T08:52:06.000Z",
+      "titolo": "Primetime, Robert Pattinson al centro di una storia controversa: perché il regista ha scelto di raccontarla",
+      "sommario": "Primetime con Robert Pattinson: il regista Lance Oppenheim spiega perché ha scelto di raccontare la controversa storia di Bill Conradt e Chris Hansen.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [
         "Robert Pattinson"
@@ -119,346 +314,70 @@
       "radar": "c'è Robert Pattinson, che hai visto 2 volte"
     },
     {
-      "link": "https://variety.com/2026/film/news/godzilla-minus-zero-r-rated-takashi-yamazaki-nyff-1236876643/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-27T01:08:45.000Z",
-      "titolo": "‘Godzilla Minus Zero’ Director Champions Franchise’s First R Rating as Sequel Rocks NYFF at World Premiere: ‘Censoring’ the Action ‘Was Not an Option’",
-      "sommario": "“Godzilla Minus Zero” blew the roof off Alice Tully Hall during its rapturous world premiere screening at the New York Film Festival. The long-awaited sequel to 2023’s “Godzilla Minus One” earned rave first reactions from the press earlier in the day, and that adoration rolled right into the world premiere. The movie w",
+      "link": "https://www.badtaste.it/articoli/dicaprio-brilla-ma-luhrmann-distrugge-ogni-sfumatura-questo-film-su-prime-video-non-convince",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-27T16:00:20.000Z",
+      "titolo": "DiCaprio brilla, ma Luhrmann distrugge ogni sfumatura: questo film su Prime Video non convince",
+      "sommario": "Baz Luhrmann stroncato a Cannes 2013: un film eccessivo che sacrifica la profondità di Fitzgerald per effetti speciali e spettacolo.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/news/film-news-in-brief-sept-21-2026-1236867385/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-26T23:52:00.000Z",
-      "titolo": "‘Jack & Christine’ Trailer: John Hawkes Turns A Dinner Party Into A Night of Chaos – Film News in Brief",
-      "sommario": "“Jack & Christine,” a thriller short film starring John Hawkes, released the first trailer ahead of its world premiere at Beyond Fest on Sunday. The trailer shows married couple Jack (Luke Barnett) and Christine (Nikki Lorenzo) hosting a dinner party that suddenly spirals into an intense, chaotic evening when a guest (",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/mike-leigh-tender-loving-care-san-sebastian-awards-festival-1236712566/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-26T20:49:13.000Z",
-      "titolo": "Mike Leigh’s ‘Tender Loving Care’ Sweeps San Sebastian Awards as ‘La Bola Negra,’ ‘NAZA’ Earn Audience Nods",
-      "sommario": "Amanda Kernell's 'Brace Your Heart' won the Swedish-Sami filmmaker the Silver Shell for best director as the Spanish film fest wrapped up its 74th edition, the last for outgoing director Jose Luis Rebordinos.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "La bola negra"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/global/marine-atlan-la-gradiva-queer-lisboa-1236876394/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-26T20:30:00.000Z",
-      "titolo": "Marine Atlan’s French Oscar Hopeful ‘La Gradiva’ Takes Top Prizes at 30th Queer Lisboa – the Biggest Edition to Date",
-      "sommario": "French filmmaker Marine Atlan’s lauded debut film “La Gradiva” proved the big winner at the 30th Queer Lisboa – International Queer Film Festival, taking the best feature film and audience awards. A sweeping portrait of the vicissitudes of youth, the film, which also won the top prize at the Cannes Critics’ Week, follo",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/primetime-movie-robert-pattinson-jonathan-lipnicki-scene-1236710284/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-26T14:45:00.000Z",
-      "titolo": "Jonathan Lipnicki on His Bold Role Opposite Robert Pattinson in ‘Primetime’ and Why He Left L.A.",
-      "sommario": "The former child star — famous for telling Tom Cruise \"a human head weighs eight pounds\" in 'Jerry Maguire' — opens up about baring all in the Lance Oppenheim-directed film, being brave and staying stubborn for what he loves most: \"I don't quit.\"",
+      "link": "https://www.badtaste.it/articoli/il-vero-chris-hansen-ha-visto-primetime-cosa-pensa-di-pattinson-mai-visto-niente-di-simile",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-09-27T10:04:53.000Z",
+      "titolo": "Il vero Chris Hansen ha visto Primetime, cosa pensa di Pattinson: \"Mai visto niente di simile\"",
+      "sommario": "Chris Hansen commenta Primetime, il film con Robert Pattinson ispirato a To Catch a Predator, e spiega perché non apprezza la sua rappresentazione.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [
-        "Robert Pattinson",
-        "Tom Cruise"
+        "Robert Pattinson"
       ],
       "radar": "c'è Robert Pattinson, che hai visto 2 volte"
     },
     {
-      "link": "https://deadline.com/lists/weekend-read-brad-pitt-james-gray-ari-emanuel-union-town/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-26T14:30:00.000Z",
-      "titolo": "The Weekend Read: Ari Emanuel Is Taking Names, The State Of The Unions, Brad Pitt’s Dog, James Gray’s Tiger & What Happened To YA On The CW?",
-      "sommario": "Rejoice! It’s the weekend! And that means it’s time to read all those juicy long-form features you missed. Among our curated picks from the past week: sit-downs with Ari Emanuel, whose new memoir Roll the Calls is rocking Hollywood (including recollections of our founder Nikki Finke), and James Gray, who discusses his ",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Heart of the Beast - Nel profondo selvaggio",
-        "Brad Pitt"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/aaron-taylor-johnson-robert-eggers-werwulf-trailer-1236712506/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-26T16:44:14.000Z",
-      "titolo": "Aaron Taylor-Johnson’s Monstrous Transformation Teased in Robert Eggers’ ‘Werwulf’ Trailer",
-      "sommario": "Lily-Rose Depp and Willem Dafoe also star in the upcoming horror film set to release Christmas Day.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2269809/robert-eggers-werwulf-new-trailer/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-09-26T15:10:08.000Z",
-      "titolo": "Werwulf Trailer: Robert Eggers' New Horror Movie Looks Like The Perfect Nosferatu Companion",
-      "sommario": "Get ready to bark at the moon with Aaron Taylor-Johnson in the latest spooky trailer for Robert Eggers' Werwulf, due out this Christmas.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/reviews/godzilla-minus-zero-review-takashi-yamazaki-nyff-1236876075/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-27T00:30:00.000Z",
-      "titolo": "‘Godzilla Minus Zero’ Review: Godzilla and King Ghidorah Battle to the Death in the Even Grander Follow-Up to ‘Godzilla Minus One’",
-      "sommario": "Yamazaki, who rebooted the genre and took it to a new peak in the revelatory 2023 retro kaiju classic \"Godzilla Minus One,\" works with a quality that none of the filmmakers of recent decades has summoned: a fairy-tale innocence, an immersion in the annihilating heavy-metal poetry of Godzilla — the way the destruction o",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/reviews/my-sad-dead-review-1236873618/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-26T22:05:25.000Z",
-      "titolo": "‘My Sad Dead’ Review: An Urban Community Gets the Haunting It Deserves in Pablo Larraín’s Superb Modern Gothic",
-      "sommario": "Macabre and melancholy but suffused with a delicious absurdism that somehow doesn’t clog the arteries of its hopeful little heart, Pablo Larraín’s sprawling, peculiar, terrific “My Sad Dead” is about 20 things at once in every moment. It’s a ghost story, obviously, on account of all the ghosts. It’s a droll tragicomedy",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-26T22:01:05.000Z",
-      "titolo": "‘NAZA’ Co-Director Yuval Abraham Calls Out the U.S. Government for ‘Funding’ Israel’s Destruction of Gaza, Telling NYFF Audience: ‘This Is What Your Country Is Supporting’",
-      "sommario": "The Gaza documentary “NAZA” made its North American premiere at the New York Film Festival to a massive standing ovation for co-directors Yuval Abraham and Rachel Szor who gave a brief Q&A with festival director Dennis Lim after the screening. Journalist and co-director Abraham told the crowd, many of whom were still d",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/naza-protests-anti-israel-nyff-oct-7-1236876471/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-09-26T20:44:47.000Z",
-      "titolo": "Israeli Americans Protest ‘NAZA’ by Screening October 7 Footage Outside New York Premiere: ‘Compassion For Palestinian Civilians Doesn’t Require Us to Erase October 7’",
-      "sommario": "The Israeli-American Council organized a protest Saturday afternoon outside the New York Film Festival premiere of “NAZA,” which the organization has described as an “anti-Israel” film that “makes serious allegations about the IDF’s conduct in the Gaza Strip while ignoring findings and information that contradict its c",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/09/we-had-no-idea-that-obsession-was-going-to-become-obsession-1237114475/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-09-26T17:27:03.000Z",
-      "titolo": "“I Can Promise You, We Had No Idea That ‘Obsession’ Was Going To Become ‘Obsession'”, Says Hit Horror Film’s Seller — Zurich Summit",
-      "sommario": "William Goldman’s adage that “nobody knows anything” never gets old. If studios and financiers knew what was going to work every time, everyone would be rich and the industry would be a lot less interesting. The old saying reared its head today at the Zurich Summit when filmmakers and brokers behind the year’s horror p",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/godzilla-minus-zero-review-takashi-yamazaki-1236712678/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-27T00:30:00.000Z",
-      "titolo": "‘Godzilla Minus Zero’ Review: Monster Movie Genius Takashi Yamazaki Returns With a Crackling Kaiju Epic Every Bit as Exciting as Its Predecessor",
-      "sommario": "This direct sequel to the 2023 global sensation picks up in 1949, as a makeshift family finds its domestic harmony again threatened by a rampaging creature’s path of destruction.",
-      "sezioneProvvisoria": "passato",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-james-gray-takeaways-ending-1236712649/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-26T22:17:07.000Z",
-      "titolo": "James Gray on Broader Takeaways From Personal Film ‘Paper Tiger’: “What Connects Us Is What Matters”",
-      "sommario": "As the crime thriller had its North American premiere at the New York Film Festival, the director spoke about how he hoped the domestic drama's open-ended resolution allows the story to continue for the audience after the credits.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-new-york-film-festival-premiere-1236712523/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-09-26T17:11:33.000Z",
-      "titolo": "‘Paper Tiger’ Makes Its Case at NYFF Premiere: “A Labor of Love”",
-      "sommario": "The James Gray film made its North American premiere to a warm reception on Friday evening, standing out as the kind of American indie that’s harder than ever to get made.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/tom-holland-balla-con-margaret-qualley-e-sabrina-carpenter-le-new-entry-al-cast-sul-biopic-fred-astaire",
+      "link": "https://www.badtaste.it/articoli/george-lucas-chiude-con-la-regia-ma-rivela-il-capitolo-di-star-wars-che-avrebbe-ancora-voluto-raccontare",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-09-26T10:01:02.000Z",
-      "titolo": "Tom Holland balla con Margaret Qualley e Sabrina Carpenter: le new entry al cast sul biopic Fred Astaire",
-      "sommario": "Margaret Qualley e Sabrina Carpenter si uniscono a Tom Holland nel biopic su Fred Astaire. Qualley sarà Adele Astaire, Carpenter interpreterà Ginger Rogers.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Tom Holland"
-      ],
-      "radar": "c'è Tom Holland, che hai visto 2 volte"
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/amy-adams-e-glenn-close-non-bastano-a-salvare-questo-film-su-netflix-un-disastro-annunciato",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-26T12:00:42.000Z",
-      "titolo": "Amy Adams e Glenn Close non bastano a salvare questo film su Netflix (un disastro annunciato)",
-      "sommario": "Analisi del fallimento del film di Ron Howard. Perché il dramma tratto dal memoir di J.D. Vance ha deluso.",
+      "data": "2026-09-27T09:02:50.000Z",
+      "titolo": "George Lucas chiude con la regia, ma rivela il capitolo di Star Wars che avrebbe ancora voluto raccontare",
+      "sommario": "George Lucas ripercorre la sua carriera e spiega perché ha scelto di lasciare la regia, dopo aver contribuito a plasmare la storia di Star Wars.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.badtaste.it/articoli/lestranea-e-il-film-italiano-per-gli-oscar-2027-tutto-quello-che-ce-da-sapere-sulle-location",
+      "link": "https://www.badtaste.it/articoli/godzilla-minus-zero-sorprende-alla-premiere-cosa-dicono-le-prime-reazioni-della-stampa",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-09-26T10:14:09.000Z",
-      "titolo": "L'Estranea è il film italiano per gli Oscar 2027: tutto quello che c'è da sapere sulle location",
-      "sommario": "L'Estranea, l'ultimo film del regista Paolo Strippoli è in corsa per gli Oscar 2027: ecco dove sono state girate le riprese della pellicola, destinata al successo internazionale.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/tom-hanks-affiancato-da-una-ragazzina-di-12-anni-in-questo-western-su-netflix-che-nessuno-si-aspettava",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-26T15:00:18.000Z",
-      "titolo": "Tom Hanks affiancato da una ragazzina di 12 anni, in questo western su Netflix che nessuno si aspettava",
-      "sommario": "Questo film con Tom Hanks è un western classico che divide la critica. Analisi del film, performance degli attori e cambio stilistico del regista.",
-      "sezioneProvvisoria": "passato",
-      "soggetti": [
-        "Tom Hanks"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/fiorello-torna-su-rai-1-nuovo-show-lannuncio-a-sorpresa_171230/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-09-26T14:19:47.000Z",
-      "titolo": "Fiorello torna su Rai 1 con un nuovo show: l'annuncio a sorpresa sui social",
-      "sommario": "Lo showman siciliano ha annunciato il ritorno sulla rete ammiraglia con un video ironico ispirato a Brad Pitt. Ancora nessuna data o dettaglio sul nuovo programma. Rosario Fiorello torna su Rai 1 con un nuovo programma. L'annuncio è arrivato a sorpresa direttamente dai canali social dello showman siciliano, attraverso ",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [
-        "Brad Pitt"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/il-regista-di-the-grudge-torna-con-questo-horror-giapponese-su-netflix-che-divide-il-pubblico",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-26T18:00:43.000Z",
-      "titolo": "Il regista di The Grudge torna con questo horror giapponese su Netflix che divide il pubblico",
-      "sommario": "Su Netflix, c'è il nuovo thriller giapponese di Takashi Shimizu. Un senzatetto vede i traumi nascosti dopo un esperimento. Analisi completa del film.",
+      "data": "2026-09-27T10:10:13.000Z",
+      "titolo": "Godzilla Minus Zero sorprende alla première: cosa dicono le prime reazioni della stampa",
+      "sommario": "Godzilla Minus Zero conquista le prime reazioni al New York Film Festival: il sequel di Godzilla Minus One entusiasma la critica.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.badtaste.it/articoli/una-bambina-misteriosa-nasconde-un-segreto-agghiacciante-in-questo-debole-film-spagnolo-su-netflix",
+      "link": "https://www.badtaste.it/articoli/lo-sposo-indeciso-spiegazione-del-finale-del-film-con-ornella-muti-e-gianmarco-tognazzi",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-09-26T17:00:30.000Z",
-      "titolo": "Una bambina misteriosa nasconde un segreto agghiacciante, in questo debole film spagnolo su Netflix",
-      "sommario": "Analisi del thriller spagnolo di Ignacio Tatay. Scopri perché questo film con Elena Anaya non mantiene le promesse iniziali.",
+      "data": "2026-09-27T09:45:08.000Z",
+      "titolo": "Lo Sposo Indeciso: spiegazione del finale del film con Ornella Muti e Gianmarco Tognazzi",
+      "sommario": "Lo sposo indeciso: trama, cast e finale del film con Gianmarco Tognazzi e Ilenia Pastorelli. Ecco il significato dell’epilogo e i suoi retroscena.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://cinefilos.it/tutto-film/approfondimenti/non-riattaccare-spiegazione-finale-film-723585",
-      "fonte": "Cinefilos",
-      "lingua": "it",
-      "data": "2026-09-26T18:44:13.000Z",
-      "titolo": "Non riattaccare, la spiegazione del finale: Pietro si salva? Il significato dell’ultima scena",
-      "sommario": "Non riattaccare, la spiegazione del finale: Pietro si salva? Il significato dell’ultima scena Non riattaccare (leggi qui la recensione), diretto da Manfredi Lucibello e interpretato da Barbara Ronchi e Claudio Santamaria, è uno dei film italiani che hanno saputo trasformare l’esperienza del lockdown in una forma narrat",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://cinefilos.it/tutto-film/approfondimenti/wash-me-in-the-river-storia-vera-film-723582",
-      "fonte": "Cinefilos",
-      "lingua": "it",
-      "data": "2026-09-26T18:40:15.000Z",
-      "titolo": "Wash Me in the River è tratto da una storia vera? La realtà dietro il film con Jack Huston e Robert De Niro",
-      "sommario": "Wash Me in the River è tratto da una storia vera? La realtà dietro il film con Jack Huston e Robert De Niro Wash Me in the River, conosciuto anche con il titolo Savage Salvation, è un thriller d’azione diretto da Randall Emmett e interpretato da Jack Huston, Willa Fitzgerald, Robert De Niro e John Malkovich. Al centro ",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://cinefilos.it/tutto-film/approfondimenti/corsa-contro-il-tempo-spiegazione-finale-film-723569",
-      "fonte": "Cinefilos",
-      "lingua": "it",
-      "data": "2026-09-26T18:33:24.000Z",
-      "titolo": "Corsa contro il tempo: la spiegazione del finale del film",
-      "sommario": "Corsa contro il tempo: la spiegazione del finale del film Corsa contro il tempo, conosciuto con il titolo originale The Desperate Hour, è un thriller del 2021 diretto da Phillip Noyce e interpretato da Naomi Watts nei panni di Amy Carr, una madre vedova che si trova improvvisamente coinvolta in una delle situazioni più",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/uomini-e-donne-anticipazioni-marina-tina-gemma-fabio_171231/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-09-26T15:12:53.000Z",
-      "titolo": "Uomini e Donne, anticipazioni: Marina litiga con Tina, Gemma riceve una proposta hot da Fabio",
-      "sommario": "Marina si scontra con Tina Cipollari e decide di chiudere la frequentazione con un cavaliere, mentre Gemma incontra nuovamente Fabio e tra i due emerge una proposta legata alla possibilità di vivere una maggiore intimità. Nuove anticipazioni da Uomini e Donne: nella più recente registrazione del dating show ci sono sta",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/questa-miniserie-di-netflix-con-benedict-cumberbatch-e-un-thriller-sopraffatto-dalle-sue-ambizioni",
+      "link": "https://www.badtaste.it/articoli/chi-era-davvero-unabomber-perche-non-riuscivano-a-catturarlo-la-storia-vera-dietro-il-film",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-09-26T14:00:59.000Z",
-      "titolo": "Questa miniserie di Netflix con Benedict Cumberbatch è un thriller sopraffatto dalle sue ambizioni",
-      "sommario": "Analisi della miniserie sulla scomparsa di un bambino. Scopri perché non funziona nonostante cast stellare e premesse intriganti.",
+      "data": "2026-09-27T08:15:45.000Z",
+      "titolo": "Chi era davvero Unabomber? Perché non riuscivano a catturarlo? La storia vera dietro il film",
+      "sommario": "La storia vera di Ted Kaczynski, Unabomber: dal genio di Harvard alla capanna nel Montana. Scopri i fatti reali dietro il film Netflix con Russell Crowe.",
       "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/unabomber-su-netfilx-chi-e-henry-murray-lo-psicologo-di-harvard-interpretato-da-russell-crowe",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-09-26T09:47:16.000Z",
-      "titolo": "Unabomber su Netfilx: chi è Henry Murray, lo psicologo di Harvard interpretato da Russell Crowe",
-      "sommario": "Chi è Henry Murray, lo psicologo di Harvard interpretato da Russell Crowe nel film Unabomber su Netflix? Scopri la storia vera degli esperimenti sul giovane Ted Kaczynski.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://cinefilos.it/photogallery/film-agatha-christie-senza-hercule-poirot-migliori-723558",
-      "fonte": "Cinefilos",
-      "lingua": "it",
-      "data": "2026-09-26T12:35:38.000Z",
-      "titolo": "6 grandi film tratti da Agatha Christie senza Hercule Poirot",
-      "sommario": "6 grandi film tratti da Agatha Christie senza Hercule Poirot Quando si parla di Agatha Christie, il pensiero corre quasi inevitabilmente a Hercule Poirot. Il detective belga, metodico, brillante e immediatamente riconoscibile, è diventato nel tempo il volto più popolare degli adattamenti cinematografici della scrittric",
-      "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     }
