@@ -1,342 +1,344 @@
 {
-  "aggiornato": "2026-09-28T05:07:04.773Z",
-  "giorno": "2026-09-28",
+  "aggiornato": "2026-09-29T05:07:11.205Z",
+  "giorno": "2026-09-29",
   "film": [
     {
-      "tmdbId": 155,
-      "imdbId": "tt0468569",
-      "title": "Il cavaliere oscuro",
-      "originalTitle": "The Dark Knight",
-      "release": "2008-07-23",
+      "tmdbId": 406997,
+      "imdbId": "tt2543472",
+      "title": "Wonder",
+      "originalTitle": "Wonder",
+      "release": "2017-12-21",
       "releaseFonte": "IT",
       "genres": [
-        "Azione",
-        "Thriller",
-        "Crime"
+        "Famiglia",
+        "Dramma"
       ],
       "countries": [
-        "Regno Unito",
         "USA"
       ],
-      "runtime": 146,
-      "plot": "Il crimine organizzato a Gotham City ha le ore contate. Batman, il tenente Gordon, il nuovo Procuratore Distrettuale e alcuni improbabili epigoni dell'Uomo Pipistrello in imbottiture da hockey hanno dichiarato guerra ai criminali. La loro fortuna e i loro dollari, accumulati in una banca di massima sicurezza, vengono rubati da Joker, un pagliaccio sadico e mascherato che getterà la città nel disordine e nell'anarchia. Riempite le tasche di lame, polvere da sparo e lanugine, Joker sfiderà il cavaliere oscuro di Bruce Wayne e rivelerà il lato oscuro di Harvey Dent, l'eroe procuratore che applica",
-      "tagline": "Benvenuti in un mondo senza regole.",
-      "poster": "/qIhsgno1mjbzUbs4H6DaRjhskAR.jpg",
-      "backdrop": "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
-      "director": "Christopher Nolan",
+      "runtime": 113,
+      "plot": "Nato con un'anomalia facciale che non gli ha mai consentito di frequentare una scuola normale, Auggie Pullman diventa il più improbabile degli eroi quando viene ammesso all'ultimo anno delle elementari. Mentre la sua famiglia, i suoi nuovi compagni di classe e tutta la comunità lotta per scoprire la propria compassione e accettazione, la straordinaria storia di Auggie unirà tutti quanti e dimostrerà che non occorre nascondersi quando si è nati per differenziarsi dagli altri.",
+      "tagline": "Se non ti piace quello che vedi, cambia il tuo modo di guardare.",
+      "poster": "/9pMD8L0vEn5cgreXFX6IVinwzhs.jpg",
+      "backdrop": "/b7xQ5fuyVO4c24igizCfPgF6n7q.jpg",
+      "director": "Stephen Chbosky",
       "cast": [
-        "Christian Bale",
-        "Heath Ledger",
-        "Aaron Eckhart",
-        "Michael Caine",
-        "Maggie Gyllenhaal"
+        "Jacob Tremblay",
+        "Julia Roberts",
+        "Owen Wilson",
+        "Izabela Vidovic",
+        "Noah Jupe"
       ],
       "castDetail": [
         {
-          "name": "Christian Bale",
-          "character": "Bruce Wayne",
-          "profile": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+          "name": "Jacob Tremblay",
+          "character": "Auggie",
+          "profile": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
         },
         {
-          "name": "Heath Ledger",
-          "character": "Joker",
-          "profile": "/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+          "name": "Julia Roberts",
+          "character": "Isabel",
+          "profile": "/fQacAdIa1WUNChQ6FgEko13eqOA.jpg"
         },
         {
-          "name": "Aaron Eckhart",
-          "character": "Harvey Dent",
-          "profile": "/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+          "name": "Owen Wilson",
+          "character": "Nate",
+          "profile": "/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
         },
         {
-          "name": "Michael Caine",
-          "character": "Alfred",
-          "profile": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+          "name": "Izabela Vidovic",
+          "character": "Via",
+          "profile": "/kG8Gp7BJZfKt4GP8cmYNOmrNyxV.jpg"
         },
         {
-          "name": "Maggie Gyllenhaal",
-          "character": "Rachel",
-          "profile": "/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+          "name": "Noah Jupe",
+          "character": "Jack Will",
+          "profile": "/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
         },
         {
-          "name": "Gary Oldman",
-          "character": "Gordon",
-          "profile": "/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+          "name": "Millie Davis",
+          "character": "Summer",
+          "profile": "/bsGbF60FABFvieeYWtbnaxSQOwh.jpg"
         },
         {
-          "name": "Morgan Freeman",
-          "character": "Lucius Fox",
-          "profile": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+          "name": "Bryce Gheisar",
+          "character": "Julian",
+          "profile": "/r38aqTYTzKOXf5p0nvE0hE5iDQh.jpg"
         },
         {
-          "name": "Monique Gabriela Curnen",
-          "character": "Ramirez",
-          "profile": "/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+          "name": "Mandy Patinkin",
+          "character": "Mr. Tushman",
+          "profile": "/1PeZ6roZvkcoyZZbvoSIWTgGe3a.jpg"
         }
       ],
-      "tmdbRating": 8.536,
-      "tmdbVotes": 36825,
-      "popularity": 63.6572,
-      "trailer": "https://www.youtube.com/watch?v=dfwuVmue_3E",
-      "fonte": "regia di Christopher Nolan, che segui",
-      "categoria": "qualcuno che segui",
-      "perche": "regia di Christopher Nolan, di cui hai visto 2 film",
+      "tmdbRating": 8.1,
+      "tmdbVotes": 8415,
+      "popularity": 14.4563,
+      "trailer": "https://www.youtube.com/watch?v=KGXooelIitw",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "dramma: il tuo terreno",
       "motivi": [
-        "regia di Christopher Nolan, di cui hai visto 2 film",
-        "regia di Christopher Nolan, che segui"
+        "dramma: il tuo terreno"
       ],
-      "proposto": "2026-09-28"
+      "proposto": "2026-09-29"
     },
     {
-      "tmdbId": 11423,
-      "imdbId": "tt0353969",
-      "title": "Memorie di un assassino",
-      "originalTitle": "살인의 추억",
-      "release": "2020-02-13",
+      "tmdbId": 961323,
+      "imdbId": "tt19500164",
+      "title": "Nimona",
+      "originalTitle": "Nimona",
+      "release": "2023-06-23",
+      "releaseFonte": "globale",
+      "genres": [
+        "Animazione",
+        "Famiglia",
+        "Fantasy",
+        "Avventura",
+        "Fantascienza",
+        "Azione"
+      ],
+      "countries": [
+        "USA",
+        "Regno Unito"
+      ],
+      "runtime": 101,
+      "plot": "Per dimostrare la propria innocenza un cavaliere accusato di un crimine unisce le forze con un'adolescente mutaforma. Ma se fosse lei il mostro che ha giurato di distruggere?",
+      "tagline": "Un nuovo eroe prende forma.",
+      "poster": "/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+      "backdrop": "/sidvlo7V8VMyskNKGwua0Tarbol.jpg",
+      "director": "Troy Quane",
+      "cast": [
+        "Chloë Grace Moretz",
+        "Riz Ahmed",
+        "Eugene Lee Yang",
+        "Frances Conroy",
+        "Lorraine Toussaint"
+      ],
+      "castDetail": [
+        {
+          "name": "Chloë Grace Moretz",
+          "character": "Nimona (voice)",
+          "profile": "/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
+        },
+        {
+          "name": "Riz Ahmed",
+          "character": "Ballister Boldheart (voice)",
+          "profile": "/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+        },
+        {
+          "name": "Eugene Lee Yang",
+          "character": "Ambrosius Goldenloin (voice)",
+          "profile": "/2NSmyWPyUExWn6MrICMSJiP4XnZ.jpg"
+        },
+        {
+          "name": "Frances Conroy",
+          "character": "The Director (voice)",
+          "profile": "/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+        },
+        {
+          "name": "Lorraine Toussaint",
+          "character": "Queen Valerin (voice)",
+          "profile": "/ali9XSMkZ0uAQLkmK0PoHXhJS0t.jpg"
+        },
+        {
+          "name": "Beck Bennett",
+          "character": "Sir Thoddeus Sureblade (voice)",
+          "profile": "/xbcVvJ1a7qUIdyYb4PJewFlNFu4.jpg"
+        },
+        {
+          "name": "RuPaul",
+          "character": "Nate Knight (voice)",
+          "profile": "/px8XeYcAzKzAto4MFYfs6kBSEWF.jpg"
+        },
+        {
+          "name": "Lillah Indya Moore",
+          "character": "Alamzapam Davis (voice)",
+          "profile": "/uIRHpgbj9DfjMksigXmi497xRqU.jpg"
+        }
+      ],
+      "tmdbRating": 7.9,
+      "tmdbVotes": 1506,
+      "popularity": 6.9219,
+      "trailer": "https://www.youtube.com/watch?v=wb0X611ZMHc",
+      "fonte": "fantascienza: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "fantascienza: il tuo terreno",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "proposto": "2026-09-29"
+    },
+    {
+      "tmdbId": 615469,
+      "imdbId": "tt9783600",
+      "title": "Spiderhead",
+      "originalTitle": "Spiderhead",
+      "release": "2022-06-15",
+      "releaseFonte": "globale",
+      "genres": [
+        "Fantascienza",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 106,
+      "plot": "Un detenuto di un penitenziario all'avanguardia mette in dubbio lo scopo dei farmaci capaci di controllare le emozioni che sta testando per un genio della farmaceutica.",
+      "tagline": "Fino a che punto vi spingereste per correggere la natura umana?",
+      "poster": "/a4hTwM8f1xMWrfGqePCOnmTWfyt.jpg",
+      "backdrop": "/ulkWS7Atv0vv33KVCSAmNizAmJd.jpg",
+      "director": "Joseph Kosinski",
+      "cast": [
+        "Chris Hemsworth",
+        "Miles Teller",
+        "Jurnee Smollett-Bell",
+        "Mark Paguio",
+        "Tess Haubrich"
+      ],
+      "castDetail": [
+        {
+          "name": "Chris Hemsworth",
+          "character": "Steve Abnesti",
+          "profile": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "Miles Teller",
+          "character": "Jeff",
+          "profile": "/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+        },
+        {
+          "name": "Jurnee Smollett-Bell",
+          "character": "Lizzy",
+          "profile": "/ohvV70Ar4rlL5I3WzxQGtRjpsgS.jpg"
+        },
+        {
+          "name": "Mark Paguio",
+          "character": "Mark Verlaine",
+          "profile": "/423h2jOaHcrloZ5p1c2bSTpcAl8.jpg"
+        },
+        {
+          "name": "Tess Haubrich",
+          "character": "Heather",
+          "profile": "/pNvjKa3Rl2q681EM6kQrwbEfJeg.jpg"
+        },
+        {
+          "name": "BeBe Bettencourt",
+          "character": "Emma",
+          "profile": "/kNznyllHWcXtVi4BEzugP6RsJHN.jpg"
+        },
+        {
+          "name": "Nathan Jones",
+          "character": "Rogan",
+          "profile": "/hlu4qYy9JGPxGn0wT8Ea6mTWR8R.jpg"
+        },
+        {
+          "name": "Angie Milliken",
+          "character": "Sarah",
+          "profile": "/pfQZoIwFxaPiaxxuxJBHNQNrmQi.jpg"
+        }
+      ],
+      "tmdbRating": 5.8,
+      "tmdbVotes": 1815,
+      "popularity": 6.2211,
+      "trailer": "https://www.youtube.com/watch?v=OBNiHcTKTdE",
+      "fonte": "regia di Joseph Kosinski, che segui",
+      "categoria": "qualcuno che segui",
+      "perche": "regia di Joseph Kosinski, di cui hai visto 2 film",
+      "motivi": [
+        "regia di Joseph Kosinski, di cui hai visto 2 film",
+        "regia di Joseph Kosinski, che segui"
+      ],
+      "proposto": "2026-09-29"
+    },
+    {
+      "tmdbId": 101,
+      "imdbId": "tt0110413",
+      "title": "Léon",
+      "originalTitle": "Léon",
+      "release": "1995-04-07",
       "releaseFonte": "IT",
       "genres": [
         "Crime",
         "Dramma",
-        "Thriller"
+        "Azione"
       ],
       "countries": [
-        "Corea del Sud"
+        "Francia"
       ],
-      "runtime": 129,
-      "plot": "In un villaggio nella provincia di Gyunggi viene rinvenuto il cadavere di una donna che prima di essere uccisa è stata stuprata. Due detectives locali si fanno carico del caso ma, sebbene non usino i guanti bianchi nel condurre le indagini, non arrivano a nulla. Ad aiutare l'inesperta coppia arriva da Seul il collega Seo Tae-yoon, mentre altri omicidi commessi con lo stesso modus operandi cominciano a far pensare ad un serial killer…",
-      "tagline": "Il peggio di loro rimarrà con te ... per sempre",
-      "poster": "/n6GHqnUBV0R0MWof77slsHYXskF.jpg",
-      "backdrop": "/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
-      "director": "봉준호",
+      "runtime": 110,
+      "plot": "Léon è un killer che vive solo, avendo unicamente una pianta da vaso come compagnia. Mathilda è una ragazzina che abita nell'appartamento a fianco alla stanza di Léon. Quando la famiglia di Mathilda viene sterminata per una storia di droga, lei chiede aiuto a Léon. Tra i due nasce una tenera amicizia, fra scambi di lezioni sull'uso delle armi da una parte e di lettura dall'altra.",
+      "tagline": "Dal momento del loro incontro, le loro vite non saranno più le stesse.",
+      "poster": "/wcIFHPgRNPY5h72psFPkf9CHOf9.jpg",
+      "backdrop": "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+      "director": "Luc Besson",
       "cast": [
-        "Song Kang-ho",
-        "김상경",
-        "김뢰하",
-        "Song Jae-ho",
-        "변희봉"
+        "Jean Reno",
+        "Natalie Portman",
+        "Gary Oldman",
+        "Danny Aiello",
+        "Peter Appel"
       ],
       "castDetail": [
         {
-          "name": "Song Kang-ho",
-          "character": "Detective Park Doo-man",
-          "profile": "/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
+          "name": "Jean Reno",
+          "character": "Léon Montana",
+          "profile": "/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
         },
         {
-          "name": "김상경",
-          "character": "Detective Seo Tae-yoon",
-          "profile": "/qZa6q7nV7ftScf1BOp0BGxl2ujc.jpg"
+          "name": "Natalie Portman",
+          "character": "Mathilda Lando",
+          "profile": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
         },
         {
-          "name": "김뢰하",
-          "character": "Detective Cho Yong-koo",
-          "profile": "/bGHnBUrBKk2ItXDZJrBDnBeQJvj.jpg"
+          "name": "Gary Oldman",
+          "character": "Norman Stansfield",
+          "profile": "/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
         },
         {
-          "name": "Song Jae-ho",
-          "character": "Sergeant Shin Dong-chul",
-          "profile": "/gLKek8JICZXq4YdJpOd3jECaLCA.jpg"
+          "name": "Danny Aiello",
+          "character": "Old Tony",
+          "profile": "/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
         },
         {
-          "name": "변희봉",
-          "character": "Sergeant Koo Hee-bong",
-          "profile": "/fV8BtRziGqUsBozd1G6lEwmW2b5.jpg"
+          "name": "Peter Appel",
+          "character": "Agent Malky",
+          "profile": "/AvOZjWVwklfJHNHD2AwLmYRhSXw.jpg"
         },
         {
-          "name": "고서희",
-          "character": "Officer Kwon Kwi-ok",
-          "profile": "/brotP6GWra8Y1ZduN1XAJYk09zz.jpg"
+          "name": "Michael Badalucco",
+          "character": "Mathilda's Father",
+          "profile": "/ntqAjxrBsyXbRzAaln4ynSBTE1r.jpg"
         },
         {
-          "name": "류태호",
-          "character": "Jo Byung-soon",
-          "profile": "/3vnSlWZNQJXXS0UMW5LC95lslhh.jpg"
+          "name": "Ellen Greene",
+          "character": "Mathilda's Mother",
+          "profile": "/nJzE8dS38hxbALr5LZ88BYt8dm0.jpg"
         },
         {
-          "name": "박노식",
-          "character": "Baek Kwang-ho",
-          "profile": "/jhL9musRKIvR37F8WHWZlutOWIe.jpg"
+          "name": "Frank Senger",
+          "character": "Fatman",
+          "profile": "/x9BmH7tqATglaoDgxTed0Nwg4G.jpg"
         }
       ],
-      "tmdbRating": 8.1,
-      "tmdbVotes": 4840,
-      "popularity": 17.5023,
-      "trailer": "https://www.youtube.com/watch?v=sj2dx5wYJiY",
-      "fonte": "thriller: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "thriller: il tuo terreno",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "proposto": "2026-09-28"
-    },
-    {
-      "tmdbId": 670,
-      "imdbId": "tt0364569",
-      "title": "Old Boy",
-      "originalTitle": "올드보이",
-      "release": "2005-05-06",
-      "releaseFonte": "IT",
-      "genres": [
-        "Thriller",
-        "Mistero"
-      ],
-      "countries": [
-        "Corea del Sud"
-      ],
-      "runtime": 119,
-      "plot": "È la storia di Dae-su, imprigionato per 15 anni senza sapere perché, e della sua implacabile vendetta una volta libero. Non dovrà cercare lontano, perché il suo persecutore non ha ancora chiuso la partita. L'appena conosciuta e subito amata Mi-do lo accompagnerà alla ricerca della rivincita e, più ancora, del motivo della sua prigionia.",
-      "tagline": "Ridi, e il mondo riderà con te. Piangi, e piangerai da solo.",
-      "poster": "/bVL3wpVhjmkWdG2jWj1cv9L8pjR.jpg",
-      "backdrop": "/rwf5SUTiEsmfkXAgy15R0UtJUtv.jpg",
-      "director": "Park Chan-wook",
-      "cast": [
-        "최민식",
-        "유지태",
-        "강혜정",
-        "김병옥",
-        "지대한"
-      ],
-      "castDetail": [
-        {
-          "name": "최민식",
-          "character": "Oh Dae-su",
-          "profile": "/sd7gIA6nEkq6zumkDCfxSE0YSSV.jpg"
-        },
-        {
-          "name": "유지태",
-          "character": "Lee Woo-jin",
-          "profile": "/gGGV2gc0orgssYJ0Q9MSomdYo2I.jpg"
-        },
-        {
-          "name": "강혜정",
-          "character": "Mi-do",
-          "profile": "/1MYnPxhU9GnhkitxVoWuR9kNiqu.jpg"
-        },
-        {
-          "name": "김병옥",
-          "character": "Mr. Han",
-          "profile": "/9A4pQUNIJsm1JbbamKNqz8ryOVM.jpg"
-        },
-        {
-          "name": "지대한",
-          "character": "No Joo-hwan",
-          "profile": "/9aoOX8p2oxUAwOaT8jT6GWfjs01.jpg"
-        },
-        {
-          "name": "오달수",
-          "character": "Park Cheol-woong",
-          "profile": "/hd72oGjq0YKYdgZKMnqtV00MV28.jpg"
-        },
-        {
-          "name": "이승신",
-          "character": "Hypnotist",
-          "profile": "/w9d73Yl1LFPyKAnLyd1gGCD3SYM.jpg"
-        },
-        {
-          "name": "윤진서",
-          "character": "Lee Soo-ah",
-          "profile": "/5br9jHiVLUTmiNxqswpmDg7Zowb.jpg"
-        }
-      ],
-      "tmdbRating": 8.234,
-      "tmdbVotes": 10244,
-      "popularity": 19.1926,
-      "trailer": "https://www.youtube.com/watch?v=_MBE9NAwJDU",
+      "tmdbRating": 8.289,
+      "tmdbVotes": 16574,
+      "popularity": 28.7453,
+      "trailer": "https://www.youtube.com/watch?v=DZbh8JZepKk",
       "fonte": "un classico che ti manca",
       "categoria": "un classico",
       "perche": "un classico che ti manca",
       "motivi": [
         "un classico che ti manca"
       ],
-      "proposto": "2026-09-28"
+      "proposto": "2026-09-29"
     },
     {
-      "tmdbId": 635302,
-      "imdbId": "tt11032374",
-      "title": "Demon Slayer - Il treno Mugen",
-      "originalTitle": "劇場版「鬼滅の刃」無限列車編",
-      "release": "2020-10-16",
-      "releaseFonte": "IT",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantasy"
-      ],
-      "countries": [
-        "Giappone"
-      ],
-      "runtime": 117,
-      "plot": "Enmu, recentemente liberato dalle celle Muzan, si propone di attaccare un misterioso treno in movimento. Nel corso dell'attacco, il demone consuma molti passeggeri. Tanjiro Kamado viene in soccorso, ma questo treno in movimento trasporta più di un cattivo demone da combattere.",
-      "tagline": "Con la tua lama, poni fine all'incubo",
-      "poster": "/kgfLM9MqLcYY7qcW4mwPM2JAU5a.jpg",
-      "backdrop": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
-      "director": "外崎春雄",
-      "cast": [
-        "Natsuki Hanae",
-        "Akari Kito",
-        "Hiro Shimono",
-        "Yoshitsugu Matsuoka",
-        "Satoshi Hino"
-      ],
-      "castDetail": [
-        {
-          "name": "Natsuki Hanae",
-          "character": "Tanjiro Kamado (voice)",
-          "profile": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
-        },
-        {
-          "name": "Akari Kito",
-          "character": "Nezuko Kamado (voice)",
-          "profile": "/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
-        },
-        {
-          "name": "Hiro Shimono",
-          "character": "Zenitsu Agatsuma (voice)",
-          "profile": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
-        },
-        {
-          "name": "Yoshitsugu Matsuoka",
-          "character": "Inosuke Hashibira (voice)",
-          "profile": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
-        },
-        {
-          "name": "Satoshi Hino",
-          "character": "Kyojuro Rengoku (voice)",
-          "profile": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
-        },
-        {
-          "name": "Takahiro Sakurai",
-          "character": "Giyu Tomioka (voice)",
-          "profile": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
-        },
-        {
-          "name": "Katsuyuki Konishi",
-          "character": "Tengen Uzui (voice)",
-          "profile": "/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
-        },
-        {
-          "name": "Saori Hayami",
-          "character": "Shinobu Kocho (voice)",
-          "profile": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
-        }
-      ],
-      "tmdbRating": 8.228,
-      "tmdbVotes": 4694,
-      "popularity": 16.1217,
-      "trailer": "https://www.youtube.com/watch?v=IYUvnDNjtkU",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-09-28"
-    },
-    {
-      "tmdbId": 524434,
-      "imdbId": "tt9032400",
-      "title": "Eternals",
-      "originalTitle": "Eternals",
-      "release": "2021-11-03",
+      "tmdbId": 24428,
+      "imdbId": "tt0848228",
+      "title": "The Avengers",
+      "originalTitle": "The Avengers",
+      "release": "2012-04-25",
       "releaseFonte": "IT",
       "genres": [
         "Fantascienza",
@@ -346,148 +348,306 @@
       "countries": [
         "USA"
       ],
-      "runtime": 156,
-      "plot": "Ne \"Gli Eterni\" dei Marvel Studios un nuovo, entusiasmante, team di supereroi debutta nell’universo cinematografico Marvel: antichi alieni che vivono in segreto sulla Terra da migliaia di anni. A seguito degli eventi di \"Avengers: Endgame\", una tragedia inaspettata li costringe a uscire dalle ombre per ricongiungersi con il più antico nemico dell’umanità, i Devianti.",
-      "tagline": "La fine è solo l'inizio!",
-      "poster": "/753WHOCaelFNYtUlcYZtNDhD9ZC.jpg",
-      "backdrop": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
-      "director": "Chloé Zhao",
+      "runtime": 143,
+      "plot": "I supereroi più famosi si riuniscono in una squadra di personaggi Marvel leggendari come Iron Man, l'incredibile Hulk, Thor, Captain America, Occhio di Falco e Vedova Nera. Quando la comparsa di un nemico inatteso minaccia la tranquillità e la sicurezza del mondo, Nick Fury, direttore dell'agenzia internazionale per il mantenimento della pace conosciuta come S.H.I.E.L.D., si trova ad aver bisogno di una squadra che salvi il pianeta dall'orlo del disastro. Inizia così, da un capo all'altro della terra, un audace lavoro di reclutamento. Dopo aver riunito la squadra, Nick Fury e il suo fidato ass",
+      "tagline": "L'unione fa la forza.",
+      "poster": "/o6IvnjWsAjPja21JA1EHo0XcYTy.jpg",
+      "backdrop": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "director": "Joss Whedon",
       "cast": [
-        "Gemma Chan",
-        "Richard Madden",
-        "Angelina Jolie",
-        "Salma Hayek Pinault",
-        "Kumail Nanjiani"
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
       ],
       "castDetail": [
         {
-          "name": "Gemma Chan",
-          "character": "Sersi",
-          "profile": "/stTKj4iNauhqlVmZ6XAsFsvcMCY.jpg"
+          "name": "Robert Downey Jr.",
+          "character": "Tony Stark / Iron Man",
+          "profile": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
         },
         {
-          "name": "Richard Madden",
-          "character": "Ikaris",
-          "profile": "/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg"
+          "name": "Chris Evans",
+          "character": "Steve Rogers / Captain America",
+          "profile": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
         },
         {
-          "name": "Angelina Jolie",
-          "character": "Thena",
-          "profile": "/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+          "name": "Mark Ruffalo",
+          "character": "Bruce Banner / The Hulk",
+          "profile": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
         },
         {
-          "name": "Salma Hayek Pinault",
-          "character": "Ajak",
-          "profile": "/3j8MpAjyopkAc8mbNiDeXyqBmcS.jpg"
+          "name": "Chris Hemsworth",
+          "character": "Thor",
+          "profile": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
         },
         {
-          "name": "Kumail Nanjiani",
-          "character": "Kingo",
-          "profile": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg"
+          "name": "Scarlett Johansson",
+          "character": "Natasha Romanoff / Black Widow",
+          "profile": "/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
         },
         {
-          "name": "Lia McHugh",
-          "character": "Sprite",
-          "profile": "/vPnN8xBLsm5vMZvMpRBNJ5WuAdl.jpg"
+          "name": "Jeremy Renner",
+          "character": "Clint Barton / Hawkeye",
+          "profile": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
         },
         {
-          "name": "Brian Tyree Henry",
-          "character": "Phastos",
-          "profile": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+          "name": "Tom Hiddleston",
+          "character": "Loki",
+          "profile": "/mclHxMm8aPlCPKptP67257F5GPo.jpg"
         },
         {
-          "name": "Lauren Ridloff",
-          "character": "Makkari",
-          "profile": "/eyMriacYFsWtdgzedVPfXmT0TFa.jpg"
+          "name": "Clark Gregg",
+          "character": "Agent Phil Coulson",
+          "profile": "/mq686D91XoZpqkzELn0888NOiZW.jpg"
         }
       ],
-      "tmdbRating": 6.8,
-      "tmdbVotes": 9442,
-      "popularity": 20.8412,
-      "trailer": "https://www.youtube.com/watch?v=dKyIbkZlV40",
-      "fonte": "regia di Chloé Zhao, che segui",
-      "categoria": "qualcuno che segui",
-      "perche": "regia di Chloé Zhao, di cui hai visto un film",
+      "tmdbRating": 8.078,
+      "tmdbVotes": 39873,
+      "popularity": 70.8174,
+      "trailer": "https://www.youtube.com/watch?v=oskFB9OYKjg",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
       "motivi": [
-        "regia di Chloé Zhao, di cui hai visto un film",
-        "regia di Chloé Zhao, che segui"
+        "avventura: il tuo terreno"
       ],
-      "proposto": "2026-09-28"
+      "proposto": "2026-09-29"
     },
     {
-      "tmdbId": 554230,
-      "imdbId": "tt9100054",
-      "title": "La figlia oscura",
-      "originalTitle": "The Lost Daughter",
-      "release": "2022-04-07",
+      "tmdbId": 207,
+      "imdbId": "tt0097165",
+      "title": "L'attimo fuggente",
+      "originalTitle": "Dead Poets Society",
+      "release": "1989-09-28",
       "releaseFonte": "IT",
       "genres": [
         "Dramma"
       ],
       "countries": [
-        "Greece",
-        "Israel",
-        "Regno Unito"
+        "USA"
       ],
-      "runtime": 121,
-      "plot": "Sola in una località di mare, Leda osserva ossessivamente una giovane madre e la figlia in spiaggia. Turbata dalla complicità del loro rapporto (e dalla loro famiglia, chiassosa e sinistra), Leda è sopraffatta dai ricordi legati allo sgomento, allo smarrimento e all’intensità della propria maternità. Un gesto impulsivo catapulta Leda nello strano e minaccioso universo della sua stessa mente, in cui è costretta a fare i conti con le scelte anticonformiste fatte quando era una giovane madre e con le loro conseguenze.",
-      "tagline": null,
-      "poster": "/qKLqImkjygThOvM6vBoEkluKlVK.jpg",
-      "backdrop": "/6jRHaYJyje5RNS3L353udrPU3ME.jpg",
-      "director": "Maggie Gyllenhaal",
+      "runtime": 130,
+      "plot": "Stato del Vermont (Stati Uniti), 1959: nel college maschile Welton, molto tradizionale, viene trasferito il professore John Keating, un insegnante di lettere simpatico e anticonformista. Fin dal primo contatto con i giovani allievi, traspare non solo il suo diverso modo d'insegnamento ma anche il suo approccio che esorta i ragazzi ad affrontare lo studio e la vita seguendo le proprie idee e non quelle dei nonni. Uno degli studenti, entrato in conflitto con i suoi genitori, si suiciderà. La responsabilità viene fatta ricadere sul professore. Lui sarà cacciato, ma i suoi allievi non lo dimentich",
+      "tagline": "Era per loro l'ispiratore di una nuova straordinaria esistenza",
+      "poster": "/nIH9ZI4aA8zd0tQSduMWtpniyyH.jpg",
+      "backdrop": "/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
+      "director": "Peter Weir",
       "cast": [
-        "Olivia Colman",
-        "Jessie Buckley",
-        "Dakota Johnson",
-        "Ed Harris",
-        "Paul Mescal"
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke",
+        "Josh Charles",
+        "Gale Hansen"
       ],
       "castDetail": [
         {
-          "name": "Olivia Colman",
-          "character": "Leda Caruso",
-          "profile": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+          "name": "Robin Williams",
+          "character": "John Keating",
+          "profile": "/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
         },
         {
-          "name": "Jessie Buckley",
-          "character": "Young Leda Caruso",
-          "profile": "/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+          "name": "Robert Sean Leonard",
+          "character": "Neil Perry",
+          "profile": "/jXehZM0AWLJ2OIz4o0jFtHEzcMI.jpg"
         },
         {
-          "name": "Dakota Johnson",
-          "character": "Nina",
-          "profile": "/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
+          "name": "Ethan Hawke",
+          "character": "Todd Anderson",
+          "profile": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
         },
         {
-          "name": "Ed Harris",
-          "character": "Lyle",
-          "profile": "/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+          "name": "Josh Charles",
+          "character": "Knox Overstreet",
+          "profile": "/xmFdIoFKVRNUmXaslBlErA3UHfF.jpg"
+        },
+        {
+          "name": "Gale Hansen",
+          "character": "Charlie Dalton",
+          "profile": "/gVZ9TFvseA3I0fLLJiXKInzBygp.jpg"
+        },
+        {
+          "name": "Dylan Kussman",
+          "character": "Richard Cameron",
+          "profile": "/33V8NdkLrpSCEVeIiKk5DoGRthx.jpg"
+        },
+        {
+          "name": "Allelon Ruggiero",
+          "character": "Steven Meeks",
+          "profile": "/sSjaviVlBCnZYipURQY5o9rvPl7.jpg"
+        },
+        {
+          "name": "James Waterston",
+          "character": "Gerard Pitts",
+          "profile": "/7IPxmwB7f2CqCJvxAea0BjwI5Fz.jpg"
+        }
+      ],
+      "tmdbRating": 8.3,
+      "tmdbVotes": 12995,
+      "popularity": 29.0783,
+      "trailer": "https://www.youtube.com/watch?v=wojC0a8RRV0",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-09-29"
+    },
+    {
+      "tmdbId": 399055,
+      "imdbId": "tt5580390",
+      "title": "La forma dell'acqua",
+      "originalTitle": "The Shape of Water",
+      "release": "2018-02-14",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Fantasy",
+        "Romance"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 123,
+      "plot": "Elisa, giovane donna muta, lavora in un laboratorio scientifico di Baltimora dove gli americani combattono la guerra fredda. Impiegata come donna delle pulizie, Elisa è legata da profonda amicizia a Zelda, collega afroamericana che lotta per i suoi diritti dentro il matrimonio e la società, e Giles, vicino di casa omosessuale, discriminato sul lavoro. Diversi in un mondo di mostri dall'aspetto rassicurante, scoprono che in laboratorio (soprav)vive in cattività una creatura anfibia di grande intelligenza e sensibilità. A rivelarle è Elisa. Condannata al silenzio e alla solitudine, si innamora r",
+      "tagline": "Una favola per tempi duri.",
+      "poster": "/wiP91Yc2ddxnoc6UTRKobBEbpCX.jpg",
+      "backdrop": "/abirSHwWgKajV3hXhaIR5lcCIXe.jpg",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Sally Hawkins",
+        "Michael Shannon",
+        "Richard Jenkins",
+        "Octavia Spencer",
+        "Michael Stuhlbarg"
+      ],
+      "castDetail": [
+        {
+          "name": "Sally Hawkins",
+          "character": "Elisa Esposito",
+          "profile": "/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+        },
+        {
+          "name": "Michael Shannon",
+          "character": "Richard Strickland",
+          "profile": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+        },
+        {
+          "name": "Richard Jenkins",
+          "character": "Giles",
+          "profile": "/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+        },
+        {
+          "name": "Octavia Spencer",
+          "character": "Zelda Fuller",
+          "profile": "/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+        },
+        {
+          "name": "Michael Stuhlbarg",
+          "character": "Dr. Robert Hoffstetler",
+          "profile": "/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+        },
+        {
+          "name": "Doug Jones",
+          "character": "Amphibian Man",
+          "profile": "/rpvvWATYWHGjedJea0G97XufOwU.jpg"
+        },
+        {
+          "name": "David Hewlett",
+          "character": "Fleming",
+          "profile": "/bm6Tjfaj7iuRLI0hkvxHBlP4pUO.jpg"
+        },
+        {
+          "name": "Nick Searcy",
+          "character": "General Hoyt",
+          "profile": "/AnqbYGdLLaUaMfCtE0zYiRiI7E6.jpg"
+        }
+      ],
+      "tmdbRating": 7.23,
+      "tmdbVotes": 13100,
+      "popularity": 17.0794,
+      "trailer": "https://www.youtube.com/watch?v=lr8D5D92lCc",
+      "fonte": "regia di James Cameron, che segui",
+      "categoria": "qualcuno che segui",
+      "perche": "regia di Guillermo del Toro, di cui hai visto un film",
+      "motivi": [
+        "regia di Guillermo del Toro, di cui hai visto un film",
+        "regia di James Cameron, che segui"
+      ],
+      "proposto": "2026-09-29"
+    },
+    {
+      "tmdbId": 994108,
+      "imdbId": "tt21192142",
+      "title": "Estranei",
+      "originalTitle": "All of Us Strangers",
+      "release": "2024-02-29",
+      "releaseFonte": "IT",
+      "genres": [
+        "Romance",
+        "Dramma",
+        "Fantasy"
+      ],
+      "countries": [
+        "Regno Unito",
+        "USA"
+      ],
+      "runtime": 105,
+      "plot": "Una notte, nel suo condominio quasi vuoto nella Londra contemporanea, Adam (Andrew Scott) ha un incontro casuale con un misterioso vicino di casa, Harry (Paul Mescal), che spezza il ritmo della sua vita quotidiana. Mentre si sviluppa una relazione tra i due, Adam è ossessionato dai ricordi del passato e si ritrova attratto nella città di periferia in cui è cresciuto e nella casa d'infanzia in cui i suoi genitori (Claire Foy e Jamie Bell) sembrano vivere, proprio come il giorno della loro morte, 30 anni prima.",
+      "tagline": null,
+      "poster": "/mlKvoZf4xXVLlcW8fPCPr766OCE.jpg",
+      "backdrop": "/8yjHiSuSEhzR916LcIecuQ8tETG.jpg",
+      "director": "Andrew Haigh",
+      "cast": [
+        "Andrew Scott",
+        "Paul Mescal",
+        "Carter John Grout",
+        "Jamie Bell",
+        "Claire Foy"
+      ],
+      "castDetail": [
+        {
+          "name": "Andrew Scott",
+          "character": "Adam",
+          "profile": "/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
         },
         {
           "name": "Paul Mescal",
-          "character": "Will",
+          "character": "Harry",
           "profile": "/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
         },
         {
-          "name": "Peter Sarsgaard",
-          "character": "Professor Hardy",
-          "profile": "/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+          "name": "Carter John Grout",
+          "character": "Young Adam",
+          "profile": null
         },
         {
-          "name": "Dagmara Dominczyk",
-          "character": "Callie",
-          "profile": "/i1f78OP3G6pksgCcu6AxPgZYEmv.jpg"
+          "name": "Jamie Bell",
+          "character": "Dad",
+          "profile": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
         },
         {
-          "name": "Jack Farthing",
-          "character": "Joe",
-          "profile": "/ta12nj6wG6vEUBG46oEWTHIQJBN.jpg"
+          "name": "Claire Foy",
+          "character": "Mum",
+          "profile": "/pI1lOswQWZRhc8TKu0MESulw9uF.jpg"
+        },
+        {
+          "name": "Ami Tredrea",
+          "character": "Waitress",
+          "profile": "/2Y8ufhllVSbwLguMk3nYQJ0hvgb.jpg"
+        },
+        {
+          "name": "Sean Tizzard",
+          "character": "Dad on train (uncredited)",
+          "profile": "/7be7obnCkZrEtRLQQwwq3abhOyd.jpg"
         }
       ],
-      "tmdbRating": 6.4,
-      "tmdbVotes": 1157,
-      "popularity": 9.0331,
-      "trailer": "https://www.youtube.com/watch?v=ALtLuqMUOI4",
+      "tmdbRating": 7.388,
+      "tmdbVotes": 1097,
+      "popularity": 12.242,
+      "trailer": "https://www.youtube.com/watch?v=ukYlZuKn-mc",
       "fonte": "c'è Paul Mescal, che hai visto 2 volte",
       "categoria": "qualcuno che segui",
       "perche": "c'è Paul Mescal, che hai visto 2 volte",
@@ -495,336 +655,174 @@
         "c'è Paul Mescal, che hai visto 2 volte",
         "c'è Paul Mescal, che hai visto 2 volte"
       ],
-      "proposto": "2026-09-28"
+      "proposto": "2026-09-29"
     },
     {
-      "tmdbId": 453278,
-      "imdbId": "tt6217608",
-      "title": "The Rider - Il sogno di un cowboy",
-      "originalTitle": "The Rider",
-      "release": "2019-08-29",
-      "releaseFonte": "IT",
-      "genres": [
-        "Dramma",
-        "Western"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 103,
-      "plot": "Nella riserva di Pine Ridge, nel South Dakota, Brady Blackburn addestra cavalli selvaggi. Giovane cowboy e stella nascente del rodeo, apprende dal suo medico di non poter più cavalcare. Una brutta caduta lo ha disarcionato per sempre, sfondandogli il cranio in maniera quasi fatale. A fianco della sorellina, affetta dalla sindrome di Asperger, e in lotta col padre piegato dal lavoro e dalle responsabilità, cerca una nuova ragione di vita in un Paese che non fa sconti.",
-      "tagline": null,
-      "poster": "/zc0OS5v3V7m6jtcS2xLzOmfpZWI.jpg",
-      "backdrop": "/oaAyNmnqbB8Ad3O2t9iymZ2gEJa.jpg",
-      "director": "Chloé Zhao",
-      "cast": [
-        "Brady Jandreau",
-        "Tim Jandreau",
-        "Lilly Jandreau",
-        "Cat Clifford",
-        "Terri Dawn Pourier"
-      ],
-      "castDetail": [
-        {
-          "name": "Brady Jandreau",
-          "character": "Brady Blackburn",
-          "profile": "/kIKXyiWic9h8X9A31iPAECHEZR6.jpg"
-        },
-        {
-          "name": "Tim Jandreau",
-          "character": "Wayne Blackburn",
-          "profile": null
-        },
-        {
-          "name": "Lilly Jandreau",
-          "character": "Lilly Blackburn",
-          "profile": null
-        },
-        {
-          "name": "Cat Clifford",
-          "character": "Cat Clifford",
-          "profile": null
-        },
-        {
-          "name": "Terri Dawn Pourier",
-          "character": "Terri Dawn Pourier",
-          "profile": null
-        },
-        {
-          "name": "Lane Scott",
-          "character": "Lane Scott",
-          "profile": null
-        },
-        {
-          "name": "Tanner Langdeau",
-          "character": "Tanner Langdeau",
-          "profile": null
-        },
-        {
-          "name": "James Calhoon",
-          "character": "James Calhoon",
-          "profile": null
-        }
-      ],
-      "tmdbRating": 7.3,
-      "tmdbVotes": 577,
-      "popularity": 3.8826,
-      "trailer": "https://www.youtube.com/watch?v=zspNrw0APlM",
-      "fonte": "regia di Chloé Zhao, che segui",
-      "categoria": "qualcuno che segui",
-      "perche": "regia di Chloé Zhao, di cui hai visto un film",
-      "motivi": [
-        "regia di Chloé Zhao, di cui hai visto un film",
-        "regia di Chloé Zhao, che segui"
-      ],
-      "proposto": "2026-09-28"
-    },
-    {
-      "tmdbId": 165,
-      "imdbId": "tt0096874",
-      "title": "Ritorno al futuro - Parte II",
-      "originalTitle": "Back to the Future Part II",
-      "release": "1989-12-22",
+      "tmdbId": 157336,
+      "imdbId": "tt0816692",
+      "title": "Interstellar",
+      "originalTitle": "Interstellar",
+      "release": "2014-11-06",
       "releaseFonte": "IT",
       "genres": [
         "Avventura",
-        "Commedia",
+        "Dramma",
+        "Fantascienza"
+      ],
+      "countries": [
+        "Regno Unito",
+        "USA"
+      ],
+      "runtime": 169,
+      "plot": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo è quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
+      "tagline": "La fine del mondo non sarà la nostra fine.",
+      "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
+      "backdrop": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Michael Caine",
+        "Jessica Chastain",
+        "Casey Affleck"
+      ],
+      "castDetail": [
+        {
+          "name": "Matthew McConaughey",
+          "character": "Cooper",
+          "profile": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+        },
+        {
+          "name": "Anne Hathaway",
+          "character": "Brand",
+          "profile": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+          "name": "Michael Caine",
+          "character": "Professor Brand",
+          "profile": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Jessica Chastain",
+          "character": "Murph",
+          "profile": "/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+        },
+        {
+          "name": "Casey Affleck",
+          "character": "Tom",
+          "profile": "/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+        },
+        {
+          "name": "Wes Bentley",
+          "character": "Doyle",
+          "profile": "/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+        },
+        {
+          "name": "Topher Grace",
+          "character": "Getty",
+          "profile": "/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+        },
+        {
+          "name": "Mackenzie Foy",
+          "character": "Murph (10 Yrs.)",
+          "profile": "/wzH60SrqWp2XMkBfLgdBhx5EJ82.jpg"
+        }
+      ],
+      "tmdbRating": 8.5,
+      "tmdbVotes": 41305,
+      "popularity": 70.85,
+      "trailer": "https://www.youtube.com/watch?v=gnOCZhluoow",
+      "fonte": "c'è Timothée Chalamet, che hai visto 4 volte",
+      "categoria": "qualcuno che segui",
+      "perche": "regia di Christopher Nolan, di cui hai visto 2 film",
+      "motivi": [
+        "regia di Christopher Nolan, di cui hai visto 2 film",
+        "c'è Anne Hathaway, che hai visto 2 volte",
+        "c'è Timothée Chalamet, che hai visto 4 volte"
+      ],
+      "proposto": "2026-09-29"
+    },
+    {
+      "tmdbId": 263115,
+      "imdbId": "tt3315342",
+      "title": "Logan - The Wolverine",
+      "originalTitle": "Logan",
+      "release": "2017-03-01",
+      "releaseFonte": "IT",
+      "genres": [
+        "Azione",
+        "Dramma",
         "Fantascienza"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 108,
-      "plot": "Il film comincia dove terminava il primo capitolo, ovvero con Marty e Jennifer che partono insieme allo scienziato Doc, inventore della macchina del tempo, per il 2015 allo scopo di evitare che il futuro dei loro figli possa essere in pericolo. Ma la situazione precipita e ad essere in pericolo non è più il futuro, ma il passato. Marty dovrà tornare nuovamente nel 1955 e...",
-      "tagline": "Strade? Dove stiamo andando non c'è bisogno di strade!",
-      "poster": "/AbwX5BzdmfA0WFBxBF909Gf4Sop.jpg",
-      "backdrop": "/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
-      "director": "Robert Zemeckis",
+      "runtime": 137,
+      "plot": "El Paso, 2029. Sono 25 anni che non nascono più mutanti e quelli che sono sopravvissuti sono degli emarginati, in via di estinzione. Logan/Wolverine vive facendo lo chaffeur e la sua capacità di rigenerazione non funziona più come un tempo, mentre il Professor X ha novant'anni e il controllo dei suoi poteri psichici è sempre meno sicuro. Quando una donna messicana cerca Logan per presentargli una bambina misteriosa di nome Laura, nuove attenzioni e nuovi guai cominciano a raggiungere i mutanti.",
+      "tagline": "Il suo momento è arrivato.",
+      "poster": "/ksAxLbKb6e9K6kN4xfvvpbEyIDl.jpg",
+      "backdrop": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+      "director": "James Mangold",
       "cast": [
-        "Michael J. Fox",
-        "Christopher Lloyd",
-        "Lea Thompson",
-        "Thomas F. Wilson",
-        "Elisabeth Shue"
+        "Hugh Jackman",
+        "Dafne Keen",
+        "Patrick Stewart",
+        "Elizabeth Rodriguez",
+        "Boyd Holbrook"
       ],
       "castDetail": [
         {
-          "name": "Michael J. Fox",
-          "character": "Marty McFly / Marty McFly Junior / Marlene McFly",
-          "profile": "/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+          "name": "Hugh Jackman",
+          "character": "Logan / X-24",
+          "profile": "/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
         },
         {
-          "name": "Christopher Lloyd",
-          "character": "Doctor Emmett Brown",
-          "profile": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+          "name": "Dafne Keen",
+          "character": "Laura",
+          "profile": "/34BhddK5z2YHjfppOleezVrQ7Jt.jpg"
         },
         {
-          "name": "Lea Thompson",
-          "character": "Lorraine",
-          "profile": "/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg"
+          "name": "Patrick Stewart",
+          "character": "Charles",
+          "profile": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
         },
         {
-          "name": "Thomas F. Wilson",
-          "character": "Biff Tannen / Griff",
-          "profile": "/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+          "name": "Elizabeth Rodriguez",
+          "character": "Gabriela",
+          "profile": "/9f851DP7NHAOKvvlZdXxYigDYbl.jpg"
         },
         {
-          "name": "Elisabeth Shue",
-          "character": "Jennifer",
-          "profile": "/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+          "name": "Boyd Holbrook",
+          "character": "Pierce",
+          "profile": "/xmkpedcct3ey1d1HGDNsUMQPHcB.jpg"
         },
         {
-          "name": "James Tolkan",
-          "character": "Strickland",
-          "profile": "/euEktcyVXm1pq5UBC16v3zuBq7J.jpg"
+          "name": "Stephen Merchant",
+          "character": "Caliban",
+          "profile": "/6WM2rK6390Nwk398syJbGcPvRct.jpg"
         },
         {
-          "name": "Jeffrey Weissman",
-          "character": "George McFly",
-          "profile": "/rdxAEWflihoR5Vt1TvsR0XcI6N5.jpg"
+          "name": "Richard E. Grant",
+          "character": "Dr. Rice",
+          "profile": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
         },
         {
-          "name": "Casey Siemaszko",
-          "character": "3-D",
-          "profile": "/7Ba8fFtFsh1SX01UxfIADtTTVl9.jpg"
+          "name": "Stephen Dunlevy",
+          "character": "Macon",
+          "profile": "/e0HDyS2xosZ7ByWFBfRoaw07tE5.jpg"
         }
       ],
-      "tmdbRating": 7.784,
-      "tmdbVotes": 14320,
-      "popularity": 37.0424,
-      "trailer": "https://www.youtube.com/watch?v=CAsmCAAuUyk",
-      "fonte": "avventura: il tuo terreno",
+      "tmdbRating": 7.82,
+      "tmdbVotes": 20885,
+      "popularity": 24.125,
+      "trailer": "https://www.youtube.com/watch?v=MW-8b5PS2Es",
+      "fonte": "fantascienza: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
+      "perche": "fantascienza: il tuo terreno",
       "motivi": [
-        "avventura: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-09-28"
-    },
-    {
-      "tmdbId": 8871,
-      "imdbId": "tt0170016",
-      "title": "Il Grinch",
-      "originalTitle": "How the Grinch Stole Christmas",
-      "release": "2000-11-17",
-      "releaseFonte": "globale",
-      "genres": [
-        "Famiglia",
-        "Commedia",
-        "Fantasy"
-      ],
-      "countries": [
-        "USA",
-        "Germania"
-      ],
-      "runtime": 104,
-      "plot": "È la storia di una creatura con il cuore due volte più piccolo del normale e che si traveste da Babbo Natale. Ruba regali, alberi di Natale e cibo.",
-      "tagline": "Metti tutto il verde che c'è.",
-      "poster": "/oIQYw3rzBcMUiOGAOex0Ml1zrTS.jpg",
-      "backdrop": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
-      "director": "Ron Howard",
-      "cast": [
-        "Jim Carrey",
-        "Taylor Momsen",
-        "Jeffrey Tambor",
-        "Christine Baranski",
-        "Bill Irwin"
-      ],
-      "castDetail": [
-        {
-          "name": "Jim Carrey",
-          "character": "Grinch",
-          "profile": "/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
-        },
-        {
-          "name": "Taylor Momsen",
-          "character": "Cindy Lou Who",
-          "profile": "/u0RWIWMVaUNFYnDflWIJGJ3fzWt.jpg"
-        },
-        {
-          "name": "Jeffrey Tambor",
-          "character": "Mayor Augustus Maywho",
-          "profile": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
-        },
-        {
-          "name": "Christine Baranski",
-          "character": "Martha May Whovier",
-          "profile": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg"
-        },
-        {
-          "name": "Bill Irwin",
-          "character": "Lou Lou Who",
-          "profile": "/bAV5qsljgiHQkn3QluB5clVYC13.jpg"
-        },
-        {
-          "name": "Molly Shannon",
-          "character": "Betty Lou Who",
-          "profile": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg"
-        },
-        {
-          "name": "Clint Howard",
-          "character": "Whobris",
-          "profile": "/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
-        },
-        {
-          "name": "Josh Ryan Evans",
-          "character": "8-Year-Old Grinch",
-          "profile": "/7SkVfNV2kKKWOzd9kTOENMvb1uj.jpg"
-        }
-      ],
-      "tmdbRating": 6.779,
-      "tmdbVotes": 8473,
-      "popularity": 18.658,
-      "trailer": "https://www.youtube.com/watch?v=UnyPPS1Z-Vs",
-      "fonte": "c'è Bryce Dallas Howard, che hai visto 3 volte",
-      "categoria": "qualcuno che segui",
-      "perche": "c'è Bryce Dallas Howard, che hai visto 3 volte",
-      "motivi": [
-        "c'è Bryce Dallas Howard, che hai visto 3 volte"
-      ],
-      "proposto": "2026-09-28"
-    },
-    {
-      "tmdbId": 166428,
-      "imdbId": "tt2386490",
-      "title": "Dragon Trainer - Il mondo nascosto",
-      "originalTitle": "How to Train Your Dragon: The Hidden World",
-      "release": "2019-01-31",
-      "releaseFonte": "IT",
-      "genres": [
-        "Animazione",
-        "Famiglia",
-        "Avventura"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 104,
-      "plot": "Hiccup ha preso il posto del padre Stoyck come leader di Berk, nonostante del leader debba ancora trovare la stoffa, mentre Sdentato è il nuovo Alfa, il drago da cui tutti gli altri draghi si lasciano guidare. Uomini e draghi convivono, dunque, felicemente e scomodamente, ma l'utopia ha i giorni contati: Grimmel il Grifagno, assetato killer di Furie Buie, è sulle tracce di Sdentato e ha stretto un patto con i nemici di Hiccup promettendo loro di riportare in gabbia ogni drago in libertà. Non resta che partire, lasciare la propria terra, alla ricerca di quel mondo nascosto di cui vaneggiava Sto",
-      "tagline": null,
-      "poster": "/y9zgU3NCsF1v71xXBHfgtV2z7S.jpg",
-      "backdrop": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
-      "director": "Dean DeBlois",
-      "cast": [
-        "Jay Baruchel",
-        "America Ferrera",
-        "F. Murray Abraham",
-        "Cate Blanchett",
-        "Gerard Butler"
-      ],
-      "castDetail": [
-        {
-          "name": "Jay Baruchel",
-          "character": "Hiccup (voice)",
-          "profile": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
-        },
-        {
-          "name": "America Ferrera",
-          "character": "Astrid (voice)",
-          "profile": "/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
-        },
-        {
-          "name": "F. Murray Abraham",
-          "character": "Grimmel (voice)",
-          "profile": "/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
-        },
-        {
-          "name": "Cate Blanchett",
-          "character": "Valka (voice)",
-          "profile": "/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
-        },
-        {
-          "name": "Gerard Butler",
-          "character": "Stoick (voice)",
-          "profile": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
-        },
-        {
-          "name": "Craig Ferguson",
-          "character": "Gobber (voice)",
-          "profile": "/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
-        },
-        {
-          "name": "Jonah Hill",
-          "character": "Snotlout (voice)",
-          "profile": "/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
-        },
-        {
-          "name": "Christopher Mintz-Plasse",
-          "character": "Fishlegs (voice)",
-          "profile": "/dnj2qyxmPt5JF5uurbXQLegppAx.jpg"
-        }
-      ],
-      "tmdbRating": 7.751,
-      "tmdbVotes": 7299,
-      "popularity": 18.1838,
-      "trailer": "https://www.youtube.com/watch?v=HKpfx6k9bSM",
-      "fonte": "avventura: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "proposto": "2026-09-28"
+      "proposto": "2026-09-29"
     }
   ],
   "storico": {
@@ -835,12 +833,14 @@
     "68": "2026-09-27",
     "73": "2026-09-17",
     "98": "2026-09-16",
+    "101": "2026-09-29",
     "105": "2026-09-24",
     "120": "2026-09-21",
     "122": "2026-09-19",
     "142": "2026-09-21",
     "155": "2026-09-28",
     "165": "2026-09-28",
+    "207": "2026-09-29",
     "218": "2026-09-15",
     "235": "2026-09-12",
     "238": "2026-09-20",
@@ -908,6 +908,7 @@
     "19404": "2026-09-25",
     "20526": "2026-09-14",
     "24021": "2026-09-26",
+    "24428": "2026-09-29",
     "27205": "2026-09-27",
     "37165": "2026-09-17",
     "37724": "2026-09-27",
@@ -930,6 +931,7 @@
     "137113": "2026-09-17",
     "146233": "2026-09-15",
     "152601": "2026-09-12",
+    "157336": "2026-09-29",
     "166426": "2026-09-26",
     "166428": "2026-09-28",
     "181812": "2026-09-26",
@@ -939,6 +941,7 @@
     "209361": "2026-09-27",
     "244786": "2026-09-15",
     "257211": "2026-09-12",
+    "263115": "2026-09-29",
     "265195": "2026-09-26",
     "269149": "2026-09-16",
     "273481": "2026-09-15",
@@ -961,8 +964,10 @@
     "391713": "2026-09-23",
     "395991": "2026-09-14",
     "398818": "2026-09-16",
+    "399055": "2026-09-29",
     "399174": "2026-09-17",
     "402900": "2026-09-16",
+    "406997": "2026-09-29",
     "447332": "2026-09-17",
     "451048": "2026-09-20",
     "453278": "2026-09-28",
@@ -977,6 +982,7 @@
     "554230": "2026-09-28",
     "581734": "2026-09-25",
     "585511": "2026-09-19",
+    "615469": "2026-09-29",
     "635302": "2026-09-28",
     "637920": "2026-09-21",
     "646380": "2026-09-20",
@@ -986,8 +992,10 @@
     "760245": "2026-09-22",
     "792307": "2026-09-15",
     "843847": "2026-09-13",
+    "961323": "2026-09-29",
     "965150": "2026-09-20",
     "980431": "2026-09-14",
+    "994108": "2026-09-29",
     "1007757": "2026-09-19",
     "1108427": "2026-09-16",
     "1184918": "2026-09-17",

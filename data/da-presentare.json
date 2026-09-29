@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-28T05:07:04.775Z",
+  "preparato": "2026-09-29T05:07:11.207Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,6 +78,106 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1003596",
+      "tmdbId": 1003596,
+      "imdbId": "tt21357150",
+      "origine": "trailer",
+      "titolo": "Avengers: Doomsday",
+      "titoloOriginale": "Avengers: Doomsday",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-16",
+      "regia": "Joe Russo",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 165,
+      "tagline": null,
+      "cast": [
+        "Robert Downey Jr. (Victor von Doom  / Doctor Doom)",
+        "Chris Evans (Steve Rogers)",
+        "Chris Hemsworth (Thor)",
+        "Pedro Pascal (Reed Richards / Mister Fantastic)",
+        "Paul Rudd (Scott Lang / Ant-Man)",
+        "Anthony Mackie (Sam Wilson / Captain America)"
+      ],
+      "tramaTmdb": "Gli universi si scontrano e la Saga del Multiverso inizia il suo capitolo finale. Gli amati eroi di tre universi distinti si troveranno su una rotta di collisione mortale e dovranno affrontare una minaccia esistenziale diversa da qualsiasi altra abbiano mai incontrato.",
+      "motivi": [
+        "fantascienza e avventura: il tuo terreno"
+      ],
+      "impronta": "Avengers: Doomsday|269|Joe Russo"
+    },
+    {
+      "id": "tmdb-1422041",
+      "tmdbId": 1422041,
+      "imdbId": "tt35511966",
+      "origine": "trailer",
+      "titolo": "La bola negra",
+      "titoloOriginale": "La bola negra",
+      "anno": "2027",
+      "uscitaItalia": "2027-01-14",
+      "regia": "Javier Ambrossi",
+      "generi": [
+        "Dramma",
+        "Guerra"
+      ],
+      "paesi": [
+        "Spagna",
+        "Francia"
+      ],
+      "durata": 155,
+      "tagline": null,
+      "cast": [
+        "Guitarricadelafuente (Sebastián)",
+        "Miguel Bernardeau (Rafael)",
+        "Carlos González (Alberto)",
+        "Milo Quifes (Carlos)",
+        "Lola Dueñas (Teresa)",
+        "Penélope Cruz (Nené Romero)"
+      ],
+      "tramaTmdb": "Il film esplora cosa significa essere gay in diverse epoche, concentrandosi su “tre esistenze” collegate dai temi della sessualità, del desiderio, del dolore e dell’eredità.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "La bola negra|173|Javier Ambrossi"
+    },
+    {
+      "id": "tmdb-1263337",
+      "tmdbId": 1263337,
+      "imdbId": "tt7526136",
+      "origine": "trailer",
+      "titolo": "Heart of the Beast - Nel profondo selvaggio",
+      "titoloOriginale": "Heart of the Beast",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-24",
+      "regia": "David Ayer",
+      "generi": [
+        "Avventura",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 95,
+      "tagline": "Solo insieme potranno sopravvivere.",
+      "cast": [
+        "Brad Pitt (James Belmont)",
+        "J.K. Simmons (Watkins)",
+        "Anna Lambe (Amber)",
+        "Justin Melnick (Military Soldier)",
+        "Shaun DeZern (Military Soldier)"
+      ],
+      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+      "motivi": [
+        "avventura e thriller: il tuo terreno"
+      ],
+      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
+    },
     {
       "id": "tmdb-1255833",
       "tmdbId": 1255833,
@@ -110,39 +210,6 @@
         "thriller, il tuo terreno"
       ],
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
-    },
-    {
-      "id": "tmdb-1263337",
-      "tmdbId": 1263337,
-      "imdbId": "tt7526136",
-      "origine": "trailer",
-      "titolo": "Heart of the Beast - Nel profondo selvaggio",
-      "titoloOriginale": "Heart of the Beast",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-24",
-      "regia": "David Ayer",
-      "generi": [
-        "Avventura",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 95,
-      "tagline": "Solo insieme potranno sopravvivere.",
-      "cast": [
-        "Brad Pitt (James Belmont)",
-        "J.K. Simmons (Watkins)",
-        "Anna Lambe (Amber)",
-        "Justin Melnick (Military Soldier)",
-        "Shaun DeZern (Military Soldier)",
-        "Uber (Odin)"
-      ],
-      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-      "motivi": [
-        "avventura e thriller: il tuo terreno"
-      ],
-      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
       "id": "tmdb-1244523",
@@ -212,32 +279,6 @@
       "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
-      "id": "tmdb-1755291",
-      "tmdbId": 1755291,
-      "imdbId": "tt44766123",
-      "origine": "trailer",
-      "titolo": "NAZA",
-      "titoloOriginale": "NAZA",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-25",
-      "regia": "يوفال إبراهيم",
-      "generi": [
-        "Documentario"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 80,
-      "tagline": null,
-      "cast": [
-        "يوفال إبراهيم (Self)"
-      ],
-      "tramaTmdb": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
-      "motivi": [],
-      "impronta": "NAZA|259|يوفال إبراهيم"
-    },
-    {
       "id": "tmdb-1765072",
       "tmdbId": 1765072,
       "imdbId": "tt45368240",
@@ -268,152 +309,154 @@
       "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
-      "id": "tmdb-155",
-      "tmdbId": 155,
-      "imdbId": "tt0468569",
+      "id": "tmdb-406997",
+      "tmdbId": 406997,
+      "imdbId": "tt2543472",
       "origine": "scoperta",
-      "titolo": "Il cavaliere oscuro",
-      "titoloOriginale": "The Dark Knight",
-      "anno": "2008",
-      "uscitaItalia": "2008-07-23",
-      "regia": "Christopher Nolan",
+      "titolo": "Wonder",
+      "titoloOriginale": "Wonder",
+      "anno": "2017",
+      "uscitaItalia": "2017-12-21",
+      "regia": "Stephen Chbosky",
       "generi": [
-        "Azione",
-        "Thriller",
-        "Crime"
+        "Famiglia",
+        "Dramma"
       ],
       "paesi": [
-        "Regno Unito",
         "USA"
       ],
-      "durata": 146,
-      "tagline": "Benvenuti in un mondo senza regole.",
+      "durata": 113,
+      "tagline": "Se non ti piace quello che vedi, cambia il tuo modo di guardare.",
       "cast": [
-        "Christian Bale (Bruce Wayne)",
-        "Heath Ledger (Joker)",
-        "Aaron Eckhart (Harvey Dent)",
-        "Michael Caine (Alfred)",
-        "Maggie Gyllenhaal (Rachel)",
-        "Gary Oldman (Gordon)"
+        "Jacob Tremblay (Auggie)",
+        "Julia Roberts (Isabel)",
+        "Owen Wilson (Nate)",
+        "Izabela Vidovic (Via)",
+        "Noah Jupe (Jack Will)",
+        "Millie Davis (Summer)"
       ],
-      "tramaTmdb": "Il crimine organizzato a Gotham City ha le ore contate. Batman, il tenente Gordon, il nuovo Procuratore Distrettuale e alcuni improbabili epigoni dell'Uomo Pipistrello in imbottiture da hockey hanno dichiarato guerra ai criminali. La loro fortuna e i loro dollari, accumulati in una banca di massima sicurezza, vengono rubati da Joker, un pagliaccio sadico e mascherato che getterà la città nel disordine e nell'anarchia. Riempite le tasche di lame, polvere da sparo e lanugine, Joker sfiderà il cavaliere oscuro di Bruce Wayne e rivelerà il lato oscuro di Harvey Dent, l'eroe procuratore che applica",
+      "tramaTmdb": "Nato con un'anomalia facciale che non gli ha mai consentito di frequentare una scuola normale, Auggie Pullman diventa il più improbabile degli eroi quando viene ammesso all'ultimo anno delle elementari. Mentre la sua famiglia, i suoi nuovi compagni di classe e tutta la comunità lotta per scoprire la propria compassione e accettazione, la straordinaria storia di Auggie unirà tutti quanti e dimostrerà che non occorre nascondersi quando si è nati per differenziarsi dagli altri.",
       "motivi": [
-        "regia di Christopher Nolan, di cui hai visto 2 film",
-        "regia di Christopher Nolan, che segui"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "Il cavaliere oscuro|600|Christopher Nolan"
+      "impronta": "Wonder|479|Stephen Chbosky"
     },
     {
-      "id": "tmdb-11423",
-      "tmdbId": 11423,
-      "imdbId": "tt0353969",
+      "id": "tmdb-961323",
+      "tmdbId": 961323,
+      "imdbId": "tt19500164",
       "origine": "scoperta",
-      "titolo": "Memorie di un assassino",
-      "titoloOriginale": "살인의 추억",
-      "anno": "2020",
-      "uscitaItalia": "2020-02-13",
-      "regia": "봉준호",
+      "titolo": "Nimona",
+      "titoloOriginale": "Nimona",
+      "anno": "2023",
+      "uscitaItalia": "2023-06-23",
+      "regia": "Troy Quane",
       "generi": [
-        "Crime",
-        "Dramma",
+        "Animazione",
+        "Famiglia",
+        "Fantasy",
+        "Avventura",
+        "Fantascienza",
+        "Azione"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito"
+      ],
+      "durata": 101,
+      "tagline": "Un nuovo eroe prende forma.",
+      "cast": [
+        "Chloë Grace Moretz (Nimona (voice))",
+        "Riz Ahmed (Ballister Boldheart (voice))",
+        "Eugene Lee Yang (Ambrosius Goldenloin (voice))",
+        "Frances Conroy (The Director (voice))",
+        "Lorraine Toussaint (Queen Valerin (voice))",
+        "Beck Bennett (Sir Thoddeus Sureblade (voice))"
+      ],
+      "tramaTmdb": "Per dimostrare la propria innocenza un cavaliere accusato di un crimine unisce le forze con un'adolescente mutaforma. Ma se fosse lei il mostro che ha giurato di distruggere?",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Nimona|174|Troy Quane"
+    },
+    {
+      "id": "tmdb-615469",
+      "tmdbId": 615469,
+      "imdbId": "tt9783600",
+      "origine": "scoperta",
+      "titolo": "Spiderhead",
+      "titoloOriginale": "Spiderhead",
+      "anno": "2022",
+      "uscitaItalia": "2022-06-15",
+      "regia": "Joseph Kosinski",
+      "generi": [
+        "Fantascienza",
         "Thriller"
       ],
       "paesi": [
-        "Corea del Sud"
+        "USA"
       ],
-      "durata": 129,
-      "tagline": "Il peggio di loro rimarrà con te ... per sempre",
+      "durata": 106,
+      "tagline": "Fino a che punto vi spingereste per correggere la natura umana?",
       "cast": [
-        "Song Kang-ho (Detective Park Doo-man)",
-        "김상경 (Detective Seo Tae-yoon)",
-        "김뢰하 (Detective Cho Yong-koo)",
-        "Song Jae-ho (Sergeant Shin Dong-chul)",
-        "변희봉 (Sergeant Koo Hee-bong)",
-        "고서희 (Officer Kwon Kwi-ok)"
+        "Chris Hemsworth (Steve Abnesti)",
+        "Miles Teller (Jeff)",
+        "Jurnee Smollett-Bell (Lizzy)",
+        "Mark Paguio (Mark Verlaine)",
+        "Tess Haubrich (Heather)",
+        "BeBe Bettencourt (Emma)"
       ],
-      "tramaTmdb": "In un villaggio nella provincia di Gyunggi viene rinvenuto il cadavere di una donna che prima di essere uccisa è stata stuprata. Due detectives locali si fanno carico del caso ma, sebbene non usino i guanti bianchi nel condurre le indagini, non arrivano a nulla. Ad aiutare l'inesperta coppia arriva da Seul il collega Seo Tae-yoon, mentre altri omicidi commessi con lo stesso modus operandi cominciano a far pensare ad un serial killer…",
+      "tramaTmdb": "Un detenuto di un penitenziario all'avanguardia mette in dubbio lo scopo dei farmaci capaci di controllare le emozioni che sta testando per un genio della farmaceutica.",
       "motivi": [
-        "thriller: il tuo terreno"
+        "regia di Joseph Kosinski, di cui hai visto 2 film",
+        "regia di Joseph Kosinski, che segui"
       ],
-      "impronta": "Memorie di un assassino|437|봉준호"
+      "impronta": "Spiderhead|168|Joseph Kosinski"
     },
     {
-      "id": "tmdb-670",
-      "tmdbId": 670,
-      "imdbId": "tt0364569",
+      "id": "tmdb-101",
+      "tmdbId": 101,
+      "imdbId": "tt0110413",
       "origine": "scoperta",
-      "titolo": "Old Boy",
-      "titoloOriginale": "올드보이",
-      "anno": "2005",
-      "uscitaItalia": "2005-05-06",
-      "regia": "Park Chan-wook",
+      "titolo": "Léon",
+      "titoloOriginale": "Léon",
+      "anno": "1995",
+      "uscitaItalia": "1995-04-07",
+      "regia": "Luc Besson",
       "generi": [
-        "Thriller",
-        "Mistero"
+        "Crime",
+        "Dramma",
+        "Azione"
       ],
       "paesi": [
-        "Corea del Sud"
+        "Francia"
       ],
-      "durata": 119,
-      "tagline": "Ridi, e il mondo riderà con te. Piangi, e piangerai da solo.",
+      "durata": 110,
+      "tagline": "Dal momento del loro incontro, le loro vite non saranno più le stesse.",
       "cast": [
-        "최민식 (Oh Dae-su)",
-        "유지태 (Lee Woo-jin)",
-        "강혜정 (Mi-do)",
-        "김병옥 (Mr. Han)",
-        "지대한 (No Joo-hwan)",
-        "오달수 (Park Cheol-woong)"
+        "Jean Reno (Léon Montana)",
+        "Natalie Portman (Mathilda Lando)",
+        "Gary Oldman (Norman Stansfield)",
+        "Danny Aiello (Old Tony)",
+        "Peter Appel (Agent Malky)",
+        "Michael Badalucco (Mathilda's Father)"
       ],
-      "tramaTmdb": "È la storia di Dae-su, imprigionato per 15 anni senza sapere perché, e della sua implacabile vendetta una volta libero. Non dovrà cercare lontano, perché il suo persecutore non ha ancora chiuso la partita. L'appena conosciuta e subito amata Mi-do lo accompagnerà alla ricerca della rivincita e, più ancora, del motivo della sua prigionia.",
+      "tramaTmdb": "Léon è un killer che vive solo, avendo unicamente una pianta da vaso come compagnia. Mathilda è una ragazzina che abita nell'appartamento a fianco alla stanza di Léon. Quando la famiglia di Mathilda viene sterminata per una storia di droga, lei chiede aiuto a Léon. Tra i due nasce una tenera amicizia, fra scambi di lezioni sull'uso delle armi da una parte e di lettura dall'altra.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Old Boy|338|Park Chan-wook"
+      "impronta": "Léon|382|Luc Besson"
     },
     {
-      "id": "tmdb-635302",
-      "tmdbId": 635302,
-      "imdbId": "tt11032374",
+      "id": "tmdb-24428",
+      "tmdbId": 24428,
+      "imdbId": "tt0848228",
       "origine": "scoperta",
-      "titolo": "Demon Slayer - Il treno Mugen",
-      "titoloOriginale": "劇場版「鬼滅の刃」無限列車編",
-      "anno": "2020",
-      "uscitaItalia": "2020-10-16",
-      "regia": "外崎春雄",
-      "generi": [
-        "Animazione",
-        "Azione",
-        "Fantasy"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 117,
-      "tagline": "Con la tua lama, poni fine all'incubo",
-      "cast": [
-        "Natsuki Hanae (Tanjiro Kamado (voice))",
-        "Akari Kito (Nezuko Kamado (voice))",
-        "Hiro Shimono (Zenitsu Agatsuma (voice))",
-        "Yoshitsugu Matsuoka (Inosuke Hashibira (voice))",
-        "Satoshi Hino (Kyojuro Rengoku (voice))",
-        "Takahiro Sakurai (Giyu Tomioka (voice))"
-      ],
-      "tramaTmdb": "Enmu, recentemente liberato dalle celle Muzan, si propone di attaccare un misterioso treno in movimento. Nel corso dell'attacco, il demone consuma molti passeggeri. Tanjiro Kamado viene in soccorso, ma questo treno in movimento trasporta più di un cattivo demone da combattere.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Demon Slayer - Il treno Mugen|277|外崎春雄"
-    },
-    {
-      "id": "tmdb-524434",
-      "tmdbId": 524434,
-      "imdbId": "tt9032400",
-      "origine": "scoperta",
-      "titolo": "Eternals",
-      "titoloOriginale": "Eternals",
-      "anno": "2021",
-      "uscitaItalia": "2021-11-03",
-      "regia": "Chloé Zhao",
+      "titolo": "The Avengers",
+      "titoloOriginale": "The Avengers",
+      "anno": "2012",
+      "uscitaItalia": "2012-04-25",
+      "regia": "Joss Whedon",
       "generi": [
         "Fantascienza",
         "Azione",
@@ -422,194 +465,195 @@
       "paesi": [
         "USA"
       ],
-      "durata": 156,
-      "tagline": "La fine è solo l'inizio!",
+      "durata": 143,
+      "tagline": "L'unione fa la forza.",
       "cast": [
-        "Gemma Chan (Sersi)",
-        "Richard Madden (Ikaris)",
-        "Angelina Jolie (Thena)",
-        "Salma Hayek Pinault (Ajak)",
-        "Kumail Nanjiani (Kingo)",
-        "Lia McHugh (Sprite)"
+        "Robert Downey Jr. (Tony Stark / Iron Man)",
+        "Chris Evans (Steve Rogers / Captain America)",
+        "Mark Ruffalo (Bruce Banner / The Hulk)",
+        "Chris Hemsworth (Thor)",
+        "Scarlett Johansson (Natasha Romanoff / Black Widow)",
+        "Jeremy Renner (Clint Barton / Hawkeye)"
       ],
-      "tramaTmdb": "Ne \"Gli Eterni\" dei Marvel Studios un nuovo, entusiasmante, team di supereroi debutta nell’universo cinematografico Marvel: antichi alieni che vivono in segreto sulla Terra da migliaia di anni. A seguito degli eventi di \"Avengers: Endgame\", una tragedia inaspettata li costringe a uscire dalle ombre per ricongiungersi con il più antico nemico dell’umanità, i Devianti.",
+      "tramaTmdb": "I supereroi più famosi si riuniscono in una squadra di personaggi Marvel leggendari come Iron Man, l'incredibile Hulk, Thor, Captain America, Occhio di Falco e Vedova Nera. Quando la comparsa di un nemico inatteso minaccia la tranquillità e la sicurezza del mondo, Nick Fury, direttore dell'agenzia internazionale per il mantenimento della pace conosciuta come S.H.I.E.L.D., si trova ad aver bisogno di una squadra che salvi il pianeta dall'orlo del disastro. Inizia così, da un capo all'altro della terra, un audace lavoro di reclutamento. Dopo aver riunito la squadra, Nick Fury e il suo fidato ass",
       "motivi": [
-        "regia di Chloé Zhao, di cui hai visto un film",
-        "regia di Chloé Zhao, che segui"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Eternals|369|Chloé Zhao"
+      "impronta": "The Avengers|600|Joss Whedon"
     },
     {
-      "id": "tmdb-554230",
-      "tmdbId": 554230,
-      "imdbId": "tt9100054",
+      "id": "tmdb-207",
+      "tmdbId": 207,
+      "imdbId": "tt0097165",
       "origine": "scoperta",
-      "titolo": "La figlia oscura",
-      "titoloOriginale": "The Lost Daughter",
-      "anno": "2022",
-      "uscitaItalia": "2022-04-07",
-      "regia": "Maggie Gyllenhaal",
+      "titolo": "L'attimo fuggente",
+      "titoloOriginale": "Dead Poets Society",
+      "anno": "1989",
+      "uscitaItalia": "1989-09-28",
+      "regia": "Peter Weir",
       "generi": [
         "Dramma"
       ],
       "paesi": [
-        "Greece",
-        "Israel",
-        "Regno Unito"
+        "USA"
       ],
-      "durata": 121,
-      "tagline": null,
+      "durata": 130,
+      "tagline": "Era per loro l'ispiratore di una nuova straordinaria esistenza",
       "cast": [
-        "Olivia Colman (Leda Caruso)",
-        "Jessie Buckley (Young Leda Caruso)",
-        "Dakota Johnson (Nina)",
-        "Ed Harris (Lyle)",
-        "Paul Mescal (Will)",
-        "Peter Sarsgaard (Professor Hardy)"
+        "Robin Williams (John Keating)",
+        "Robert Sean Leonard (Neil Perry)",
+        "Ethan Hawke (Todd Anderson)",
+        "Josh Charles (Knox Overstreet)",
+        "Gale Hansen (Charlie Dalton)",
+        "Dylan Kussman (Richard Cameron)"
       ],
-      "tramaTmdb": "Sola in una località di mare, Leda osserva ossessivamente una giovane madre e la figlia in spiaggia. Turbata dalla complicità del loro rapporto (e dalla loro famiglia, chiassosa e sinistra), Leda è sopraffatta dai ricordi legati allo sgomento, allo smarrimento e all’intensità della propria maternità. Un gesto impulsivo catapulta Leda nello strano e minaccioso universo della sua stessa mente, in cui è costretta a fare i conti con le scelte anticonformiste fatte quando era una giovane madre e con le loro conseguenze.",
+      "tramaTmdb": "Stato del Vermont (Stati Uniti), 1959: nel college maschile Welton, molto tradizionale, viene trasferito il professore John Keating, un insegnante di lettere simpatico e anticonformista. Fin dal primo contatto con i giovani allievi, traspare non solo il suo diverso modo d'insegnamento ma anche il suo approccio che esorta i ragazzi ad affrontare lo studio e la vita seguendo le proprie idee e non quelle dei nonni. Uno degli studenti, entrato in conflitto con i suoi genitori, si suiciderà. La responsabilità viene fatta ricadere sul professore. Lui sarà cacciato, ma i suoi allievi non lo dimentich",
       "motivi": [
-        "c'è Paul Mescal, che hai visto 2 volte",
-        "c'è Paul Mescal, che hai visto 2 volte"
+        "un classico che ti manca"
       ],
-      "impronta": "La figlia oscura|520|Maggie Gyllenhaal"
+      "impronta": "L'attimo fuggente|600|Peter Weir"
     },
     {
-      "id": "tmdb-453278",
-      "tmdbId": 453278,
-      "imdbId": "tt6217608",
+      "id": "tmdb-399055",
+      "tmdbId": 399055,
+      "imdbId": "tt5580390",
       "origine": "scoperta",
-      "titolo": "The Rider - Il sogno di un cowboy",
-      "titoloOriginale": "The Rider",
-      "anno": "2019",
-      "uscitaItalia": "2019-08-29",
-      "regia": "Chloé Zhao",
+      "titolo": "La forma dell'acqua",
+      "titoloOriginale": "The Shape of Water",
+      "anno": "2018",
+      "uscitaItalia": "2018-02-14",
+      "regia": "Guillermo del Toro",
       "generi": [
         "Dramma",
-        "Western"
+        "Fantasy",
+        "Romance"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 103,
-      "tagline": null,
+      "durata": 123,
+      "tagline": "Una favola per tempi duri.",
       "cast": [
-        "Brady Jandreau (Brady Blackburn)",
-        "Tim Jandreau (Wayne Blackburn)",
-        "Lilly Jandreau (Lilly Blackburn)",
-        "Cat Clifford (Cat Clifford)",
-        "Terri Dawn Pourier (Terri Dawn Pourier)",
-        "Lane Scott (Lane Scott)"
+        "Sally Hawkins (Elisa Esposito)",
+        "Michael Shannon (Richard Strickland)",
+        "Richard Jenkins (Giles)",
+        "Octavia Spencer (Zelda Fuller)",
+        "Michael Stuhlbarg (Dr. Robert Hoffstetler)",
+        "Doug Jones (Amphibian Man)"
       ],
-      "tramaTmdb": "Nella riserva di Pine Ridge, nel South Dakota, Brady Blackburn addestra cavalli selvaggi. Giovane cowboy e stella nascente del rodeo, apprende dal suo medico di non poter più cavalcare. Una brutta caduta lo ha disarcionato per sempre, sfondandogli il cranio in maniera quasi fatale. A fianco della sorellina, affetta dalla sindrome di Asperger, e in lotta col padre piegato dal lavoro e dalle responsabilità, cerca una nuova ragione di vita in un Paese che non fa sconti.",
+      "tramaTmdb": "Elisa, giovane donna muta, lavora in un laboratorio scientifico di Baltimora dove gli americani combattono la guerra fredda. Impiegata come donna delle pulizie, Elisa è legata da profonda amicizia a Zelda, collega afroamericana che lotta per i suoi diritti dentro il matrimonio e la società, e Giles, vicino di casa omosessuale, discriminato sul lavoro. Diversi in un mondo di mostri dall'aspetto rassicurante, scoprono che in laboratorio (soprav)vive in cattività una creatura anfibia di grande intelligenza e sensibilità. A rivelarle è Elisa. Condannata al silenzio e alla solitudine, si innamora r",
       "motivi": [
-        "regia di Chloé Zhao, di cui hai visto un film",
-        "regia di Chloé Zhao, che segui"
+        "regia di Guillermo del Toro, di cui hai visto un film",
+        "regia di James Cameron, che segui"
       ],
-      "impronta": "The Rider - Il sogno di un cowboy|471|Chloé Zhao"
+      "impronta": "La forma dell'acqua|600|Guillermo del Toro"
     },
     {
-      "id": "tmdb-165",
-      "tmdbId": 165,
-      "imdbId": "tt0096874",
+      "id": "tmdb-994108",
+      "tmdbId": 994108,
+      "imdbId": "tt21192142",
       "origine": "scoperta",
-      "titolo": "Ritorno al futuro - Parte II",
-      "titoloOriginale": "Back to the Future Part II",
-      "anno": "1989",
-      "uscitaItalia": "1989-12-22",
-      "regia": "Robert Zemeckis",
+      "titolo": "Estranei",
+      "titoloOriginale": "All of Us Strangers",
+      "anno": "2024",
+      "uscitaItalia": "2024-02-29",
+      "regia": "Andrew Haigh",
+      "generi": [
+        "Romance",
+        "Dramma",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": null,
+      "cast": [
+        "Andrew Scott (Adam)",
+        "Paul Mescal (Harry)",
+        "Carter John Grout (Young Adam)",
+        "Jamie Bell (Dad)",
+        "Claire Foy (Mum)",
+        "Ami Tredrea (Waitress)"
+      ],
+      "tramaTmdb": "Una notte, nel suo condominio quasi vuoto nella Londra contemporanea, Adam (Andrew Scott) ha un incontro casuale con un misterioso vicino di casa, Harry (Paul Mescal), che spezza il ritmo della sua vita quotidiana. Mentre si sviluppa una relazione tra i due, Adam è ossessionato dai ricordi del passato e si ritrova attratto nella città di periferia in cui è cresciuto e nella casa d'infanzia in cui i suoi genitori (Claire Foy e Jamie Bell) sembrano vivere, proprio come il giorno della loro morte, 30 anni prima.",
+      "motivi": [
+        "c'è Paul Mescal, che hai visto 2 volte",
+        "c'è Paul Mescal, che hai visto 2 volte"
+      ],
+      "impronta": "Estranei|514|Andrew Haigh"
+    },
+    {
+      "id": "tmdb-157336",
+      "tmdbId": 157336,
+      "imdbId": "tt0816692",
+      "origine": "scoperta",
+      "titolo": "Interstellar",
+      "titoloOriginale": "Interstellar",
+      "anno": "2014",
+      "uscitaItalia": "2014-11-06",
+      "regia": "Christopher Nolan",
       "generi": [
         "Avventura",
-        "Commedia",
+        "Dramma",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 169,
+      "tagline": "La fine del mondo non sarà la nostra fine.",
+      "cast": [
+        "Matthew McConaughey (Cooper)",
+        "Anne Hathaway (Brand)",
+        "Michael Caine (Professor Brand)",
+        "Jessica Chastain (Murph)",
+        "Casey Affleck (Tom)",
+        "Wes Bentley (Doyle)"
+      ],
+      "tramaTmdb": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo è quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
+      "motivi": [
+        "regia di Christopher Nolan, di cui hai visto 2 film",
+        "c'è Anne Hathaway, che hai visto 2 volte",
+        "c'è Timothée Chalamet, che hai visto 4 volte"
+      ],
+      "impronta": "Interstellar|463|Christopher Nolan"
+    },
+    {
+      "id": "tmdb-263115",
+      "tmdbId": 263115,
+      "imdbId": "tt3315342",
+      "origine": "scoperta",
+      "titolo": "Logan - The Wolverine",
+      "titoloOriginale": "Logan",
+      "anno": "2017",
+      "uscitaItalia": "2017-03-01",
+      "regia": "James Mangold",
+      "generi": [
+        "Azione",
+        "Dramma",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 108,
-      "tagline": "Strade? Dove stiamo andando non c'è bisogno di strade!",
+      "durata": 137,
+      "tagline": "Il suo momento è arrivato.",
       "cast": [
-        "Michael J. Fox (Marty McFly / Marty McFly Junior / Marlene McFly)",
-        "Christopher Lloyd (Doctor Emmett Brown)",
-        "Lea Thompson (Lorraine)",
-        "Thomas F. Wilson (Biff Tannen / Griff)",
-        "Elisabeth Shue (Jennifer)",
-        "James Tolkan (Strickland)"
+        "Hugh Jackman (Logan / X-24)",
+        "Dafne Keen (Laura)",
+        "Patrick Stewart (Charles)",
+        "Elizabeth Rodriguez (Gabriela)",
+        "Boyd Holbrook (Pierce)",
+        "Stephen Merchant (Caliban)"
       ],
-      "tramaTmdb": "Il film comincia dove terminava il primo capitolo, ovvero con Marty e Jennifer che partono insieme allo scienziato Doc, inventore della macchina del tempo, per il 2015 allo scopo di evitare che il futuro dei loro figli possa essere in pericolo. Ma la situazione precipita e ad essere in pericolo non è più il futuro, ma il passato. Marty dovrà tornare nuovamente nel 1955 e...",
+      "tramaTmdb": "El Paso, 2029. Sono 25 anni che non nascono più mutanti e quelli che sono sopravvissuti sono degli emarginati, in via di estinzione. Logan/Wolverine vive facendo lo chaffeur e la sua capacità di rigenerazione non funziona più come un tempo, mentre il Professor X ha novant'anni e il controllo dei suoi poteri psichici è sempre meno sicuro. Quando una donna messicana cerca Logan per presentargli una bambina misteriosa di nome Laura, nuove attenzioni e nuovi guai cominciano a raggiungere i mutanti.",
       "motivi": [
-        "avventura: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Ritorno al futuro - Parte II|376|Robert Zemeckis"
-    },
-    {
-      "id": "tmdb-8871",
-      "tmdbId": 8871,
-      "imdbId": "tt0170016",
-      "origine": "scoperta",
-      "titolo": "Il Grinch",
-      "titoloOriginale": "How the Grinch Stole Christmas",
-      "anno": "2000",
-      "uscitaItalia": "2000-11-17",
-      "regia": "Ron Howard",
-      "generi": [
-        "Famiglia",
-        "Commedia",
-        "Fantasy"
-      ],
-      "paesi": [
-        "USA",
-        "Germania"
-      ],
-      "durata": 104,
-      "tagline": "Metti tutto il verde che c'è.",
-      "cast": [
-        "Jim Carrey (Grinch)",
-        "Taylor Momsen (Cindy Lou Who)",
-        "Jeffrey Tambor (Mayor Augustus Maywho)",
-        "Christine Baranski (Martha May Whovier)",
-        "Bill Irwin (Lou Lou Who)",
-        "Molly Shannon (Betty Lou Who)"
-      ],
-      "tramaTmdb": "È la storia di una creatura con il cuore due volte più piccolo del normale e che si traveste da Babbo Natale. Ruba regali, alberi di Natale e cibo.",
-      "motivi": [
-        "c'è Bryce Dallas Howard, che hai visto 3 volte"
-      ],
-      "impronta": "Il Grinch|147|Ron Howard"
-    },
-    {
-      "id": "tmdb-166428",
-      "tmdbId": 166428,
-      "imdbId": "tt2386490",
-      "origine": "scoperta",
-      "titolo": "Dragon Trainer - Il mondo nascosto",
-      "titoloOriginale": "How to Train Your Dragon: The Hidden World",
-      "anno": "2019",
-      "uscitaItalia": "2019-01-31",
-      "regia": "Dean DeBlois",
-      "generi": [
-        "Animazione",
-        "Famiglia",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 104,
-      "tagline": null,
-      "cast": [
-        "Jay Baruchel (Hiccup (voice))",
-        "America Ferrera (Astrid (voice))",
-        "F. Murray Abraham (Grimmel (voice))",
-        "Cate Blanchett (Valka (voice))",
-        "Gerard Butler (Stoick (voice))",
-        "Craig Ferguson (Gobber (voice))"
-      ],
-      "tramaTmdb": "Hiccup ha preso il posto del padre Stoyck come leader di Berk, nonostante del leader debba ancora trovare la stoffa, mentre Sdentato è il nuovo Alfa, il drago da cui tutti gli altri draghi si lasciano guidare. Uomini e draghi convivono, dunque, felicemente e scomodamente, ma l'utopia ha i giorni contati: Grimmel il Grifagno, assetato killer di Furie Buie, è sulle tracce di Sdentato e ha stretto un patto con i nemici di Hiccup promettendo loro di riportare in gabbia ogni drago in libertà. Non resta che partire, lasciare la propria terra, alla ricerca di quel mondo nascosto di cui vaneggiava Sto",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Dragon Trainer - Il mondo nascosto|600|Dean DeBlois"
+      "impronta": "Logan - The Wolverine|499|James Mangold"
     }
   ]
 }
