@@ -1,99 +1,9 @@
 {
-  "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown": {
-    "titolo": "La vincitrice della Coppa Volpi si era appena iscritta all'ufficio di collocamento",
-    "sommario": "Mathilde Arcel, premiata a Venezia per Woman Unknown, ha raccontato di essere disoccupata e di essere rientrata a Copenaghen per firmare.",
-    "perche": "Il retro del premio più prestigioso: quanto è precario il mestiere dell'attore in Europa",
-    "sezione": "curiosita"
-  },
   "https://variety.com/2026/film/news/film-news-in-brief-sept-15-2026-1236862951/": {
     "titolo": "Viola Davis riceve il Gregory Peck Award al festival di San Diego",
     "sommario": "L'attrice, vincitrice di un EGOT, sarà premiata per il suo lavoro di interprete, produttrice, attivista e autrice.",
     "perche": "Un premio alla carriera a chi ha cambiato il posto delle attrici nere a Hollywood",
     "sezione": "notizia"
-  },
-  "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support": {
-    "titolo": "L'industria del cinema si schiera con i registi di NAZA",
-    "sommario": "Sostegno internazionale a Yuval Abraham e Rachel Szor, minacciati di perdere la cittadinanza israeliana e accusati di tradimento per il documentario.",
-    "perche": "La libertà del documentario messa alla prova: riguarda chiunque guardi cinema politico",
-    "sezione": "notizia"
-  },
-  "https://www.badtaste.it/articoli/questo-noir-con-robert-pattinson-su-netflix-sembra-un-thriller-di-fincher-piu-che-un-film-di-supereroi": {
-    "titolo": "The Batman, il cinecomic che si comporta come un thriller di Fincher",
-    "sommario": "Un'analisi del film di Matt Reeves con Robert Pattinson: struttura da indagine, estetica notturna, il supereroe ridotto a detective.",
-    "perche": "L'hai visto: qui trovi il filo che lo lega a Seven e Zodiac, rivendicato da Matt Reeves",
-    "sezione": "approfondimento"
-  },
-  "https://movieplayer.it/news/blade-regista-reboot-cancellato-film-costume-anni-20_171059/": {
-    "titolo": "Blade, il regista del reboot cancellato: «Era un film in costume negli anni Venti»",
-    "sommario": "Bassam Tariq ha rivelato che la sua versione avrebbe portato il cacciatore di vampiri di Mahershala Ali in un'epoca lontana dal presente.",
-    "perche": "I film Marvel mai realizzati raccontano più di quelli usciti: qui c'era un'idea forte",
-    "sezione": "curiosita"
-  },
-  "https://www.badtaste.it/articoli/netanyahu-attacca-duramente-naza-dopo-il-premio-a-venezia-83-ora-israele-apre-unindagine-sul-film": {
-    "titolo": "Israele apre un'indagine su NAZA dopo il premio a Venezia 83",
-    "sommario": "L'esercito israeliano verifica la possibile diffusione di informazioni classificate nel documentario, duramente attaccato da Netanyahu.",
-    "perche": "Un documentario premiato che finisce sotto inchiesta militare: precedente pesante",
-    "sezione": "notizia"
-  },
-  "https://www.badtaste.it/articoli/woman-unknown-ha-sorpreso-tutti-a-venezia-83-di-cosa-parla-il-film-che-si-e-preso-il-leone-doro": {
-    "titolo": "Woman Unknown, cosa racconta il film che ha vinto il Leone d'Oro",
-    "sommario": "Il film di May el-Toukhy si è imposto a sorpresa a Venezia 83, dove ha vinto anche la Coppa Volpi per la miglior attrice.",
-    "perche": "Il titolo da recuperare prima che arrivi in sala: per Venezia è il film dell'anno",
-    "sezione": "approfondimento"
-  },
-  "https://www.badtaste.it/articoli/netflix-e-sega-fanno-sul-serio-annunciati-i-film-di-crazy-taxi-e-stranger-than-heaven-torna-anche-sonic": {
-    "titolo": "Netflix e SEGA annunciano i film di Crazy Taxi e Stranger Than Heaven",
-    "sommario": "Il nuovo accordo tra la piattaforma e la casa giapponese prevede due lungometraggi e una nuova serie animata dedicata a Sonic.",
-    "perche": "Dopo Super Mario il videogioco resta la miniera principale del cinema d'animazione",
-    "sezione": "notizia"
-  },
-  "https://www.badtaste.it/articoli/una-star-di-squid-game-in-questo-film-coreano-su-netflix-che-mostra-la-vera-anima-di-seoul": {
-    "titolo": "Il thriller coreano su Netflix che racconta la Seoul vera",
-    "sommario": "Un film del 2025 con un interprete visto in Squid Game, costruito sulle fratture sociali della capitale come faceva Parasite.",
-    "perche": "Se Parasite ti ha lasciato addosso la rabbia di classe, il filone coreano è ancora vivo",
-    "sezione": "approfondimento"
-  },
-  "https://www.badtaste.it/articoli/nel-fitto-catalogo-di-netflix-si-nasconde-questo-film-che-mette-in-discussione-padre-figlio-e-destino": {
-    "titolo": "Il film di Joe Robert Cole su padre, figlio e destino nascosto su Netflix",
-    "sommario": "Il regista lavora sul ciclo della violenza e sulle scelte senza alternative dentro un rapporto tra padre e figlio.",
-    "perche": "Cole, cosceneggiatore di Black Panther, qui torna al dramma familiare in scala piccola",
-    "sezione": "approfondimento"
-  },
-  "https://cinefilos.it/tutto-film/approfondimenti/dogman-e-tratto-da-una-storia-vera-la-storia-reale-che-ha-ispirato-il-film-di-luc-besson-721864": {
-    "titolo": "Dogman di Luc Besson e la storia vera da cui nasce",
-    "sommario": "L'approfondimento ricostruisce quanto ci sia di reale nel film presentato alla Mostra di Venezia del 2023.",
-    "perche": "Besson eccentrico e fuori mercato: capire da dove prende aiuta a leggere il film",
-    "sezione": "approfondimento"
-  },
-  "https://cinefilos.it/tutto-film/approfondimenti/harry-ti-presento-sally-storia-vera-film-721871": {
-    "titolo": "Harry, ti presento Sally e l'amicizia vera che lo ha ispirato",
-    "sommario": "La commedia di Rob Reiner del 1989, scritta da Nora Ephron, nasce anche dal rapporto tra i due autori: l'articolo ricostruisce quanto.",
-    "perche": "Il modello di ogni commedia romantica moderna: sapere da dove viene cambia la visione",
-    "sezione": "passato"
-  },
-  "https://www.badtaste.it/articoli/la-performance-carismatica-di-aaron-taylor-johnson-non-basta-a-salvare-questo-cinecomic-su-netflix": {
-    "titolo": "Aaron Taylor-Johnson non basta a salvare il cinecomic Netflix",
-    "sommario": "La recensione segnala troppi antagonisti, violenza gratuita e una sceneggiatura superficiale nonostante il carisma del protagonista.",
-    "perche": "Il cinecomic da piattaforma, misura di quanto il genere sia diventato pura routine",
-    "sezione": "approfondimento"
-  },
-  "https://www.badtaste.it/articoli/catherine-ohara-chi-sono-i-suoi-tre-figli-del-cinema-piu-famosi-e-perche-hanno-commosso-tutti-agli-emmy": {
-    "titolo": "Catherine O'Hara e i suoi «figli» del cinema ricordati agli Emmy",
-    "sommario": "Agli Emmy 2026 tre attori che sono stati suoi figli sullo schermo hanno raccontato il legame nato oltre la finzione.",
-    "perche": "Da Mamma ho perso l'aereo a Beetlejuice: il suo modo di fare la madre ha formato un'epoca",
-    "sezione": "curiosita"
-  },
-  "https://cinefilos.it/tutto-film/approfondimenti/book-club-tutto-puo-succedere-storia-vera-film-721876": {
-    "titolo": "Book Club - Tutto può succedere, quanto c'è di vero nel film",
-    "sommario": "L'articolo ricostruisce l'ispirazione della commedia di Bill Holderman sulle quattro amiche riunite da un gruppo di lettura.",
-    "perche": "La commedia adulta con protagoniste over 60: Hollywood ne produce sempre di meno",
-    "sezione": "approfondimento"
-  },
-  "https://movieplayer.it/news/star-wars-matthew-rhys-voce-han-solo-quasi-sacrilego_171058/": {
-    "titolo": "Matthew Rhys doppia Han Solo in gallese: «Quasi un sacrilegio»",
-    "sommario": "L'attore ha prestato la voce al personaggio di Harrison Ford per la versione in lingua gallese di Guerre stellari del 1977.",
-    "perche": "Le riedizioni in lingua minoritaria: un classico che continua a trovare nuove voci",
-    "sezione": "curiosita"
   },
   "https://www.slashfilm.com/2260475/zach-cregger-resident-evil-movie-rotten-tomatoes-record/": {
     "titolo": "Resident Evil di Cregger è il film tratto da un videogioco meglio recensito di sempre",
@@ -568,12 +478,6 @@
     "sommario": "L'autore di How To with John Wilson firma il suo primo film: un documentario su come si vende un documentario sul cemento.",
     "perche": "Il documentario che si guarda mentre si fa: la forma più onesta di cinema del reale",
     "sezione": "notizia"
-  },
-  "https://www.theguardian.com/lifeandstyle/2026/sep/19/amanda-redman-actor-sexy-beast-rerelease-box-set-film": {
-    "titolo": "Amanda Redman si racconta in un'intervista al Guardian",
-    "sommario": "L'attrice britannica, 69 anni, parla dell'incidente subito da bambina e del proprio carattere, in occasione della riedizione di Sexy Beast.",
-    "perche": "Intervista di costume: del cinema resta solo l'occasione della riedizione",
-    "sezione": "scarta"
   },
   "https://cinefilos.it/cinema-news/2026/david-ayer-e-brad-pitt-heart-of-the-beast-final-cut-722585": {
     "titolo": "Scontro sul final cut tra David Ayer e Brad Pitt per Heart of the Beast",
@@ -1361,12 +1265,6 @@
     "perche": "Zach Cregger ti ha già preso con Weapons: stesso horror che non assegna compiti a casa.",
     "sezione": "notizia"
   },
-  "https://fumettologica.it/2026/09/avengers-endgame-extra-scene-inedite-film-marvel/": {
-    "titolo": "Le scene inedite di Avengers: Endgame Extra, spiegate",
-    "sommario": "Fumettologica analizza le sequenze che fanno da raccordo fra la versione originale del film e Avengers: Doomsday.",
-    "perche": "Doppione: stessa analisi delle scene aggiunte già presente in rassegna.",
-    "sezione": "scarta"
-  },
   "https://cinefilos.it/tutto-film/approfondimenti/yesterday-spiegazione-finale-film-723380": {
     "titolo": "Yesterday, perché Jack rinuncia alla fama e sceglie Ellie",
     "sommario": "Cinefilos rilegge il finale del film del 2019 diretto da Danny Boyle e scritto da Richard Curtis, sul musicista unico a ricordare i Beatles.",
@@ -1529,12 +1427,6 @@
     "perche": "Thriller a orologeria quasi in tempo reale; attenzione, l'articolo svela il finale.",
     "sezione": "passato"
   },
-  "https://movieplayer.it/news/uomini-e-donne-anticipazioni-marina-tina-gemma-fabio_171231/": {
-    "titolo": "Uomini e Donne, anticipazioni: lo scontro tra Marina e Tina Cipollari",
-    "sommario": "Nella nuova registrazione del dating show Marina chiude con un cavaliere e Gemma riceve una proposta da Fabio.",
-    "perche": "Televisione, non cinema.",
-    "sezione": "scarta"
-  },
   "https://www.badtaste.it/articoli/unabomber-su-netfilx-chi-e-henry-murray-lo-psicologo-di-harvard-interpretato-da-russell-crowe": {
     "titolo": "Chi era Henry Murray, lo psicologo di Harvard interpretato da Russell Crowe",
     "sommario": "BadTaste ricostruisce gli esperimenti condotti a Harvard sul giovane Ted Kaczynski, al centro del film su Unabomber disponibile su Netflix.",
@@ -1552,12 +1444,6 @@
     "sommario": "Al New York Film Festival il seguito di Godzilla Minus One convince il Guardian per gli effetti visivi e per la lettura politica che li sostiene.",
     "perche": "Kaiju come cinema d'autore: se cerchi fantascienza con un'idea dietro, è questa",
     "sezione": "approfondimento"
-  },
-  "https://cinefilos.it/cinema-news/2026/avengers-endgame-extra-torna-al-primo-posto-al-box-office-usa-723635": {
-    "titolo": "Avengers: Endgame Extra torna al primo posto negli Stati Uniti",
-    "sommario": "La riedizione con materiale aggiuntivo incassa 26 milioni nel weekend nordamericano, a pochi mesi dall'arrivo di Avengers: Doomsday.",
-    "perche": "Doppione: gli stessi incassi sono già nel resoconto internazionale del weekend",
-    "sezione": "scarta"
   },
   "https://cinefilos.it/serie-tv/news/scapegoat-ari-aster-cast-scarlett-johansson-ella-purnell-723653": {
     "titolo": "Scapegoat, il film di Ari Aster con Scarlett Johansson allarga il cast",
@@ -1601,12 +1487,6 @@
     "perche": "Chi ha inventato il blockbuster moderno racconta perché ha smesso: si impara qualcosa",
     "sezione": "approfondimento"
   },
-  "https://www.badtaste.it/articoli/godzilla-minus-zero-sorprende-alla-premiere-cosa-dicono-le-prime-reazioni-della-stampa": {
-    "titolo": "Godzilla Minus Zero, le prime reazioni della stampa dopo la première",
-    "sommario": "Al New York Film Festival il sequel di Godzilla Minus One raccoglie giudizi entusiasti dalla stampa presente alla proiezione.",
-    "perche": "Doppione: la recensione e la corsa agli Oscar sono già entrambe in rassegna",
-    "sezione": "scarta"
-  },
   "https://www.badtaste.it/articoli/lo-sposo-indeciso-spiegazione-del-finale-del-film-con-ornella-muti-e-gianmarco-tognazzi": {
     "titolo": "Lo sposo indeciso, come si chiude il film con Ornella Muti e Tognazzi",
     "sommario": "BadTaste ricostruisce trama, cast ed epilogo della commedia italiana con Gianmarco Tognazzi e Ilenia Pastorelli.",
@@ -1619,155 +1499,11 @@
     "perche": "Se ti piace il thriller costruito su un'indagine vera, qui c'è il fascicolo originale",
     "sezione": "approfondimento"
   },
-  "https://variety.com/2026/film/box-office/avengers-endgame-encore-uk-ireland-box-office-1236877848/": {
-    "titolo": "Avengers: Endgame Encore guida il box office di Regno Unito e Irlanda",
-    "sommario": "Il film Disney ha debuttato in testa con 4,1 milioni di sterline; Resident Evil scende al secondo posto e arriva a 11,6 milioni complessivi.",
-    "perche": "Resident Evil, che hai in libreria, tiene il secondo posto: il passaparola non si è esaurito",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741/": {
-    "titolo": "Spider-Man: Brand New Day tornerà in sala con scene inedite",
-    "sommario": "Variety conferma una riedizione con materiale mai visto: contenuti e data d'uscita non sono ancora stati resi noti.",
-    "perche": "Hai il film in libreria: la versione che circola ora non sarà più quella definitiva",
-    "sezione": "curiosita"
-  },
-  "https://variety.com/2026/film/news/alan-cumming-plot-avengers-doomsday-1236877644/": {
-    "titolo": "Alan Cumming su Avengers: Doomsday: «Non capisco bene la trama»",
-    "sommario": "L'attore ha detto a SiriusXM di non aver letto la sceneggiatura completa e di aver recitato solo con la controfigura di Florence Pugh.",
-    "perche": "Il metodo Marvel visto dall'interno: come si gira un blockbuster senza sapere cosa si sta girando",
-    "sezione": "curiosita"
-  },
-  "https://deadline.com/2026/09/the-crying-boy-movie-resident-evil-producer-carter-swan-1237115414/": {
-    "titolo": "Il produttore di Resident Evil adatterà il fumetto The Crying Boy",
-    "sommario": "Carter Swan sviluppa un film dal fumetto Keenspot di Niall O'Rourke e Rob Moran, uscito nel 2024, mentre Resident Evil sfiora i 200 milioni nel mondo.",
-    "perche": "Hai Resident Evil in libreria: è il primo effetto del suo successo sul mercato dell'horror",
-    "sezione": "notizia"
-  },
   "https://www.slashfilm.com/2271554/avengers-doomsday-jack-kirby-inspired-visual-upgrade-doctor-doom/": {
     "titolo": "Il Doctor Doom di Avengers: Doomsday cita le tavole di Jack Kirby",
     "sommario": "Nell'ultima clip diffusa da Marvel Studios il personaggio riprende soluzioni visive dei fumetti disegnati da Jack Kirby.",
     "perche": "Fantascienza e avventura sono il tuo terreno: qui si vede quanto un blockbuster deve al disegnatore",
     "sezione": "curiosita"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-rerelease-new-footage-rosario-dawson-1236713895/": {
-    "titolo": "Spider-Man: Brand New Day, nella riedizione una scena con Rosario Dawson",
-    "sommario": "Secondo Hollywood Reporter la scena dell'attrice nei panni di Claire Temple potrebbe rientrare nel film di Destin Daniel Cretton.",
-    "perche": "Dettaglio della stessa riedizione già in rassegna: la scena tagliata di Claire Temple",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/madrid-woody-allen-film-series-hub-raul-torquemada-interview-1236697487/": {
-    "titolo": "Perché Woody Allen e altri girano a Madrid, che segna il suo record di riprese",
-    "sommario": "Raúl Torquemada, direttore della Madrid Film Office, spiega i numeri della capitale spagnola alla vigilia delle riprese del nuovo film di Allen.",
-    "perche": "Il cinema spagnolo che frequenti con Javier Bardem, visto dal lato della produzione e non del set",
-    "sezione": "approfondimento"
-  },
-  "https://www.slashfilm.com/2271162/forgotten-island-acclaimed-2026-animated-movie-box-office-flop/": {
-    "titolo": "L'isola dei ricordi, tra i film d'animazione più lodati del 2026, non incassa",
-    "sommario": "Le buone recensioni non hanno evitato un debutto sotto le attese al box office; resta da capire se il passaparola potrà recuperare.",
-    "perche": "Il film d'animazione che la critica ha amato e il pubblico ha ignorato: da recuperare finché è in sala",
-    "sezione": "approfondimento"
-  },
-  "https://deadline.com/2026/09/russo-brothers-hulk-appearing-avengers-doomsday-1237115931/": {
-    "titolo": "I Russo sull'Hulk in Avengers: Doomsday: «Coinvolto nella storia di Doom»",
-    "sommario": "I registi hanno confermato che Bruce Banner avrà un ruolo nella vicenda del villain, dopo l'apparizione di Mark Ruffalo in Spider-Man: Brand New Day.",
-    "perche": "Hai Spider-Man: Brand New Day in libreria: quella comparsa di Banner era un innesco, non un cameo",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2270593/chiwetel-ejiofor-sci-fi-horror-movie-backrooms-streaming-hbo-max-september-2026/": {
-    "titolo": "Backrooms è il maggiore successo in streaming nella storia di HBO Max",
-    "sommario": "L'horror di Kane Parsons con Chiwetel Ejiofor e Renate Reinsve, 110 minuti, ha superato ogni altro titolo della piattaforma.",
-    "perche": "Hai visto Backrooms e segui Kane Parsons: il ragazzo di YouTube ora detta i numeri di una major",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/09/andrew-schulz-michael-b-jordan-austin-butler-miami-vice-85-1237115472/": {
-    "titolo": "Andrew Schulz nel cast di Miami Vice '85 di Joseph Kosinski",
-    "sommario": "Il comico si unisce a Michael B. Jordan e Austin Butler nel film Universal scritto da Dan Gilroy, con Alden Ehrenreich e John Leguizamo.",
-    "perche": "Kosinski ti ha convinto con Top Gun: Maverick e F1: qui passa al crime anni Ottanta",
-    "sezione": "notizia"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-cryptic-post-you-can-see-everything-release-1236713940/": {
-    "titolo": "Elizabeth Holmes rompe il silenzio prima di You Can See Everything",
-    "sommario": "Il documentario di Nathan Fielder e Lance Oppenheim arriva in sala il 16 ottobre; Holmes dice di essere stata «messa a tacere per molto tempo».",
-    "perche": "Nathan Fielder al documentario: il disagio come metodo applicato al più grande bluff della Silicon Valley",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/news/rob-lowe-st-elmos-fire-sequel-in-the-works-1236877779/": {
-    "titolo": "Rob Lowe conferma che esiste una sceneggiatura del sequel di St. Elmo's Fire",
-    "sommario": "A Watch What Happens Live l'attore ha detto che il progetto è «decisamente in lavorazione» e che gli attori del film originale vogliono farlo.",
-    "perche": "Il Brat Pack quarant'anni dopo: raro caso di sequel chiesto dagli attori e non dallo studio",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2271334/how-watch-coyote-vs-acme-at-home/": {
-    "titolo": "Coyote vs. Acme arriva nel mercato home video dopo la cancellazione",
-    "sommario": "Il film Looney Tunes che Warner aveva accantonato è ora disponibile per la visione domestica.",
-    "perche": "Il film che uno studio aveva deciso di non far uscire: vale vederlo per capire cosa si voleva cancellare",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/festivals/mohammad-rasoulof-o-mipo-tokyo-kurosawa-akira-award-1236877201/": {
-    "titolo": "Mohammad Rasoulof e O Mipo riceveranno il premio Kurosawa Akira a Tokyo",
-    "sommario": "Il 39° Tokyo International Film Festival premia il regista iraniano, fuggito dal suo paese nel 2024 dopo una condanna a otto anni, e la collega giapponese.",
-    "perche": "Il cinema come rischio personale: Rasoulof gira clandestinamente ciò che l'Iran gli vieta di raccontare",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/news/the-debut-scad-centerpiece-julianne-moore-honor-1236877183/": {
-    "titolo": "Julianne Moore riceverà l'Icon Award al SCAD Savannah Film Festival",
-    "sommario": "Il festival ha scelto come film centrale The Debut, commedia musicale A24 diretta da Jesse Eisenberg e interpretata dall'attrice.",
-    "perche": "Eisenberg regista è una delle sorprese più solide degli ultimi anni: dopo A Real Pain passa al musical",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/09/women-like-us-netflix-movie-adds-nine-cast-1237115299/": {
-    "titolo": "Il film Netflix Women Like Us aggiunge nove attori al cast",
-    "sommario": "Il progetto di Higher Ground degli Obama e di Macro Film Studios completa il cast con Greg Tarzan Davis, Melanie Liburd, Harry Lennix e Joy Bryant.",
-    "perche": "La casa di produzione degli Obama al lavoro su un dramma corale: vale seguire dove sta andando",
-    "sezione": "notizia"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-mohammad-rasoulof-mipo-o-honors-1236714063/": {
-    "titolo": "Il Tokyo Film Festival premia Mohammad Rasoulof e Mipo O",
-    "sommario": "L'attore Hayato Isomura guiderà anche la giuria dell'Ethical Film Award, che scelterà il vincitore tra tre titoli in nomination.",
-    "perche": "Doppione del premio Kurosawa Akira già in rassegna, con l'aggiunta della giuria dell'Ethical Film Award",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/richard-linklater-merrily-we-roll-along-film-update-zurich-1236713752/": {
-    "titolo": "Richard Linklater aggiorna su Merrily We Roll Along, girato in vent'anni",
-    "sommario": "Al Zurich Film Festival il regista ha fatto il punto sul film con Paul Mescal, Ben Platt e Beanie Feldstein, le cui riprese coprono due decenni.",
-    "perche": "C'è Paul Mescal, che hai visto 2 volte, e il Linklater di Boyhood che rifà la scommessa sul tempo",
-    "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/sep/28/just-play-dead-review-samuel-jackson-eva-green": {
-    "titolo": "Just Play Dead, Samuel L. Jackson ed Eva Green in un crime a incastri",
-    "sommario": "Il Guardian giudica il film di Martin Campbell salvato dai due protagonisti, nonostante svolte confuse e ammiccamenti tarantiniani di seconda mano.",
-    "perche": "Martin Campbell a 82 anni gira ancora: il mestiere dell'azione quando lo stile non basta",
-    "sezione": "approfondimento"
-  },
-  "https://www.slashfilm.com/2270902/avengers-endgame-encore-box-office-success-explained/": {
-    "titolo": "Cinque ragioni del successo al box office di Avengers: Endgame Encore",
-    "sommario": "Slashfilm analizza i motivi per cui la riedizione del film del 2019 ha dominato la classifica degli incassi del weekend.",
-    "perche": "Il cinema che rimette in sala se stesso: capire il fenomeno serve a prevedere cosa uscirà l'anno prossimo",
-    "sezione": "approfondimento"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-features/sandra-huller-rose-strap-on-oscar-interview-1236713523/": {
-    "titolo": "Sandra Hüller torna in corsa per l'Oscar con il dramma in costume Rose",
-    "sommario": "L'attrice e il regista Markus Schleinzer raccontano il film e l'identità volutamente non spiegata del personaggio: «Fa parte della sua libertà».",
-    "perche": "La Hüller di Anatomia di una caduta e La zona d'interesse: nessuno regge l'ambiguità come lei",
-    "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/sep/28/liar-liar-jim-carrey-feelgood-movie": {
-    "titolo": "Perché Bugiardo bugiardo resta la commedia da rivedere quando serve",
-    "sommario": "Il Guardian dedica un elogio alla commedia del 1997 con Jim Carrey, sostenendo che la sua prova avrebbe meritato una candidatura all'Oscar.",
-    "perche": "Il Carrey degli anni Novanta, quando il corpo comico era un effetto speciale: da rivedere senza ironia",
-    "sezione": "passato"
-  },
-  "https://deadline.com/2026/09/diablo-cody-always-roxanne-in-works-true-north-1237115608/": {
-    "titolo": "Diablo Cody ritrova i produttori di Juno per il nuovo film Always, Roxanne",
-    "sommario": "La sceneggiatura segue Roxanne, studentessa ossessiva dell'ultimo anno di liceo, che si presenta al college dell'ex fidanzato.",
-    "perche": "Cody scrive l'adolescenza americana meglio di chiunque: da Juno a Tully, la stessa lingua acida",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487/": {
-    "titolo": "Kristen Stewart e Riley Keough protagoniste del nuovo film di Olivier Assayas",
-    "sommario": "Spiritual World riunisce il regista e Stewart, premiata con un César per il ruolo accanto a Juliette Binoche, con Vicky Krieps e Wagner Moura.",
-    "perche": "Assayas e Stewart alla terza collaborazione: da Sils Maria in poi lei recita in un'altra lingua",
-    "sezione": "notizia"
   },
   "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan": {
     "titolo": "Ritrovata in Giappone una commedia muta girata nel New Hampshire nel 1919",
@@ -1775,59 +1511,11 @@
     "perche": "L'archeologia del cinema muto funziona così: una pizza dimenticata dall'altra parte del mondo",
     "sezione": "curiosita"
   },
-  "https://www.hollywoodreporter.com/movies/movie-news/sylvester-stallone-reacts-biopic-i-play-rocky-not-dead-yet-1236713994/": {
-    "titolo": "Stallone sul biopic I Play Rocky: «Non sono ancora morto»",
-    "sommario": "Al 92NY l'attore ha elogiato Anthony Ippolito, che lo interpreta da giovane: «Ho davvero pensato che fossi io, il primo momento».",
-    "perche": "Il biopic su chi è ancora vivo e guarda: caso limite di come Hollywood racconta se stessa",
-    "sezione": "curiosita"
-  },
   "https://www.slashfilm.com/2269033/michael-fassbender-best-performance-fish-tank-2009-movie/": {
     "titolo": "Fish Tank, il film del 2009 con la miglior prova di Michael Fassbender",
     "sommario": "Slashfilm indica nel film di Andrea Arnold, passato quasi inosservato al pubblico generalista, l'interpretazione più forte dell'attore.",
     "perche": "Andrea Arnold prima di Bird: il realismo inglese che ha formato mezzo cinema d'autore di oggi",
     "sezione": "passato"
-  },
-  "https://www.theguardian.com/film/2026/sep/28/pandoras-legacy-review-probing-profile-of-silent-film-legend-gw-pabst": {
-    "titolo": "Pandora's Legacy, il documentario che indaga la figura di G.W. Pabst",
-    "sommario": "Attraverso lettere private e interviste ai familiari, il film ricostruisce le contraddizioni del regista austriaco del muto tedesco.",
-    "perche": "Il muto tedesco raccontato dalle sue zone d'ombra: Pabst passò da Weimar al cinema del Reich",
-    "sezione": "passato"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-reviews/heil-jupiter-review-carlos-reygadas-1236713462/": {
-    "titolo": "Heil Jupiter!, il film di Carlos Reygadas girato tra continenti e lingue",
-    "sommario": "Realizzato in più paesi e in diversi idiomi, uno inventato per l'occasione, il film è accolto come un viaggio ipnotico e senza destinazione.",
-    "perche": "Reygadas continua a rifiutare la narrazione: cinema fisico, per chi accetta di perdersi",
-    "sezione": "approfondimento"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/lindsay-lohan-henry-golding-netflix-return-to-you-waters-1236713643/": {
-    "titolo": "Lindsay Lohan e Henry Golding protagonisti del film Netflix Return to You",
-    "sommario": "La commedia romantica è diretta da Mark Waters, già regista di Mean Girls con Lohan, su sceneggiatura di Eric Champnella.",
-    "perche": "Lohan e Waters oltre vent'anni dopo Mean Girls: la seconda carriera costruita dentro lo streaming",
-    "sezione": "notizia"
-  },
-  "https://www.theguardian.com/film/2026/sep/28/crushed-review-child-kidnap-thriller-steve-oram": {
-    "titolo": "Crushed, Steve Oram è un prete che cerca la figlia rapita a Bangkok",
-    "sommario": "Il Guardian descrive il thriller come un'indagine sul nichilismo spirituale di impronta schraderiana.",
-    "perche": "Se hai retto il First Reformed di Schrader: la fede messa alla prova dal male, senza consolazione",
-    "sezione": "approfondimento"
-  },
-  "https://www.slashfilm.com/2269488/roy-scheider-patrick-stewart-western-movie-king-of-texas/": {
-    "titolo": "King of Texas, l'unico western di Roy Scheider con Patrick Stewart",
-    "sommario": "Il film trasporta Re Lear di Shakespeare nel Texas dell'Ottocento, con Patrick Stewart nel ruolo del sovrano riscritto come allevatore.",
-    "perche": "Shakespeare trapiantato nel western, con lo Scheider di Lo squalo in un registro inatteso",
-    "sezione": "passato"
-  },
-  "https://www.slashfilm.com/2269298/christian-bale-joel-kinnaman-drama-knight-of-cups/": {
-    "titolo": "Knight of Cups, il film di Terrence Malick in cui compare Joel Kinnaman",
-    "sommario": "Slashfilm ricorda il ruolo minimo dell'attore svedese nel dramma con Christian Bale e l'esperienza spiazzante che ne ha ricavato.",
-    "perche": "Il metodo Malick visto da chi ci finisce dentro: si gira senza sceneggiatura e si scompare al montaggio",
-    "sezione": "passato"
-  },
-  "https://www.theguardian.com/film/2026/sep/28/kikuyu-land-review-kenya-tea": {
-    "titolo": "Kikuyu Land, il documentario sulla miseria coloniale dietro il tè keniano",
-    "sommario": "Il film ripercorre l'impatto dello sviluppo agricolo coloniale e poi industriale negli altopiani del Kenya, fino a un segreto di famiglia.",
-    "perche": "Il documentario che parte da un prodotto quotidiano e arriva alla storia: cinema politico che funziona",
-    "sezione": "approfondimento"
   },
   "https://www.screenweek.it/clayface-il-trailer-finale-del-film-dc-firmato-james-watkins/": {
     "titolo": "Clayface, online il trailer finale del film DC diretto da James Watkins",

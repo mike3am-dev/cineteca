@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-29T05:07:11.207Z",
+  "preparato": "2026-09-30T05:07:31.285Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -147,6 +147,42 @@
       "impronta": "La bola negra|173|Javier Ambrossi"
     },
     {
+      "id": "tmdb-858035",
+      "tmdbId": 858035,
+      "imdbId": "tt14371256",
+      "origine": "trailer",
+      "titolo": "Klara e il sole",
+      "titoloOriginale": "Klara and the Sun",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Taika Waititi",
+      "generi": [
+        "Fantascienza",
+        "Dramma",
+        "Commedia"
+      ],
+      "paesi": [
+        "Nuova Zelanda",
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": "Il futuro dell'amicizia è qui",
+      "cast": [
+        "Jenna Ortega (Klara)",
+        "Mia Tharia (Josie)",
+        "Amy Adams (Chrissie)",
+        "Natasha Lyonne (Manager)",
+        "Aran Murphy (Rick)",
+        "Rachel House (Melania)"
+      ],
+      "tramaTmdb": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
+      "motivi": [
+        "fantascienza e dramma: il tuo terreno"
+      ],
+      "impronta": "Klara e il sole|412|Taika Waititi"
+    },
+    {
       "id": "tmdb-1263337",
       "tmdbId": 1263337,
       "imdbId": "tt7526136",
@@ -212,39 +248,30 @@
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
     {
-      "id": "tmdb-1244523",
-      "tmdbId": 1244523,
-      "imdbId": "tt10377864",
+      "id": "tmdb-1755291",
+      "tmdbId": 1755291,
+      "imdbId": "tt44766123",
       "origine": "trailer",
-      "titolo": "Il risveglio di Boiúna",
-      "titoloOriginale": "Beware Boiúna",
+      "titolo": "NAZA",
+      "titoloOriginale": "NAZA",
       "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "Mike P. Nelson",
+      "uscitaItalia": "2026-09-25",
+      "regia": "يوفال إبراهيم",
       "generi": [
-        "Horror",
-        "Thriller"
+        "Documentario"
       ],
       "paesi": [
-        "Germania",
         "USA",
-        "Colombia"
+        "Regno Unito"
       ],
-      "durata": 104,
+      "durata": 80,
       "tagline": null,
       "cast": [
-        "Logan Marshall-Green (Brennan Malloy)",
-        "Kiana Madeira (Lena)",
-        "Jessica Rothe (Alli)",
-        "Jackson Bews (Shawn)",
-        "Juan Pablo Shuk (Miguel)",
-        "Will Close (Callum)"
+        "يوفال إبراهيم (Self)"
       ],
-      "tramaTmdb": "Un gruppo di giovani medici impegnato a portare assistenza sanitaria nei villaggi più remoti dell’Amazzonia è costretto a fuggire nella giungla dopo un violento scontro con alcuni uomini coinvolti nella costruzione di una strada. Ma nelle profondità della foresta li attende una minaccia ancora più terrificante: Boiúna, un gigantesco serpente leggendario che sembra essere molto più di una semplice creatura del folklore. Braccati in un ambiente estremo e implacabile, i protagonisti dovranno lottare per sopravvivere contro un predatore che domina la giungla da milioni di anni.",
-      "motivi": [
-        "thriller, il tuo terreno"
-      ],
-      "impronta": "Il risveglio di Boiúna|580|Mike P. Nelson"
+      "tramaTmdb": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
+      "motivi": [],
+      "impronta": "NAZA|259|يوفال إبراهيم"
     },
     {
       "id": "tmdb-1153576",
@@ -309,351 +336,378 @@
       "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
-      "id": "tmdb-406997",
-      "tmdbId": 406997,
-      "imdbId": "tt2543472",
-      "origine": "scoperta",
-      "titolo": "Wonder",
-      "titoloOriginale": "Wonder",
-      "anno": "2017",
-      "uscitaItalia": "2017-12-21",
-      "regia": "Stephen Chbosky",
+      "id": "tmdb-1634905",
+      "tmdbId": 1634905,
+      "imdbId": "tt39649289",
+      "origine": "trailer",
+      "titolo": "Vampire Carnival",
+      "titoloOriginale": "Vampire Carnival",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-07",
+      "regia": "Justin Powell",
       "generi": [
-        "Famiglia",
-        "Dramma"
+        "Horror",
+        "Romance"
       ],
       "paesi": [
+        "Spagna",
         "USA"
       ],
-      "durata": 113,
-      "tagline": "Se non ti piace quello che vedi, cambia il tuo modo di guardare.",
+      "durata": null,
+      "tagline": null,
       "cast": [
-        "Jacob Tremblay (Auggie)",
-        "Julia Roberts (Isabel)",
-        "Owen Wilson (Nate)",
-        "Izabela Vidovic (Via)",
-        "Noah Jupe (Jack Will)",
-        "Millie Davis (Summer)"
+        "Nell Verlaque",
+        "Jason Isaacs",
+        "Paulina Chávez",
+        "Kieron Moore",
+        "Eoin Macken",
+        "Alicia Sanz"
       ],
-      "tramaTmdb": "Nato con un'anomalia facciale che non gli ha mai consentito di frequentare una scuola normale, Auggie Pullman diventa il più improbabile degli eroi quando viene ammesso all'ultimo anno delle elementari. Mentre la sua famiglia, i suoi nuovi compagni di classe e tutta la comunità lotta per scoprire la propria compassione e accettazione, la straordinaria storia di Auggie unirà tutti quanti e dimostrerà che non occorre nascondersi quando si è nati per differenziarsi dagli altri.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Wonder|479|Stephen Chbosky"
+      "tramaTmdb": "Ossessionata dal suo passato, una ragazza addolorata è attratta da un misterioso carnevale itinerante che arriva nella sua piccola città, solo per scoprire un mondo sotterraneo che si nutre di disperazione e richiede un caro prezzo per fuggire.",
+      "motivi": [],
+      "impronta": "Vampire Carnival|244|Justin Powell"
     },
     {
-      "id": "tmdb-961323",
-      "tmdbId": 961323,
-      "imdbId": "tt19500164",
+      "id": "tmdb-284",
+      "tmdbId": 284,
+      "imdbId": "tt0053604",
       "origine": "scoperta",
-      "titolo": "Nimona",
-      "titoloOriginale": "Nimona",
-      "anno": "2023",
-      "uscitaItalia": "2023-06-23",
-      "regia": "Troy Quane",
+      "titolo": "L'appartamento",
+      "titoloOriginale": "The Apartment",
+      "anno": "1960",
+      "uscitaItalia": "1960-10-06",
+      "regia": "Billy Wilder",
       "generi": [
-        "Animazione",
-        "Famiglia",
-        "Fantasy",
-        "Avventura",
-        "Fantascienza",
-        "Azione"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 101,
-      "tagline": "Un nuovo eroe prende forma.",
-      "cast": [
-        "Chloë Grace Moretz (Nimona (voice))",
-        "Riz Ahmed (Ballister Boldheart (voice))",
-        "Eugene Lee Yang (Ambrosius Goldenloin (voice))",
-        "Frances Conroy (The Director (voice))",
-        "Lorraine Toussaint (Queen Valerin (voice))",
-        "Beck Bennett (Sir Thoddeus Sureblade (voice))"
-      ],
-      "tramaTmdb": "Per dimostrare la propria innocenza un cavaliere accusato di un crimine unisce le forze con un'adolescente mutaforma. Ma se fosse lei il mostro che ha giurato di distruggere?",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Nimona|174|Troy Quane"
-    },
-    {
-      "id": "tmdb-615469",
-      "tmdbId": 615469,
-      "imdbId": "tt9783600",
-      "origine": "scoperta",
-      "titolo": "Spiderhead",
-      "titoloOriginale": "Spiderhead",
-      "anno": "2022",
-      "uscitaItalia": "2022-06-15",
-      "regia": "Joseph Kosinski",
-      "generi": [
-        "Fantascienza",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 106,
-      "tagline": "Fino a che punto vi spingereste per correggere la natura umana?",
-      "cast": [
-        "Chris Hemsworth (Steve Abnesti)",
-        "Miles Teller (Jeff)",
-        "Jurnee Smollett-Bell (Lizzy)",
-        "Mark Paguio (Mark Verlaine)",
-        "Tess Haubrich (Heather)",
-        "BeBe Bettencourt (Emma)"
-      ],
-      "tramaTmdb": "Un detenuto di un penitenziario all'avanguardia mette in dubbio lo scopo dei farmaci capaci di controllare le emozioni che sta testando per un genio della farmaceutica.",
-      "motivi": [
-        "regia di Joseph Kosinski, di cui hai visto 2 film",
-        "regia di Joseph Kosinski, che segui"
-      ],
-      "impronta": "Spiderhead|168|Joseph Kosinski"
-    },
-    {
-      "id": "tmdb-101",
-      "tmdbId": 101,
-      "imdbId": "tt0110413",
-      "origine": "scoperta",
-      "titolo": "Léon",
-      "titoloOriginale": "Léon",
-      "anno": "1995",
-      "uscitaItalia": "1995-04-07",
-      "regia": "Luc Besson",
-      "generi": [
-        "Crime",
+        "Commedia",
         "Dramma",
-        "Azione"
-      ],
-      "paesi": [
-        "Francia"
-      ],
-      "durata": 110,
-      "tagline": "Dal momento del loro incontro, le loro vite non saranno più le stesse.",
-      "cast": [
-        "Jean Reno (Léon Montana)",
-        "Natalie Portman (Mathilda Lando)",
-        "Gary Oldman (Norman Stansfield)",
-        "Danny Aiello (Old Tony)",
-        "Peter Appel (Agent Malky)",
-        "Michael Badalucco (Mathilda's Father)"
-      ],
-      "tramaTmdb": "Léon è un killer che vive solo, avendo unicamente una pianta da vaso come compagnia. Mathilda è una ragazzina che abita nell'appartamento a fianco alla stanza di Léon. Quando la famiglia di Mathilda viene sterminata per una storia di droga, lei chiede aiuto a Léon. Tra i due nasce una tenera amicizia, fra scambi di lezioni sull'uso delle armi da una parte e di lettura dall'altra.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Léon|382|Luc Besson"
-    },
-    {
-      "id": "tmdb-24428",
-      "tmdbId": 24428,
-      "imdbId": "tt0848228",
-      "origine": "scoperta",
-      "titolo": "The Avengers",
-      "titoloOriginale": "The Avengers",
-      "anno": "2012",
-      "uscitaItalia": "2012-04-25",
-      "regia": "Joss Whedon",
-      "generi": [
-        "Fantascienza",
-        "Azione",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 143,
-      "tagline": "L'unione fa la forza.",
-      "cast": [
-        "Robert Downey Jr. (Tony Stark / Iron Man)",
-        "Chris Evans (Steve Rogers / Captain America)",
-        "Mark Ruffalo (Bruce Banner / The Hulk)",
-        "Chris Hemsworth (Thor)",
-        "Scarlett Johansson (Natasha Romanoff / Black Widow)",
-        "Jeremy Renner (Clint Barton / Hawkeye)"
-      ],
-      "tramaTmdb": "I supereroi più famosi si riuniscono in una squadra di personaggi Marvel leggendari come Iron Man, l'incredibile Hulk, Thor, Captain America, Occhio di Falco e Vedova Nera. Quando la comparsa di un nemico inatteso minaccia la tranquillità e la sicurezza del mondo, Nick Fury, direttore dell'agenzia internazionale per il mantenimento della pace conosciuta come S.H.I.E.L.D., si trova ad aver bisogno di una squadra che salvi il pianeta dall'orlo del disastro. Inizia così, da un capo all'altro della terra, un audace lavoro di reclutamento. Dopo aver riunito la squadra, Nick Fury e il suo fidato ass",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "The Avengers|600|Joss Whedon"
-    },
-    {
-      "id": "tmdb-207",
-      "tmdbId": 207,
-      "imdbId": "tt0097165",
-      "origine": "scoperta",
-      "titolo": "L'attimo fuggente",
-      "titoloOriginale": "Dead Poets Society",
-      "anno": "1989",
-      "uscitaItalia": "1989-09-28",
-      "regia": "Peter Weir",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 130,
-      "tagline": "Era per loro l'ispiratore di una nuova straordinaria esistenza",
-      "cast": [
-        "Robin Williams (John Keating)",
-        "Robert Sean Leonard (Neil Perry)",
-        "Ethan Hawke (Todd Anderson)",
-        "Josh Charles (Knox Overstreet)",
-        "Gale Hansen (Charlie Dalton)",
-        "Dylan Kussman (Richard Cameron)"
-      ],
-      "tramaTmdb": "Stato del Vermont (Stati Uniti), 1959: nel college maschile Welton, molto tradizionale, viene trasferito il professore John Keating, un insegnante di lettere simpatico e anticonformista. Fin dal primo contatto con i giovani allievi, traspare non solo il suo diverso modo d'insegnamento ma anche il suo approccio che esorta i ragazzi ad affrontare lo studio e la vita seguendo le proprie idee e non quelle dei nonni. Uno degli studenti, entrato in conflitto con i suoi genitori, si suiciderà. La responsabilità viene fatta ricadere sul professore. Lui sarà cacciato, ma i suoi allievi non lo dimentich",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "L'attimo fuggente|600|Peter Weir"
-    },
-    {
-      "id": "tmdb-399055",
-      "tmdbId": 399055,
-      "imdbId": "tt5580390",
-      "origine": "scoperta",
-      "titolo": "La forma dell'acqua",
-      "titoloOriginale": "The Shape of Water",
-      "anno": "2018",
-      "uscitaItalia": "2018-02-14",
-      "regia": "Guillermo del Toro",
-      "generi": [
-        "Dramma",
-        "Fantasy",
         "Romance"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 123,
-      "tagline": "Una favola per tempi duri.",
+      "durata": 125,
+      "tagline": "Dal punto di vista cinematografico, non c'è mai stato niente di simile - dal punto di vista delle risate, dell'amore o altro!",
       "cast": [
-        "Sally Hawkins (Elisa Esposito)",
-        "Michael Shannon (Richard Strickland)",
-        "Richard Jenkins (Giles)",
-        "Octavia Spencer (Zelda Fuller)",
-        "Michael Stuhlbarg (Dr. Robert Hoffstetler)",
-        "Doug Jones (Amphibian Man)"
+        "Jack Lemmon (C.C. Baxter)",
+        "Shirley MacLaine (Fran Kubelik)",
+        "Fred MacMurray (Jeff D. Sheldrake)",
+        "Ray Walston (Joe Dobisch)",
+        "Jack Kruschen (Dr. Dreyfuss)",
+        "David Lewis (Al Kirkeby)"
       ],
-      "tramaTmdb": "Elisa, giovane donna muta, lavora in un laboratorio scientifico di Baltimora dove gli americani combattono la guerra fredda. Impiegata come donna delle pulizie, Elisa è legata da profonda amicizia a Zelda, collega afroamericana che lotta per i suoi diritti dentro il matrimonio e la società, e Giles, vicino di casa omosessuale, discriminato sul lavoro. Diversi in un mondo di mostri dall'aspetto rassicurante, scoprono che in laboratorio (soprav)vive in cattività una creatura anfibia di grande intelligenza e sensibilità. A rivelarle è Elisa. Condannata al silenzio e alla solitudine, si innamora r",
+      "tramaTmdb": "Bud Baxter, un impiegato che scalpita in una grande compagnia di assicurazioni di New York, ha trovato un modo rapido per scalare i vertici aziendali: prestare il suo appartamento ai dirigenti come luogo dove incontrare le loro amanti. L'uomo ha quindi spesso a che fare con le conseguenze delle loro visite e una notte si ritrova un grosso problema da risolvere.",
       "motivi": [
-        "regia di Guillermo del Toro, di cui hai visto un film",
-        "regia di James Cameron, che segui"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "La forma dell'acqua|600|Guillermo del Toro"
+      "impronta": "L'appartamento|363|Billy Wilder"
     },
     {
-      "id": "tmdb-994108",
-      "tmdbId": 994108,
-      "imdbId": "tt21192142",
+      "id": "tmdb-1422",
+      "tmdbId": 1422,
+      "imdbId": "tt0407887",
       "origine": "scoperta",
-      "titolo": "Estranei",
-      "titoloOriginale": "All of Us Strangers",
-      "anno": "2024",
-      "uscitaItalia": "2024-02-29",
-      "regia": "Andrew Haigh",
+      "titolo": "The Departed - Il bene e il male",
+      "titoloOriginale": "The Departed",
+      "anno": "2006",
+      "uscitaItalia": "2006-10-27",
+      "regia": "Martin Scorsese",
       "generi": [
-        "Romance",
         "Dramma",
+        "Thriller",
+        "Crime"
+      ],
+      "paesi": [
+        "Hong Kong",
+        "USA"
+      ],
+      "durata": 149,
+      "tagline": "Bugie. Tradimento. Sacrificio. Fino a che punto lo porterai?",
+      "cast": [
+        "Leonardo DiCaprio (Billy)",
+        "Matt Damon (Colin)",
+        "Jack Nicholson (Costello)",
+        "Mark Wahlberg (Dignam)",
+        "Martin Sheen (Queenan)",
+        "Ray Winstone (Mr. French)"
+      ],
+      "tramaTmdb": "Boston. È in atto una guerra tra la polizia locale e una banda della malavita organizzata. Billy Costigan, giovane poliziotto in incognito, riceve l'incarico di infiltrarsi nella gang capeggiata dal boss Frank Costello. Mentre Billy guadagna rapidamente la fiducia di Costello, Colin Sullivan, giovane criminale incallito infiltrato nel dipartimento di polizia come informatore della gang, guadagna una posizione di rilievo nell'unità speciale di investigazione. Sia Billy che Colin vivono questa doppia vita come un'esperienza alienante, ma appena appare chiara l'esistenza di una talpa, sia all'int",
+      "motivi": [
+        "c'è Matt Damon, che hai visto 2 volte",
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "The Departed - Il bene e il male|600|Martin Scorsese"
+    },
+    {
+      "id": "tmdb-121",
+      "tmdbId": 121,
+      "imdbId": "tt0167261",
+      "origine": "scoperta",
+      "titolo": "Il Signore degli Anelli - Le due torri",
+      "titoloOriginale": "The Lord of the Rings: The Two Towers",
+      "anno": "2003",
+      "uscitaItalia": "2003-01-16",
+      "regia": "Peter Jackson",
+      "generi": [
+        "Avventura",
+        "Fantasy",
+        "Azione"
+      ],
+      "paesi": [
+        "Nuova Zelanda",
+        "USA"
+      ],
+      "durata": 180,
+      "tagline": "Un nuovo potere sta sorgendo",
+      "cast": [
+        "Elijah Wood (Frodo)",
+        "Ian McKellen (Gandalf)",
+        "Viggo Mortensen (Aragorn)",
+        "Sean Astin (Sam)",
+        "Andy Serkis (Gollum)",
+        "John Rhys-Davies (Gimli / Treebeard (voice))"
+      ],
+      "tramaTmdb": "La Compagnia dell'Anello è divisa, e ogni speranza è riposta ora in Frodo e Sam, che stanno tentando di attraversare non visti i confini di Mordor, tallonati dall'infido Gollum: Aragorn, Gimli e Legolas sono invece sulle tracce di Merry e Pipino, rapiti dagli Uruk-Hai di Saruman e in grave pericolo di vita. Attraverso alterne vicende, raggiungeranno la terra di Rohan e aiuteranno il Re Theoden nella sua guerra contro il traditore Saruman...",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il Signore degli Anelli - Le due torri|444|Peter Jackson"
+    },
+    {
+      "id": "tmdb-453",
+      "tmdbId": 453,
+      "imdbId": "tt0268978",
+      "origine": "scoperta",
+      "titolo": "A Beautiful Mind",
+      "titoloOriginale": "A Beautiful Mind",
+      "anno": "2002",
+      "uscitaItalia": "2002-02-22",
+      "regia": "Ron Howard",
+      "generi": [
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 135,
+      "tagline": null,
+      "cast": [
+        "Russell Crowe (John Nash)",
+        "Jennifer Connelly (Alicia Nash)",
+        "Ed Harris (William Parcher)",
+        "Paul Bettany (Charles Herman)",
+        "Christopher Plummer (Dr. Rosen)",
+        "Adam Goldberg (Richard Sol)"
+      ],
+      "tramaTmdb": "Il film si ispira alla vita di John Forbes Nash Jr. Di origini medio borghesi, Forbes nacque in una piccola città della Virginia occidentale il 13 giugno 1928 e, per oltre cinquant'anni è stato considerato un mito negli ambienti della ricerca matematica. Grazie al suo studio della teoria dei giochi, negli anni 50 diventò l'astro nascente della \"nuova matematica\". Poco a poco, vittima di una grave forma di schizofrenia, Nash sprofondò in un mondo tutto suo, convinto che le sue allucinazioni fossero realtà. Passò diversi anni in ospedali psichiatrici, ma durante la sua assenza, la teoria dei gio",
+      "motivi": [
+        "c'è Bryce Dallas Howard, che hai visto 3 volte"
+      ],
+      "impronta": "A Beautiful Mind|600|Ron Howard"
+    },
+    {
+      "id": "tmdb-274870",
+      "tmdbId": 274870,
+      "imdbId": "tt1355644",
+      "origine": "scoperta",
+      "titolo": "Passengers",
+      "titoloOriginale": "Passengers",
+      "anno": "2016",
+      "uscitaItalia": "2016-12-30",
+      "regia": "Morten Tyldum",
+      "generi": [
+        "Dramma",
+        "Romance",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 116,
+      "tagline": "È troppo tardi per tornare indietro",
+      "cast": [
+        "Jennifer Lawrence (Aurora Lane)",
+        "Chris Pratt (Jim Preston)",
+        "Michael Sheen (Arthur)",
+        "Laurence Fishburne (Gus Mancuso)",
+        "Andy Garcia (Captain Norris)",
+        "Vince Foster (Executive Officer)"
+      ],
+      "tramaTmdb": "Aurora e Jim sono i protagonisti di un’avventura a bordo di una navicella spaziale in viaggio verso una nuova vita su un altro pianeta. Il viaggio prende un risvolto imprevisto quando un malfunzionamento delle loro capsule di ibernazione li risveglia misteriosamente 90 anni prima dell’arrivo a destinazione. Mentre Jim e Aurora cercano di scoprire le cause dell’avaria, finiscono per innamorarsi… ma il loro idillio viene minacciato dall’imminente distruzione dell’astronave, e dalla scoperta della verità dietro il loro risveglio.",
+      "motivi": [
+        "c'è Chris Pratt, che hai visto 4 volte",
+        "c'è Chris Pratt, che hai visto 4 volte"
+      ],
+      "impronta": "Passengers|532|Morten Tyldum"
+    },
+    {
+      "id": "tmdb-769",
+      "tmdbId": 769,
+      "imdbId": "tt0099685",
+      "origine": "scoperta",
+      "titolo": "Quei bravi ragazzi",
+      "titoloOriginale": "GoodFellas",
+      "anno": "1990",
+      "uscitaItalia": "1990-09-20",
+      "regia": "Martin Scorsese",
+      "generi": [
+        "Dramma",
+        "Crime"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 145,
+      "tagline": "Trent'anni di vita nella Mafia",
+      "cast": [
+        "Robert De Niro (James Conway)",
+        "Ray Liotta (Henry Hill)",
+        "Joe Pesci (Tommy DeVito)",
+        "Lorraine Bracco (Karen Hill)",
+        "Paul Sorvino (Paul Cicero)",
+        "Frank Sivero (Frankie Carbone)"
+      ],
+      "tramaTmdb": "Henry Hill, figlio di emigranti italo-irlandesi, fin da giovane entra a far parte della piccola mafia dei quartieri poveri di New York. Ma ben presto scopre la ferocia dei boss locali che usano chiamarsi fra di loro \"bravi ragazzi\"...",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Quei bravi ragazzi|234|Martin Scorsese"
+    },
+    {
+      "id": "tmdb-12445",
+      "tmdbId": 12445,
+      "imdbId": "tt1201607",
+      "origine": "scoperta",
+      "titolo": "Harry Potter e i Doni della Morte - Parte 2",
+      "titoloOriginale": "Harry Potter and the Deathly Hallows: Part 2",
+      "anno": "2011",
+      "uscitaItalia": "2011-07-13",
+      "regia": "David Yates",
+      "generi": [
+        "Avventura",
         "Fantasy"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 105,
-      "tagline": null,
+      "durata": 130,
+      "tagline": "Tutto finisce.",
       "cast": [
-        "Andrew Scott (Adam)",
-        "Paul Mescal (Harry)",
-        "Carter John Grout (Young Adam)",
-        "Jamie Bell (Dad)",
-        "Claire Foy (Mum)",
-        "Ami Tredrea (Waitress)"
+        "Daniel Radcliffe (Harry Potter)",
+        "Emma Watson (Hermione Granger)",
+        "Rupert Grint (Ron Weasley)",
+        "Ralph Fiennes (Lord Voldemort)",
+        "Alan Rickman (Severus Snape)",
+        "Michael Gambon (Albus Dumbledore)"
       ],
-      "tramaTmdb": "Una notte, nel suo condominio quasi vuoto nella Londra contemporanea, Adam (Andrew Scott) ha un incontro casuale con un misterioso vicino di casa, Harry (Paul Mescal), che spezza il ritmo della sua vita quotidiana. Mentre si sviluppa una relazione tra i due, Adam è ossessionato dai ricordi del passato e si ritrova attratto nella città di periferia in cui è cresciuto e nella casa d'infanzia in cui i suoi genitori (Claire Foy e Jamie Bell) sembrano vivere, proprio come il giorno della loro morte, 30 anni prima.",
+      "tramaTmdb": "Occupati Hogwarts e il mondo della magia, Voldemort e i Mangiamorte hanno ormai un solo obiettivo: disperdere l'esercito di Silente e uccidere Harry Potter, alla ricerca degli ultimi Horcrux. Individuati con l'immancabile aiuto di Ron e Hermione gli oggetti e i soggetti viventi che contengono l'anima frantumata e separata dal corpo del Signore Oscuro, i tre ragazzi hanno bisogno di tempo per raggiungere quelle schegge di anima e farne scempio. Ripiegati a Hogwarts, presieduta da Severus Piton e difesa dai dissennatori, Harry e compagni vengono accolti trionfalmente da Neville Paciock e il suo ",
       "motivi": [
-        "c'è Paul Mescal, che hai visto 2 volte",
-        "c'è Paul Mescal, che hai visto 2 volte"
+        "c'è Ralph Fiennes, che hai visto 2 volte",
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Estranei|514|Andrew Haigh"
+      "impronta": "Harry Potter e i Doni della Morte - Parte 2|600|David Yates"
     },
     {
-      "id": "tmdb-157336",
-      "tmdbId": 157336,
-      "imdbId": "tt0816692",
+      "id": "tmdb-10494",
+      "tmdbId": 10494,
+      "imdbId": "tt0156887",
       "origine": "scoperta",
-      "titolo": "Interstellar",
-      "titoloOriginale": "Interstellar",
-      "anno": "2014",
-      "uscitaItalia": "2014-11-06",
-      "regia": "Christopher Nolan",
+      "titolo": "Perfect Blue",
+      "titoloOriginale": "PERFECT BLUE",
+      "anno": "2024",
+      "uscitaItalia": "2024-04-22",
+      "regia": "Satoshi Kon",
       "generi": [
-        "Avventura",
-        "Dramma",
-        "Fantascienza"
+        "Animazione",
+        "Thriller"
       ],
       "paesi": [
-        "Regno Unito",
-        "USA"
+        "Giappone"
       ],
-      "durata": 169,
-      "tagline": "La fine del mondo non sarà la nostra fine.",
+      "durata": 81,
+      "tagline": null,
       "cast": [
-        "Matthew McConaughey (Cooper)",
-        "Anne Hathaway (Brand)",
-        "Michael Caine (Professor Brand)",
-        "Jessica Chastain (Murph)",
-        "Casey Affleck (Tom)",
-        "Wes Bentley (Doyle)"
+        "Junko Iwao (Mima Kirigoe (voice))",
+        "松本梨香 (Rumi (voice))",
+        "新山志保 (Rei (voice))",
+        "大倉正章 (Mamoru Uchida (voice))",
+        "辻親八 (Tadokoro (voice))",
+        "Emiko Furukawa (Yukiko (voice))"
       ],
-      "tramaTmdb": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo è quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
+      "tramaTmdb": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la",
       "motivi": [
-        "regia di Christopher Nolan, di cui hai visto 2 film",
-        "c'è Anne Hathaway, che hai visto 2 volte",
-        "c'è Timothée Chalamet, che hai visto 4 volte"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Interstellar|463|Christopher Nolan"
+      "impronta": "Perfect Blue|600|Satoshi Kon"
     },
     {
-      "id": "tmdb-263115",
-      "tmdbId": 263115,
-      "imdbId": "tt3315342",
+      "id": "tmdb-13",
+      "tmdbId": 13,
+      "imdbId": "tt0109830",
       "origine": "scoperta",
-      "titolo": "Logan - The Wolverine",
-      "titoloOriginale": "Logan",
-      "anno": "2017",
-      "uscitaItalia": "2017-03-01",
-      "regia": "James Mangold",
+      "titolo": "Forrest Gump",
+      "titoloOriginale": "Forrest Gump",
+      "anno": "1994",
+      "uscitaItalia": "1994-10-06",
+      "regia": "Robert Zemeckis",
       "generi": [
-        "Azione",
+        "Commedia",
         "Dramma",
-        "Fantascienza"
+        "Romance"
       ],
       "paesi": [
         "USA"
       ],
       "durata": 137,
-      "tagline": "Il suo momento è arrivato.",
+      "tagline": "Il mondo non ti sembrerà più lo stesso dopo averlo visto attraverso gli occhi di Forrest Gump.",
       "cast": [
-        "Hugh Jackman (Logan / X-24)",
-        "Dafne Keen (Laura)",
-        "Patrick Stewart (Charles)",
-        "Elizabeth Rodriguez (Gabriela)",
-        "Boyd Holbrook (Pierce)",
-        "Stephen Merchant (Caliban)"
+        "Tom Hanks (Forrest Gump)",
+        "Robin Wright (Jenny Curran)",
+        "Gary Sinise (Lieutenant Dan Taylor)",
+        "Sally Field (Mrs. Gump)",
+        "Mykelti Williamson (Bubba Blue)",
+        "Michael Conner Humphreys (Young Forrest Gump)"
       ],
-      "tramaTmdb": "El Paso, 2029. Sono 25 anni che non nascono più mutanti e quelli che sono sopravvissuti sono degli emarginati, in via di estinzione. Logan/Wolverine vive facendo lo chaffeur e la sua capacità di rigenerazione non funziona più come un tempo, mentre il Professor X ha novant'anni e il controllo dei suoi poteri psichici è sempre meno sicuro. Quando una donna messicana cerca Logan per presentargli una bambina misteriosa di nome Laura, nuove attenzioni e nuovi guai cominciano a raggiungere i mutanti.",
+      "tramaTmdb": "Forrest Gump - un ragazzo non proprio idiota, ma dal basso coefficiente d'intelligenza - racconta la sua storia a coloro che, uno dopo l'altro, si siedono vicino a lui in attesa dell'autobus. È stato in Vietnam, ha stretto la mano a tre presidenti, ha incontrato Elvis, ha assistito ai movimenti studenteschi, ha casualmente fatto esplodere il Watergate, ha suggerito le parole di \"Imagine\" a John Lennon e per tutta la vita è stato innamorato di una ragazza conosciuta fin da bambino.",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "un classico che ti manca"
       ],
-      "impronta": "Logan - The Wolverine|499|James Mangold"
+      "impronta": "Forrest Gump|485|Robert Zemeckis"
+    },
+    {
+      "id": "tmdb-791373",
+      "tmdbId": 791373,
+      "imdbId": "tt12361974",
+      "origine": "scoperta",
+      "titolo": "Zack Snyder's Justice League",
+      "titoloOriginale": "Zack Snyder's Justice League",
+      "anno": "2021",
+      "uscitaItalia": "2021-03-18",
+      "regia": "Zack Snyder",
+      "generi": [
+        "Azione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 240,
+      "tagline": "Non si può salvare il mondo da soli.",
+      "cast": [
+        "Ben Affleck (Batman / Bruce Wayne)",
+        "Henry Cavill (Superman / Clark Kent)",
+        "Gal Gadot (Wonder Woman / Diana Prince)",
+        "Ray Fisher (Cyborg / Victor Stone)",
+        "Jason Momoa (Aquaman / Arthur Curry)",
+        "Ezra Miller (The Flash / Barry Allen)"
+      ],
+      "tramaTmdb": "Director's cut di Justice League firmata da Zack Snyder.\r Dopo il sacrificio di Superman, Bruce Wayne, alias Batman, mette insieme un team di supereroi per proteggere il mondo da una minaccia catastrofica.\r Dopo la battaglia di Metropolis, e il sacrificio finale di Superman a difesa della popolazione e dell’intero pianeta dalla terrificante ascesa di Doomsday provocata da Luthor, Bruce Wayne vuole assicurarsi che quel gesto eroico e il suo significato non vadano perduti.\r Infatti la morte dell'uomo di Krypton ha lasciato il mondo in uno stato di vulnerabilità e i segni di un'antica minaccia in",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Zack Snyder's Justice League|600|Zack Snyder"
     }
   ]
 }
