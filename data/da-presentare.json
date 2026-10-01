@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-09-30T05:07:31.285Z",
+  "preparato": "2026-10-01T05:07:44.254Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,6 +78,39 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1255833",
+      "tmdbId": 1255833,
+      "imdbId": "tt28535715",
+      "origine": "trailer",
+      "titolo": "Whalefall - Nella balena",
+      "titoloOriginale": "Whalefall",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Brian Duffield",
+      "generi": [
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 98,
+      "tagline": null,
+      "cast": [
+        "Austin Abrams (Jay Gardiner)",
+        "Josh Brolin (Mitt Gardiner)",
+        "Elisabeth Shue (Zara Gardiner)",
+        "John Ortiz (Hewey)",
+        "Jane Levy (Eva Gardiner)",
+        "Emily Rudd (Nan Gardiner)"
+      ],
+      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+      "motivi": [
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "thriller, il tuo terreno"
+      ],
+      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
     {
       "id": "tmdb-1003596",
       "tmdbId": 1003596,
@@ -215,65 +248,6 @@
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
-      "id": "tmdb-1255833",
-      "tmdbId": 1255833,
-      "imdbId": "tt28535715",
-      "origine": "trailer",
-      "titolo": "Whalefall - Nella balena",
-      "titoloOriginale": "Whalefall",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Brian Duffield",
-      "generi": [
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": null,
-      "cast": [
-        "Austin Abrams (Jay Gardiner)",
-        "Josh Brolin (Mitt Gardiner)",
-        "Elisabeth Shue (Zara Gardiner)",
-        "John Ortiz (Hewey)",
-        "Jane Levy (Eva Gardiner)",
-        "Emily Rudd (Nan Gardiner)"
-      ],
-      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
-      "motivi": [
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "thriller, il tuo terreno"
-      ],
-      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
-    },
-    {
-      "id": "tmdb-1755291",
-      "tmdbId": 1755291,
-      "imdbId": "tt44766123",
-      "origine": "trailer",
-      "titolo": "NAZA",
-      "titoloOriginale": "NAZA",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-25",
-      "regia": "يوفال إبراهيم",
-      "generi": [
-        "Documentario"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 80,
-      "tagline": null,
-      "cast": [
-        "يوفال إبراهيم (Self)"
-      ],
-      "tramaTmdb": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
-      "motivi": [],
-      "impronta": "NAZA|259|يوفال إبراهيم"
-    },
-    {
       "id": "tmdb-1153576",
       "tmdbId": 1153576,
       "imdbId": "tt27419420",
@@ -306,6 +280,32 @@
       "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
+      "id": "tmdb-1755291",
+      "tmdbId": 1755291,
+      "imdbId": "tt44766123",
+      "origine": "trailer",
+      "titolo": "NAZA",
+      "titoloOriginale": "NAZA",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-25",
+      "regia": "يوفال إبراهيم",
+      "generi": [
+        "Documentario"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito"
+      ],
+      "durata": 80,
+      "tagline": null,
+      "cast": [
+        "يوفال إبراهيم (Self)"
+      ],
+      "tramaTmdb": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
+      "motivi": [],
+      "impronta": "NAZA|259|يوفال إبراهيم"
+    },
+    {
       "id": "tmdb-1765072",
       "tmdbId": 1765072,
       "imdbId": "tt45368240",
@@ -336,378 +336,341 @@
       "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
-      "id": "tmdb-1634905",
-      "tmdbId": 1634905,
-      "imdbId": "tt39649289",
-      "origine": "trailer",
-      "titolo": "Vampire Carnival",
-      "titoloOriginale": "Vampire Carnival",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-07",
-      "regia": "Justin Powell",
-      "generi": [
-        "Horror",
-        "Romance"
-      ],
-      "paesi": [
-        "Spagna",
-        "USA"
-      ],
-      "durata": null,
-      "tagline": null,
-      "cast": [
-        "Nell Verlaque",
-        "Jason Isaacs",
-        "Paulina Chávez",
-        "Kieron Moore",
-        "Eoin Macken",
-        "Alicia Sanz"
-      ],
-      "tramaTmdb": "Ossessionata dal suo passato, una ragazza addolorata è attratta da un misterioso carnevale itinerante che arriva nella sua piccola città, solo per scoprire un mondo sotterraneo che si nutre di disperazione e richiede un caro prezzo per fuggire.",
-      "motivi": [],
-      "impronta": "Vampire Carnival|244|Justin Powell"
-    },
-    {
-      "id": "tmdb-284",
-      "tmdbId": 284,
-      "imdbId": "tt0053604",
+      "id": "tmdb-49797",
+      "tmdbId": 49797,
+      "imdbId": "tt1588170",
       "origine": "scoperta",
-      "titolo": "L'appartamento",
-      "titoloOriginale": "The Apartment",
-      "anno": "1960",
-      "uscitaItalia": "1960-10-06",
-      "regia": "Billy Wilder",
+      "titolo": "I Saw the Devil",
+      "titoloOriginale": "악마를 보았다",
+      "anno": "2010",
+      "uscitaItalia": "2010-08-12",
+      "regia": "김지운",
       "generi": [
-        "Commedia",
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 125,
-      "tagline": "Dal punto di vista cinematografico, non c'è mai stato niente di simile - dal punto di vista delle risate, dell'amore o altro!",
-      "cast": [
-        "Jack Lemmon (C.C. Baxter)",
-        "Shirley MacLaine (Fran Kubelik)",
-        "Fred MacMurray (Jeff D. Sheldrake)",
-        "Ray Walston (Joe Dobisch)",
-        "Jack Kruschen (Dr. Dreyfuss)",
-        "David Lewis (Al Kirkeby)"
-      ],
-      "tramaTmdb": "Bud Baxter, un impiegato che scalpita in una grande compagnia di assicurazioni di New York, ha trovato un modo rapido per scalare i vertici aziendali: prestare il suo appartamento ai dirigenti come luogo dove incontrare le loro amanti. L'uomo ha quindi spesso a che fare con le conseguenze delle loro visite e una notte si ritrova un grosso problema da risolvere.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "L'appartamento|363|Billy Wilder"
-    },
-    {
-      "id": "tmdb-1422",
-      "tmdbId": 1422,
-      "imdbId": "tt0407887",
-      "origine": "scoperta",
-      "titolo": "The Departed - Il bene e il male",
-      "titoloOriginale": "The Departed",
-      "anno": "2006",
-      "uscitaItalia": "2006-10-27",
-      "regia": "Martin Scorsese",
-      "generi": [
-        "Dramma",
         "Thriller",
-        "Crime"
+        "Horror"
       ],
       "paesi": [
-        "Hong Kong",
-        "USA"
+        "Corea del Sud"
       ],
-      "durata": 149,
-      "tagline": "Bugie. Tradimento. Sacrificio. Fino a che punto lo porterai?",
+      "durata": 141,
+      "tagline": null,
       "cast": [
-        "Leonardo DiCaprio (Billy)",
-        "Matt Damon (Colin)",
-        "Jack Nicholson (Costello)",
-        "Mark Wahlberg (Dignam)",
-        "Martin Sheen (Queenan)",
-        "Ray Winstone (Mr. French)"
+        "Lee Byung-hun (Kim Soo-hyeon)",
+        "최민식 (Kyung-chul)",
+        "전국환 (Squad Chief Jang)",
+        "천호진 (Section Chief Oh)",
+        "오산하 (Joo-yeon)",
+        "김윤서 (Se-yeon)"
       ],
-      "tramaTmdb": "Boston. È in atto una guerra tra la polizia locale e una banda della malavita organizzata. Billy Costigan, giovane poliziotto in incognito, riceve l'incarico di infiltrarsi nella gang capeggiata dal boss Frank Costello. Mentre Billy guadagna rapidamente la fiducia di Costello, Colin Sullivan, giovane criminale incallito infiltrato nel dipartimento di polizia come informatore della gang, guadagna una posizione di rilievo nell'unità speciale di investigazione. Sia Billy che Colin vivono questa doppia vita come un'esperienza alienante, ma appena appare chiara l'esistenza di una talpa, sia all'int",
+      "tramaTmdb": "Dopo aver scoperto che la sua fidanzata è stata brutalmente uccisa, l'agente segreto Dae-Hoon è a pezzi. Con l'aiuto di suo suocero, mette a punto un piano per scovare l'assassino e vendicarsi. Presto riesce a identificarlo e lo massacra, senza però ucciderlo. Vuole continuare a provare il gusto di inseguire la sua preda per servirgli una vendetta ancor più dolorosa e spaventosa.",
       "motivi": [
-        "c'è Matt Damon, che hai visto 2 volte",
-        "dramma: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "The Departed - Il bene e il male|600|Martin Scorsese"
+      "impronta": "I Saw the Devil|382|김지운"
     },
     {
-      "id": "tmdb-121",
-      "tmdbId": 121,
-      "imdbId": "tt0167261",
+      "id": "tmdb-290098",
+      "tmdbId": 290098,
+      "imdbId": "tt4016934",
       "origine": "scoperta",
-      "titolo": "Il Signore degli Anelli - Le due torri",
-      "titoloOriginale": "The Lord of the Rings: The Two Towers",
-      "anno": "2003",
-      "uscitaItalia": "2003-01-16",
-      "regia": "Peter Jackson",
+      "titolo": "Mademoiselle",
+      "titoloOriginale": "아가씨",
+      "anno": "2016",
+      "uscitaItalia": "2016-07-08",
+      "regia": "Park Chan-wook",
       "generi": [
-        "Avventura",
-        "Fantasy",
-        "Azione"
-      ],
-      "paesi": [
-        "Nuova Zelanda",
-        "USA"
-      ],
-      "durata": 180,
-      "tagline": "Un nuovo potere sta sorgendo",
-      "cast": [
-        "Elijah Wood (Frodo)",
-        "Ian McKellen (Gandalf)",
-        "Viggo Mortensen (Aragorn)",
-        "Sean Astin (Sam)",
-        "Andy Serkis (Gollum)",
-        "John Rhys-Davies (Gimli / Treebeard (voice))"
-      ],
-      "tramaTmdb": "La Compagnia dell'Anello è divisa, e ogni speranza è riposta ora in Frodo e Sam, che stanno tentando di attraversare non visti i confini di Mordor, tallonati dall'infido Gollum: Aragorn, Gimli e Legolas sono invece sulle tracce di Merry e Pipino, rapiti dagli Uruk-Hai di Saruman e in grave pericolo di vita. Attraverso alterne vicende, raggiungeranno la terra di Rohan e aiuteranno il Re Theoden nella sua guerra contro il traditore Saruman...",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Il Signore degli Anelli - Le due torri|444|Peter Jackson"
-    },
-    {
-      "id": "tmdb-453",
-      "tmdbId": 453,
-      "imdbId": "tt0268978",
-      "origine": "scoperta",
-      "titolo": "A Beautiful Mind",
-      "titoloOriginale": "A Beautiful Mind",
-      "anno": "2002",
-      "uscitaItalia": "2002-02-22",
-      "regia": "Ron Howard",
-      "generi": [
+        "Thriller",
         "Dramma",
         "Romance"
       ],
       "paesi": [
-        "USA"
+        "Corea del Sud"
       ],
-      "durata": 135,
+      "durata": 144,
       "tagline": null,
       "cast": [
-        "Russell Crowe (John Nash)",
-        "Jennifer Connelly (Alicia Nash)",
-        "Ed Harris (William Parcher)",
-        "Paul Bettany (Charles Herman)",
-        "Christopher Plummer (Dr. Rosen)",
-        "Adam Goldberg (Richard Sol)"
+        "Kim Min-hee (Lady Hideko)",
+        "Kim Tae-ri (Sook-hee)",
+        "Ha Jung-woo (Count Fujiwara)",
+        "Cho Jin-woong (Uncle Kouzuki)",
+        "Kim Hae-sook (Ms. Sasaki)",
+        "Moon So-ri (Hideko's Aunt)"
       ],
-      "tramaTmdb": "Il film si ispira alla vita di John Forbes Nash Jr. Di origini medio borghesi, Forbes nacque in una piccola città della Virginia occidentale il 13 giugno 1928 e, per oltre cinquant'anni è stato considerato un mito negli ambienti della ricerca matematica. Grazie al suo studio della teoria dei giochi, negli anni 50 diventò l'astro nascente della \"nuova matematica\". Poco a poco, vittima di una grave forma di schizofrenia, Nash sprofondò in un mondo tutto suo, convinto che le sue allucinazioni fossero realtà. Passò diversi anni in ospedali psichiatrici, ma durante la sua assenza, la teoria dei gio",
+      "tramaTmdb": "La giovane ereditiera Hideko, alle soglie della maggiore età, è orfana di entrambi i genitori ed ha perso una zia, sorella della madre, cui era particolarmente legata. Vive quasi reclusa nella grande villa dello zio, un ricco collezionista di libri erotici che intende sposarla per impadronirsi del suo patrimonio.  Uno spregiudicato truffatore, che da tempo si fa chiamare Conte Fujiwara millantando origini nobiliari, riesce a far assumere come domestica di Hideko l'abile borseggiatrice Sook-hee. Egli intende servirsi della ragazza per scardinare l'equilibrio della casa, sposare Hideko, mettere ",
       "motivi": [
-        "c'è Bryce Dallas Howard, che hai visto 3 volte"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "A Beautiful Mind|600|Ron Howard"
+      "impronta": "Mademoiselle|600|Park Chan-wook"
     },
     {
-      "id": "tmdb-274870",
-      "tmdbId": 274870,
-      "imdbId": "tt1355644",
+      "id": "tmdb-117",
+      "tmdbId": 117,
+      "imdbId": "tt0094226",
       "origine": "scoperta",
-      "titolo": "Passengers",
-      "titoloOriginale": "Passengers",
-      "anno": "2016",
-      "uscitaItalia": "2016-12-30",
-      "regia": "Morten Tyldum",
+      "titolo": "The Untouchables - Gli intoccabili",
+      "titoloOriginale": "The Untouchables",
+      "anno": "1987",
+      "uscitaItalia": "1987-10-01",
+      "regia": "Brian De Palma",
       "generi": [
-        "Dramma",
-        "Romance",
+        "Crime",
+        "Storia",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 119,
+      "tagline": "Cosa sei pronto a fare?",
+      "cast": [
+        "Kevin Costner (Eliot Ness)",
+        "Sean Connery (Jim Malone)",
+        "Robert De Niro (Al Capone)",
+        "Charles Martin Smith (Oscar Wallace)",
+        "Andy Garcia (George Stone)",
+        "Richard Bradford (Mike)"
+      ],
+      "tramaTmdb": "A Chicago nel 1930, durante il Proibizionismo, Al Capone domina ormai incontrastato la malavita, avendo sterminato senza pietà le bande rivali e seminando il terrore nella città con le sue crudeli vendette. Il commercio clandestino degli alcolici, sua principale attività, è per lui una fonte di guadagno enorme e, per mantenerne l'esclusiva, egli non solo usa ogni sorta di violenze, ma si serve della corruzione su vasta scala, che gli consente di avere complici e spie perfino fra le autorità cittadine e la stessa polizia. Eliot Ness, un giovane agente del Dipartimento del tesoro, viene incarica",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "The Untouchables - Gli intoccabili|600|Brian De Palma"
+    },
+    {
+      "id": "tmdb-100402",
+      "tmdbId": 100402,
+      "imdbId": "tt1843866",
+      "origine": "scoperta",
+      "titolo": "Captain America: The Winter Soldier",
+      "titoloOriginale": "Captain America: The Winter Soldier",
+      "anno": "2014",
+      "uscitaItalia": "2014-03-26",
+      "regia": "Joe Russo",
+      "generi": [
+        "Azione",
+        "Avventura",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 116,
-      "tagline": "È troppo tardi per tornare indietro",
+      "durata": 136,
+      "tagline": "Noi crediamo nei nostri eroi",
       "cast": [
-        "Jennifer Lawrence (Aurora Lane)",
-        "Chris Pratt (Jim Preston)",
-        "Michael Sheen (Arthur)",
-        "Laurence Fishburne (Gus Mancuso)",
-        "Andy Garcia (Captain Norris)",
-        "Vince Foster (Executive Officer)"
+        "Chris Evans (Steve Rogers / Captain America)",
+        "Samuel L. Jackson (Nick Fury)",
+        "Scarlett Johansson (Natasha Romanoff / Black Widow)",
+        "Robert Redford (Alexander Pierce)",
+        "Sebastian Stan (Bucky Barnes / Winter Soldier)",
+        "Anthony Mackie (Sam Wilson / Falcon)"
       ],
-      "tramaTmdb": "Aurora e Jim sono i protagonisti di un’avventura a bordo di una navicella spaziale in viaggio verso una nuova vita su un altro pianeta. Il viaggio prende un risvolto imprevisto quando un malfunzionamento delle loro capsule di ibernazione li risveglia misteriosamente 90 anni prima dell’arrivo a destinazione. Mentre Jim e Aurora cercano di scoprire le cause dell’avaria, finiscono per innamorarsi… ma il loro idillio viene minacciato dall’imminente distruzione dell’astronave, e dalla scoperta della verità dietro il loro risveglio.",
+      "tramaTmdb": "Ambientatosi nei nostri giorni Steve Rogers continua a servire gli Stati Uniti attraverso lo S.H.I.E.L.D., nonostante non sia contento della poca trasparenza e delle scarse informazioni che riceve su quel che fa. Quando anche Nick Fury comincia a scoprire che ci sono dati ed elementi che sono preclusi anche a lui è evidente che tutta la struttura serve un doppio fine. Se non bastassero le intuizioni arrivano diversi attacchi (a Fury in primis) a scoprire le carte e mostrare chi sia la talpa dentro l'organizzazione. Fuggito assieme a Vedova Nera e un reduce che forse può dare una mano, Capitan ",
       "motivi": [
-        "c'è Chris Pratt, che hai visto 4 volte",
-        "c'è Chris Pratt, che hai visto 4 volte"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Passengers|532|Morten Tyldum"
+      "impronta": "Captain America: The Winter Soldier|600|Joe Russo"
     },
     {
-      "id": "tmdb-769",
-      "tmdbId": 769,
-      "imdbId": "tt0099685",
+      "id": "tmdb-1204680",
+      "tmdbId": 1204680,
+      "imdbId": "tt1756855",
       "origine": "scoperta",
-      "titolo": "Quei bravi ragazzi",
-      "titoloOriginale": "GoodFellas",
-      "anno": "1990",
-      "uscitaItalia": "1990-09-20",
-      "regia": "Martin Scorsese",
+      "titolo": "Coyote vs. Acme",
+      "titoloOriginale": "Coyote vs. Acme",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-02",
+      "regia": "Dave Green",
       "generi": [
-        "Dramma",
-        "Crime"
+        "Commedia",
+        "Avventura",
+        "Famiglia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 145,
-      "tagline": "Trent'anni di vita nella Mafia",
+      "durata": 98,
+      "tagline": "Lui non si arrende. Mai.",
       "cast": [
-        "Robert De Niro (James Conway)",
-        "Ray Liotta (Henry Hill)",
-        "Joe Pesci (Tommy DeVito)",
-        "Lorraine Bracco (Karen Hill)",
-        "Paul Sorvino (Paul Cicero)",
-        "Frank Sivero (Frankie Carbone)"
+        "Will Forte (Kevin Avery)",
+        "Lana Condor (Paige Avery)",
+        "John Cena (Buddy Crane)",
+        "Tone Bell (Sal Maltese)",
+        "Martha Kelly (Dottie Jones)",
+        "Luis Guzmán (Judge Troppogrosso)"
       ],
-      "tramaTmdb": "Henry Hill, figlio di emigranti italo-irlandesi, fin da giovane entra a far parte della piccola mafia dei quartieri poveri di New York. Ma ben presto scopre la ferocia dei boss locali che usano chiamarsi fra di loro \"bravi ragazzi\"...",
+      "tramaTmdb": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Coyote vs. Acme|518|Dave Green"
+    },
+    {
+      "id": "tmdb-914",
+      "tmdbId": 914,
+      "imdbId": "tt0032553",
+      "origine": "scoperta",
+      "titolo": "Il grande dittatore",
+      "titoloOriginale": "The Great Dictator",
+      "anno": "1946",
+      "uscitaItalia": "1946-04-08",
+      "regia": "Charlie Chaplin",
+      "generi": [
+        "Commedia",
+        "Guerra"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 126,
+      "tagline": "Qualsiasi somiglianza tra il dittatore Hynkel e il barbiere ebreo è puramente casuale.",
+      "cast": [
+        "Charlie Chaplin (Adenoid Hynkel, Dictator of Tomania / A Jewish Barber)",
+        "Paulette Goddard (Hannah)",
+        "Jack Oakie (Benzino Napaloni, Dictator of Bacteria)",
+        "Reginald Gardiner (Commander Schultz)",
+        "Henry Daniell (Garbitsch)",
+        "Billy Gilbert (Field Marshal Herring)"
+      ],
+      "tramaTmdb": "In Tomania il dittatore Adenoid Hynkel scatena la repressione contro gli ebrei. La bella Hannah e il suo innamorato, un barbiere straordinariamente somigliante a Hynkel, fuggono. Il barbiere, dapprima catturato, scappa dal lager e si imbatte per caso nel vero dittatore che viene arrestato in vece sua. Dai microfoni del führer il barbiere pronuncia al mondo un lungo messaggio di pace e speranza.  Primo film interamente parlato di Chaplin, è una geniale satira antinazista realizzata quando le armate del Terzo Reich avevano ormai soggiogato l'intera Europa. Tra le sequenze da antologia, la danza ",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Quei bravi ragazzi|234|Martin Scorsese"
+      "impronta": "Il grande dittatore|600|Charlie Chaplin"
     },
     {
-      "id": "tmdb-12445",
-      "tmdbId": 12445,
-      "imdbId": "tt1201607",
+      "id": "tmdb-68718",
+      "tmdbId": 68718,
+      "imdbId": "tt1853728",
       "origine": "scoperta",
-      "titolo": "Harry Potter e i Doni della Morte - Parte 2",
-      "titoloOriginale": "Harry Potter and the Deathly Hallows: Part 2",
-      "anno": "2011",
-      "uscitaItalia": "2011-07-13",
-      "regia": "David Yates",
+      "titolo": "Django Unchained",
+      "titoloOriginale": "Django Unchained",
+      "anno": "2013",
+      "uscitaItalia": "2013-01-17",
+      "regia": "Quentin Tarantino",
       "generi": [
-        "Avventura",
-        "Fantasy"
+        "Dramma",
+        "Western"
       ],
       "paesi": [
-        "Regno Unito",
         "USA"
       ],
-      "durata": 130,
-      "tagline": "Tutto finisce.",
+      "durata": 165,
+      "tagline": "Gli hanno tolto la libertà. Lui gli toglierà ogni cosa.",
       "cast": [
-        "Daniel Radcliffe (Harry Potter)",
-        "Emma Watson (Hermione Granger)",
-        "Rupert Grint (Ron Weasley)",
-        "Ralph Fiennes (Lord Voldemort)",
-        "Alan Rickman (Severus Snape)",
-        "Michael Gambon (Albus Dumbledore)"
+        "Jamie Foxx (Django Freeman)",
+        "Christoph Waltz (Dr. King Schultz)",
+        "Leonardo DiCaprio (Calvin J. Candie)",
+        "Kerry Washington (Broomhilda von Shaft)",
+        "Samuel L. Jackson (Stephen)",
+        "Walton Goggins (Billy Crash)"
       ],
-      "tramaTmdb": "Occupati Hogwarts e il mondo della magia, Voldemort e i Mangiamorte hanno ormai un solo obiettivo: disperdere l'esercito di Silente e uccidere Harry Potter, alla ricerca degli ultimi Horcrux. Individuati con l'immancabile aiuto di Ron e Hermione gli oggetti e i soggetti viventi che contengono l'anima frantumata e separata dal corpo del Signore Oscuro, i tre ragazzi hanno bisogno di tempo per raggiungere quelle schegge di anima e farne scempio. Ripiegati a Hogwarts, presieduta da Severus Piton e difesa dai dissennatori, Harry e compagni vengono accolti trionfalmente da Neville Paciock e il suo ",
+      "tramaTmdb": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schia",
       "motivi": [
-        "c'è Ralph Fiennes, che hai visto 2 volte",
-        "avventura: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "Harry Potter e i Doni della Morte - Parte 2|600|David Yates"
+      "impronta": "Django Unchained|600|Quentin Tarantino"
     },
     {
-      "id": "tmdb-10494",
-      "tmdbId": 10494,
-      "imdbId": "tt0156887",
+      "id": "tmdb-766507",
+      "tmdbId": 766507,
+      "imdbId": "tt11866324",
       "origine": "scoperta",
-      "titolo": "Perfect Blue",
-      "titoloOriginale": "PERFECT BLUE",
-      "anno": "2024",
-      "uscitaItalia": "2024-04-22",
-      "regia": "Satoshi Kon",
+      "titolo": "Prey",
+      "titoloOriginale": "Prey",
+      "anno": "2022",
+      "uscitaItalia": "2022-08-05",
+      "regia": "Dan Trachtenberg",
       "generi": [
-        "Animazione",
-        "Thriller"
+        "Thriller",
+        "Azione",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 100,
+      "tagline": "Lui sa cacciare. Io so sopravvivere.",
+      "cast": [
+        "Amber Midthunder (Naru)",
+        "Dakota Beavers (Taabe)",
+        "Michelle Thrush (Aruka)",
+        "Stormee Kipp (Wasape)",
+        "Julian Black Antelope (Chief Kehetu)",
+        "Dane DiLiegro (Predator)"
+      ],
+      "tramaTmdb": "Nei territori Comanche del 1719, la giovane Naru cerca di dimostrarsi una cacciatrice al pari dei giovani maschi della comunità, guidati da suo fratello Taabe. Ha la sua occasione quando si unisce a una spedizione di caccia. Strada facendo, incontra le tracce di un altro predatore del quale credono sia un orso. Invece, questo predatore è determinato a cercare sfide di caccia degne di sé, avvantaggiato da una sorta di invisibilità. La sua superiorità sembra insuperabile persino per i più esperti cacciatori.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Prey|511|Dan Trachtenberg"
+    },
+    {
+      "id": "tmdb-13855",
+      "tmdbId": 13855,
+      "imdbId": "tt1190539",
+      "origine": "scoperta",
+      "titolo": "The Chaser",
+      "titoloOriginale": "추격자",
+      "anno": "2008",
+      "uscitaItalia": "2008-02-14",
+      "regia": "나홍진",
+      "generi": [
+        "Crime",
+        "Thriller",
+        "Azione"
+      ],
+      "paesi": [
+        "Corea del Sud"
+      ],
+      "durata": 125,
+      "tagline": "Il cacciatore e la preda, l'ultimo inseguimento comincia",
+      "cast": [
+        "김윤석 (Eom Jung-ho)",
+        "Ha Jung-woo (Ji Young-min)",
+        "서영희 (Kim Mi-jin)",
+        "김유정 (Eun-ji)",
+        "정인기 (Detective Lee)",
+        "최정우 (Chief of Police)"
+      ],
+      "tramaTmdb": "Jung-ho è un ex-poliziotto passato dall'altra parte della barricata che fa il protettore per un gruppo di prostitute. Ha però un problema: da qualche tempo alcune delle sue ragazze sono sparite. Quando riceve una chiamata da un cliente manda una delle sue ragazze, Mi-Jin, ma si accorge che c'è un legame tra il numero di telefono del cliente e le ragazze scomparse: prima di sparire erano tutte state richieste da quell'uomo. Inizia così una frenetica ricerca per salvare Mi-Jin, sperando di ritrovarla ancora in vita.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "The Chaser|519|나홍진"
+    },
+    {
+      "id": "tmdb-128",
+      "tmdbId": 128,
+      "imdbId": "tt0119698",
+      "origine": "scoperta",
+      "titolo": "Princess Mononoke",
+      "titoloOriginale": "もののけ姫",
+      "anno": "2000",
+      "uscitaItalia": "2000-05-19",
+      "regia": "Hayao Miyazaki",
+      "generi": [
+        "Avventura",
+        "Fantasy",
+        "Animazione"
       ],
       "paesi": [
         "Giappone"
       ],
-      "durata": 81,
-      "tagline": null,
+      "durata": 134,
+      "tagline": "Il destino del mondo é affidato a un solo eroe.",
       "cast": [
-        "Junko Iwao (Mima Kirigoe (voice))",
-        "松本梨香 (Rumi (voice))",
-        "新山志保 (Rei (voice))",
-        "大倉正章 (Mamoru Uchida (voice))",
-        "辻親八 (Tadokoro (voice))",
-        "Emiko Furukawa (Yukiko (voice))"
+        "松田洋治 (Ashitaka (voice))",
+        "石田ゆり子 (San / Kaya (voice))",
+        "田中裕子 (Eboshi Gozen (voice))",
+        "Kaoru Kobayashi (Jikobo (voice))",
+        "Masahiko Nishimura (Kouroku (voice))",
+        "上條恒彦 (Gonza (voice))"
       ],
-      "tramaTmdb": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Perfect Blue|600|Satoshi Kon"
-    },
-    {
-      "id": "tmdb-13",
-      "tmdbId": 13,
-      "imdbId": "tt0109830",
-      "origine": "scoperta",
-      "titolo": "Forrest Gump",
-      "titoloOriginale": "Forrest Gump",
-      "anno": "1994",
-      "uscitaItalia": "1994-10-06",
-      "regia": "Robert Zemeckis",
-      "generi": [
-        "Commedia",
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 137,
-      "tagline": "Il mondo non ti sembrerà più lo stesso dopo averlo visto attraverso gli occhi di Forrest Gump.",
-      "cast": [
-        "Tom Hanks (Forrest Gump)",
-        "Robin Wright (Jenny Curran)",
-        "Gary Sinise (Lieutenant Dan Taylor)",
-        "Sally Field (Mrs. Gump)",
-        "Mykelti Williamson (Bubba Blue)",
-        "Michael Conner Humphreys (Young Forrest Gump)"
-      ],
-      "tramaTmdb": "Forrest Gump - un ragazzo non proprio idiota, ma dal basso coefficiente d'intelligenza - racconta la sua storia a coloro che, uno dopo l'altro, si siedono vicino a lui in attesa dell'autobus. È stato in Vietnam, ha stretto la mano a tre presidenti, ha incontrato Elvis, ha assistito ai movimenti studenteschi, ha casualmente fatto esplodere il Watergate, ha suggerito le parole di \"Imagine\" a John Lennon e per tutta la vita è stato innamorato di una ragazza conosciuta fin da bambino.",
+      "tramaTmdb": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giusti",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Forrest Gump|485|Robert Zemeckis"
-    },
-    {
-      "id": "tmdb-791373",
-      "tmdbId": 791373,
-      "imdbId": "tt12361974",
-      "origine": "scoperta",
-      "titolo": "Zack Snyder's Justice League",
-      "titoloOriginale": "Zack Snyder's Justice League",
-      "anno": "2021",
-      "uscitaItalia": "2021-03-18",
-      "regia": "Zack Snyder",
-      "generi": [
-        "Azione",
-        "Avventura",
-        "Fantasy"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 240,
-      "tagline": "Non si può salvare il mondo da soli.",
-      "cast": [
-        "Ben Affleck (Batman / Bruce Wayne)",
-        "Henry Cavill (Superman / Clark Kent)",
-        "Gal Gadot (Wonder Woman / Diana Prince)",
-        "Ray Fisher (Cyborg / Victor Stone)",
-        "Jason Momoa (Aquaman / Arthur Curry)",
-        "Ezra Miller (The Flash / Barry Allen)"
-      ],
-      "tramaTmdb": "Director's cut di Justice League firmata da Zack Snyder.\r Dopo il sacrificio di Superman, Bruce Wayne, alias Batman, mette insieme un team di supereroi per proteggere il mondo da una minaccia catastrofica.\r Dopo la battaglia di Metropolis, e il sacrificio finale di Superman a difesa della popolazione e dell’intero pianeta dalla terrificante ascesa di Doomsday provocata da Luthor, Bruce Wayne vuole assicurarsi che quel gesto eroico e il suo significato non vadano perduti.\r Infatti la morte dell'uomo di Krypton ha lasciato il mondo in uno stato di vulnerabilità e i segni di un'antica minaccia in",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Zack Snyder's Justice League|600|Zack Snyder"
+      "impronta": "Princess Mononoke|600|Hayao Miyazaki"
     }
   ]
 }
