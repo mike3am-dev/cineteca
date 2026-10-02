@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-01T05:07:44.254Z",
+  "preparato": "2026-10-02T05:07:03.261Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -110,6 +110,41 @@
         "thriller, il tuo terreno"
       ],
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
+    {
+      "id": "tmdb-977942",
+      "tmdbId": 977942,
+      "imdbId": "tt36983905",
+      "origine": "trailer",
+      "titolo": "The Uprising",
+      "titoloOriginale": "The Uprising",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Paul Greengrass",
+      "generi": [
+        "Storia",
+        "Dramma"
+      ],
+      "paesi": [
+        "Germania",
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 128,
+      "tagline": "Rialzati o muori",
+      "cast": [
+        "Andrew Garfield (Ploughman)",
+        "Jamie Bell (John Ball)",
+        "Stephen Dillane (Archbishop Sudbury)",
+        "Woody Norman (King Richard II)",
+        "Tom Hollander (Treasurer Hales)",
+        "Cosmo Jarvis (Wat Tyler)"
+      ],
+      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "The Uprising|235|Paul Greengrass"
     },
     {
       "id": "tmdb-1003596",
@@ -180,6 +215,38 @@
       "impronta": "La bola negra|173|Javier Ambrossi"
     },
     {
+      "id": "tmdb-1263337",
+      "tmdbId": 1263337,
+      "imdbId": "tt7526136",
+      "origine": "trailer",
+      "titolo": "Heart of the Beast - Nel profondo selvaggio",
+      "titoloOriginale": "Heart of the Beast",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-24",
+      "regia": "David Ayer",
+      "generi": [
+        "Avventura",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 95,
+      "tagline": "Solo insieme potranno sopravvivere.",
+      "cast": [
+        "Brad Pitt (James Belmont)",
+        "J.K. Simmons (Watkins)",
+        "Anna Lambe (Amber)",
+        "Justin Melnick (Military Soldier)",
+        "Shaun DeZern (Military Soldier)"
+      ],
+      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+      "motivi": [
+        "avventura e thriller: il tuo terreno"
+      ],
+      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
+    },
+    {
       "id": "tmdb-858035",
       "tmdbId": 858035,
       "imdbId": "tt14371256",
@@ -214,38 +281,6 @@
         "fantascienza e dramma: il tuo terreno"
       ],
       "impronta": "Klara e il sole|412|Taika Waititi"
-    },
-    {
-      "id": "tmdb-1263337",
-      "tmdbId": 1263337,
-      "imdbId": "tt7526136",
-      "origine": "trailer",
-      "titolo": "Heart of the Beast - Nel profondo selvaggio",
-      "titoloOriginale": "Heart of the Beast",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-24",
-      "regia": "David Ayer",
-      "generi": [
-        "Avventura",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 95,
-      "tagline": "Solo insieme potranno sopravvivere.",
-      "cast": [
-        "Brad Pitt (James Belmont)",
-        "J.K. Simmons (Watkins)",
-        "Anna Lambe (Amber)",
-        "Justin Melnick (Military Soldier)",
-        "Shaun DeZern (Military Soldier)"
-      ],
-      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-      "motivi": [
-        "avventura e thriller: il tuo terreno"
-      ],
-      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     },
     {
       "id": "tmdb-1153576",
@@ -336,341 +371,349 @@
       "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
-      "id": "tmdb-49797",
-      "tmdbId": 49797,
-      "imdbId": "tt1588170",
+      "id": "tmdb-378064",
+      "tmdbId": 378064,
+      "imdbId": "tt5323662",
       "origine": "scoperta",
-      "titolo": "I Saw the Devil",
-      "titoloOriginale": "악마를 보았다",
-      "anno": "2010",
-      "uscitaItalia": "2010-08-12",
-      "regia": "김지운",
+      "titolo": "La Forma della Voce",
+      "titoloOriginale": "映画 聲の形",
+      "anno": "2017",
+      "uscitaItalia": "2017-10-24",
+      "regia": "山田尚子",
       "generi": [
-        "Thriller",
-        "Horror"
-      ],
-      "paesi": [
-        "Corea del Sud"
-      ],
-      "durata": 141,
-      "tagline": null,
-      "cast": [
-        "Lee Byung-hun (Kim Soo-hyeon)",
-        "최민식 (Kyung-chul)",
-        "전국환 (Squad Chief Jang)",
-        "천호진 (Section Chief Oh)",
-        "오산하 (Joo-yeon)",
-        "김윤서 (Se-yeon)"
-      ],
-      "tramaTmdb": "Dopo aver scoperto che la sua fidanzata è stata brutalmente uccisa, l'agente segreto Dae-Hoon è a pezzi. Con l'aiuto di suo suocero, mette a punto un piano per scovare l'assassino e vendicarsi. Presto riesce a identificarlo e lo massacra, senza però ucciderlo. Vuole continuare a provare il gusto di inseguire la sua preda per servirgli una vendetta ancor più dolorosa e spaventosa.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "I Saw the Devil|382|김지운"
-    },
-    {
-      "id": "tmdb-290098",
-      "tmdbId": 290098,
-      "imdbId": "tt4016934",
-      "origine": "scoperta",
-      "titolo": "Mademoiselle",
-      "titoloOriginale": "아가씨",
-      "anno": "2016",
-      "uscitaItalia": "2016-07-08",
-      "regia": "Park Chan-wook",
-      "generi": [
-        "Thriller",
+        "Animazione",
         "Dramma",
         "Romance"
       ],
       "paesi": [
-        "Corea del Sud"
+        "Giappone"
       ],
-      "durata": 144,
+      "durata": 130,
+      "tagline": "Ascolta con il cuore e capirai!",
+      "cast": [
+        "Miyu Irino (Shouya Ishida (voice))",
+        "Saori Hayami (Shouko Nishimiya (voice))",
+        "Aoi Yuuki (Yuzuru Nishimiya (voice))",
+        "小野賢章 (Tomohiro Nagatsuka (voice))",
+        "金子有希 (Naoka Ueno (voice))",
+        "石川由依 (Miyoko Sahara (voice))"
+      ],
+      "tramaTmdb": "Ogaki. Il liceale Shoya Ishida sta per saltare dal ponte per suicidarsi, ma all'ultimo desiste. Cinque anni prima, ai tempi della scuola elementare, nella classe di Shoya arriva Shoko Nishimiya, una ragazza sordomuta: l'accoglienza dei suoi compagni da timida diviene in breve tempo ostile. Per quanto Shoko si sforzi di essere gentile e disponibile con tutti, un gruppetto, capitanato da Shoya, si accanisce contro di lei. Cinque anni dopo Shoya ancora non è in grado di darsi pace per i torti inflitti a Shoko, anche perché la conseguenza delle sue azioni passate è la totale solitudine.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "La Forma della Voce|589|山田尚子"
+    },
+    {
+      "id": "tmdb-587",
+      "tmdbId": 587,
+      "imdbId": "tt0319061",
+      "origine": "scoperta",
+      "titolo": "Big Fish - Le storie di una vita incredibile",
+      "titoloOriginale": "Big Fish",
+      "anno": "2003",
+      "uscitaItalia": "2003-12-31",
+      "regia": "Tim Burton",
+      "generi": [
+        "Avventura",
+        "Fantasy",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 125,
       "tagline": null,
       "cast": [
-        "Kim Min-hee (Lady Hideko)",
-        "Kim Tae-ri (Sook-hee)",
-        "Ha Jung-woo (Count Fujiwara)",
-        "Cho Jin-woong (Uncle Kouzuki)",
-        "Kim Hae-sook (Ms. Sasaki)",
-        "Moon So-ri (Hideko's Aunt)"
+        "Ewan McGregor (Ed Bloom (young))",
+        "Albert Finney (Ed Bloom (senior))",
+        "Billy Crudup (Will Bloom)",
+        "Jessica Lange (Sandra Bloom (senior))",
+        "Helena Bonham Carter (Jenny (young & senior) / The Witch)",
+        "Alison Lohman (Sandra Bloom (young))"
       ],
-      "tramaTmdb": "La giovane ereditiera Hideko, alle soglie della maggiore età, è orfana di entrambi i genitori ed ha perso una zia, sorella della madre, cui era particolarmente legata. Vive quasi reclusa nella grande villa dello zio, un ricco collezionista di libri erotici che intende sposarla per impadronirsi del suo patrimonio.  Uno spregiudicato truffatore, che da tempo si fa chiamare Conte Fujiwara millantando origini nobiliari, riesce a far assumere come domestica di Hideko l'abile borseggiatrice Sook-hee. Egli intende servirsi della ragazza per scardinare l'equilibrio della casa, sposare Hideko, mettere ",
+      "tramaTmdb": "Edward Bloom crede che un uomo, a furia di raccontare delle storie, diventi lui stesso quelle storie. Infatti è solito narrare, fra lo stupore di chi lo circonda, storie fantastiche e assurde riguardanti la sua vita: dall'incontro con un uomo alto 5 metri, a quello con una strega con un occhio di vetro capace di mostrare alle persone che vi guardano dentro il momento della propria morte. Suo figlio William, però, non apprezza questa sua presunta mancanza di serietà e per questo con il tempo si allontana da suo padre. Quando Edward si ammala gravemente Will intraprende un personale viaggio alla",
       "motivi": [
-        "dramma: il tuo terreno"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Mademoiselle|600|Park Chan-wook"
+      "impronta": "Big Fish - Le storie di una vita incredibile|600|Tim Burton"
     },
     {
-      "id": "tmdb-117",
-      "tmdbId": 117,
-      "imdbId": "tt0094226",
+      "id": "tmdb-610150",
+      "tmdbId": 610150,
+      "imdbId": "tt14614892",
       "origine": "scoperta",
-      "titolo": "The Untouchables - Gli intoccabili",
-      "titoloOriginale": "The Untouchables",
-      "anno": "1987",
-      "uscitaItalia": "1987-10-01",
-      "regia": "Brian De Palma",
+      "titolo": "Dragon Ball Super - Super Hero",
+      "titoloOriginale": "ドラゴンボール超 スーパーヒーロー",
+      "anno": "2022",
+      "uscitaItalia": "2022-09-29",
+      "regia": "児玉徹郎",
       "generi": [
-        "Crime",
-        "Storia",
-        "Thriller"
+        "Animazione",
+        "Fantascienza",
+        "Azione"
       ],
       "paesi": [
-        "USA"
+        "Giappone"
       ],
-      "durata": 119,
-      "tagline": "Cosa sei pronto a fare?",
+      "durata": 120,
+      "tagline": null,
       "cast": [
-        "Kevin Costner (Eliot Ness)",
-        "Sean Connery (Jim Malone)",
-        "Robert De Niro (Al Capone)",
-        "Charles Martin Smith (Oscar Wallace)",
-        "Andy Garcia (George Stone)",
-        "Richard Bradford (Mike)"
+        "Masako Nozawa (Son Goku / Son Gohan / Son Goten / Gotenks (voice))",
+        "Toshio Furukawa (Piccolo (voice))",
+        "Yuko Minaguchi (Pan / Videl (voice))",
+        "Hiroshi Kamiya (Gamma #1 (voice))",
+        "Mamoru Miyano (Gamma #2 (voice))",
+        "Miyu Irino (Dr. Hedo (voice))"
       ],
-      "tramaTmdb": "A Chicago nel 1930, durante il Proibizionismo, Al Capone domina ormai incontrastato la malavita, avendo sterminato senza pietà le bande rivali e seminando il terrore nella città con le sue crudeli vendette. Il commercio clandestino degli alcolici, sua principale attività, è per lui una fonte di guadagno enorme e, per mantenerne l'esclusiva, egli non solo usa ogni sorta di violenze, ma si serve della corruzione su vasta scala, che gli consente di avere complici e spie perfino fra le autorità cittadine e la stessa polizia. Eliot Ness, un giovane agente del Dipartimento del tesoro, viene incarica",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "The Untouchables - Gli intoccabili|600|Brian De Palma"
-    },
-    {
-      "id": "tmdb-100402",
-      "tmdbId": 100402,
-      "imdbId": "tt1843866",
-      "origine": "scoperta",
-      "titolo": "Captain America: The Winter Soldier",
-      "titoloOriginale": "Captain America: The Winter Soldier",
-      "anno": "2014",
-      "uscitaItalia": "2014-03-26",
-      "regia": "Joe Russo",
-      "generi": [
-        "Azione",
-        "Avventura",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 136,
-      "tagline": "Noi crediamo nei nostri eroi",
-      "cast": [
-        "Chris Evans (Steve Rogers / Captain America)",
-        "Samuel L. Jackson (Nick Fury)",
-        "Scarlett Johansson (Natasha Romanoff / Black Widow)",
-        "Robert Redford (Alexander Pierce)",
-        "Sebastian Stan (Bucky Barnes / Winter Soldier)",
-        "Anthony Mackie (Sam Wilson / Falcon)"
-      ],
-      "tramaTmdb": "Ambientatosi nei nostri giorni Steve Rogers continua a servire gli Stati Uniti attraverso lo S.H.I.E.L.D., nonostante non sia contento della poca trasparenza e delle scarse informazioni che riceve su quel che fa. Quando anche Nick Fury comincia a scoprire che ci sono dati ed elementi che sono preclusi anche a lui è evidente che tutta la struttura serve un doppio fine. Se non bastassero le intuizioni arrivano diversi attacchi (a Fury in primis) a scoprire le carte e mostrare chi sia la talpa dentro l'organizzazione. Fuggito assieme a Vedova Nera e un reduce che forse può dare una mano, Capitan ",
+      "tramaTmdb": "Goku è nuovamente alle prese con l'Esercito del Fiocco Rosso. Nonostante il Super Saiyan abbia già distrutto questo nemico, alcuni fedeli hanno tenuto vivo lo spirito dell'esercito e sono pronti a scendere di nuovo in battaglia, dopo aver creato gli Androidi perfetti, Gamma 1 e Gamma 2. I due androidi sono stati incaricati di attaccare Piccolo e Gohan, cosicché il nuovo Esercito del Fiocco Rosso possa riuscire indisturbato a portare a termine la sua missione. Solo una persona può fronteggiare questa minaccia, occorre, infatti, che il Super Hero si risvegli...",
       "motivi": [
         "fantascienza: il tuo terreno"
       ],
-      "impronta": "Captain America: The Winter Soldier|600|Joe Russo"
+      "impronta": "Dragon Ball Super - Super Hero|565|児玉徹郎"
     },
     {
-      "id": "tmdb-1204680",
-      "tmdbId": 1204680,
-      "imdbId": "tt1756855",
+      "id": "tmdb-696374",
+      "tmdbId": 696374,
+      "imdbId": "tt11316854",
       "origine": "scoperta",
-      "titolo": "Coyote vs. Acme",
-      "titoloOriginale": "Coyote vs. Acme",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-02",
-      "regia": "Dave Green",
+      "titolo": "Gabriel's Inferno",
+      "titoloOriginale": "Gabriel's Inferno",
+      "anno": "2020",
+      "uscitaItalia": "2020-05-29",
+      "regia": "Tosca Musk",
       "generi": [
-        "Commedia",
+        "Romance",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 122,
+      "tagline": null,
+      "cast": [
+        "Melanie Zanetti (Julianne Mitchell)",
+        "Giulio Berruti (Gabriel Emerson)",
+        "Kurt McKinney (Tom Mitchell)",
+        "Agnes Albright (Paulina)",
+        "Margaux Brooke (Christa Peterson)",
+        "Ned Van Zandt (Professor Jeremy Martin)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Gabriel's Inferno|0|Tosca Musk"
+    },
+    {
+      "id": "tmdb-522402",
+      "tmdbId": 522402,
+      "imdbId": "tt3420504",
+      "origine": "scoperta",
+      "titolo": "Finch",
+      "titoloOriginale": "Finch",
+      "anno": "2021",
+      "uscitaItalia": "2021-11-04",
+      "regia": "Miguel Sapochnik",
+      "generi": [
+        "Fantascienza",
+        "Dramma",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA",
+        "India"
+      ],
+      "durata": 116,
+      "tagline": null,
+      "cast": [
+        "Tom Hanks (Finch)",
+        "Caleb Landry Jones (Jeff (voice))",
+        "Oscar Avila (Truck Driver (Flashback))",
+        "Lora Martinez-Cunningham (Mother (Flashback))",
+        "Marie Wagenman (Daughter (Flashback))",
+        "Emily Jones (Warning System (voice))"
+      ],
+      "tramaTmdb": "Finch è un uomo che intraprende un viaggio intenso e toccante in un mondo pericoloso e in preda alla devastazione, per trovare una nuova casa alla sua improbabile famiglia: l’amatissimo cane e il robot che ha appena finito di costruire.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Finch|236|Miguel Sapochnik"
+    },
+    {
+      "id": "tmdb-527774",
+      "tmdbId": 527774,
+      "imdbId": "tt5109280",
+      "origine": "scoperta",
+      "titolo": "Raya e l'ultimo drago",
+      "titoloOriginale": "Raya and the Last Dragon",
+      "anno": "2021",
+      "uscitaItalia": "2021-03-05",
+      "regia": "Don Hall",
+      "generi": [
+        "Animazione",
+        "Azione",
         "Avventura",
+        "Fantasy",
         "Famiglia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 98,
-      "tagline": "Lui non si arrende. Mai.",
+      "durata": 107,
+      "tagline": null,
       "cast": [
-        "Will Forte (Kevin Avery)",
-        "Lana Condor (Paige Avery)",
-        "John Cena (Buddy Crane)",
-        "Tone Bell (Sal Maltese)",
-        "Martha Kelly (Dottie Jones)",
-        "Luis Guzmán (Judge Troppogrosso)"
+        "Kelly Marie Tran (Raya (voice))",
+        "Awkwafina (Sisu (voice))",
+        "Gemma Chan (Namaari (voice))",
+        "Alan Tudyk (Tuk Tuk (voice))",
+        "Izaac Wang (Boun (voice))",
+        "Benedict Wong (Tong (voice))"
       ],
-      "tramaTmdb": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+      "tramaTmdb": "500 anni fa la nazione di Kumandra univa popoli differenti sotto il pacifico presidio dei Draghi. Finché i Druun, entità malvagie, non si sono diffusi tra gli uomini, agevolati dalla loro cupidigia e discordia, finendo per trasformare ogni forma vivente in pietra. Solo il sacrificio dei Draghi permise all'umanità di salvarsi: il segreto del loro potere è rimasto racchiuso in una gemma magica, unica arma di difesa contro i Druun. Oggi Kumandra non esiste più, divisa tra nazioni belligeranti, che corrispondono ad altrettante \"parti\" del drago: Zanna, Artiglio, Cuore, Dorso e Coda. Raya, principe",
       "motivi": [
-        "se ne parla adesso"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Coyote vs. Acme|518|Dave Green"
+      "impronta": "Raya e l'ultimo drago|600|Don Hall"
     },
     {
-      "id": "tmdb-914",
-      "tmdbId": 914,
-      "imdbId": "tt0032553",
+      "id": "tmdb-569094",
+      "tmdbId": 569094,
+      "imdbId": "tt9362722",
       "origine": "scoperta",
-      "titolo": "Il grande dittatore",
-      "titoloOriginale": "The Great Dictator",
-      "anno": "1946",
-      "uscitaItalia": "1946-04-08",
-      "regia": "Charlie Chaplin",
+      "titolo": "Spider-Man: Across the Spider-Verse",
+      "titoloOriginale": "Spider-Man: Across the Spider-Verse",
+      "anno": "2023",
+      "uscitaItalia": "2023-06-01",
+      "regia": "Kemp Powers",
       "generi": [
-        "Commedia",
-        "Guerra"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 126,
-      "tagline": "Qualsiasi somiglianza tra il dittatore Hynkel e il barbiere ebreo è puramente casuale.",
-      "cast": [
-        "Charlie Chaplin (Adenoid Hynkel, Dictator of Tomania / A Jewish Barber)",
-        "Paulette Goddard (Hannah)",
-        "Jack Oakie (Benzino Napaloni, Dictator of Bacteria)",
-        "Reginald Gardiner (Commander Schultz)",
-        "Henry Daniell (Garbitsch)",
-        "Billy Gilbert (Field Marshal Herring)"
-      ],
-      "tramaTmdb": "In Tomania il dittatore Adenoid Hynkel scatena la repressione contro gli ebrei. La bella Hannah e il suo innamorato, un barbiere straordinariamente somigliante a Hynkel, fuggono. Il barbiere, dapprima catturato, scappa dal lager e si imbatte per caso nel vero dittatore che viene arrestato in vece sua. Dai microfoni del führer il barbiere pronuncia al mondo un lungo messaggio di pace e speranza.  Primo film interamente parlato di Chaplin, è una geniale satira antinazista realizzata quando le armate del Terzo Reich avevano ormai soggiogato l'intera Europa. Tra le sequenze da antologia, la danza ",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Il grande dittatore|600|Charlie Chaplin"
-    },
-    {
-      "id": "tmdb-68718",
-      "tmdbId": 68718,
-      "imdbId": "tt1853728",
-      "origine": "scoperta",
-      "titolo": "Django Unchained",
-      "titoloOriginale": "Django Unchained",
-      "anno": "2013",
-      "uscitaItalia": "2013-01-17",
-      "regia": "Quentin Tarantino",
-      "generi": [
-        "Dramma",
-        "Western"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 165,
-      "tagline": "Gli hanno tolto la libertà. Lui gli toglierà ogni cosa.",
-      "cast": [
-        "Jamie Foxx (Django Freeman)",
-        "Christoph Waltz (Dr. King Schultz)",
-        "Leonardo DiCaprio (Calvin J. Candie)",
-        "Kerry Washington (Broomhilda von Shaft)",
-        "Samuel L. Jackson (Stephen)",
-        "Walton Goggins (Billy Crash)"
-      ],
-      "tramaTmdb": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schia",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Django Unchained|600|Quentin Tarantino"
-    },
-    {
-      "id": "tmdb-766507",
-      "tmdbId": 766507,
-      "imdbId": "tt11866324",
-      "origine": "scoperta",
-      "titolo": "Prey",
-      "titoloOriginale": "Prey",
-      "anno": "2022",
-      "uscitaItalia": "2022-08-05",
-      "regia": "Dan Trachtenberg",
-      "generi": [
-        "Thriller",
+        "Animazione",
         "Azione",
+        "Avventura",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 100,
-      "tagline": "Lui sa cacciare. Io so sopravvivere.",
+      "durata": 140,
+      "tagline": "È come indossi la maschera che conta.",
       "cast": [
-        "Amber Midthunder (Naru)",
-        "Dakota Beavers (Taabe)",
-        "Michelle Thrush (Aruka)",
-        "Stormee Kipp (Wasape)",
-        "Julian Black Antelope (Chief Kehetu)",
-        "Dane DiLiegro (Predator)"
+        "Shameik Moore (Miles Morales (voice))",
+        "Hailee Steinfeld (Gwen Stacy (voice))",
+        "Brian Tyree Henry (Jeff Morales (voice))",
+        "Luna Lauren Vélez (Rio Morales (voice))",
+        "Jake Johnson (Peter B. Parker (voice))",
+        "Oscar Isaac (Miguel O'Hara (voice))"
       ],
-      "tramaTmdb": "Nei territori Comanche del 1719, la giovane Naru cerca di dimostrarsi una cacciatrice al pari dei giovani maschi della comunità, guidati da suo fratello Taabe. Ha la sua occasione quando si unisce a una spedizione di caccia. Strada facendo, incontra le tracce di un altro predatore del quale credono sia un orso. Invece, questo predatore è determinato a cercare sfide di caccia degne di sé, avvantaggiato da una sorta di invisibilità. La sua superiorità sembra insuperabile persino per i più esperti cacciatori.",
+      "tramaTmdb": "Dopo essersi riunito con Gwen Stacy, l'amichevole Spider-Man di Brooklyn Miles Morales viene catapultato nelle pieghe del multiverso, dove incontra la squadra di Spider-Eroi incaricata di proteggerne l'esistenza. Ma quando i protettori del multiverso si dimostrano intransigenti sul modo migliore per affrontare una nuova e temibile minaccia, Miles si ritrova solo contro gli altri Spider-Eroi a difendere il suo punto di vista. Tutto, pur di salvare la persona che ama di più al mondo.",
       "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Prey|511|Dan Trachtenberg"
-    },
-    {
-      "id": "tmdb-13855",
-      "tmdbId": 13855,
-      "imdbId": "tt1190539",
-      "origine": "scoperta",
-      "titolo": "The Chaser",
-      "titoloOriginale": "추격자",
-      "anno": "2008",
-      "uscitaItalia": "2008-02-14",
-      "regia": "나홍진",
-      "generi": [
-        "Crime",
-        "Thriller",
-        "Azione"
-      ],
-      "paesi": [
-        "Corea del Sud"
-      ],
-      "durata": 125,
-      "tagline": "Il cacciatore e la preda, l'ultimo inseguimento comincia",
-      "cast": [
-        "김윤석 (Eom Jung-ho)",
-        "Ha Jung-woo (Ji Young-min)",
-        "서영희 (Kim Mi-jin)",
-        "김유정 (Eun-ji)",
-        "정인기 (Detective Lee)",
-        "최정우 (Chief of Police)"
-      ],
-      "tramaTmdb": "Jung-ho è un ex-poliziotto passato dall'altra parte della barricata che fa il protettore per un gruppo di prostitute. Ha però un problema: da qualche tempo alcune delle sue ragazze sono sparite. Quando riceve una chiamata da un cliente manda una delle sue ragazze, Mi-Jin, ma si accorge che c'è un legame tra il numero di telefono del cliente e le ragazze scomparse: prima di sparire erano tutte state richieste da quell'uomo. Inizia così una frenetica ricerca per salvare Mi-Jin, sperando di ritrovarla ancora in vita.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "The Chaser|519|나홍진"
-    },
-    {
-      "id": "tmdb-128",
-      "tmdbId": 128,
-      "imdbId": "tt0119698",
-      "origine": "scoperta",
-      "titolo": "Princess Mononoke",
-      "titoloOriginale": "もののけ姫",
-      "anno": "2000",
-      "uscitaItalia": "2000-05-19",
-      "regia": "Hayao Miyazaki",
-      "generi": [
-        "Avventura",
-        "Fantasy",
-        "Animazione"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 134,
-      "tagline": "Il destino del mondo é affidato a un solo eroe.",
-      "cast": [
-        "松田洋治 (Ashitaka (voice))",
-        "石田ゆり子 (San / Kaya (voice))",
-        "田中裕子 (Eboshi Gozen (voice))",
-        "Kaoru Kobayashi (Jikobo (voice))",
-        "Masahiko Nishimura (Kouroku (voice))",
-        "上條恒彦 (Gonza (voice))"
-      ],
-      "tramaTmdb": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giusti",
-      "motivi": [
+        "c'è Oscar Isaac, che hai visto 2 volte",
         "un classico che ti manca"
       ],
-      "impronta": "Princess Mononoke|600|Hayao Miyazaki"
+      "impronta": "Spider-Man: Across the Spider-Verse|486|Kemp Powers"
+    },
+    {
+      "id": "tmdb-25237",
+      "tmdbId": 25237,
+      "imdbId": "tt0091251",
+      "origine": "scoperta",
+      "titolo": "Va' e vedi",
+      "titoloOriginale": "Иди и смотри",
+      "anno": "1985",
+      "uscitaItalia": "1985-10-17",
+      "regia": "Элем Климов",
+      "generi": [
+        "Dramma",
+        "Guerra",
+        "Horror",
+        "Storia"
+      ],
+      "paesi": [
+        "Soviet Union"
+      ],
+      "durata": 142,
+      "tagline": null,
+      "cast": [
+        "Алексей Кравченко (Flyora Gayshun)",
+        "Ольга Миронова (Glasha)",
+        "Liubomiras Laucevičius (Kosach)",
+        "Vladas Bagdonas (Rubezh)",
+        "Jüri Lumiste (Obersturmführer)",
+        "Viktors Lorencs (Sturmbannführer)"
+      ],
+      "tramaTmdb": "Protagonista della dolorosa vicenda è un ragazzo di sedici anni, originario della Bielorussia, che vive la seconda guerra mondiale con lo strazio di un'adolescenza sprecata e la ferma convinzione che chi uccide deve pagare, perché nessuno ha il diritto di togliere la vita a un altro essere umano.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Va' e vedi|297|Элем Климов"
+    },
+    {
+      "id": "tmdb-583689",
+      "tmdbId": 583689,
+      "imdbId": "tt6432466",
+      "origine": "scoperta",
+      "titolo": "Girl power - La rivoluzione comincia a scuola",
+      "titoloOriginale": "Moxie",
+      "anno": "2021",
+      "uscitaItalia": "2021-03-03",
+      "regia": "Amy Poehler",
+      "generi": [
+        "Commedia",
+        "Dramma",
+        "Musica"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": null,
+      "cast": [
+        "Hadley Robinson (Vivian Carter)",
+        "Lauren Tsai (Claudia)",
+        "Alycia Pascual-Peña (Lucy Hernandez)",
+        "Nico Hiraga (Seth Acosta)",
+        "Sabrina Haskett (Kaitlynn Price)",
+        "Patrick Schwarzenegger (Mitchell Wilson)"
+      ],
+      "tramaTmdb": "Ispirata dal passato ribelle della mamma e da una nuova amica, una timida sedicenne pubblica una fanzine anonima denunciando il sessismo nella scuola che frequenta.",
+      "motivi": [
+        "regia di Curry Barker, che segui"
+      ],
+      "impronta": "Girl power - La rivoluzione comincia a scuola|164|Amy Poehler"
+    },
+    {
+      "id": "tmdb-11036",
+      "tmdbId": 11036,
+      "imdbId": "tt0332280",
+      "origine": "scoperta",
+      "titolo": "Le pagine della nostra vita",
+      "titoloOriginale": "The Notebook",
+      "anno": "2005",
+      "uscitaItalia": "2005-06-24",
+      "regia": "Nick Cassavetes",
+      "generi": [
+        "Romance",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 123,
+      "tagline": "Dietro ogni grande amore c'è una grande storia",
+      "cast": [
+        "Ryan Gosling (Noah Calhoun)",
+        "Rachel McAdams (Allie Hamilton)",
+        "Gena Rowlands (Older Allie)",
+        "James Garner (Older Noah 'Duke')",
+        "Joan Allen (Anne Hamilton)",
+        "David Thornton (John Hamilton)"
+      ],
+      "tramaTmdb": "Negli anni '40, una ragazza arriva nella cittadina costiera di Seabrook, nel Nord Carolina, per trascorrervi l'estate con la sua famiglia. Ancora adolescente, Allie Hamilton incontra un ragazzo del posto, Noah Calhoun in un Luna Park. Immediatamente, Noah sente che lui e Allie sono fatti per stare insieme. Benchè lei provenga da una famiglia facoltosa e lui sia un semplice operaio, nel corso di una appassionata e spensierata estate del sud i due si innamorano profondamente. E la loro vita cambierà...",
+      "motivi": [
+        "c'è Ryan Gosling, che hai visto 3 volte",
+        "c'è Ryan Gosling, che hai visto 3 volte"
+      ],
+      "impronta": "Le pagine della nostra vita|505|Nick Cassavetes"
     }
   ]
 }
