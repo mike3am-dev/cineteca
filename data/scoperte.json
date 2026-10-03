@@ -1,824 +1,786 @@
 {
-  "aggiornato": "2026-10-02T05:07:03.258Z",
-  "giorno": "2026-10-02",
+  "aggiornato": "2026-10-03T05:06:14.267Z",
+  "giorno": "2026-10-03",
   "film": [
     {
-      "tmdbId": 378064,
-      "imdbId": "tt5323662",
-      "title": "La Forma della Voce",
-      "originalTitle": "映画 聲の形",
-      "release": "2017-10-24",
-      "releaseFonte": "IT",
+      "tmdbId": 618344,
+      "imdbId": "tt11079148",
+      "title": "Justice League Dark: Apokolips War",
+      "originalTitle": "Justice League Dark: Apokolips War",
+      "release": "2020-05-05",
+      "releaseFonte": "globale",
       "genres": [
         "Animazione",
-        "Dramma",
-        "Romance"
-      ],
-      "countries": [
-        "Giappone"
-      ],
-      "runtime": 130,
-      "plot": "Ogaki. Il liceale Shoya Ishida sta per saltare dal ponte per suicidarsi, ma all'ultimo desiste. Cinque anni prima, ai tempi della scuola elementare, nella classe di Shoya arriva Shoko Nishimiya, una ragazza sordomuta: l'accoglienza dei suoi compagni da timida diviene in breve tempo ostile. Per quanto Shoko si sforzi di essere gentile e disponibile con tutti, un gruppetto, capitanato da Shoya, si accanisce contro di lei. Cinque anni dopo Shoya ancora non è in grado di darsi pace per i torti inflitti a Shoko, anche perché la conseguenza delle sue azioni passate è la totale solitudine.",
-      "tagline": "Ascolta con il cuore e capirai!",
-      "poster": "/kebTSlQRdLCh8sLqkh0B0KaR8i.jpg",
-      "backdrop": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
-      "director": "山田尚子",
-      "cast": [
-        "Miyu Irino",
-        "Saori Hayami",
-        "Aoi Yuuki",
-        "小野賢章",
-        "金子有希"
-      ],
-      "castDetail": [
-        {
-          "name": "Miyu Irino",
-          "character": "Shouya Ishida (voice)",
-          "profile": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
-        },
-        {
-          "name": "Saori Hayami",
-          "character": "Shouko Nishimiya (voice)",
-          "profile": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
-        },
-        {
-          "name": "Aoi Yuuki",
-          "character": "Yuzuru Nishimiya (voice)",
-          "profile": "/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
-        },
-        {
-          "name": "小野賢章",
-          "character": "Tomohiro Nagatsuka (voice)",
-          "profile": "/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg"
-        },
-        {
-          "name": "金子有希",
-          "character": "Naoka Ueno (voice)",
-          "profile": "/pqbqe4CxC6t94ptUW2tJfK5j2J2.jpg"
-        },
-        {
-          "name": "石川由依",
-          "character": "Miyoko Sahara (voice)",
-          "profile": "/zptGIN1iklKJL1xrfHKOpxR2qJ9.jpg"
-        },
-        {
-          "name": "潘めぐみ",
-          "character": "Miki Kawai (voice)",
-          "profile": "/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg"
-        },
-        {
-          "name": "豊永利行",
-          "character": "Satoshi Mashiba (voice)",
-          "profile": "/duhxGjWjgo6WagvGgKu529ztz7u.jpg"
-        }
-      ],
-      "tmdbRating": 8.397,
-      "tmdbVotes": 4704,
-      "popularity": 16.665,
-      "trailer": "https://www.youtube.com/watch?v=HiBUNtTrwjs",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-02"
-    },
-    {
-      "tmdbId": 587,
-      "imdbId": "tt0319061",
-      "title": "Big Fish - Le storie di una vita incredibile",
-      "originalTitle": "Big Fish",
-      "release": "2003-12-31",
-      "releaseFonte": "IT",
-      "genres": [
+        "Azione",
         "Avventura",
-        "Fantasy",
-        "Dramma"
+        "Fantasy"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 125,
-      "plot": "Edward Bloom crede che un uomo, a furia di raccontare delle storie, diventi lui stesso quelle storie. Infatti è solito narrare, fra lo stupore di chi lo circonda, storie fantastiche e assurde riguardanti la sua vita: dall'incontro con un uomo alto 5 metri, a quello con una strega con un occhio di vetro capace di mostrare alle persone che vi guardano dentro il momento della propria morte. Suo figlio William, però, non apprezza questa sua presunta mancanza di serietà e per questo con il tempo si allontana da suo padre. Quando Edward si ammala gravemente Will intraprende un personale viaggio alla",
-      "tagline": null,
-      "poster": "/5xVQarJsbYJ8MmoogwbVfnPjqcq.jpg",
-      "backdrop": "/bLqUd0tBvKezDr9MEla7k34i3rp.jpg",
-      "director": "Tim Burton",
+      "runtime": 90,
+      "plot": "Dopo gli eventi di Justice League: War, Darkside lancia un secondo e definitivo attacco alla Terra. Constantine, Superman e Raven sono i tre eroi che si incaricano di radunare gli eroi, e non solo, terrestri per respingere l’invasione da Apokolips.",
+      "tagline": "La guerra per porre fine a tutte le guerre.",
+      "poster": "/5cmSUUHvWsYuNZy1JXG7PU9a7DA.jpg",
+      "backdrop": "/miChhr7EXynB2R5JLvMcz2oBgi2.jpg",
+      "director": "Matt Peters",
       "cast": [
-        "Ewan McGregor",
-        "Albert Finney",
-        "Billy Crudup",
-        "Jessica Lange",
-        "Helena Bonham Carter"
+        "Matt Ryan",
+        "Jerry O'Connell",
+        "Taissa Farmiga",
+        "Jason O'Mara",
+        "Rosario Dawson"
       ],
       "castDetail": [
         {
-          "name": "Ewan McGregor",
-          "character": "Ed Bloom (young)",
-          "profile": "/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+          "name": "Matt Ryan",
+          "character": "John Constantine (voice)",
+          "profile": "/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg"
         },
         {
-          "name": "Albert Finney",
-          "character": "Ed Bloom (senior)",
-          "profile": "/a2qJxu55s97ySRdjsy2ywIXJvhf.jpg"
+          "name": "Jerry O'Connell",
+          "character": "Clark Kent / Superman (voice)",
+          "profile": "/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
         },
         {
-          "name": "Billy Crudup",
-          "character": "Will Bloom",
-          "profile": "/4kHvUUVFMW8GJTHJtoAiskqhcyO.jpg"
+          "name": "Taissa Farmiga",
+          "character": "Rachel Roth / Raven (voice)",
+          "profile": "/jMDY4rFh2SFINj0wzoX10Roye3n.jpg"
         },
         {
-          "name": "Jessica Lange",
-          "character": "Sandra Bloom (senior)",
-          "profile": "/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+          "name": "Jason O'Mara",
+          "character": "Bruce Wayne / Batman (voice)",
+          "profile": "/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg"
         },
         {
-          "name": "Helena Bonham Carter",
-          "character": "Jenny (young & senior) / The Witch",
-          "profile": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+          "name": "Rosario Dawson",
+          "character": "Diana Prince / Wonder Woman (voice)",
+          "profile": "/siTzOI810a0K46wv1TORXMw5N7J.jpg"
         },
         {
-          "name": "Alison Lohman",
-          "character": "Sandra Bloom (young)",
-          "profile": "/i5oXlQE2d0OP9HrEYo7V5JXbdWL.jpg"
+          "name": "Stuart Allan",
+          "character": "Damian Wayne / Robin (voice)",
+          "profile": "/xCAGTIcgC7J6YCl2bviIADY8blp.jpg"
         },
         {
-          "name": "Robert Guillaume",
-          "character": "Dr. Bennett (senior)",
-          "profile": "/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+          "name": "Rebecca Romijn",
+          "character": "Lois Lane (voice)",
+          "profile": "/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
         },
         {
-          "name": "Marion Cotillard",
-          "character": "Josephine",
-          "profile": "/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+          "name": "Rainn Wilson",
+          "character": "Lex Luthor (voice)",
+          "profile": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
         }
       ],
-      "tmdbRating": 7.745,
-      "tmdbVotes": 7966,
-      "popularity": 10.8531,
-      "trailer": "https://www.youtube.com/watch?v=E1hlm1wMJ84",
+      "tmdbRating": 8.188,
+      "tmdbVotes": 1637,
+      "popularity": 7.7037,
+      "trailer": "https://www.youtube.com/watch?v=tnCkn5xD2jg",
       "fonte": "avventura: il tuo terreno",
       "categoria": "il tuo genere",
       "perche": "avventura: il tuo terreno",
       "motivi": [
         "avventura: il tuo terreno"
       ],
-      "proposto": "2026-10-02"
+      "proposto": "2026-10-03"
     },
     {
-      "tmdbId": 610150,
-      "imdbId": "tt14614892",
-      "title": "Dragon Ball Super - Super Hero",
-      "originalTitle": "ドラゴンボール超 スーパーヒーロー",
-      "release": "2022-09-29",
-      "releaseFonte": "IT",
+      "tmdbId": 726759,
+      "imdbId": "tt12758060",
+      "title": "Tetris",
+      "originalTitle": "Tetris",
+      "release": "2023-03-15",
+      "releaseFonte": "globale",
       "genres": [
-        "Animazione",
-        "Fantascienza",
-        "Azione"
+        "Thriller",
+        "Storia",
+        "Dramma"
       ],
       "countries": [
-        "Giappone"
+        "Regno Unito"
       ],
-      "runtime": 120,
-      "plot": "Goku è nuovamente alle prese con l'Esercito del Fiocco Rosso. Nonostante il Super Saiyan abbia già distrutto questo nemico, alcuni fedeli hanno tenuto vivo lo spirito dell'esercito e sono pronti a scendere di nuovo in battaglia, dopo aver creato gli Androidi perfetti, Gamma 1 e Gamma 2. I due androidi sono stati incaricati di attaccare Piccolo e Gohan, cosicché il nuovo Esercito del Fiocco Rosso possa riuscire indisturbato a portare a termine la sua missione. Solo una persona può fronteggiare questa minaccia, occorre, infatti, che il Super Hero si risvegli...",
-      "tagline": null,
-      "poster": "/o9gfL3hYnLRiMbyUEWamojOZt2A.jpg",
-      "backdrop": "/uR0FopHrAjDlG5q6PZB07a1JOva.jpg",
-      "director": "児玉徹郎",
+      "runtime": 118,
+      "plot": "Basato sulla storia vera del rappresentante di videogiochi americano Henk Rogers e della sua scoperta di Tetris nel 1988. Intenzionato a diffondere il gioco in tutto il mondo, entrerà in una pericolosa rete di bugie e corruzione dietro la cortina di ferro.",
+      "tagline": "La storia inimmaginabile del famoso videogioco.",
+      "poster": "/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
+      "backdrop": "/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
+      "director": "Jon S. Baird",
       "cast": [
-        "Masako Nozawa",
-        "Toshio Furukawa",
-        "Yuko Minaguchi",
-        "Hiroshi Kamiya",
-        "Mamoru Miyano"
+        "Taron Egerton",
+        "Никита Ефремов",
+        "Софья Лебедева",
+        "Anthony Boyle",
+        "Ben Miles"
       ],
       "castDetail": [
         {
-          "name": "Masako Nozawa",
-          "character": "Son Goku / Son Gohan / Son Goten / Gotenks (voice)",
-          "profile": "/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+          "name": "Taron Egerton",
+          "character": "Henk Rogers",
+          "profile": "/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
         },
         {
-          "name": "Toshio Furukawa",
-          "character": "Piccolo (voice)",
-          "profile": "/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
+          "name": "Никита Ефремов",
+          "character": "Alexey Pajitnov",
+          "profile": "/swwemkQaEJYWlJcxqquXqjdjaoY.jpg"
         },
         {
-          "name": "Yuko Minaguchi",
-          "character": "Pan / Videl (voice)",
-          "profile": "/bEv0ho89VNgWkCCmT2GdNjMAuvZ.jpg"
+          "name": "Софья Лебедева",
+          "character": "Sasha",
+          "profile": "/yeJurGCq0a3eKFGt97jFTrcYV45.jpg"
         },
         {
-          "name": "Hiroshi Kamiya",
-          "character": "Gamma #1 (voice)",
-          "profile": "/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg"
+          "name": "Anthony Boyle",
+          "character": "Kevin Maxwell",
+          "profile": "/jF015vIjbrq72nTzWd2mWcybuiC.jpg"
         },
         {
-          "name": "Mamoru Miyano",
-          "character": "Gamma #2 (voice)",
-          "profile": "/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+          "name": "Ben Miles",
+          "character": "Howard Lincoln",
+          "profile": "/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
         },
         {
-          "name": "Miyu Irino",
-          "character": "Dr. Hedo (voice)",
-          "profile": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+          "name": "山村 憲之介",
+          "character": "Minoru Arakawa",
+          "profile": "/hzAAtzS3NwmwPTqzmH3SSFRz3NS.jpg"
         },
         {
-          "name": "竹内良太",
-          "character": "Carmine (voice)",
-          "profile": "/1PZIIKxOAgn6YexksH6weYnzzhh.jpg"
+          "name": "Игорь Грабузов",
+          "character": "Valentin Trifonov",
+          "profile": "/6QtMjf3suh9Y8T5dBx5udR0bbwI.jpg"
         },
         {
-          "name": "Aya Hisakawa",
-          "character": "Bulma (voice)",
-          "profile": "/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+          "name": "Олег Штефанко",
+          "character": "Belikov",
+          "profile": "/lvbXEyYzFtzg7WSt3i86TtSTDaj.jpg"
         }
       ],
-      "tmdbRating": 7.889,
-      "tmdbVotes": 3088,
-      "popularity": 7.3565,
-      "trailer": "https://www.youtube.com/watch?v=orGutPhmvrE",
-      "fonte": "fantascienza: il tuo terreno",
+      "tmdbRating": 7.8,
+      "tmdbVotes": 2058,
+      "popularity": 13.9384,
+      "trailer": "https://www.youtube.com/watch?v=-BLM1naCfME",
+      "fonte": "thriller: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
+      "perche": "thriller: il tuo terreno",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "proposto": "2026-10-02"
+      "proposto": "2026-10-03"
     },
     {
-      "tmdbId": 696374,
-      "imdbId": "tt11316854",
-      "title": "Gabriel's Inferno",
-      "originalTitle": "Gabriel's Inferno",
-      "release": "2020-05-29",
-      "releaseFonte": "globale",
+      "tmdbId": 599,
+      "imdbId": "tt0043014",
+      "title": "Viale del tramonto",
+      "originalTitle": "Sunset Boulevard",
+      "release": "1951-03-06",
+      "releaseFonte": "IT",
       "genres": [
-        "Romance",
         "Dramma"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 122,
-      "plot": "",
+      "runtime": 100,
+      "plot": "Stagionata star del muto, Norma Desmond si nutre di gloriosi ricordi e vive isolata nella sua villa. Un giovane sceneggiatore al verde la conosce per caso, accetta di scrivere il copione che dovrebbe segnarne il trionfale ritorno alle scene e ne diviene l'amante.",
       "tagline": null,
-      "poster": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
-      "backdrop": "/nIkcTtuhmkl1GZO2LfZi7SwFz7F.jpg",
-      "director": "Tosca Musk",
+      "poster": "/nx6FlG1BMRYrHkUeQ2jJ1o3qL6n.jpg",
+      "backdrop": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+      "director": "Billy Wilder",
       "cast": [
-        "Melanie Zanetti",
-        "Giulio Berruti",
-        "Kurt McKinney",
-        "Agnes Albright",
-        "Margaux Brooke"
+        "William Holden",
+        "Gloria Swanson",
+        "Erich von Stroheim",
+        "Nancy Olson",
+        "Fred Clark"
       ],
       "castDetail": [
         {
-          "name": "Melanie Zanetti",
-          "character": "Julianne Mitchell",
-          "profile": "/lbUQ7ilvBtWMU23reKsHg3jRmsf.jpg"
+          "name": "William Holden",
+          "character": "Joe Gillis",
+          "profile": "/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg"
         },
         {
-          "name": "Giulio Berruti",
-          "character": "Gabriel Emerson",
-          "profile": "/cCOWVvjQ1TblPvM7TgMBqMczkOX.jpg"
+          "name": "Gloria Swanson",
+          "character": "Norma Desmond",
+          "profile": "/rpRersiDZ1TYjqhKvFALzXflZH8.jpg"
         },
         {
-          "name": "Kurt McKinney",
-          "character": "Tom Mitchell",
-          "profile": "/setj0mgP81HdUdBiXF4SU5Gs1Dx.jpg"
+          "name": "Erich von Stroheim",
+          "character": "Max von Mayerling",
+          "profile": "/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
         },
         {
-          "name": "Agnes Albright",
-          "character": "Paulina",
-          "profile": "/39laAb3lRSVQv4NtXzIwuowuFry.jpg"
+          "name": "Nancy Olson",
+          "character": "Betty Schaefer",
+          "profile": "/419ZEkm8PQSp9RS7NXb4yJPDRm4.jpg"
         },
         {
-          "name": "Margaux Brooke",
-          "character": "Christa Peterson",
-          "profile": "/leLl5l6KnjMdg5O48FhDfB7GquI.jpg"
+          "name": "Fred Clark",
+          "character": "Sheldrake",
+          "profile": "/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
         },
         {
-          "name": "Ned Van Zandt",
-          "character": "Professor Jeremy Martin",
-          "profile": "/lJK2Bk79xhP133piZ03p4d6rsD0.jpg"
+          "name": "Lloyd Gough",
+          "character": "Morino",
+          "profile": "/hWyEWTVQ0dy8RE9l2fEkOaKTQwX.jpg"
         },
         {
-          "name": "Vanessa Kai",
-          "character": "Dr. Ling",
-          "profile": "/dhOphvlGOJKwh8jfg33QlmXbc44.jpg"
+          "name": "Jack Webb",
+          "character": "Artie Green",
+          "profile": "/4X6wbZ9wDqVrpDP3WvIJZBLPsLh.jpg"
         },
         {
-          "name": "Zach Holden",
-          "character": "Aaron Webster",
-          "profile": null
+          "name": "Franklyn Farnum",
+          "character": "Undertaker",
+          "profile": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg"
         }
       ],
-      "tmdbRating": 8.381,
-      "tmdbVotes": 2483,
-      "popularity": 4.0423,
-      "trailer": "https://www.youtube.com/watch?v=kgWFjmiqHmQ",
+      "tmdbRating": 8.274,
+      "tmdbVotes": 3044,
+      "popularity": 12.4282,
+      "trailer": "https://www.youtube.com/watch?v=lY9N_gAw4Es",
       "fonte": "un classico che ti manca",
       "categoria": "un classico",
       "perche": "un classico che ti manca",
       "motivi": [
         "un classico che ti manca"
       ],
-      "proposto": "2026-10-02"
+      "proposto": "2026-10-03"
     },
     {
-      "tmdbId": 522402,
-      "imdbId": "tt3420504",
-      "title": "Finch",
-      "originalTitle": "Finch",
-      "release": "2021-11-04",
+      "tmdbId": 1290821,
+      "imdbId": "tt32357218",
+      "title": "Missione Shelter",
+      "originalTitle": "Shelter",
+      "release": "2026-01-28",
       "releaseFonte": "globale",
       "genres": [
-        "Fantascienza",
-        "Dramma",
-        "Avventura"
+        "Azione",
+        "Crime",
+        "Thriller"
       ],
       "countries": [
         "USA",
-        "India"
-      ],
-      "runtime": 116,
-      "plot": "Finch è un uomo che intraprende un viaggio intenso e toccante in un mondo pericoloso e in preda alla devastazione, per trovare una nuova casa alla sua improbabile famiglia: l’amatissimo cane e il robot che ha appena finito di costruire.",
-      "tagline": null,
-      "poster": "/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
-      "backdrop": "/uoc358GH6Yl7TufbUKHkETPu64B.jpg",
-      "director": "Miguel Sapochnik",
-      "cast": [
-        "Tom Hanks",
-        "Caleb Landry Jones",
-        "Oscar Avila",
-        "Lora Martinez-Cunningham",
-        "Marie Wagenman"
-      ],
-      "castDetail": [
-        {
-          "name": "Tom Hanks",
-          "character": "Finch",
-          "profile": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
-        },
-        {
-          "name": "Caleb Landry Jones",
-          "character": "Jeff (voice)",
-          "profile": "/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
-        },
-        {
-          "name": "Oscar Avila",
-          "character": "Truck Driver (Flashback)",
-          "profile": "/8710aiohIdXtZmKcsM92XVs8gJF.jpg"
-        },
-        {
-          "name": "Lora Martinez-Cunningham",
-          "character": "Mother (Flashback)",
-          "profile": "/gjbnJZCzNkshj2bKEe51sEcnPOV.jpg"
-        },
-        {
-          "name": "Marie Wagenman",
-          "character": "Daughter (Flashback)",
-          "profile": "/cyqkUNw6uAzXlgh3AydW6UyHcph.jpg"
-        },
-        {
-          "name": "Emily Jones",
-          "character": "Warning System (voice)",
-          "profile": null
-        }
-      ],
-      "tmdbRating": 7.818,
-      "tmdbVotes": 4215,
-      "popularity": 6.499,
-      "trailer": "https://www.youtube.com/watch?v=3DmD1JvsXQo",
-      "fonte": "fantascienza: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "proposto": "2026-10-02"
-    },
-    {
-      "tmdbId": 527774,
-      "imdbId": "tt5109280",
-      "title": "Raya e l'ultimo drago",
-      "originalTitle": "Raya and the Last Dragon",
-      "release": "2021-03-05",
-      "releaseFonte": "IT",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Fantasy",
-        "Famiglia"
-      ],
-      "countries": [
-        "USA"
+        "Regno Unito"
       ],
       "runtime": 107,
-      "plot": "500 anni fa la nazione di Kumandra univa popoli differenti sotto il pacifico presidio dei Draghi. Finché i Druun, entità malvagie, non si sono diffusi tra gli uomini, agevolati dalla loro cupidigia e discordia, finendo per trasformare ogni forma vivente in pietra. Solo il sacrificio dei Draghi permise all'umanità di salvarsi: il segreto del loro potere è rimasto racchiuso in una gemma magica, unica arma di difesa contro i Druun. Oggi Kumandra non esiste più, divisa tra nazioni belligeranti, che corrispondono ad altrettante \"parti\" del drago: Zanna, Artiglio, Cuore, Dorso e Coda. Raya, principe",
-      "tagline": null,
-      "poster": "/7a28pJERhTPmOCkgwKWwFY36u5c.jpg",
-      "backdrop": "/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg",
-      "director": "Don Hall",
+      "plot": "Un uomo che vive in esilio autoimposto su un'isola remota salva una giovane ragazza da una violenta tempesta, innescando una catena di eventi che lo costringeranno a uscire dall'isolamento per proteggerla dai nemici legati al suo passato.",
+      "tagline": "Proteggerla a qualunque costo.",
+      "poster": "/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg",
+      "backdrop": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "director": "Ric Roman Waugh",
       "cast": [
-        "Kelly Marie Tran",
-        "Awkwafina",
-        "Gemma Chan",
-        "Alan Tudyk",
-        "Izaac Wang"
+        "Jason Statham",
+        "Bodhi Rae Breathnach",
+        "Naomi Ackie",
+        "Daniel Mays",
+        "Harriet Walter"
       ],
       "castDetail": [
         {
-          "name": "Kelly Marie Tran",
-          "character": "Raya (voice)",
-          "profile": "/wmJTR2vxcCWKNMF7XPdNqhmo2rj.jpg"
+          "name": "Jason Statham",
+          "character": "Mason",
+          "profile": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
         },
         {
-          "name": "Awkwafina",
-          "character": "Sisu (voice)",
-          "profile": "/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+          "name": "Bodhi Rae Breathnach",
+          "character": "Jesse",
+          "profile": "/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
         },
         {
-          "name": "Gemma Chan",
-          "character": "Namaari (voice)",
-          "profile": "/stTKj4iNauhqlVmZ6XAsFsvcMCY.jpg"
+          "name": "Naomi Ackie",
+          "character": "Roberta",
+          "profile": "/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
         },
         {
-          "name": "Alan Tudyk",
-          "character": "Tuk Tuk (voice)",
-          "profile": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+          "name": "Daniel Mays",
+          "character": "Booth",
+          "profile": "/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg"
         },
         {
-          "name": "Izaac Wang",
-          "character": "Boun (voice)",
-          "profile": "/4vYS9NuDUFhzT9B9pFyjDTeNZiY.jpg"
+          "name": "Harriet Walter",
+          "character": "Prime Minister Fordham",
+          "profile": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
         },
         {
-          "name": "Benedict Wong",
-          "character": "Tong (voice)",
-          "profile": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+          "name": "Bill Nighy",
+          "character": "Manafort",
+          "profile": "/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
         },
         {
-          "name": "Daniel Dae Kim",
-          "character": "Benja (voice)",
-          "profile": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
+          "name": "Michael Shaeffer",
+          "character": "Uncle",
+          "profile": "/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
         },
         {
-          "name": "Thalia Tran",
-          "character": "Little Noi (voice)",
-          "profile": "/f5UdVlrtai1iQVAhy14uNONUkJf.jpg"
+          "name": "Anna Crilly",
+          "character": "Haneron",
+          "profile": "/wT6e4gDsQwrJjhXlIAj5IhcLICy.jpg"
         }
       ],
-      "tmdbRating": 7.79,
-      "tmdbVotes": 7458,
-      "popularity": 15.7121,
-      "trailer": "https://www.youtube.com/watch?v=nZGPGLUY5jo",
-      "fonte": "avventura: il tuo terreno",
+      "tmdbRating": 7.754,
+      "tmdbVotes": 1929,
+      "popularity": 37.7755,
+      "trailer": "https://www.youtube.com/watch?v=ogafoUyac8g",
+      "fonte": "thriller: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
+      "perche": "thriller: il tuo terreno",
       "motivi": [
-        "avventura: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "proposto": "2026-10-02"
+      "proposto": "2026-10-03"
     },
     {
-      "tmdbId": 569094,
-      "imdbId": "tt9362722",
-      "title": "Spider-Man: Across the Spider-Verse",
-      "originalTitle": "Spider-Man: Across the Spider-Verse",
-      "release": "2023-06-01",
+      "tmdbId": 11,
+      "imdbId": "tt0076759",
+      "title": "Guerre stellari",
+      "originalTitle": "Star Wars",
+      "release": "1977-10-20",
       "releaseFonte": "IT",
       "genres": [
-        "Animazione",
-        "Azione",
         "Avventura",
+        "Azione",
         "Fantascienza"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 140,
-      "plot": "Dopo essersi riunito con Gwen Stacy, l'amichevole Spider-Man di Brooklyn Miles Morales viene catapultato nelle pieghe del multiverso, dove incontra la squadra di Spider-Eroi incaricata di proteggerne l'esistenza. Ma quando i protettori del multiverso si dimostrano intransigenti sul modo migliore per affrontare una nuova e temibile minaccia, Miles si ritrova solo contro gli altri Spider-Eroi a difendere il suo punto di vista. Tutto, pur di salvare la persona che ama di più al mondo.",
-      "tagline": "È come indossi la maschera che conta.",
-      "poster": "/7pgJHduD3OVwF3EGFnGBq0nOUYv.jpg",
-      "backdrop": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
-      "director": "Kemp Powers",
+      "runtime": 121,
+      "plot": "In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccor",
+      "tagline": "Tanto tempo fa, in una galassia lontana lontana...",
+      "poster": "/fVqKwpvobwWy0P1UImZWIDuw4RI.jpg",
+      "backdrop": "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+      "director": "George Lucas",
       "cast": [
-        "Shameik Moore",
-        "Hailee Steinfeld",
-        "Brian Tyree Henry",
-        "Luna Lauren Vélez",
-        "Jake Johnson"
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Peter Cushing",
+        "Alec Guinness"
       ],
       "castDetail": [
         {
-          "name": "Shameik Moore",
-          "character": "Miles Morales (voice)",
-          "profile": "/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+          "name": "Mark Hamill",
+          "character": "Luke Skywalker",
+          "profile": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
         },
         {
-          "name": "Hailee Steinfeld",
-          "character": "Gwen Stacy (voice)",
-          "profile": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+          "name": "Harrison Ford",
+          "character": "Han Solo",
+          "profile": "/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
         },
         {
-          "name": "Brian Tyree Henry",
-          "character": "Jeff Morales (voice)",
-          "profile": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+          "name": "Carrie Fisher",
+          "character": "Princess Leia Organa",
+          "profile": "/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
         },
         {
-          "name": "Luna Lauren Vélez",
-          "character": "Rio Morales (voice)",
-          "profile": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+          "name": "Peter Cushing",
+          "character": "Grand Moff Tarkin",
+          "profile": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg"
         },
         {
-          "name": "Jake Johnson",
-          "character": "Peter B. Parker (voice)",
-          "profile": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+          "name": "Alec Guinness",
+          "character": "Obi-Wan \"Ben\" Kenobi",
+          "profile": "/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
         },
         {
-          "name": "Oscar Isaac",
-          "character": "Miguel O'Hara (voice)",
-          "profile": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+          "name": "Anthony Daniels",
+          "character": "C-3PO",
+          "profile": "/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
         },
         {
-          "name": "Jason Schwartzman",
-          "character": "Spot (voice)",
-          "profile": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+          "name": "Kenny Baker",
+          "character": "R2-D2",
+          "profile": "/kWwso57V7fr0jWnHfknlxxq7XXy.jpg"
         },
         {
-          "name": "Issa Rae",
-          "character": "Jessica Drew (voice)",
-          "profile": "/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+          "name": "Peter Mayhew",
+          "character": "Chewbacca",
+          "profile": "/rKIBv08O63pyC6PixjyhrjNB8Uh.jpg"
         }
       ],
-      "tmdbRating": 8.351,
-      "tmdbVotes": 9338,
-      "popularity": 52.214,
-      "trailer": "https://www.youtube.com/watch?v=e87zDlDvqc4",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "c'è Oscar Isaac, che hai visto 2 volte",
-      "motivi": [
-        "c'è Oscar Isaac, che hai visto 2 volte",
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-02"
-    },
-    {
-      "tmdbId": 25237,
-      "imdbId": "tt0091251",
-      "title": "Va' e vedi",
-      "originalTitle": "Иди и смотри",
-      "release": "1985-10-17",
-      "releaseFonte": "globale",
-      "genres": [
-        "Dramma",
-        "Guerra",
-        "Horror",
-        "Storia"
-      ],
-      "countries": [
-        "Soviet Union"
-      ],
-      "runtime": 142,
-      "plot": "Protagonista della dolorosa vicenda è un ragazzo di sedici anni, originario della Bielorussia, che vive la seconda guerra mondiale con lo strazio di un'adolescenza sprecata e la ferma convinzione che chi uccide deve pagare, perché nessuno ha il diritto di togliere la vita a un altro essere umano.",
-      "tagline": null,
-      "poster": "/nGTKjc3PDPz7WcsdEAI7U0iVIjo.jpg",
-      "backdrop": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
-      "director": "Элем Климов",
-      "cast": [
-        "Алексей Кравченко",
-        "Ольга Миронова",
-        "Liubomiras Laucevičius",
-        "Vladas Bagdonas",
-        "Jüri Lumiste"
-      ],
-      "castDetail": [
-        {
-          "name": "Алексей Кравченко",
-          "character": "Flyora Gayshun",
-          "profile": "/o7UD6o30iJ29dTHPCbtOScv9s5E.jpg"
-        },
-        {
-          "name": "Ольга Миронова",
-          "character": "Glasha",
-          "profile": "/l4H4wR7B1NiY48uif6PITGB4T6.jpg"
-        },
-        {
-          "name": "Liubomiras Laucevičius",
-          "character": "Kosach",
-          "profile": "/r6Gdi2P7D6cPHcgTvvO4NSzvb9I.jpg"
-        },
-        {
-          "name": "Vladas Bagdonas",
-          "character": "Rubezh",
-          "profile": "/58chkP7aSp51iKDjEtP295ZWl6k.jpg"
-        },
-        {
-          "name": "Jüri Lumiste",
-          "character": "Obersturmführer",
-          "profile": "/wU5CyMxiwzEU5mCSSUsTZeIHp8A.jpg"
-        },
-        {
-          "name": "Viktors Lorencs",
-          "character": "Sturmbannführer",
-          "profile": "/24LC3IfTgkY7Mj7fjQENx6Q9oaf.jpg"
-        },
-        {
-          "name": "Kazimir Rabetsky",
-          "character": "Village Headman",
-          "profile": "/qQzj2XqMqf4OpFwBFYGR5lRETtY.jpg"
-        },
-        {
-          "name": "Евгений Тиличеев",
-          "character": "Gezhel",
-          "profile": "/1je1iVIpiAvJ0CAt4KDk6ALe434.jpg"
-        }
-      ],
-      "tmdbRating": 8.19,
-      "tmdbVotes": 1978,
-      "popularity": 9.1237,
-      "trailer": "https://www.youtube.com/watch?v=UHaSQU-4wss",
-      "fonte": "dramma: il tuo terreno",
+      "tmdbRating": 8.207,
+      "tmdbVotes": 22948,
+      "popularity": 32.5586,
+      "trailer": "https://www.youtube.com/watch?v=lWBh7Gyr-u0",
+      "fonte": "avventura: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
+      "perche": "avventura: il tuo terreno",
       "motivi": [
-        "dramma: il tuo terreno"
+        "avventura: il tuo terreno"
       ],
-      "proposto": "2026-10-02"
+      "proposto": "2026-10-03"
     },
     {
-      "tmdbId": 583689,
-      "imdbId": "tt6432466",
-      "title": "Girl power - La rivoluzione comincia a scuola",
-      "originalTitle": "Moxie",
-      "release": "2021-03-03",
-      "releaseFonte": "globale",
+      "tmdbId": 1585,
+      "imdbId": "tt0038650",
+      "title": "La vita è meravigliosa",
+      "originalTitle": "It's a Wonderful Life",
+      "release": "1948-03-11",
+      "releaseFonte": "IT",
       "genres": [
-        "Commedia",
         "Dramma",
-        "Musica"
+        "Famiglia",
+        "Fantasy"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 110,
-      "plot": "Ispirata dal passato ribelle della mamma e da una nuova amica, una timida sedicenne pubblica una fanzine anonima denunciando il sessismo nella scuola che frequenta.",
-      "tagline": null,
-      "poster": "/7arP6HXiMLeQPLI3Mq7WeoNIJXd.jpg",
-      "backdrop": "/aKIrKbszS7Kq0aTGTCRTYMp1EDX.jpg",
-      "director": "Amy Poehler",
+      "runtime": 129,
+      "plot": "È la viglia di Natale e George Bailey è solo, su un ponte, con cattive intenzioni. Lui che ha rinunciato a tutto pur di mandare avanti l'attività del padre, morto prematuramente, ora si trova di fronte allo spettro del fallimento. Sarebbe stato meglio non esser mai nati, pensa lui. A quel punto scende giù dal cielo un angelo a mostrargli cosa sarebbe successo se lui non fosse mai nato.",
+      "tagline": "È una risata meravigliosa! È un amore meraviglioso!",
+      "poster": "/dz4uDePDp8wJd9qRyk63ZzbGZ2Y.jpg",
+      "backdrop": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+      "director": "Frank Capra",
       "cast": [
-        "Hadley Robinson",
-        "Lauren Tsai",
-        "Alycia Pascual-Peña",
-        "Nico Hiraga",
-        "Sabrina Haskett"
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore",
+        "Thomas Mitchell",
+        "Henry Travers"
       ],
       "castDetail": [
         {
-          "name": "Hadley Robinson",
-          "character": "Vivian Carter",
-          "profile": "/rZ7O1iAb8JAdaUk4D6yKrNG4WbH.jpg"
+          "name": "James Stewart",
+          "character": "George Bailey",
+          "profile": "/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg"
         },
         {
-          "name": "Lauren Tsai",
-          "character": "Claudia",
-          "profile": "/8jjXzpZ3f8BsMv4XXvH84XJfg8D.jpg"
+          "name": "Donna Reed",
+          "character": "Mary Hatch",
+          "profile": "/gO2sb3qfGWn9beecguFErp0tlv9.jpg"
         },
         {
-          "name": "Alycia Pascual-Peña",
-          "character": "Lucy Hernandez",
-          "profile": "/5C4WscAR7rrAblHMOhzz2HDJ7QC.jpg"
+          "name": "Lionel Barrymore",
+          "character": "Mr. Potter",
+          "profile": "/1Tp5aKxF8n6iwTpviwLrxe1krm3.jpg"
         },
         {
-          "name": "Nico Hiraga",
-          "character": "Seth Acosta",
-          "profile": "/yd1Hx3C7BTevy3zvyGXUwtwvSft.jpg"
+          "name": "Thomas Mitchell",
+          "character": "Uncle Billy",
+          "profile": "/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
         },
         {
-          "name": "Sabrina Haskett",
-          "character": "Kaitlynn Price",
-          "profile": "/qukhr8JxM1prSPe9wIVDc1ODgW.jpg"
+          "name": "Henry Travers",
+          "character": "Clarence",
+          "profile": "/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
         },
         {
-          "name": "Patrick Schwarzenegger",
-          "character": "Mitchell Wilson",
-          "profile": "/jKbI0OpFMMz4SPCU1VoMHXIbA3Y.jpg"
+          "name": "Beulah Bondi",
+          "character": "Mrs. Bailey",
+          "profile": "/eMBdRplrMZfv7xC5FjzfOiOOb3E.jpg"
         },
         {
-          "name": "Sydney Park",
-          "character": "Kiera Pascal",
-          "profile": "/6Gr0aT1Hux2P3KM35IXdXbXZABk.jpg"
+          "name": "Frank Faylen",
+          "character": "Ernie",
+          "profile": "/zmPkR8mUFDNGYNl3iTLh9uehNTn.jpg"
         },
         {
-          "name": "Anjelika Washington",
-          "character": "Amaya",
-          "profile": "/94Es7NsV8V6hG8Jx0TJhp0IEkqi.jpg"
+          "name": "Ward Bond",
+          "character": "Bert",
+          "profile": "/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
         }
       ],
-      "tmdbRating": 7.2,
-      "tmdbVotes": 876,
-      "popularity": 4.763,
-      "trailer": "https://www.youtube.com/watch?v=Sf34qI1hjKU",
-      "fonte": "regia di Curry Barker, che segui",
-      "categoria": "qualcuno che segui",
-      "perche": "regia di Curry Barker, che segui",
+      "tmdbRating": 8.279,
+      "tmdbVotes": 5081,
+      "popularity": 17.6339,
+      "trailer": "https://www.youtube.com/watch?v=iLR3gZrU2Xo",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
       "motivi": [
-        "regia di Curry Barker, che segui"
+        "un classico che ti manca"
       ],
-      "proposto": "2026-10-02"
+      "proposto": "2026-10-03"
     },
     {
-      "tmdbId": 11036,
-      "imdbId": "tt0332280",
-      "title": "Le pagine della nostra vita",
-      "originalTitle": "The Notebook",
-      "release": "2005-06-24",
+      "tmdbId": 3082,
+      "imdbId": "tt0027977",
+      "title": "Tempi moderni",
+      "originalTitle": "Modern Times",
+      "release": "1937-03-12",
       "releaseFonte": "IT",
       "genres": [
-        "Romance",
+        "Commedia",
+        "Dramma",
+        "Romance"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 87,
+      "plot": "Charlot, operaio in un grande complesso industriale, estenuato dal ritmo frenetico di lavoro, perde la ragione. Ricoverato in una casa di cura, viene dimesso qualche tempo dopo per finire però quasi subito in prigione, a causa di una manifestazione di operai nella quale si ritrova casualmente coinvolto. Durante la detenzione, egli concorre, inconsapevole, a sventare una rivolta di detenuti; ciò gli frutta l' immediata scarcerzione. Una volta libero, riprende la sua dura lotta per sopravvivere: gli è di conforto l' amicizia di una giovane orfana, con cui divide fraternamente la propria casetta ",
+      "tagline": "È solo il più grande intrattenitore dei tempi moderni!",
+      "poster": "/74MfDraK1Ro8k6wAgSyPLvgtZaP.jpg",
+      "backdrop": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+      "director": "Charlie Chaplin",
+      "cast": [
+        "Charlie Chaplin",
+        "Paulette Goddard",
+        "Henry Bergman",
+        "Tiny Sandford",
+        "Chester Conklin"
+      ],
+      "castDetail": [
+        {
+          "name": "Charlie Chaplin",
+          "character": "The Tramp (A Factory Worker)",
+          "profile": "/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
+        },
+        {
+          "name": "Paulette Goddard",
+          "character": "A Gamin",
+          "profile": "/7fMtXuVbJMbsFB4U3CsgDdivizP.jpg"
+        },
+        {
+          "name": "Henry Bergman",
+          "character": "Cafe Proprietor",
+          "profile": "/x41Z1XOGnBg6xnFhxunVQBmcJ36.jpg"
+        },
+        {
+          "name": "Tiny Sandford",
+          "character": "Big Bill",
+          "profile": "/dsfbvZOIb1rdBx8eUGa2QTYyqGE.jpg"
+        },
+        {
+          "name": "Chester Conklin",
+          "character": "Mechanic",
+          "profile": "/1W7LjVN3Fj74RsCVwA0NbLAB2re.jpg"
+        },
+        {
+          "name": "Hank Mann",
+          "character": "Burglar",
+          "profile": "/5EGNEc8hjNmyNA6bh39czJ0BcGS.jpg"
+        },
+        {
+          "name": "Stanley Blystone",
+          "character": "Gamin's Father",
+          "profile": "/9kYGxCZeyYJWTJuvpt7YFrZOx3Y.jpg"
+        },
+        {
+          "name": "Al Ernest Garcia",
+          "character": "President of the Electro Steel Corp.",
+          "profile": "/pz1VDUCBCvNiZ8qAHg9N4ejXmSX.jpg"
+        }
+      ],
+      "tmdbRating": 8.281,
+      "tmdbVotes": 4209,
+      "popularity": 9.9742,
+      "trailer": "https://www.youtube.com/watch?v=2Dv40ZR69zI",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-03"
+    },
+    {
+      "tmdbId": 8587,
+      "imdbId": "tt0110357",
+      "title": "Il re leone",
+      "originalTitle": "The Lion King",
+      "release": "1994-11-25",
+      "releaseFonte": "IT",
+      "genres": [
+        "Animazione",
+        "Famiglia",
         "Dramma"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 123,
-      "plot": "Negli anni '40, una ragazza arriva nella cittadina costiera di Seabrook, nel Nord Carolina, per trascorrervi l'estate con la sua famiglia. Ancora adolescente, Allie Hamilton incontra un ragazzo del posto, Noah Calhoun in un Luna Park. Immediatamente, Noah sente che lui e Allie sono fatti per stare insieme. Benchè lei provenga da una famiglia facoltosa e lui sia un semplice operaio, nel corso di una appassionata e spensierata estate del sud i due si innamorano profondamente. E la loro vita cambierà...",
-      "tagline": "Dietro ogni grande amore c'è una grande storia",
-      "poster": "/pu5Q3YuYgSkfkVIdkChJVZjAaI5.jpg",
-      "backdrop": "/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
-      "director": "Nick Cassavetes",
+      "runtime": 85,
+      "plot": "Convinto di essere responsabile della morte del padre re Mufasa, il piccolo leoncino Simba si allontana dalla sua terra. Accolto e allevato dal suricato Timon e dal facocero Pumbaa, Simba cresce cercando di dimenticare il passato. È ritrovato da Nala, sua vecchia compagna di giochi, e Rafiki, babbuino sciamano, che lo convincono a tornare per scacciare l'usurpatore Scar.",
+      "tagline": "L'avventura più grande è trovare il tuo posto nel cerchio della vita.",
+      "poster": "/1KiMOx6msn45G0J5h6UWUpPrvBo.jpg",
+      "backdrop": "/bqFxtuGNsz30HTk5mzgGs8m9Po.jpg",
+      "director": "Roger Allers",
       "cast": [
-        "Ryan Gosling",
-        "Rachel McAdams",
-        "Gena Rowlands",
-        "James Garner",
-        "Joan Allen"
+        "Matthew Broderick",
+        "Moira Kelly",
+        "Jeremy Irons",
+        "Nathan Lane",
+        "Ernie Sabella"
       ],
       "castDetail": [
         {
-          "name": "Ryan Gosling",
-          "character": "Noah Calhoun",
-          "profile": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+          "name": "Matthew Broderick",
+          "character": "Simba (voice)",
+          "profile": "/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
         },
         {
-          "name": "Rachel McAdams",
-          "character": "Allie Hamilton",
-          "profile": "/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+          "name": "Moira Kelly",
+          "character": "Nala (voice)",
+          "profile": "/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
         },
         {
-          "name": "Gena Rowlands",
-          "character": "Older Allie",
-          "profile": "/j6Op08k2AkPGrNHpMNp30Pu8t36.jpg"
+          "name": "Jeremy Irons",
+          "character": "Scar (voice)",
+          "profile": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
         },
         {
-          "name": "James Garner",
-          "character": "Older Noah 'Duke'",
-          "profile": "/67CRvu5Ac76uJL5WD4Z4Db4mx6x.jpg"
+          "name": "Nathan Lane",
+          "character": "Timon (voice)",
+          "profile": "/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
         },
         {
-          "name": "Joan Allen",
-          "character": "Anne Hamilton",
-          "profile": "/aLYQFv11lb8hyBuP7ewkuxWbK8q.jpg"
+          "name": "Ernie Sabella",
+          "character": "Pumbaa (voice)",
+          "profile": "/rALAxs5zUfQS3bZrEcns86gCHwI.jpg"
         },
         {
-          "name": "David Thornton",
-          "character": "John Hamilton",
-          "profile": "/pNOWmEQWEI2gdW6hoVPO2C8PN98.jpg"
+          "name": "James Earl Jones",
+          "character": "Mufasa (voice)",
+          "profile": "/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
         },
         {
-          "name": "James Marsden",
-          "character": "Lon Hammond",
-          "profile": "/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+          "name": "Robert Guillaume",
+          "character": "Rafiki (voice)",
+          "profile": "/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
         },
         {
-          "name": "Kevin Connolly",
-          "character": "Fin",
-          "profile": "/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg"
+          "name": "Rowan Atkinson",
+          "character": "Zazu (voice)",
+          "profile": "/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
         }
       ],
-      "tmdbRating": 7.9,
-      "tmdbVotes": 12906,
-      "popularity": 30.9499,
-      "trailer": "https://www.youtube.com/watch?v=vKtFZOJqKZc",
-      "fonte": "c'è Ryan Gosling, che hai visto 3 volte",
-      "categoria": "qualcuno che segui",
-      "perche": "c'è Ryan Gosling, che hai visto 3 volte",
+      "tmdbRating": 8.251,
+      "tmdbVotes": 20206,
+      "popularity": 38.5947,
+      "trailer": "https://www.youtube.com/watch?v=u4iojemUJXE",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
       "motivi": [
-        "c'è Ryan Gosling, che hai visto 3 volte",
-        "c'è Ryan Gosling, che hai visto 3 volte"
+        "un classico che ti manca"
       ],
-      "proposto": "2026-10-02"
+      "proposto": "2026-10-03"
+    },
+    {
+      "tmdbId": 606856,
+      "imdbId": "tt5116302",
+      "title": "Togo - Una grande amicizia",
+      "originalTitle": "Togo",
+      "release": "2019-12-20",
+      "releaseFonte": "globale",
+      "genres": [
+        "Avventura",
+        "Storia",
+        "Dramma"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 113,
+      "plot": "Togo, che deve il proprio nome all’husky siberiano protagonista della trama, porta in scena la storia e la missione di questo cane da slitta che nel 1925 riuscì ad impedire la diffusione della difterite in una piccola cittadina dell’Alaska, rifornendo i suoi abitanti del vaccino necessario per combattere la malattia. Togo, considerato troppo piccolo e debole per affrontare un viaggio di per sé impegnativo, in più minacciato da condizioni climatiche sfavorevoli, tra venti gelidi, visibilità limitata e temperature che hanno raggiunto i -50 gradi, è riuscito con successo nel proprio compito. Ad a",
+      "tagline": "Una grande amicizia",
+      "poster": "/eKpJTvldlQbY9yfveGOZz5Hq1nX.jpg",
+      "backdrop": "/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
+      "director": "Ericson Core",
+      "cast": [
+        "Willem Dafoe",
+        "Julianne Nicholson",
+        "Christopher Heyerdahl",
+        "Richard Dormer",
+        "Adrien Dorval"
+      ],
+      "castDetail": [
+        {
+          "name": "Willem Dafoe",
+          "character": "Leonhard Seppala",
+          "profile": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+          "name": "Julianne Nicholson",
+          "character": "Constance Seppala",
+          "profile": "/AqlEWaBfrqwb6St5qrL1yJ9d6VS.jpg"
+        },
+        {
+          "name": "Christopher Heyerdahl",
+          "character": "George Maynard",
+          "profile": "/pTPZa3TFIkxRbqM5adXYE51a99s.jpg"
+        },
+        {
+          "name": "Richard Dormer",
+          "character": "Dr. Curtis Welch",
+          "profile": "/6zPTBESTihoWHwqj7KK1BuQ1dLY.jpg"
+        },
+        {
+          "name": "Adrien Dorval",
+          "character": "Bill Clark",
+          "profile": "/toyI2xbgYYRLD4P0Uoudn59oW8G.jpg"
+        },
+        {
+          "name": "Madeline Wickins",
+          "character": "Sally Burdett",
+          "profile": null
+        },
+        {
+          "name": "Michael Greyeyes",
+          "character": "Amituk",
+          "profile": "/jy45vhkNT0s7gtf1dRIfFL77YWg.jpg"
+        },
+        {
+          "name": "Nive Nielsen",
+          "character": "Atiqtalik",
+          "profile": "/iybqC97ht8DD0MHVhbpUOQw7jTy.jpg"
+        }
+      ],
+      "tmdbRating": 8.1,
+      "tmdbVotes": 2370,
+      "popularity": 5.7201,
+      "trailer": "https://www.youtube.com/watch?v=E_pKDLgPkUQ",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "proposto": "2026-10-03"
+    },
+    {
+      "tmdbId": 823219,
+      "imdbId": "tt4772188",
+      "title": "Flow - Un mondo da salvare",
+      "originalTitle": "Straume",
+      "release": "2024-11-07",
+      "releaseFonte": "IT",
+      "genres": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "countries": [
+        "Latvia",
+        "Belgio",
+        "Francia"
+      ],
+      "runtime": 84,
+      "plot": "In un mondo in cui gli esseri umani sembrano essere scomparsi, l’arrivo di un’inondazione costringe un gatto a mettersi in salvo su una barca, insieme a un variopinto gruppo di animali. Tra paesaggi di abbagliante bellezza e pericoli imprevisti, il viaggio farà capire a tutti che l’unione è la loro vera forza.",
+      "tagline": "Condividete la bellezza dello stare insieme.",
+      "poster": "/v1VjlY1AFAcmpLcsBe1Exyxp8CZ.jpg",
+      "backdrop": "/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
+      "director": "Gints Zilbalodis",
+      "cast": [],
+      "castDetail": [],
+      "tmdbRating": 8.1,
+      "tmdbVotes": 3092,
+      "popularity": 15.4803,
+      "trailer": "https://www.youtube.com/watch?v=tn-YMZxDuw0",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "proposto": "2026-10-03"
     }
   ],
   "storico": {
+    "11": "2026-10-03",
     "13": "2026-09-30",
     "19": "2026-09-13",
     "22": "2026-09-15",
@@ -868,6 +830,7 @@
     "587": "2026-10-02",
     "597": "2026-09-18",
     "598": "2026-09-26",
+    "599": "2026-10-03",
     "600": "2026-09-24",
     "603": "2026-09-13",
     "629": "2026-09-14",
@@ -890,14 +853,17 @@
     "1422": "2026-09-30",
     "1538": "2026-09-23",
     "1580": "2026-09-22",
+    "1585": "2026-10-03",
     "1632": "2026-09-20",
     "1700": "2026-09-16",
     "1726": "2026-09-27",
     "1891": "2026-09-22",
     "2118": "2026-09-13",
+    "3082": "2026-10-03",
     "4977": "2026-09-23",
     "5156": "2026-09-14",
     "6977": "2026-09-26",
+    "8587": "2026-10-03",
     "8871": "2026-09-28",
     "10494": "2026-09-30",
     "10681": "2026-09-12",
@@ -1000,19 +966,23 @@
     "581734": "2026-09-25",
     "583689": "2026-10-02",
     "585511": "2026-09-19",
+    "606856": "2026-10-03",
     "610150": "2026-10-02",
     "615469": "2026-09-29",
+    "618344": "2026-10-03",
     "635302": "2026-09-28",
     "637920": "2026-09-21",
     "646380": "2026-09-20",
     "696374": "2026-10-02",
     "696506": "2026-09-15",
     "724089": "2026-09-21",
+    "726759": "2026-10-03",
     "755898": "2026-09-13",
     "760245": "2026-09-22",
     "766507": "2026-10-01",
     "791373": "2026-09-30",
     "792307": "2026-09-15",
+    "823219": "2026-10-03",
     "843847": "2026-09-13",
     "961323": "2026-09-29",
     "965150": "2026-09-20",
@@ -1024,6 +994,7 @@
     "1204680": "2026-10-01",
     "1228710": "2026-09-23",
     "1239193": "2026-09-23",
+    "1290821": "2026-10-03",
     "1311031": "2026-09-20",
     "1315772": "2026-09-12",
     "1375646": "2026-09-18",

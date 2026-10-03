@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-02T05:07:03.261Z",
+  "preparato": "2026-10-03T05:06:14.268Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -371,349 +371,340 @@
       "impronta": "You Can See Everything|0|Nathan Fielder"
     },
     {
-      "id": "tmdb-378064",
-      "tmdbId": 378064,
-      "imdbId": "tt5323662",
+      "id": "tmdb-618344",
+      "tmdbId": 618344,
+      "imdbId": "tt11079148",
       "origine": "scoperta",
-      "titolo": "La Forma della Voce",
-      "titoloOriginale": "映画 聲の形",
-      "anno": "2017",
-      "uscitaItalia": "2017-10-24",
-      "regia": "山田尚子",
+      "titolo": "Justice League Dark: Apokolips War",
+      "titoloOriginale": "Justice League Dark: Apokolips War",
+      "anno": "2020",
+      "uscitaItalia": "2020-05-05",
+      "regia": "Matt Peters",
       "generi": [
         "Animazione",
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 130,
-      "tagline": "Ascolta con il cuore e capirai!",
-      "cast": [
-        "Miyu Irino (Shouya Ishida (voice))",
-        "Saori Hayami (Shouko Nishimiya (voice))",
-        "Aoi Yuuki (Yuzuru Nishimiya (voice))",
-        "小野賢章 (Tomohiro Nagatsuka (voice))",
-        "金子有希 (Naoka Ueno (voice))",
-        "石川由依 (Miyoko Sahara (voice))"
-      ],
-      "tramaTmdb": "Ogaki. Il liceale Shoya Ishida sta per saltare dal ponte per suicidarsi, ma all'ultimo desiste. Cinque anni prima, ai tempi della scuola elementare, nella classe di Shoya arriva Shoko Nishimiya, una ragazza sordomuta: l'accoglienza dei suoi compagni da timida diviene in breve tempo ostile. Per quanto Shoko si sforzi di essere gentile e disponibile con tutti, un gruppetto, capitanato da Shoya, si accanisce contro di lei. Cinque anni dopo Shoya ancora non è in grado di darsi pace per i torti inflitti a Shoko, anche perché la conseguenza delle sue azioni passate è la totale solitudine.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "La Forma della Voce|589|山田尚子"
-    },
-    {
-      "id": "tmdb-587",
-      "tmdbId": 587,
-      "imdbId": "tt0319061",
-      "origine": "scoperta",
-      "titolo": "Big Fish - Le storie di una vita incredibile",
-      "titoloOriginale": "Big Fish",
-      "anno": "2003",
-      "uscitaItalia": "2003-12-31",
-      "regia": "Tim Burton",
-      "generi": [
+        "Azione",
         "Avventura",
-        "Fantasy",
-        "Dramma"
+        "Fantasy"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 125,
-      "tagline": null,
+      "durata": 90,
+      "tagline": "La guerra per porre fine a tutte le guerre.",
       "cast": [
-        "Ewan McGregor (Ed Bloom (young))",
-        "Albert Finney (Ed Bloom (senior))",
-        "Billy Crudup (Will Bloom)",
-        "Jessica Lange (Sandra Bloom (senior))",
-        "Helena Bonham Carter (Jenny (young & senior) / The Witch)",
-        "Alison Lohman (Sandra Bloom (young))"
+        "Matt Ryan (John Constantine (voice))",
+        "Jerry O'Connell (Clark Kent / Superman (voice))",
+        "Taissa Farmiga (Rachel Roth / Raven (voice))",
+        "Jason O'Mara (Bruce Wayne / Batman (voice))",
+        "Rosario Dawson (Diana Prince / Wonder Woman (voice))",
+        "Stuart Allan (Damian Wayne / Robin (voice))"
       ],
-      "tramaTmdb": "Edward Bloom crede che un uomo, a furia di raccontare delle storie, diventi lui stesso quelle storie. Infatti è solito narrare, fra lo stupore di chi lo circonda, storie fantastiche e assurde riguardanti la sua vita: dall'incontro con un uomo alto 5 metri, a quello con una strega con un occhio di vetro capace di mostrare alle persone che vi guardano dentro il momento della propria morte. Suo figlio William, però, non apprezza questa sua presunta mancanza di serietà e per questo con il tempo si allontana da suo padre. Quando Edward si ammala gravemente Will intraprende un personale viaggio alla",
+      "tramaTmdb": "Dopo gli eventi di Justice League: War, Darkside lancia un secondo e definitivo attacco alla Terra. Constantine, Superman e Raven sono i tre eroi che si incaricano di radunare gli eroi, e non solo, terrestri per respingere l’invasione da Apokolips.",
       "motivi": [
         "avventura: il tuo terreno"
       ],
-      "impronta": "Big Fish - Le storie di una vita incredibile|600|Tim Burton"
+      "impronta": "Justice League Dark: Apokolips War|248|Matt Peters"
     },
     {
-      "id": "tmdb-610150",
-      "tmdbId": 610150,
-      "imdbId": "tt14614892",
+      "id": "tmdb-726759",
+      "tmdbId": 726759,
+      "imdbId": "tt12758060",
       "origine": "scoperta",
-      "titolo": "Dragon Ball Super - Super Hero",
-      "titoloOriginale": "ドラゴンボール超 スーパーヒーロー",
-      "anno": "2022",
-      "uscitaItalia": "2022-09-29",
-      "regia": "児玉徹郎",
+      "titolo": "Tetris",
+      "titoloOriginale": "Tetris",
+      "anno": "2023",
+      "uscitaItalia": "2023-03-15",
+      "regia": "Jon S. Baird",
       "generi": [
-        "Animazione",
-        "Fantascienza",
-        "Azione"
+        "Thriller",
+        "Storia",
+        "Dramma"
       ],
       "paesi": [
-        "Giappone"
+        "Regno Unito"
       ],
-      "durata": 120,
-      "tagline": null,
+      "durata": 118,
+      "tagline": "La storia inimmaginabile del famoso videogioco.",
       "cast": [
-        "Masako Nozawa (Son Goku / Son Gohan / Son Goten / Gotenks (voice))",
-        "Toshio Furukawa (Piccolo (voice))",
-        "Yuko Minaguchi (Pan / Videl (voice))",
-        "Hiroshi Kamiya (Gamma #1 (voice))",
-        "Mamoru Miyano (Gamma #2 (voice))",
-        "Miyu Irino (Dr. Hedo (voice))"
+        "Taron Egerton (Henk Rogers)",
+        "Никита Ефремов (Alexey Pajitnov)",
+        "Софья Лебедева (Sasha)",
+        "Anthony Boyle (Kevin Maxwell)",
+        "Ben Miles (Howard Lincoln)",
+        "山村 憲之介 (Minoru Arakawa)"
       ],
-      "tramaTmdb": "Goku è nuovamente alle prese con l'Esercito del Fiocco Rosso. Nonostante il Super Saiyan abbia già distrutto questo nemico, alcuni fedeli hanno tenuto vivo lo spirito dell'esercito e sono pronti a scendere di nuovo in battaglia, dopo aver creato gli Androidi perfetti, Gamma 1 e Gamma 2. I due androidi sono stati incaricati di attaccare Piccolo e Gohan, cosicché il nuovo Esercito del Fiocco Rosso possa riuscire indisturbato a portare a termine la sua missione. Solo una persona può fronteggiare questa minaccia, occorre, infatti, che il Super Hero si risvegli...",
+      "tramaTmdb": "Basato sulla storia vera del rappresentante di videogiochi americano Henk Rogers e della sua scoperta di Tetris nel 1988. Intenzionato a diffondere il gioco in tutto il mondo, entrerà in una pericolosa rete di bugie e corruzione dietro la cortina di ferro.",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Dragon Ball Super - Super Hero|565|児玉徹郎"
+      "impronta": "Tetris|256|Jon S. Baird"
     },
     {
-      "id": "tmdb-696374",
-      "tmdbId": 696374,
-      "imdbId": "tt11316854",
+      "id": "tmdb-599",
+      "tmdbId": 599,
+      "imdbId": "tt0043014",
       "origine": "scoperta",
-      "titolo": "Gabriel's Inferno",
-      "titoloOriginale": "Gabriel's Inferno",
-      "anno": "2020",
-      "uscitaItalia": "2020-05-29",
-      "regia": "Tosca Musk",
+      "titolo": "Viale del tramonto",
+      "titoloOriginale": "Sunset Boulevard",
+      "anno": "1951",
+      "uscitaItalia": "1951-03-06",
+      "regia": "Billy Wilder",
       "generi": [
-        "Romance",
         "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 122,
+      "durata": 100,
       "tagline": null,
       "cast": [
-        "Melanie Zanetti (Julianne Mitchell)",
-        "Giulio Berruti (Gabriel Emerson)",
-        "Kurt McKinney (Tom Mitchell)",
-        "Agnes Albright (Paulina)",
-        "Margaux Brooke (Christa Peterson)",
-        "Ned Van Zandt (Professor Jeremy Martin)"
+        "William Holden (Joe Gillis)",
+        "Gloria Swanson (Norma Desmond)",
+        "Erich von Stroheim (Max von Mayerling)",
+        "Nancy Olson (Betty Schaefer)",
+        "Fred Clark (Sheldrake)",
+        "Lloyd Gough (Morino)"
       ],
-      "tramaTmdb": null,
+      "tramaTmdb": "Stagionata star del muto, Norma Desmond si nutre di gloriosi ricordi e vive isolata nella sua villa. Un giovane sceneggiatore al verde la conosce per caso, accetta di scrivere il copione che dovrebbe segnarne il trionfale ritorno alle scene e ne diviene l'amante.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Gabriel's Inferno|0|Tosca Musk"
+      "impronta": "Viale del tramonto|263|Billy Wilder"
     },
     {
-      "id": "tmdb-522402",
-      "tmdbId": 522402,
-      "imdbId": "tt3420504",
+      "id": "tmdb-1290821",
+      "tmdbId": 1290821,
+      "imdbId": "tt32357218",
       "origine": "scoperta",
-      "titolo": "Finch",
-      "titoloOriginale": "Finch",
-      "anno": "2021",
-      "uscitaItalia": "2021-11-04",
-      "regia": "Miguel Sapochnik",
+      "titolo": "Missione Shelter",
+      "titoloOriginale": "Shelter",
+      "anno": "2026",
+      "uscitaItalia": "2026-01-28",
+      "regia": "Ric Roman Waugh",
       "generi": [
-        "Fantascienza",
-        "Dramma",
-        "Avventura"
+        "Azione",
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
         "USA",
-        "India"
-      ],
-      "durata": 116,
-      "tagline": null,
-      "cast": [
-        "Tom Hanks (Finch)",
-        "Caleb Landry Jones (Jeff (voice))",
-        "Oscar Avila (Truck Driver (Flashback))",
-        "Lora Martinez-Cunningham (Mother (Flashback))",
-        "Marie Wagenman (Daughter (Flashback))",
-        "Emily Jones (Warning System (voice))"
-      ],
-      "tramaTmdb": "Finch è un uomo che intraprende un viaggio intenso e toccante in un mondo pericoloso e in preda alla devastazione, per trovare una nuova casa alla sua improbabile famiglia: l’amatissimo cane e il robot che ha appena finito di costruire.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Finch|236|Miguel Sapochnik"
-    },
-    {
-      "id": "tmdb-527774",
-      "tmdbId": 527774,
-      "imdbId": "tt5109280",
-      "origine": "scoperta",
-      "titolo": "Raya e l'ultimo drago",
-      "titoloOriginale": "Raya and the Last Dragon",
-      "anno": "2021",
-      "uscitaItalia": "2021-03-05",
-      "regia": "Don Hall",
-      "generi": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Fantasy",
-        "Famiglia"
-      ],
-      "paesi": [
-        "USA"
+        "Regno Unito"
       ],
       "durata": 107,
-      "tagline": null,
+      "tagline": "Proteggerla a qualunque costo.",
       "cast": [
-        "Kelly Marie Tran (Raya (voice))",
-        "Awkwafina (Sisu (voice))",
-        "Gemma Chan (Namaari (voice))",
-        "Alan Tudyk (Tuk Tuk (voice))",
-        "Izaac Wang (Boun (voice))",
-        "Benedict Wong (Tong (voice))"
+        "Jason Statham (Mason)",
+        "Bodhi Rae Breathnach (Jesse)",
+        "Naomi Ackie (Roberta)",
+        "Daniel Mays (Booth)",
+        "Harriet Walter (Prime Minister Fordham)",
+        "Bill Nighy (Manafort)"
       ],
-      "tramaTmdb": "500 anni fa la nazione di Kumandra univa popoli differenti sotto il pacifico presidio dei Draghi. Finché i Druun, entità malvagie, non si sono diffusi tra gli uomini, agevolati dalla loro cupidigia e discordia, finendo per trasformare ogni forma vivente in pietra. Solo il sacrificio dei Draghi permise all'umanità di salvarsi: il segreto del loro potere è rimasto racchiuso in una gemma magica, unica arma di difesa contro i Druun. Oggi Kumandra non esiste più, divisa tra nazioni belligeranti, che corrispondono ad altrettante \"parti\" del drago: Zanna, Artiglio, Cuore, Dorso e Coda. Raya, principe",
+      "tramaTmdb": "Un uomo che vive in esilio autoimposto su un'isola remota salva una giovane ragazza da una violenta tempesta, innescando una catena di eventi che lo costringeranno a uscire dall'isolamento per proteggerla dai nemici legati al suo passato.",
       "motivi": [
-        "avventura: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Raya e l'ultimo drago|600|Don Hall"
+      "impronta": "Missione Shelter|238|Ric Roman Waugh"
     },
     {
-      "id": "tmdb-569094",
-      "tmdbId": 569094,
-      "imdbId": "tt9362722",
+      "id": "tmdb-11",
+      "tmdbId": 11,
+      "imdbId": "tt0076759",
       "origine": "scoperta",
-      "titolo": "Spider-Man: Across the Spider-Verse",
-      "titoloOriginale": "Spider-Man: Across the Spider-Verse",
-      "anno": "2023",
-      "uscitaItalia": "2023-06-01",
-      "regia": "Kemp Powers",
+      "titolo": "Guerre stellari",
+      "titoloOriginale": "Star Wars",
+      "anno": "1977",
+      "uscitaItalia": "1977-10-20",
+      "regia": "George Lucas",
       "generi": [
-        "Animazione",
-        "Azione",
         "Avventura",
+        "Azione",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 140,
-      "tagline": "È come indossi la maschera che conta.",
+      "durata": 121,
+      "tagline": "Tanto tempo fa, in una galassia lontana lontana...",
       "cast": [
-        "Shameik Moore (Miles Morales (voice))",
-        "Hailee Steinfeld (Gwen Stacy (voice))",
-        "Brian Tyree Henry (Jeff Morales (voice))",
-        "Luna Lauren Vélez (Rio Morales (voice))",
-        "Jake Johnson (Peter B. Parker (voice))",
-        "Oscar Isaac (Miguel O'Hara (voice))"
+        "Mark Hamill (Luke Skywalker)",
+        "Harrison Ford (Han Solo)",
+        "Carrie Fisher (Princess Leia Organa)",
+        "Peter Cushing (Grand Moff Tarkin)",
+        "Alec Guinness (Obi-Wan \"Ben\" Kenobi)",
+        "Anthony Daniels (C-3PO)"
       ],
-      "tramaTmdb": "Dopo essersi riunito con Gwen Stacy, l'amichevole Spider-Man di Brooklyn Miles Morales viene catapultato nelle pieghe del multiverso, dove incontra la squadra di Spider-Eroi incaricata di proteggerne l'esistenza. Ma quando i protettori del multiverso si dimostrano intransigenti sul modo migliore per affrontare una nuova e temibile minaccia, Miles si ritrova solo contro gli altri Spider-Eroi a difendere il suo punto di vista. Tutto, pur di salvare la persona che ama di più al mondo.",
+      "tramaTmdb": "In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccor",
       "motivi": [
-        "c'è Oscar Isaac, che hai visto 2 volte",
-        "un classico che ti manca"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Spider-Man: Across the Spider-Verse|486|Kemp Powers"
+      "impronta": "Guerre stellari|600|George Lucas"
     },
     {
-      "id": "tmdb-25237",
-      "tmdbId": 25237,
-      "imdbId": "tt0091251",
+      "id": "tmdb-1585",
+      "tmdbId": 1585,
+      "imdbId": "tt0038650",
       "origine": "scoperta",
-      "titolo": "Va' e vedi",
-      "titoloOriginale": "Иди и смотри",
-      "anno": "1985",
-      "uscitaItalia": "1985-10-17",
-      "regia": "Элем Климов",
+      "titolo": "La vita è meravigliosa",
+      "titoloOriginale": "It's a Wonderful Life",
+      "anno": "1948",
+      "uscitaItalia": "1948-03-11",
+      "regia": "Frank Capra",
       "generi": [
         "Dramma",
-        "Guerra",
-        "Horror",
-        "Storia"
-      ],
-      "paesi": [
-        "Soviet Union"
-      ],
-      "durata": 142,
-      "tagline": null,
-      "cast": [
-        "Алексей Кравченко (Flyora Gayshun)",
-        "Ольга Миронова (Glasha)",
-        "Liubomiras Laucevičius (Kosach)",
-        "Vladas Bagdonas (Rubezh)",
-        "Jüri Lumiste (Obersturmführer)",
-        "Viktors Lorencs (Sturmbannführer)"
-      ],
-      "tramaTmdb": "Protagonista della dolorosa vicenda è un ragazzo di sedici anni, originario della Bielorussia, che vive la seconda guerra mondiale con lo strazio di un'adolescenza sprecata e la ferma convinzione che chi uccide deve pagare, perché nessuno ha il diritto di togliere la vita a un altro essere umano.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Va' e vedi|297|Элем Климов"
-    },
-    {
-      "id": "tmdb-583689",
-      "tmdbId": 583689,
-      "imdbId": "tt6432466",
-      "origine": "scoperta",
-      "titolo": "Girl power - La rivoluzione comincia a scuola",
-      "titoloOriginale": "Moxie",
-      "anno": "2021",
-      "uscitaItalia": "2021-03-03",
-      "regia": "Amy Poehler",
-      "generi": [
-        "Commedia",
-        "Dramma",
-        "Musica"
+        "Famiglia",
+        "Fantasy"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 110,
-      "tagline": null,
+      "durata": 129,
+      "tagline": "È una risata meravigliosa! È un amore meraviglioso!",
       "cast": [
-        "Hadley Robinson (Vivian Carter)",
-        "Lauren Tsai (Claudia)",
-        "Alycia Pascual-Peña (Lucy Hernandez)",
-        "Nico Hiraga (Seth Acosta)",
-        "Sabrina Haskett (Kaitlynn Price)",
-        "Patrick Schwarzenegger (Mitchell Wilson)"
+        "James Stewart (George Bailey)",
+        "Donna Reed (Mary Hatch)",
+        "Lionel Barrymore (Mr. Potter)",
+        "Thomas Mitchell (Uncle Billy)",
+        "Henry Travers (Clarence)",
+        "Beulah Bondi (Mrs. Bailey)"
       ],
-      "tramaTmdb": "Ispirata dal passato ribelle della mamma e da una nuova amica, una timida sedicenne pubblica una fanzine anonima denunciando il sessismo nella scuola che frequenta.",
+      "tramaTmdb": "È la viglia di Natale e George Bailey è solo, su un ponte, con cattive intenzioni. Lui che ha rinunciato a tutto pur di mandare avanti l'attività del padre, morto prematuramente, ora si trova di fronte allo spettro del fallimento. Sarebbe stato meglio non esser mai nati, pensa lui. A quel punto scende giù dal cielo un angelo a mostrargli cosa sarebbe successo se lui non fosse mai nato.",
       "motivi": [
-        "regia di Curry Barker, che segui"
+        "un classico che ti manca"
       ],
-      "impronta": "Girl power - La rivoluzione comincia a scuola|164|Amy Poehler"
+      "impronta": "La vita è meravigliosa|388|Frank Capra"
     },
     {
-      "id": "tmdb-11036",
-      "tmdbId": 11036,
-      "imdbId": "tt0332280",
+      "id": "tmdb-3082",
+      "tmdbId": 3082,
+      "imdbId": "tt0027977",
       "origine": "scoperta",
-      "titolo": "Le pagine della nostra vita",
-      "titoloOriginale": "The Notebook",
-      "anno": "2005",
-      "uscitaItalia": "2005-06-24",
-      "regia": "Nick Cassavetes",
+      "titolo": "Tempi moderni",
+      "titoloOriginale": "Modern Times",
+      "anno": "1937",
+      "uscitaItalia": "1937-03-12",
+      "regia": "Charlie Chaplin",
       "generi": [
-        "Romance",
+        "Commedia",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 87,
+      "tagline": "È solo il più grande intrattenitore dei tempi moderni!",
+      "cast": [
+        "Charlie Chaplin (The Tramp (A Factory Worker))",
+        "Paulette Goddard (A Gamin)",
+        "Henry Bergman (Cafe Proprietor)",
+        "Tiny Sandford (Big Bill)",
+        "Chester Conklin (Mechanic)",
+        "Hank Mann (Burglar)"
+      ],
+      "tramaTmdb": "Charlot, operaio in un grande complesso industriale, estenuato dal ritmo frenetico di lavoro, perde la ragione. Ricoverato in una casa di cura, viene dimesso qualche tempo dopo per finire però quasi subito in prigione, a causa di una manifestazione di operai nella quale si ritrova casualmente coinvolto. Durante la detenzione, egli concorre, inconsapevole, a sventare una rivolta di detenuti; ciò gli frutta l' immediata scarcerzione. Una volta libero, riprende la sua dura lotta per sopravvivere: gli è di conforto l' amicizia di una giovane orfana, con cui divide fraternamente la propria casetta ",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Tempi moderni|600|Charlie Chaplin"
+    },
+    {
+      "id": "tmdb-8587",
+      "tmdbId": 8587,
+      "imdbId": "tt0110357",
+      "origine": "scoperta",
+      "titolo": "Il re leone",
+      "titoloOriginale": "The Lion King",
+      "anno": "1994",
+      "uscitaItalia": "1994-11-25",
+      "regia": "Roger Allers",
+      "generi": [
+        "Animazione",
+        "Famiglia",
         "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 123,
-      "tagline": "Dietro ogni grande amore c'è una grande storia",
+      "durata": 85,
+      "tagline": "L'avventura più grande è trovare il tuo posto nel cerchio della vita.",
       "cast": [
-        "Ryan Gosling (Noah Calhoun)",
-        "Rachel McAdams (Allie Hamilton)",
-        "Gena Rowlands (Older Allie)",
-        "James Garner (Older Noah 'Duke')",
-        "Joan Allen (Anne Hamilton)",
-        "David Thornton (John Hamilton)"
+        "Matthew Broderick (Simba (voice))",
+        "Moira Kelly (Nala (voice))",
+        "Jeremy Irons (Scar (voice))",
+        "Nathan Lane (Timon (voice))",
+        "Ernie Sabella (Pumbaa (voice))",
+        "James Earl Jones (Mufasa (voice))"
       ],
-      "tramaTmdb": "Negli anni '40, una ragazza arriva nella cittadina costiera di Seabrook, nel Nord Carolina, per trascorrervi l'estate con la sua famiglia. Ancora adolescente, Allie Hamilton incontra un ragazzo del posto, Noah Calhoun in un Luna Park. Immediatamente, Noah sente che lui e Allie sono fatti per stare insieme. Benchè lei provenga da una famiglia facoltosa e lui sia un semplice operaio, nel corso di una appassionata e spensierata estate del sud i due si innamorano profondamente. E la loro vita cambierà...",
+      "tramaTmdb": "Convinto di essere responsabile della morte del padre re Mufasa, il piccolo leoncino Simba si allontana dalla sua terra. Accolto e allevato dal suricato Timon e dal facocero Pumbaa, Simba cresce cercando di dimenticare il passato. È ritrovato da Nala, sua vecchia compagna di giochi, e Rafiki, babbuino sciamano, che lo convincono a tornare per scacciare l'usurpatore Scar.",
       "motivi": [
-        "c'è Ryan Gosling, che hai visto 3 volte",
-        "c'è Ryan Gosling, che hai visto 3 volte"
+        "un classico che ti manca"
       ],
-      "impronta": "Le pagine della nostra vita|505|Nick Cassavetes"
+      "impronta": "Il re leone|373|Roger Allers"
+    },
+    {
+      "id": "tmdb-606856",
+      "tmdbId": 606856,
+      "imdbId": "tt5116302",
+      "origine": "scoperta",
+      "titolo": "Togo - Una grande amicizia",
+      "titoloOriginale": "Togo",
+      "anno": "2019",
+      "uscitaItalia": "2019-12-20",
+      "regia": "Ericson Core",
+      "generi": [
+        "Avventura",
+        "Storia",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 113,
+      "tagline": "Una grande amicizia",
+      "cast": [
+        "Willem Dafoe (Leonhard Seppala)",
+        "Julianne Nicholson (Constance Seppala)",
+        "Christopher Heyerdahl (George Maynard)",
+        "Richard Dormer (Dr. Curtis Welch)",
+        "Adrien Dorval (Bill Clark)",
+        "Madeline Wickins (Sally Burdett)"
+      ],
+      "tramaTmdb": "Togo, che deve il proprio nome all’husky siberiano protagonista della trama, porta in scena la storia e la missione di questo cane da slitta che nel 1925 riuscì ad impedire la diffusione della difterite in una piccola cittadina dell’Alaska, rifornendo i suoi abitanti del vaccino necessario per combattere la malattia. Togo, considerato troppo piccolo e debole per affrontare un viaggio di per sé impegnativo, in più minacciato da condizioni climatiche sfavorevoli, tra venti gelidi, visibilità limitata e temperature che hanno raggiunto i -50 gradi, è riuscito con successo nel proprio compito. Ad a",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Togo - Una grande amicizia|600|Ericson Core"
+    },
+    {
+      "id": "tmdb-823219",
+      "tmdbId": 823219,
+      "imdbId": "tt4772188",
+      "origine": "scoperta",
+      "titolo": "Flow - Un mondo da salvare",
+      "titoloOriginale": "Straume",
+      "anno": "2024",
+      "uscitaItalia": "2024-11-07",
+      "regia": "Gints Zilbalodis",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Latvia",
+        "Belgio",
+        "Francia"
+      ],
+      "durata": 84,
+      "tagline": "Condividete la bellezza dello stare insieme.",
+      "cast": [],
+      "tramaTmdb": "In un mondo in cui gli esseri umani sembrano essere scomparsi, l’arrivo di un’inondazione costringe un gatto a mettersi in salvo su una barca, insieme a un variopinto gruppo di animali. Tra paesaggi di abbagliante bellezza e pericoli imprevisti, il viaggio farà capire a tutti che l’unione è la loro vera forza.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Flow - Un mondo da salvare|311|Gints Zilbalodis"
     }
   ]
 }
