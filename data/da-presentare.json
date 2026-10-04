@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-03T05:06:14.268Z",
+  "preparato": "2026-10-04T10:58:38.668Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -112,6 +112,38 @@
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
     {
+      "id": "tmdb-1263337",
+      "tmdbId": 1263337,
+      "imdbId": "tt7526136",
+      "origine": "trailer",
+      "titolo": "Heart of the Beast - Nel profondo selvaggio",
+      "titoloOriginale": "Heart of the Beast",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-24",
+      "regia": "David Ayer",
+      "generi": [
+        "Avventura",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 95,
+      "tagline": "Solo insieme potranno sopravvivere.",
+      "cast": [
+        "Brad Pitt (James Belmont)",
+        "J.K. Simmons (Watkins)",
+        "Anna Lambe (Amber)",
+        "Justin Melnick (Military Soldier)",
+        "Shaun DeZern (Military Soldier)"
+      ],
+      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+      "motivi": [
+        "avventura e thriller: il tuo terreno"
+      ],
+      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
+    },
+    {
       "id": "tmdb-977942",
       "tmdbId": 977942,
       "imdbId": "tt36983905",
@@ -145,6 +177,40 @@
         "dramma, il tuo terreno"
       ],
       "impronta": "The Uprising|235|Paul Greengrass"
+    },
+    {
+      "id": "tmdb-1503762",
+      "tmdbId": 1503762,
+      "imdbId": "tt13609648",
+      "origine": "trailer",
+      "titolo": "Ragione e sentimento",
+      "titoloOriginale": "Sense and Sensibility",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Georgia Oakley",
+      "generi": [
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": null,
+      "cast": [
+        "Daisy Edgar-Jones (Elinor Dashwood)",
+        "Esmé Creed-Miles (Marianne Dashwood)",
+        "Caitríona Balfe (Mrs. Dashwood)",
+        "Bodhi Rae Breathnach (Margaret Dashwood)",
+        "Frank Dillane (John Willoughby)",
+        "George MacKay (Edward Ferrars)"
+      ],
+      "tramaTmdb": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla pa",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
       "id": "tmdb-1003596",
@@ -215,38 +281,6 @@
       "impronta": "La bola negra|173|Javier Ambrossi"
     },
     {
-      "id": "tmdb-1263337",
-      "tmdbId": 1263337,
-      "imdbId": "tt7526136",
-      "origine": "trailer",
-      "titolo": "Heart of the Beast - Nel profondo selvaggio",
-      "titoloOriginale": "Heart of the Beast",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-24",
-      "regia": "David Ayer",
-      "generi": [
-        "Avventura",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 95,
-      "tagline": "Solo insieme potranno sopravvivere.",
-      "cast": [
-        "Brad Pitt (James Belmont)",
-        "J.K. Simmons (Watkins)",
-        "Anna Lambe (Amber)",
-        "Justin Melnick (Military Soldier)",
-        "Shaun DeZern (Military Soldier)"
-      ],
-      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-      "motivi": [
-        "avventura e thriller: il tuo terreno"
-      ],
-      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
-    },
-    {
       "id": "tmdb-858035",
       "tmdbId": 858035,
       "imdbId": "tt14371256",
@@ -300,7 +334,7 @@
         "Giappone",
         "USA"
       ],
-      "durata": null,
+      "durata": 120,
       "tagline": null,
       "cast": [
         "Andrew Koji (Ryu)",
@@ -341,370 +375,348 @@
       "impronta": "NAZA|259|يوفال إبراهيم"
     },
     {
-      "id": "tmdb-1765072",
-      "tmdbId": 1765072,
-      "imdbId": "tt45368240",
-      "origine": "trailer",
-      "titolo": "You Can See Everything",
-      "titoloOriginale": "You Can See Everything",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-16",
-      "regia": "Nathan Fielder",
+      "id": "tmdb-1242898",
+      "tmdbId": 1242898,
+      "imdbId": "tt31227572",
+      "origine": "scoperta",
+      "titolo": "Predator: Badlands",
+      "titoloOriginale": "Predator: Badlands",
+      "anno": "2025",
+      "uscitaItalia": "2025-11-06",
+      "regia": "Dan Trachtenberg",
       "generi": [
-        "Documentario"
+        "Azione",
+        "Fantascienza",
+        "Avventura"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 174,
-      "tagline": null,
+      "durata": 107,
+      "tagline": "La prima caccia. L'ultima occasione.",
       "cast": [
-        "Elizabeth Holmes (Self)",
-        "Nathan Fielder (Self)",
-        "Billy Evans (Self)",
-        "Amanda Seyfried (Self / Elizabeth Holmes)",
-        "Christopher Abbott (Self)",
-        "William Holmes Evans (Self)"
+        "Elle Fanning (Thia / Tessa)",
+        "Dimitrius Schuster-Koloamatangi (Dek / Father)",
+        "Ravi Narayan (Bud)",
+        "Michael Homick (Kwei (Suit))",
+        "Stefan Grube (Kwei (voice))",
+        "Reuben De Jong (Father (Suit))"
       ],
-      "tramaTmdb": null,
-      "motivi": [],
-      "impronta": "You Can See Everything|0|Nathan Fielder"
+      "tramaTmdb": "Nel futuro, su un pianeta remoto, un giovane Predatore, emarginato dal suo clan, trova un alleato improbabile in Thia e intraprende un viaggio pericoloso alla ricerca del nemico supremo.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Predator: Badlands|186|Dan Trachtenberg"
     },
     {
-      "id": "tmdb-618344",
-      "tmdbId": 618344,
-      "imdbId": "tt11079148",
+      "id": "tmdb-857",
+      "tmdbId": 857,
+      "imdbId": "tt0120815",
       "origine": "scoperta",
-      "titolo": "Justice League Dark: Apokolips War",
-      "titoloOriginale": "Justice League Dark: Apokolips War",
-      "anno": "2020",
-      "uscitaItalia": "2020-05-05",
-      "regia": "Matt Peters",
+      "titolo": "Salvate il soldato Ryan",
+      "titoloOriginale": "Saving Private Ryan",
+      "anno": "1998",
+      "uscitaItalia": "1998-10-30",
+      "regia": "Steven Spielberg",
       "generi": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Fantasy"
+        "Guerra",
+        "Dramma",
+        "Storia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 90,
-      "tagline": "La guerra per porre fine a tutte le guerre.",
+      "durata": 169,
+      "tagline": "In missione per un uomo.",
       "cast": [
-        "Matt Ryan (John Constantine (voice))",
-        "Jerry O'Connell (Clark Kent / Superman (voice))",
-        "Taissa Farmiga (Rachel Roth / Raven (voice))",
-        "Jason O'Mara (Bruce Wayne / Batman (voice))",
-        "Rosario Dawson (Diana Prince / Wonder Woman (voice))",
-        "Stuart Allan (Damian Wayne / Robin (voice))"
+        "Tom Hanks (Captain Miller)",
+        "Tom Sizemore (Sergeant Horvath)",
+        "Edward Burns (Private Reiben)",
+        "Barry Pepper (Private Jackson)",
+        "Adam Goldberg (Private Mellish)",
+        "Vin Diesel (Private Caparzo)"
       ],
-      "tramaTmdb": "Dopo gli eventi di Justice League: War, Darkside lancia un secondo e definitivo attacco alla Terra. Constantine, Superman e Raven sono i tre eroi che si incaricano di radunare gli eroi, e non solo, terrestri per respingere l’invasione da Apokolips.",
+      "tramaTmdb": "Il 6 giugno 1944 il cap. John Miller sbarca con i suoi uomini a Omaha Beach. È un massacro sotto il micidiale fuoco tedesco. Il generale George Marshall (Presnell), comandante supremo dell'armata angloamericana, apprende che la famiglia Ryan dell'Iowa ha già perduto tre figli e che un quarto fratello, James Francis Ryan, è stato paracadutato in Normandia oltre le linee nemiche. Dà ordine che sia ritrovato e rimandato a casa. L'incarico è affidato al cap. Miller che, con sei uomini e un interprete, parte alla sua ricerca.",
+      "motivi": [
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Salvate il soldato Ryan|526|Steven Spielberg"
+    },
+    {
+      "id": "tmdb-10386",
+      "tmdbId": 10386,
+      "imdbId": "tt0129167",
+      "origine": "scoperta",
+      "titolo": "Il gigante di ferro",
+      "titoloOriginale": "The Iron Giant",
+      "anno": "1999",
+      "uscitaItalia": "1999-12-23",
+      "regia": "Brad Bird",
+      "generi": [
+        "Animazione",
+        "Dramma",
+        "Famiglia",
+        "Fantascienza",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 86,
+      "tagline": "Ci sono segreti che non si possono nascondere.",
+      "cast": [
+        "Jennifer Aniston (Annie Hughes (voice))",
+        "Harry Connick Jr. (Dean McCoppin (voice))",
+        "Vin Diesel (The Iron Giant (voice))",
+        "James Gammon (Foreman Marv Loach / Floyd Turbeaux (voice))",
+        "Cloris Leachman (Mrs. Lynley Tensedge (voice))",
+        "Christopher McDonald (Kent Mansley (voice))"
+      ],
+      "tramaTmdb": "Il piccolo Hogart è un ragazzino che abita nel Maine e che, un giorno fa la conoscenza di un gigante che arriva direttamente dallo spazio. Il bambino, dopo l'iniziale timore, diventa amico e maestro del gigante dagli strabilianti poteri. Hogart sa perfettamente che l'ottuso mondo che lo circonda non è pronto ad accogliere il suo strano amico, e perciò fa di tutto per tenerlo al sicuro da occhi indiscreti.",
       "motivi": [
         "avventura: il tuo terreno"
       ],
-      "impronta": "Justice League Dark: Apokolips War|248|Matt Peters"
+      "impronta": "Il gigante di ferro|408|Brad Bird"
     },
     {
-      "id": "tmdb-726759",
-      "tmdbId": 726759,
-      "imdbId": "tt12758060",
+      "id": "tmdb-962",
+      "tmdbId": 962,
+      "imdbId": "tt0015864",
       "origine": "scoperta",
-      "titolo": "Tetris",
-      "titoloOriginale": "Tetris",
-      "anno": "2023",
-      "uscitaItalia": "2023-03-15",
-      "regia": "Jon S. Baird",
+      "titolo": "La febbre dell'oro",
+      "titoloOriginale": "The Gold Rush",
+      "anno": "1925",
+      "uscitaItalia": "1925-10-23",
+      "regia": "Charlie Chaplin",
       "generi": [
-        "Thriller",
-        "Storia",
-        "Dramma"
-      ],
-      "paesi": [
-        "Regno Unito"
-      ],
-      "durata": 118,
-      "tagline": "La storia inimmaginabile del famoso videogioco.",
-      "cast": [
-        "Taron Egerton (Henk Rogers)",
-        "Никита Ефремов (Alexey Pajitnov)",
-        "Софья Лебедева (Sasha)",
-        "Anthony Boyle (Kevin Maxwell)",
-        "Ben Miles (Howard Lincoln)",
-        "山村 憲之介 (Minoru Arakawa)"
-      ],
-      "tramaTmdb": "Basato sulla storia vera del rappresentante di videogiochi americano Henk Rogers e della sua scoperta di Tetris nel 1988. Intenzionato a diffondere il gioco in tutto il mondo, entrerà in una pericolosa rete di bugie e corruzione dietro la cortina di ferro.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Tetris|256|Jon S. Baird"
-    },
-    {
-      "id": "tmdb-599",
-      "tmdbId": 599,
-      "imdbId": "tt0043014",
-      "origine": "scoperta",
-      "titolo": "Viale del tramonto",
-      "titoloOriginale": "Sunset Boulevard",
-      "anno": "1951",
-      "uscitaItalia": "1951-03-06",
-      "regia": "Billy Wilder",
-      "generi": [
+        "Avventura",
+        "Commedia",
         "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 100,
-      "tagline": null,
+      "durata": 72,
+      "tagline": "Il vagabondo partecipa alla grande corsa e trionfa ancora una volta",
       "cast": [
-        "William Holden (Joe Gillis)",
-        "Gloria Swanson (Norma Desmond)",
-        "Erich von Stroheim (Max von Mayerling)",
-        "Nancy Olson (Betty Schaefer)",
-        "Fred Clark (Sheldrake)",
-        "Lloyd Gough (Morino)"
+        "Charlie Chaplin (The Lone Prospector)",
+        "Mack Swain (Big Jim)",
+        "Tom Murray (Black Larsen)",
+        "Henry Bergman (Hank Curtis)",
+        "Malcolm Waite (Jack)",
+        "Georgia Hale (Georgia)"
       ],
-      "tramaTmdb": "Stagionata star del muto, Norma Desmond si nutre di gloriosi ricordi e vive isolata nella sua villa. Un giovane sceneggiatore al verde la conosce per caso, accetta di scrivere il copione che dovrebbe segnarne il trionfale ritorno alle scene e ne diviene l'amante.",
+      "tramaTmdb": "Il vagabondo, ingenuo e tenero cercatore solitario, sfida le avversità del rigido freddo del nord e incontra il rude mondo dei cercatori d'oro, animato dalla febbre di rivalsa che lo accomuna nell'impresa agli avventurieri, ai derelitti, ai fuggiaschi, alle donne che popolano questo universo selvaggio.",
       "motivi": [
-        "un classico che ti manca"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Viale del tramonto|263|Billy Wilder"
+      "impronta": "La febbre dell'oro|303|Charlie Chaplin"
     },
     {
-      "id": "tmdb-1290821",
-      "tmdbId": 1290821,
-      "imdbId": "tt32357218",
+      "id": "tmdb-9702",
+      "tmdbId": 9702,
+      "imdbId": "tt0106469",
       "origine": "scoperta",
-      "titolo": "Missione Shelter",
-      "titoloOriginale": "Shelter",
-      "anno": "2026",
-      "uscitaItalia": "2026-01-28",
-      "regia": "Ric Roman Waugh",
+      "titolo": "Patto di sangue",
+      "titoloOriginale": "Bound by Honor",
+      "anno": "1993",
+      "uscitaItalia": "1993-02-05",
+      "regia": "Taylor Hackford",
       "generi": [
-        "Azione",
         "Crime",
+        "Dramma",
         "Thriller"
       ],
       "paesi": [
-        "USA",
-        "Regno Unito"
+        "USA"
       ],
-      "durata": 107,
-      "tagline": "Proteggerla a qualunque costo.",
+      "durata": 180,
+      "tagline": "La violenza del carcere. Il dramma della droga. Il riscatto della legge. Uniti da un patto. Divisi dal destino.",
       "cast": [
-        "Jason Statham (Mason)",
-        "Bodhi Rae Breathnach (Jesse)",
-        "Naomi Ackie (Roberta)",
-        "Daniel Mays (Booth)",
-        "Harriet Walter (Prime Minister Fordham)",
-        "Bill Nighy (Manafort)"
+        "Damian Chapa (Miklo)",
+        "Jesse Borrego (Cruz)",
+        "Benjamin Bratt (Paco)",
+        "Enrique Castillo (Montana)",
+        "Victor Rivers (Magic Mike)",
+        "Delroy Lindo (Bonafide)"
       ],
-      "tramaTmdb": "Un uomo che vive in esilio autoimposto su un'isola remota salva una giovane ragazza da una violenta tempesta, innescando una catena di eventi che lo costringeranno a uscire dall'isolamento per proteggerla dai nemici legati al suo passato.",
+      "tramaTmdb": "La vita di tre latino-americani in costante ricerca di una loro strada attraverso la realtà delle bande giovanili, della droga e del carcere. Le origini segnano irrimediabilmente le possibilità di evoluzione di ciascuno.",
       "motivi": [
-        "thriller: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "Missione Shelter|238|Ric Roman Waugh"
+      "impronta": "Patto di sangue|220|Taylor Hackford"
     },
     {
-      "id": "tmdb-11",
-      "tmdbId": 11,
-      "imdbId": "tt0076759",
+      "id": "tmdb-213",
+      "tmdbId": 213,
+      "imdbId": "tt0053125",
       "origine": "scoperta",
-      "titolo": "Guerre stellari",
-      "titoloOriginale": "Star Wars",
-      "anno": "1977",
-      "uscitaItalia": "1977-10-20",
-      "regia": "George Lucas",
+      "titolo": "Intrigo internazionale",
+      "titoloOriginale": "North by Northwest",
+      "anno": "1959",
+      "uscitaItalia": "1959-11-27",
+      "regia": "Alfred Hitchcock",
+      "generi": [
+        "Thriller",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 136,
+      "tagline": null,
+      "cast": [
+        "Cary Grant (Roger Thornhill)",
+        "Eva Marie Saint (Eve Kendall)",
+        "James Mason (Phillip Vandamm)",
+        "Jessie Royce Landis (Clara Thornhill)",
+        "Leo G. Carroll (Professor)",
+        "Josephine Hutchinson (Mrs. Townsend)"
+      ],
+      "tramaTmdb": "Un pubblicitario, Roger Thornhill, viene scambiato per un agente di nome George Kaplan e rapito da un’organizzazione spionistica che tenta di ucciderlo. Riesce a fuggire, ma nessuno vuol credere alla sua storia: anzi, per un altro equivoco, viene accusato dell’assassinio di un diplomatico. Una misteriosa bionda conosciuta sul treno, Eva Kendall, sembra aiutarlo...  Uno delle pellicole migliori mai realizzate.  Uno dei capolavori del maestro del brivido Alfred Hitchcock.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Intrigo internazionale|474|Alfred Hitchcock"
+    },
+    {
+      "id": "tmdb-5925",
+      "tmdbId": 5925,
+      "imdbId": "tt0057115",
+      "origine": "scoperta",
+      "titolo": "La grande fuga",
+      "titoloOriginale": "The Great Escape",
+      "anno": "1963",
+      "uscitaItalia": "1963-10-09",
+      "regia": "John Sturges",
       "generi": [
         "Avventura",
+        "Dramma",
+        "Guerra"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 175,
+      "tagline": null,
+      "cast": [
+        "Steve McQueen (Hilts 'The Cooler King')",
+        "James Garner (Hendley 'The Scrounger')",
+        "Richard Attenborough (Bartlett 'Big X')",
+        "James Donald (Ramsey 'The SBO')",
+        "Charles Bronson (Danny 'Tunnel King')",
+        "Donald Pleasence (Blythe 'The Forger')"
+      ],
+      "tramaTmdb": "Durante la seconda guerra mondiale alcuni prigionieri angloamericani esperti di fuga vengono riuniti in un campo nazista costruito appositamente per evasori specializzati. Un errore clamoroso, perché fin dal primo giorno essi mediteranno la fuga, tentando il colpo grosso attraverso la pianificazione di un'evasione di massa di oltre duecento detenuti...",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "La grande fuga|354|John Sturges"
+    },
+    {
+      "id": "tmdb-634649",
+      "tmdbId": 634649,
+      "imdbId": "tt10872600",
+      "origine": "scoperta",
+      "titolo": "Spider-Man: No Way Home",
+      "titoloOriginale": "Spider-Man: No Way Home",
+      "anno": "2021",
+      "uscitaItalia": "2021-12-15",
+      "regia": "Jon Watts",
+      "generi": [
         "Azione",
+        "Avventura",
         "Fantascienza"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 121,
-      "tagline": "Tanto tempo fa, in una galassia lontana lontana...",
+      "durata": 148,
+      "tagline": "Il Multiverso scatenato.",
       "cast": [
-        "Mark Hamill (Luke Skywalker)",
-        "Harrison Ford (Han Solo)",
-        "Carrie Fisher (Princess Leia Organa)",
-        "Peter Cushing (Grand Moff Tarkin)",
-        "Alec Guinness (Obi-Wan \"Ben\" Kenobi)",
-        "Anthony Daniels (C-3PO)"
+        "Tom Holland (Peter Parker / Spider-Man)",
+        "Zendaya (MJ)",
+        "Benedict Cumberbatch (Doctor Strange)",
+        "Jacob Batalon (Ned Leeds)",
+        "Jon Favreau (Happy Hogan)",
+        "Jamie Foxx (Max Dillon / Electro)"
       ],
-      "tramaTmdb": "In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccor",
+      "tramaTmdb": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identità. Peter chiede aiuto a Stephen Strange affinché usi la magia per far scordare a tutti la sua identità. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
+      "motivi": [
+        "c'è Tom Holland, che hai visto 2 volte",
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Spider-Man: No Way Home|400|Jon Watts"
+    },
+    {
+      "id": "tmdb-1087192",
+      "tmdbId": 1087192,
+      "imdbId": "tt26743210",
+      "origine": "scoperta",
+      "titolo": "Dragon Trainer",
+      "titoloOriginale": "How to Train Your Dragon",
+      "anno": "2025",
+      "uscitaItalia": "2025-06-13",
+      "regia": "Dean DeBlois",
+      "generi": [
+        "Fantasy",
+        "Famiglia",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 125,
+      "tagline": "La leggenda è reale.",
+      "cast": [
+        "Mason Thames (Hiccup)",
+        "Nico Parker (Astrid)",
+        "Gerard Butler (Stoick)",
+        "Nick Frost (Gobber)",
+        "Gabriel Howell (Snotlout)",
+        "Julian Dennison (Fishlegs)"
+      ],
+      "tramaTmdb": "Sulla selvaggia isola di Berk, dove vichinghi e draghi sono stati acerrimi nemici per generazioni, Hiccup è diverso dagli altri. Figlio geniale ma sottovalutato dal capo Stoick l'Immenso, Hiccup sfida secoli di tradizione stringendo un'insolita amiciza con Sdentato, un temibile drago Furia Buia. Questo legame inaspettato rivela la vera natura dei draghi, mettendo in discussione le fondamenta stesse della società vichinga.",
       "motivi": [
         "avventura: il tuo terreno"
       ],
-      "impronta": "Guerre stellari|600|George Lucas"
+      "impronta": "Dragon Trainer|425|Dean DeBlois"
     },
     {
-      "id": "tmdb-1585",
-      "tmdbId": 1585,
-      "imdbId": "tt0038650",
+      "id": "tmdb-1288445",
+      "tmdbId": 1288445,
+      "imdbId": "tt32338669",
       "origine": "scoperta",
-      "titolo": "La vita è meravigliosa",
-      "titoloOriginale": "It's a Wonderful Life",
-      "anno": "1948",
-      "uscitaItalia": "1948-03-11",
-      "regia": "Frank Capra",
+      "titolo": "Mutiny - Inverti la rotta",
+      "titoloOriginale": "Mutiny",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-10",
+      "regia": "Jean-François Richet",
       "generi": [
-        "Dramma",
-        "Famiglia",
-        "Fantasy"
+        "Azione",
+        "Thriller"
       ],
       "paesi": [
+        "Regno Unito",
         "USA"
       ],
-      "durata": 129,
-      "tagline": "È una risata meravigliosa! È un amore meraviglioso!",
+      "durata": 95,
+      "tagline": null,
       "cast": [
-        "James Stewart (George Bailey)",
-        "Donna Reed (Mary Hatch)",
-        "Lionel Barrymore (Mr. Potter)",
-        "Thomas Mitchell (Uncle Billy)",
-        "Henry Travers (Clarence)",
-        "Beulah Bondi (Mrs. Bailey)"
+        "Jason Statham (Cole Reed)",
+        "Annabelle Wallis (Angie Ellis)",
+        "Roland Møller (Captain Marko Madsen)",
+        "Ramon Tikaram (Tibu Campallo)",
+        "Arnas Fedaravičius (Mateo Pineda)",
+        "Jason Wong (Taran)"
       ],
-      "tramaTmdb": "È la viglia di Natale e George Bailey è solo, su un ponte, con cattive intenzioni. Lui che ha rinunciato a tutto pur di mandare avanti l'attività del padre, morto prematuramente, ora si trova di fronte allo spettro del fallimento. Sarebbe stato meglio non esser mai nati, pensa lui. A quel punto scende giù dal cielo un angelo a mostrargli cosa sarebbe successo se lui non fosse mai nato.",
+      "tramaTmdb": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
       "motivi": [
-        "un classico che ti manca"
+        "se ne parla adesso"
       ],
-      "impronta": "La vita è meravigliosa|388|Frank Capra"
-    },
-    {
-      "id": "tmdb-3082",
-      "tmdbId": 3082,
-      "imdbId": "tt0027977",
-      "origine": "scoperta",
-      "titolo": "Tempi moderni",
-      "titoloOriginale": "Modern Times",
-      "anno": "1937",
-      "uscitaItalia": "1937-03-12",
-      "regia": "Charlie Chaplin",
-      "generi": [
-        "Commedia",
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 87,
-      "tagline": "È solo il più grande intrattenitore dei tempi moderni!",
-      "cast": [
-        "Charlie Chaplin (The Tramp (A Factory Worker))",
-        "Paulette Goddard (A Gamin)",
-        "Henry Bergman (Cafe Proprietor)",
-        "Tiny Sandford (Big Bill)",
-        "Chester Conklin (Mechanic)",
-        "Hank Mann (Burglar)"
-      ],
-      "tramaTmdb": "Charlot, operaio in un grande complesso industriale, estenuato dal ritmo frenetico di lavoro, perde la ragione. Ricoverato in una casa di cura, viene dimesso qualche tempo dopo per finire però quasi subito in prigione, a causa di una manifestazione di operai nella quale si ritrova casualmente coinvolto. Durante la detenzione, egli concorre, inconsapevole, a sventare una rivolta di detenuti; ciò gli frutta l' immediata scarcerzione. Una volta libero, riprende la sua dura lotta per sopravvivere: gli è di conforto l' amicizia di una giovane orfana, con cui divide fraternamente la propria casetta ",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Tempi moderni|600|Charlie Chaplin"
-    },
-    {
-      "id": "tmdb-8587",
-      "tmdbId": 8587,
-      "imdbId": "tt0110357",
-      "origine": "scoperta",
-      "titolo": "Il re leone",
-      "titoloOriginale": "The Lion King",
-      "anno": "1994",
-      "uscitaItalia": "1994-11-25",
-      "regia": "Roger Allers",
-      "generi": [
-        "Animazione",
-        "Famiglia",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 85,
-      "tagline": "L'avventura più grande è trovare il tuo posto nel cerchio della vita.",
-      "cast": [
-        "Matthew Broderick (Simba (voice))",
-        "Moira Kelly (Nala (voice))",
-        "Jeremy Irons (Scar (voice))",
-        "Nathan Lane (Timon (voice))",
-        "Ernie Sabella (Pumbaa (voice))",
-        "James Earl Jones (Mufasa (voice))"
-      ],
-      "tramaTmdb": "Convinto di essere responsabile della morte del padre re Mufasa, il piccolo leoncino Simba si allontana dalla sua terra. Accolto e allevato dal suricato Timon e dal facocero Pumbaa, Simba cresce cercando di dimenticare il passato. È ritrovato da Nala, sua vecchia compagna di giochi, e Rafiki, babbuino sciamano, che lo convincono a tornare per scacciare l'usurpatore Scar.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Il re leone|373|Roger Allers"
-    },
-    {
-      "id": "tmdb-606856",
-      "tmdbId": 606856,
-      "imdbId": "tt5116302",
-      "origine": "scoperta",
-      "titolo": "Togo - Una grande amicizia",
-      "titoloOriginale": "Togo",
-      "anno": "2019",
-      "uscitaItalia": "2019-12-20",
-      "regia": "Ericson Core",
-      "generi": [
-        "Avventura",
-        "Storia",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 113,
-      "tagline": "Una grande amicizia",
-      "cast": [
-        "Willem Dafoe (Leonhard Seppala)",
-        "Julianne Nicholson (Constance Seppala)",
-        "Christopher Heyerdahl (George Maynard)",
-        "Richard Dormer (Dr. Curtis Welch)",
-        "Adrien Dorval (Bill Clark)",
-        "Madeline Wickins (Sally Burdett)"
-      ],
-      "tramaTmdb": "Togo, che deve il proprio nome all’husky siberiano protagonista della trama, porta in scena la storia e la missione di questo cane da slitta che nel 1925 riuscì ad impedire la diffusione della difterite in una piccola cittadina dell’Alaska, rifornendo i suoi abitanti del vaccino necessario per combattere la malattia. Togo, considerato troppo piccolo e debole per affrontare un viaggio di per sé impegnativo, in più minacciato da condizioni climatiche sfavorevoli, tra venti gelidi, visibilità limitata e temperature che hanno raggiunto i -50 gradi, è riuscito con successo nel proprio compito. Ad a",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Togo - Una grande amicizia|600|Ericson Core"
-    },
-    {
-      "id": "tmdb-823219",
-      "tmdbId": 823219,
-      "imdbId": "tt4772188",
-      "origine": "scoperta",
-      "titolo": "Flow - Un mondo da salvare",
-      "titoloOriginale": "Straume",
-      "anno": "2024",
-      "uscitaItalia": "2024-11-07",
-      "regia": "Gints Zilbalodis",
-      "generi": [
-        "Avventura",
-        "Animazione",
-        "Famiglia",
-        "Fantasy"
-      ],
-      "paesi": [
-        "Latvia",
-        "Belgio",
-        "Francia"
-      ],
-      "durata": 84,
-      "tagline": "Condividete la bellezza dello stare insieme.",
-      "cast": [],
-      "tramaTmdb": "In un mondo in cui gli esseri umani sembrano essere scomparsi, l’arrivo di un’inondazione costringe un gatto a mettersi in salvo su una barca, insieme a un variopinto gruppo di animali. Tra paesaggi di abbagliante bellezza e pericoli imprevisti, il viaggio farà capire a tutti che l’unione è la loro vera forza.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Flow - Un mondo da salvare|311|Gints Zilbalodis"
+      "impronta": "Mutiny - Inverti la rotta|442|Jean-François Richet"
     }
   ]
 }

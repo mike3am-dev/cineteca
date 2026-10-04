@@ -1,782 +1,830 @@
 {
-  "aggiornato": "2026-10-03T05:06:14.267Z",
-  "giorno": "2026-10-03",
+  "aggiornato": "2026-10-04T10:58:38.666Z",
+  "giorno": "2026-10-04",
   "film": [
     {
-      "tmdbId": 618344,
-      "imdbId": "tt11079148",
-      "title": "Justice League Dark: Apokolips War",
-      "originalTitle": "Justice League Dark: Apokolips War",
-      "release": "2020-05-05",
-      "releaseFonte": "globale",
+      "tmdbId": 1242898,
+      "imdbId": "tt31227572",
+      "title": "Predator: Badlands",
+      "originalTitle": "Predator: Badlands",
+      "release": "2025-11-06",
+      "releaseFonte": "IT",
       "genres": [
-        "Animazione",
         "Azione",
-        "Avventura",
-        "Fantasy"
+        "Fantascienza",
+        "Avventura"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 90,
-      "plot": "Dopo gli eventi di Justice League: War, Darkside lancia un secondo e definitivo attacco alla Terra. Constantine, Superman e Raven sono i tre eroi che si incaricano di radunare gli eroi, e non solo, terrestri per respingere l’invasione da Apokolips.",
-      "tagline": "La guerra per porre fine a tutte le guerre.",
-      "poster": "/5cmSUUHvWsYuNZy1JXG7PU9a7DA.jpg",
-      "backdrop": "/miChhr7EXynB2R5JLvMcz2oBgi2.jpg",
-      "director": "Matt Peters",
+      "runtime": 107,
+      "plot": "Nel futuro, su un pianeta remoto, un giovane Predatore, emarginato dal suo clan, trova un alleato improbabile in Thia e intraprende un viaggio pericoloso alla ricerca del nemico supremo.",
+      "tagline": "La prima caccia. L'ultima occasione.",
+      "poster": "/zn14Felr0VlFg6A86IUx4PDt2E7.jpg",
+      "backdrop": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "director": "Dan Trachtenberg",
       "cast": [
-        "Matt Ryan",
-        "Jerry O'Connell",
-        "Taissa Farmiga",
-        "Jason O'Mara",
-        "Rosario Dawson"
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Ravi Narayan",
+        "Michael Homick",
+        "Stefan Grube"
       ],
       "castDetail": [
         {
-          "name": "Matt Ryan",
-          "character": "John Constantine (voice)",
-          "profile": "/qLx6rzn6MMcJtTals5Z7Mb6z4Y9.jpg"
+          "name": "Elle Fanning",
+          "character": "Thia / Tessa",
+          "profile": "/hGL46Q5bkVkQbKAT0SrXcV6ZvRg.jpg"
         },
         {
-          "name": "Jerry O'Connell",
-          "character": "Clark Kent / Superman (voice)",
-          "profile": "/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
+          "name": "Dimitrius Schuster-Koloamatangi",
+          "character": "Dek / Father",
+          "profile": "/rmIZTT1AZK3C9fYhEOtGKtSrF8E.jpg"
         },
         {
-          "name": "Taissa Farmiga",
-          "character": "Rachel Roth / Raven (voice)",
-          "profile": "/jMDY4rFh2SFINj0wzoX10Roye3n.jpg"
+          "name": "Ravi Narayan",
+          "character": "Bud",
+          "profile": "/iM9dr3AjXTt7IGpRzZlQVG7hINa.jpg"
         },
         {
-          "name": "Jason O'Mara",
-          "character": "Bruce Wayne / Batman (voice)",
-          "profile": "/9Cs9PD5pwUkFQPLmpp5e6wkFQoY.jpg"
+          "name": "Michael Homick",
+          "character": "Kwei (Suit)",
+          "profile": "/a7IFYVtmNvBMJ7c20BVMc0LX6PT.jpg"
         },
         {
-          "name": "Rosario Dawson",
-          "character": "Diana Prince / Wonder Woman (voice)",
-          "profile": "/siTzOI810a0K46wv1TORXMw5N7J.jpg"
+          "name": "Stefan Grube",
+          "character": "Kwei (voice)",
+          "profile": "/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg"
         },
         {
-          "name": "Stuart Allan",
-          "character": "Damian Wayne / Robin (voice)",
-          "profile": "/xCAGTIcgC7J6YCl2bviIADY8blp.jpg"
+          "name": "Reuben De Jong",
+          "character": "Father (Suit)",
+          "profile": "/opjLobu1AKKspKfYzY6AXrjUglt.jpg"
         },
         {
-          "name": "Rebecca Romijn",
-          "character": "Lois Lane (voice)",
-          "profile": "/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
+          "name": "Cameron Brown",
+          "character": "Drone Synth",
+          "profile": "/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg"
         },
         {
-          "name": "Rainn Wilson",
-          "character": "Lex Luthor (voice)",
-          "profile": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+          "name": "Alison Wright",
+          "character": "MU/TH/UR (voice)",
+          "profile": "/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
         }
       ],
-      "tmdbRating": 8.188,
-      "tmdbVotes": 1637,
-      "popularity": 7.7037,
-      "trailer": "https://www.youtube.com/watch?v=tnCkn5xD2jg",
+      "tmdbRating": 7.84,
+      "tmdbVotes": 3739,
+      "popularity": 42.0313,
+      "trailer": "https://www.youtube.com/watch?v=Vaw9iRihA6o",
+      "fonte": "fantascienza: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "fantascienza: il tuo terreno",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "proposto": "2026-10-04"
+    },
+    {
+      "tmdbId": 857,
+      "imdbId": "tt0120815",
+      "title": "Salvate il soldato Ryan",
+      "originalTitle": "Saving Private Ryan",
+      "release": "1998-10-30",
+      "releaseFonte": "IT",
+      "genres": [
+        "Guerra",
+        "Dramma",
+        "Storia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 169,
+      "plot": "Il 6 giugno 1944 il cap. John Miller sbarca con i suoi uomini a Omaha Beach. È un massacro sotto il micidiale fuoco tedesco. Il generale George Marshall (Presnell), comandante supremo dell'armata angloamericana, apprende che la famiglia Ryan dell'Iowa ha già perduto tre figli e che un quarto fratello, James Francis Ryan, è stato paracadutato in Normandia oltre le linee nemiche. Dà ordine che sia ritrovato e rimandato a casa. L'incarico è affidato al cap. Miller che, con sei uomini e un interprete, parte alla sua ricerca.",
+      "tagline": "In missione per un uomo.",
+      "poster": "/yHPksncwQ3l9ZiKiArvgcU1dVig.jpg",
+      "backdrop": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Tom Hanks",
+        "Tom Sizemore",
+        "Edward Burns",
+        "Barry Pepper",
+        "Adam Goldberg"
+      ],
+      "castDetail": [
+        {
+          "name": "Tom Hanks",
+          "character": "Captain Miller",
+          "profile": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        },
+        {
+          "name": "Tom Sizemore",
+          "character": "Sergeant Horvath",
+          "profile": "/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+        },
+        {
+          "name": "Edward Burns",
+          "character": "Private Reiben",
+          "profile": "/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+        },
+        {
+          "name": "Barry Pepper",
+          "character": "Private Jackson",
+          "profile": "/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+        },
+        {
+          "name": "Adam Goldberg",
+          "character": "Private Mellish",
+          "profile": "/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+        },
+        {
+          "name": "Vin Diesel",
+          "character": "Private Caparzo",
+          "profile": "/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg"
+        },
+        {
+          "name": "Giovanni Ribisi",
+          "character": "T/4 Medic Wade",
+          "profile": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+        },
+        {
+          "name": "Jeremy Davies",
+          "character": "Corporal Upham",
+          "profile": "/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+        }
+      ],
+      "tmdbRating": 8.232,
+      "tmdbVotes": 17854,
+      "popularity": 26.7488,
+      "trailer": "https://www.youtube.com/watch?v=4H6Ip9AUQaM",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "regia di Steven Spielberg, di cui hai visto un film",
+      "motivi": [
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "dramma: il tuo terreno"
+      ],
+      "proposto": "2026-10-04"
+    },
+    {
+      "tmdbId": 10386,
+      "imdbId": "tt0129167",
+      "title": "Il gigante di ferro",
+      "originalTitle": "The Iron Giant",
+      "release": "1999-12-23",
+      "releaseFonte": "IT",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Famiglia",
+        "Fantascienza",
+        "Avventura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 86,
+      "plot": "Il piccolo Hogart è un ragazzino che abita nel Maine e che, un giorno fa la conoscenza di un gigante che arriva direttamente dallo spazio. Il bambino, dopo l'iniziale timore, diventa amico e maestro del gigante dagli strabilianti poteri. Hogart sa perfettamente che l'ottuso mondo che lo circonda non è pronto ad accogliere il suo strano amico, e perciò fa di tutto per tenerlo al sicuro da occhi indiscreti.",
+      "tagline": "Ci sono segreti che non si possono nascondere.",
+      "poster": "/7HBbEujBJzlUmMBZPzOGyTPz194.jpg",
+      "backdrop": "/ni5cXCrrGzoiIEoIwOzGiIwMZlH.jpg",
+      "director": "Brad Bird",
+      "cast": [
+        "Jennifer Aniston",
+        "Harry Connick Jr.",
+        "Vin Diesel",
+        "James Gammon",
+        "Cloris Leachman"
+      ],
+      "castDetail": [
+        {
+          "name": "Jennifer Aniston",
+          "character": "Annie Hughes (voice)",
+          "profile": "/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+        },
+        {
+          "name": "Harry Connick Jr.",
+          "character": "Dean McCoppin (voice)",
+          "profile": "/cMagjJsa0nSZzEueihV721dgxNn.jpg"
+        },
+        {
+          "name": "Vin Diesel",
+          "character": "The Iron Giant (voice)",
+          "profile": "/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg"
+        },
+        {
+          "name": "James Gammon",
+          "character": "Foreman Marv Loach / Floyd Turbeaux (voice)",
+          "profile": "/ar7am7PST1c91LYPYnrmJJxc9zH.jpg"
+        },
+        {
+          "name": "Cloris Leachman",
+          "character": "Mrs. Lynley Tensedge (voice)",
+          "profile": "/o8pnV9urjuHZDAR2u4UjPy2CR1u.jpg"
+        },
+        {
+          "name": "Christopher McDonald",
+          "character": "Kent Mansley (voice)",
+          "profile": "/gK1XhbfD9Xd8s3VXRPpgDCluyZp.jpg"
+        },
+        {
+          "name": "John Mahoney",
+          "character": "General Rogard (voice)",
+          "profile": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+        },
+        {
+          "name": "Eli Marienthal",
+          "character": "Hogarth Hughes (voice)",
+          "profile": "/lrIygexYKs1bhcIjbHtyCejRaAe.jpg"
+        }
+      ],
+      "tmdbRating": 7.966,
+      "tmdbVotes": 6398,
+      "popularity": 17.1744,
+      "trailer": "https://www.youtube.com/watch?v=1XHf94YqGyQ",
       "fonte": "avventura: il tuo terreno",
       "categoria": "il tuo genere",
       "perche": "avventura: il tuo terreno",
       "motivi": [
         "avventura: il tuo terreno"
       ],
-      "proposto": "2026-10-03"
+      "proposto": "2026-10-04"
     },
     {
-      "tmdbId": 726759,
-      "imdbId": "tt12758060",
-      "title": "Tetris",
-      "originalTitle": "Tetris",
-      "release": "2023-03-15",
-      "releaseFonte": "globale",
-      "genres": [
-        "Thriller",
-        "Storia",
-        "Dramma"
-      ],
-      "countries": [
-        "Regno Unito"
-      ],
-      "runtime": 118,
-      "plot": "Basato sulla storia vera del rappresentante di videogiochi americano Henk Rogers e della sua scoperta di Tetris nel 1988. Intenzionato a diffondere il gioco in tutto il mondo, entrerà in una pericolosa rete di bugie e corruzione dietro la cortina di ferro.",
-      "tagline": "La storia inimmaginabile del famoso videogioco.",
-      "poster": "/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
-      "backdrop": "/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
-      "director": "Jon S. Baird",
-      "cast": [
-        "Taron Egerton",
-        "Никита Ефремов",
-        "Софья Лебедева",
-        "Anthony Boyle",
-        "Ben Miles"
-      ],
-      "castDetail": [
-        {
-          "name": "Taron Egerton",
-          "character": "Henk Rogers",
-          "profile": "/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
-        },
-        {
-          "name": "Никита Ефремов",
-          "character": "Alexey Pajitnov",
-          "profile": "/swwemkQaEJYWlJcxqquXqjdjaoY.jpg"
-        },
-        {
-          "name": "Софья Лебедева",
-          "character": "Sasha",
-          "profile": "/yeJurGCq0a3eKFGt97jFTrcYV45.jpg"
-        },
-        {
-          "name": "Anthony Boyle",
-          "character": "Kevin Maxwell",
-          "profile": "/jF015vIjbrq72nTzWd2mWcybuiC.jpg"
-        },
-        {
-          "name": "Ben Miles",
-          "character": "Howard Lincoln",
-          "profile": "/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
-        },
-        {
-          "name": "山村 憲之介",
-          "character": "Minoru Arakawa",
-          "profile": "/hzAAtzS3NwmwPTqzmH3SSFRz3NS.jpg"
-        },
-        {
-          "name": "Игорь Грабузов",
-          "character": "Valentin Trifonov",
-          "profile": "/6QtMjf3suh9Y8T5dBx5udR0bbwI.jpg"
-        },
-        {
-          "name": "Олег Штефанко",
-          "character": "Belikov",
-          "profile": "/lvbXEyYzFtzg7WSt3i86TtSTDaj.jpg"
-        }
-      ],
-      "tmdbRating": 7.8,
-      "tmdbVotes": 2058,
-      "popularity": 13.9384,
-      "trailer": "https://www.youtube.com/watch?v=-BLM1naCfME",
-      "fonte": "thriller: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "thriller: il tuo terreno",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "proposto": "2026-10-03"
-    },
-    {
-      "tmdbId": 599,
-      "imdbId": "tt0043014",
-      "title": "Viale del tramonto",
-      "originalTitle": "Sunset Boulevard",
-      "release": "1951-03-06",
+      "tmdbId": 962,
+      "imdbId": "tt0015864",
+      "title": "La febbre dell'oro",
+      "originalTitle": "The Gold Rush",
+      "release": "1925-10-23",
       "releaseFonte": "IT",
       "genres": [
+        "Avventura",
+        "Commedia",
         "Dramma"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 100,
-      "plot": "Stagionata star del muto, Norma Desmond si nutre di gloriosi ricordi e vive isolata nella sua villa. Un giovane sceneggiatore al verde la conosce per caso, accetta di scrivere il copione che dovrebbe segnarne il trionfale ritorno alle scene e ne diviene l'amante.",
-      "tagline": null,
-      "poster": "/nx6FlG1BMRYrHkUeQ2jJ1o3qL6n.jpg",
-      "backdrop": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
-      "director": "Billy Wilder",
+      "runtime": 72,
+      "plot": "Il vagabondo, ingenuo e tenero cercatore solitario, sfida le avversità del rigido freddo del nord e incontra il rude mondo dei cercatori d'oro, animato dalla febbre di rivalsa che lo accomuna nell'impresa agli avventurieri, ai derelitti, ai fuggiaschi, alle donne che popolano questo universo selvaggio.",
+      "tagline": "Il vagabondo partecipa alla grande corsa e trionfa ancora una volta",
+      "poster": "/z9IjOyKRjQVIsbGrW3tkGdPc8p3.jpg",
+      "backdrop": "/66h0ReXG6DVOKtdVCRwMduAia9P.jpg",
+      "director": "Charlie Chaplin",
       "cast": [
-        "William Holden",
-        "Gloria Swanson",
-        "Erich von Stroheim",
-        "Nancy Olson",
-        "Fred Clark"
+        "Charlie Chaplin",
+        "Mack Swain",
+        "Tom Murray",
+        "Henry Bergman",
+        "Malcolm Waite"
       ],
       "castDetail": [
         {
-          "name": "William Holden",
-          "character": "Joe Gillis",
-          "profile": "/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg"
+          "name": "Charlie Chaplin",
+          "character": "The Lone Prospector",
+          "profile": "/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
         },
         {
-          "name": "Gloria Swanson",
-          "character": "Norma Desmond",
-          "profile": "/rpRersiDZ1TYjqhKvFALzXflZH8.jpg"
+          "name": "Mack Swain",
+          "character": "Big Jim",
+          "profile": "/xYULwPUrtqZz50Eaiz3BeZP83iq.jpg"
         },
         {
-          "name": "Erich von Stroheim",
-          "character": "Max von Mayerling",
-          "profile": "/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
+          "name": "Tom Murray",
+          "character": "Black Larsen",
+          "profile": "/p80JeuEZeSrRpfmIYH47ARG47C4.jpg"
         },
         {
-          "name": "Nancy Olson",
-          "character": "Betty Schaefer",
-          "profile": "/419ZEkm8PQSp9RS7NXb4yJPDRm4.jpg"
+          "name": "Henry Bergman",
+          "character": "Hank Curtis",
+          "profile": "/x41Z1XOGnBg6xnFhxunVQBmcJ36.jpg"
         },
         {
-          "name": "Fred Clark",
-          "character": "Sheldrake",
-          "profile": "/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+          "name": "Malcolm Waite",
+          "character": "Jack",
+          "profile": "/t87UppsC6eXbhMrcWIgFI11jspi.jpg"
         },
         {
-          "name": "Lloyd Gough",
-          "character": "Morino",
-          "profile": "/hWyEWTVQ0dy8RE9l2fEkOaKTQwX.jpg"
+          "name": "Georgia Hale",
+          "character": "Georgia",
+          "profile": "/9YxvwUcvGvtjGF7wJXqBWpKRWMH.jpg"
         },
         {
-          "name": "Jack Webb",
-          "character": "Artie Green",
-          "profile": "/4X6wbZ9wDqVrpDP3WvIJZBLPsLh.jpg"
+          "name": "Jack Adams",
+          "character": "Man in Dance Hall (uncredited)",
+          "profile": null
         },
         {
-          "name": "Franklyn Farnum",
-          "character": "Undertaker",
-          "profile": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg"
+          "name": "Frank Aderias",
+          "character": "Eskimo Child (uncredited)",
+          "profile": null
         }
       ],
-      "tmdbRating": 8.274,
-      "tmdbVotes": 3044,
-      "popularity": 12.4282,
-      "trailer": "https://www.youtube.com/watch?v=lY9N_gAw4Es",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
+      "tmdbRating": 7.962,
+      "tmdbVotes": 1909,
+      "popularity": 5.6935,
+      "trailer": "https://www.youtube.com/watch?v=QDA68GJH_c0",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
       "motivi": [
-        "un classico che ti manca"
+        "avventura: il tuo terreno"
       ],
-      "proposto": "2026-10-03"
+      "proposto": "2026-10-04"
     },
     {
-      "tmdbId": 1290821,
-      "imdbId": "tt32357218",
-      "title": "Missione Shelter",
-      "originalTitle": "Shelter",
-      "release": "2026-01-28",
+      "tmdbId": 9702,
+      "imdbId": "tt0106469",
+      "title": "Patto di sangue",
+      "originalTitle": "Bound by Honor",
+      "release": "1993-02-05",
       "releaseFonte": "globale",
       "genres": [
-        "Azione",
         "Crime",
+        "Dramma",
         "Thriller"
       ],
       "countries": [
-        "USA",
-        "Regno Unito"
+        "USA"
       ],
-      "runtime": 107,
-      "plot": "Un uomo che vive in esilio autoimposto su un'isola remota salva una giovane ragazza da una violenta tempesta, innescando una catena di eventi che lo costringeranno a uscire dall'isolamento per proteggerla dai nemici legati al suo passato.",
-      "tagline": "Proteggerla a qualunque costo.",
-      "poster": "/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg",
-      "backdrop": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "director": "Ric Roman Waugh",
+      "runtime": 180,
+      "plot": "La vita di tre latino-americani in costante ricerca di una loro strada attraverso la realtà delle bande giovanili, della droga e del carcere. Le origini segnano irrimediabilmente le possibilità di evoluzione di ciascuno.",
+      "tagline": "La violenza del carcere. Il dramma della droga. Il riscatto della legge. Uniti da un patto. Divisi dal destino.",
+      "poster": "/g9J2FhEWU8Zq8nlbrPlGA589qdL.jpg",
+      "backdrop": "/9xjUZjuYyehv2qnqMH0oR9nSTft.jpg",
+      "director": "Taylor Hackford",
       "cast": [
-        "Jason Statham",
-        "Bodhi Rae Breathnach",
-        "Naomi Ackie",
-        "Daniel Mays",
-        "Harriet Walter"
+        "Damian Chapa",
+        "Jesse Borrego",
+        "Benjamin Bratt",
+        "Enrique Castillo",
+        "Victor Rivers"
       ],
       "castDetail": [
         {
-          "name": "Jason Statham",
-          "character": "Mason",
-          "profile": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+          "name": "Damian Chapa",
+          "character": "Miklo",
+          "profile": "/MAJFUqA0FP3wbRqMSw9ALEuSgP.jpg"
         },
         {
-          "name": "Bodhi Rae Breathnach",
-          "character": "Jesse",
-          "profile": "/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
+          "name": "Jesse Borrego",
+          "character": "Cruz",
+          "profile": "/bK9cPqXTJSRN72ZDKN3UXlKN3gU.jpg"
         },
         {
-          "name": "Naomi Ackie",
-          "character": "Roberta",
-          "profile": "/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
+          "name": "Benjamin Bratt",
+          "character": "Paco",
+          "profile": "/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
         },
         {
-          "name": "Daniel Mays",
-          "character": "Booth",
-          "profile": "/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg"
+          "name": "Enrique Castillo",
+          "character": "Montana",
+          "profile": "/aKuTti43jY8LZr2oKDcQWdAhnLq.jpg"
         },
         {
-          "name": "Harriet Walter",
-          "character": "Prime Minister Fordham",
-          "profile": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+          "name": "Victor Rivers",
+          "character": "Magic Mike",
+          "profile": "/AgRGx0cxggQc88WuNHZJrZDwCdH.jpg"
         },
         {
-          "name": "Bill Nighy",
-          "character": "Manafort",
-          "profile": "/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+          "name": "Delroy Lindo",
+          "character": "Bonafide",
+          "profile": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
         },
         {
-          "name": "Michael Shaeffer",
-          "character": "Uncle",
-          "profile": "/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
+          "name": "Tom Towles",
+          "character": "Red Ryder",
+          "profile": "/ekBEknY5CAjX8zXkSjGVkS3WcAN.jpg"
         },
         {
-          "name": "Anna Crilly",
-          "character": "Haneron",
-          "profile": "/wT6e4gDsQwrJjhXlIAj5IhcLICy.jpg"
+          "name": "Carlos Carrasco",
+          "character": "Popeye",
+          "profile": "/a9SwtLdCPYu8TRdnieWsUrUsilG.jpg"
         }
       ],
-      "tmdbRating": 7.754,
-      "tmdbVotes": 1929,
-      "popularity": 37.7755,
-      "trailer": "https://www.youtube.com/watch?v=ogafoUyac8g",
-      "fonte": "thriller: il tuo terreno",
+      "tmdbRating": 8.23,
+      "tmdbVotes": 1651,
+      "popularity": 11.1386,
+      "trailer": "https://www.youtube.com/watch?v=NMj89zgI8Yc",
+      "fonte": "dramma: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "thriller: il tuo terreno",
+      "perche": "dramma: il tuo terreno",
       "motivi": [
-        "thriller: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "proposto": "2026-10-03"
+      "proposto": "2026-10-04"
     },
     {
-      "tmdbId": 11,
-      "imdbId": "tt0076759",
-      "title": "Guerre stellari",
-      "originalTitle": "Star Wars",
-      "release": "1977-10-20",
+      "tmdbId": 213,
+      "imdbId": "tt0053125",
+      "title": "Intrigo internazionale",
+      "originalTitle": "North by Northwest",
+      "release": "1959-11-27",
+      "releaseFonte": "IT",
+      "genres": [
+        "Thriller",
+        "Avventura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 136,
+      "plot": "Un pubblicitario, Roger Thornhill, viene scambiato per un agente di nome George Kaplan e rapito da un’organizzazione spionistica che tenta di ucciderlo. Riesce a fuggire, ma nessuno vuol credere alla sua storia: anzi, per un altro equivoco, viene accusato dell’assassinio di un diplomatico. Una misteriosa bionda conosciuta sul treno, Eva Kendall, sembra aiutarlo...  Uno delle pellicole migliori mai realizzate.  Uno dei capolavori del maestro del brivido Alfred Hitchcock.",
+      "tagline": null,
+      "poster": "/sOBycwOt9RWLJe854ik5fDyv0CE.jpg",
+      "backdrop": "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason",
+        "Jessie Royce Landis",
+        "Leo G. Carroll"
+      ],
+      "castDetail": [
+        {
+          "name": "Cary Grant",
+          "character": "Roger Thornhill",
+          "profile": "/lcNAirMFcyM7WIiCmaabjbNZVOJ.jpg"
+        },
+        {
+          "name": "Eva Marie Saint",
+          "character": "Eve Kendall",
+          "profile": "/eVkxf868DqzVn9HIlSJHUhRoGA7.jpg"
+        },
+        {
+          "name": "James Mason",
+          "character": "Phillip Vandamm",
+          "profile": "/vCABivuMBCT78sh5G0q8jO5rkT.jpg"
+        },
+        {
+          "name": "Jessie Royce Landis",
+          "character": "Clara Thornhill",
+          "profile": "/9asCKCafalR0382PpkHZs5Lv8hK.jpg"
+        },
+        {
+          "name": "Leo G. Carroll",
+          "character": "Professor",
+          "profile": "/56ND35pQZetw5xpagHDKFZjMeuE.jpg"
+        },
+        {
+          "name": "Josephine Hutchinson",
+          "character": "Mrs. Townsend",
+          "profile": "/pnmYpAfJOhwMlan3YQRo9FKb6ZS.jpg"
+        },
+        {
+          "name": "Philip Ober",
+          "character": "Lester Townsend",
+          "profile": "/aXZksHM7t7AzMxWCnGvRs05F0PK.jpg"
+        },
+        {
+          "name": "Martin Landau",
+          "character": "Leonard",
+          "profile": "/dznOAZPpAyXu7PfCz5obbJ2YzsJ.jpg"
+        }
+      ],
+      "tmdbRating": 7.961,
+      "tmdbVotes": 4658,
+      "popularity": 10.6544,
+      "trailer": "https://www.youtube.com/watch?v=cPNiwc3ogIo",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "proposto": "2026-10-04"
+    },
+    {
+      "tmdbId": 5925,
+      "imdbId": "tt0057115",
+      "title": "La grande fuga",
+      "originalTitle": "The Great Escape",
+      "release": "1963-10-09",
       "releaseFonte": "IT",
       "genres": [
         "Avventura",
+        "Dramma",
+        "Guerra"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 175,
+      "plot": "Durante la seconda guerra mondiale alcuni prigionieri angloamericani esperti di fuga vengono riuniti in un campo nazista costruito appositamente per evasori specializzati. Un errore clamoroso, perché fin dal primo giorno essi mediteranno la fuga, tentando il colpo grosso attraverso la pianificazione di un'evasione di massa di oltre duecento detenuti...",
+      "tagline": null,
+      "poster": "/lDHyyB2OG8gHqXElY5qvf5B4nSc.jpg",
+      "backdrop": "/lb87H6BFXXKMJlUnDHvPOMGfh8z.jpg",
+      "director": "John Sturges",
+      "cast": [
+        "Steve McQueen",
+        "James Garner",
+        "Richard Attenborough",
+        "James Donald",
+        "Charles Bronson"
+      ],
+      "castDetail": [
+        {
+          "name": "Steve McQueen",
+          "character": "Hilts 'The Cooler King'",
+          "profile": "/xUxg7SAM17eEc0rF90gz59Ap0w1.jpg"
+        },
+        {
+          "name": "James Garner",
+          "character": "Hendley 'The Scrounger'",
+          "profile": "/67CRvu5Ac76uJL5WD4Z4Db4mx6x.jpg"
+        },
+        {
+          "name": "Richard Attenborough",
+          "character": "Bartlett 'Big X'",
+          "profile": "/mJGvNS69xUqiNRybKzPl2Zuxe9Z.jpg"
+        },
+        {
+          "name": "James Donald",
+          "character": "Ramsey 'The SBO'",
+          "profile": "/c1Uc1I8jRw1tdJk1gRG49XY5xKF.jpg"
+        },
+        {
+          "name": "Charles Bronson",
+          "character": "Danny 'Tunnel King'",
+          "profile": "/w0C2Xa6PCQX83Iu2TxPjOCv8ufm.jpg"
+        },
+        {
+          "name": "Donald Pleasence",
+          "character": "Blythe 'The Forger'",
+          "profile": "/crtSwLnlrEidYFPupkVBSL9wK9Z.jpg"
+        },
+        {
+          "name": "James Coburn",
+          "character": "Sedgwick 'Manufacturer'",
+          "profile": "/9GApjInyrVvjnTAr652C1aViPqZ.jpg"
+        },
+        {
+          "name": "Hannes Messemer",
+          "character": "Von Luger 'The Kommandant'",
+          "profile": "/eiD2dwLyGnh8zysu2Yd6eSTorkk.jpg"
+        }
+      ],
+      "tmdbRating": 7.923,
+      "tmdbVotes": 2957,
+      "popularity": 13.2625,
+      "trailer": "https://www.youtube.com/watch?v=8No6XGbvr0w",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "proposto": "2026-10-04"
+    },
+    {
+      "tmdbId": 634649,
+      "imdbId": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "originalTitle": "Spider-Man: No Way Home",
+      "release": "2021-12-15",
+      "releaseFonte": "IT",
+      "genres": [
         "Azione",
+        "Avventura",
         "Fantascienza"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 121,
-      "plot": "In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccor",
-      "tagline": "Tanto tempo fa, in una galassia lontana lontana...",
-      "poster": "/fVqKwpvobwWy0P1UImZWIDuw4RI.jpg",
-      "backdrop": "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
-      "director": "George Lucas",
+      "runtime": 148,
+      "plot": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identità. Peter chiede aiuto a Stephen Strange affinché usi la magia per far scordare a tutti la sua identità. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
+      "tagline": "Il Multiverso scatenato.",
+      "poster": "/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
+      "backdrop": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+      "director": "Jon Watts",
       "cast": [
-        "Mark Hamill",
-        "Harrison Ford",
-        "Carrie Fisher",
-        "Peter Cushing",
-        "Alec Guinness"
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch",
+        "Jacob Batalon",
+        "Jon Favreau"
       ],
       "castDetail": [
         {
-          "name": "Mark Hamill",
-          "character": "Luke Skywalker",
-          "profile": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+          "name": "Tom Holland",
+          "character": "Peter Parker / Spider-Man",
+          "profile": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
         },
         {
-          "name": "Harrison Ford",
-          "character": "Han Solo",
-          "profile": "/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+          "name": "Zendaya",
+          "character": "MJ",
+          "profile": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
         },
         {
-          "name": "Carrie Fisher",
-          "character": "Princess Leia Organa",
-          "profile": "/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
+          "name": "Benedict Cumberbatch",
+          "character": "Doctor Strange",
+          "profile": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
         },
         {
-          "name": "Peter Cushing",
-          "character": "Grand Moff Tarkin",
-          "profile": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg"
+          "name": "Jacob Batalon",
+          "character": "Ned Leeds",
+          "profile": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
         },
         {
-          "name": "Alec Guinness",
-          "character": "Obi-Wan \"Ben\" Kenobi",
-          "profile": "/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
+          "name": "Jon Favreau",
+          "character": "Happy Hogan",
+          "profile": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
         },
         {
-          "name": "Anthony Daniels",
-          "character": "C-3PO",
-          "profile": "/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+          "name": "Jamie Foxx",
+          "character": "Max Dillon / Electro",
+          "profile": "/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
         },
-        {
-          "name": "Kenny Baker",
-          "character": "R2-D2",
-          "profile": "/kWwso57V7fr0jWnHfknlxxq7XXy.jpg"
-        },
-        {
-          "name": "Peter Mayhew",
-          "character": "Chewbacca",
-          "profile": "/rKIBv08O63pyC6PixjyhrjNB8Uh.jpg"
-        }
-      ],
-      "tmdbRating": 8.207,
-      "tmdbVotes": 22948,
-      "popularity": 32.5586,
-      "trailer": "https://www.youtube.com/watch?v=lWBh7Gyr-u0",
-      "fonte": "avventura: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "proposto": "2026-10-03"
-    },
-    {
-      "tmdbId": 1585,
-      "imdbId": "tt0038650",
-      "title": "La vita è meravigliosa",
-      "originalTitle": "It's a Wonderful Life",
-      "release": "1948-03-11",
-      "releaseFonte": "IT",
-      "genres": [
-        "Dramma",
-        "Famiglia",
-        "Fantasy"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 129,
-      "plot": "È la viglia di Natale e George Bailey è solo, su un ponte, con cattive intenzioni. Lui che ha rinunciato a tutto pur di mandare avanti l'attività del padre, morto prematuramente, ora si trova di fronte allo spettro del fallimento. Sarebbe stato meglio non esser mai nati, pensa lui. A quel punto scende giù dal cielo un angelo a mostrargli cosa sarebbe successo se lui non fosse mai nato.",
-      "tagline": "È una risata meravigliosa! È un amore meraviglioso!",
-      "poster": "/dz4uDePDp8wJd9qRyk63ZzbGZ2Y.jpg",
-      "backdrop": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
-      "director": "Frank Capra",
-      "cast": [
-        "James Stewart",
-        "Donna Reed",
-        "Lionel Barrymore",
-        "Thomas Mitchell",
-        "Henry Travers"
-      ],
-      "castDetail": [
-        {
-          "name": "James Stewart",
-          "character": "George Bailey",
-          "profile": "/3CU3yG3rCTlG3SwxI9iUOzfHtfX.jpg"
-        },
-        {
-          "name": "Donna Reed",
-          "character": "Mary Hatch",
-          "profile": "/gO2sb3qfGWn9beecguFErp0tlv9.jpg"
-        },
-        {
-          "name": "Lionel Barrymore",
-          "character": "Mr. Potter",
-          "profile": "/1Tp5aKxF8n6iwTpviwLrxe1krm3.jpg"
-        },
-        {
-          "name": "Thomas Mitchell",
-          "character": "Uncle Billy",
-          "profile": "/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
-        },
-        {
-          "name": "Henry Travers",
-          "character": "Clarence",
-          "profile": "/cfIfjkovcHOUyLW25eVAr8NvuvG.jpg"
-        },
-        {
-          "name": "Beulah Bondi",
-          "character": "Mrs. Bailey",
-          "profile": "/eMBdRplrMZfv7xC5FjzfOiOOb3E.jpg"
-        },
-        {
-          "name": "Frank Faylen",
-          "character": "Ernie",
-          "profile": "/zmPkR8mUFDNGYNl3iTLh9uehNTn.jpg"
-        },
-        {
-          "name": "Ward Bond",
-          "character": "Bert",
-          "profile": "/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
-        }
-      ],
-      "tmdbRating": 8.279,
-      "tmdbVotes": 5081,
-      "popularity": 17.6339,
-      "trailer": "https://www.youtube.com/watch?v=iLR3gZrU2Xo",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-03"
-    },
-    {
-      "tmdbId": 3082,
-      "imdbId": "tt0027977",
-      "title": "Tempi moderni",
-      "originalTitle": "Modern Times",
-      "release": "1937-03-12",
-      "releaseFonte": "IT",
-      "genres": [
-        "Commedia",
-        "Dramma",
-        "Romance"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 87,
-      "plot": "Charlot, operaio in un grande complesso industriale, estenuato dal ritmo frenetico di lavoro, perde la ragione. Ricoverato in una casa di cura, viene dimesso qualche tempo dopo per finire però quasi subito in prigione, a causa di una manifestazione di operai nella quale si ritrova casualmente coinvolto. Durante la detenzione, egli concorre, inconsapevole, a sventare una rivolta di detenuti; ciò gli frutta l' immediata scarcerzione. Una volta libero, riprende la sua dura lotta per sopravvivere: gli è di conforto l' amicizia di una giovane orfana, con cui divide fraternamente la propria casetta ",
-      "tagline": "È solo il più grande intrattenitore dei tempi moderni!",
-      "poster": "/74MfDraK1Ro8k6wAgSyPLvgtZaP.jpg",
-      "backdrop": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
-      "director": "Charlie Chaplin",
-      "cast": [
-        "Charlie Chaplin",
-        "Paulette Goddard",
-        "Henry Bergman",
-        "Tiny Sandford",
-        "Chester Conklin"
-      ],
-      "castDetail": [
-        {
-          "name": "Charlie Chaplin",
-          "character": "The Tramp (A Factory Worker)",
-          "profile": "/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
-        },
-        {
-          "name": "Paulette Goddard",
-          "character": "A Gamin",
-          "profile": "/7fMtXuVbJMbsFB4U3CsgDdivizP.jpg"
-        },
-        {
-          "name": "Henry Bergman",
-          "character": "Cafe Proprietor",
-          "profile": "/x41Z1XOGnBg6xnFhxunVQBmcJ36.jpg"
-        },
-        {
-          "name": "Tiny Sandford",
-          "character": "Big Bill",
-          "profile": "/dsfbvZOIb1rdBx8eUGa2QTYyqGE.jpg"
-        },
-        {
-          "name": "Chester Conklin",
-          "character": "Mechanic",
-          "profile": "/1W7LjVN3Fj74RsCVwA0NbLAB2re.jpg"
-        },
-        {
-          "name": "Hank Mann",
-          "character": "Burglar",
-          "profile": "/5EGNEc8hjNmyNA6bh39czJ0BcGS.jpg"
-        },
-        {
-          "name": "Stanley Blystone",
-          "character": "Gamin's Father",
-          "profile": "/9kYGxCZeyYJWTJuvpt7YFrZOx3Y.jpg"
-        },
-        {
-          "name": "Al Ernest Garcia",
-          "character": "President of the Electro Steel Corp.",
-          "profile": "/pz1VDUCBCvNiZ8qAHg9N4ejXmSX.jpg"
-        }
-      ],
-      "tmdbRating": 8.281,
-      "tmdbVotes": 4209,
-      "popularity": 9.9742,
-      "trailer": "https://www.youtube.com/watch?v=2Dv40ZR69zI",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-03"
-    },
-    {
-      "tmdbId": 8587,
-      "imdbId": "tt0110357",
-      "title": "Il re leone",
-      "originalTitle": "The Lion King",
-      "release": "1994-11-25",
-      "releaseFonte": "IT",
-      "genres": [
-        "Animazione",
-        "Famiglia",
-        "Dramma"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 85,
-      "plot": "Convinto di essere responsabile della morte del padre re Mufasa, il piccolo leoncino Simba si allontana dalla sua terra. Accolto e allevato dal suricato Timon e dal facocero Pumbaa, Simba cresce cercando di dimenticare il passato. È ritrovato da Nala, sua vecchia compagna di giochi, e Rafiki, babbuino sciamano, che lo convincono a tornare per scacciare l'usurpatore Scar.",
-      "tagline": "L'avventura più grande è trovare il tuo posto nel cerchio della vita.",
-      "poster": "/1KiMOx6msn45G0J5h6UWUpPrvBo.jpg",
-      "backdrop": "/bqFxtuGNsz30HTk5mzgGs8m9Po.jpg",
-      "director": "Roger Allers",
-      "cast": [
-        "Matthew Broderick",
-        "Moira Kelly",
-        "Jeremy Irons",
-        "Nathan Lane",
-        "Ernie Sabella"
-      ],
-      "castDetail": [
-        {
-          "name": "Matthew Broderick",
-          "character": "Simba (voice)",
-          "profile": "/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
-        },
-        {
-          "name": "Moira Kelly",
-          "character": "Nala (voice)",
-          "profile": "/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
-        },
-        {
-          "name": "Jeremy Irons",
-          "character": "Scar (voice)",
-          "profile": "/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
-        },
-        {
-          "name": "Nathan Lane",
-          "character": "Timon (voice)",
-          "profile": "/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
-        },
-        {
-          "name": "Ernie Sabella",
-          "character": "Pumbaa (voice)",
-          "profile": "/rALAxs5zUfQS3bZrEcns86gCHwI.jpg"
-        },
-        {
-          "name": "James Earl Jones",
-          "character": "Mufasa (voice)",
-          "profile": "/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
-        },
-        {
-          "name": "Robert Guillaume",
-          "character": "Rafiki (voice)",
-          "profile": "/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
-        },
-        {
-          "name": "Rowan Atkinson",
-          "character": "Zazu (voice)",
-          "profile": "/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
-        }
-      ],
-      "tmdbRating": 8.251,
-      "tmdbVotes": 20206,
-      "popularity": 38.5947,
-      "trailer": "https://www.youtube.com/watch?v=u4iojemUJXE",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-03"
-    },
-    {
-      "tmdbId": 606856,
-      "imdbId": "tt5116302",
-      "title": "Togo - Una grande amicizia",
-      "originalTitle": "Togo",
-      "release": "2019-12-20",
-      "releaseFonte": "globale",
-      "genres": [
-        "Avventura",
-        "Storia",
-        "Dramma"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 113,
-      "plot": "Togo, che deve il proprio nome all’husky siberiano protagonista della trama, porta in scena la storia e la missione di questo cane da slitta che nel 1925 riuscì ad impedire la diffusione della difterite in una piccola cittadina dell’Alaska, rifornendo i suoi abitanti del vaccino necessario per combattere la malattia. Togo, considerato troppo piccolo e debole per affrontare un viaggio di per sé impegnativo, in più minacciato da condizioni climatiche sfavorevoli, tra venti gelidi, visibilità limitata e temperature che hanno raggiunto i -50 gradi, è riuscito con successo nel proprio compito. Ad a",
-      "tagline": "Una grande amicizia",
-      "poster": "/eKpJTvldlQbY9yfveGOZz5Hq1nX.jpg",
-      "backdrop": "/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
-      "director": "Ericson Core",
-      "cast": [
-        "Willem Dafoe",
-        "Julianne Nicholson",
-        "Christopher Heyerdahl",
-        "Richard Dormer",
-        "Adrien Dorval"
-      ],
-      "castDetail": [
         {
           "name": "Willem Dafoe",
-          "character": "Leonhard Seppala",
+          "character": "Norman Osborn / Green Goblin",
           "profile": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
         },
         {
-          "name": "Julianne Nicholson",
-          "character": "Constance Seppala",
-          "profile": "/AqlEWaBfrqwb6St5qrL1yJ9d6VS.jpg"
-        },
-        {
-          "name": "Christopher Heyerdahl",
-          "character": "George Maynard",
-          "profile": "/pTPZa3TFIkxRbqM5adXYE51a99s.jpg"
-        },
-        {
-          "name": "Richard Dormer",
-          "character": "Dr. Curtis Welch",
-          "profile": "/6zPTBESTihoWHwqj7KK1BuQ1dLY.jpg"
-        },
-        {
-          "name": "Adrien Dorval",
-          "character": "Bill Clark",
-          "profile": "/toyI2xbgYYRLD4P0Uoudn59oW8G.jpg"
-        },
-        {
-          "name": "Madeline Wickins",
-          "character": "Sally Burdett",
-          "profile": null
-        },
-        {
-          "name": "Michael Greyeyes",
-          "character": "Amituk",
-          "profile": "/jy45vhkNT0s7gtf1dRIfFL77YWg.jpg"
-        },
-        {
-          "name": "Nive Nielsen",
-          "character": "Atiqtalik",
-          "profile": "/iybqC97ht8DD0MHVhbpUOQw7jTy.jpg"
+          "name": "Alfred Molina",
+          "character": "Dr. Otto Octavius / Doc Ock",
+          "profile": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
         }
       ],
-      "tmdbRating": 8.1,
-      "tmdbVotes": 2370,
-      "popularity": 5.7201,
-      "trailer": "https://www.youtube.com/watch?v=E_pKDLgPkUQ",
+      "tmdbRating": 7.947,
+      "tmdbVotes": 23243,
+      "popularity": 59.4466,
+      "trailer": "https://www.youtube.com/watch?v=ZBPAGbR6AHM",
       "fonte": "avventura: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
+      "perche": "c'è Tom Holland, che hai visto 2 volte",
       "motivi": [
+        "c'è Tom Holland, che hai visto 2 volte",
         "avventura: il tuo terreno"
       ],
-      "proposto": "2026-10-03"
+      "proposto": "2026-10-04"
     },
     {
-      "tmdbId": 823219,
-      "imdbId": "tt4772188",
-      "title": "Flow - Un mondo da salvare",
-      "originalTitle": "Straume",
-      "release": "2024-11-07",
+      "tmdbId": 1087192,
+      "imdbId": "tt26743210",
+      "title": "Dragon Trainer",
+      "originalTitle": "How to Train Your Dragon",
+      "release": "2025-06-13",
       "releaseFonte": "IT",
       "genres": [
-        "Avventura",
-        "Animazione",
+        "Fantasy",
         "Famiglia",
-        "Fantasy"
+        "Azione",
+        "Avventura"
       ],
       "countries": [
-        "Latvia",
-        "Belgio",
-        "Francia"
+        "USA"
       ],
-      "runtime": 84,
-      "plot": "In un mondo in cui gli esseri umani sembrano essere scomparsi, l’arrivo di un’inondazione costringe un gatto a mettersi in salvo su una barca, insieme a un variopinto gruppo di animali. Tra paesaggi di abbagliante bellezza e pericoli imprevisti, il viaggio farà capire a tutti che l’unione è la loro vera forza.",
-      "tagline": "Condividete la bellezza dello stare insieme.",
-      "poster": "/v1VjlY1AFAcmpLcsBe1Exyxp8CZ.jpg",
-      "backdrop": "/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
-      "director": "Gints Zilbalodis",
-      "cast": [],
-      "castDetail": [],
-      "tmdbRating": 8.1,
-      "tmdbVotes": 3092,
-      "popularity": 15.4803,
-      "trailer": "https://www.youtube.com/watch?v=tn-YMZxDuw0",
+      "runtime": 125,
+      "plot": "Sulla selvaggia isola di Berk, dove vichinghi e draghi sono stati acerrimi nemici per generazioni, Hiccup è diverso dagli altri. Figlio geniale ma sottovalutato dal capo Stoick l'Immenso, Hiccup sfida secoli di tradizione stringendo un'insolita amiciza con Sdentato, un temibile drago Furia Buia. Questo legame inaspettato rivela la vera natura dei draghi, mettendo in discussione le fondamenta stesse della società vichinga.",
+      "tagline": "La leggenda è reale.",
+      "poster": "/vIClAEbveMKqd38upqsjjuCBCpj.jpg",
+      "backdrop": "/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
+      "director": "Dean DeBlois",
+      "cast": [
+        "Mason Thames",
+        "Nico Parker",
+        "Gerard Butler",
+        "Nick Frost",
+        "Gabriel Howell"
+      ],
+      "castDetail": [
+        {
+          "name": "Mason Thames",
+          "character": "Hiccup",
+          "profile": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg"
+        },
+        {
+          "name": "Nico Parker",
+          "character": "Astrid",
+          "profile": "/gt0NJClVSCPCEfcPgcLj3f85uLa.jpg"
+        },
+        {
+          "name": "Gerard Butler",
+          "character": "Stoick",
+          "profile": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+        },
+        {
+          "name": "Nick Frost",
+          "character": "Gobber",
+          "profile": "/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+        },
+        {
+          "name": "Gabriel Howell",
+          "character": "Snotlout",
+          "profile": "/u3PTI9FlrpGFZVMoHXZZBiYWMCl.jpg"
+        },
+        {
+          "name": "Julian Dennison",
+          "character": "Fishlegs",
+          "profile": "/zSFwaT2osi7D2G0vFetub4yCDwi.jpg"
+        },
+        {
+          "name": "Bronwyn James",
+          "character": "Ruffnut",
+          "profile": "/mSaZaVNsAVU70VH5go2D2oS8OIL.jpg"
+        },
+        {
+          "name": "Harry Trevaldwyn",
+          "character": "Tuffnut",
+          "profile": "/uYHekOiCHZoob1tW11vTceplA2e.jpg"
+        }
+      ],
+      "tmdbRating": 7.931,
+      "tmdbVotes": 3157,
+      "popularity": 33.516,
+      "trailer": "https://www.youtube.com/watch?v=nakUVDFWOw8",
       "fonte": "avventura: il tuo terreno",
       "categoria": "il tuo genere",
       "perche": "avventura: il tuo terreno",
       "motivi": [
         "avventura: il tuo terreno"
       ],
-      "proposto": "2026-10-03"
+      "proposto": "2026-10-04"
+    },
+    {
+      "tmdbId": 1288445,
+      "imdbId": "tt32338669",
+      "title": "Mutiny - Inverti la rotta",
+      "originalTitle": "Mutiny",
+      "release": "2026-09-10",
+      "releaseFonte": "IT",
+      "genres": [
+        "Azione",
+        "Thriller"
+      ],
+      "countries": [
+        "Regno Unito",
+        "USA"
+      ],
+      "runtime": 95,
+      "plot": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
+      "tagline": null,
+      "poster": "/o4MXnSWwOnA4kftJ3NwZTIw2PuY.jpg",
+      "backdrop": "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "director": "Jean-François Richet",
+      "cast": [
+        "Jason Statham",
+        "Annabelle Wallis",
+        "Roland Møller",
+        "Ramon Tikaram",
+        "Arnas Fedaravičius"
+      ],
+      "castDetail": [
+        {
+          "name": "Jason Statham",
+          "character": "Cole Reed",
+          "profile": "/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+        },
+        {
+          "name": "Annabelle Wallis",
+          "character": "Angie Ellis",
+          "profile": "/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+        },
+        {
+          "name": "Roland Møller",
+          "character": "Captain Marko Madsen",
+          "profile": "/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+        },
+        {
+          "name": "Ramon Tikaram",
+          "character": "Tibu Campallo",
+          "profile": "/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+        },
+        {
+          "name": "Arnas Fedaravičius",
+          "character": "Mateo Pineda",
+          "profile": "/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+        },
+        {
+          "name": "Jason Wong",
+          "character": "Taran",
+          "profile": "/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+        },
+        {
+          "name": "Adrian Lester",
+          "character": "Captain Adam Spencer",
+          "profile": "/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg"
+        },
+        {
+          "name": "Chaneil Kular",
+          "character": "Kameron Campallo",
+          "profile": "/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
+        }
+      ],
+      "tmdbRating": 7.417,
+      "tmdbVotes": 763,
+      "popularity": 167.9124,
+      "trailer": "https://www.youtube.com/watch?v=uaMEkQFDQl4",
+      "fonte": "se ne parla adesso",
+      "categoria": "di tendenza",
+      "perche": "se ne parla adesso",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "proposto": "2026-10-04"
     }
   ],
   "storico": {
@@ -800,6 +848,7 @@
     "155": "2026-09-28",
     "165": "2026-09-28",
     "207": "2026-09-29",
+    "213": "2026-10-04",
     "218": "2026-09-15",
     "235": "2026-09-12",
     "238": "2026-09-20",
@@ -844,8 +893,10 @@
     "808": "2026-09-19",
     "829": "2026-09-26",
     "832": "2026-09-21",
+    "857": "2026-10-04",
     "901": "2026-09-18",
     "914": "2026-10-01",
+    "962": "2026-10-04",
     "975": "2026-09-13",
     "1018": "2026-09-23",
     "1091": "2026-09-19",
@@ -862,9 +913,12 @@
     "3082": "2026-10-03",
     "4977": "2026-09-23",
     "5156": "2026-09-14",
+    "5925": "2026-10-04",
     "6977": "2026-09-26",
     "8587": "2026-10-03",
     "8871": "2026-09-28",
+    "9702": "2026-10-04",
+    "10386": "2026-10-04",
     "10494": "2026-09-30",
     "10681": "2026-09-12",
     "10775": "2026-09-27",
@@ -970,6 +1024,7 @@
     "610150": "2026-10-02",
     "615469": "2026-09-29",
     "618344": "2026-10-03",
+    "634649": "2026-10-04",
     "635302": "2026-09-28",
     "637920": "2026-09-21",
     "646380": "2026-09-20",
@@ -989,11 +1044,14 @@
     "980431": "2026-09-14",
     "994108": "2026-09-29",
     "1007757": "2026-09-19",
+    "1087192": "2026-10-04",
     "1108427": "2026-09-16",
     "1184918": "2026-09-17",
     "1204680": "2026-10-01",
     "1228710": "2026-09-23",
     "1239193": "2026-09-23",
+    "1242898": "2026-10-04",
+    "1288445": "2026-10-04",
     "1290821": "2026-10-03",
     "1311031": "2026-09-20",
     "1315772": "2026-09-12",
