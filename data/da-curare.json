@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-04T10:58:34.122Z",
+  "preparato": "2026-10-05T11:59:30.990Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -34,438 +34,519 @@
   },
   "articoli": [
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-box-office-opening-verity-2-1236721548/",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-10-03T16:02:54.000Z",
-      "titolo": "Tom Cruise’s ‘Digger’ Plunging at Box Office With Less Than $10M as ‘Verity’ Leads",
-      "sommario": "Warner Bros.' pricey satire could be heading to Cruise's lowest opening in nearly two decades.",
+      "data": "2026-10-04T15:34:35.000Z",
+      "titolo": "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
+      "sommario": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Avatar: Fuoco e cenere (in libreria)",
+        "Avatar (in libreria, visto)",
+        "Avatar: La via dell'acqua (in libreria, visto)",
+        "James Cameron",
+        "Avengers: Doomsday"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bombs-box-office-opening-verity-1236721814/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-04T16:04:12.000Z",
+      "titolo": "Tom Cruise’s ‘Digger’ Buried at Box Office With $8M as ‘Verity’ Wins Weekend",
+      "sommario": "Alejandro G. Iñárritu helmed the pricey satire that will go down as a big financial loss for Warner Bros.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
         "Verity (in libreria)",
         "Anne Hathaway",
-        "Heart of the Beast - Nel profondo selvaggio",
-        "Brad Pitt",
         "Tom Cruise"
       ],
       "radar": null
     },
     {
-      "link": "https://www.slashfilm.com/2275266/other-mommy-box-office-preview-next-obsession-backrooms/",
+      "link": "https://variety.com/2026/film/box-office/korea-box-office-the-assassins-admissions-lead-1236898809/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-05T01:05:37.000Z",
+      "titolo": "Korea Box Office: ‘The Assassin(s)’ Holds Admissions Lead as ‘Chiikawa’ Generates Top Weekend Gross",
+      "sommario": "Director Hur Jin-ho’s political crime thriller “The Assassin(s)” held the top position at the South Korean box office in admissions over the weekend of Oct. 2–4, though Japanese animated feature “Chiikawa the Movie: The Secret of the Mermaid Island” captured the frame’s largest gross revenue. According to data from KOB",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Possible Love"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/gallery/the-social-reckoning-premiere-gallery/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-05T00:40:35.000Z",
+      "titolo": "‘The Social Reckoning’ New York Red Carpet Premiere Photos: Jeremy Strong, Mikey Madison, Jeremy Allen White & More",
+      "sommario": "The U.S. premiere of The Social Reckoning was held Sunday, October 4 at the Regal Union Square in New York. Following premiere screenings in London and Paris, the Aaron Sorkin-helmed film will hit theaters Friday. The film dramatizes the 2021 Facebook leak by the whistleblower Frances Haugen and Jeff Horwitz. Mikey Mad",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "The Social: Il prezzo della verità (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/05/digger-may-lose-150m-after-tom-cruise-film-bombs-at-the-box-office",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-04T23:15:32.000Z",
+      "titolo": "Digger may lose $150m after Tom Cruise film bombs at the box office",
+      "sommario": "<p>Alejandro G Iñárritu’s critically panned satire took just $20m globally in its opening weekend, against a reported $150m production budget and $100m marketing spend</p><p>Digger has flopped in its opening weekend with a $20m global box office, handing Tom Cruise one of the worst debuts of his career and serving as a",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Tom Cruise"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/jack-oconnell-odessa-azion-tend-of-the-world-as-we-know-it-1236897026/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-05T11:30:00.000Z",
+      "titolo": "Jack O’Connell and Odessa A’zion to Play Flat-Earthers in ‘The End of the World as We Know It’ for Studiocanal, Working Title and ‘An Irish Goodbye’ Oscar Winners (EXCLUSIVE)",
+      "sommario": "Ross White and Tom Berkeley, the filmmaking duo behind the Oscar and BAFTA winning short film “An Irish Goodbye,” have teamed up with Studiocanal, Working Title, Parkville Pictures and Film4 for their feature debut and landed two hugely in-demand stars as their leads. “The End of the World as We Know It” will see BAFTA",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-national-day-1236898842/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-05T04:49:01.000Z",
+      "titolo": "China Box Office: Crime Procedural ‘Traces of Justice’ Leads National Day Frame",
+      "sommario": "New Classics Pictures’ crime procedural drama “Traces of Justice” took the top spot at the mainland China box office during the Oct. 2–4 weekend, grossing RMB208.9 million ($31.2 million) over the three-day frame, according to data from Artisan Gateway. Following its Oct. 1 release to launch the Golden Week holiday cor",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-05T10:00:53.000Z",
+      "titolo": "The Yellow Tie review – John Malkovich gives major hauteur as legendary record-hating maestro",
+      "sommario": "<p>This biopic of Sergiu Celibidache, the renowned Romanian conductor who refused all recordings, is a sturdy labour of love directed by his son</p><p>Here is an old-fashioned biopic from central Europe that is also a labour of love on the part of its director: a little stolid and stately, yes, but robustly made, heart",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/10/indie-film-box-office-history-of-concrete-naza-1237146213/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-04T20:00:00.000Z",
+      "titolo": "‘The History Of Concrete’ Cracks $1 Million, ‘NAZA’ Lifts Off – Specialty Box Office",
+      "sommario": "John Wilson’s Sundance-premiering The History of Concrete from Magnolia Pictures is oh so solid, eyeing $450k on 160 screens in week three for a cume of over $1.2 million cume, making it the top grossing, platform-release doc of 2026. Acclaimed documentary NAZA is reporting a five-day gross of $86k since its theatrical",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/05/digger-tom-cruise-movie-box-office-critics-reviews-misunderstood-masterpiece",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-05T04:39:03.000Z",
+      "titolo": "Tom Cruise’s Digger has flopped spectacularly – but I think it is a misunderstood masterpiece",
+      "sommario": "<p>Alejandro G Iñárritu’s film may be about to become one of the biggest bombs Hollywood has ever seen – but it is destined to be re-evaluated with time</p><ul><li><p><strong>This article contains spoilers for Digger</strong></p></li></ul><p>I feel for film critics, I really do. Tom Cruise’s latest film Digger put them",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Tom Cruise"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/10/reacher-author-vetoed-third-tom-cruise-movie-1237146202/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-04T17:31:53.000Z",
+      "titolo": "‘Reacher’ Author Explains Why He “Vetoed” Third Tom Cruise Movie, Calls Prime Series A “Fabulous Luxury”",
+      "sommario": "As Prime Video’s Reacher prepares a fifth and sixth season, the franchise’s creator is happy with the freedom provided by this adaptation. Author Lee Child, who penned the Jack Reacher books on which the series is based, explained why he “exercised that veto” on a third entry in the Tom Cruise movies, opting instead fo",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Alan Ritchson",
+        "Tom Cruise"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2275690/why-ransom-canyon-canceled-netflix/",
       "fonte": "/Film",
       "lingua": "en",
-      "data": "2026-10-03T18:00:00.000Z",
-      "titolo": "Can Other Mommy Be The Next Obsession Or Backrooms At The Box Office?",
-      "sommario": "Audiences like seeing Jessica Chastain in horror movie mode, but can Other Mommy become the next Obsession or Backrooms at the box office?",
+      "data": "2026-10-04T23:30:00.000Z",
+      "titolo": "Why Ransom Canyon Was Canceled At Netflix",
+      "sommario": "Ransom Canyon had potential to be Netflix's Yellowstone, but the streaming giant canceled the series after two seasons. Here's why.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/naza-rebuttal-doc-idf-reserve-members-1236898918/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-05T11:01:52.000Z",
+      "titolo": "‘NAZA’ Rebuttal Doc Surfaces Online, Made by IDF Reserve Members",
+      "sommario": "Just as hot-button Gaza documentary “NAZA” — which recently won a special jury prize at the Venice Film Festival — gains international visibility and media attention, a counter project has surfaced online titled “NAZA: The Real Story.” The original 80-minute doc, which was shot at night on the rooftops of Tel Aviv and ",
       "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-critics-box-office-1236721806/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-04T14:29:51.000Z",
+      "titolo": "Tom Cruise’s ‘Digger’ Tries New Marketing Tactic: The French Love It, Americans Don’t",
+      "sommario": "A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Tom Cruise"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/news/the-assassins-korea-directors-guild-1236898817/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-05T01:13:22.000Z",
+      "titolo": "Korean Directors Rally Behind ‘The Assassin(s)’ as Political Firestorm Turns on Its Makers",
+      "sommario": "The Directors Guild of Korea (DGK) has come out in support of the team behind “The Assassin(s),” Hur Jin-ho’s thriller about the 1974 shooting of first lady Yuk Young-soo, as political anger over the Korean box office leader spills onto its cast and crew. Conservative politicians and online critics have accused the fil",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-05T08:00:51.000Z",
+      "titolo": "Karl review – straightforward tribute tells inside story of fashion world’s great eccentric Karl Lagerfeld",
+      "sommario": "<p>Based on Lagerfeld’s biography, director Nick Hooker gets access to the designer’s inner circle, but ultimately fails to find the man behind the high collar and sunglasses</p><p>Karl Lagerfeld had never set foot inside a supermarket before he had one built on a catwalk in 2014, featuring models browsing aisles with ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/05/charlie-shaws-revenge-review",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-05T06:00:50.000Z",
+      "titolo": "Charlie Shaw’s Revenge review – creepy clown killer takes aim at struggling amusement park",
+      "sommario": "<p>Decent effects and a late-stage twist show promise, but this gore-fest needs to be more disgusting, funny or unnerving</p><p>The film opens with a lone figure striding into the foreground. He’s an amateur entertainer on his way to a gig, and he’s not been met at the station as planned. Still, not to worry – a car pu",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/01/nicolas-cage-marvel-movies-glorified-wwe-ridiculous-outfits",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-01T11:10:07.000Z",
+      "titolo": "Nicolas Cage calls Marvel movies ‘a glorified WWE’ with over-50s in ‘ridiculous outfits’",
+      "sommario": "<p>Star of Spider-Noir told fan convention he ‘spoke with love’ at seeing gifted actors for ever gearing up for superhero fight scenes</p><p>Nicolas Cage, whose recent credits include the Sony Marvel series Spider-Noir, has criticised the Marvel Cinematic Universe, calling it an overfunded and embarrassing spectacle.</",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Nicolas Cage"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/10/james-gunn-writing-next-movie-following-man-of-tomorrow-1237146258/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-04T20:42:38.000Z",
+      "titolo": "James Gunn Is Writing His Next Movie Following ‘Man of Tomorrow’: “Already In It”",
+      "sommario": "Amid Paramount’s industry-shaking acquisition of Warner Bros., James Gunn is remaining focused on his work. When asked if he’s ready to start writing his next film to follow Man of Tomorrow, the DC Studios co-CEO revealed he’s “already in it” while awaiting the edit for his upcoming sequel to 2025’s Superman. “I had to",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/lff-2026-bfi-london-film-festival-preview-political-movies-1236720797/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-05T08:00:00.000Z",
+      "titolo": "Movies With “Real Political Messages” Underneath the Surface, Animation and More: What Not to Miss at London Film Fest",
+      "sommario": "Kristy Matheson previews key highlights and stars featured in the 70th edition and why she doesn't agree with people having \"a grumble about how it doesn't seem like a big or a good year for cinema.\"",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/10/daily-wire-filming-temporarily-suspended-montana-1237146172/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-04T15:55:18.000Z",
+      "titolo": "Daily Wire Filming Temporarily Suspended In Montana After Special City Meeting",
+      "sommario": "Following protest from locals, the city of Livingston, Montana has temporarily suspended production on Daily Wire’s latest film, Pawn Shop. During a special meeting on Saturday, the Livingston City Commission unanimously passed a motion raised by Commissioner Cindy Daniels in response to concerns raised by citizens ove",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/bas-book-director-vietnam-war-1236705255/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-04T18:00:00.000Z",
+      "titolo": "‘Ba’s Book’ Director Uncovers Father’s Secrets Over Vietnam War, Revolutionary Iran Upbringing",
+      "sommario": "Ashley Duong has created an inventive hybrid film inspired by a memoir that fluidly moves between re-enactments and verite documentary styles.",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/edward-said-between-worlds-review-palestine-1236720415/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-04T16:45:16.000Z",
+      "titolo": "‘Edward Said: Between Worlds’ Review: A Crucial Palestinian Scholar, Revived for a New Generation",
+      "sommario": "The latest doc from the Danish filmmaker and producer Maiken Baird (‘Icarus’) examines Said’s role in reframing the Palestinian struggle.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-04T15:32:07.000Z",
+      "titolo": "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”",
+      "sommario": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/jurassic-world-la-rinascita-2-scarlett-johansson-torna-ma-il-nuovo-regista-e-il-nome-piu-sorprendente",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-10-05T08:02:21.000Z",
+      "titolo": "Jurassic World, la Rinascita 2: Scarlett Johansson torna, ma il nuovo regista è il nome più sorprendente",
+      "sommario": "Il sequel di Jurassic World: La Rinascita prende una direzione inattesa: Gareth Edwards non tornerà dietro la macchina da presa e Universal avrebbe già individuato il possibile sostituto. Intanto, le indiscrezioni sul ritorno di Scarlett Johansson alimentano l'attesa per il prossimo capitolo della saga.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Jurassic World - La rinascita (in libreria)",
+        "Jurassic World (in libreria, visto)",
+        "Jurassic World – Il regno distrutto (in libreria, visto)",
+        "Jurassic World - Il dominio (in libreria, visto)",
+        "Scarlett Johansson"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/digger-disastro-box-office-peggior-flop-carriera-tom-cruise_171351/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-05T09:00:26.000Z",
+      "titolo": "Digger è un disastro al box office: il peggior flop nella carriera di Tom Cruise?",
+      "sommario": "Il nuovo film di Tom Cruise e Alejandro González Iñárritu debutta molto al di sotto delle aspettative e rischia di diventare uno dei maggiori flop dell'anno, con un incasso che non supera nemmeno i dieci milioni di dollari. Doveva essere uno degli appuntamenti più importanti dell'autunno cinematografico e si è trasform",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Tom Cruise"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/cinema-news/2026/jack-reacher-3-lautore-lee-child-chiarisce-ufficialmente-la-cancellazione-del-film-con-tom-cruise-724695",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-10-05T08:59:51.000Z",
+      "titolo": "Jack Reacher 3: l’autore Lee Child chiarisce ufficialmente la cancellazione del film con Tom Cruise",
+      "sommario": "Jack Reacher 3: l’autore Lee Child chiarisce ufficialmente la cancellazione del film con Tom Cruise Jack Reacher 3 con Tom Cruise non è mai arrivato al cinema per una decisione precisa di Lee Child. A quasi dieci anni dall’ultima apparizione dell’attore nei panni dell’ex militare creato dallo scrittore britannico, Chil",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Tom Cruise"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/jessica-chastain-al-doppio-della-tensione-perche-mammina-e-il-thriller-psicologico-dellautunno-da-vedere-al-cinema/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-10-05T08:54:00.000Z",
+      "titolo": "Jessica Chastain al doppio della tensione: perché Mammina è il thriller psicologico dell'autunno da vedere al cinema",
+      "sommario": "Jessica Chastain guida un horror che trasforma la figura materna in una presenza inquietante, tra ambiguità psicologica, paura e tensione tutta da vivere in sala.",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [
         "Mammina (in libreria)"
       ],
       "radar": null
     },
     {
-      "link": "https://deadline.com/2026/10/jeremy-strong-mark-zuckerberg-the-social-reckoning-1237146074/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-03T23:48:44.000Z",
-      "titolo": "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About ‘The Social Reckoning’",
-      "sommario": "There were times Jeremy Strong actually sent emails to Aaron Sorkin as if he were Mark Zuckerberg himself. So when Strong was asked by The New Yorker‘s David Remnick whether he cares how Zuckerberg will react to The Social Reckoning, Strong said yes; that’s why he reached out to the Facebook founder in the first […]",
+      "link": "https://www.badtaste.it/articoli/tenet-cosa-significa-davvero-il-finale-il-destino-di-neil-svela-cio-che-nolan-aveva-nascosto-fin-dallinizio",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-10-05T07:30:12.000Z",
+      "titolo": "Tenet, cosa significa davvero il finale? Il destino di Neil svela ciò che Nolan aveva nascosto fin dall’inizio",
+      "sommario": "Come finisce Tenet? Dall’inversione temporale al destino di Neil, spieghiamo il finale del film di Christopher Nolan e cosa significa davvero.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [
-        "The Social: Il prezzo della verità (in libreria)"
+        "Christopher Nolan"
       ],
-      "radar": null
+      "radar": "regia di Christopher Nolan, di cui hai visto 2 film"
     },
     {
-      "link": "https://deadline.com/2026/10/aaron-sorkin-never-occurred-jesse-eisenberg-social-reckoning-1237146050/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-03T20:55:05.000Z",
-      "titolo": "Aaron Sorkin Says “It Never Occurred To Me” That Jesse Eisenberg Wouldn’t Want To Return For ‘The Social Reckoning’",
-      "sommario": "As Aaron Sorkin logged back into Facebook for The Social Reckoning, his friend request to Jesse Eisenberg was denied. The Oscar-winning screenwriter of The Social Network (2010) explained that “it never occurred” to him that Eisenberg wouldn’t want to reprise his portrayal of Meta mogul Mark Zuckerberg in the sequel, w",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "The Social: Il prezzo della verità (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/aaron-sorkin-jesse-eisenberg-mark-zuckerberg-social-reckoning-1236898205/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-03T17:35:18.000Z",
-      "titolo": "Aaron Sorkin Says It ‘Never Occurred’ to Him That Jesse Eisenberg Wouldn’t Play Mark Zuckerberg in ‘The Social Reckoning,’ Claims the Paycheck Was a ‘Disincentive’",
-      "sommario": "Before Jesse Eisenberg declined to step back into the world of Facebook as Mark Zuckerberg for Aaron Sorkin’s “The Social Reckoning,” the director admitted “it never occurred” to him that the actor wouldn’t be on board with his 2026 follow-up to 2010’s “The Social Network,” in which Eisenberg portrayed the young tech b",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "The Social: Il prezzo della verità (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/lists/weekend-read-digger-musk-backrooms-tax-credits/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-03T14:30:00.000Z",
-      "titolo": "The Weekend Read: Divisive ‘Digger’, Alex Gibney’s ‘Musk’ Mission, ‘Primetime’s Morals, A ‘Backrooms’ Franchise & A Republican Plan To Save Hollywood",
-      "sommario": "It’s time for The Weekend Read — your curated collection of long-form features — think of it as a modern version of the newspaper color supplement landing on your doormat. This time we’ve got a review of the most divisive movie in recent memory: Digger. And we’ve got a sit-down with Alex Gibney, all about […]",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Backrooms (in libreria, visto)",
-        "Kane Parsons",
-        "Tom Cruise"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-04T00:58:57.000Z",
-      "titolo": "Jeremy Strong Says He Doesn’t “Need to Apologize” for Method Acting: “It’s in Service of the Material”",
-      "sommario": "\"I’m just there to commit utterly to serving the material,\" the Oscar nominee said of his approach to acting.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "The Social: Il prezzo della verità (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-03T19:55:38.000Z",
-      "titolo": "Guillermo Del Toro Defends ‘Digger,’ Calls the Film ‘Daring, Bold and Cinematically Complex’",
-      "sommario": "Guillermo Del Toro is publicly declaring his love for “Digger.” Del Toro took to X to call out naysayers of Alejandro G. Iñárritu’s film ahead of its Friday release. “Entirely Petty headline,” the director wrote in response to a review of Warner Bros.’ R-rated black comedy. “Love it or not. And yes, I do. The […]",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Guillermo del Toro"
-      ],
-      "radar": "regia di Guillermo del Toro, di cui hai visto un film"
-    },
-    {
-      "link": "https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-03T16:04:12.000Z",
-      "titolo": "Guillermo Del Toro Buries ‘Digger’ In Praise, Slams “Petty” Review: “Decidedly A Theatrical Experience”",
-      "sommario": "Although Digger has premiered this weekend to mixed reviews, Guillermo Del Toro is a confirmed fan of the Alejandro G. Iñárritu satire. The 3x Oscar winner has taken to social media to heap praise on Tom Cruise’s latest after responding to a critic that called the film “far from a must-watch” and recommended viewers wa",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Guillermo del Toro",
-        "Tom Cruise"
-      ],
-      "radar": "regia di Guillermo del Toro, di cui hai visto un film"
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-social-media-box-office-opening-1236721639/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-03T19:24:13.000Z",
-      "titolo": "Tom Cruise Stands Up for ‘Digger’ Amid Tough Box Office: “I’m So Proud of What We Created”",
-      "sommario": "Alejandro G. Iñárritu helmed the big-budget Warner Bros. release that is struggling in its opening weekend.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Tom Cruise"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-04T09:00:24.000Z",
-      "titolo": "‘It’s OK to love somebody when they’re not perfect’: how John Cena conquered Hollywood – and why he refuses to abandon Vince McMahon",
-      "sommario": "<p>By embracing the role of amiable lunk, the wrestler turned actor has become an unlikely, and very modern, leading man. But does his relationship with the WWE, and its controversial former owner, risk tarnishing his brand?</p><p>I must admit, I was apprehensive about meeting John Cena. The WWE wrestler turned actor h",
+      "link": "https://cinefilos.it/serie-tv/news/lanterns-svela-ufficialmente-il-sostituto-di-nathan-fillion-nel-cast-della-seconda-stagione-724690",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-10-05T08:38:06.000Z",
+      "titolo": "Lanterns svela ufficialmente il sostituto di Nathan Fillion nel cast della seconda stagione",
+      "sommario": "Lanterns svela ufficialmente il sostituto di Nathan Fillion nel cast della seconda stagione Il finale della prima stagione di Lanterns ha riscritto gli equilibri dei Green Lantern umani nel nuovo DC Universe di James Gunn. Dopo la morte di Hal Jordan, interpretato da Kyle Chandler, il vero colpo di scena riguarda però ",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/global/pierre-le-gall-flesh-and-fuel-zurich-film-festival-1236898150/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-03T19:00:00.000Z",
-      "titolo": "Pierre Le Gall’s Passionate Love Story ‘Flesh and Fuel’ Named Best Film at Zurich Film Festival",
-      "sommario": "French director Pierre Le Gall’s passionate love story “Flesh and Fuel,” which world premiered in Cannes’ Critics’ Week, won the top prize, the Golden Eye, at the 22nd Zurich Film Festival on Saturday. The Golden Eye for best documentary went to Pete Muller’s “Bucks Harbor,” which premiered at the Berlin Film Festival ",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2273823/genre-defining-sci-fi-movies-barely-impacted-box-office/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-04T08:10:00.000Z",
-      "titolo": "5 Genre-Defining Sci-Fi Movies That Barely Impacted The Box Office",
-      "sommario": "The 5 sci-fi movies on this list all underperformed or downright flopped at the box office, and yet their influence on the genre has been massive.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/denver-film-festival-2026-lineup-schedule-honorees-1236721487/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-03T14:00:00.000Z",
-      "titolo": "Denver Film Festival Unveils Lineup and Honorees",
-      "sommario": "Peter Farrelly's 'I Play Rocky' will open the fest while James Gray's 'Paper Tiger' will close it. In between, Denver Film will honor Carrie Coon, John Cho, Liz Sargent, Fred Hechinger, Benedetta Porcaroli, David Acord and experimental filmmaker Michael Gitlin.",
+      "link": "https://movieplayer.it/news/batman-2-scarlett-johansson-interrompe-riprese-allucinazioni_171352/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-05T09:30:29.000Z",
+      "titolo": "Batman 2, Scarlett Johansson interrompe le riprese: \"Ho le allucinazioni\"",
+      "sommario": "In questo periodo Johansson sarebbe impegnata nelle riprese di The Batman 2, ma ha trovato il tempo di riunirsi con Adam Driver e Miles Teller per un altro progetto, mettendo in pausa il film. Scarlett Johansson è arrivata al New York Film Festival direttamente dal set di The Batman 2 e il jet lag non ha tardato a pres",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
+        "The Batman: Part II (in libreria)",
         "Scarlett Johansson"
       ],
       "radar": null
     },
     {
-      "link": "https://deadline.com/2026/10/tom-cruise-proud-of-digger-opening-weekend-1237146055/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-03T21:54:02.000Z",
-      "titolo": "‘Digger’ Star Tom Cruise Says He’s “So Proud Of What We Created” Despite Poor Open At Theaters",
-      "sommario": "Digger may be the lowest opening for a Tom Cruise joint since 2007’s Lions for Lambs, but the mega-star has only mad respect for those who joined him on the Alejandro G. Iñárritu-directed film. In an Instagram post, Cruise said that “I am so honored to have had the opportunity to create this film alongside […]",
+      "link": "https://www.everyeye.it/notizie/goty-2026-perche-anno-premio-campo-battaglia-giochi-85-904105.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-10-05T06:45:00.000Z",
+      "titolo": "GOTY 2026: perché quest'anno il premio è un campo di battaglia di giochi da 85",
+      "sommario": "Il 2026 dei videogiochi offre qualità e varietà con tanti titoli solidi, anche se manca il capolavoro assoluto degli anni precedenti. Potremmo definirlo un anno da 8 e mezzo su 10. Nel 2026 sono usciti innumerevoli giochi validi, solidi e ben confezionati. Certo, siamo lontani dall'eccellenza del 2023, forse la miglior",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/business/box-office-italia-4-ottobre-2026-naza-verity-digger-odissea-724687",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-10-05T08:27:38.000Z",
+      "titolo": "Box office Italia: Naza resta al primo posto e supera i 3 milioni, Verity debutta davanti a Digger",
+      "sommario": "Box office Italia: Naza resta al primo posto e supera i 3 milioni, Verity debutta davanti a Digger Naza continua a guidare il box office italiano. Nella giornata di domenica 4 ottobre 2026, il film distribuito da I Wonder Pictures ha mantenuto saldamente la prima posizione incassando 417.198 euro con 50.782 presenze. I",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/e-un-mondo-difficile-clip-esclusiva-film-rai-cinema_171344/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-04T15:47:27.000Z",
+      "titolo": "È un mondo difficile: una clip esclusiva del film con Elena Funari e Francesco Castellaneta",
+      "sommario": "Diretto da Federico Mottica, il film, che racconta l'amore tra due persone che continuano a cercarsi mentre le loro vite, nel tempo, prendono strade diverse, sarà presentato durante la prossima edizione di Alice nella Città Un amore che arriva troppo in fretta, una separazione e poi un nuovo incontro, quando le vite di",
       "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/cinema-news/2026/digger-alejandro-g-inarritu-colpo-di-scena-bizzarro-724701",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-10-05T09:09:57.000Z",
+      "titolo": "Digger: Alejandro G. Iñárritu chiarisce il bizzarro colpo di scena alla fine del film",
+      "sommario": "Digger: Alejandro G. Iñárritu chiarisce il bizzarro colpo di scena alla fine del film Digger (qui la nostra recensione) è uno dei film più insoliti della carriera di Tom Cruise, e ora l’attore e il regista Alejandro G. Iñárritu hanno spiegato come è nata la scelta narrativa più sorprendente del film. La pellicola, pres",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [
         "Tom Cruise"
       ],
       "radar": null
     },
     {
-      "link": "https://www.slashfilm.com/2276279/anne-hathaway-2026-movie-performances-ranked/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-03T08:10:00.000Z",
-      "titolo": "All 5 Anne Hathaway Movie Performances From 2026, Ranked",
-      "sommario": "Anne Hathaway has had an incredible year, appearing in five distinctly different movies. Here's a ranking of all of her 2026 performances, from worst to best.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Anne Hathaway"
-      ],
-      "radar": "c'è Anne Hathaway, che hai visto 2 volte"
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-02T07:00:13.000Z",
-      "titolo": "‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt",
-      "sommario": "<p>When his son died aged 27, the director could barely bring himself to watch his old clips of the boy. When at last he did, it was the genesis of an extraordinary project</p><p>Ross McElwee is the film-maker who spun home movies into art, framing himself and his friends and his son Adrian. The director used to film A",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-03T23:43:13.000Z",
-      "titolo": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’",
-      "sommario": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and — analogous to “12 Angry M",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/tony-gilroy-paramount-warner-bros-merger-behemoth-nyff-1236898132/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-03T19:15:41.000Z",
-      "titolo": "Tony Gilroy Says Paramount-Warner Bros. Merger Will ‘Destroy’ a ‘Healthy and Beautiful Business’ in ‘The Name of Venture Capital’: ‘It’s Tragic’",
-      "sommario": "Tony Gilroy blasted the “tragic” nature of the Paramount-Warner Bros. merger at the world premiere of his new film, “Behemoth!” Produced on a $36 million budget, “Behemoth!” is representative of the mid-budget, adult-oriented drama that once sustained Hollywood’s theatrical business — and allowed filmmakers like Gilroy",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-03T19:18:56.000Z",
-      "titolo": "‘X-Men’s Christopher Abbott Admits He “Hasn’t Read Anything” Yet But “Can’t Wait” To Play Professor X",
-      "sommario": "Although Charles Xavier has the power to read minds, Christopher Abbott is being kept in the dark about his next big role. The actor, who was cast as Professor X in Marvel Studios’ X-Men movie, recently noted he’s “very much” excited to get to work on the Jake Schreier-helmed superhero movie, despite still having not [",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/global/asghar-farhadi-argo-american-white-savior-myth-1236898176/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-03T17:50:28.000Z",
-      "titolo": "Asghar Farhadi Says Films Like ‘Argo’ Perpetuate American White Savior Myth: ‘Who Asked You to Come and Save Us?’",
-      "sommario": "RIO DE JANEIRO, Brazil – Twice Oscar-winning filmmaker Asghar Farhadi, who is at the Rio Film Festival to present “Parallel Tales,” spoke about the perceived hegemony of American cinema and how Hollywood shouldn’t be seen as a source for faithful portrayals of foreign cultures. Asked about “Argo” winning Best Picture j",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-03T17:41:00.000Z",
-      "titolo": "‘Behemoth!’: Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)",
-      "sommario": "SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a cellist ",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/10/pete-townshend-behind-blue-eyes-interview-frank-marshall-nigel-sinclair-cassidy-hartmann-1237146014/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-03T18:13:33.000Z",
-      "titolo": "Brilliance Of The Who’s Leader Shines In ‘Pete Townshend: Behind Blue Eyes,’ Screening At Hamptons & Mill Valley",
-      "sommario": "The British invasion of the mid-1960s was a multi-pronged attack, an assault led above all by The Beatles, The Rolling Stones, and The Who. Their seismic impact on American and world culture has been well documented. But of the leaders of those three mega-bands, perhaps the most mysterious remains Pete Townshend, The W",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-04T00:15:12.000Z",
-      "titolo": "A Statement review – outstanding climate change dramedy about a 1980 meeting",
-      "sommario": "<p><strong>New York film festival:</strong> Paul Rudd, Paul Giamatti and Tatiana Maslany lead an excellent ensemble in this dramatization of a failed conference on climate change</p><p>In late October 1980, days before the election of <a href=\"https://www.theguardian.com/us-news/ronald-reagan\">Ronald Reagan</a>, Congre",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-04T01:18:31.000Z",
-      "titolo": "How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”",
-      "sommario": "Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they’re returning with ‘Freaks 2’ and as bankable horror directors and writers.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-statement-review-paul-rudd-amy-ryan-john-turturro-1236721637/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-04T00:15:00.000Z",
-      "titolo": "‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama",
-      "sommario": "Paul Giamatti, Evan Peters and Tatiana Maslany also star in Tom McCarthy’s account of a 1980 conference at which a group of experts is tasked with getting ahead of the climate crisis.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2273428/werwulf-director-rober-eggers-lesson-flop/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-03T16:00:00.000Z",
-      "titolo": "Werwulf Director Robert Eggers Learned An Important Lesson From His Biggest Flop",
-      "sommario": "Robert Eggers' The Northman may have flopped, but the Viking epic taught him a specific lesson that he applied to his latest horror film, Werwulf.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://cinefilos.it/cinema-news/2026/verity-finale-film-differenze-libro-colleen-hoover-michael-showalter-724576",
-      "fonte": "Cinefilos",
+      "link": "https://movieplayer.it/news/james-gunn-scrivendo-prossimo-film-mentre-superman-man-tomorrow_171357/",
+      "fonte": "MoviePlayer",
       "lingua": "it",
-      "data": "2026-10-04T10:37:55.000Z",
-      "titolo": "Verity poteva avere un finale completamente diverso: perché il film ha scelto di cambiare il libro di Colleen Hoover",
-      "sommario": "Verity poteva avere un finale completamente diverso: perché il film ha scelto di cambiare il libro di Colleen Hoover Verity avrebbe potuto concludersi in maniera molto diversa. Il regista Michael Showalter ha rivelato che durante lo sviluppo dell’adattamento del romanzo di Colleen Hoover sono state prese in considerazi",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Verity (in libreria)"
-      ],
+      "data": "2026-10-05T11:30:54.000Z",
+      "titolo": "James Gunn sta già scrivendo il suo prossimo film mentre lavora a Superman: Man of Tomorrow",
+      "sommario": "Il regista e co-CEO di DC Studios ha confermato di essere già al lavoro sulla sceneggiatura del suo prossimo film, nonostante il sequel di Superman sia ancora in fase di montaggio. James Gunn non sembra avere intenzione di rallentare. Mentre Superman: Man of Tomorrow entra nella fase successiva della post-produzione in",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.badtaste.it/recensioni/verity-la-recensione-sullerotismo-e-su-tutto-cio-che-manca-al-suo-racconto",
+      "link": "https://www.badtaste.it/articoli/warner-paramount-i-primi-danni-sospeso-il-nuovo-film-di-il-signore-degli-anelli",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-10-03T18:19:32.000Z",
-      "titolo": "Verity, la recensione: sull’erotismo e su tutto ciò che manca al suo racconto",
-      "sommario": "Il nuovo film con Anne Hathaway, Dakota Johnson e Josh Hartnett arriva al cinema: Verity è un thriller che non riesce a comunicare nel modo giusto.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Verity (in libreria)",
-        "Anne Hathaway"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/recensioni/la-valle-delleden-la-recensione-il-futuro-e-ancora-nostro",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-03T17:34:11.000Z",
-      "titolo": "La valle dell’Eden, la recensione: il futuro è ancora nostro",
-      "sommario": "Netflix riporta alla luce il romanzo di John Steinbeck con un adattamento ambiziosissimo, probabilmente tra i migliori dell'anno. Florence Pugh è al centro di un'opera suggestiva che riflette sul senso del dolore e della colpa, tra predestinazione e trauma generazionale.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Florence Pugh"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/il-creatore-di-andor-attacca-la-fusione-warner-bros-paramount-e-una-tragedia-per-il-cinema",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-04T07:15:20.000Z",
-      "titolo": "Il creatore di Andor attacca la fusione Warner Bros.-Paramount: “È una tragedia per il cinema”",
-      "sommario": "Tony Gilroy attacca l’unione tra Paramount e Warner Bros. Discovery e teme le conseguenze che il nuovo colosso potrebbe avere sul futuro del cinema.",
+      "data": "2026-10-05T11:01:53.000Z",
+      "titolo": "Warner-Paramount, i primi danni: sospeso il nuovo film di Il Signore degli Anelli",
+      "sommario": "Il nuovo film su Il Signore degli Anelli viene messo in pausa dopo la fusione Paramount-Warner.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://cinefilos.it/tutto-film/approfondimenti/saint-judy-spiegazione-finale-come-finisce-asefa-judy-wood-724570",
-      "fonte": "Cinefilos",
+      "link": "https://movieplayer.it/news/avengers-endgame-torna-film-visto-sempre-supera-avatar-riedizione_171355/",
+      "fonte": "MoviePlayer",
       "lingua": "it",
-      "data": "2026-10-04T10:00:17.000Z",
-      "titolo": "Saint Judy, spiegazione del finale: cosa succede ad Asefa e cosa cambia davvero la vittoria di Judy Wood",
-      "sommario": "Saint Judy, spiegazione del finale: cosa succede ad Asefa e cosa cambia davvero la vittoria di Judy Wood Saint Judy arriva al suo finale dopo aver trasformato il caso di Asefa Ashwari in qualcosa di molto più grande della battaglia per impedire la deportazione di una singola donna. Il film diretto da Sean Hanish, con M",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://cinefilos.it/tutto-film/approfondimenti/jungle-storia-vera-724559",
-      "fonte": "Cinefilos",
-      "lingua": "it",
-      "data": "2026-10-04T09:09:06.000Z",
-      "titolo": "Jungle: la storia vera dietro il film con Daniel Radcliffe e cosa accadde davvero a Yossi Ghinsberg",
-      "sommario": "Jungle: la storia vera dietro il film con Daniel Radcliffe e cosa accadde davvero a Yossi Ghinsberg Jungle sembra costruito intorno a una delle situazioni più classiche del survival movie: un giovane viaggiatore si perde nella foresta amazzonica e deve sopravvivere completamente solo, senza cibo, equipaggiamento o poss",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/questo-film-con-jim-carrey-su-prime-video-e-diventato-un-cult-nonostante-le-critiche-devastanti-del-1995",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-03T18:00:16.000Z",
-      "titolo": "Questo film con Jim Carrey su Prime Video è diventato un cult nonostante le critiche devastanti del 1995",
-      "sommario": "Scopri perché questo sequel è diventato un cult generazionale nonostante le critiche negative del 1995 e il successo di Jim Carrey.",
+      "data": "2026-10-05T10:30:00.000Z",
+      "titolo": "Avengers: Endgame torna il film più visto di sempre e supera Avatar dopo la riedizione al cinema",
+      "sommario": "La riedizione \"Extra\" permette al film Marvel del 2019 di raggiungere 2,925 miliardi di dollari al box office mondiale e riprendersi il record che Avatar aveva riconquistato nel 2021. La sfida tra Avengers: Endgame e Avatar non sembra avere intenzione di finire. È la seconda volta che i due blockbuster si scambiano il ",
       "sezioneProvvisoria": "passato",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.badtaste.it/articoli/mark-wahlberg-e-un-orso-irriverente-il-film-di-macfarlane-su-prime-video-che-fece-impazzire-lamerica",
+      "link": "https://movieplayer.it/news/paul-rudd-smesso-portare-telefono-set-contribuiscono-distruggerci_171353/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-05T10:00:43.000Z",
+      "titolo": "Paul Rudd ha smesso di portare il telefono sul set: \"Contribuiscono a distruggerci\"",
+      "sommario": "L'attore ha raccontato al New York Film Festival di aver iniziato a lasciare lo smartphone nel suo trailer durante le riprese, una scelta che Tom McCarthy ha trasformato in una regola per tutto il cast di A Statement, favorendo un'atmosfera più simile a quella di una compagnia teatrale. Paul Rudd ha trovato un modo piu",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/dove-e-stato-girato-la-ragazza-della-palude-la-carolina-del-nord-del-film-non-e-quella-che-sembra",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-10-03T17:00:01.000Z",
-      "titolo": "Mark Wahlberg e un orso irriverente: Il film di MacFarlane su Prime Video che fece impazzire l'America",
-      "sommario": "Da orsacchiotto magico a icona volgare. L'analisi del film di Seth MacFarlane che ha incassato 549 milioni di dollari nel mondo.",
+      "data": "2026-10-05T08:00:00.000Z",
+      "titolo": "Dove è stato girato La ragazza della palude? La Carolina del Nord del film non è quella che sembra",
+      "sommario": "Dove è stato girato La ragazza della palude? Da Houma alla casa di Kya, scopriamo le vere location del film con Daisy Edgar-Jones.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/lassurda-storia-della-gialappas-band-ecco-come-e-nata-lidea-del-film-diretto-da-walter-veltroni",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-10-05T07:37:50.000Z",
+      "titolo": "L'assurda storia della Gialappa’s Band, ecco come è nata l’idea del film diretto da Walter Veltroni",
+      "sommario": "Il documentario ripercorre la storia di una delle realtà più originali della comicità italiana, dalle prime provocazioni radiofoniche al fenomeno Mai dire Gol.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.badtaste.it/articoli/il-film-italiano-del-1976-che-ancora-oggi-terrorizza-e-di-pupi-avati-ed-e-su-prime-video",
+      "link": "https://www.badtaste.it/articoli/la-ragazza-della-palude-cosa-cambia-rispetto-al-libro-il-film-ha-eliminato-un-segreto-importante-di-kya",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-10-03T16:00:47.000Z",
-      "titolo": "Il film italiano del 1976 che ancora oggi terrorizza è di Pupi Avati (ed è su Prime Video)",
-      "sommario": "Il capolavoro horror del 1976 che ha trasformato la pianura padana in un incubo gotico indimenticabile è disponibile su Prime Video.",
-      "sezioneProvvisoria": "passato",
+      "data": "2026-10-05T07:00:58.000Z",
+      "titolo": "La ragazza della palude, cosa cambia rispetto al libro? Il film ha eliminato un segreto importante di Kya",
+      "sommario": "La ragazza della palude cambia diversi elementi del romanzo di Delia Owens: dalle vicende di Kya al processo fino alla rivelazione del finale.",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://cinefilos.it/tutto-film/approfondimenti/the-mosquito-bowl-piu-grande-film-di-guerra-724704",
+      "fonte": "Cinefilos",
+      "lingua": "it",
+      "data": "2026-10-05T09:23:46.000Z",
+      "titolo": "The Mosquito Bowl può diventare il più grande film di guerra degli ultimi anni, ecco perché!",
+      "sommario": "The Mosquito Bowl può diventare il più grande film di guerra degli ultimi anni, ecco perché! La guerra raccontata da The Mosquito Bowl passa da un luogo apparentemente lontanissimo dal campo di battaglia: un campo da football. Il film diretto da Peter Berg porta sullo schermo la storia vera di quattro giovani stelle de",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     }

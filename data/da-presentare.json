@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-04T10:58:38.668Z",
+  "preparato": "2026-10-05T11:59:34.748Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -142,41 +142,6 @@
         "avventura e thriller: il tuo terreno"
       ],
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
-    },
-    {
-      "id": "tmdb-977942",
-      "tmdbId": 977942,
-      "imdbId": "tt36983905",
-      "origine": "trailer",
-      "titolo": "The Uprising",
-      "titoloOriginale": "The Uprising",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Paul Greengrass",
-      "generi": [
-        "Storia",
-        "Dramma"
-      ],
-      "paesi": [
-        "Germania",
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 128,
-      "tagline": "Rialzati o muori",
-      "cast": [
-        "Andrew Garfield (Ploughman)",
-        "Jamie Bell (John Ball)",
-        "Stephen Dillane (Archbishop Sudbury)",
-        "Woody Norman (King Richard II)",
-        "Tom Hollander (Treasurer Hales)",
-        "Cosmo Jarvis (Wat Tyler)"
-      ],
-      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "The Uprising|235|Paul Greengrass"
     },
     {
       "id": "tmdb-1503762",
@@ -349,6 +314,40 @@
       "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
+      "id": "tmdb-977942",
+      "tmdbId": 977942,
+      "imdbId": "tt36983905",
+      "origine": "trailer",
+      "titolo": "The Uprising",
+      "titoloOriginale": "The Uprising",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Paul Greengrass",
+      "generi": [
+        "Storia",
+        "Dramma",
+        "Azione"
+      ],
+      "paesi": [
+        "Germania",
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 128,
+      "tagline": "Risorgi o muori.",
+      "cast": [
+        "Andrew Garfield (Ploughman)",
+        "Jamie Bell (John Ball)",
+        "Stephen Dillane (Archbishop Sudbury)",
+        "Woody Norman (King Richard II)",
+        "Tom Hollander (Treasurer Hales)",
+        "Cosmo Jarvis (Wat Tyler)"
+      ],
+      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
+      "motivi": [],
+      "impronta": "The Uprising|235|Paul Greengrass"
+    },
+    {
       "id": "tmdb-1755291",
       "tmdbId": 1755291,
       "imdbId": "tt44766123",
@@ -375,348 +374,246 @@
       "impronta": "NAZA|259|يوفال إبراهيم"
     },
     {
-      "id": "tmdb-1242898",
-      "tmdbId": 1242898,
-      "imdbId": "tt31227572",
+      "id": "tmdb-324786",
+      "tmdbId": 324786,
+      "imdbId": "tt2119532",
       "origine": "scoperta",
-      "titolo": "Predator: Badlands",
-      "titoloOriginale": "Predator: Badlands",
-      "anno": "2025",
-      "uscitaItalia": "2025-11-06",
-      "regia": "Dan Trachtenberg",
+      "titolo": "La battaglia di Hacksaw Ridge",
+      "titoloOriginale": "Hacksaw Ridge",
+      "anno": "2017",
+      "uscitaItalia": "2017-02-02",
+      "regia": "Mel Gibson",
       "generi": [
-        "Azione",
-        "Fantascienza",
-        "Avventura"
+        "Dramma",
+        "Storia",
+        "Guerra"
+      ],
+      "paesi": [
+        "Australia",
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 139,
+      "tagline": "Per diventare un eroe non serve un'arma",
+      "cast": [
+        "Andrew Garfield (Desmond T. Doss)",
+        "Sam Worthington (Captain Glover)",
+        "Vince Vaughn (Sgt Howell)",
+        "Teresa Palmer (Dorothy Schuttle)",
+        "Luke Bracey (Smitty Ryker)",
+        "Hugo Weaving (Tom Doss)"
+      ],
+      "tramaTmdb": "Nel film viene raccontata  la storia vera di Desmond Doss.\r L'attacco alla base americana di Pearl Harbor apre un nuovo fronte delle ostilità in Giappone. Desmond Doss, cresciuto sulle montagne della Virginia e in una famiglia vessata da un padre alcolizzato, decide di arruolarsi e di servire il suo Paese. Ma Desmond non è come gli altri. Cristiano avventista e obiettore di coscienza, il ragazzo rifiuta di impugnare il fucile e uccidere un uomo. Fosse anche nemico. In un mondo dilaniato dalla guerra, Desmond ha deciso di rimettere assieme i pezzi. Arruolato come soccorritore medico e spedito s",
+      "motivi": [
+        "c'è Sam Worthington, che hai visto 2 volte",
+        "un classico che ti manca"
+      ],
+      "impronta": "La battaglia di Hacksaw Ridge|600|Mel Gibson"
+    },
+    {
+      "id": "tmdb-77",
+      "tmdbId": 77,
+      "imdbId": "tt0209144",
+      "origine": "scoperta",
+      "titolo": "Memento",
+      "titoloOriginale": "Memento",
+      "anno": "2001",
+      "uscitaItalia": "2001-01-19",
+      "regia": "Christopher Nolan",
+      "generi": [
+        "Mistero",
+        "Thriller"
       ],
       "paesi": [
         "USA"
+      ],
+      "durata": 113,
+      "tagline": "Ricordati di non dimenticare.",
+      "cast": [
+        "Guy Pearce (Leonard)",
+        "Carrie-Anne Moss (Natalie)",
+        "Joe Pantoliano (Teddy)",
+        "Mark Boone Junior (Burt)",
+        "Russ Fega (Waiter)",
+        "Jorja Fox (Leonard's Wife)"
+      ],
+      "tramaTmdb": "Leonard Shelby è affetto da una particolare forma di amnesia che lascia intatti i vecchi ricordi ma comporta la perdita della memoria breve. Attraverso un'affannosa ricerca compiuta per mezzo dell'azione e della scrittura, che serve a registrare ciò di cui la percezione non può farsi sicuro garante, Leonard cerca l'assassino della moglie, l'ultimo ricordo che \"non riesce a ricordare di dimenticare\".",
+      "motivi": [
+        "regia di Christopher Nolan, di cui hai visto 2 film",
+        "un classico che ti manca"
+      ],
+      "impronta": "Memento|402|Christopher Nolan"
+    },
+    {
+      "id": "tmdb-411088",
+      "tmdbId": 411088,
+      "imdbId": "tt4857264",
+      "origine": "scoperta",
+      "titolo": "Contrattempo",
+      "titoloOriginale": "Contratiempo",
+      "anno": "2017",
+      "uscitaItalia": "2017-01-06",
+      "regia": "Oriol Paulo",
+      "generi": [
+        "Dramma",
+        "Mistero",
+        "Thriller"
+      ],
+      "paesi": [
+        "Spagna"
       ],
       "durata": 107,
-      "tagline": "La prima caccia. L'ultima occasione.",
+      "tagline": null,
       "cast": [
-        "Elle Fanning (Thia / Tessa)",
-        "Dimitrius Schuster-Koloamatangi (Dek / Father)",
-        "Ravi Narayan (Bud)",
-        "Michael Homick (Kwei (Suit))",
-        "Stefan Grube (Kwei (voice))",
-        "Reuben De Jong (Father (Suit))"
+        "Mario Casas (Adrián Doria)",
+        "Ana Wagener (Elvira)",
+        "Jose Coronado (Tomás Garrido)",
+        "Bárbara Lennie (Laura Vidal)",
+        "Francesc Orella (Félix Leiva)",
+        "Paco Tous (Driver)"
       ],
-      "tramaTmdb": "Nel futuro, su un pianeta remoto, un giovane Predatore, emarginato dal suo clan, trova un alleato improbabile in Thia e intraprende un viaggio pericoloso alla ricerca del nemico supremo.",
+      "tramaTmdb": "Dopo essersi svegliato a fianco del cadavere dell'amante, un giovane uomo d'affari ingaggia un'avvocatessa per capire in che modo è finito tra gli indagati di omicidio.",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Predator: Badlands|186|Dan Trachtenberg"
+      "impronta": "Contrattempo|168|Oriol Paulo"
     },
     {
-      "id": "tmdb-857",
-      "tmdbId": 857,
-      "imdbId": "tt0120815",
+      "id": "tmdb-1419406",
+      "tmdbId": 1419406,
+      "imdbId": "tt34610311",
       "origine": "scoperta",
-      "titolo": "Salvate il soldato Ryan",
-      "titoloOriginale": "Saving Private Ryan",
-      "anno": "1998",
-      "uscitaItalia": "1998-10-30",
-      "regia": "Steven Spielberg",
+      "titolo": "The Shadow's Edge - Colpo su colpo",
+      "titoloOriginale": "捕风追影",
+      "anno": "2025",
+      "uscitaItalia": "2025-08-16",
+      "regia": "杨子",
       "generi": [
-        "Guerra",
-        "Dramma",
-        "Storia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 169,
-      "tagline": "In missione per un uomo.",
-      "cast": [
-        "Tom Hanks (Captain Miller)",
-        "Tom Sizemore (Sergeant Horvath)",
-        "Edward Burns (Private Reiben)",
-        "Barry Pepper (Private Jackson)",
-        "Adam Goldberg (Private Mellish)",
-        "Vin Diesel (Private Caparzo)"
-      ],
-      "tramaTmdb": "Il 6 giugno 1944 il cap. John Miller sbarca con i suoi uomini a Omaha Beach. È un massacro sotto il micidiale fuoco tedesco. Il generale George Marshall (Presnell), comandante supremo dell'armata angloamericana, apprende che la famiglia Ryan dell'Iowa ha già perduto tre figli e che un quarto fratello, James Francis Ryan, è stato paracadutato in Normandia oltre le linee nemiche. Dà ordine che sia ritrovato e rimandato a casa. L'incarico è affidato al cap. Miller che, con sei uomini e un interprete, parte alla sua ricerca.",
-      "motivi": [
-        "regia di Steven Spielberg, di cui hai visto un film",
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Salvate il soldato Ryan|526|Steven Spielberg"
-    },
-    {
-      "id": "tmdb-10386",
-      "tmdbId": 10386,
-      "imdbId": "tt0129167",
-      "origine": "scoperta",
-      "titolo": "Il gigante di ferro",
-      "titoloOriginale": "The Iron Giant",
-      "anno": "1999",
-      "uscitaItalia": "1999-12-23",
-      "regia": "Brad Bird",
-      "generi": [
-        "Animazione",
-        "Dramma",
-        "Famiglia",
-        "Fantascienza",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 86,
-      "tagline": "Ci sono segreti che non si possono nascondere.",
-      "cast": [
-        "Jennifer Aniston (Annie Hughes (voice))",
-        "Harry Connick Jr. (Dean McCoppin (voice))",
-        "Vin Diesel (The Iron Giant (voice))",
-        "James Gammon (Foreman Marv Loach / Floyd Turbeaux (voice))",
-        "Cloris Leachman (Mrs. Lynley Tensedge (voice))",
-        "Christopher McDonald (Kent Mansley (voice))"
-      ],
-      "tramaTmdb": "Il piccolo Hogart è un ragazzino che abita nel Maine e che, un giorno fa la conoscenza di un gigante che arriva direttamente dallo spazio. Il bambino, dopo l'iniziale timore, diventa amico e maestro del gigante dagli strabilianti poteri. Hogart sa perfettamente che l'ottuso mondo che lo circonda non è pronto ad accogliere il suo strano amico, e perciò fa di tutto per tenerlo al sicuro da occhi indiscreti.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Il gigante di ferro|408|Brad Bird"
-    },
-    {
-      "id": "tmdb-962",
-      "tmdbId": 962,
-      "imdbId": "tt0015864",
-      "origine": "scoperta",
-      "titolo": "La febbre dell'oro",
-      "titoloOriginale": "The Gold Rush",
-      "anno": "1925",
-      "uscitaItalia": "1925-10-23",
-      "regia": "Charlie Chaplin",
-      "generi": [
-        "Avventura",
-        "Commedia",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 72,
-      "tagline": "Il vagabondo partecipa alla grande corsa e trionfa ancora una volta",
-      "cast": [
-        "Charlie Chaplin (The Lone Prospector)",
-        "Mack Swain (Big Jim)",
-        "Tom Murray (Black Larsen)",
-        "Henry Bergman (Hank Curtis)",
-        "Malcolm Waite (Jack)",
-        "Georgia Hale (Georgia)"
-      ],
-      "tramaTmdb": "Il vagabondo, ingenuo e tenero cercatore solitario, sfida le avversità del rigido freddo del nord e incontra il rude mondo dei cercatori d'oro, animato dalla febbre di rivalsa che lo accomuna nell'impresa agli avventurieri, ai derelitti, ai fuggiaschi, alle donne che popolano questo universo selvaggio.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "La febbre dell'oro|303|Charlie Chaplin"
-    },
-    {
-      "id": "tmdb-9702",
-      "tmdbId": 9702,
-      "imdbId": "tt0106469",
-      "origine": "scoperta",
-      "titolo": "Patto di sangue",
-      "titoloOriginale": "Bound by Honor",
-      "anno": "1993",
-      "uscitaItalia": "1993-02-05",
-      "regia": "Taylor Hackford",
-      "generi": [
+        "Azione",
         "Crime",
         "Dramma",
         "Thriller"
       ],
       "paesi": [
-        "USA"
+        "Cina",
+        "Hong Kong"
       ],
-      "durata": 180,
-      "tagline": "La violenza del carcere. Il dramma della droga. Il riscatto della legge. Uniti da un patto. Divisi dal destino.",
+      "durata": 142,
+      "tagline": null,
       "cast": [
-        "Damian Chapa (Miklo)",
-        "Jesse Borrego (Cruz)",
-        "Benjamin Bratt (Paco)",
-        "Enrique Castillo (Montana)",
-        "Victor Rivers (Magic Mike)",
-        "Delroy Lindo (Bonafide)"
+        "Jackie Chan (Wong Tak Chung)",
+        "张子枫 (He Qiuguo)",
+        "梁家輝 (Fu Longsheng)",
+        "此沙 (Xi Meng / Xi Wang)",
+        "文俊辉 (Hu Feng)",
+        "周政杰 (Liu Jinxiao)"
       ],
-      "tramaTmdb": "La vita di tre latino-americani in costante ricerca di una loro strada attraverso la realtà delle bande giovanili, della droga e del carcere. Le origini segnano irrimediabilmente le possibilità di evoluzione di ciascuno.",
+      "tramaTmdb": "La polizia di Macao richiama in servizio un agente esperto nel tracciamento, attualmente in pensione, per aiutarli a catturare una pericolosa banda di ladri professionisti.",
       "motivi": [
         "dramma: il tuo terreno"
       ],
-      "impronta": "Patto di sangue|220|Taylor Hackford"
+      "impronta": "The Shadow's Edge - Colpo su colpo|172|杨子"
     },
     {
-      "id": "tmdb-213",
-      "tmdbId": 213,
-      "imdbId": "tt0053125",
+      "id": "tmdb-265177",
+      "tmdbId": 265177,
+      "imdbId": "tt3612616",
       "origine": "scoperta",
-      "titolo": "Intrigo internazionale",
-      "titoloOriginale": "North by Northwest",
-      "anno": "1959",
-      "uscitaItalia": "1959-11-27",
-      "regia": "Alfred Hitchcock",
+      "titolo": "Mommy",
+      "titoloOriginale": "Mommy",
+      "anno": "2014",
+      "uscitaItalia": "2014-12-04",
+      "regia": "Xavier Dolan",
       "generi": [
-        "Thriller",
-        "Avventura"
+        "Dramma"
       ],
       "paesi": [
-        "USA"
+        "Canada"
       ],
-      "durata": 136,
-      "tagline": null,
+      "durata": 139,
+      "tagline": "Ci amiamo ancora, giusto? È la cosa che facciamo meglio.",
       "cast": [
-        "Cary Grant (Roger Thornhill)",
-        "Eva Marie Saint (Eve Kendall)",
-        "James Mason (Phillip Vandamm)",
-        "Jessie Royce Landis (Clara Thornhill)",
-        "Leo G. Carroll (Professor)",
-        "Josephine Hutchinson (Mrs. Townsend)"
+        "Anne Dorval (Diane 'Die' Després)",
+        "Suzanne Clément (Kyla)",
+        "Antoine Olivier Pilon (Steve O'Connor Després)",
+        "Patrick Huard (Paul)",
+        "Alexandre Goyette (Patrick)",
+        "Michèle Lituac (Director of Correctional Center)"
       ],
-      "tramaTmdb": "Un pubblicitario, Roger Thornhill, viene scambiato per un agente di nome George Kaplan e rapito da un’organizzazione spionistica che tenta di ucciderlo. Riesce a fuggire, ma nessuno vuol credere alla sua storia: anzi, per un altro equivoco, viene accusato dell’assassinio di un diplomatico. Una misteriosa bionda conosciuta sul treno, Eva Kendall, sembra aiutarlo...  Uno delle pellicole migliori mai realizzate.  Uno dei capolavori del maestro del brivido Alfred Hitchcock.",
+      "tramaTmdb": "Diane è una madre single, una donna dal look aggressivo, ancora piacente ma poco capace di gestire la propria vita. Sboccata e fumantina, ha scarse capacità di autocontrollo e ne subisce le conseguenze. Suo figlio è come lei ma ad un livello patologico, ha una seria malattia mentale che lo rende spesso ingestibile (specie se sotto stress), vittima di impennate di violenza incontrollabili che lo fanno entrare ed uscire da istituti. Nella loro vita, tra un lavoro perso e un improvviso slancio sentimentale, si inserisce Kyle, la nuova vicina balbuziente e remissiva che in loro sembra trovare un i",
       "motivi": [
-        "avventura: il tuo terreno"
+        "un classico che ti manca"
       ],
-      "impronta": "Intrigo internazionale|474|Alfred Hitchcock"
+      "impronta": "Mommy|600|Xavier Dolan"
     },
     {
-      "id": "tmdb-5925",
-      "tmdbId": 5925,
-      "imdbId": "tt0057115",
+      "id": "tmdb-996",
+      "tmdbId": 996,
+      "imdbId": "tt0036775",
       "origine": "scoperta",
-      "titolo": "La grande fuga",
-      "titoloOriginale": "The Great Escape",
-      "anno": "1963",
-      "uscitaItalia": "1963-10-09",
-      "regia": "John Sturges",
+      "titolo": "La fiamma del peccato",
+      "titoloOriginale": "Double Indemnity",
+      "anno": "1944",
+      "uscitaItalia": "1944-07-06",
+      "regia": "Billy Wilder",
       "generi": [
-        "Avventura",
-        "Dramma",
-        "Guerra"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 175,
-      "tagline": null,
-      "cast": [
-        "Steve McQueen (Hilts 'The Cooler King')",
-        "James Garner (Hendley 'The Scrounger')",
-        "Richard Attenborough (Bartlett 'Big X')",
-        "James Donald (Ramsey 'The SBO')",
-        "Charles Bronson (Danny 'Tunnel King')",
-        "Donald Pleasence (Blythe 'The Forger')"
-      ],
-      "tramaTmdb": "Durante la seconda guerra mondiale alcuni prigionieri angloamericani esperti di fuga vengono riuniti in un campo nazista costruito appositamente per evasori specializzati. Un errore clamoroso, perché fin dal primo giorno essi mediteranno la fuga, tentando il colpo grosso attraverso la pianificazione di un'evasione di massa di oltre duecento detenuti...",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "La grande fuga|354|John Sturges"
-    },
-    {
-      "id": "tmdb-634649",
-      "tmdbId": 634649,
-      "imdbId": "tt10872600",
-      "origine": "scoperta",
-      "titolo": "Spider-Man: No Way Home",
-      "titoloOriginale": "Spider-Man: No Way Home",
-      "anno": "2021",
-      "uscitaItalia": "2021-12-15",
-      "regia": "Jon Watts",
-      "generi": [
-        "Azione",
-        "Avventura",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 148,
-      "tagline": "Il Multiverso scatenato.",
-      "cast": [
-        "Tom Holland (Peter Parker / Spider-Man)",
-        "Zendaya (MJ)",
-        "Benedict Cumberbatch (Doctor Strange)",
-        "Jacob Batalon (Ned Leeds)",
-        "Jon Favreau (Happy Hogan)",
-        "Jamie Foxx (Max Dillon / Electro)"
-      ],
-      "tramaTmdb": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identità. Peter chiede aiuto a Stephen Strange affinché usi la magia per far scordare a tutti la sua identità. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
-      "motivi": [
-        "c'è Tom Holland, che hai visto 2 volte",
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Spider-Man: No Way Home|400|Jon Watts"
-    },
-    {
-      "id": "tmdb-1087192",
-      "tmdbId": 1087192,
-      "imdbId": "tt26743210",
-      "origine": "scoperta",
-      "titolo": "Dragon Trainer",
-      "titoloOriginale": "How to Train Your Dragon",
-      "anno": "2025",
-      "uscitaItalia": "2025-06-13",
-      "regia": "Dean DeBlois",
-      "generi": [
-        "Fantasy",
-        "Famiglia",
-        "Azione",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 125,
-      "tagline": "La leggenda è reale.",
-      "cast": [
-        "Mason Thames (Hiccup)",
-        "Nico Parker (Astrid)",
-        "Gerard Butler (Stoick)",
-        "Nick Frost (Gobber)",
-        "Gabriel Howell (Snotlout)",
-        "Julian Dennison (Fishlegs)"
-      ],
-      "tramaTmdb": "Sulla selvaggia isola di Berk, dove vichinghi e draghi sono stati acerrimi nemici per generazioni, Hiccup è diverso dagli altri. Figlio geniale ma sottovalutato dal capo Stoick l'Immenso, Hiccup sfida secoli di tradizione stringendo un'insolita amiciza con Sdentato, un temibile drago Furia Buia. Questo legame inaspettato rivela la vera natura dei draghi, mettendo in discussione le fondamenta stesse della società vichinga.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Dragon Trainer|425|Dean DeBlois"
-    },
-    {
-      "id": "tmdb-1288445",
-      "tmdbId": 1288445,
-      "imdbId": "tt32338669",
-      "origine": "scoperta",
-      "titolo": "Mutiny - Inverti la rotta",
-      "titoloOriginale": "Mutiny",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-10",
-      "regia": "Jean-François Richet",
-      "generi": [
-        "Azione",
+        "Crime",
         "Thriller"
       ],
       "paesi": [
-        "Regno Unito",
         "USA"
       ],
-      "durata": 95,
+      "durata": 107,
       "tagline": null,
       "cast": [
-        "Jason Statham (Cole Reed)",
-        "Annabelle Wallis (Angie Ellis)",
-        "Roland Møller (Captain Marko Madsen)",
-        "Ramon Tikaram (Tibu Campallo)",
-        "Arnas Fedaravičius (Mateo Pineda)",
-        "Jason Wong (Taran)"
+        "Fred MacMurray (Walter Neff)",
+        "Barbara Stanwyck (Phyllis Dietrichson)",
+        "Edward G. Robinson (Barton Keyes)",
+        "Porter Hall (Mr. Jackson)",
+        "Jean Heather (Lola Dietrichson)",
+        "Tom Powers (Mr. Dietrichson)"
       ],
-      "tramaTmdb": "Jason Statham, nei panni dell’ex soldato Cole Reed, si arruola clandestinamente a bordo di una nave mercantile per rintracciare l’assassino del suo facoltoso datore di lavoro. In una spietata caccia all’uomo Reed scopre che dietro l’omicidio si nasconde molto di più di un semplice regolamento di conti. Per arrivare alla verità, dovrà affrontare una complessa cospirazione internazionale e una vecchia minaccia che riaffiora dal suo passato.",
+      "tramaTmdb": "L'assicuratore Walter Neff (Fred MacMurray) conosce Phyllis Dietrichson (Barbara Stanwyck), moglie di un cliente, la cui sensualità lo affascinerà a tal punto da farlo diventare prima il suo amante e poi complice nell'assassinio di suo marito. Dopo aver stipulato un'assicurazione sulla sua vita, i due mettono a punto un piano per ricevere il doppio dell'indennizzo (da qui il titolo originale, Double Indemnity) in caso di morte avvenuta in circostanze rare. Per ottenere la somma decidono prima di assassinare l'uomo in macchina, e di gettarlo in seguito sui binari, facendo così credere che la su",
       "motivi": [
-        "se ne parla adesso"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Mutiny - Inverti la rotta|442|Jean-François Richet"
+      "impronta": "La fiamma del peccato|600|Billy Wilder"
+    },
+    {
+      "id": "tmdb-348",
+      "tmdbId": 348,
+      "imdbId": "tt0078748",
+      "origine": "scoperta",
+      "titolo": "Alien",
+      "titoloOriginale": "Alien",
+      "anno": "1979",
+      "uscitaItalia": "1979-10-25",
+      "regia": "Ridley Scott",
+      "generi": [
+        "Horror",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito"
+      ],
+      "durata": 117,
+      "tagline": "Nello spazio, nessuno può sentirti urlare.",
+      "cast": [
+        "Tom Skerritt (Dallas)",
+        "Sigourney Weaver (Ripley)",
+        "Veronica Cartwright (Lambert)",
+        "Harry Dean Stanton (Brett)",
+        "John Hurt (Kane)",
+        "Ian Holm (Ash)"
+      ],
+      "tramaTmdb": "L'astronave Nostromo sbarca su un pianeta da cui proviene un SOS, ma la colonia sembra essere disabitata. I coloni sono stati in realtà sterminati da una razza aliena che ha trasformato la base in una gigantesca covata.",
+      "motivi": [
+        "regia di Ridley Scott, di cui hai visto un film",
+        "c'è Sigourney Weaver, che hai visto 2 volte",
+        "un classico che ti manca"
+      ],
+      "impronta": "Alien|219|Ridley Scott"
     }
   ]
 }
