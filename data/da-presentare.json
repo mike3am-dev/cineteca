@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-05T11:59:34.748Z",
+  "preparato": "2026-10-06T11:39:41.204Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -246,42 +246,6 @@
       "impronta": "La bola negra|173|Javier Ambrossi"
     },
     {
-      "id": "tmdb-858035",
-      "tmdbId": 858035,
-      "imdbId": "tt14371256",
-      "origine": "trailer",
-      "titolo": "Klara e il sole",
-      "titoloOriginale": "Klara and the Sun",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Taika Waititi",
-      "generi": [
-        "Fantascienza",
-        "Dramma",
-        "Commedia"
-      ],
-      "paesi": [
-        "Nuova Zelanda",
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": "Il futuro dell'amicizia è qui",
-      "cast": [
-        "Jenna Ortega (Klara)",
-        "Mia Tharia (Josie)",
-        "Amy Adams (Chrissie)",
-        "Natasha Lyonne (Manager)",
-        "Aran Murphy (Rick)",
-        "Rachel House (Melania)"
-      ],
-      "tramaTmdb": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
-      "motivi": [
-        "fantascienza e dramma: il tuo terreno"
-      ],
-      "impronta": "Klara e il sole|412|Taika Waititi"
-    },
-    {
       "id": "tmdb-1153576",
       "tmdbId": 1153576,
       "imdbId": "tt27419420",
@@ -356,7 +320,7 @@
       "titoloOriginale": "NAZA",
       "anno": "2026",
       "uscitaItalia": "2026-09-25",
-      "regia": "يوفال إبراهيم",
+      "regia": "Yuval Abraham",
       "generi": [
         "Documentario"
       ],
@@ -367,253 +331,282 @@
       "durata": 80,
       "tagline": null,
       "cast": [
-        "يوفال إبراهيم (Self)"
+        "Yuval Abraham (Self)"
       ],
       "tramaTmdb": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
       "motivi": [],
-      "impronta": "NAZA|259|يوفال إبراهيم"
+      "impronta": "NAZA|259|Yuval Abraham"
     },
     {
-      "id": "tmdb-324786",
-      "tmdbId": 324786,
-      "imdbId": "tt2119532",
+      "id": "tmdb-11216",
+      "tmdbId": 11216,
+      "imdbId": "tt0095765",
       "origine": "scoperta",
-      "titolo": "La battaglia di Hacksaw Ridge",
-      "titoloOriginale": "Hacksaw Ridge",
-      "anno": "2017",
-      "uscitaItalia": "2017-02-02",
-      "regia": "Mel Gibson",
+      "titolo": "Nuovo Cinema Paradiso",
+      "titoloOriginale": "Nuovo Cinema Paradiso",
+      "anno": "1988",
+      "uscitaItalia": "1988-11-17",
+      "regia": "Giuseppe Tornatore",
       "generi": [
         "Dramma",
-        "Storia",
-        "Guerra"
+        "Romance"
       ],
       "paesi": [
-        "Australia",
-        "Regno Unito",
-        "USA"
+        "Italia",
+        "Francia"
       ],
-      "durata": 139,
-      "tagline": "Per diventare un eroe non serve un'arma",
+      "durata": 155,
+      "tagline": "Un borgo incantato. Una bellissima amicizia. Amanti sfortunati. E la magia dei film.",
       "cast": [
-        "Andrew Garfield (Desmond T. Doss)",
-        "Sam Worthington (Captain Glover)",
-        "Vince Vaughn (Sgt Howell)",
-        "Teresa Palmer (Dorothy Schuttle)",
-        "Luke Bracey (Smitty Ryker)",
-        "Hugo Weaving (Tom Doss)"
+        "Philippe Noiret (Alfredo)",
+        "Jacques Perrin (Salvatore 'Totò' Di Vita (adult))",
+        "Marco Leonardi (Salvatore 'Totò' Di Vita (teen))",
+        "Salvatore Cascio (Salvatore 'Totò' Di Vita (child))",
+        "Agnese Nano (Elena Mendola (teen) / Elena's daughter (in Director's cut))",
+        "Antonella Attili (Maria Di Vita (young))"
       ],
-      "tramaTmdb": "Nel film viene raccontata  la storia vera di Desmond Doss.\r L'attacco alla base americana di Pearl Harbor apre un nuovo fronte delle ostilità in Giappone. Desmond Doss, cresciuto sulle montagne della Virginia e in una famiglia vessata da un padre alcolizzato, decide di arruolarsi e di servire il suo Paese. Ma Desmond non è come gli altri. Cristiano avventista e obiettore di coscienza, il ragazzo rifiuta di impugnare il fucile e uccidere un uomo. Fosse anche nemico. In un mondo dilaniato dalla guerra, Desmond ha deciso di rimettere assieme i pezzi. Arruolato come soccorritore medico e spedito s",
+      "tramaTmdb": "E' la storia dell'amicizia tra Alfredo, proiezionista del cinematografo parrocchiale del paesino di Giancaldo in Sicilia, e Salvatore, diventato poi da grande affermato regista a Roma. Alla notizia della morte di Alfredo, Salvatore ripercorre nella sua memoria i momenti più significativi di questa amicizia e decide di tornare al suo paese per i funerali.Ma tra le altre sorprese scoprirà che la sala del Nuovo Cinema Paradiso sta per essere abbattuta.",
       "motivi": [
-        "c'è Sam Worthington, che hai visto 2 volte",
         "un classico che ti manca"
       ],
-      "impronta": "La battaglia di Hacksaw Ridge|600|Mel Gibson"
+      "impronta": "Nuovo Cinema Paradiso|453|Giuseppe Tornatore"
     },
     {
-      "id": "tmdb-77",
-      "tmdbId": 77,
-      "imdbId": "tt0209144",
+      "id": "tmdb-346",
+      "tmdbId": 346,
+      "imdbId": "tt0047478",
       "origine": "scoperta",
-      "titolo": "Memento",
-      "titoloOriginale": "Memento",
-      "anno": "2001",
-      "uscitaItalia": "2001-01-19",
-      "regia": "Christopher Nolan",
-      "generi": [
-        "Mistero",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 113,
-      "tagline": "Ricordati di non dimenticare.",
-      "cast": [
-        "Guy Pearce (Leonard)",
-        "Carrie-Anne Moss (Natalie)",
-        "Joe Pantoliano (Teddy)",
-        "Mark Boone Junior (Burt)",
-        "Russ Fega (Waiter)",
-        "Jorja Fox (Leonard's Wife)"
-      ],
-      "tramaTmdb": "Leonard Shelby è affetto da una particolare forma di amnesia che lascia intatti i vecchi ricordi ma comporta la perdita della memoria breve. Attraverso un'affannosa ricerca compiuta per mezzo dell'azione e della scrittura, che serve a registrare ciò di cui la percezione non può farsi sicuro garante, Leonard cerca l'assassino della moglie, l'ultimo ricordo che \"non riesce a ricordare di dimenticare\".",
-      "motivi": [
-        "regia di Christopher Nolan, di cui hai visto 2 film",
-        "un classico che ti manca"
-      ],
-      "impronta": "Memento|402|Christopher Nolan"
-    },
-    {
-      "id": "tmdb-411088",
-      "tmdbId": 411088,
-      "imdbId": "tt4857264",
-      "origine": "scoperta",
-      "titolo": "Contrattempo",
-      "titoloOriginale": "Contratiempo",
-      "anno": "2017",
-      "uscitaItalia": "2017-01-06",
-      "regia": "Oriol Paulo",
-      "generi": [
-        "Dramma",
-        "Mistero",
-        "Thriller"
-      ],
-      "paesi": [
-        "Spagna"
-      ],
-      "durata": 107,
-      "tagline": null,
-      "cast": [
-        "Mario Casas (Adrián Doria)",
-        "Ana Wagener (Elvira)",
-        "Jose Coronado (Tomás Garrido)",
-        "Bárbara Lennie (Laura Vidal)",
-        "Francesc Orella (Félix Leiva)",
-        "Paco Tous (Driver)"
-      ],
-      "tramaTmdb": "Dopo essersi svegliato a fianco del cadavere dell'amante, un giovane uomo d'affari ingaggia un'avvocatessa per capire in che modo è finito tra gli indagati di omicidio.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Contrattempo|168|Oriol Paulo"
-    },
-    {
-      "id": "tmdb-1419406",
-      "tmdbId": 1419406,
-      "imdbId": "tt34610311",
-      "origine": "scoperta",
-      "titolo": "The Shadow's Edge - Colpo su colpo",
-      "titoloOriginale": "捕风追影",
-      "anno": "2025",
-      "uscitaItalia": "2025-08-16",
-      "regia": "杨子",
+      "titolo": "I sette samurai",
+      "titoloOriginale": "七人の侍",
+      "anno": "1955",
+      "uscitaItalia": "1955-08-19",
+      "regia": "Akira Kurosawa",
       "generi": [
         "Azione",
-        "Crime",
-        "Dramma",
-        "Thriller"
-      ],
-      "paesi": [
-        "Cina",
-        "Hong Kong"
-      ],
-      "durata": 142,
-      "tagline": null,
-      "cast": [
-        "Jackie Chan (Wong Tak Chung)",
-        "张子枫 (He Qiuguo)",
-        "梁家輝 (Fu Longsheng)",
-        "此沙 (Xi Meng / Xi Wang)",
-        "文俊辉 (Hu Feng)",
-        "周政杰 (Liu Jinxiao)"
-      ],
-      "tramaTmdb": "La polizia di Macao richiama in servizio un agente esperto nel tracciamento, attualmente in pensione, per aiutarli a catturare una pericolosa banda di ladri professionisti.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "The Shadow's Edge - Colpo su colpo|172|杨子"
-    },
-    {
-      "id": "tmdb-265177",
-      "tmdbId": 265177,
-      "imdbId": "tt3612616",
-      "origine": "scoperta",
-      "titolo": "Mommy",
-      "titoloOriginale": "Mommy",
-      "anno": "2014",
-      "uscitaItalia": "2014-12-04",
-      "regia": "Xavier Dolan",
-      "generi": [
         "Dramma"
       ],
       "paesi": [
-        "Canada"
+        "Giappone"
       ],
-      "durata": 139,
-      "tagline": "Ci amiamo ancora, giusto? È la cosa che facciamo meglio.",
+      "durata": 207,
+      "tagline": "I potenti guerrieri che divennero i sette eroi nazionali di una piccola città",
       "cast": [
-        "Anne Dorval (Diane 'Die' Després)",
-        "Suzanne Clément (Kyla)",
-        "Antoine Olivier Pilon (Steve O'Connor Després)",
-        "Patrick Huard (Paul)",
-        "Alexandre Goyette (Patrick)",
-        "Michèle Lituac (Director of Correctional Center)"
+        "Toshirō Mifune (Kikuchiyo)",
+        "Takashi Shimura (Kambei Shimada)",
+        "稲葉義男 (Gorobei Katayama)",
+        "宮口精二 (Kyuzo)",
+        "千秋実 (Heihachi Hayashida)",
+        "加東大介 (Shichiroji)"
       ],
-      "tramaTmdb": "Diane è una madre single, una donna dal look aggressivo, ancora piacente ma poco capace di gestire la propria vita. Sboccata e fumantina, ha scarse capacità di autocontrollo e ne subisce le conseguenze. Suo figlio è come lei ma ad un livello patologico, ha una seria malattia mentale che lo rende spesso ingestibile (specie se sotto stress), vittima di impennate di violenza incontrollabili che lo fanno entrare ed uscire da istituti. Nella loro vita, tra un lavoro perso e un improvviso slancio sentimentale, si inserisce Kyle, la nuova vicina balbuziente e remissiva che in loro sembra trovare un i",
+      "tramaTmdb": "Nel Giappone del XVI secolo in cui orde di soldati sbandati e dediti al brigantaggio saccheggiano le campagne, la popolazione di un povero villaggio decide di ricorrere ai samurai, nobile casta di soldati di ventura, nella speranza di trovare qualcuno disposto a impegnarsi in un'impresa così umile e così poco remunerata. Li trovano.",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "Mommy|600|Xavier Dolan"
+      "impronta": "I sette samurai|334|Akira Kurosawa"
     },
     {
-      "id": "tmdb-996",
-      "tmdbId": 996,
-      "imdbId": "tt0036775",
+      "id": "tmdb-637",
+      "tmdbId": 637,
+      "imdbId": "tt0118799",
       "origine": "scoperta",
-      "titolo": "La fiamma del peccato",
-      "titoloOriginale": "Double Indemnity",
-      "anno": "1944",
-      "uscitaItalia": "1944-07-06",
-      "regia": "Billy Wilder",
+      "titolo": "La vita è bella",
+      "titoloOriginale": "La vita è bella",
+      "anno": "1997",
+      "uscitaItalia": "1997-12-20",
+      "regia": "Roberto Benigni",
       "generi": [
-        "Crime",
-        "Thriller"
+        "Commedia",
+        "Dramma"
+      ],
+      "paesi": [
+        "Italia"
+      ],
+      "durata": 116,
+      "tagline": "Una favola indimenticabile che dimostra che l'amore, la famiglia e l'immaginazione conquistano tutto.",
+      "cast": [
+        "Roberto Benigni (Guido)",
+        "Nicoletta Braschi (Dora)",
+        "Giorgio Cantarini (Giosué)",
+        "Giustino Durano (Zio)",
+        "Sergio Bini Bustric (Ferruccio)",
+        "Marisa Paredes (Dora's Mother)"
+      ],
+      "tramaTmdb": "Guido, un giovane ebreo amante della vita e della poesia, si reca ad Arezzo con l'amico Ferruccio in cerca di lavoro. Si fa assumere come cameriere dallo zio Eliseo, che gestisce il Grand Hotel, e s'innamora di Dora, un'insegnante promessa sposa all'antipatico fascista Rodolfo. Con l'esuberanza e l'allegria del suo carattere, riesce a vincere le reticenze della maestrina, e a sposarla. Sei anni dopo, probabilmente denunciato dalla suocera che non ha mai digerito il matrimonio, Guido è deportato in un campo di concentramento con lo zio Eliseo e col suo figlioletto, il piccolo Giosuè, mentre Dor",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "La vita è bella|600|Roberto Benigni"
+    },
+    {
+      "id": "tmdb-38",
+      "tmdbId": 38,
+      "imdbId": "tt0338013",
+      "origine": "scoperta",
+      "titolo": "Se mi lasci ti cancello",
+      "titoloOriginale": "Eternal Sunshine of the Spotless Mind",
+      "anno": "2004",
+      "uscitaItalia": "2004-10-22",
+      "regia": "Michel Gondry",
+      "generi": [
+        "Fantascienza",
+        "Dramma",
+        "Romance"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 107,
-      "tagline": null,
+      "durata": 108,
+      "tagline": "È possibile cancellare una persona dalla propria mente. Eliminarla dal cuore è un'altra storia.",
       "cast": [
-        "Fred MacMurray (Walter Neff)",
-        "Barbara Stanwyck (Phyllis Dietrichson)",
-        "Edward G. Robinson (Barton Keyes)",
-        "Porter Hall (Mr. Jackson)",
-        "Jean Heather (Lola Dietrichson)",
-        "Tom Powers (Mr. Dietrichson)"
+        "Jim Carrey (Joel Barish)",
+        "Kate Winslet (Clementine Kruczynski)",
+        "Kirsten Dunst (Mary)",
+        "Mark Ruffalo (Stan)",
+        "Elijah Wood (Patrick)",
+        "Tom Wilkinson (Dr. Mierzwiak)"
       ],
-      "tramaTmdb": "L'assicuratore Walter Neff (Fred MacMurray) conosce Phyllis Dietrichson (Barbara Stanwyck), moglie di un cliente, la cui sensualità lo affascinerà a tal punto da farlo diventare prima il suo amante e poi complice nell'assassinio di suo marito. Dopo aver stipulato un'assicurazione sulla sua vita, i due mettono a punto un piano per ricevere il doppio dell'indennizzo (da qui il titolo originale, Double Indemnity) in caso di morte avvenuta in circostanze rare. Per ottenere la somma decidono prima di assassinare l'uomo in macchina, e di gettarlo in seguito sui binari, facendo così credere che la su",
+      "tramaTmdb": "Joel e Clementine sono una coppia molto innamorata. Stanca però della sua relazione ormai in fase di declino e mediante un esperimento scientifico, la ragazza decide di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma, durante il procedimento, cambia idea.",
       "motivi": [
-        "thriller: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "La fiamma del peccato|600|Billy Wilder"
+      "impronta": "Se mi lasci ti cancello|365|Michel Gondry"
     },
     {
-      "id": "tmdb-348",
-      "tmdbId": 348,
-      "imdbId": "tt0078748",
+      "id": "tmdb-329",
+      "tmdbId": 329,
+      "imdbId": "tt0107290",
       "origine": "scoperta",
-      "titolo": "Alien",
-      "titoloOriginale": "Alien",
-      "anno": "1979",
-      "uscitaItalia": "1979-10-25",
-      "regia": "Ridley Scott",
+      "titolo": "Jurassic Park",
+      "titoloOriginale": "Jurassic Park",
+      "anno": "1993",
+      "uscitaItalia": "1993-09-17",
+      "regia": "Steven Spielberg",
       "generi": [
-        "Horror",
+        "Avventura",
         "Fantascienza"
       ],
       "paesi": [
-        "USA",
-        "Regno Unito"
+        "USA"
       ],
-      "durata": 117,
-      "tagline": "Nello spazio, nessuno può sentirti urlare.",
+      "durata": 126,
+      "tagline": "Un'avventura iniziata 65 milioni di anni fa.",
       "cast": [
-        "Tom Skerritt (Dallas)",
-        "Sigourney Weaver (Ripley)",
-        "Veronica Cartwright (Lambert)",
-        "Harry Dean Stanton (Brett)",
-        "John Hurt (Kane)",
-        "Ian Holm (Ash)"
+        "Sam Neill (Grant)",
+        "Laura Dern (Ellie)",
+        "Jeff Goldblum (Malcolm)",
+        "Richard Attenborough (Hammond)",
+        "Bob Peck (Muldoon)",
+        "Martin Ferrero (Gennaro)"
       ],
-      "tramaTmdb": "L'astronave Nostromo sbarca su un pianeta da cui proviene un SOS, ma la colonia sembra essere disabitata. I coloni sono stati in realtà sterminati da una razza aliena che ha trasformato la base in una gigantesca covata.",
+      "tramaTmdb": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano li",
       "motivi": [
-        "regia di Ridley Scott, di cui hai visto un film",
-        "c'è Sigourney Weaver, che hai visto 2 volte",
-        "un classico che ti manca"
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Alien|219|Ridley Scott"
+      "impronta": "Jurassic Park|600|Steven Spielberg"
+    },
+    {
+      "id": "tmdb-698687",
+      "tmdbId": 698687,
+      "imdbId": "tt8864596",
+      "origine": "scoperta",
+      "titolo": "Transformers One",
+      "titoloOriginale": "Transformers One",
+      "anno": "2024",
+      "uscitaItalia": "2024-09-26",
+      "regia": "Josh Cooley",
+      "generi": [
+        "Animazione",
+        "Fantascienza",
+        "Avventura",
+        "Famiglia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 104,
+      "tagline": "Scopri l'origine di ogni trasformazione",
+      "cast": [
+        "Chris Hemsworth (Orion Pax / Optimus Prime (voice))",
+        "Brian Tyree Henry (D-16 / Megatron (voice))",
+        "Scarlett Johansson (Elita-1 (voice))",
+        "Keegan-Michael Key (B-127 (voice))",
+        "Jon Hamm (Sentinel Prime (voice))",
+        "Steve Buscemi (Starscream (voice))"
+      ],
+      "tramaTmdb": "La storia inedita delle origini di Optimus Prime e Megatron, meglio conosciuti come nemici giurati, ma un tempo amici legati come fratelli che hanno cambiato per sempre il destino di Cybertron.",
+      "motivi": [
+        "c'è Keegan-Michael Key, che hai visto 2 volte",
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Transformers One|193|Josh Cooley"
+    },
+    {
+      "id": "tmdb-1398",
+      "tmdbId": 1398,
+      "imdbId": "tt0079944",
+      "origine": "scoperta",
+      "titolo": "Stalker",
+      "titoloOriginale": "Сталкер",
+      "anno": "1980",
+      "uscitaItalia": "1980-12-24",
+      "regia": "Andrei Tarkovsky",
+      "generi": [
+        "Fantascienza",
+        "Dramma"
+      ],
+      "paesi": [
+        "Soviet Union"
+      ],
+      "durata": 177,
+      "tagline": "Non c'è bisogno di parlare. Devi solo... concentrarti e ricordare tutta la tua vita passata. Quando un uomo pensa al passato, diventa più gentile.",
+      "cast": [
+        "Алиса Фрейндлих (Stalker's Wife)",
+        "Александр Кайдановский (Stalker)",
+        "Анатолий Солоницын (Writer)",
+        "Микола Гринько (Professor)",
+        "Natalya Abramova (Marta)",
+        "Faime Jürno (Writer's Companion)"
+      ],
+      "tramaTmdb": "Un metorite caduto sulla terra ha prodotto strani fenomeni in una zona, prontamente protetta e recintata dall'esercito. Per entrarci esistono però delle guide clandestine, chiamate \"Stalker\", capaci di condurre chiunque lo richieda fino alla \"camera dei desideri\". Uno scrittore, uno scienziato e uno stalker partono verso la misteriosa zona. Ne torneranno profondamente cambiati.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Stalker|380|Andrei Tarkovsky"
+    },
+    {
+      "id": "tmdb-931285",
+      "tmdbId": 931285,
+      "imdbId": "tt17490712",
+      "origine": "scoperta",
+      "titolo": "Mortal Kombat II",
+      "titoloOriginale": "Mortal Kombat II",
+      "anno": "2026",
+      "uscitaItalia": "2026-05-06",
+      "regia": "Simon McQuoid",
+      "generi": [
+        "Azione",
+        "Fantasy",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 116,
+      "tagline": "Pronti per il livello successivo.",
+      "cast": [
+        "Karl Urban (Johnny Cage)",
+        "Adeline Rudolph (Kitana)",
+        "Ludi Lin (Liu Kang)",
+        "Jessica McNamee (Sonya Blade)",
+        "Martyn Ford (Shao Kahn)",
+        "Josh Lawson (Kano)"
+      ],
+      "tramaTmdb": "I campioni del Regno della Terra, ora affiancati da Johnny Cage, affrontano una battaglia decisiva per fermare il dominio di Shao Kahn, che minaccia l'esistenza stessa della Terra e dei suoi difensori.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Mortal Kombat II|201|Simon McQuoid"
     }
   ]
 }

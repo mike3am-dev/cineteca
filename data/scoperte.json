@@ -1,584 +1,661 @@
 {
-  "aggiornato": "2026-10-05T11:59:34.747Z",
-  "giorno": "2026-10-05",
+  "aggiornato": "2026-10-06T11:39:41.203Z",
+  "giorno": "2026-10-06",
   "film": [
     {
-      "tmdbId": 324786,
-      "imdbId": "tt2119532",
-      "title": "La battaglia di Hacksaw Ridge",
-      "originalTitle": "Hacksaw Ridge",
-      "release": "2017-02-02",
+      "tmdbId": 11216,
+      "imdbId": "tt0095765",
+      "title": "Nuovo Cinema Paradiso",
+      "originalTitle": "Nuovo Cinema Paradiso",
+      "release": "1988-11-17",
       "releaseFonte": "IT",
       "genres": [
         "Dramma",
-        "Storia",
-        "Guerra"
+        "Romance"
       ],
       "countries": [
-        "Australia",
-        "Regno Unito",
-        "USA"
+        "Italia",
+        "Francia"
       ],
-      "runtime": 139,
-      "plot": "Nel film viene raccontata  la storia vera di Desmond Doss.\r L'attacco alla base americana di Pearl Harbor apre un nuovo fronte delle ostilità in Giappone. Desmond Doss, cresciuto sulle montagne della Virginia e in una famiglia vessata da un padre alcolizzato, decide di arruolarsi e di servire il suo Paese. Ma Desmond non è come gli altri. Cristiano avventista e obiettore di coscienza, il ragazzo rifiuta di impugnare il fucile e uccidere un uomo. Fosse anche nemico. In un mondo dilaniato dalla guerra, Desmond ha deciso di rimettere assieme i pezzi. Arruolato come soccorritore medico e spedito s",
-      "tagline": "Per diventare un eroe non serve un'arma",
-      "poster": "/hmaWy0tZlYoZoMpGId6MVIImIGG.jpg",
-      "backdrop": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
-      "director": "Mel Gibson",
+      "runtime": 155,
+      "plot": "E' la storia dell'amicizia tra Alfredo, proiezionista del cinematografo parrocchiale del paesino di Giancaldo in Sicilia, e Salvatore, diventato poi da grande affermato regista a Roma. Alla notizia della morte di Alfredo, Salvatore ripercorre nella sua memoria i momenti più significativi di questa amicizia e decide di tornare al suo paese per i funerali.Ma tra le altre sorprese scoprirà che la sala del Nuovo Cinema Paradiso sta per essere abbattuta.",
+      "tagline": "Un borgo incantato. Una bellissima amicizia. Amanti sfortunati. E la magia dei film.",
+      "poster": "/3hcXpztAe9L6VLpDGwohS01ZSxw.jpg",
+      "backdrop": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "director": "Giuseppe Tornatore",
       "cast": [
-        "Andrew Garfield",
-        "Sam Worthington",
-        "Vince Vaughn",
-        "Teresa Palmer",
-        "Luke Bracey"
+        "Philippe Noiret",
+        "Jacques Perrin",
+        "Marco Leonardi",
+        "Salvatore Cascio",
+        "Agnese Nano"
       ],
       "castDetail": [
         {
-          "name": "Andrew Garfield",
-          "character": "Desmond T. Doss",
-          "profile": "/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+          "name": "Philippe Noiret",
+          "character": "Alfredo",
+          "profile": "/mWPa6A0JK3tfVRQDIzCQGEao19B.jpg"
         },
         {
-          "name": "Sam Worthington",
-          "character": "Captain Glover",
-          "profile": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+          "name": "Jacques Perrin",
+          "character": "Salvatore 'Totò' Di Vita (adult)",
+          "profile": "/lGbDfSdDgFg3QHgungWIDsV9uh7.jpg"
         },
         {
-          "name": "Vince Vaughn",
-          "character": "Sgt Howell",
-          "profile": "/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+          "name": "Marco Leonardi",
+          "character": "Salvatore 'Totò' Di Vita (teen)",
+          "profile": "/5VVhO9rPvRgKsZME2gZKtG9WgWD.jpg"
         },
         {
-          "name": "Teresa Palmer",
-          "character": "Dorothy Schuttle",
-          "profile": "/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+          "name": "Salvatore Cascio",
+          "character": "Salvatore 'Totò' Di Vita (child)",
+          "profile": "/7t59ZGfLUv30DBgoUcqXXhK0t6Y.jpg"
         },
         {
-          "name": "Luke Bracey",
-          "character": "Smitty Ryker",
-          "profile": "/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
+          "name": "Agnese Nano",
+          "character": "Elena Mendola (teen) / Elena's daughter (in Director's cut)",
+          "profile": "/gUbvX3dm8rIq58phY8jSl3oPgUe.jpg"
         },
         {
-          "name": "Hugo Weaving",
-          "character": "Tom Doss",
-          "profile": "/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+          "name": "Antonella Attili",
+          "character": "Maria Di Vita (young)",
+          "profile": "/hoLib8DJzJ7fPQhtUjmo5n4ntu0.jpg"
         },
         {
-          "name": "Rachel Griffiths",
-          "character": "Bertha Doss",
-          "profile": "/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+          "name": "Pupella Maggio",
+          "character": "Maria Di Vita (aged)",
+          "profile": "/eLzAnbMwfWNHiOy1Mgylgz0tnUa.jpg"
         },
         {
-          "name": "Ryan Corr",
-          "character": "Lieutenant Manville",
-          "profile": "/lQwMEXNbABIN8LTODkYHU33q19C.jpg"
+          "name": "Brigitte Fossey",
+          "character": "Elena Mendola (adult)",
+          "profile": "/ann78L7w5YBJDG4NzCifq4mzakK.jpg"
         }
       ],
-      "tmdbRating": 8.193,
-      "tmdbVotes": 15363,
-      "popularity": 34.8977,
-      "trailer": "https://www.youtube.com/watch?v=kYf3Wxb7-0Y",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "c'è Sam Worthington, che hai visto 2 volte",
-      "motivi": [
-        "c'è Sam Worthington, che hai visto 2 volte",
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-05"
-    },
-    {
-      "tmdbId": 77,
-      "imdbId": "tt0209144",
-      "title": "Memento",
-      "originalTitle": "Memento",
-      "release": "2001-01-19",
-      "releaseFonte": "IT",
-      "genres": [
-        "Mistero",
-        "Thriller"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 113,
-      "plot": "Leonard Shelby è affetto da una particolare forma di amnesia che lascia intatti i vecchi ricordi ma comporta la perdita della memoria breve. Attraverso un'affannosa ricerca compiuta per mezzo dell'azione e della scrittura, che serve a registrare ciò di cui la percezione non può farsi sicuro garante, Leonard cerca l'assassino della moglie, l'ultimo ricordo che \"non riesce a ricordare di dimenticare\".",
-      "tagline": "Ricordati di non dimenticare.",
-      "poster": "/eyVdGf0QUnw1SBr1IMvZJj5kk6M.jpg",
-      "backdrop": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-      "director": "Christopher Nolan",
-      "cast": [
-        "Guy Pearce",
-        "Carrie-Anne Moss",
-        "Joe Pantoliano",
-        "Mark Boone Junior",
-        "Russ Fega"
-      ],
-      "castDetail": [
-        {
-          "name": "Guy Pearce",
-          "character": "Leonard",
-          "profile": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
-        },
-        {
-          "name": "Carrie-Anne Moss",
-          "character": "Natalie",
-          "profile": "/9zya72vRZYBQILfetACsnmCBgdj.jpg"
-        },
-        {
-          "name": "Joe Pantoliano",
-          "character": "Teddy",
-          "profile": "/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
-        },
-        {
-          "name": "Mark Boone Junior",
-          "character": "Burt",
-          "profile": "/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
-        },
-        {
-          "name": "Russ Fega",
-          "character": "Waiter",
-          "profile": "/d0W7kq97Ul8Iz5LZIVNDKxSly8M.jpg"
-        },
-        {
-          "name": "Jorja Fox",
-          "character": "Leonard's Wife",
-          "profile": "/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
-        },
-        {
-          "name": "Stephen Tobolowsky",
-          "character": "Sammy",
-          "profile": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg"
-        },
-        {
-          "name": "Harriet Sansom Harris",
-          "character": "Mrs. Jankis",
-          "profile": "/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
-        }
-      ],
-      "tmdbRating": 8.2,
-      "tmdbVotes": 16837,
-      "popularity": 19.5383,
-      "trailer": "https://www.youtube.com/watch?v=Kf9mns4Wz1w",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "regia di Christopher Nolan, di cui hai visto 2 film",
-      "motivi": [
-        "regia di Christopher Nolan, di cui hai visto 2 film",
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-05"
-    },
-    {
-      "tmdbId": 411088,
-      "imdbId": "tt4857264",
-      "title": "Contrattempo",
-      "originalTitle": "Contratiempo",
-      "release": "2017-01-06",
-      "releaseFonte": "globale",
-      "genres": [
-        "Dramma",
-        "Mistero",
-        "Thriller"
-      ],
-      "countries": [
-        "Spagna"
-      ],
-      "runtime": 107,
-      "plot": "Dopo essersi svegliato a fianco del cadavere dell'amante, un giovane uomo d'affari ingaggia un'avvocatessa per capire in che modo è finito tra gli indagati di omicidio.",
-      "tagline": null,
-      "poster": "/jeDX0eAYbDsAP0hTuGrhZQWjoGW.jpg",
-      "backdrop": "/157QuwzU58D5RtXmkBl5iNaxigN.jpg",
-      "director": "Oriol Paulo",
-      "cast": [
-        "Mario Casas",
-        "Ana Wagener",
-        "Jose Coronado",
-        "Bárbara Lennie",
-        "Francesc Orella"
-      ],
-      "castDetail": [
-        {
-          "name": "Mario Casas",
-          "character": "Adrián Doria",
-          "profile": "/y0H8jDiOZqYKZkamv2z4cV9FLsl.jpg"
-        },
-        {
-          "name": "Ana Wagener",
-          "character": "Elvira",
-          "profile": "/bDXE4wrVChAw0Sb6n1UPl2M6vat.jpg"
-        },
-        {
-          "name": "Jose Coronado",
-          "character": "Tomás Garrido",
-          "profile": "/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg"
-        },
-        {
-          "name": "Bárbara Lennie",
-          "character": "Laura Vidal",
-          "profile": "/pEiyonuiZbpkpfdGf5inWQ8Tr1h.jpg"
-        },
-        {
-          "name": "Francesc Orella",
-          "character": "Félix Leiva",
-          "profile": "/ytUgaou1XcuAG6U6HXEFROBegTv.jpg"
-        },
-        {
-          "name": "Paco Tous",
-          "character": "Driver",
-          "profile": "/uDGKTKKv9v2JRutCZJjKwpJVKOs.jpg"
-        },
-        {
-          "name": "David Selvas",
-          "character": "Bruno",
-          "profile": "/sD2k0H5FLxk26VUHy62qLcJI18w.jpg"
-        },
-        {
-          "name": "Iñigo Gastesi",
-          "character": "Daniel Garrido",
-          "profile": "/74Atas5KQFiWfYTvuGEIl9LKvt8.jpg"
-        }
-      ],
-      "tmdbRating": 8.071,
-      "tmdbVotes": 5157,
-      "popularity": 14.5151,
-      "trailer": "https://www.youtube.com/watch?v=oMDYVvbb_bU",
-      "fonte": "thriller: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "thriller: il tuo terreno",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "proposto": "2026-10-05"
-    },
-    {
-      "tmdbId": 1419406,
-      "imdbId": "tt34610311",
-      "title": "The Shadow's Edge - Colpo su colpo",
-      "originalTitle": "捕风追影",
-      "release": "2025-08-16",
-      "releaseFonte": "globale",
-      "genres": [
-        "Azione",
-        "Crime",
-        "Dramma",
-        "Thriller"
-      ],
-      "countries": [
-        "Cina",
-        "Hong Kong"
-      ],
-      "runtime": 142,
-      "plot": "La polizia di Macao richiama in servizio un agente esperto nel tracciamento, attualmente in pensione, per aiutarli a catturare una pericolosa banda di ladri professionisti.",
-      "tagline": null,
-      "poster": "/aTq2VZLuQzwfCPiBlWeJG8z6XKD.jpg",
-      "backdrop": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
-      "director": "杨子",
-      "cast": [
-        "Jackie Chan",
-        "张子枫",
-        "梁家輝",
-        "此沙",
-        "文俊辉"
-      ],
-      "castDetail": [
-        {
-          "name": "Jackie Chan",
-          "character": "Wong Tak Chung",
-          "profile": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
-        },
-        {
-          "name": "张子枫",
-          "character": "He Qiuguo",
-          "profile": "/3S8yEnTVqH8T3bTVf9FmtXxWcu2.jpg"
-        },
-        {
-          "name": "梁家輝",
-          "character": "Fu Longsheng",
-          "profile": "/sPDShFDtDx1pMNwHEx14o4WHrEH.jpg"
-        },
-        {
-          "name": "此沙",
-          "character": "Xi Meng / Xi Wang",
-          "profile": "/eWytg5M0VUCb0aHEKpUDijQ7JxF.jpg"
-        },
-        {
-          "name": "文俊辉",
-          "character": "Hu Feng",
-          "profile": "/z1seXrQQWG7nsQVHqSWKefJQ8DO.jpg"
-        },
-        {
-          "name": "周政杰",
-          "character": "Liu Jinxiao",
-          "profile": "/9n4vnXt6SIrfUfDDXxz4ewxhbSf.jpg"
-        },
-        {
-          "name": "王杍逸",
-          "character": "Wu Yaolei",
-          "profile": "/6xOEI8NnQuvRwe6nSDXYGAamKzO.jpg"
-        },
-        {
-          "name": "郎月婷",
-          "character": "Madam Wang",
-          "profile": "/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
-        }
-      ],
-      "tmdbRating": 8.317,
-      "tmdbVotes": 1508,
-      "popularity": 65.9463,
-      "trailer": "https://www.youtube.com/watch?v=atN8cDgE7Gc",
-      "fonte": "dramma: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "proposto": "2026-10-05"
-    },
-    {
-      "tmdbId": 265177,
-      "imdbId": "tt3612616",
-      "title": "Mommy",
-      "originalTitle": "Mommy",
-      "release": "2014-12-04",
-      "releaseFonte": "IT",
-      "genres": [
-        "Dramma"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "runtime": 139,
-      "plot": "Diane è una madre single, una donna dal look aggressivo, ancora piacente ma poco capace di gestire la propria vita. Sboccata e fumantina, ha scarse capacità di autocontrollo e ne subisce le conseguenze. Suo figlio è come lei ma ad un livello patologico, ha una seria malattia mentale che lo rende spesso ingestibile (specie se sotto stress), vittima di impennate di violenza incontrollabili che lo fanno entrare ed uscire da istituti. Nella loro vita, tra un lavoro perso e un improvviso slancio sentimentale, si inserisce Kyle, la nuova vicina balbuziente e remissiva che in loro sembra trovare un i",
-      "tagline": "Ci amiamo ancora, giusto? È la cosa che facciamo meglio.",
-      "poster": "/3zyQtPg3avKprmJP2gBiYgyWUQC.jpg",
-      "backdrop": "/dIHezuC3AmylT8mkXQiWSjz2wJR.jpg",
-      "director": "Xavier Dolan",
-      "cast": [
-        "Anne Dorval",
-        "Suzanne Clément",
-        "Antoine Olivier Pilon",
-        "Patrick Huard",
-        "Alexandre Goyette"
-      ],
-      "castDetail": [
-        {
-          "name": "Anne Dorval",
-          "character": "Diane 'Die' Després",
-          "profile": "/qepLsxlg2p5qai1y2bwI2zUM5iz.jpg"
-        },
-        {
-          "name": "Suzanne Clément",
-          "character": "Kyla",
-          "profile": "/e0mxmpWuRxT2PfIi8BAPvLU2P2t.jpg"
-        },
-        {
-          "name": "Antoine Olivier Pilon",
-          "character": "Steve O'Connor Després",
-          "profile": "/4ItJFrqgtFXXTZsm8ot0uZ36Dmh.jpg"
-        },
-        {
-          "name": "Patrick Huard",
-          "character": "Paul",
-          "profile": "/tUE6DT5YgoEkbRiNTGCc1U99q3d.jpg"
-        },
-        {
-          "name": "Alexandre Goyette",
-          "character": "Patrick",
-          "profile": "/oB99Qcalcmvbp5EtFz6xc4xqey2.jpg"
-        },
-        {
-          "name": "Michèle Lituac",
-          "character": "Director of Correctional Center",
-          "profile": "/5VdR0IYWKxi8lPd6a58heFPqucx.jpg"
-        },
-        {
-          "name": "Viviane Pacal",
-          "character": "Marthe",
-          "profile": "/jSKizTIn3Z8XO5WySeIrwGHaKTi.jpg"
-        },
-        {
-          "name": "Natalie Hamel-Roy",
-          "character": "Natacha",
-          "profile": "/iTAtjazXuirpPPoKpQ157BtAX3N.jpg"
-        }
-      ],
-      "tmdbRating": 8.189,
-      "tmdbVotes": 2908,
-      "popularity": 9.6669,
-      "trailer": "https://www.youtube.com/watch?v=p9R4xDF-Q6A",
+      "tmdbRating": 8.431,
+      "tmdbVotes": 5002,
+      "popularity": 12.9421,
+      "trailer": "https://www.youtube.com/watch?v=JMyVSD6OvO8",
       "fonte": "un classico che ti manca",
       "categoria": "un classico",
       "perche": "un classico che ti manca",
       "motivi": [
         "un classico che ti manca"
       ],
-      "proposto": "2026-10-05"
+      "proposto": "2026-10-06"
     },
     {
-      "tmdbId": 996,
-      "imdbId": "tt0036775",
-      "title": "La fiamma del peccato",
-      "originalTitle": "Double Indemnity",
-      "release": "1944-07-06",
-      "releaseFonte": "globale",
+      "tmdbId": 346,
+      "imdbId": "tt0047478",
+      "title": "I sette samurai",
+      "originalTitle": "七人の侍",
+      "release": "1955-08-19",
+      "releaseFonte": "IT",
       "genres": [
-        "Crime",
-        "Thriller"
+        "Azione",
+        "Dramma"
+      ],
+      "countries": [
+        "Giappone"
+      ],
+      "runtime": 207,
+      "plot": "Nel Giappone del XVI secolo in cui orde di soldati sbandati e dediti al brigantaggio saccheggiano le campagne, la popolazione di un povero villaggio decide di ricorrere ai samurai, nobile casta di soldati di ventura, nella speranza di trovare qualcuno disposto a impegnarsi in un'impresa così umile e così poco remunerata. Li trovano.",
+      "tagline": "I potenti guerrieri che divennero i sette eroi nazionali di una piccola città",
+      "poster": "/e1rmQlUzbGmNUS59UC9cChYfFxa.jpg",
+      "backdrop": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+      "director": "Akira Kurosawa",
+      "cast": [
+        "Toshirō Mifune",
+        "Takashi Shimura",
+        "稲葉義男",
+        "宮口精二",
+        "千秋実"
+      ],
+      "castDetail": [
+        {
+          "name": "Toshirō Mifune",
+          "character": "Kikuchiyo",
+          "profile": "/cZ5ybA7cDA0EBMaM5jX2f7RNBVb.jpg"
+        },
+        {
+          "name": "Takashi Shimura",
+          "character": "Kambei Shimada",
+          "profile": "/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg"
+        },
+        {
+          "name": "稲葉義男",
+          "character": "Gorobei Katayama",
+          "profile": "/5qIAqM5PegWTNq67qNofz78fb6U.jpg"
+        },
+        {
+          "name": "宮口精二",
+          "character": "Kyuzo",
+          "profile": "/mAGkZlsowKzgpvvi40mRLU4vA53.jpg"
+        },
+        {
+          "name": "千秋実",
+          "character": "Heihachi Hayashida",
+          "profile": "/9E3efYEg8pxANdfVLqYGiX8zJE8.jpg"
+        },
+        {
+          "name": "加東大介",
+          "character": "Shichiroji",
+          "profile": "/dTcLO2XWLwp6RiJTpwDjxzbnuSp.jpg"
+        },
+        {
+          "name": "木村功",
+          "character": "Katsushiro Okamoto",
+          "profile": "/afLPuf3x7UYXryAbqAGqmRcVNNW.jpg"
+        },
+        {
+          "name": "津島恵子",
+          "character": "Shino",
+          "profile": "/c4h0z00YkEUav0lGHoqVpeUzbul.jpg"
+        }
+      ],
+      "tmdbRating": 8.5,
+      "tmdbVotes": 4399,
+      "popularity": 19.1919,
+      "trailer": "https://www.youtube.com/watch?v=jGBqGQ7sRlU",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-06"
+    },
+    {
+      "tmdbId": 637,
+      "imdbId": "tt0118799",
+      "title": "La vita è bella",
+      "originalTitle": "La vita è bella",
+      "release": "1997-12-20",
+      "releaseFonte": "IT",
+      "genres": [
+        "Commedia",
+        "Dramma"
+      ],
+      "countries": [
+        "Italia"
+      ],
+      "runtime": 116,
+      "plot": "Guido, un giovane ebreo amante della vita e della poesia, si reca ad Arezzo con l'amico Ferruccio in cerca di lavoro. Si fa assumere come cameriere dallo zio Eliseo, che gestisce il Grand Hotel, e s'innamora di Dora, un'insegnante promessa sposa all'antipatico fascista Rodolfo. Con l'esuberanza e l'allegria del suo carattere, riesce a vincere le reticenze della maestrina, e a sposarla. Sei anni dopo, probabilmente denunciato dalla suocera che non ha mai digerito il matrimonio, Guido è deportato in un campo di concentramento con lo zio Eliseo e col suo figlioletto, il piccolo Giosuè, mentre Dor",
+      "tagline": "Una favola indimenticabile che dimostra che l'amore, la famiglia e l'immaginazione conquistano tutto.",
+      "poster": "/fuzbu9hFSDskrwjVKvcEUzp4DDH.jpg",
+      "backdrop": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+      "director": "Roberto Benigni",
+      "cast": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini",
+        "Giustino Durano",
+        "Sergio Bini Bustric"
+      ],
+      "castDetail": [
+        {
+          "name": "Roberto Benigni",
+          "character": "Guido",
+          "profile": "/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
+        },
+        {
+          "name": "Nicoletta Braschi",
+          "character": "Dora",
+          "profile": "/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
+        },
+        {
+          "name": "Giorgio Cantarini",
+          "character": "Giosué",
+          "profile": "/1tKZHpVTYcw8EP3naVTZFlrOkhQ.jpg"
+        },
+        {
+          "name": "Giustino Durano",
+          "character": "Zio",
+          "profile": "/5VbG50qZNUnpx6UW7594RUlX7SZ.jpg"
+        },
+        {
+          "name": "Sergio Bini Bustric",
+          "character": "Ferruccio",
+          "profile": "/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
+        },
+        {
+          "name": "Marisa Paredes",
+          "character": "Dora's Mother",
+          "profile": "/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+        },
+        {
+          "name": "Horst Buchholz",
+          "character": "Doctor Lessing",
+          "profile": "/9V38Di9T0qsjKBl2dR7sZMN1N0i.jpg"
+        },
+        {
+          "name": "Lidia Alfonsi",
+          "character": "Mrs. Guicciardini",
+          "profile": "/85BrcBOeIcfV9XkV523wN0VGNRR.jpg"
+        }
+      ],
+      "tmdbRating": 8.4,
+      "tmdbVotes": 14289,
+      "popularity": 24.9209,
+      "trailer": "https://www.youtube.com/watch?v=ao71lV1NJsc",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-06"
+    },
+    {
+      "tmdbId": 38,
+      "imdbId": "tt0338013",
+      "title": "Se mi lasci ti cancello",
+      "originalTitle": "Eternal Sunshine of the Spotless Mind",
+      "release": "2004-10-22",
+      "releaseFonte": "IT",
+      "genres": [
+        "Fantascienza",
+        "Dramma",
+        "Romance"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 107,
-      "plot": "L'assicuratore Walter Neff (Fred MacMurray) conosce Phyllis Dietrichson (Barbara Stanwyck), moglie di un cliente, la cui sensualità lo affascinerà a tal punto da farlo diventare prima il suo amante e poi complice nell'assassinio di suo marito. Dopo aver stipulato un'assicurazione sulla sua vita, i due mettono a punto un piano per ricevere il doppio dell'indennizzo (da qui il titolo originale, Double Indemnity) in caso di morte avvenuta in circostanze rare. Per ottenere la somma decidono prima di assassinare l'uomo in macchina, e di gettarlo in seguito sui binari, facendo così credere che la su",
-      "tagline": null,
-      "poster": "/gSRoxA3ApCM3CJwTOLxWprDnFxo.jpg",
-      "backdrop": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
-      "director": "Billy Wilder",
+      "runtime": 108,
+      "plot": "Joel e Clementine sono una coppia molto innamorata. Stanca però della sua relazione ormai in fase di declino e mediante un esperimento scientifico, la ragazza decide di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma, durante il procedimento, cambia idea.",
+      "tagline": "È possibile cancellare una persona dalla propria mente. Eliminarla dal cuore è un'altra storia.",
+      "poster": "/uDuAYpBfFQvFMnlt2w8xUUZiWrr.jpg",
+      "backdrop": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+      "director": "Michel Gondry",
       "cast": [
-        "Fred MacMurray",
-        "Barbara Stanwyck",
-        "Edward G. Robinson",
-        "Porter Hall",
-        "Jean Heather"
+        "Jim Carrey",
+        "Kate Winslet",
+        "Kirsten Dunst",
+        "Mark Ruffalo",
+        "Elijah Wood"
       ],
       "castDetail": [
         {
-          "name": "Fred MacMurray",
-          "character": "Walter Neff",
-          "profile": "/lxxixlFMNH0JuA9K0K3mJmigYcc.jpg"
+          "name": "Jim Carrey",
+          "character": "Joel Barish",
+          "profile": "/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
         },
         {
-          "name": "Barbara Stanwyck",
-          "character": "Phyllis Dietrichson",
-          "profile": "/xBfikc66lCnShogMZX1k9cV7H26.jpg"
+          "name": "Kate Winslet",
+          "character": "Clementine Kruczynski",
+          "profile": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
         },
         {
-          "name": "Edward G. Robinson",
-          "character": "Barton Keyes",
-          "profile": "/UkZdBmDs7Qw8caX7PlF1Spk8kR.jpg"
+          "name": "Kirsten Dunst",
+          "character": "Mary",
+          "profile": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
         },
         {
-          "name": "Porter Hall",
-          "character": "Mr. Jackson",
-          "profile": "/249Hlfx23i69MsA3rLnC185kbwT.jpg"
+          "name": "Mark Ruffalo",
+          "character": "Stan",
+          "profile": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
         },
         {
-          "name": "Jean Heather",
-          "character": "Lola Dietrichson",
-          "profile": "/zO4VebfNAgNhQKYtM3IIDlQPRFd.jpg"
+          "name": "Elijah Wood",
+          "character": "Patrick",
+          "profile": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
         },
         {
-          "name": "Tom Powers",
-          "character": "Mr. Dietrichson",
-          "profile": "/Dril696LhsWrZMBjGqO1YUG2Md.jpg"
+          "name": "Tom Wilkinson",
+          "character": "Dr. Mierzwiak",
+          "profile": "/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
         },
         {
-          "name": "Byron Barr",
-          "character": "Nino Zachetti",
-          "profile": "/vFA57kGxyV4xI5dS75hlaAfbaDt.jpg"
+          "name": "Jane Adams",
+          "character": "Carrie",
+          "profile": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg"
         },
         {
-          "name": "Richard Gaines",
-          "character": "Mr. Norton",
-          "profile": "/qTap65x0jLOgyM0jxC3BPG83TEN.jpg"
+          "name": "David Cross",
+          "character": "Rob",
+          "profile": "/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
         }
       ],
-      "tmdbRating": 8.086,
-      "tmdbVotes": 2106,
-      "popularity": 5.9339,
-      "trailer": "https://www.youtube.com/watch?v=9oxVkwB05rU",
-      "fonte": "thriller: il tuo terreno",
+      "tmdbRating": 8.1,
+      "tmdbVotes": 16809,
+      "popularity": 22.3743,
+      "trailer": "https://www.youtube.com/watch?v=1GiLxkDK8sI",
+      "fonte": "fantascienza: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "thriller: il tuo terreno",
+      "perche": "fantascienza: il tuo terreno",
       "motivi": [
-        "thriller: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-10-05"
+      "proposto": "2026-10-06"
     },
     {
-      "tmdbId": 348,
-      "imdbId": "tt0078748",
-      "title": "Alien",
-      "originalTitle": "Alien",
-      "release": "1979-10-25",
+      "tmdbId": 329,
+      "imdbId": "tt0107290",
+      "title": "Jurassic Park",
+      "originalTitle": "Jurassic Park",
+      "release": "1993-09-17",
       "releaseFonte": "IT",
       "genres": [
-        "Horror",
+        "Avventura",
         "Fantascienza"
       ],
       "countries": [
-        "USA",
-        "Regno Unito"
+        "USA"
       ],
-      "runtime": 117,
-      "plot": "L'astronave Nostromo sbarca su un pianeta da cui proviene un SOS, ma la colonia sembra essere disabitata. I coloni sono stati in realtà sterminati da una razza aliena che ha trasformato la base in una gigantesca covata.",
-      "tagline": "Nello spazio, nessuno può sentirti urlare.",
-      "poster": "/2lFDSdjBhJBQ2TDkfOel2O2V3dF.jpg",
-      "backdrop": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
-      "director": "Ridley Scott",
+      "runtime": 126,
+      "plot": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano li",
+      "tagline": "Un'avventura iniziata 65 milioni di anni fa.",
+      "poster": "/y6JuwymU5jzxKx4oLTrlpFZg0vj.jpg",
+      "backdrop": "/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
+      "director": "Steven Spielberg",
       "cast": [
-        "Tom Skerritt",
-        "Sigourney Weaver",
-        "Veronica Cartwright",
-        "Harry Dean Stanton",
-        "John Hurt"
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum",
+        "Richard Attenborough",
+        "Bob Peck"
       ],
       "castDetail": [
         {
-          "name": "Tom Skerritt",
-          "character": "Dallas",
-          "profile": "/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg"
+          "name": "Sam Neill",
+          "character": "Grant",
+          "profile": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
         },
         {
-          "name": "Sigourney Weaver",
-          "character": "Ripley",
-          "profile": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+          "name": "Laura Dern",
+          "character": "Ellie",
+          "profile": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
         },
         {
-          "name": "Veronica Cartwright",
-          "character": "Lambert",
-          "profile": "/1CiknHO8ssMM4bWPsIMMzCTVHeB.jpg"
+          "name": "Jeff Goldblum",
+          "character": "Malcolm",
+          "profile": "/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
         },
         {
-          "name": "Harry Dean Stanton",
-          "character": "Brett",
-          "profile": "/9zOTpVMwMHNjPFBNoPy9vOBT1NC.jpg"
+          "name": "Richard Attenborough",
+          "character": "Hammond",
+          "profile": "/mJGvNS69xUqiNRybKzPl2Zuxe9Z.jpg"
         },
         {
-          "name": "John Hurt",
-          "character": "Kane",
-          "profile": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+          "name": "Bob Peck",
+          "character": "Muldoon",
+          "profile": "/66wkMHY76swadwfHLcTEKEKhUbv.jpg"
         },
         {
-          "name": "Ian Holm",
-          "character": "Ash",
-          "profile": "/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+          "name": "Martin Ferrero",
+          "character": "Gennaro",
+          "profile": "/exNDaap66dmsfBQkCf7vHGj3TBK.jpg"
         },
         {
-          "name": "Yaphet Kotto",
-          "character": "Parker",
-          "profile": "/4egRA0hA8YJ7chTNGRbOKA3aCVI.jpg"
+          "name": "BD Wong",
+          "character": "Wu",
+          "profile": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
         },
         {
-          "name": "Bolaji Badejo",
-          "character": "Alien",
-          "profile": "/7ddxWlDIOVKBK6TjP66vb9Qp3MW.jpg"
+          "name": "Joseph Mazzello",
+          "character": "Tim",
+          "profile": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
         }
       ],
-      "tmdbRating": 8.173,
-      "tmdbVotes": 16918,
-      "popularity": 45.486,
-      "trailer": "https://www.youtube.com/watch?v=k5nkPuZRQXM",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "regia di Ridley Scott, di cui hai visto un film",
+      "tmdbRating": 8,
+      "tmdbVotes": 18422,
+      "popularity": 18.3147,
+      "trailer": "https://www.youtube.com/watch?v=M7GAiY4mfXY",
+      "fonte": "fantascienza: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "regia di Steven Spielberg, di cui hai visto un film",
       "motivi": [
-        "regia di Ridley Scott, di cui hai visto un film",
-        "c'è Sigourney Weaver, che hai visto 2 volte",
-        "un classico che ti manca"
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-10-05"
+      "proposto": "2026-10-06"
+    },
+    {
+      "tmdbId": 698687,
+      "imdbId": "tt8864596",
+      "title": "Transformers One",
+      "originalTitle": "Transformers One",
+      "release": "2024-09-26",
+      "releaseFonte": "IT",
+      "genres": [
+        "Animazione",
+        "Fantascienza",
+        "Avventura",
+        "Famiglia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 104,
+      "plot": "La storia inedita delle origini di Optimus Prime e Megatron, meglio conosciuti come nemici giurati, ma un tempo amici legati come fratelli che hanno cambiato per sempre il destino di Cybertron.",
+      "tagline": "Scopri l'origine di ogni trasformazione",
+      "poster": "/41caGYMJKZMjlwFXwsIxL1UtUN.jpg",
+      "backdrop": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+      "director": "Josh Cooley",
+      "cast": [
+        "Chris Hemsworth",
+        "Brian Tyree Henry",
+        "Scarlett Johansson",
+        "Keegan-Michael Key",
+        "Jon Hamm"
+      ],
+      "castDetail": [
+        {
+          "name": "Chris Hemsworth",
+          "character": "Orion Pax / Optimus Prime (voice)",
+          "profile": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "Brian Tyree Henry",
+          "character": "D-16 / Megatron (voice)",
+          "profile": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "character": "Elita-1 (voice)",
+          "profile": "/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+        },
+        {
+          "name": "Keegan-Michael Key",
+          "character": "B-127 (voice)",
+          "profile": "/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+        },
+        {
+          "name": "Jon Hamm",
+          "character": "Sentinel Prime (voice)",
+          "profile": "/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+        },
+        {
+          "name": "Steve Buscemi",
+          "character": "Starscream (voice)",
+          "profile": "/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+        },
+        {
+          "name": "Laurence Fishburne",
+          "character": "Alpha Trion (voice)",
+          "profile": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+        },
+        {
+          "name": "Vanessa Liguori",
+          "character": "Airachnid (voice)",
+          "profile": "/9EkNTWHZ1U83XuQJ9VU9sldxI9g.jpg"
+        }
+      ],
+      "tmdbRating": 7.978,
+      "tmdbVotes": 1795,
+      "popularity": 21.9596,
+      "trailer": "https://www.youtube.com/watch?v=W08PhwQHMio",
+      "fonte": "fantascienza: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "c'è Keegan-Michael Key, che hai visto 2 volte",
+      "motivi": [
+        "c'è Keegan-Michael Key, che hai visto 2 volte",
+        "fantascienza: il tuo terreno"
+      ],
+      "proposto": "2026-10-06"
+    },
+    {
+      "tmdbId": 1398,
+      "imdbId": "tt0079944",
+      "title": "Stalker",
+      "originalTitle": "Сталкер",
+      "release": "1980-12-24",
+      "releaseFonte": "IT",
+      "genres": [
+        "Fantascienza",
+        "Dramma"
+      ],
+      "countries": [
+        "Soviet Union"
+      ],
+      "runtime": 177,
+      "plot": "Un metorite caduto sulla terra ha prodotto strani fenomeni in una zona, prontamente protetta e recintata dall'esercito. Per entrarci esistono però delle guide clandestine, chiamate \"Stalker\", capaci di condurre chiunque lo richieda fino alla \"camera dei desideri\". Uno scrittore, uno scienziato e uno stalker partono verso la misteriosa zona. Ne torneranno profondamente cambiati.",
+      "tagline": "Non c'è bisogno di parlare. Devi solo... concentrarti e ricordare tutta la tua vita passata. Quando un uomo pensa al passato, diventa più gentile.",
+      "poster": "/8hu3TGZ7inYfu2R1vIqEAffNZmF.jpg",
+      "backdrop": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+      "director": "Andrei Tarkovsky",
+      "cast": [
+        "Алиса Фрейндлих",
+        "Александр Кайдановский",
+        "Анатолий Солоницын",
+        "Микола Гринько",
+        "Natalya Abramova"
+      ],
+      "castDetail": [
+        {
+          "name": "Алиса Фрейндлих",
+          "character": "Stalker's Wife",
+          "profile": "/6r90VxIyPWE63DnBS91xeomZmIP.jpg"
+        },
+        {
+          "name": "Александр Кайдановский",
+          "character": "Stalker",
+          "profile": "/yHYfkxQu3GVKxx5ibFmEom8qAS6.jpg"
+        },
+        {
+          "name": "Анатолий Солоницын",
+          "character": "Writer",
+          "profile": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg"
+        },
+        {
+          "name": "Микола Гринько",
+          "character": "Professor",
+          "profile": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg"
+        },
+        {
+          "name": "Natalya Abramova",
+          "character": "Marta",
+          "profile": "/iJOfkfk0MT3rW1iVrzp8t4pKotr.jpg"
+        },
+        {
+          "name": "Faime Jürno",
+          "character": "Writer's Companion",
+          "profile": "/kx04DJQeV2v3fdU23MeudKyTuBm.jpg"
+        },
+        {
+          "name": "Евгений Костин",
+          "character": "Lyuger, Owner of Cafe",
+          "profile": null
+        },
+        {
+          "name": "Raimo Rendi",
+          "character": "Police Patrol",
+          "profile": null
+        }
+      ],
+      "tmdbRating": 8.1,
+      "tmdbVotes": 2628,
+      "popularity": 8.8786,
+      "trailer": "https://www.youtube.com/watch?v=nFLQEuQuNKM",
+      "fonte": "fantascienza: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "fantascienza: il tuo terreno",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "proposto": "2026-10-06"
+    },
+    {
+      "tmdbId": 931285,
+      "imdbId": "tt17490712",
+      "title": "Mortal Kombat II",
+      "originalTitle": "Mortal Kombat II",
+      "release": "2026-05-06",
+      "releaseFonte": "IT",
+      "genres": [
+        "Azione",
+        "Fantasy",
+        "Avventura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 116,
+      "plot": "I campioni del Regno della Terra, ora affiancati da Johnny Cage, affrontano una battaglia decisiva per fermare il dominio di Shao Kahn, che minaccia l'esistenza stessa della Terra e dei suoi difensori.",
+      "tagline": "Pronti per il livello successivo.",
+      "poster": "/vKKOUvWkofWt8x62I7utwj7ouLB.jpg",
+      "backdrop": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "director": "Simon McQuoid",
+      "cast": [
+        "Karl Urban",
+        "Adeline Rudolph",
+        "Ludi Lin",
+        "Jessica McNamee",
+        "Martyn Ford"
+      ],
+      "castDetail": [
+        {
+          "name": "Karl Urban",
+          "character": "Johnny Cage",
+          "profile": "/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+        },
+        {
+          "name": "Adeline Rudolph",
+          "character": "Kitana",
+          "profile": "/rkcZTtTTqTe8QK4UMIjHHVefdnN.jpg"
+        },
+        {
+          "name": "Ludi Lin",
+          "character": "Liu Kang",
+          "profile": "/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+        },
+        {
+          "name": "Jessica McNamee",
+          "character": "Sonya Blade",
+          "profile": "/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+        },
+        {
+          "name": "Martyn Ford",
+          "character": "Shao Kahn",
+          "profile": "/nt1gfbZPSywrHX1XnuZhQ0gU5BS.jpg"
+        },
+        {
+          "name": "Josh Lawson",
+          "character": "Kano",
+          "profile": "/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+        },
+        {
+          "name": "Tati Gabrielle",
+          "character": "Jade",
+          "profile": "/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+        },
+        {
+          "name": "Mehcad Brooks",
+          "character": "Jax Briggs",
+          "profile": "/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+        }
+      ],
+      "tmdbRating": 7.8,
+      "tmdbVotes": 2655,
+      "popularity": 35.6964,
+      "trailer": "https://www.youtube.com/watch?v=NjNWmYSEjlY",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "proposto": "2026-10-06"
     }
   ],
   "storico": {
@@ -587,6 +664,7 @@
     "19": "2026-09-13",
     "22": "2026-09-15",
     "28": "2026-09-21",
+    "38": "2026-10-06",
     "62": "2026-09-18",
     "68": "2026-09-27",
     "73": "2026-09-17",
@@ -613,7 +691,9 @@
     "284": "2026-09-30",
     "289": "2026-09-14",
     "311": "2026-09-27",
+    "329": "2026-10-06",
     "335": "2026-09-15",
+    "346": "2026-10-06",
     "348": "2026-10-05",
     "350": "2026-09-13",
     "389": "2026-09-20",
@@ -639,6 +719,7 @@
     "600": "2026-09-24",
     "603": "2026-09-13",
     "629": "2026-09-14",
+    "637": "2026-10-06",
     "670": "2026-09-28",
     "679": "2026-09-22",
     "680": "2026-09-23",
@@ -658,6 +739,7 @@
     "1018": "2026-09-23",
     "1091": "2026-09-19",
     "1124": "2026-09-27",
+    "1398": "2026-10-06",
     "1422": "2026-09-30",
     "1538": "2026-09-23",
     "1580": "2026-09-22",
@@ -680,6 +762,7 @@
     "10681": "2026-09-12",
     "10775": "2026-09-27",
     "11036": "2026-10-02",
+    "11216": "2026-10-06",
     "11423": "2026-09-28",
     "11474": "2026-09-24",
     "11878": "2026-09-21",
@@ -790,6 +873,7 @@
     "646380": "2026-09-20",
     "696374": "2026-10-02",
     "696506": "2026-09-15",
+    "698687": "2026-10-06",
     "724089": "2026-09-21",
     "726759": "2026-10-03",
     "755898": "2026-09-13",
@@ -799,6 +883,7 @@
     "792307": "2026-09-15",
     "823219": "2026-10-03",
     "843847": "2026-09-13",
+    "931285": "2026-10-06",
     "961323": "2026-09-29",
     "965150": "2026-09-20",
     "980431": "2026-09-14",
