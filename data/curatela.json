@@ -1,82 +1,4 @@
 {
-  "https://www.theguardian.com/film/2026/sep/22/post-your-questions-for-miranda-richardson": {
-    "titolo": "Il Guardian raccoglie le domande dei lettori per Miranda Richardson",
-    "sommario": "L'attrice britannica risponderà al pubblico: dalla Ruth Ellis di Ballata per Ruth a Rita Skeeter fino alla Queenie di Blackadder.",
-    "perche": "Una carriera intera di caratterista di lusso, dal cinema inglese d'autore alle saghe popolari",
-    "sezione": "curiosita"
-  },
-  "https://movieplayer.it/news/anne-hathaway-oscar-odissea-strategia-universal_171165/": {
-    "titolo": "Universal candida Anne Hathaway come non protagonista per Odissea",
-    "sommario": "La Penelope del film di Christopher Nolan correrà nella categoria attrice non protagonista: è la prima mossa della campagna Oscar dello studio.",
-    "perche": "Hai visto Odissea e segui sia Nolan sia la Hathaway: la corsa agli Oscar parte da qui",
-    "sezione": "notizia"
-  },
-  "https://cinefilos.it/tutto-film/approfondimenti/ce-ancora-domani-storia-vera-film-paola-cortellesi-722875": {
-    "titolo": "C'è ancora domani, quanto c'è di vero nella Roma del 1946 di Cortellesi",
-    "sommario": "Cinefilos ricostruisce il contesto storico da cui nasce la vicenda di Delia, donna sposata e madre in una famiglia patriarcale del dopoguerra.",
-    "perche": "L'hai visto: qui trovi la Storia reale che sta dietro alla storia privata di Delia",
-    "sezione": "approfondimento"
-  },
-  "https://www.screenweek.it/lisola-dei-ricordi-e-unesplosione-cromatica-che-non-si-ferma-mai/": {
-    "titolo": "L'isola dei ricordi, la mitologia filippina passata da DreamWorks",
-    "sommario": "ScreenWeek legge il film d'animazione come esempio di blockbuster che si adatta ai ritmi rapidissimi dell'intrattenimento contemporaneo.",
-    "perche": "Animazione d'avventura che pesca in un immaginario nuovo: il tuo genere, radici diverse",
-    "sezione": "approfondimento"
-  },
-  "https://www.screenweek.it/war-il-divorzio-del-secolo-il-trailer-ufficiale-del-film-sky/": {
-    "titolo": "War - Il divorzio del secolo, online il trailer del film Sky",
-    "sommario": "Sky ha diffuso il trailer ufficiale del film.",
-    "perche": "Il cinema italiano finanziato dalle pay tv è ormai un canale produttivo a sé",
-    "sezione": "notizia"
-  },
-  "https://www.screenweek.it/libri-proibiti-the-librarians-il-trailer-ufficiale-del-film/": {
-    "titolo": "Libri Proibiti - The Librarians, online il trailer ufficiale",
-    "sommario": "È stato diffuso il trailer ufficiale del film.",
-    "perche": "Il titolo italiano promette un film sulla censura dei libri, tema che il cinema sta riscoprendo",
-    "sezione": "notizia"
-  },
-  "https://www.screenweek.it/steps-il-trailer-del-film-netflix-con-ali-wong-e-amanda-seyfried/": {
-    "titolo": "Steps, il trailer del film Netflix con Ali Wong e Amanda Seyfried",
-    "sommario": "Netflix ha diffuso il trailer ufficiale del film interpretato da Ali Wong e Amanda Seyfried.",
-    "perche": "Amanda Seyfried e Ali Wong insieme: un incrocio inatteso tra commedia e dramma",
-    "sezione": "notizia"
-  },
-  "https://www.badtaste.it/articoli/jim-parsons-e-il-gioco-che-costringe-tutti-a-confessare-il-loro-primo-amore-in-questo-film-su-netflix": {
-    "titolo": "Il classico teatrale del 1968 sulla vita gay prima di Stonewall, ora su Netflix",
-    "sommario": "BadTaste rilegge il dramma portato al cinema con Jim Parsons: un gioco crudele costringe gli invitati a una festa a confessare il primo amore.",
-    "perche": "Teatro filmato e crudeltà da camera chiusa: lo stesso meccanismo a orologeria di The Menu",
-    "sezione": "passato"
-  },
-  "https://cinefilos.it/tutto-film/approfondimenti/lawless-storia-vera-fratelli-bondurant-film-722918": {
-    "titolo": "Lawless, la storia vera dei fratelli Bondurant dietro il film di Hillcoat",
-    "sommario": "Cinefilos ricostruisce la vicenda dei contrabbandieri di moonshine della Virginia raccontata nel film del 2012 con Tom Hardy e Shia LaBeouf.",
-    "perche": "Il romanzo d'origine è firmato da Matt Bondurant, nipote di uno dei tre fratelli veri",
-    "sezione": "approfondimento"
-  },
-  "https://www.badtaste.it/articoli/meryl-streep-e-nicole-kidman-nel-musical-su-netflix-in-cui-le-star-imparano-la-lezione-piu-dura": {
-    "titolo": "Il musical di Ryan Murphy che spedisce le star di Broadway nella provincia americana",
-    "sommario": "BadTaste rilegge il film Netflix con Meryl Streep, Nicole Kidman e James Corden: commedia camp tra ego teatrale e accettazione.",
-    "perche": "Camp dichiarato e satira dello showbusiness: l'altra faccia della Barbie che hai visto",
-    "sezione": "passato"
-  },
-  "https://www.badtaste.it/articoli/scontri-epici-ed-effetti-speciali-questo-film-su-netflix-regala-una-battaglia-che-i-fan-aspettavano": {
-    "titolo": "Il capitolo che chiude il Monsterverse e la battaglia attesa dai fan",
-    "sommario": "BadTaste analizza scontri, personaggi ed effetti speciali del film che conclude il ciclo dei kaiju, ora disponibile su Netflix.",
-    "perche": "Spettacolo di creature in scala gigante: lo stesso piacere dei Jurassic World che hai visto",
-    "sezione": "approfondimento"
-  },
-  "https://www.badtaste.it/articoli/kevin-spacey-colin-farrell-e-jennifer-aniston-non-bastano-a-salvare-questa-commedia-su-netflix": {
-    "titolo": "Spacey, Farrell e Aniston in una commedia nera che non trova il tono",
-    "sommario": "BadTaste stronca il film su Netflix: satira cattiva e farsa si annullano a vicenda, sprecando una premessa promettente.",
-    "perche": "Come si brucia una commedia nera: utile per capire perché The Menu invece funzionava",
-    "sezione": "approfondimento"
-  },
-  "https://www.badtaste.it/articoli/questa-commedia-di-adam-sandler-su-netflix-ci-ricorda-con-umorismo-perche-i-bulli-sono-i-veri-mostri": {
-    "titolo": "La commedia di Adam Sandler che affronta il bullismo ridendo",
-    "sommario": "BadTaste rilegge il film disponibile su Netflix, con Steve Buscemi e Ray Liotta nel cast, e il modo in cui usa l'umorismo per parlare di bulli.",
-    "perche": "Commedia americana di larga cassa: non è il tuo terreno, ma è il termometro di un'epoca",
-    "sezione": "passato"
-  },
   "https://www.slashfilm.com/2264729/the-love-hypothesis-movie-ending-explained/": {
     "titolo": "Il finale di The Love Hypothesis spiegato nella versione per lo schermo",
     "sommario": "/Film analizza come si chiude l'adattamento del romanzo di Ali Hazelwood, nato come fan fiction di Star Wars.",
@@ -99,18 +21,6 @@
     "titolo": "Anne Hathaway corre come non protagonista agli Oscar per Odissea",
     "sommario": "Universal candida l'attrice nella categoria non protagonista per il film di Christopher Nolan, puntando al suo secondo Oscar.",
     "perche": "Hai visto Odissea: la sua Penelope è il ruolo su cui si gioca tutta la campagna del film",
-    "sezione": "notizia"
-  },
-  "https://movieplayer.it/news/robert-pattinson-cambiamento-the-batman-2-svolta-primo-film_171179/": {
-    "titolo": "Robert Pattinson: The Batman - Parte II sarà una svolta rispetto al primo film",
-    "sommario": "L'attore anticipa un film più ambizioso del precedente, con un cambio di direzione che non rinuncia all'atmosfera del capitolo di Matt Reeves.",
-    "perche": "Hai visto The Batman e tieni la Parte II in libreria: è il primo indizio sul tono del sequel",
-    "sezione": "notizia"
-  },
-  "https://www.screenweek.it/resident-evil-zach-cregger-si-gode-il-successo-del-suo-film/": {
-    "titolo": "Zach Cregger dopo il successo di Resident Evil è già al lavoro sul prossimo film",
-    "sommario": "Il regista incassa il risultato del suo adattamento del videogioco e passa subito al progetto successivo.",
-    "perche": "Hai visto Weapons e tieni Resident Evil in libreria: Cregger è il nome horror del momento",
     "sezione": "notizia"
   },
   "https://cinefilos.it/cinema-news/2026/giorni-di-tuono-2-riprese-marzo-2027-tom-cruise-anne-hathaway-723110": {
@@ -136,18 +46,6 @@
     "sommario": "BadTaste rilancia un film con l'80% su Rotten Tomatoes rimasto ai margini della filmografia dell'attore.",
     "perche": "Statham fuori dal suo stampo abituale, dentro un heist inglese costruito su fatti accaduti",
     "sezione": "passato"
-  },
-  "https://movieplayer.it/news/tom-cruise-lavoro-tuttofare-prima-hollywood-spalavo-ghiaccio_171177/": {
-    "titolo": "Tom Cruise racconta i lavori fatti a New York prima del cinema",
-    "sommario": "Prima dei blockbuster, l'attore faceva l'assistente del custode di un palazzo dell'Upper West Side: «Spalavo il ghiaccio ogni giorno».",
-    "perche": "Aneddoto, ma dice qualcosa sull'ossessione per il lavoro fisico che regge tutti i suoi film",
-    "sezione": "curiosita"
-  },
-  "https://movieplayer.it/news/digger-prime-reazioni-tom-cruise-performance-straordinaria_171176/": {
-    "titolo": "Digger divide la critica, ma Tom Cruise convince tutti",
-    "sommario": "Le prime reazioni al film di Alejandro González Iñárritu elogiano Cruise e Riz Ahmed mentre spaccano il giudizio sull'insieme.",
-    "perche": "Cruise affidato a un autore che lo smonta: il passaggio più interessante della sua carriera",
-    "sezione": "approfondimento"
   },
   "https://www.screenweek.it/il-gatto-col-cappello-il-nuovo-trailer-ufficiale-del-film/": {
     "titolo": "Il Gatto col Cappello, il nuovo trailer del film animato",
@@ -214,12 +112,6 @@
     "sommario": "Il creatore della saga spiega perché dopo La vendetta dei Sith lasciò la regia per dedicarsi al Lucas Museum of Narrative Art.",
     "perche": "La saga che non abbiamo visto, raccontata da chi ha deciso di non girarla",
     "sezione": "passato"
-  },
-  "https://movieplayer.it/news/blade-fallimento-kevin-feige-mahershala-ali-marvel_171180/": {
-    "titolo": "Mahershala Ali contro Marvel: «Blade è il più grande fallimento di Feige»",
-    "sommario": "L'attore dice di non capire ancora perché il reboot non sia mai entrato in produzione, nonostante il contratto e il coinvolgimento dello studio.",
-    "perche": "Un premio Oscar che parla apertamente del vuoto dentro la macchina Marvel",
-    "sezione": "approfondimento"
   },
   "https://www.slashfilm.com/2266868/primetime-movie-ending-explained/": {
     "titolo": "Primetime, il film A24 con Robert Pattinson nei panni di Chris Hansen",
@@ -1343,18 +1235,6 @@
     "perche": "Hai tutta la saga in libreria e tre capitoli già visti: cambia di nuovo la regia",
     "sezione": "notizia"
   },
-  "https://movieplayer.it/news/digger-disastro-box-office-peggior-flop-carriera-tom-cruise_171351/": {
-    "titolo": "Digger, il debutto più debole della carriera di Tom Cruise",
-    "sommario": "MoviePlayer ricostruisce l'esordio sotto le attese del film di Iñárritu, che non supera i dieci milioni di dollari.",
-    "perche": "Doppione: il crollo al box office è già raccontato da Hollywood Reporter e Guardian",
-    "sezione": "scarta"
-  },
-  "https://cinefilos.it/cinema-news/2026/jack-reacher-3-lautore-lee-child-chiarisce-ufficialmente-la-cancellazione-del-film-con-tom-cruise-724695": {
-    "titolo": "Jack Reacher 3, Lee Child conferma di aver fermato il film con Tom Cruise",
-    "sommario": "L'autore britannico ha chiarito di aver scelto di non concedere un terzo capitolo cinematografico, preferendo la serie televisiva.",
-    "perche": "Doppione: la stessa spiegazione è raccontata per esteso nell'articolo di Deadline",
-    "sezione": "scarta"
-  },
   "https://www.screenweek.it/jessica-chastain-al-doppio-della-tensione-perche-mammina-e-il-thriller-psicologico-dellautunno-da-vedere-al-cinema/": {
     "titolo": "Mammina, Jessica Chastain trasforma la figura materna in una minaccia",
     "sommario": "ScreenWeek presenta l'horror psicologico in sala questo autunno: Chastain guida un film costruito sull'ambiguità e sulla tensione.",
@@ -1367,23 +1247,11 @@
     "perche": "Hai visto Oppenheimer e Odissea: è il Nolan dove il meccanismo conta più dei personaggi",
     "sezione": "passato"
   },
-  "https://cinefilos.it/serie-tv/news/lanterns-svela-ufficialmente-il-sostituto-di-nathan-fillion-nel-cast-della-seconda-stagione-724690": {
-    "titolo": "Lanterns, chi sostituisce Nathan Fillion nella seconda stagione",
-    "sommario": "Cinefilos annuncia il nuovo ingresso nel cast della serie DC dopo un finale di stagione che ha cambiato gli equilibri tra le Lanterne umane.",
-    "perche": "Scartato: è una serie tv, fuori dal perimetro della rassegna",
-    "sezione": "scarta"
-  },
   "https://movieplayer.it/news/batman-2-scarlett-johansson-interrompe-riprese-allucinazioni_171352/": {
     "titolo": "Scarlett Johansson mette in pausa The Batman - Part II per un altro progetto",
     "sommario": "Al New York Film Festival, arrivata direttamente dal set, l'attrice ha raccontato il jet lag e la breve interruzione per ritrovare Adam Driver e Miles Teller.",
     "perche": "Hai The Batman: Part II in libreria e hai visto il primo: il sequel è in piena lavorazione",
     "sezione": "curiosita"
-  },
-  "https://www.everyeye.it/notizie/goty-2026-perche-anno-premio-campo-battaglia-giochi-85-904105.html": {
-    "titolo": "GOTY 2026, un anno di videogiochi solidi senza un capolavoro",
-    "sommario": "Everyeye fa il punto sulla corsa al gioco dell'anno, descrivendo un 2026 ricco di titoli validi ma privo di un vertice assoluto.",
-    "perche": "Scartato: riguarda i videogiochi, non il cinema",
-    "sezione": "scarta"
   },
   "https://cinefilos.it/business/box-office-italia-4-ottobre-2026-naza-verity-digger-odissea-724687": {
     "titolo": "Box office Italia: Naza supera i 3 milioni, Verity debutta davanti a Digger",
@@ -1403,23 +1271,11 @@
     "perche": "Il dietro le quinte di una decisione di scrittura che ha diviso critica e pubblico",
     "sezione": "approfondimento"
   },
-  "https://movieplayer.it/news/james-gunn-scrivendo-prossimo-film-mentre-superman-man-tomorrow_171357/": {
-    "titolo": "James Gunn al lavoro sul prossimo film mentre monta Superman",
-    "sommario": "Il co-CEO di DC Studios ha confermato di essere già alla sceneggiatura del film successivo a Superman: Man of Tomorrow.",
-    "perche": "Doppione: la stessa conferma è già in rassegna nella versione di Deadline",
-    "sezione": "scarta"
-  },
   "https://www.badtaste.it/articoli/warner-paramount-i-primi-danni-sospeso-il-nuovo-film-di-il-signore-degli-anelli": {
     "titolo": "Il nuovo film de Il Signore degli Anelli sospeso dopo la fusione Warner-Paramount",
     "sommario": "BadTaste riporta la messa in pausa del progetto, primo effetto visibile dell'acquisizione di Warner Bros. da parte di Paramount.",
     "perche": "La fusione comincia a tagliare: il primo progetto fermato è un franchise da miliardi",
     "sezione": "notizia"
-  },
-  "https://movieplayer.it/news/avengers-endgame-torna-film-visto-sempre-supera-avatar-riedizione_171355/": {
-    "titolo": "Avengers: Endgame riprende il record di incassi dopo la riedizione",
-    "sommario": "La versione Extra porta il film Marvel a 2,925 miliardi di dollari nel mondo, davanti ad Avatar.",
-    "perche": "Doppione: il sorpasso è già raccontato nella scheda dell'Hollywood Reporter",
-    "sezione": "scarta"
   },
   "https://movieplayer.it/news/paul-rudd-smesso-portare-telefono-set-contribuiscono-distruggerci_171353/": {
     "titolo": "Paul Rudd ha smesso di portare il telefono sul set: «Ci distruggono»",
@@ -1451,130 +1307,10 @@
     "perche": "Berg è l'americano che filma meglio il coraggio ordinario: da Lone Survivor a Deepwater",
     "sezione": "approfondimento"
   },
-  "https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663/": {
-    "titolo": "Artificial, la recensione: Guadagnino racconta OpenAI come un docudramma",
-    "sommario": "Per Variety il film di Luca Guadagnino sui fondatori di OpenAI è fedele ai fatti e brillante, con Andrew Garfield nel ruolo di Sam Altman e Yura Borisov accanto a lui.",
-    "perche": "Hai Artificial in libreria: la recensione lo definisce il vero seguito di The Social Network",
-    "sezione": "approfondimento"
-  },
-  "https://variety.com/2026/film/awards/artificial-oscars-campaign-andrew-garfield-supporting-actor-1236899378/": {
-    "titolo": "Neon candiderà Garfield come non protagonista per Artificial",
-    "sommario": "La distribuzione punta su Andrew Garfield nella categoria attore non protagonista e su Yura Borisov come protagonista, sedici anni dopo The Social Network.",
-    "perche": "Artificial è in libreria: la strategia agli Oscar dice su chi punta davvero il film",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/news/social-reckoning-first-reactions-facebook-zuckerberg-1236878038/": {
-    "titolo": "Prime reazioni a The Social: Il prezzo della verità, seguito duro su Zuckerberg",
-    "sommario": "La stampa che ha visto il film di Aaron Sorkin lo descrive come un seguito riuscito di The Social Network e un atto d'accusa verso Mark Zuckerberg.",
-    "perche": "Hai The Social: Il prezzo della verità in libreria: qui si capisce che film sarà",
-    "sezione": "approfondimento"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/john-leguizamo-odyssey-non-traditonal-casting-spider-man-1236721343/": {
-    "titolo": "John Leguizamo racconta Odissea e l'esclusione da Spider-Man: Homecoming",
-    "sommario": "L'attore parla del ruolo nel film di Christopher Nolan e di quando fu allontanato da Spider-Man: Homecoming; potrebbe arrivare la sua prima nomination all'Oscar.",
-    "perche": "Hai visto Odissea: qui parla uno del cast, con una carriera di battaglie sulla rappresentazione",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2278243/verity-box-office-future-colleen-hoover-adaptations-meaning/": {
-    "titolo": "Verity con Anne Hathaway incassa e rilancia gli adattamenti di Colleen Hoover",
-    "sommario": "Il film tratto dal romanzo di Colleen Hoover ha aperto con numeri alti al box office, aprendo la strada ad altri adattamenti dalla scrittrice.",
-    "perche": "Verity è in libreria e Anne Hathaway è una presenza ricorrente nelle tue scelte",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/": {
-    "titolo": "Andrew Garfield racconta come è cambiata la sua idea di Sam Altman",
-    "sommario": "Alla prima di Artificial al New York Film Festival l'attore ha detto di essere stato inizialmente conquistato dal CEO di OpenAI, prima di studiarlo a fondo.",
-    "perche": "Il film è in libreria: qui c'è il metodo con cui Garfield ha costruito il personaggio",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/": {
-    "titolo": "Artificial, prime reazioni: per la stampa è il miglior Guadagnino del decennio",
-    "sommario": "Dopo la prima al New York Film Festival i critici descrivono il film su Sam Altman come un dramma aziendale provocatorio e per alcuni terrificante.",
-    "perche": "Hai Artificial in libreria: le prime reazioni dicono quanto alzare le aspettative",
-    "sezione": "approfondimento"
-  },
-  "https://deadline.com/gallery/luca-guadagnino-artificial-red-carpet-premiere-photos/": {
-    "titolo": "Le foto della prima di Artificial al New York Film Festival",
-    "sommario": "Deadline pubblica la galleria del red carpet alla Alice Tully Hall con Luca Guadagnino, Andrew Garfield, Yura Borisov, Jason Schwartzman e Billie Lourd.",
-    "perche": "Solo fotografie della serata già raccontata negli altri articoli sulla prima",
-    "sezione": "scarta"
-  },
-  "https://variety.com/lists/horror-movies-to-watch-october-2026/": {
-    "titolo": "Gli horror di ottobre secondo Variety: Mammina, Carrie e mostri marini",
-    "sommario": "La rubrica Horror Explorer seleziona le uscite horror del mese: tra queste Mammina, un ritorno di Carrie e un film con Josh Hartnett a caccia in mare.",
-    "perche": "Hai Mammina in libreria, e l'horror è uno dei generi che frequenti di più",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/10/artificial-star-andrew-garfield-on-playing-sam-altman-1237147012/": {
-    "titolo": "Garfield su Altman: un leader carismatico che assorbe autonomia e dati",
-    "sommario": "L'attore dice di aver lavorato per mesi su filmati del CEO di OpenAI e di esserne uscito con un ritratto calcolatore e nichilista.",
-    "perche": "Stessa serata e stesse dichiarazioni degli altri resoconti dalla prima di Artificial",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-reviews/artificial-review-andrew-garfield-luca-guadagnino-open-ai-1236723005/": {
-    "titolo": "Artificial, la recensione: Garfield e Borisov come opposti etici",
-    "sommario": "Per Hollywood Reporter il film di Guadagnino ricostruisce la strada che ha portato all'attuale crisi dell'intelligenza artificiale; nel cast anche Mark Rylance.",
-    "perche": "Seconda recensione su Artificial, che hai in libreria: utile per incrociare i giudizi",
-    "sezione": "approfondimento"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-the-social-reckoning-first-reactions-1236723046/": {
-    "titolo": "The Social: Il prezzo della verità, le prime reazioni al film di Sorkin",
-    "sommario": "Il seguito autonomo di The Social Network arriva nelle sale americane il 9 ottobre; la stampa ha diffuso le prime impressioni.",
-    "perche": "Doppione del resoconto più ampio sulle stesse prime reazioni",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-sam-altman-artificial-first-reactions-1236723007/": {
-    "titolo": "Artificial di Guadagnino, le prime reazioni della stampa",
-    "sommario": "Il film su Sam Altman con Andrew Garfield, Yura Borisov e Monica Barbaro arriva nelle sale americane il 25 dicembre.",
-    "perche": "Doppione del resoconto più ampio sulle prime reazioni ad Artificial",
-    "sezione": "scarta"
-  },
-  "https://www.slashfilm.com/2276598/spider-man-first-non-animated-adaptation-stage-play/": {
-    "titolo": "Il primo Spider-Man non animato combatteva Dracula su un palco",
-    "sommario": "Prima del debutto televisivo in The Electric Company, Spider-Man apparve in uno spettacolo dal vivo legato al Bullwinkle Show, dove affrontava Dracula.",
-    "perche": "Spider-Man: Brand New Day è in libreria: qui c'è la preistoria dal vivo del personaggio",
-    "sezione": "curiosita"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bomb-opening-weekend-box-office-analysis-1236722877/": {
-    "titolo": "Perché Digger di Iñárritu con Tom Cruise è crollato al box office",
-    "sommario": "La satira ad alto budget distribuita da Warner Bros. ha aperto molto sotto le attese e si avvia a una perdita consistente.",
-    "perche": "Il caso misura quanto spazio resta in sala al cinema d'autore ad alto budget",
-    "sezione": "approfondimento"
-  },
-  "https://www.slashfilm.com/2277656/tom-cruise-digger-box-office-flop-reasons/": {
-    "titolo": "Cinque ragioni del fallimento di Digger al box office",
-    "sommario": "/Film elenca i motivi del debutto disastroso del film di Alejandro G. Iñárritu con Tom Cruise nelle sale di tutto il mondo.",
-    "perche": "Stessa analisi del flop di Digger già coperta da un'altra testata",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/whalefall-first-reactions-austin-abrams-brian-duffield-1236716804/": {
-    "titolo": "Whalefall, prime reazioni al survival thriller con Austin Abrams",
-    "sommario": "Il film diretto da Brian Duffield arriva nelle sale americane il 16 ottobre; la stampa ha diffuso le prime impressioni dopo le proiezioni.",
-    "perche": "C'è Josh Brolin, il Gurney Halleck dei tuoi Dune, in un survival claustrofobico",
-    "sezione": "notizia"
-  },
   "https://www.slashfilm.com/2276160/why-sweet-magnolias-canceled-netflix/": {
     "titolo": "Netflix chiude Sweet Magnolias dopo cinque stagioni",
     "sommario": "La serie è stata cancellata dalla piattaforma dopo cinque stagioni; l'articolo ricostruisce le ragioni della decisione.",
     "perche": "Riguarda una serie televisiva, fuori dal perimetro del cinema",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/george-fenton-dead-film-composer-1236723045/": {
-    "titolo": "Morto George Fenton, compositore di Grido di libertà e Le relazioni pericolose",
-    "sommario": "Il compositore britannico, candidato all'Oscar, è morto a 76 anni; aveva firmato anche Ricomincio da capo, C'è posta per te e il documentario Planet Earth.",
-    "perche": "Chi ha musicato Ricomincio da capo e Planet Earth ha formato l'orecchio di generazioni",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2276128/game-of-thrones-movie-destined-box-office-disappointment/": {
-    "titolo": "Perché un film di Game of Thrones rischia la delusione al box office",
-    "sommario": "/Film analizza i motivi per cui il progetto cinematografico tratto dalla saga potrebbe non funzionare nelle sale.",
-    "perche": "Il passaggio dalla serialità al grande schermo è la scommessa più fragile di Hollywood",
-    "sezione": "approfondimento"
-  },
-  "https://deadline.com/gallery/matchbox-the-movie-red-carpet-premiere-photos-apple-tv/": {
-    "titolo": "Le foto della prima newyorkese di Matchbox: The Movie",
-    "sommario": "Il cast del film Apple diretto da Sam Hargrave, con John Cena e Jessica Biel, si è riunito all'AMC Lincoln Square per la prima di New York.",
-    "perche": "Galleria di foto dal red carpet, senza informazioni sul film",
     "sezione": "scarta"
   },
   "https://www.theguardian.com/music/2026/oct/06/sergiu-celibidache-yellow-tie-film-conductor-serge-father-son": {
@@ -1582,84 +1318,6 @@
     "sommario": "Autore di un nuovo film sul direttore d'orchestra celebre per il rifiuto delle incisioni, il figlio ne ricorda l'intransigenza e l'affetto.",
     "perche": "Un biopic scritto da chi c'era: il ritratto di un genio come resa dei conti familiare",
     "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary": {
-    "titolo": "The Craft torna in sala per i trent'anni: la recensione del Guardian",
-    "sommario": "Il quotidiano rivede il cult di Andrew Fleming del 1996 nella riedizione per l'anniversario e ne elogia l'energia nel raccontare le ansie adolescenti.",
-    "perche": "L'horror adolescenziale anni Novanta da cui discende buona parte del genere che segui",
-    "sezione": "passato"
-  },
-  "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless": {
-    "titolo": "The Lost Children of Tuam, il dramma sulle fosse comuni irlandesi",
-    "sommario": "Monica Dolan interpreta la storica dilettante che scoprì le sepolture di massa in un istituto per madri e bambini gestito da suore; produce Liam Neeson.",
-    "perche": "Dramma d'inchiesta su un crimine rimosso, portato alla luce da una ricercatrice senza titoli",
-    "sezione": "approfondimento"
-  },
-  "https://variety.com/2026/film/news/elizabeth-holmes-innocent-you-can-see-everything-1236897075/": {
-    "titolo": "Un gruppo difende Elizabeth Holmes alla proiezione del documentario A24",
-    "sommario": "In You Can See Everything la fondatrice di Theranos si dichiara ancora innocente; alla proiezione un gruppo organizzato ne ha chiesto la liberazione.",
-    "perche": "Il mito del fondatore visionario, lo stesso terreno di Artificial che hai in libreria",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/10/paramount-warner-bros-merger-clockwork-1237147148/": {
-    "titolo": "Clockwork, la nuova etichetta Warner Bros, passa a Skydance",
-    "sommario": "Il marchio guidato da Christian Parkes si sposta nella società nata dalla fusione tra Paramount e Warner Bros, ora chiamata Skydance.",
-    "perche": "Dalla fusione Paramount-Warner dipende quali film d'autore arriveranno in sala",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/10/hollywood-unions-report-us-film-tv-production-decline-1237147051/": {
-    "titolo": "I sindacati di Hollywood avvertono: la produzione americana è al limite",
-    "sommario": "Un rapporto commissionato da diversi sindacati dell'industria descrive un calo profondo della produzione di film e serie negli Stati Uniti.",
-    "perche": "Meno produzione americana significa meno film originali nelle sale che frequenti",
-    "sezione": "approfondimento"
-  },
-  "https://deadline.com/2026/10/the-gymnasts-of-fisherman-colony-trailer-1237146059/": {
-    "titolo": "Il documentario sulle ginnaste di Fisherman Colony esce il 23 ottobre",
-    "sommario": "Dal 23 ottobre in sala il film di Habiba Nosheen sulle ragazze pachistane che praticano ginnastica sfidando la loro comunità; tra i produttori Malala Yousafzai.",
-    "perche": "Se i documentari ti interessano, qui una storia di ribellione quotidiana girata in Pakistan",
-    "sezione": "notizia"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/london-film-festival-2026-lff-concrete-movie-titles-1236720815/": {
-    "titolo": "Al London Film Festival 2026 troppi film con la parola concrete nel titolo",
-    "sommario": "La direttrice Kristy Matheson racconta che la coincidenza di titoli ha reso le riunioni di programmazione divertenti e piuttosto confuse.",
-    "perche": "Il dietro le quinte di come si costruisce il cartellone di un grande festival",
-    "sezione": "curiosita"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/bas-book-film-family-trauma-vietnam-iran-lff-ashley-duong-1236721825/": {
-    "titolo": "Ba's Book, il film ibrido di Ashley Duong sulla fuga dal Vietnam",
-    "sommario": "Presentato al London Film Festival, ricostruisce i ricordi che il padre della regista aveva taciuto: la fuga dalla guerra e la vita da rifugiato in Iran.",
-    "perche": "Il cinema del lutto familiare e del non detto, la stessa materia di Hamnet che hai visto",
-    "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/oct/05/club-kid-review-jordan-firstmans-movie-review": {
-    "titolo": "Club Kid, il debutto alla regia di Jordan Firstman convince il Guardian",
-    "sommario": "Presentata al New York Film Festival, la commedia racconta un frequentatore di club di Brooklyn che scopre di avere un figlio di dieci anni.",
-    "perche": "New York indipendente e commedia sporca: non lontano dall'energia di Marty Supreme",
-    "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/oct/05/little-shop-of-horrors-feelgood-movie": {
-    "titolo": "La piccola bottega degli orrori, elogio di un musical anni Ottanta",
-    "sommario": "Nella serie del Guardian sui film di conforto, il musical del 1986 diretto da Frank Oz viene difeso come esempio di artigianato eccezionale.",
-    "perche": "Horror e commedia musicale nello stesso film, con la pianta carnivora più famosa del cinema",
-    "sezione": "passato"
-  },
-  "https://www.slashfilm.com/2278175/jesse-eisenberg-heist-movie-now-you-see-me-now-you-dont-prime-video-october-2026/": {
-    "titolo": "Now You See Me: Now You Don't è il film più visto su Prime Video",
-    "sommario": "Il terzo capitolo della saga sugli illusionisti, con Jesse Eisenberg, è primo nella classifica della piattaforma; dura 112 minuti.",
-    "perche": "L'heist movie come intrattenimento puro: le classifiche dicono cosa si guarda a casa",
-    "sezione": "notizia"
-  },
-  "https://www.theguardian.com/culture/2026/oct/05/sean-connery-ron-perlman-the-name-of-the-rose": {
-    "titolo": "Ron Perlman racconta Il nome della rosa e Sean Connery",
-    "sommario": "L'attore ricorda la lavorazione del film di Jean-Jacques Annaud tratto da Umberto Eco e la scena in cui doveva sputare in faccia a Connery.",
-    "perche": "Il romanzo di Eco diventato film: un adattamento riuscito di cui vale sentire il dietro le quinte",
-    "sezione": "passato"
-  },
-  "https://www.slashfilm.com/2277747/how-watch-cristin-milioti-buddy-at-home/": {
-    "titolo": "Buddy, l'horror con Cristin Milioti arriva in digitale",
-    "sommario": "Il film indipendente esce in formato digitale per la visione domestica dopo il passaggio nelle sale.",
-    "perche": "Horror indipendente passato in fretta al cinema: a casa è il momento di recuperarlo",
-    "sezione": "notizia"
   },
   "https://www.badtaste.it/articoli/avengers-doomsday-la-prevendita-e-appena-iniziata-ma-i-biglietti-sono-gia-online-a-prezzi-folli": {
     "titolo": "Biglietti di Avengers: Doomsday su Vinted a prezzi gonfiati",
@@ -1750,17 +1408,5 @@
     "sommario": "ScreenWeek legge il film come un innesto del thriller sovrannaturale nella produzione italiana più tradizionale, di cui rilegge temi e contesti.",
     "perche": "Thriller sovrannaturale fatto in Italia: la via nazionale al genere che segui all'estero",
     "sezione": "notizia"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-sam-altman-prep-artificial-stanislavski-1236723141/": {
-    "titolo": "Come Garfield ha studiato Sam Altman unendo crowdsourcing e Stanislavskij",
-    "sommario": "Hollywood Reporter ricostruisce la preparazione dell'attore; Yura Borisov, che interpreta Ilya Sutskever, racconta la connessione spirituale col ruolo.",
-    "perche": "Artificial è in libreria: qui si vede il mestiere con cui due attori costruiscono persone vere",
-    "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/oct/05/post-your-questions-for-sofia-coppola": {
-    "titolo": "Il Guardian raccoglie le domande dei lettori per Sofia Coppola",
-    "sommario": "L'occasione è l'uscita del documentario di Eleanor Coppola sulla lavorazione di Marie Antoinette, il film punk che la figlia girò nel 2006.",
-    "perche": "Una madre che filma la figlia al lavoro: il making of come questione di famiglia Coppola",
-    "sezione": "passato"
   }
 }

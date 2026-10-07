@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-06T11:39:41.204Z",
+  "preparato": "2026-10-07T11:28:16.784Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -328,7 +328,7 @@
         "USA",
         "Regno Unito"
       ],
-      "durata": 80,
+      "durata": 77,
       "tagline": null,
       "cast": [
         "Yuval Abraham (Self)"
@@ -338,275 +338,344 @@
       "impronta": "NAZA|259|Yuval Abraham"
     },
     {
-      "id": "tmdb-11216",
-      "tmdbId": 11216,
-      "imdbId": "tt0095765",
+      "id": "tmdb-600354",
+      "tmdbId": 600354,
+      "imdbId": "tt10272386",
       "origine": "scoperta",
-      "titolo": "Nuovo Cinema Paradiso",
-      "titoloOriginale": "Nuovo Cinema Paradiso",
-      "anno": "1988",
-      "uscitaItalia": "1988-11-17",
-      "regia": "Giuseppe Tornatore",
+      "titolo": "The Father - Nulla è come sembra",
+      "titoloOriginale": "The Father",
+      "anno": "2021",
+      "uscitaItalia": "2021-05-20",
+      "regia": "Florian Zeller",
       "generi": [
-        "Dramma",
-        "Romance"
+        "Dramma"
       ],
       "paesi": [
-        "Italia",
-        "Francia"
+        "Francia",
+        "Regno Unito"
       ],
-      "durata": 155,
-      "tagline": "Un borgo incantato. Una bellissima amicizia. Amanti sfortunati. E la magia dei film.",
+      "durata": 97,
+      "tagline": null,
       "cast": [
-        "Philippe Noiret (Alfredo)",
-        "Jacques Perrin (Salvatore 'Totò' Di Vita (adult))",
-        "Marco Leonardi (Salvatore 'Totò' Di Vita (teen))",
-        "Salvatore Cascio (Salvatore 'Totò' Di Vita (child))",
-        "Agnese Nano (Elena Mendola (teen) / Elena's daughter (in Director's cut))",
-        "Antonella Attili (Maria Di Vita (young))"
+        "Anthony Hopkins (Anthony)",
+        "Olivia Colman (Anne)",
+        "Mark Gatiss (The Man)",
+        "Olivia Williams (The Woman)",
+        "Imogen Poots (Laura)",
+        "Rufus Sewell (Paul)"
       ],
-      "tramaTmdb": "E' la storia dell'amicizia tra Alfredo, proiezionista del cinematografo parrocchiale del paesino di Giancaldo in Sicilia, e Salvatore, diventato poi da grande affermato regista a Roma. Alla notizia della morte di Alfredo, Salvatore ripercorre nella sua memoria i momenti più significativi di questa amicizia e decide di tornare al suo paese per i funerali.Ma tra le altre sorprese scoprirà che la sala del Nuovo Cinema Paradiso sta per essere abbattuta.",
+      "tramaTmdb": "Tra le vie residenziali della Londra benestante, Anne si reca a far visita al padre Anthony nel suo appartamento. L'uomo, ottantenne, è rammaricato quando la figlia gli annuncia un prossimo trasferimento a Parigi per raggiungere l'uomo che ama, e chiede cosa ne sarà di lui. Poco dopo, sempre in casa sua, Anthony trova un uomo seduto a leggere il giornale, il quale sostiene di essere il padrone di casa e il marito di Anne. Pur vivace e a tratti ben lucido, Anthony mostra sintomi del morbo di Alzheimer, dimenticando fatti, luoghi e persone. Nel rapporto con i suoi familiari e con la giovane bada",
       "motivi": [
-        "un classico che ti manca"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "Nuovo Cinema Paradiso|453|Giuseppe Tornatore"
+      "impronta": "The Father - Nulla è come sembra|600|Florian Zeller"
     },
     {
-      "id": "tmdb-346",
-      "tmdbId": 346,
-      "imdbId": "tt0047478",
+      "id": "tmdb-581528",
+      "tmdbId": 581528,
+      "imdbId": "tt10208198",
       "origine": "scoperta",
-      "titolo": "I sette samurai",
-      "titoloOriginale": "七人の侍",
-      "anno": "1955",
-      "uscitaItalia": "1955-08-19",
-      "regia": "Akira Kurosawa",
+      "titolo": "Il Gangster, il Poliziotto, il Diavolo",
+      "titoloOriginale": "악인전",
+      "anno": "2019",
+      "uscitaItalia": "2019-05-15",
+      "regia": "이원태",
       "generi": [
         "Azione",
-        "Dramma"
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
-        "Giappone"
+        "Corea del Sud"
       ],
-      "durata": 207,
-      "tagline": "I potenti guerrieri che divennero i sette eroi nazionali di una piccola città",
+      "durata": 109,
+      "tagline": "Non lasciare che il diavolo vinca.",
       "cast": [
-        "Toshirō Mifune (Kikuchiyo)",
-        "Takashi Shimura (Kambei Shimada)",
-        "稲葉義男 (Gorobei Katayama)",
-        "宮口精二 (Kyuzo)",
-        "千秋実 (Heihachi Hayashida)",
-        "加東大介 (Shichiroji)"
+        "마동석 (Jang Dong-su)",
+        "김무열 (Jung Tae-suk)",
+        "김성규 (Kang Gyeong-ho)",
+        "허동원 (Choi Moon-sik)",
+        "유재명 (Heo Sang-do)",
+        "이서환 (Choi Jeong-gyu)"
       ],
-      "tramaTmdb": "Nel Giappone del XVI secolo in cui orde di soldati sbandati e dediti al brigantaggio saccheggiano le campagne, la popolazione di un povero villaggio decide di ricorrere ai samurai, nobile casta di soldati di ventura, nella speranza di trovare qualcuno disposto a impegnarsi in un'impresa così umile e così poco remunerata. Li trovano.",
+      "tramaTmdb": "Il capo di una gang della malavita coreana finisce nel mirino di un killer psicopatico: salvatosi miracolosamente da un attacco, decide con riluttanza di fare squadra con Jung Tae-seok, uno dei migliori poliziotti in circolazione, famoso per la sua spietata e brutale lotta contro il crimine organizzato. I due non potrebbero essere più diversi, ma grazie all'obiettivo comune il bizzarro duo si ritrova dalla stessa parte nella ricerca del folle serial killer.",
       "motivi": [
-        "un classico che ti manca"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "I sette samurai|334|Akira Kurosawa"
+      "impronta": "Il Gangster, il Poliziotto, il Diavolo|461|이원태"
     },
     {
-      "id": "tmdb-637",
-      "tmdbId": 637,
-      "imdbId": "tt0118799",
+      "id": "tmdb-752",
+      "tmdbId": 752,
+      "imdbId": "tt0434409",
       "origine": "scoperta",
-      "titolo": "La vita è bella",
-      "titoloOriginale": "La vita è bella",
-      "anno": "1997",
-      "uscitaItalia": "1997-12-20",
-      "regia": "Roberto Benigni",
+      "titolo": "V per Vendetta",
+      "titoloOriginale": "V for Vendetta",
+      "anno": "2006",
+      "uscitaItalia": "2006-03-17",
+      "regia": "James McTeigue",
       "generi": [
-        "Commedia",
-        "Dramma"
-      ],
-      "paesi": [
-        "Italia"
-      ],
-      "durata": 116,
-      "tagline": "Una favola indimenticabile che dimostra che l'amore, la famiglia e l'immaginazione conquistano tutto.",
-      "cast": [
-        "Roberto Benigni (Guido)",
-        "Nicoletta Braschi (Dora)",
-        "Giorgio Cantarini (Giosué)",
-        "Giustino Durano (Zio)",
-        "Sergio Bini Bustric (Ferruccio)",
-        "Marisa Paredes (Dora's Mother)"
-      ],
-      "tramaTmdb": "Guido, un giovane ebreo amante della vita e della poesia, si reca ad Arezzo con l'amico Ferruccio in cerca di lavoro. Si fa assumere come cameriere dallo zio Eliseo, che gestisce il Grand Hotel, e s'innamora di Dora, un'insegnante promessa sposa all'antipatico fascista Rodolfo. Con l'esuberanza e l'allegria del suo carattere, riesce a vincere le reticenze della maestrina, e a sposarla. Sei anni dopo, probabilmente denunciato dalla suocera che non ha mai digerito il matrimonio, Guido è deportato in un campo di concentramento con lo zio Eliseo e col suo figlioletto, il piccolo Giosuè, mentre Dor",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "La vita è bella|600|Roberto Benigni"
-    },
-    {
-      "id": "tmdb-38",
-      "tmdbId": 38,
-      "imdbId": "tt0338013",
-      "origine": "scoperta",
-      "titolo": "Se mi lasci ti cancello",
-      "titoloOriginale": "Eternal Sunshine of the Spotless Mind",
-      "anno": "2004",
-      "uscitaItalia": "2004-10-22",
-      "regia": "Michel Gondry",
-      "generi": [
-        "Fantascienza",
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 108,
-      "tagline": "È possibile cancellare una persona dalla propria mente. Eliminarla dal cuore è un'altra storia.",
-      "cast": [
-        "Jim Carrey (Joel Barish)",
-        "Kate Winslet (Clementine Kruczynski)",
-        "Kirsten Dunst (Mary)",
-        "Mark Ruffalo (Stan)",
-        "Elijah Wood (Patrick)",
-        "Tom Wilkinson (Dr. Mierzwiak)"
-      ],
-      "tramaTmdb": "Joel e Clementine sono una coppia molto innamorata. Stanca però della sua relazione ormai in fase di declino e mediante un esperimento scientifico, la ragazza decide di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma, durante il procedimento, cambia idea.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Se mi lasci ti cancello|365|Michel Gondry"
-    },
-    {
-      "id": "tmdb-329",
-      "tmdbId": 329,
-      "imdbId": "tt0107290",
-      "origine": "scoperta",
-      "titolo": "Jurassic Park",
-      "titoloOriginale": "Jurassic Park",
-      "anno": "1993",
-      "uscitaItalia": "1993-09-17",
-      "regia": "Steven Spielberg",
-      "generi": [
-        "Avventura",
+        "Azione",
+        "Thriller",
         "Fantascienza"
       ],
       "paesi": [
+        "Germania",
+        "Regno Unito",
         "USA"
       ],
-      "durata": 126,
-      "tagline": "Un'avventura iniziata 65 milioni di anni fa.",
+      "durata": 132,
+      "tagline": "Le persone non dovrebbero avere paura dei loro governi. I governi dovrebbero avere paura del loro popolo.",
       "cast": [
-        "Sam Neill (Grant)",
-        "Laura Dern (Ellie)",
-        "Jeff Goldblum (Malcolm)",
-        "Richard Attenborough (Hammond)",
-        "Bob Peck (Muldoon)",
-        "Martin Ferrero (Gennaro)"
+        "Natalie Portman (Evey)",
+        "Hugo Weaving (V / William Rookwood)",
+        "Stephen Rea (Finch)",
+        "Stephen Fry (Deitrich)",
+        "John Hurt (Adam Sutler)",
+        "Tim Pigott-Smith (Creedy)"
       ],
-      "tramaTmdb": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano li",
+      "tramaTmdb": "In un'Inghilterra scampata alla guerra nucleare e oppressa da una dittatura poliziesca, una giovane donna, Evey viene salvata da un uomo dal volto coperto da una maschera. Il suo nome è V, vuole vendicarsi di coloro che l'hanno internato in un campo di concentramento e l'hanno sottoposto a crudeli esperimenti medici; inizia così la sua rivolta contro il potere, cercando di sollevare i suoi concittadini contro la tirannia. Scoperta la verità sul passato di V, Evey trova in sè stessa una nuova forza e diventa un'alleata nel piano dell'uomo per ristabilire la libertà.",
       "motivi": [
-        "regia di Steven Spielberg, di cui hai visto un film",
-        "fantascienza: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Jurassic Park|600|Steven Spielberg"
+      "impronta": "V per Vendetta|571|James McTeigue"
     },
     {
-      "id": "tmdb-698687",
-      "tmdbId": 698687,
-      "imdbId": "tt8864596",
+      "id": "tmdb-223",
+      "tmdbId": 223,
+      "imdbId": "tt0032976",
       "origine": "scoperta",
-      "titolo": "Transformers One",
-      "titoloOriginale": "Transformers One",
-      "anno": "2024",
-      "uscitaItalia": "2024-09-26",
-      "regia": "Josh Cooley",
+      "titolo": "Rebecca - La prima moglie",
+      "titoloOriginale": "Rebecca",
+      "anno": "1940",
+      "uscitaItalia": "1940-03-23",
+      "regia": "Alfred Hitchcock",
       "generi": [
-        "Animazione",
-        "Fantascienza",
-        "Avventura",
-        "Famiglia"
+        "Mistero",
+        "Romance",
+        "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 104,
-      "tagline": "Scopri l'origine di ogni trasformazione",
+      "durata": 124,
+      "tagline": null,
       "cast": [
-        "Chris Hemsworth (Orion Pax / Optimus Prime (voice))",
-        "Brian Tyree Henry (D-16 / Megatron (voice))",
-        "Scarlett Johansson (Elita-1 (voice))",
-        "Keegan-Michael Key (B-127 (voice))",
-        "Jon Hamm (Sentinel Prime (voice))",
-        "Steve Buscemi (Starscream (voice))"
+        "Laurence Olivier (Maxim de Winter)",
+        "Joan Fontaine (Mrs. de Winter)",
+        "George Sanders (Jack Favell)",
+        "Judith Anderson (Mrs. Danvers)",
+        "Gladys Cooper (Beatrice Lacy)",
+        "Nigel Bruce (Giles Lacy)"
       ],
-      "tramaTmdb": "La storia inedita delle origini di Optimus Prime e Megatron, meglio conosciuti come nemici giurati, ma un tempo amici legati come fratelli che hanno cambiato per sempre il destino di Cybertron.",
+      "tramaTmdb": "Il ricco Maxim De Winter conosce in Costa Azzurra una bella e ingenua fanciulla, e in quattro e quattr'otto se la sposa. Lei è felicissima, ma quando arriva nella magione del consorte si accorge che tutti sono ancora ossessionati dalla sua prima moglie, Rebecca. In particolare la governante alimenta il ricordo della signora, che un giorno rispunta tra le onde del mare. Morta. De Winter è accusato di omicidio.",
       "motivi": [
-        "c'è Keegan-Michael Key, che hai visto 2 volte",
-        "fantascienza: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Transformers One|193|Josh Cooley"
+      "impronta": "Rebecca - La prima moglie|412|Alfred Hitchcock"
     },
     {
-      "id": "tmdb-1398",
-      "tmdbId": 1398,
-      "imdbId": "tt0079944",
+      "id": "tmdb-843",
+      "tmdbId": 843,
+      "imdbId": "tt0118694",
       "origine": "scoperta",
-      "titolo": "Stalker",
-      "titoloOriginale": "Сталкер",
-      "anno": "1980",
-      "uscitaItalia": "1980-12-24",
-      "regia": "Andrei Tarkovsky",
+      "titolo": "In the Mood for Love",
+      "titoloOriginale": "花樣年華",
+      "anno": "2021",
+      "uscitaItalia": "2021-04-28",
+      "regia": "Wong Kar-Wai",
       "generi": [
-        "Fantascienza",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "Hong Kong",
+        "Francia"
+      ],
+      "durata": 98,
+      "tagline": "Senti il ​​calore, continua a bruciare la sensazione, lascia che la sensazione esploda.",
+      "cast": [
+        "Maggie Cheung (Su Li-zhen)",
+        "Tony Leung Chiu-wai (Chow Mo-wan)",
+        "Siu Ping-Lam (Ah Ping)",
+        "潘迪华 (Mrs. Suen)",
+        "Kelly Lai Chen (Mr. Ho)",
+        "Joe Cheung Tung-Cho (Man Living in Mr. Koo's Apartment)"
+      ],
+      "tramaTmdb": "Hong Kong, 1962. I coniugi Chow e i coniugi Chan si trasferiscono lo stesso giorno in due appartamenti contigui. Sono il signor Chow e la signora Chan a rientrare più di frequente a casa ed è così che nel giro di breve tempo scoprono che i rispettivi consorti sono amanti. La volontà di comprendere le ragioni del tradimento subito li porterà a frequentarsi sempre più spesso e a condividere le sensazioni provate.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "In the Mood for Love|414|Wong Kar-Wai"
+    },
+    {
+      "id": "tmdb-234",
+      "tmdbId": 234,
+      "imdbId": "tt0010323",
+      "origine": "scoperta",
+      "titolo": "Il gabinetto del Dr. Caligari",
+      "titoloOriginale": "Das Cabinet des Dr. Caligari",
+      "anno": "1920",
+      "uscitaItalia": "1920-02-27",
+      "regia": "Robert Wiene",
+      "generi": [
+        "Dramma",
+        "Horror",
+        "Thriller",
+        "Crime"
+      ],
+      "paesi": [
+        "Germania"
+      ],
+      "durata": 78,
+      "tagline": "Devi diventare Caligari!",
+      "cast": [
+        "Werner Krauß (Dr. Caligari)",
+        "Conrad Veidt (Cesare)",
+        "Friedrich Fehér (Francis)",
+        "Lil Dagover (Jane)",
+        "Hans Heinrich von Twardowski (Alan)",
+        "Rudolf Lettinger (Dr. Olsen)"
+      ],
+      "tramaTmdb": "Un uomo chiamato Francis racconta la storia del suo amico Alan e della sua fidanzata. Recatosi ad una fiera, Alan visita il dottor Caligari, che mette in mostra un misterioso sonnambulo: a questo Alan chiede quanto gli resta da vivere e l'uomo risponde fino all'alba del giorno dopo..",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Il gabinetto del Dr. Caligari|284|Robert Wiene"
+    },
+    {
+      "id": "tmdb-458220",
+      "tmdbId": 458220,
+      "imdbId": "tt6857376",
+      "origine": "scoperta",
+      "titolo": "Palmer",
+      "titoloOriginale": "Palmer",
+      "anno": "2021",
+      "uscitaItalia": "2021-01-28",
+      "regia": "Fisher Stevens",
+      "generi": [
         "Dramma"
       ],
       "paesi": [
-        "Soviet Union"
+        "USA",
+        "Luxembourg"
       ],
-      "durata": 177,
-      "tagline": "Non c'è bisogno di parlare. Devi solo... concentrarti e ricordare tutta la tua vita passata. Quando un uomo pensa al passato, diventa più gentile.",
+      "durata": 110,
+      "tagline": "Famiglia, per scelta.",
       "cast": [
-        "Алиса Фрейндлих (Stalker's Wife)",
-        "Александр Кайдановский (Stalker)",
-        "Анатолий Солоницын (Writer)",
-        "Микола Гринько (Professor)",
-        "Natalya Abramova (Marta)",
-        "Faime Jürno (Writer's Companion)"
+        "Justin Timberlake (Eddie Palmer)",
+        "Ryder Allen (Sam)",
+        "Juno Temple (Shelly)",
+        "Alisha Wainwright (Maggie Hayes)",
+        "June Squibb (Vivian Palmer)",
+        "Dean Winters (Jerry)"
       ],
-      "tramaTmdb": "Un metorite caduto sulla terra ha prodotto strani fenomeni in una zona, prontamente protetta e recintata dall'esercito. Per entrarci esistono però delle guide clandestine, chiamate \"Stalker\", capaci di condurre chiunque lo richieda fino alla \"camera dei desideri\". Uno scrittore, uno scienziato e uno stalker partono verso la misteriosa zona. Ne torneranno profondamente cambiati.",
+      "tramaTmdb": "Dopo 12 anni in carcere, l’ex stella del football Eddie Palmer cerca di rimettersi in piedi e stringe un’improbabile amicizia con Sam, un ragazzo con alle spalle una famiglia travagliata. Ma il passato di Eddie riaffiora, minacciando di rovinare la sua nuova vita.",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "Stalker|380|Andrei Tarkovsky"
+      "impronta": "Palmer|264|Fisher Stevens"
     },
     {
-      "id": "tmdb-931285",
-      "tmdbId": 931285,
-      "imdbId": "tt17490712",
+      "id": "tmdb-1092",
+      "tmdbId": 1092,
+      "imdbId": "tt0041959",
       "origine": "scoperta",
-      "titolo": "Mortal Kombat II",
-      "titoloOriginale": "Mortal Kombat II",
-      "anno": "2026",
-      "uscitaItalia": "2026-05-06",
-      "regia": "Simon McQuoid",
+      "titolo": "Il terzo uomo",
+      "titoloOriginale": "The Third Man",
+      "anno": "1949",
+      "uscitaItalia": "1949-11-30",
+      "regia": "Carol Reed",
+      "generi": [
+        "Thriller",
+        "Mistero"
+      ],
+      "paesi": [
+        "Regno Unito"
+      ],
+      "durata": 104,
+      "tagline": null,
+      "cast": [
+        "Joseph Cotten (Holly Martins)",
+        "Alida Valli (Anna Schmidt)",
+        "Trevor Howard (Major Calloway)",
+        "Orson Welles (Harry Lime)",
+        "Paul Hörbiger (Karl the Porter)",
+        "Ernst Deutsch ('Baron' Kurtz)"
+      ],
+      "tramaTmdb": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Il terzo uomo|262|Carol Reed"
+    },
+    {
+      "id": "tmdb-393",
+      "tmdbId": 393,
+      "imdbId": "tt0378194",
+      "origine": "scoperta",
+      "titolo": "Kill Bill: Volume 2",
+      "titoloOriginale": "Kill Bill: Vol. 2",
+      "anno": "2004",
+      "uscitaItalia": "2004-04-23",
+      "regia": "Quentin Tarantino",
       "generi": [
         "Azione",
-        "Fantasy",
-        "Avventura"
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 116,
-      "tagline": "Pronti per il livello successivo.",
+      "durata": 110,
+      "tagline": "La sposa è tornata per il taglio finale.",
       "cast": [
-        "Karl Urban (Johnny Cage)",
-        "Adeline Rudolph (Kitana)",
-        "Ludi Lin (Liu Kang)",
-        "Jessica McNamee (Sonya Blade)",
-        "Martyn Ford (Shao Kahn)",
-        "Josh Lawson (Kano)"
+        "Uma Thurman (Beatrix Kiddo / The Bride / 'Black Mamba' / Mommy)",
+        "David Carradine (Bill 'Snake Charmer')",
+        "Daryl Hannah (Elle Driver 'California Mountain Snake')",
+        "Michael Madsen (Budd 'Sidewinder')",
+        "劉家輝 (Johnny Mo / Pai Mei)",
+        "Michael Parks (Earl McGraw / Esteban Vihaio)"
       ],
-      "tramaTmdb": "I campioni del Regno della Terra, ora affiancati da Johnny Cage, affrontano una battaglia decisiva per fermare il dominio di Shao Kahn, che minaccia l'esistenza stessa della Terra e dei suoi difensori.",
+      "tramaTmdb": "Dopo aver mandato al creatore i prime due tra i presenti sulla sua lista nera - O-Ren Ishii e Vernita Green - la Sposa continua il suo viaggio, durante il quale è intenzionata a rintracciare e far fuori le \"future vittime\": Budd, che si è ritirato dall'attività e vive isolato in Texas; Elle, che la vuole morta per tenersi il suo Bill; e naturalmente quest'ultimo. La questione tuttavia si complica quando la vendicatrice con la tutina gialla scopre che la figlia creduta morta in realtà è ancora viva...",
       "motivi": [
-        "avventura: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Mortal Kombat II|201|Simon McQuoid"
+      "impronta": "Kill Bill: Volume 2|505|Quentin Tarantino"
+    },
+    {
+      "id": "tmdb-210577",
+      "tmdbId": 210577,
+      "imdbId": "tt2267998",
+      "origine": "scoperta",
+      "titolo": "L'amore bugiardo - Gone Girl",
+      "titoloOriginale": "Gone Girl",
+      "anno": "2014",
+      "uscitaItalia": "2014-12-18",
+      "regia": "David Fincher",
+      "generi": [
+        "Mistero",
+        "Thriller",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 149,
+      "tagline": "Non vorresti mai che certe verità venissero a galla.",
+      "cast": [
+        "Ben Affleck (Nick Dunne)",
+        "Rosamund Pike (Amy Dunne)",
+        "Neil Patrick Harris (Desi Collings)",
+        "Tyler Perry (Tanner Bolt)",
+        "Carrie Coon (Margo Dunne)",
+        "Kim Dickens (Detective Rhonda Boney)"
+      ],
+      "tramaTmdb": "Da poco trasferirtisi in una piccola cittadina del Missouri da New York, Nick Dunne (Ben Affleck) e la moglie Amy (Rosamunde Pike) stanno attraversando un periodo difficile, con un matrimonio in crisi per via della difficoltà della donna ad abituarsi alla nuova esistenza. Il giorno del quinto anniversario di nozze, Amy scompare e il primo ad essere sospettato della sua scomparsa è Nick ma la realtà è ben diversa da come appare a prima vista.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "L'amore bugiardo - Gone Girl|445|David Fincher"
     }
   ]
 }

@@ -1,661 +1,826 @@
 {
-  "aggiornato": "2026-10-06T11:39:41.203Z",
-  "giorno": "2026-10-06",
+  "aggiornato": "2026-10-07T11:28:16.783Z",
+  "giorno": "2026-10-07",
   "film": [
     {
-      "tmdbId": 11216,
-      "imdbId": "tt0095765",
-      "title": "Nuovo Cinema Paradiso",
-      "originalTitle": "Nuovo Cinema Paradiso",
-      "release": "1988-11-17",
+      "tmdbId": 600354,
+      "imdbId": "tt10272386",
+      "title": "The Father - Nulla è come sembra",
+      "originalTitle": "The Father",
+      "release": "2021-05-20",
       "releaseFonte": "IT",
       "genres": [
-        "Dramma",
-        "Romance"
-      ],
-      "countries": [
-        "Italia",
-        "Francia"
-      ],
-      "runtime": 155,
-      "plot": "E' la storia dell'amicizia tra Alfredo, proiezionista del cinematografo parrocchiale del paesino di Giancaldo in Sicilia, e Salvatore, diventato poi da grande affermato regista a Roma. Alla notizia della morte di Alfredo, Salvatore ripercorre nella sua memoria i momenti più significativi di questa amicizia e decide di tornare al suo paese per i funerali.Ma tra le altre sorprese scoprirà che la sala del Nuovo Cinema Paradiso sta per essere abbattuta.",
-      "tagline": "Un borgo incantato. Una bellissima amicizia. Amanti sfortunati. E la magia dei film.",
-      "poster": "/3hcXpztAe9L6VLpDGwohS01ZSxw.jpg",
-      "backdrop": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
-      "director": "Giuseppe Tornatore",
-      "cast": [
-        "Philippe Noiret",
-        "Jacques Perrin",
-        "Marco Leonardi",
-        "Salvatore Cascio",
-        "Agnese Nano"
-      ],
-      "castDetail": [
-        {
-          "name": "Philippe Noiret",
-          "character": "Alfredo",
-          "profile": "/mWPa6A0JK3tfVRQDIzCQGEao19B.jpg"
-        },
-        {
-          "name": "Jacques Perrin",
-          "character": "Salvatore 'Totò' Di Vita (adult)",
-          "profile": "/lGbDfSdDgFg3QHgungWIDsV9uh7.jpg"
-        },
-        {
-          "name": "Marco Leonardi",
-          "character": "Salvatore 'Totò' Di Vita (teen)",
-          "profile": "/5VVhO9rPvRgKsZME2gZKtG9WgWD.jpg"
-        },
-        {
-          "name": "Salvatore Cascio",
-          "character": "Salvatore 'Totò' Di Vita (child)",
-          "profile": "/7t59ZGfLUv30DBgoUcqXXhK0t6Y.jpg"
-        },
-        {
-          "name": "Agnese Nano",
-          "character": "Elena Mendola (teen) / Elena's daughter (in Director's cut)",
-          "profile": "/gUbvX3dm8rIq58phY8jSl3oPgUe.jpg"
-        },
-        {
-          "name": "Antonella Attili",
-          "character": "Maria Di Vita (young)",
-          "profile": "/hoLib8DJzJ7fPQhtUjmo5n4ntu0.jpg"
-        },
-        {
-          "name": "Pupella Maggio",
-          "character": "Maria Di Vita (aged)",
-          "profile": "/eLzAnbMwfWNHiOy1Mgylgz0tnUa.jpg"
-        },
-        {
-          "name": "Brigitte Fossey",
-          "character": "Elena Mendola (adult)",
-          "profile": "/ann78L7w5YBJDG4NzCifq4mzakK.jpg"
-        }
-      ],
-      "tmdbRating": 8.431,
-      "tmdbVotes": 5002,
-      "popularity": 12.9421,
-      "trailer": "https://www.youtube.com/watch?v=JMyVSD6OvO8",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-06"
-    },
-    {
-      "tmdbId": 346,
-      "imdbId": "tt0047478",
-      "title": "I sette samurai",
-      "originalTitle": "七人の侍",
-      "release": "1955-08-19",
-      "releaseFonte": "IT",
-      "genres": [
-        "Azione",
         "Dramma"
       ],
       "countries": [
-        "Giappone"
+        "Francia",
+        "Regno Unito"
       ],
-      "runtime": 207,
-      "plot": "Nel Giappone del XVI secolo in cui orde di soldati sbandati e dediti al brigantaggio saccheggiano le campagne, la popolazione di un povero villaggio decide di ricorrere ai samurai, nobile casta di soldati di ventura, nella speranza di trovare qualcuno disposto a impegnarsi in un'impresa così umile e così poco remunerata. Li trovano.",
-      "tagline": "I potenti guerrieri che divennero i sette eroi nazionali di una piccola città",
-      "poster": "/e1rmQlUzbGmNUS59UC9cChYfFxa.jpg",
-      "backdrop": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
-      "director": "Akira Kurosawa",
+      "runtime": 97,
+      "plot": "Tra le vie residenziali della Londra benestante, Anne si reca a far visita al padre Anthony nel suo appartamento. L'uomo, ottantenne, è rammaricato quando la figlia gli annuncia un prossimo trasferimento a Parigi per raggiungere l'uomo che ama, e chiede cosa ne sarà di lui. Poco dopo, sempre in casa sua, Anthony trova un uomo seduto a leggere il giornale, il quale sostiene di essere il padrone di casa e il marito di Anne. Pur vivace e a tratti ben lucido, Anthony mostra sintomi del morbo di Alzheimer, dimenticando fatti, luoghi e persone. Nel rapporto con i suoi familiari e con la giovane bada",
+      "tagline": null,
+      "poster": "/kunHAeFFHjvAxho1i7dGIBuWmU9.jpg",
+      "backdrop": "/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+      "director": "Florian Zeller",
       "cast": [
-        "Toshirō Mifune",
-        "Takashi Shimura",
-        "稲葉義男",
-        "宮口精二",
-        "千秋実"
+        "Anthony Hopkins",
+        "Olivia Colman",
+        "Mark Gatiss",
+        "Olivia Williams",
+        "Imogen Poots"
       ],
       "castDetail": [
         {
-          "name": "Toshirō Mifune",
-          "character": "Kikuchiyo",
-          "profile": "/cZ5ybA7cDA0EBMaM5jX2f7RNBVb.jpg"
+          "name": "Anthony Hopkins",
+          "character": "Anthony",
+          "profile": "/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
         },
         {
-          "name": "Takashi Shimura",
-          "character": "Kambei Shimada",
-          "profile": "/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg"
+          "name": "Olivia Colman",
+          "character": "Anne",
+          "profile": "/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
         },
         {
-          "name": "稲葉義男",
-          "character": "Gorobei Katayama",
-          "profile": "/5qIAqM5PegWTNq67qNofz78fb6U.jpg"
+          "name": "Mark Gatiss",
+          "character": "The Man",
+          "profile": "/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
         },
         {
-          "name": "宮口精二",
-          "character": "Kyuzo",
-          "profile": "/mAGkZlsowKzgpvvi40mRLU4vA53.jpg"
+          "name": "Olivia Williams",
+          "character": "The Woman",
+          "profile": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
         },
         {
-          "name": "千秋実",
-          "character": "Heihachi Hayashida",
-          "profile": "/9E3efYEg8pxANdfVLqYGiX8zJE8.jpg"
+          "name": "Imogen Poots",
+          "character": "Laura",
+          "profile": "/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
         },
         {
-          "name": "加東大介",
-          "character": "Shichiroji",
-          "profile": "/dTcLO2XWLwp6RiJTpwDjxzbnuSp.jpg"
+          "name": "Rufus Sewell",
+          "character": "Paul",
+          "profile": "/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
         },
         {
-          "name": "木村功",
-          "character": "Katsushiro Okamoto",
-          "profile": "/afLPuf3x7UYXryAbqAGqmRcVNNW.jpg"
+          "name": "Ayesha Dharker",
+          "character": "Dr. Sarai",
+          "profile": "/6LNt1MmG22qPQxQgRVmoOPfQofQ.jpg"
         },
         {
-          "name": "津島恵子",
-          "character": "Shino",
-          "profile": "/c4h0z00YkEUav0lGHoqVpeUzbul.jpg"
-        }
-      ],
-      "tmdbRating": 8.5,
-      "tmdbVotes": 4399,
-      "popularity": 19.1919,
-      "trailer": "https://www.youtube.com/watch?v=jGBqGQ7sRlU",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-06"
-    },
-    {
-      "tmdbId": 637,
-      "imdbId": "tt0118799",
-      "title": "La vita è bella",
-      "originalTitle": "La vita è bella",
-      "release": "1997-12-20",
-      "releaseFonte": "IT",
-      "genres": [
-        "Commedia",
-        "Dramma"
-      ],
-      "countries": [
-        "Italia"
-      ],
-      "runtime": 116,
-      "plot": "Guido, un giovane ebreo amante della vita e della poesia, si reca ad Arezzo con l'amico Ferruccio in cerca di lavoro. Si fa assumere come cameriere dallo zio Eliseo, che gestisce il Grand Hotel, e s'innamora di Dora, un'insegnante promessa sposa all'antipatico fascista Rodolfo. Con l'esuberanza e l'allegria del suo carattere, riesce a vincere le reticenze della maestrina, e a sposarla. Sei anni dopo, probabilmente denunciato dalla suocera che non ha mai digerito il matrimonio, Guido è deportato in un campo di concentramento con lo zio Eliseo e col suo figlioletto, il piccolo Giosuè, mentre Dor",
-      "tagline": "Una favola indimenticabile che dimostra che l'amore, la famiglia e l'immaginazione conquistano tutto.",
-      "poster": "/fuzbu9hFSDskrwjVKvcEUzp4DDH.jpg",
-      "backdrop": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
-      "director": "Roberto Benigni",
-      "cast": [
-        "Roberto Benigni",
-        "Nicoletta Braschi",
-        "Giorgio Cantarini",
-        "Giustino Durano",
-        "Sergio Bini Bustric"
-      ],
-      "castDetail": [
-        {
-          "name": "Roberto Benigni",
-          "character": "Guido",
-          "profile": "/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
-        },
-        {
-          "name": "Nicoletta Braschi",
-          "character": "Dora",
-          "profile": "/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
-        },
-        {
-          "name": "Giorgio Cantarini",
-          "character": "Giosué",
-          "profile": "/1tKZHpVTYcw8EP3naVTZFlrOkhQ.jpg"
-        },
-        {
-          "name": "Giustino Durano",
-          "character": "Zio",
-          "profile": "/5VbG50qZNUnpx6UW7594RUlX7SZ.jpg"
-        },
-        {
-          "name": "Sergio Bini Bustric",
-          "character": "Ferruccio",
-          "profile": "/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
-        },
-        {
-          "name": "Marisa Paredes",
-          "character": "Dora's Mother",
-          "profile": "/71esuRUCyeSyib35mTFPkR24zH7.jpg"
-        },
-        {
-          "name": "Horst Buchholz",
-          "character": "Doctor Lessing",
-          "profile": "/9V38Di9T0qsjKBl2dR7sZMN1N0i.jpg"
-        },
-        {
-          "name": "Lidia Alfonsi",
-          "character": "Mrs. Guicciardini",
-          "profile": "/85BrcBOeIcfV9XkV523wN0VGNRR.jpg"
-        }
-      ],
-      "tmdbRating": 8.4,
-      "tmdbVotes": 14289,
-      "popularity": 24.9209,
-      "trailer": "https://www.youtube.com/watch?v=ao71lV1NJsc",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-06"
-    },
-    {
-      "tmdbId": 38,
-      "imdbId": "tt0338013",
-      "title": "Se mi lasci ti cancello",
-      "originalTitle": "Eternal Sunshine of the Spotless Mind",
-      "release": "2004-10-22",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantascienza",
-        "Dramma",
-        "Romance"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 108,
-      "plot": "Joel e Clementine sono una coppia molto innamorata. Stanca però della sua relazione ormai in fase di declino e mediante un esperimento scientifico, la ragazza decide di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma, durante il procedimento, cambia idea.",
-      "tagline": "È possibile cancellare una persona dalla propria mente. Eliminarla dal cuore è un'altra storia.",
-      "poster": "/uDuAYpBfFQvFMnlt2w8xUUZiWrr.jpg",
-      "backdrop": "/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
-      "director": "Michel Gondry",
-      "cast": [
-        "Jim Carrey",
-        "Kate Winslet",
-        "Kirsten Dunst",
-        "Mark Ruffalo",
-        "Elijah Wood"
-      ],
-      "castDetail": [
-        {
-          "name": "Jim Carrey",
-          "character": "Joel Barish",
-          "profile": "/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
-        },
-        {
-          "name": "Kate Winslet",
-          "character": "Clementine Kruczynski",
-          "profile": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
-        },
-        {
-          "name": "Kirsten Dunst",
-          "character": "Mary",
-          "profile": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
-        },
-        {
-          "name": "Mark Ruffalo",
-          "character": "Stan",
-          "profile": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
-        },
-        {
-          "name": "Elijah Wood",
-          "character": "Patrick",
-          "profile": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
-        },
-        {
-          "name": "Tom Wilkinson",
-          "character": "Dr. Mierzwiak",
-          "profile": "/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
-        },
-        {
-          "name": "Jane Adams",
-          "character": "Carrie",
-          "profile": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg"
-        },
-        {
-          "name": "David Cross",
-          "character": "Rob",
-          "profile": "/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
+          "name": "Roman Zeller",
+          "character": "Boy",
+          "profile": null
         }
       ],
       "tmdbRating": 8.1,
-      "tmdbVotes": 16809,
-      "popularity": 22.3743,
-      "trailer": "https://www.youtube.com/watch?v=1GiLxkDK8sI",
-      "fonte": "fantascienza: il tuo terreno",
+      "tmdbVotes": 3796,
+      "popularity": 14.2835,
+      "trailer": "https://www.youtube.com/watch?v=VKEUV3F1v3Y",
+      "fonte": "dramma: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
+      "perche": "dramma: il tuo terreno",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "proposto": "2026-10-06"
+      "proposto": "2026-10-07"
     },
     {
-      "tmdbId": 329,
-      "imdbId": "tt0107290",
-      "title": "Jurassic Park",
-      "originalTitle": "Jurassic Park",
-      "release": "1993-09-17",
+      "tmdbId": 581528,
+      "imdbId": "tt10208198",
+      "title": "Il Gangster, il Poliziotto, il Diavolo",
+      "originalTitle": "악인전",
+      "release": "2019-05-15",
+      "releaseFonte": "globale",
+      "genres": [
+        "Azione",
+        "Crime",
+        "Thriller"
+      ],
+      "countries": [
+        "Corea del Sud"
+      ],
+      "runtime": 109,
+      "plot": "Il capo di una gang della malavita coreana finisce nel mirino di un killer psicopatico: salvatosi miracolosamente da un attacco, decide con riluttanza di fare squadra con Jung Tae-seok, uno dei migliori poliziotti in circolazione, famoso per la sua spietata e brutale lotta contro il crimine organizzato. I due non potrebbero essere più diversi, ma grazie all'obiettivo comune il bizzarro duo si ritrova dalla stessa parte nella ricerca del folle serial killer.",
+      "tagline": "Non lasciare che il diavolo vinca.",
+      "poster": "/1In5JQ1gnLyNzKZj1mKEmP9GP3S.jpg",
+      "backdrop": "/jJJQ1PPXUEchqyZ9YyWzgSNU39Z.jpg",
+      "director": "이원태",
+      "cast": [
+        "마동석",
+        "김무열",
+        "김성규",
+        "허동원",
+        "유재명"
+      ],
+      "castDetail": [
+        {
+          "name": "마동석",
+          "character": "Jang Dong-su",
+          "profile": "/xqnARIEzfyr3BalhFBWHmCusLKH.jpg"
+        },
+        {
+          "name": "김무열",
+          "character": "Jung Tae-suk",
+          "profile": "/wLuVca9icDLjUkOG84IlEmfP52b.jpg"
+        },
+        {
+          "name": "김성규",
+          "character": "Kang Gyeong-ho",
+          "profile": "/72FPYyk1Zxzr3L2KZhjMmAVchfK.jpg"
+        },
+        {
+          "name": "허동원",
+          "character": "Choi Moon-sik",
+          "profile": "/eq2C51s3oDjN7bjjblozl7WGDTL.jpg"
+        },
+        {
+          "name": "유재명",
+          "character": "Heo Sang-do",
+          "profile": "/zuFVYiE4y6DjGqFZCEZqwDyEpPi.jpg"
+        },
+        {
+          "name": "이서환",
+          "character": "Choi Jeong-gyu",
+          "profile": "/xy6JlnuWWtEgb4I6tPuTpYc7hxp.jpg"
+        },
+        {
+          "name": "오희준",
+          "character": "Kim Dong-chul",
+          "profile": "/wPkHSNSz2SQYt6ksKMbEfScg8wq.jpg"
+        },
+        {
+          "name": "김규리",
+          "character": "Cha Seo-jin",
+          "profile": "/q48drWt7V9pARReR3gRcB3Qf0q9.jpg"
+        }
+      ],
+      "tmdbRating": 7.888,
+      "tmdbVotes": 1589,
+      "popularity": 24.1922,
+      "trailer": "https://www.youtube.com/watch?v=D1XANQUYSvk",
+      "fonte": "thriller: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "thriller: il tuo terreno",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "proposto": "2026-10-07"
+    },
+    {
+      "tmdbId": 752,
+      "imdbId": "tt0434409",
+      "title": "V per Vendetta",
+      "originalTitle": "V for Vendetta",
+      "release": "2006-03-17",
       "releaseFonte": "IT",
       "genres": [
-        "Avventura",
+        "Azione",
+        "Thriller",
         "Fantascienza"
       ],
       "countries": [
+        "Germania",
+        "Regno Unito",
         "USA"
       ],
-      "runtime": 126,
-      "plot": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano li",
-      "tagline": "Un'avventura iniziata 65 milioni di anni fa.",
-      "poster": "/y6JuwymU5jzxKx4oLTrlpFZg0vj.jpg",
-      "backdrop": "/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
-      "director": "Steven Spielberg",
+      "runtime": 132,
+      "plot": "In un'Inghilterra scampata alla guerra nucleare e oppressa da una dittatura poliziesca, una giovane donna, Evey viene salvata da un uomo dal volto coperto da una maschera. Il suo nome è V, vuole vendicarsi di coloro che l'hanno internato in un campo di concentramento e l'hanno sottoposto a crudeli esperimenti medici; inizia così la sua rivolta contro il potere, cercando di sollevare i suoi concittadini contro la tirannia. Scoperta la verità sul passato di V, Evey trova in sè stessa una nuova forza e diventa un'alleata nel piano dell'uomo per ristabilire la libertà.",
+      "tagline": "Le persone non dovrebbero avere paura dei loro governi. I governi dovrebbero avere paura del loro popolo.",
+      "poster": "/yTUBwAYJVxWU8gLSGC0d5LOSpXi.jpg",
+      "backdrop": "/sFEYsEfzTx7hhjetlNrme8B5OUo.jpg",
+      "director": "James McTeigue",
       "cast": [
-        "Sam Neill",
-        "Laura Dern",
-        "Jeff Goldblum",
-        "Richard Attenborough",
-        "Bob Peck"
+        "Natalie Portman",
+        "Hugo Weaving",
+        "Stephen Rea",
+        "Stephen Fry",
+        "John Hurt"
       ],
       "castDetail": [
         {
-          "name": "Sam Neill",
-          "character": "Grant",
-          "profile": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+          "name": "Natalie Portman",
+          "character": "Evey",
+          "profile": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
         },
         {
-          "name": "Laura Dern",
-          "character": "Ellie",
-          "profile": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+          "name": "Hugo Weaving",
+          "character": "V / William Rookwood",
+          "profile": "/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
         },
         {
-          "name": "Jeff Goldblum",
-          "character": "Malcolm",
-          "profile": "/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+          "name": "Stephen Rea",
+          "character": "Finch",
+          "profile": "/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
         },
         {
-          "name": "Richard Attenborough",
-          "character": "Hammond",
-          "profile": "/mJGvNS69xUqiNRybKzPl2Zuxe9Z.jpg"
+          "name": "Stephen Fry",
+          "character": "Deitrich",
+          "profile": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
         },
         {
-          "name": "Bob Peck",
-          "character": "Muldoon",
-          "profile": "/66wkMHY76swadwfHLcTEKEKhUbv.jpg"
+          "name": "John Hurt",
+          "character": "Adam Sutler",
+          "profile": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
         },
         {
-          "name": "Martin Ferrero",
-          "character": "Gennaro",
-          "profile": "/exNDaap66dmsfBQkCf7vHGj3TBK.jpg"
+          "name": "Tim Pigott-Smith",
+          "character": "Creedy",
+          "profile": "/37OZUY7cq8eoWxhKR2VD1ppusJM.jpg"
         },
         {
-          "name": "BD Wong",
-          "character": "Wu",
-          "profile": "/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+          "name": "Rupert Graves",
+          "character": "Dominic",
+          "profile": "/6tS8XMuTS04xXTfeWFjJED6SFBF.jpg"
         },
         {
-          "name": "Joseph Mazzello",
-          "character": "Tim",
-          "profile": "/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+          "name": "Roger Allam",
+          "character": "Lewis Prothero",
+          "profile": "/hrtVjATnltwatFCOjhtCZTnN2hW.jpg"
         }
       ],
-      "tmdbRating": 8,
-      "tmdbVotes": 18422,
-      "popularity": 18.3147,
-      "trailer": "https://www.youtube.com/watch?v=M7GAiY4mfXY",
-      "fonte": "fantascienza: il tuo terreno",
+      "tmdbRating": 7.898,
+      "tmdbVotes": 16015,
+      "popularity": 19.9343,
+      "trailer": "https://www.youtube.com/watch?v=eiovPXrs95o",
+      "fonte": "thriller: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "regia di Steven Spielberg, di cui hai visto un film",
+      "perche": "thriller: il tuo terreno",
       "motivi": [
-        "regia di Steven Spielberg, di cui hai visto un film",
-        "fantascienza: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "proposto": "2026-10-06"
+      "proposto": "2026-10-07"
     },
     {
-      "tmdbId": 698687,
-      "imdbId": "tt8864596",
-      "title": "Transformers One",
-      "originalTitle": "Transformers One",
-      "release": "2024-09-26",
-      "releaseFonte": "IT",
+      "tmdbId": 223,
+      "imdbId": "tt0032976",
+      "title": "Rebecca - La prima moglie",
+      "originalTitle": "Rebecca",
+      "release": "1940-03-23",
+      "releaseFonte": "globale",
       "genres": [
-        "Animazione",
-        "Fantascienza",
-        "Avventura",
-        "Famiglia"
+        "Mistero",
+        "Romance",
+        "Thriller"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 104,
-      "plot": "La storia inedita delle origini di Optimus Prime e Megatron, meglio conosciuti come nemici giurati, ma un tempo amici legati come fratelli che hanno cambiato per sempre il destino di Cybertron.",
-      "tagline": "Scopri l'origine di ogni trasformazione",
-      "poster": "/41caGYMJKZMjlwFXwsIxL1UtUN.jpg",
-      "backdrop": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
-      "director": "Josh Cooley",
+      "runtime": 124,
+      "plot": "Il ricco Maxim De Winter conosce in Costa Azzurra una bella e ingenua fanciulla, e in quattro e quattr'otto se la sposa. Lei è felicissima, ma quando arriva nella magione del consorte si accorge che tutti sono ancora ossessionati dalla sua prima moglie, Rebecca. In particolare la governante alimenta il ricordo della signora, che un giorno rispunta tra le onde del mare. Morta. De Winter è accusato di omicidio.",
+      "tagline": null,
+      "poster": "/vhHf26Q9rNCB2O0HygVRS6TKug.jpg",
+      "backdrop": "/46p36NyMO6f25YtSqSYiwz4mKbW.jpg",
+      "director": "Alfred Hitchcock",
       "cast": [
-        "Chris Hemsworth",
-        "Brian Tyree Henry",
-        "Scarlett Johansson",
-        "Keegan-Michael Key",
-        "Jon Hamm"
+        "Laurence Olivier",
+        "Joan Fontaine",
+        "George Sanders",
+        "Judith Anderson",
+        "Gladys Cooper"
       ],
       "castDetail": [
         {
-          "name": "Chris Hemsworth",
-          "character": "Orion Pax / Optimus Prime (voice)",
-          "profile": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+          "name": "Laurence Olivier",
+          "character": "Maxim de Winter",
+          "profile": "/kziWbtgEJB0dFZA6kPyzoaYEyQ5.jpg"
         },
         {
-          "name": "Brian Tyree Henry",
-          "character": "D-16 / Megatron (voice)",
-          "profile": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+          "name": "Joan Fontaine",
+          "character": "Mrs. de Winter",
+          "profile": "/y5Hl4TyipNN7463zZpPq5KFB3aM.jpg"
         },
         {
-          "name": "Scarlett Johansson",
-          "character": "Elita-1 (voice)",
-          "profile": "/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+          "name": "George Sanders",
+          "character": "Jack Favell",
+          "profile": "/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg"
         },
         {
-          "name": "Keegan-Michael Key",
-          "character": "B-127 (voice)",
-          "profile": "/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+          "name": "Judith Anderson",
+          "character": "Mrs. Danvers",
+          "profile": "/33Ree0GhYJoxQuh1vAjyGsoKiS4.jpg"
         },
         {
-          "name": "Jon Hamm",
-          "character": "Sentinel Prime (voice)",
-          "profile": "/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+          "name": "Gladys Cooper",
+          "character": "Beatrice Lacy",
+          "profile": "/8ChGmCj4O9Q7kpkgHDguNNhX2Wk.jpg"
         },
         {
-          "name": "Steve Buscemi",
-          "character": "Starscream (voice)",
-          "profile": "/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+          "name": "Nigel Bruce",
+          "character": "Giles Lacy",
+          "profile": "/bJPnCDgMQmEx6Ti1NFtz6Uhaupf.jpg"
         },
         {
-          "name": "Laurence Fishburne",
-          "character": "Alpha Trion (voice)",
-          "profile": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+          "name": "Reginald Denny",
+          "character": "Frank Crawley",
+          "profile": "/wbR5zRDwZpDqDwuoW5hSQbIptHW.jpg"
         },
         {
-          "name": "Vanessa Liguori",
-          "character": "Airachnid (voice)",
-          "profile": "/9EkNTWHZ1U83XuQJ9VU9sldxI9g.jpg"
+          "name": "C. Aubrey Smith",
+          "character": "Colonel Julyan",
+          "profile": "/bmkvivg9TJJhbc2ZxQ1xJfq0mWt.jpg"
         }
       ],
-      "tmdbRating": 7.978,
-      "tmdbVotes": 1795,
-      "popularity": 21.9596,
-      "trailer": "https://www.youtube.com/watch?v=W08PhwQHMio",
-      "fonte": "fantascienza: il tuo terreno",
+      "tmdbRating": 7.9,
+      "tmdbVotes": 2043,
+      "popularity": 6.167,
+      "trailer": "https://www.youtube.com/watch?v=cJok8CPtHRw",
+      "fonte": "thriller: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "c'è Keegan-Michael Key, che hai visto 2 volte",
+      "perche": "thriller: il tuo terreno",
       "motivi": [
-        "c'è Keegan-Michael Key, che hai visto 2 volte",
-        "fantascienza: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "proposto": "2026-10-06"
+      "proposto": "2026-10-07"
     },
     {
-      "tmdbId": 1398,
-      "imdbId": "tt0079944",
-      "title": "Stalker",
-      "originalTitle": "Сталкер",
-      "release": "1980-12-24",
+      "tmdbId": 843,
+      "imdbId": "tt0118694",
+      "title": "In the Mood for Love",
+      "originalTitle": "花樣年華",
+      "release": "2021-04-28",
       "releaseFonte": "IT",
       "genres": [
-        "Fantascienza",
-        "Dramma"
+        "Dramma",
+        "Romance"
       ],
       "countries": [
-        "Soviet Union"
+        "Hong Kong",
+        "Francia"
       ],
-      "runtime": 177,
-      "plot": "Un metorite caduto sulla terra ha prodotto strani fenomeni in una zona, prontamente protetta e recintata dall'esercito. Per entrarci esistono però delle guide clandestine, chiamate \"Stalker\", capaci di condurre chiunque lo richieda fino alla \"camera dei desideri\". Uno scrittore, uno scienziato e uno stalker partono verso la misteriosa zona. Ne torneranno profondamente cambiati.",
-      "tagline": "Non c'è bisogno di parlare. Devi solo... concentrarti e ricordare tutta la tua vita passata. Quando un uomo pensa al passato, diventa più gentile.",
-      "poster": "/8hu3TGZ7inYfu2R1vIqEAffNZmF.jpg",
-      "backdrop": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-      "director": "Andrei Tarkovsky",
+      "runtime": 98,
+      "plot": "Hong Kong, 1962. I coniugi Chow e i coniugi Chan si trasferiscono lo stesso giorno in due appartamenti contigui. Sono il signor Chow e la signora Chan a rientrare più di frequente a casa ed è così che nel giro di breve tempo scoprono che i rispettivi consorti sono amanti. La volontà di comprendere le ragioni del tradimento subito li porterà a frequentarsi sempre più spesso e a condividere le sensazioni provate.",
+      "tagline": "Senti il ​​calore, continua a bruciare la sensazione, lascia che la sensazione esploda.",
+      "poster": "/iInvJrmIPvmUZ8l8IugslhXzV8B.jpg",
+      "backdrop": "/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+      "director": "Wong Kar-Wai",
       "cast": [
-        "Алиса Фрейндлих",
-        "Александр Кайдановский",
-        "Анатолий Солоницын",
-        "Микола Гринько",
-        "Natalya Abramova"
+        "Maggie Cheung",
+        "Tony Leung Chiu-wai",
+        "Siu Ping-Lam",
+        "潘迪华",
+        "Kelly Lai Chen"
       ],
       "castDetail": [
         {
-          "name": "Алиса Фрейндлих",
-          "character": "Stalker's Wife",
-          "profile": "/6r90VxIyPWE63DnBS91xeomZmIP.jpg"
+          "name": "Maggie Cheung",
+          "character": "Su Li-zhen",
+          "profile": "/hre6xmoDbh67YN7wR5nhUazPTlb.jpg"
         },
         {
-          "name": "Александр Кайдановский",
-          "character": "Stalker",
-          "profile": "/yHYfkxQu3GVKxx5ibFmEom8qAS6.jpg"
+          "name": "Tony Leung Chiu-wai",
+          "character": "Chow Mo-wan",
+          "profile": "/idGzkwbm0BiLdrrKfcXecFNXbDu.jpg"
         },
         {
-          "name": "Анатолий Солоницын",
-          "character": "Writer",
-          "profile": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg"
+          "name": "Siu Ping-Lam",
+          "character": "Ah Ping",
+          "profile": "/tJrW8Tg6XoZjKKaXBP1qbFV0PFF.jpg"
         },
         {
-          "name": "Микола Гринько",
-          "character": "Professor",
-          "profile": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg"
+          "name": "潘迪华",
+          "character": "Mrs. Suen",
+          "profile": "/fbFl1uGb5Uo2FPA5S5jvgGevHYE.jpg"
         },
         {
-          "name": "Natalya Abramova",
-          "character": "Marta",
-          "profile": "/iJOfkfk0MT3rW1iVrzp8t4pKotr.jpg"
+          "name": "Kelly Lai Chen",
+          "character": "Mr. Ho",
+          "profile": "/6RrS6v8ayfdLFSTSOK7BhKZRKXr.jpg"
         },
         {
-          "name": "Faime Jürno",
-          "character": "Writer's Companion",
-          "profile": "/kx04DJQeV2v3fdU23MeudKyTuBm.jpg"
+          "name": "Joe Cheung Tung-Cho",
+          "character": "Man Living in Mr. Koo's Apartment",
+          "profile": "/4RJ9r6FP6kQUmEUWZylPByh7TtG.jpg"
         },
         {
-          "name": "Евгений Костин",
-          "character": "Lyuger, Owner of Cafe",
+          "name": "Chan Man-Lei",
+          "character": "Mr. Koo",
           "profile": null
         },
         {
-          "name": "Raimo Rendi",
-          "character": "Police Patrol",
-          "profile": null
+          "name": "Koo Kam-Wah",
+          "character": "Mrs. Koo",
+          "profile": "/dokuCagRhuFazCg5zYIR2dnN5r7.jpg"
         }
       ],
       "tmdbRating": 8.1,
-      "tmdbVotes": 2628,
-      "popularity": 8.8786,
-      "trailer": "https://www.youtube.com/watch?v=nFLQEuQuNKM",
-      "fonte": "fantascienza: il tuo terreno",
+      "tmdbVotes": 3400,
+      "popularity": 13.4065,
+      "trailer": "https://www.youtube.com/watch?v=mwJ9zCsvZ6o",
+      "fonte": "dramma: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
+      "perche": "dramma: il tuo terreno",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "proposto": "2026-10-06"
+      "proposto": "2026-10-07"
     },
     {
-      "tmdbId": 931285,
-      "imdbId": "tt17490712",
-      "title": "Mortal Kombat II",
-      "originalTitle": "Mortal Kombat II",
-      "release": "2026-05-06",
+      "tmdbId": 234,
+      "imdbId": "tt0010323",
+      "title": "Il gabinetto del Dr. Caligari",
+      "originalTitle": "Das Cabinet des Dr. Caligari",
+      "release": "1920-02-27",
+      "releaseFonte": "globale",
+      "genres": [
+        "Dramma",
+        "Horror",
+        "Thriller",
+        "Crime"
+      ],
+      "countries": [
+        "Germania"
+      ],
+      "runtime": 78,
+      "plot": "Un uomo chiamato Francis racconta la storia del suo amico Alan e della sua fidanzata. Recatosi ad una fiera, Alan visita il dottor Caligari, che mette in mostra un misterioso sonnambulo: a questo Alan chiede quanto gli resta da vivere e l'uomo risponde fino all'alba del giorno dopo..",
+      "tagline": "Devi diventare Caligari!",
+      "poster": "/qO6Zs3haoU5pAa9XiilGSLaVEhR.jpg",
+      "backdrop": "/sLq72hBx8Xs2IISVsZJqgjOd31b.jpg",
+      "director": "Robert Wiene",
+      "cast": [
+        "Werner Krauß",
+        "Conrad Veidt",
+        "Friedrich Fehér",
+        "Lil Dagover",
+        "Hans Heinrich von Twardowski"
+      ],
+      "castDetail": [
+        {
+          "name": "Werner Krauß",
+          "character": "Dr. Caligari",
+          "profile": "/xlyS30qzcndmczxG5JdJWwJ1heI.jpg"
+        },
+        {
+          "name": "Conrad Veidt",
+          "character": "Cesare",
+          "profile": "/rmlK341dwK57BVWz1S96tpv7SSF.jpg"
+        },
+        {
+          "name": "Friedrich Fehér",
+          "character": "Francis",
+          "profile": "/rGStxJtUovcSItqU8TOZtpb9IL8.jpg"
+        },
+        {
+          "name": "Lil Dagover",
+          "character": "Jane",
+          "profile": "/eNdCKI0PjnDapWEbTuZln7U2hCl.jpg"
+        },
+        {
+          "name": "Hans Heinrich von Twardowski",
+          "character": "Alan",
+          "profile": "/kip8D2tvcdEJiPtZaGioQD6vSjV.jpg"
+        },
+        {
+          "name": "Rudolf Lettinger",
+          "character": "Dr. Olsen",
+          "profile": "/3NK7jmvEV3OMMZDy4ke1qxFlLZC.jpg"
+        },
+        {
+          "name": "Henri Peters-Arnolds",
+          "character": "Young Doctor (uncredited)",
+          "profile": "/cSAwbfXurAQ7RNQiTQ2zS4dHbV2.jpg"
+        },
+        {
+          "name": "Rudolf Klein-Rogge",
+          "character": "Criminal (uncredited)",
+          "profile": "/fbP75fGfXFQlkf3Q5oHbJ4wjG1g.jpg"
+        }
+      ],
+      "tmdbRating": 7.9,
+      "tmdbVotes": 1833,
+      "popularity": 7.965,
+      "trailer": "https://www.youtube.com/watch?v=juYhaHNXaeU",
+      "fonte": "thriller: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "thriller: il tuo terreno",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "proposto": "2026-10-07"
+    },
+    {
+      "tmdbId": 458220,
+      "imdbId": "tt6857376",
+      "title": "Palmer",
+      "originalTitle": "Palmer",
+      "release": "2021-01-28",
+      "releaseFonte": "globale",
+      "genres": [
+        "Dramma"
+      ],
+      "countries": [
+        "USA",
+        "Luxembourg"
+      ],
+      "runtime": 110,
+      "plot": "Dopo 12 anni in carcere, l’ex stella del football Eddie Palmer cerca di rimettersi in piedi e stringe un’improbabile amicizia con Sam, un ragazzo con alle spalle una famiglia travagliata. Ma il passato di Eddie riaffiora, minacciando di rovinare la sua nuova vita.",
+      "tagline": "Famiglia, per scelta.",
+      "poster": "/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+      "backdrop": "/mlBmnjDJfsAhvqRVc2aFOjsfh8M.jpg",
+      "director": "Fisher Stevens",
+      "cast": [
+        "Justin Timberlake",
+        "Ryder Allen",
+        "Juno Temple",
+        "Alisha Wainwright",
+        "June Squibb"
+      ],
+      "castDetail": [
+        {
+          "name": "Justin Timberlake",
+          "character": "Eddie Palmer",
+          "profile": "/6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg"
+        },
+        {
+          "name": "Ryder Allen",
+          "character": "Sam",
+          "profile": "/tvENQYq7MirqLCkxZSXUJ5YA2DS.jpg"
+        },
+        {
+          "name": "Juno Temple",
+          "character": "Shelly",
+          "profile": "/vwCjlWQLQWbmcUT2Lwn9G0O8r2.jpg"
+        },
+        {
+          "name": "Alisha Wainwright",
+          "character": "Maggie Hayes",
+          "profile": "/hEtH74TBjLwHASXl3f7rKjWqQYp.jpg"
+        },
+        {
+          "name": "June Squibb",
+          "character": "Vivian Palmer",
+          "profile": "/a7vkoLhc8JGkdvDbHvpgKKHUPHH.jpg"
+        },
+        {
+          "name": "Dean Winters",
+          "character": "Jerry",
+          "profile": "/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+        },
+        {
+          "name": "Wynn Everett",
+          "character": "Lucille Coles",
+          "profile": "/hWLWcoqXumM9NY9vfByvQmmcFdb.jpg"
+        },
+        {
+          "name": "Jesse C. Boyd",
+          "character": "Tommy Coles",
+          "profile": "/r2ACN33XUcMwAQ8oS5ZWAVwdnqJ.jpg"
+        }
+      ],
+      "tmdbRating": 8.1,
+      "tmdbVotes": 1992,
+      "popularity": 6.729,
+      "trailer": "https://www.youtube.com/watch?v=jpIpi2srrn4",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "dramma: il tuo terreno",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "proposto": "2026-10-07"
+    },
+    {
+      "tmdbId": 1092,
+      "imdbId": "tt0041959",
+      "title": "Il terzo uomo",
+      "originalTitle": "The Third Man",
+      "release": "1949-11-30",
+      "releaseFonte": "IT",
+      "genres": [
+        "Thriller",
+        "Mistero"
+      ],
+      "countries": [
+        "Regno Unito"
+      ],
+      "runtime": 104,
+      "plot": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
+      "tagline": null,
+      "poster": "/oVXG2WI7EgTyJ2zhFbUaj50SkhH.jpg",
+      "backdrop": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
+      "director": "Carol Reed",
+      "cast": [
+        "Joseph Cotten",
+        "Alida Valli",
+        "Trevor Howard",
+        "Orson Welles",
+        "Paul Hörbiger"
+      ],
+      "castDetail": [
+        {
+          "name": "Joseph Cotten",
+          "character": "Holly Martins",
+          "profile": "/djfCB0jPOgmq3w7RD3BMLzWsAu8.jpg"
+        },
+        {
+          "name": "Alida Valli",
+          "character": "Anna Schmidt",
+          "profile": "/11s7AosF2LHIGgdACpyPyoPlAyI.jpg"
+        },
+        {
+          "name": "Trevor Howard",
+          "character": "Major Calloway",
+          "profile": "/6HDJGXcedqyHx7oCPtUdCXn4z76.jpg"
+        },
+        {
+          "name": "Orson Welles",
+          "character": "Harry Lime",
+          "profile": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg"
+        },
+        {
+          "name": "Paul Hörbiger",
+          "character": "Karl the Porter",
+          "profile": "/jrTXAidwAiHz5xW5M96uzvkTcDN.jpg"
+        },
+        {
+          "name": "Ernst Deutsch",
+          "character": "'Baron' Kurtz",
+          "profile": "/5pKarwCYLqpCACoh2zrNGrgudLg.jpg"
+        },
+        {
+          "name": "Erich Ponto",
+          "character": "Dr. Winkel",
+          "profile": "/rzAmMnbpSIOCJZSMghiqacc7vrj.jpg"
+        },
+        {
+          "name": "Siegfried Breuer",
+          "character": "Popescu",
+          "profile": "/rXhySWLa7Sj1Q9yy6pe9lFqKyce.jpg"
+        }
+      ],
+      "tmdbRating": 7.883,
+      "tmdbVotes": 2191,
+      "popularity": 11.5388,
+      "trailer": "https://www.youtube.com/watch?v=ucfgYKNKfT0",
+      "fonte": "thriller: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "thriller: il tuo terreno",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "proposto": "2026-10-07"
+    },
+    {
+      "tmdbId": 393,
+      "imdbId": "tt0378194",
+      "title": "Kill Bill: Volume 2",
+      "originalTitle": "Kill Bill: Vol. 2",
+      "release": "2004-04-23",
       "releaseFonte": "IT",
       "genres": [
         "Azione",
-        "Fantasy",
-        "Avventura"
+        "Crime",
+        "Thriller"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 116,
-      "plot": "I campioni del Regno della Terra, ora affiancati da Johnny Cage, affrontano una battaglia decisiva per fermare il dominio di Shao Kahn, che minaccia l'esistenza stessa della Terra e dei suoi difensori.",
-      "tagline": "Pronti per il livello successivo.",
-      "poster": "/vKKOUvWkofWt8x62I7utwj7ouLB.jpg",
-      "backdrop": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "director": "Simon McQuoid",
+      "runtime": 110,
+      "plot": "Dopo aver mandato al creatore i prime due tra i presenti sulla sua lista nera - O-Ren Ishii e Vernita Green - la Sposa continua il suo viaggio, durante il quale è intenzionata a rintracciare e far fuori le \"future vittime\": Budd, che si è ritirato dall'attività e vive isolato in Texas; Elle, che la vuole morta per tenersi il suo Bill; e naturalmente quest'ultimo. La questione tuttavia si complica quando la vendicatrice con la tutina gialla scopre che la figlia creduta morta in realtà è ancora viva...",
+      "tagline": "La sposa è tornata per il taglio finale.",
+      "poster": "/js9z3Dyl3OQ3euFyuFdgK25w4CW.jpg",
+      "backdrop": "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+      "director": "Quentin Tarantino",
       "cast": [
-        "Karl Urban",
-        "Adeline Rudolph",
-        "Ludi Lin",
-        "Jessica McNamee",
-        "Martyn Ford"
+        "Uma Thurman",
+        "David Carradine",
+        "Daryl Hannah",
+        "Michael Madsen",
+        "劉家輝"
       ],
       "castDetail": [
         {
-          "name": "Karl Urban",
-          "character": "Johnny Cage",
-          "profile": "/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+          "name": "Uma Thurman",
+          "character": "Beatrix Kiddo / The Bride / 'Black Mamba' / Mommy",
+          "profile": "/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
         },
         {
-          "name": "Adeline Rudolph",
-          "character": "Kitana",
-          "profile": "/rkcZTtTTqTe8QK4UMIjHHVefdnN.jpg"
+          "name": "David Carradine",
+          "character": "Bill 'Snake Charmer'",
+          "profile": "/1X2GlkMKS9FIG1kGou7o6LRqAjz.jpg"
         },
         {
-          "name": "Ludi Lin",
-          "character": "Liu Kang",
-          "profile": "/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+          "name": "Daryl Hannah",
+          "character": "Elle Driver 'California Mountain Snake'",
+          "profile": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg"
         },
         {
-          "name": "Jessica McNamee",
-          "character": "Sonya Blade",
-          "profile": "/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+          "name": "Michael Madsen",
+          "character": "Budd 'Sidewinder'",
+          "profile": "/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg"
         },
         {
-          "name": "Martyn Ford",
-          "character": "Shao Kahn",
-          "profile": "/nt1gfbZPSywrHX1XnuZhQ0gU5BS.jpg"
+          "name": "劉家輝",
+          "character": "Johnny Mo / Pai Mei",
+          "profile": "/nGpgPSRGXJ808e1ay54nym3qUdp.jpg"
         },
         {
-          "name": "Josh Lawson",
-          "character": "Kano",
-          "profile": "/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+          "name": "Michael Parks",
+          "character": "Earl McGraw / Esteban Vihaio",
+          "profile": "/sXK8vnVNyYzJl2oE6lxKLtxG9px.jpg"
         },
         {
-          "name": "Tati Gabrielle",
-          "character": "Jade",
-          "profile": "/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+          "name": "Perla Haney-Jardine",
+          "character": "B.B.",
+          "profile": "/8hXve6yjLDwXJ6njTPz44n9zXQV.jpg"
         },
         {
-          "name": "Mehcad Brooks",
-          "character": "Jax Briggs",
-          "profile": "/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+          "name": "Vivica A. Fox",
+          "character": "Vernita Green 'Copperhead'",
+          "profile": "/oIzevp0dqjIxqRQ2VoSzjiDCBt.jpg"
         }
       ],
-      "tmdbRating": 7.8,
-      "tmdbVotes": 2655,
-      "popularity": 35.6964,
-      "trailer": "https://www.youtube.com/watch?v=NjNWmYSEjlY",
-      "fonte": "avventura: il tuo terreno",
+      "tmdbRating": 7.873,
+      "tmdbVotes": 15515,
+      "popularity": 19.1279,
+      "trailer": "https://www.youtube.com/watch?v=hMbPhw1DFN0",
+      "fonte": "thriller: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
+      "perche": "thriller: il tuo terreno",
       "motivi": [
-        "avventura: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "proposto": "2026-10-06"
+      "proposto": "2026-10-07"
+    },
+    {
+      "tmdbId": 210577,
+      "imdbId": "tt2267998",
+      "title": "L'amore bugiardo - Gone Girl",
+      "originalTitle": "Gone Girl",
+      "release": "2014-12-18",
+      "releaseFonte": "IT",
+      "genres": [
+        "Mistero",
+        "Thriller",
+        "Dramma"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 149,
+      "plot": "Da poco trasferirtisi in una piccola cittadina del Missouri da New York, Nick Dunne (Ben Affleck) e la moglie Amy (Rosamunde Pike) stanno attraversando un periodo difficile, con un matrimonio in crisi per via della difficoltà della donna ad abituarsi alla nuova esistenza. Il giorno del quinto anniversario di nozze, Amy scompare e il primo ad essere sospettato della sua scomparsa è Nick ma la realtà è ben diversa da come appare a prima vista.",
+      "tagline": "Non vorresti mai che certe verità venissero a galla.",
+      "poster": "/6VHGi1nlslwztqGOCrlQlNvell2.jpg",
+      "backdrop": "/iWak7wT0j6ycCc8lKr4NBz9c7n5.jpg",
+      "director": "David Fincher",
+      "cast": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris",
+        "Tyler Perry",
+        "Carrie Coon"
+      ],
+      "castDetail": [
+        {
+          "name": "Ben Affleck",
+          "character": "Nick Dunne",
+          "profile": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        },
+        {
+          "name": "Rosamund Pike",
+          "character": "Amy Dunne",
+          "profile": "/pY6VunAZbaKerB8MJ3tWWNOv9dV.jpg"
+        },
+        {
+          "name": "Neil Patrick Harris",
+          "character": "Desi Collings",
+          "profile": "/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+        },
+        {
+          "name": "Tyler Perry",
+          "character": "Tanner Bolt",
+          "profile": "/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+        },
+        {
+          "name": "Carrie Coon",
+          "character": "Margo Dunne",
+          "profile": "/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
+        },
+        {
+          "name": "Kim Dickens",
+          "character": "Detective Rhonda Boney",
+          "profile": "/yr6kstI1hdLP6LXz2xyBB4ovduj.jpg"
+        },
+        {
+          "name": "Patrick Fugit",
+          "character": "Officer James Gilpin",
+          "profile": "/bsONcodcqRKV97p1Oo1jcPkEnDA.jpg"
+        },
+        {
+          "name": "David Clennon",
+          "character": "Rand Elliott",
+          "profile": "/jLOf8nYolcb4P8LUDOW7QK5Y9pH.jpg"
+        }
+      ],
+      "tmdbRating": 7.9,
+      "tmdbVotes": 20502,
+      "popularity": 43.6713,
+      "trailer": "https://www.youtube.com/watch?v=Ax3ptN5ZtUw",
+      "fonte": "thriller: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "thriller: il tuo terreno",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "proposto": "2026-10-07"
     }
   ],
   "storico": {
@@ -683,6 +848,8 @@
     "207": "2026-09-29",
     "213": "2026-10-04",
     "218": "2026-09-15",
+    "223": "2026-10-07",
+    "234": "2026-10-07",
     "235": "2026-09-12",
     "238": "2026-09-20",
     "272": "2026-09-25",
@@ -697,6 +864,7 @@
     "348": "2026-10-05",
     "350": "2026-09-13",
     "389": "2026-09-20",
+    "393": "2026-10-07",
     "404": "2026-09-23",
     "423": "2026-09-25",
     "424": "2026-09-25",
@@ -723,6 +891,7 @@
     "670": "2026-09-28",
     "679": "2026-09-22",
     "680": "2026-09-23",
+    "752": "2026-10-07",
     "769": "2026-09-30",
     "775": "2026-09-17",
     "797": "2026-09-24",
@@ -730,6 +899,7 @@
     "808": "2026-09-19",
     "829": "2026-09-26",
     "832": "2026-09-21",
+    "843": "2026-10-07",
     "857": "2026-10-04",
     "901": "2026-09-18",
     "914": "2026-10-01",
@@ -738,6 +908,7 @@
     "996": "2026-10-05",
     "1018": "2026-09-23",
     "1091": "2026-09-19",
+    "1092": "2026-10-07",
     "1124": "2026-09-27",
     "1398": "2026-10-06",
     "1422": "2026-09-30",
@@ -810,6 +981,7 @@
     "183011": "2026-09-20",
     "209112": "2026-09-25",
     "209361": "2026-09-27",
+    "210577": "2026-10-07",
     "244786": "2026-09-15",
     "257211": "2026-09-12",
     "263115": "2026-09-29",
@@ -848,6 +1020,7 @@
     "447332": "2026-09-17",
     "451048": "2026-09-20",
     "453278": "2026-09-28",
+    "458220": "2026-10-07",
     "460458": "2026-09-24",
     "482321": "2026-09-20",
     "490132": "2026-09-22",
@@ -860,9 +1033,11 @@
     "533533": "2026-09-24",
     "554230": "2026-09-28",
     "569094": "2026-10-02",
+    "581528": "2026-10-07",
     "581734": "2026-09-25",
     "583689": "2026-10-02",
     "585511": "2026-09-19",
+    "600354": "2026-10-07",
     "606856": "2026-10-03",
     "610150": "2026-10-02",
     "615469": "2026-09-29",
