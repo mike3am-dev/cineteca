@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-07T11:28:16.784Z",
+  "preparato": "2026-10-08T11:43:48.275Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -89,7 +89,8 @@
       "uscitaItalia": "2026-10-15",
       "regia": "Brian Duffield",
       "generi": [
-        "Thriller"
+        "Thriller",
+        "Horror"
       ],
       "paesi": [
         "USA"
@@ -142,6 +143,40 @@
         "avventura e thriller: il tuo terreno"
       ],
       "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
+    },
+    {
+      "id": "tmdb-1375441",
+      "tmdbId": 1375441,
+      "imdbId": "tt34206385",
+      "origine": "trailer",
+      "titolo": "Primetime",
+      "titoloOriginale": "Primetime",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Lance Oppenheim",
+      "generi": [
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": "Siete pronti ad entrare nella storia della televisione?",
+      "cast": [
+        "Robert Pattinson (Chris Hansen)",
+        "Merritt Wever (Andie Bender)",
+        "Skyler Gisondo (Dan Plum)",
+        "Matthew Maher (Xavier Von Erck)",
+        "Phoebe Bridgers (Del)",
+        "Victor Brunette (Frag)"
+      ],
+      "tramaTmdb": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+      "motivi": [
+        "c'è Robert Pattinson, che hai visto 2 volte",
+        "dramma e thriller: il tuo terreno"
+      ],
+      "impronta": "Primetime|523|Lance Oppenheim"
     },
     {
       "id": "tmdb-1503762",
@@ -246,6 +281,38 @@
       "impronta": "La bola negra|173|Javier Ambrossi"
     },
     {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "origine": "trailer",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 131,
+      "tagline": null,
+      "cast": [
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "motivi": [],
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
       "id": "tmdb-1153576",
       "tmdbId": 1153576,
       "imdbId": "tt27419420",
@@ -312,370 +379,347 @@
       "impronta": "The Uprising|235|Paul Greengrass"
     },
     {
-      "id": "tmdb-1755291",
-      "tmdbId": 1755291,
-      "imdbId": "tt44766123",
-      "origine": "trailer",
-      "titolo": "NAZA",
-      "titoloOriginale": "NAZA",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-25",
-      "regia": "Yuval Abraham",
-      "generi": [
-        "Documentario"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 77,
-      "tagline": null,
-      "cast": [
-        "Yuval Abraham (Self)"
-      ],
-      "tramaTmdb": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
-      "motivi": [],
-      "impronta": "NAZA|259|Yuval Abraham"
-    },
-    {
-      "id": "tmdb-600354",
-      "tmdbId": 600354,
-      "imdbId": "tt10272386",
+      "id": "tmdb-149871",
+      "tmdbId": 149871,
+      "imdbId": "tt2576852",
       "origine": "scoperta",
-      "titolo": "The Father - Nulla è come sembra",
-      "titoloOriginale": "The Father",
-      "anno": "2021",
-      "uscitaItalia": "2021-05-20",
-      "regia": "Florian Zeller",
+      "titolo": "La storia della principessa splendente",
+      "titoloOriginale": "かぐや姫の物語",
+      "anno": "2014",
+      "uscitaItalia": "2014-11-03",
+      "regia": "高畑勲",
       "generi": [
-        "Dramma"
+        "Animazione",
+        "Dramma",
+        "Fantasy"
       ],
       "paesi": [
-        "Francia",
-        "Regno Unito"
+        "Giappone"
       ],
-      "durata": 97,
-      "tagline": null,
+      "durata": 137,
+      "tagline": "Delitto e castigo di una principessa.",
       "cast": [
-        "Anthony Hopkins (Anthony)",
-        "Olivia Colman (Anne)",
-        "Mark Gatiss (The Man)",
-        "Olivia Williams (The Woman)",
-        "Imogen Poots (Laura)",
-        "Rufus Sewell (Paul)"
+        "朝倉あき (The Princess Kaguya (voice))",
+        "地井武男 (Sanuki no Miyatsuko (voice))",
+        "宮本信子 (Ōna / Narrator (voice))",
+        "高良健吾 (Sutemaru (voice))",
+        "高畑淳子 (Lady Sagami (voice))",
+        "田畑智子 (Menowarawa (voice))"
       ],
-      "tramaTmdb": "Tra le vie residenziali della Londra benestante, Anne si reca a far visita al padre Anthony nel suo appartamento. L'uomo, ottantenne, è rammaricato quando la figlia gli annuncia un prossimo trasferimento a Parigi per raggiungere l'uomo che ama, e chiede cosa ne sarà di lui. Poco dopo, sempre in casa sua, Anthony trova un uomo seduto a leggere il giornale, il quale sostiene di essere il padrone di casa e il marito di Anne. Pur vivace e a tratti ben lucido, Anthony mostra sintomi del morbo di Alzheimer, dimenticando fatti, luoghi e persone. Nel rapporto con i suoi familiari e con la giovane bada",
+      "tramaTmdb": "Un vecchio uomo vende bambù per sopravvivere. Un giorno, nelle canne di bambù, trova una piccola principessa, grande quanto un dito, di nome Kaguya. Quando Kaguya cresce, cinque uomini provenienti da altrettante prestigiose famiglie manifestano il desiderio di sposarla. Kaguya chiedere loro di trovare per lei cinque memorabili regali ma nessuno è in grado di portarle ciò che desidera veramente.",
       "motivi": [
         "dramma: il tuo terreno"
       ],
-      "impronta": "The Father - Nulla è come sembra|600|Florian Zeller"
+      "impronta": "La storia della principessa splendente|397|高畑勲"
     },
     {
-      "id": "tmdb-581528",
-      "tmdbId": 581528,
-      "imdbId": "tt10208198",
+      "id": "tmdb-111",
+      "tmdbId": 111,
+      "imdbId": "tt0086250",
       "origine": "scoperta",
-      "titolo": "Il Gangster, il Poliziotto, il Diavolo",
-      "titoloOriginale": "악인전",
-      "anno": "2019",
-      "uscitaItalia": "2019-05-15",
-      "regia": "이원태",
+      "titolo": "Scarface",
+      "titoloOriginale": "Scarface",
+      "anno": "1984",
+      "uscitaItalia": "1984-04-20",
+      "regia": "Brian De Palma",
       "generi": [
         "Azione",
         "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Corea del Sud"
-      ],
-      "durata": 109,
-      "tagline": "Non lasciare che il diavolo vinca.",
-      "cast": [
-        "마동석 (Jang Dong-su)",
-        "김무열 (Jung Tae-suk)",
-        "김성규 (Kang Gyeong-ho)",
-        "허동원 (Choi Moon-sik)",
-        "유재명 (Heo Sang-do)",
-        "이서환 (Choi Jeong-gyu)"
-      ],
-      "tramaTmdb": "Il capo di una gang della malavita coreana finisce nel mirino di un killer psicopatico: salvatosi miracolosamente da un attacco, decide con riluttanza di fare squadra con Jung Tae-seok, uno dei migliori poliziotti in circolazione, famoso per la sua spietata e brutale lotta contro il crimine organizzato. I due non potrebbero essere più diversi, ma grazie all'obiettivo comune il bizzarro duo si ritrova dalla stessa parte nella ricerca del folle serial killer.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Il Gangster, il Poliziotto, il Diavolo|461|이원태"
-    },
-    {
-      "id": "tmdb-752",
-      "tmdbId": 752,
-      "imdbId": "tt0434409",
-      "origine": "scoperta",
-      "titolo": "V per Vendetta",
-      "titoloOriginale": "V for Vendetta",
-      "anno": "2006",
-      "uscitaItalia": "2006-03-17",
-      "regia": "James McTeigue",
-      "generi": [
-        "Azione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "Germania",
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 132,
-      "tagline": "Le persone non dovrebbero avere paura dei loro governi. I governi dovrebbero avere paura del loro popolo.",
-      "cast": [
-        "Natalie Portman (Evey)",
-        "Hugo Weaving (V / William Rookwood)",
-        "Stephen Rea (Finch)",
-        "Stephen Fry (Deitrich)",
-        "John Hurt (Adam Sutler)",
-        "Tim Pigott-Smith (Creedy)"
-      ],
-      "tramaTmdb": "In un'Inghilterra scampata alla guerra nucleare e oppressa da una dittatura poliziesca, una giovane donna, Evey viene salvata da un uomo dal volto coperto da una maschera. Il suo nome è V, vuole vendicarsi di coloro che l'hanno internato in un campo di concentramento e l'hanno sottoposto a crudeli esperimenti medici; inizia così la sua rivolta contro il potere, cercando di sollevare i suoi concittadini contro la tirannia. Scoperta la verità sul passato di V, Evey trova in sè stessa una nuova forza e diventa un'alleata nel piano dell'uomo per ristabilire la libertà.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "V per Vendetta|571|James McTeigue"
-    },
-    {
-      "id": "tmdb-223",
-      "tmdbId": 223,
-      "imdbId": "tt0032976",
-      "origine": "scoperta",
-      "titolo": "Rebecca - La prima moglie",
-      "titoloOriginale": "Rebecca",
-      "anno": "1940",
-      "uscitaItalia": "1940-03-23",
-      "regia": "Alfred Hitchcock",
-      "generi": [
-        "Mistero",
-        "Romance",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 124,
-      "tagline": null,
-      "cast": [
-        "Laurence Olivier (Maxim de Winter)",
-        "Joan Fontaine (Mrs. de Winter)",
-        "George Sanders (Jack Favell)",
-        "Judith Anderson (Mrs. Danvers)",
-        "Gladys Cooper (Beatrice Lacy)",
-        "Nigel Bruce (Giles Lacy)"
-      ],
-      "tramaTmdb": "Il ricco Maxim De Winter conosce in Costa Azzurra una bella e ingenua fanciulla, e in quattro e quattr'otto se la sposa. Lei è felicissima, ma quando arriva nella magione del consorte si accorge che tutti sono ancora ossessionati dalla sua prima moglie, Rebecca. In particolare la governante alimenta il ricordo della signora, che un giorno rispunta tra le onde del mare. Morta. De Winter è accusato di omicidio.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Rebecca - La prima moglie|412|Alfred Hitchcock"
-    },
-    {
-      "id": "tmdb-843",
-      "tmdbId": 843,
-      "imdbId": "tt0118694",
-      "origine": "scoperta",
-      "titolo": "In the Mood for Love",
-      "titoloOriginale": "花樣年華",
-      "anno": "2021",
-      "uscitaItalia": "2021-04-28",
-      "regia": "Wong Kar-Wai",
-      "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "Hong Kong",
-        "Francia"
-      ],
-      "durata": 98,
-      "tagline": "Senti il ​​calore, continua a bruciare la sensazione, lascia che la sensazione esploda.",
-      "cast": [
-        "Maggie Cheung (Su Li-zhen)",
-        "Tony Leung Chiu-wai (Chow Mo-wan)",
-        "Siu Ping-Lam (Ah Ping)",
-        "潘迪华 (Mrs. Suen)",
-        "Kelly Lai Chen (Mr. Ho)",
-        "Joe Cheung Tung-Cho (Man Living in Mr. Koo's Apartment)"
-      ],
-      "tramaTmdb": "Hong Kong, 1962. I coniugi Chow e i coniugi Chan si trasferiscono lo stesso giorno in due appartamenti contigui. Sono il signor Chow e la signora Chan a rientrare più di frequente a casa ed è così che nel giro di breve tempo scoprono che i rispettivi consorti sono amanti. La volontà di comprendere le ragioni del tradimento subito li porterà a frequentarsi sempre più spesso e a condividere le sensazioni provate.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "In the Mood for Love|414|Wong Kar-Wai"
-    },
-    {
-      "id": "tmdb-234",
-      "tmdbId": 234,
-      "imdbId": "tt0010323",
-      "origine": "scoperta",
-      "titolo": "Il gabinetto del Dr. Caligari",
-      "titoloOriginale": "Das Cabinet des Dr. Caligari",
-      "anno": "1920",
-      "uscitaItalia": "1920-02-27",
-      "regia": "Robert Wiene",
-      "generi": [
-        "Dramma",
-        "Horror",
-        "Thriller",
-        "Crime"
-      ],
-      "paesi": [
-        "Germania"
-      ],
-      "durata": 78,
-      "tagline": "Devi diventare Caligari!",
-      "cast": [
-        "Werner Krauß (Dr. Caligari)",
-        "Conrad Veidt (Cesare)",
-        "Friedrich Fehér (Francis)",
-        "Lil Dagover (Jane)",
-        "Hans Heinrich von Twardowski (Alan)",
-        "Rudolf Lettinger (Dr. Olsen)"
-      ],
-      "tramaTmdb": "Un uomo chiamato Francis racconta la storia del suo amico Alan e della sua fidanzata. Recatosi ad una fiera, Alan visita il dottor Caligari, che mette in mostra un misterioso sonnambulo: a questo Alan chiede quanto gli resta da vivere e l'uomo risponde fino all'alba del giorno dopo..",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "Il gabinetto del Dr. Caligari|284|Robert Wiene"
-    },
-    {
-      "id": "tmdb-458220",
-      "tmdbId": 458220,
-      "imdbId": "tt6857376",
-      "origine": "scoperta",
-      "titolo": "Palmer",
-      "titoloOriginale": "Palmer",
-      "anno": "2021",
-      "uscitaItalia": "2021-01-28",
-      "regia": "Fisher Stevens",
-      "generi": [
         "Dramma"
       ],
       "paesi": [
-        "USA",
-        "Luxembourg"
+        "USA"
       ],
-      "durata": 110,
-      "tagline": "Famiglia, per scelta.",
+      "durata": 170,
+      "tagline": "La sua bramosia di potere non conosceva limiti.",
       "cast": [
-        "Justin Timberlake (Eddie Palmer)",
-        "Ryder Allen (Sam)",
-        "Juno Temple (Shelly)",
-        "Alisha Wainwright (Maggie Hayes)",
-        "June Squibb (Vivian Palmer)",
-        "Dean Winters (Jerry)"
+        "Al Pacino (Tony Montana)",
+        "Steven Bauer (Manny Ray)",
+        "Michelle Pfeiffer (Elvira)",
+        "Mary Elizabeth Mastrantonio (Gina)",
+        "Robert Loggia (Frank Lopez)",
+        "Miriam Colon (Mama Montana)"
       ],
-      "tramaTmdb": "Dopo 12 anni in carcere, l’ex stella del football Eddie Palmer cerca di rimettersi in piedi e stringe un’improbabile amicizia con Sam, un ragazzo con alle spalle una famiglia travagliata. Ma il passato di Eddie riaffiora, minacciando di rovinare la sua nuova vita.",
+      "tramaTmdb": "Ambientato nella Miami degli anni 80, l'intreccio si dipana tra il mondo degli immigrati cubani e quello dei signori della droga della east-coast. Tony Montana, lo sfregiato, è uno tra i tanti \"rifugiati politici\" in territorio statunitense, sbarcati sulle coste della Florida in seguito all'apertura delle carceri cubane. Per i profughi la via più veloce per abbandonare la degenza economica è darsi al crimine, e Tony, non certo uno stinco di santo, non ci penserà due volte. Comincerà così per il gangster una rapida ascesa, che arriverà a vertiginose quanto pericolose altezze.",
       "motivi": [
-        "dramma: il tuo terreno"
+        "un classico che ti manca"
       ],
-      "impronta": "Palmer|264|Fisher Stevens"
+      "impronta": "Scarface|581|Brian De Palma"
     },
     {
-      "id": "tmdb-1092",
-      "tmdbId": 1092,
-      "imdbId": "tt0041959",
+      "id": "tmdb-533535",
+      "tmdbId": 533535,
+      "imdbId": "tt6263850",
       "origine": "scoperta",
-      "titolo": "Il terzo uomo",
-      "titoloOriginale": "The Third Man",
-      "anno": "1949",
-      "uscitaItalia": "1949-11-30",
-      "regia": "Carol Reed",
+      "titolo": "Deadpool & Wolverine",
+      "titoloOriginale": "Deadpool & Wolverine",
+      "anno": "2024",
+      "uscitaItalia": "2024-07-24",
+      "regia": "Shawn Levy",
+      "generi": [
+        "Azione",
+        "Commedia",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 127,
+      "tagline": "Veniamo insieme.",
+      "cast": [
+        "Ryan Reynolds (Wade Wilson / Deadpool / Nicepool)",
+        "Hugh Jackman (Logan / Wolverine)",
+        "Emma Corrin (Cassandra Nova)",
+        "Matthew Macfadyen (Mr. Paradox)",
+        "Dafne Keen (Laura / X-23)",
+        "Jon Favreau (Happy Hogan)"
+      ],
+      "tramaTmdb": "La vita di Wade Wilson, che ha ormai smesso di fare il mercenario in costume, non ha preso una bella piega. Negli ultimi anni la sua compagna l'ha lasciato e ora sta frequentando un altro uomo; al lavoro, come venditore di auto al fianco di Peter, gli affari arrancano; il colloquio per entrare negli Avengers è andato malissimo. Ciò nonostante Wade ha ancora i suoi amici intorno e, quando la TVA lo rapisce e gli comunica che la sua linea temporale sta per essere cancellata, ecco che Wade torna a mettere i panni di Deadpool e si lancia in una assurda impresa, per cui ha assolutamente bisogno di ",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Deadpool & Wolverine|600|Shawn Levy"
+    },
+    {
+      "id": "tmdb-9016",
+      "tmdbId": 9016,
+      "imdbId": "tt0133240",
+      "origine": "scoperta",
+      "titolo": "Il pianeta del tesoro",
+      "titoloOriginale": "Treasure Planet",
+      "anno": "2002",
+      "uscitaItalia": "2002-12-20",
+      "regia": "Ron Clements",
+      "generi": [
+        "Fantascienza",
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 95,
+      "tagline": "Una grande emozionante avventura",
+      "cast": [
+        "Joseph Gordon-Levitt (Jim Hawkins (voice))",
+        "Brian Murray (John Silver (voice))",
+        "Emma Thompson (Captain Amelia (voice))",
+        "David Hyde Pierce (Doctor Doppler (voice))",
+        "Martin Short (B.E.N. (voice))",
+        "Dane A. Davis (Morph (voice))"
+      ],
+      "tramaTmdb": "Jim Hawkins è un adolescente inquieto che ha scoperto la mappa del tesoro del capitano Flint. Lo spirito d'avventura lo farà imbarcare su un vascello volante che lo porterà al pianeta dove giace questa immensa fortuna. Il lungo viaggio cambierà psicologicamente il ragazzo, anche grazie al rapporto intenso con John Silver, cuoco di bordo trasformato in cyborg; questi non è però l'innocuo vecchietto che vuole far credere, ma un vero pirata, e destituisce il comandante del vascello per cercare assieme alla sua ciurma il luogo del tesoro. Ci vorrà tutto il coraggio e l'intraprendenza del giovane J",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Il pianeta del tesoro|600|Ron Clements"
+    },
+    {
+      "id": "tmdb-18",
+      "tmdbId": 18,
+      "imdbId": "tt0119116",
+      "origine": "scoperta",
+      "titolo": "Il quinto elemento",
+      "titoloOriginale": "Le Cinquième Élément",
+      "anno": "1997",
+      "uscitaItalia": "1997-10-30",
+      "regia": "Luc Besson",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "Francia"
+      ],
+      "durata": 122,
+      "tagline": "Non c'è futuro senza di esso.",
+      "cast": [
+        "Bruce Willis (Korben Dallas)",
+        "Milla Jovovich (Leeloo)",
+        "Gary Oldman (Zorg)",
+        "Ian Holm (Cornelius)",
+        "Chris Tucker (Ruby Rhod)",
+        "Luke Perry (Billy)"
+      ],
+      "tramaTmdb": "Una congiunzione provoca l'apertura di un varco attraverso cui una forza penetra nel nostro universo. Gli antichi egizi lo sapevano, ed anzi erano i custodi dell'arma capace di arrestarla, basata sulla fusione dei quattro elementi primari: terra, acqua, fuoco e aria, e di un quinto elemento. Ma agli inizi del ventesimo secolo scendono sulla Terra i Mondoshawan, esseri superiori e benefici che portano via l'arma, promettendo di restituirla. Il momento arriva nel 2259, quando il passaggio si riapre e l'universo è di nuovo minacciato. I Mondoshawan rispediscono sulla Terra l'arma con il quinto el",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Il quinto elemento|600|Luc Besson"
+    },
+    {
+      "id": "tmdb-106",
+      "tmdbId": 106,
+      "imdbId": "tt0093773",
+      "origine": "scoperta",
+      "titolo": "Predator",
+      "titoloOriginale": "Predator",
+      "anno": "1987",
+      "uscitaItalia": "1987-08-22",
+      "regia": "John McTiernan",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 107,
+      "tagline": "La guerra era la sua professione .... questa volta non è guerra ma qualcosa di peggio!",
+      "cast": [
+        "Arnold Schwarzenegger (Major Alan 'Dutch' Schaefer)",
+        "Carl Weathers (Al Dillon)",
+        "Kevin Peter Hall (The Predator / Helicopter Pilot)",
+        "Elpidia Carrillo (Anna Gonsalves)",
+        "Bill Duke (Mac Eliot)",
+        "Jesse Ventura (Blain Cooper)"
+      ],
+      "tramaTmdb": "Un commando di soldati americani specialisti in guerriglia viene inviato nella giungla del centro america per distruggere un gruppo di guerriglieri. La missione viene rapidamente eseguita, ma sulla via del ritorno il commando diviene il bersaglio di un terrificante essere invisibile, il quale attacca gli uomini, li uccide e li squarta. In breve tempo Dutch, il comandante del gruppo rimane solo a fronteggiare quello che si rivela essere un cacciatore alieno dotato di armi e tecnologia superiori. Il coraggio, l'addestramento e un po' di fortuna consentiranno all'uomo di individuare i punti debol",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Predator|600|John McTiernan"
+    },
+    {
+      "id": "tmdb-782",
+      "tmdbId": 782,
+      "imdbId": "tt0119177",
+      "origine": "scoperta",
+      "titolo": "Gattaca - La porta dell'universo",
+      "titoloOriginale": "Gattaca",
+      "anno": "1998",
+      "uscitaItalia": "1998-03-06",
+      "regia": "Andrew Niccol",
+      "generi": [
+        "Fantascienza",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": "Come puoi nasconderti se stai fuggendo da te stesso?",
+      "cast": [
+        "Ethan Hawke (Vincent Freeman)",
+        "Uma Thurman (Irene Cassini)",
+        "Jude Law (Jerome Eugene Morrow)",
+        "Alan Arkin (Detective Hugo)",
+        "Loren Dean (Adult Anton Freeman)",
+        "Gore Vidal (Director Josef)"
+      ],
+      "tramaTmdb": "Nel prossimo futuro l'ingegneria genetica prenderà il sopravvento, distinguendo gli esseri umani in \"validi\", concepiti in provetta col DNA modificato, e \"non validi\", concepiti tradizionalmente. Così, Vincent Freeman, un non valido è costretto a falsificare la sua identità anagrafica per poter diventare un cosmonauta.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Gattaca - La porta dell'universo|320|Andrew Niccol"
+    },
+    {
+      "id": "tmdb-490",
+      "tmdbId": 490,
+      "imdbId": "tt0050976",
+      "origine": "scoperta",
+      "titolo": "Il settimo sigillo",
+      "titoloOriginale": "Det sjunde inseglet",
+      "anno": "1958",
+      "uscitaItalia": "1958-08-05",
+      "regia": "Ingmar Bergman",
+      "generi": [
+        "Fantasy",
+        "Dramma"
+      ],
+      "paesi": [
+        "Svezia"
+      ],
+      "durata": 98,
+      "tagline": null,
+      "cast": [
+        "Gunnar Björnstrand (Jöns)",
+        "Bengt Ekerot (Death)",
+        "Nils Poppe (Jof)",
+        "Max von Sydow (Antonius Block)",
+        "Bibi Andersson (Mia)",
+        "Inga Gill (Lisa)"
+      ],
+      "tramaTmdb": "La morte appare ad un cavaliere al suo ritorno dalla battaglia e cerca di portarlo via. Il cavaliere sfida la morte ad una partita a scacchi.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il settimo sigillo|141|Ingmar Bergman"
+    },
+    {
+      "id": "tmdb-204922",
+      "tmdbId": 204922,
+      "imdbId": "tt1726592",
+      "origine": "scoperta",
+      "titolo": "Before I Go to Sleep",
+      "titoloOriginale": "Before I Go to Sleep",
+      "anno": "2014",
+      "uscitaItalia": "2014-09-03",
+      "regia": "Rowan Joffé",
       "generi": [
         "Thriller",
         "Mistero"
       ],
       "paesi": [
+        "Francia",
+        "Svezia",
         "Regno Unito"
       ],
-      "durata": 104,
+      "durata": 91,
       "tagline": null,
       "cast": [
-        "Joseph Cotten (Holly Martins)",
-        "Alida Valli (Anna Schmidt)",
-        "Trevor Howard (Major Calloway)",
-        "Orson Welles (Harry Lime)",
-        "Paul Hörbiger (Karl the Porter)",
-        "Ernst Deutsch ('Baron' Kurtz)"
+        "Nicole Kidman (Christine)",
+        "Colin Firth (Ben)",
+        "Mark Strong (Dr. Nasch)",
+        "Ben Crompton (Warehouse Caretaker)",
+        "Anne-Marie Duff (Claire)",
+        "Adam Levy (Ben)"
       ],
-      "tramaTmdb": "Nel 1946 in una Vienna devastata dalla guerra e divisa in quattro zone di occupazione, lo scrittore americano di western Holly Martins (Cotten) assiste ai funerali dell'amico Harry Lime (Welles), ma è veramente morto? Inseguimento finale nelle fogne della città.",
+      "tramaTmdb": "A causa di un traumatico incidente avvenuto in passato, una donna si risveglia ogni mattina senza ricordar nulla della sua vita. Un giorno, però, recupera la memoria e il venire a galla di nuove terrificanti verità la costringe a mettere in discussione il mondo e coloro che la circondano, intuendo di aver vissuto nella menzogna.",
       "motivi": [
-        "thriller: il tuo terreno"
+        "se ne parla adesso"
       ],
-      "impronta": "Il terzo uomo|262|Carol Reed"
+      "impronta": "Before I Go to Sleep|330|Rowan Joffé"
     },
     {
-      "id": "tmdb-393",
-      "tmdbId": 393,
-      "imdbId": "tt0378194",
+      "id": "tmdb-10191",
+      "tmdbId": 10191,
+      "imdbId": "tt0892769",
       "origine": "scoperta",
-      "titolo": "Kill Bill: Volume 2",
-      "titoloOriginale": "Kill Bill: Vol. 2",
-      "anno": "2004",
-      "uscitaItalia": "2004-04-23",
-      "regia": "Quentin Tarantino",
+      "titolo": "Dragon Trainer",
+      "titoloOriginale": "How to Train Your Dragon",
+      "anno": "2010",
+      "uscitaItalia": "2010-03-26",
+      "regia": "Chris Sanders",
       "generi": [
-        "Azione",
-        "Crime",
-        "Thriller"
+        "Fantasy",
+        "Avventura",
+        "Animazione",
+        "Famiglia"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 110,
-      "tagline": "La sposa è tornata per il taglio finale.",
+      "durata": 98,
+      "tagline": "Una avventura cambierà due mondi",
       "cast": [
-        "Uma Thurman (Beatrix Kiddo / The Bride / 'Black Mamba' / Mommy)",
-        "David Carradine (Bill 'Snake Charmer')",
-        "Daryl Hannah (Elle Driver 'California Mountain Snake')",
-        "Michael Madsen (Budd 'Sidewinder')",
-        "劉家輝 (Johnny Mo / Pai Mei)",
-        "Michael Parks (Earl McGraw / Esteban Vihaio)"
+        "Jay Baruchel (Hiccup (voice))",
+        "Gerard Butler (Stoick (voice))",
+        "Craig Ferguson (Gobber (voice))",
+        "America Ferrera (Astrid (voice))",
+        "Jonah Hill (Snotlout (voice))",
+        "Christopher Mintz-Plasse (Fishlegs (voice))"
       ],
-      "tramaTmdb": "Dopo aver mandato al creatore i prime due tra i presenti sulla sua lista nera - O-Ren Ishii e Vernita Green - la Sposa continua il suo viaggio, durante il quale è intenzionata a rintracciare e far fuori le \"future vittime\": Budd, che si è ritirato dall'attività e vive isolato in Texas; Elle, che la vuole morta per tenersi il suo Bill; e naturalmente quest'ultimo. La questione tuttavia si complica quando la vendicatrice con la tutina gialla scopre che la figlia creduta morta in realtà è ancora viva...",
+      "tramaTmdb": "Hiccup è un giovane vichingo che vive in un villaggio sperduto nel nulla, in una landa fredda, inospitale, con poco da mangiare e soprattutto infestata dai draghi. Tuttavia i vichinghi invece che spostarsi preferiscono combattere, non a caso sono tutti grandi e grossi. Tutti tranne Hiccup, figlio del capo del villaggio, che è secco e inadatto al combattimento. Il ragazzo ha però una spiccata passione per la costruzione di macchinari con cui tenta di uccidere draghi e una conseguente inclinazione per la creazione di problemi...",
       "motivi": [
-        "thriller: il tuo terreno"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Kill Bill: Volume 2|505|Quentin Tarantino"
-    },
-    {
-      "id": "tmdb-210577",
-      "tmdbId": 210577,
-      "imdbId": "tt2267998",
-      "origine": "scoperta",
-      "titolo": "L'amore bugiardo - Gone Girl",
-      "titoloOriginale": "Gone Girl",
-      "anno": "2014",
-      "uscitaItalia": "2014-12-18",
-      "regia": "David Fincher",
-      "generi": [
-        "Mistero",
-        "Thriller",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 149,
-      "tagline": "Non vorresti mai che certe verità venissero a galla.",
-      "cast": [
-        "Ben Affleck (Nick Dunne)",
-        "Rosamund Pike (Amy Dunne)",
-        "Neil Patrick Harris (Desi Collings)",
-        "Tyler Perry (Tanner Bolt)",
-        "Carrie Coon (Margo Dunne)",
-        "Kim Dickens (Detective Rhonda Boney)"
-      ],
-      "tramaTmdb": "Da poco trasferirtisi in una piccola cittadina del Missouri da New York, Nick Dunne (Ben Affleck) e la moglie Amy (Rosamunde Pike) stanno attraversando un periodo difficile, con un matrimonio in crisi per via della difficoltà della donna ad abituarsi alla nuova esistenza. Il giorno del quinto anniversario di nozze, Amy scompare e il primo ad essere sospettato della sua scomparsa è Nick ma la realtà è ben diversa da come appare a prima vista.",
-      "motivi": [
-        "thriller: il tuo terreno"
-      ],
-      "impronta": "L'amore bugiardo - Gone Girl|445|David Fincher"
+      "impronta": "Dragon Trainer|532|Chris Sanders"
     }
   ]
 }
