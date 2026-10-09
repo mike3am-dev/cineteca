@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-08T11:43:45.407Z",
+  "preparato": "2026-10-09T11:37:01.105Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,72 +79,6 @@
   },
   "film": [
     {
-      "id": "tmdb-1297467",
-      "tmdbId": 1297467,
-      "imdbId": "tt32492552",
-      "titolo": "The Exorcist: Martyrs",
-      "titoloOriginale": null,
-      "anno": "2027",
-      "uscitaItalia": "2027-03-12",
-      "lista": "cinema",
-      "regia": "Mike Flanagan",
-      "generi": [
-        "Horror"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": null,
-      "tagline": "Darkness must be hunted.",
-      "cast": [
-        "Scarlett Johansson (Det. Julie Miller)",
-        "Jacobi Jupe (Max Miller)",
-        "John Leguizamo (Father Sunday)",
-        "Chiwetel Ejiofor (Father William)",
-        "Laurence Fishburne",
-        "Diane Lane (Mary Miller)",
-        "Sasha Calle (Det. Gina Restrepo)",
-        "Rahul Kohli"
-      ],
-      "tramaTmdb": "Tredici anni dopo aver sgominato un famigerato serial killer satanico, una poliziotta indaga su una nuova serie di omicidi collegati al suo passato, mentre il figlio dodicenne diventa il bersaglio di una terrificante forza demoniaca.",
-      "impronta": "The Exorcist: Martyrs|233|Mike Flanagan"
-    },
-    {
-      "id": "tmdb-1022787",
-      "tmdbId": 1022787,
-      "imdbId": "tt4900148",
-      "titolo": "Elio",
-      "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-06-18",
-      "lista": "casa",
-      "regia": "Domee Shi",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantascienza",
-        "Famiglia",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
-      "cast": [
-        "Yonas Kibreab (Elio / Other Elio (voice))",
-        "Remy Edgerly (Glordon (voice))",
-        "Zoe Saldaña (Olga Solís (voice))",
-        "Brad Garrett (Lord Grigon (voice))",
-        "Brandon Moon (Ambassador Helix (voice))",
-        "Jameela Jamil (Ambassador Questa (voice))",
-        "Young Dylan (Bryce (voice))",
-        "Jake T. Getman (Caleb (voice))"
-      ],
-      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Domee Shi"
-    },
-    {
       "id": "tmdb-1226863",
       "tmdbId": 1226863,
       "imdbId": "tt28650488",
@@ -153,7 +87,7 @@
       "anno": "2026",
       "uscitaItalia": "2026-04-01",
       "lista": "casa",
-      "regia": "Aaron Horvath",
+      "regia": "Michael Jelenic",
       "generi": [
         "Famiglia",
         "Commedia",
@@ -167,54 +101,9 @@
       ],
       "durata": 105,
       "tagline": "La galassia ti attende.",
-      "cast": [
-        "Chris Pratt (Mario (voice))",
-        "Charlie Day (Luigi (voice))",
-        "Anya Taylor-Joy (Princess Peach (voice))",
-        "Jack Black (Bowser (voice))",
-        "Keegan-Michael Key (Toad (voice))",
-        "Benny Safdie (Bowser Junior (voice))",
-        "Glen Powell (Fox McCloud (voice))",
-        "Brie Larson (Rosalina (voice))"
-      ],
+      "cast": [],
       "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
-      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
-    },
-    {
-      "id": "tmdb-502356",
-      "tmdbId": 502356,
-      "imdbId": "tt6718170",
-      "titolo": "Super Mario Bros. Il Film",
-      "titoloOriginale": null,
-      "anno": "2023",
-      "uscitaItalia": "2023-04-05",
-      "lista": "visto",
-      "regia": "Aaron Horvath",
-      "generi": [
-        "Famiglia",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Animazione"
-      ],
-      "paesi": [
-        "Giappone",
-        "USA"
-      ],
-      "durata": 92,
-      "tagline": "Not all heroes wear capes. Some wear overalls.",
-      "cast": [
-        "Chris Pratt (Mario (voice))",
-        "Anya Taylor-Joy (Princess Peach (voice))",
-        "Charlie Day (Luigi (voice))",
-        "Jack Black (Bowser (voice))",
-        "Keegan-Michael Key (Toad (voice))",
-        "Seth Rogen (Donkey Kong (voice))",
-        "Fred Armisen (Cranky Kong (voice))",
-        "Sebastian Maniscalco (Spike (voice))"
-      ],
-      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
-      "impronta": "Super Mario Bros. Il Film|258|Aaron Horvath"
+      "impronta": "Super Mario Galaxy - Il film|521|Michael Jelenic"
     }
   ]
 }

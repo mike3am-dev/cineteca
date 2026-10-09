@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-08T11:43:48.275Z",
+  "preparato": "2026-10-09T11:37:02.223Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -89,8 +89,7 @@
       "uscitaItalia": "2026-10-15",
       "regia": "Brian Duffield",
       "generi": [
-        "Thriller",
-        "Horror"
+        "Thriller"
       ],
       "paesi": [
         "USA"
@@ -111,6 +110,75 @@
         "thriller, il tuo terreno"
       ],
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
+    {
+      "id": "tmdb-848700",
+      "tmdbId": 848700,
+      "imdbId": "tt37118301",
+      "origine": "trailer",
+      "titolo": "Minotaur - Nel labirinto del potere",
+      "titoloOriginale": "Minotaure",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-29",
+      "regia": "Андрей Звягинцев",
+      "generi": [
+        "Dramma",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "Francia",
+        "Latvia",
+        "Germania"
+      ],
+      "durata": 135,
+      "tagline": null,
+      "cast": [
+        "Дмитрий Мазуров (Gleb)",
+        "Ирис Лебедева (Galina)",
+        "Варвара Шмыкова (Natasha)",
+        "Juris Žagars",
+        "Анатолий Белый",
+        "ולדימיר פרידמן (Mayor)"
+      ],
+      "tramaTmdb": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
+      "motivi": [
+        "dramma e thriller: il tuo terreno"
+      ],
+      "impronta": "Minotaur - Nel labirinto del potere|213|Андрей Звягинцев"
+    },
+    {
+      "id": "tmdb-1236045",
+      "tmdbId": 1236045,
+      "imdbId": "tt31049299",
+      "origine": "trailer",
+      "titolo": "Animals",
+      "titoloOriginale": "Animals",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-09",
+      "regia": "Ben Affleck",
+      "generi": [
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": null,
+      "cast": [
+        "Ben Affleck (Mark Kimball)",
+        "Kerry Washington (Abigail)",
+        "Steven Yeun",
+        "Gillian Anderson",
+        "Adriana Paz",
+        "Luis Gerardo Méndez"
+      ],
+      "tramaTmdb": "Milo Bradgord (Ben Affleck), il candidato a sindaco di Los Angeles,  si trova a vivere in un incubo, dopo che suo figlio viene rapito. Lui e sua moglie hanno poche ore per pagare il riscatto, ma hanno speso la maggior parte del loro denato per la campagna politica dell'uomo. I due saranno costretti a ricorrere a misure estreme per racimolare i soldi, sporcandosi le mani e rivelando un lato della loro vita che non avrebbero mai voluto portare alla luce...",
+      "motivi": [
+        "thriller, il tuo terreno"
+      ],
+      "impronta": "Animals|458|Ben Affleck"
     },
     {
       "id": "tmdb-1263337",
@@ -136,7 +204,8 @@
         "J.K. Simmons (Watkins)",
         "Anna Lambe (Amber)",
         "Justin Melnick (Military Soldier)",
-        "Shaun DeZern (Military Soldier)"
+        "Shaun DeZern (Military Soldier)",
+        "Uber (Odin)"
       ],
       "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
       "motivi": [
@@ -213,74 +282,6 @@
       "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
-      "id": "tmdb-1003596",
-      "tmdbId": 1003596,
-      "imdbId": "tt21357150",
-      "origine": "trailer",
-      "titolo": "Avengers: Doomsday",
-      "titoloOriginale": "Avengers: Doomsday",
-      "anno": "2026",
-      "uscitaItalia": "2026-12-16",
-      "regia": "Joe Russo",
-      "generi": [
-        "Fantascienza",
-        "Azione",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 165,
-      "tagline": null,
-      "cast": [
-        "Robert Downey Jr. (Victor von Doom  / Doctor Doom)",
-        "Chris Evans (Steve Rogers)",
-        "Chris Hemsworth (Thor)",
-        "Pedro Pascal (Reed Richards / Mister Fantastic)",
-        "Paul Rudd (Scott Lang / Ant-Man)",
-        "Anthony Mackie (Sam Wilson / Captain America)"
-      ],
-      "tramaTmdb": "Gli universi si scontrano e la Saga del Multiverso inizia il suo capitolo finale. Gli amati eroi di tre universi distinti si troveranno su una rotta di collisione mortale e dovranno affrontare una minaccia esistenziale diversa da qualsiasi altra abbiano mai incontrato.",
-      "motivi": [
-        "fantascienza e avventura: il tuo terreno"
-      ],
-      "impronta": "Avengers: Doomsday|269|Joe Russo"
-    },
-    {
-      "id": "tmdb-1422041",
-      "tmdbId": 1422041,
-      "imdbId": "tt35511966",
-      "origine": "trailer",
-      "titolo": "La bola negra",
-      "titoloOriginale": "La bola negra",
-      "anno": "2027",
-      "uscitaItalia": "2027-01-14",
-      "regia": "Javier Ambrossi",
-      "generi": [
-        "Dramma",
-        "Guerra"
-      ],
-      "paesi": [
-        "Spagna",
-        "Francia"
-      ],
-      "durata": 155,
-      "tagline": null,
-      "cast": [
-        "Guitarricadelafuente (Sebastián)",
-        "Miguel Bernardeau (Rafael)",
-        "Carlos González (Alberto)",
-        "Milo Quifes (Carlos)",
-        "Lola Dueñas (Teresa)",
-        "Penélope Cruz (Nené Romero)"
-      ],
-      "tramaTmdb": "Il film esplora cosa significa essere gay in diverse epoche, concentrandosi su “tre esistenze” collegate dai temi della sessualità, del desiderio, del dolore e dell’eredità.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "La bola negra|173|Javier Ambrossi"
-    },
-    {
       "id": "tmdb-791523",
       "tmdbId": 791523,
       "imdbId": "tt2056785",
@@ -330,7 +331,7 @@
         "Giappone",
         "USA"
       ],
-      "durata": 120,
+      "durata": null,
       "tagline": null,
       "cast": [
         "Andrew Koji (Ryu)",
@@ -379,347 +380,39 @@
       "impronta": "The Uprising|235|Paul Greengrass"
     },
     {
-      "id": "tmdb-149871",
-      "tmdbId": 149871,
-      "imdbId": "tt2576852",
+      "id": "tmdb-871",
+      "tmdbId": 871,
+      "imdbId": "tt0063442",
       "origine": "scoperta",
-      "titolo": "La storia della principessa splendente",
-      "titoloOriginale": "かぐや姫の物語",
-      "anno": "2014",
-      "uscitaItalia": "2014-11-03",
-      "regia": "高畑勲",
+      "titolo": "Il pianeta delle scimmie",
+      "titoloOriginale": "Planet of the Apes",
+      "anno": "1968",
+      "uscitaItalia": "1968-04-10",
+      "regia": "Franklin J. Schaffner",
       "generi": [
-        "Animazione",
+        "Fantascienza",
+        "Avventura",
         "Dramma",
-        "Fantasy"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 137,
-      "tagline": "Delitto e castigo di una principessa.",
-      "cast": [
-        "朝倉あき (The Princess Kaguya (voice))",
-        "地井武男 (Sanuki no Miyatsuko (voice))",
-        "宮本信子 (Ōna / Narrator (voice))",
-        "高良健吾 (Sutemaru (voice))",
-        "高畑淳子 (Lady Sagami (voice))",
-        "田畑智子 (Menowarawa (voice))"
-      ],
-      "tramaTmdb": "Un vecchio uomo vende bambù per sopravvivere. Un giorno, nelle canne di bambù, trova una piccola principessa, grande quanto un dito, di nome Kaguya. Quando Kaguya cresce, cinque uomini provenienti da altrettante prestigiose famiglie manifestano il desiderio di sposarla. Kaguya chiedere loro di trovare per lei cinque memorabili regali ma nessuno è in grado di portarle ciò che desidera veramente.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "La storia della principessa splendente|397|高畑勲"
-    },
-    {
-      "id": "tmdb-111",
-      "tmdbId": 111,
-      "imdbId": "tt0086250",
-      "origine": "scoperta",
-      "titolo": "Scarface",
-      "titoloOriginale": "Scarface",
-      "anno": "1984",
-      "uscitaItalia": "1984-04-20",
-      "regia": "Brian De Palma",
-      "generi": [
-        "Azione",
-        "Crime",
-        "Dramma"
+        "Azione"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 170,
-      "tagline": "La sua bramosia di potere non conosceva limiti.",
+      "durata": 119,
+      "tagline": "L'uomo... braccato... ingabbiato... da una civiltà rovescia!",
       "cast": [
-        "Al Pacino (Tony Montana)",
-        "Steven Bauer (Manny Ray)",
-        "Michelle Pfeiffer (Elvira)",
-        "Mary Elizabeth Mastrantonio (Gina)",
-        "Robert Loggia (Frank Lopez)",
-        "Miriam Colon (Mama Montana)"
+        "Charlton Heston (George Taylor)",
+        "Roddy McDowall (Cornelius)",
+        "Kim Hunter (Zira)",
+        "Maurice Evans (Dr. Zaius)",
+        "James Whitmore (President of the Assembly)",
+        "James Daly (Dr. Honorious)"
       ],
-      "tramaTmdb": "Ambientato nella Miami degli anni 80, l'intreccio si dipana tra il mondo degli immigrati cubani e quello dei signori della droga della east-coast. Tony Montana, lo sfregiato, è uno tra i tanti \"rifugiati politici\" in territorio statunitense, sbarcati sulle coste della Florida in seguito all'apertura delle carceri cubane. Per i profughi la via più veloce per abbandonare la degenza economica è darsi al crimine, e Tony, non certo uno stinco di santo, non ci penserà due volte. Comincerà così per il gangster una rapida ascesa, che arriverà a vertiginose quanto pericolose altezze.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Scarface|581|Brian De Palma"
-    },
-    {
-      "id": "tmdb-533535",
-      "tmdbId": 533535,
-      "imdbId": "tt6263850",
-      "origine": "scoperta",
-      "titolo": "Deadpool & Wolverine",
-      "titoloOriginale": "Deadpool & Wolverine",
-      "anno": "2024",
-      "uscitaItalia": "2024-07-24",
-      "regia": "Shawn Levy",
-      "generi": [
-        "Azione",
-        "Commedia",
-        "Fantascienza"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 127,
-      "tagline": "Veniamo insieme.",
-      "cast": [
-        "Ryan Reynolds (Wade Wilson / Deadpool / Nicepool)",
-        "Hugh Jackman (Logan / Wolverine)",
-        "Emma Corrin (Cassandra Nova)",
-        "Matthew Macfadyen (Mr. Paradox)",
-        "Dafne Keen (Laura / X-23)",
-        "Jon Favreau (Happy Hogan)"
-      ],
-      "tramaTmdb": "La vita di Wade Wilson, che ha ormai smesso di fare il mercenario in costume, non ha preso una bella piega. Negli ultimi anni la sua compagna l'ha lasciato e ora sta frequentando un altro uomo; al lavoro, come venditore di auto al fianco di Peter, gli affari arrancano; il colloquio per entrare negli Avengers è andato malissimo. Ciò nonostante Wade ha ancora i suoi amici intorno e, quando la TVA lo rapisce e gli comunica che la sua linea temporale sta per essere cancellata, ecco che Wade torna a mettere i panni di Deadpool e si lancia in una assurda impresa, per cui ha assolutamente bisogno di ",
+      "tramaTmdb": "Alcuni astronauti, risucchiati da un vortice, atterrano su un pianeta sconosciuto, dove scopriranno che le scimmie dominano gli altri esseri viventi, compresi gli umani, trattati alla stregua di schiavi.",
       "motivi": [
         "fantascienza: il tuo terreno"
       ],
-      "impronta": "Deadpool & Wolverine|600|Shawn Levy"
-    },
-    {
-      "id": "tmdb-9016",
-      "tmdbId": 9016,
-      "imdbId": "tt0133240",
-      "origine": "scoperta",
-      "titolo": "Il pianeta del tesoro",
-      "titoloOriginale": "Treasure Planet",
-      "anno": "2002",
-      "uscitaItalia": "2002-12-20",
-      "regia": "Ron Clements",
-      "generi": [
-        "Fantascienza",
-        "Avventura",
-        "Animazione",
-        "Famiglia",
-        "Fantasy"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 95,
-      "tagline": "Una grande emozionante avventura",
-      "cast": [
-        "Joseph Gordon-Levitt (Jim Hawkins (voice))",
-        "Brian Murray (John Silver (voice))",
-        "Emma Thompson (Captain Amelia (voice))",
-        "David Hyde Pierce (Doctor Doppler (voice))",
-        "Martin Short (B.E.N. (voice))",
-        "Dane A. Davis (Morph (voice))"
-      ],
-      "tramaTmdb": "Jim Hawkins è un adolescente inquieto che ha scoperto la mappa del tesoro del capitano Flint. Lo spirito d'avventura lo farà imbarcare su un vascello volante che lo porterà al pianeta dove giace questa immensa fortuna. Il lungo viaggio cambierà psicologicamente il ragazzo, anche grazie al rapporto intenso con John Silver, cuoco di bordo trasformato in cyborg; questi non è però l'innocuo vecchietto che vuole far credere, ma un vero pirata, e destituisce il comandante del vascello per cercare assieme alla sua ciurma il luogo del tesoro. Ci vorrà tutto il coraggio e l'intraprendenza del giovane J",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Il pianeta del tesoro|600|Ron Clements"
-    },
-    {
-      "id": "tmdb-18",
-      "tmdbId": 18,
-      "imdbId": "tt0119116",
-      "origine": "scoperta",
-      "titolo": "Il quinto elemento",
-      "titoloOriginale": "Le Cinquième Élément",
-      "anno": "1997",
-      "uscitaItalia": "1997-10-30",
-      "regia": "Luc Besson",
-      "generi": [
-        "Fantascienza",
-        "Azione",
-        "Avventura"
-      ],
-      "paesi": [
-        "Francia"
-      ],
-      "durata": 122,
-      "tagline": "Non c'è futuro senza di esso.",
-      "cast": [
-        "Bruce Willis (Korben Dallas)",
-        "Milla Jovovich (Leeloo)",
-        "Gary Oldman (Zorg)",
-        "Ian Holm (Cornelius)",
-        "Chris Tucker (Ruby Rhod)",
-        "Luke Perry (Billy)"
-      ],
-      "tramaTmdb": "Una congiunzione provoca l'apertura di un varco attraverso cui una forza penetra nel nostro universo. Gli antichi egizi lo sapevano, ed anzi erano i custodi dell'arma capace di arrestarla, basata sulla fusione dei quattro elementi primari: terra, acqua, fuoco e aria, e di un quinto elemento. Ma agli inizi del ventesimo secolo scendono sulla Terra i Mondoshawan, esseri superiori e benefici che portano via l'arma, promettendo di restituirla. Il momento arriva nel 2259, quando il passaggio si riapre e l'universo è di nuovo minacciato. I Mondoshawan rispediscono sulla Terra l'arma con il quinto el",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Il quinto elemento|600|Luc Besson"
-    },
-    {
-      "id": "tmdb-106",
-      "tmdbId": 106,
-      "imdbId": "tt0093773",
-      "origine": "scoperta",
-      "titolo": "Predator",
-      "titoloOriginale": "Predator",
-      "anno": "1987",
-      "uscitaItalia": "1987-08-22",
-      "regia": "John McTiernan",
-      "generi": [
-        "Fantascienza",
-        "Azione",
-        "Avventura",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 107,
-      "tagline": "La guerra era la sua professione .... questa volta non è guerra ma qualcosa di peggio!",
-      "cast": [
-        "Arnold Schwarzenegger (Major Alan 'Dutch' Schaefer)",
-        "Carl Weathers (Al Dillon)",
-        "Kevin Peter Hall (The Predator / Helicopter Pilot)",
-        "Elpidia Carrillo (Anna Gonsalves)",
-        "Bill Duke (Mac Eliot)",
-        "Jesse Ventura (Blain Cooper)"
-      ],
-      "tramaTmdb": "Un commando di soldati americani specialisti in guerriglia viene inviato nella giungla del centro america per distruggere un gruppo di guerriglieri. La missione viene rapidamente eseguita, ma sulla via del ritorno il commando diviene il bersaglio di un terrificante essere invisibile, il quale attacca gli uomini, li uccide e li squarta. In breve tempo Dutch, il comandante del gruppo rimane solo a fronteggiare quello che si rivela essere un cacciatore alieno dotato di armi e tecnologia superiori. Il coraggio, l'addestramento e un po' di fortuna consentiranno all'uomo di individuare i punti debol",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Predator|600|John McTiernan"
-    },
-    {
-      "id": "tmdb-782",
-      "tmdbId": 782,
-      "imdbId": "tt0119177",
-      "origine": "scoperta",
-      "titolo": "Gattaca - La porta dell'universo",
-      "titoloOriginale": "Gattaca",
-      "anno": "1998",
-      "uscitaItalia": "1998-03-06",
-      "regia": "Andrew Niccol",
-      "generi": [
-        "Fantascienza",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 106,
-      "tagline": "Come puoi nasconderti se stai fuggendo da te stesso?",
-      "cast": [
-        "Ethan Hawke (Vincent Freeman)",
-        "Uma Thurman (Irene Cassini)",
-        "Jude Law (Jerome Eugene Morrow)",
-        "Alan Arkin (Detective Hugo)",
-        "Loren Dean (Adult Anton Freeman)",
-        "Gore Vidal (Director Josef)"
-      ],
-      "tramaTmdb": "Nel prossimo futuro l'ingegneria genetica prenderà il sopravvento, distinguendo gli esseri umani in \"validi\", concepiti in provetta col DNA modificato, e \"non validi\", concepiti tradizionalmente. Così, Vincent Freeman, un non valido è costretto a falsificare la sua identità anagrafica per poter diventare un cosmonauta.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Gattaca - La porta dell'universo|320|Andrew Niccol"
-    },
-    {
-      "id": "tmdb-490",
-      "tmdbId": 490,
-      "imdbId": "tt0050976",
-      "origine": "scoperta",
-      "titolo": "Il settimo sigillo",
-      "titoloOriginale": "Det sjunde inseglet",
-      "anno": "1958",
-      "uscitaItalia": "1958-08-05",
-      "regia": "Ingmar Bergman",
-      "generi": [
-        "Fantasy",
-        "Dramma"
-      ],
-      "paesi": [
-        "Svezia"
-      ],
-      "durata": 98,
-      "tagline": null,
-      "cast": [
-        "Gunnar Björnstrand (Jöns)",
-        "Bengt Ekerot (Death)",
-        "Nils Poppe (Jof)",
-        "Max von Sydow (Antonius Block)",
-        "Bibi Andersson (Mia)",
-        "Inga Gill (Lisa)"
-      ],
-      "tramaTmdb": "La morte appare ad un cavaliere al suo ritorno dalla battaglia e cerca di portarlo via. Il cavaliere sfida la morte ad una partita a scacchi.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Il settimo sigillo|141|Ingmar Bergman"
-    },
-    {
-      "id": "tmdb-204922",
-      "tmdbId": 204922,
-      "imdbId": "tt1726592",
-      "origine": "scoperta",
-      "titolo": "Before I Go to Sleep",
-      "titoloOriginale": "Before I Go to Sleep",
-      "anno": "2014",
-      "uscitaItalia": "2014-09-03",
-      "regia": "Rowan Joffé",
-      "generi": [
-        "Thriller",
-        "Mistero"
-      ],
-      "paesi": [
-        "Francia",
-        "Svezia",
-        "Regno Unito"
-      ],
-      "durata": 91,
-      "tagline": null,
-      "cast": [
-        "Nicole Kidman (Christine)",
-        "Colin Firth (Ben)",
-        "Mark Strong (Dr. Nasch)",
-        "Ben Crompton (Warehouse Caretaker)",
-        "Anne-Marie Duff (Claire)",
-        "Adam Levy (Ben)"
-      ],
-      "tramaTmdb": "A causa di un traumatico incidente avvenuto in passato, una donna si risveglia ogni mattina senza ricordar nulla della sua vita. Un giorno, però, recupera la memoria e il venire a galla di nuove terrificanti verità la costringe a mettere in discussione il mondo e coloro che la circondano, intuendo di aver vissuto nella menzogna.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Before I Go to Sleep|330|Rowan Joffé"
-    },
-    {
-      "id": "tmdb-10191",
-      "tmdbId": 10191,
-      "imdbId": "tt0892769",
-      "origine": "scoperta",
-      "titolo": "Dragon Trainer",
-      "titoloOriginale": "How to Train Your Dragon",
-      "anno": "2010",
-      "uscitaItalia": "2010-03-26",
-      "regia": "Chris Sanders",
-      "generi": [
-        "Fantasy",
-        "Avventura",
-        "Animazione",
-        "Famiglia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": "Una avventura cambierà due mondi",
-      "cast": [
-        "Jay Baruchel (Hiccup (voice))",
-        "Gerard Butler (Stoick (voice))",
-        "Craig Ferguson (Gobber (voice))",
-        "America Ferrera (Astrid (voice))",
-        "Jonah Hill (Snotlout (voice))",
-        "Christopher Mintz-Plasse (Fishlegs (voice))"
-      ],
-      "tramaTmdb": "Hiccup è un giovane vichingo che vive in un villaggio sperduto nel nulla, in una landa fredda, inospitale, con poco da mangiare e soprattutto infestata dai draghi. Tuttavia i vichinghi invece che spostarsi preferiscono combattere, non a caso sono tutti grandi e grossi. Tutti tranne Hiccup, figlio del capo del villaggio, che è secco e inadatto al combattimento. Il ragazzo ha però una spiccata passione per la costruzione di macchinari con cui tenta di uccidere draghi e una conseguente inclinazione per la creazione di problemi...",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Dragon Trainer|532|Chris Sanders"
+      "impronta": "Il pianeta delle scimmie|203|Franklin J. Schaffner"
     }
   ]
 }

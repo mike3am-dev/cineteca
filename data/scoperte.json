@@ -1,829 +1,89 @@
 {
-  "aggiornato": "2026-10-08T11:43:48.273Z",
-  "giorno": "2026-10-08",
+  "aggiornato": "2026-10-09T11:37:02.221Z",
+  "giorno": "2026-10-09",
   "film": [
     {
-      "tmdbId": 149871,
-      "imdbId": "tt2576852",
-      "title": "La storia della principessa splendente",
-      "originalTitle": "かぐや姫の物語",
-      "release": "2014-11-03",
+      "tmdbId": 871,
+      "imdbId": "tt0063442",
+      "title": "Il pianeta delle scimmie",
+      "originalTitle": "Planet of the Apes",
+      "release": "1968-04-10",
       "releaseFonte": "IT",
       "genres": [
-        "Animazione",
+        "Fantascienza",
+        "Avventura",
         "Dramma",
-        "Fantasy"
-      ],
-      "countries": [
-        "Giappone"
-      ],
-      "runtime": 137,
-      "plot": "Un vecchio uomo vende bambù per sopravvivere. Un giorno, nelle canne di bambù, trova una piccola principessa, grande quanto un dito, di nome Kaguya. Quando Kaguya cresce, cinque uomini provenienti da altrettante prestigiose famiglie manifestano il desiderio di sposarla. Kaguya chiedere loro di trovare per lei cinque memorabili regali ma nessuno è in grado di portarle ciò che desidera veramente.",
-      "tagline": "Delitto e castigo di una principessa.",
-      "poster": "/xfOP0BrpIJsd0yToHzlCZ50GbCA.jpg",
-      "backdrop": "/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
-      "director": "高畑勲",
-      "cast": [
-        "朝倉あき",
-        "地井武男",
-        "宮本信子",
-        "高良健吾",
-        "高畑淳子"
-      ],
-      "castDetail": [
-        {
-          "name": "朝倉あき",
-          "character": "The Princess Kaguya (voice)",
-          "profile": "/65ZiHTem1HFNx4aHBcqQPdRRsPn.jpg"
-        },
-        {
-          "name": "地井武男",
-          "character": "Sanuki no Miyatsuko (voice)",
-          "profile": "/1DMf3RKwhtEipZAdmgj7hkkbe8V.jpg"
-        },
-        {
-          "name": "宮本信子",
-          "character": "Ōna / Narrator (voice)",
-          "profile": "/pkIBgyBP4UYOlqK8EnpJ1BMuv9D.jpg"
-        },
-        {
-          "name": "高良健吾",
-          "character": "Sutemaru (voice)",
-          "profile": "/wb293WmYQ7yTAtf3opmhCoTJQfa.jpg"
-        },
-        {
-          "name": "高畑淳子",
-          "character": "Lady Sagami (voice)",
-          "profile": "/xfVilFePWPW5qkJMa8GWQmvc5Fp.jpg"
-        },
-        {
-          "name": "田畑智子",
-          "character": "Menowarawa (voice)",
-          "profile": "/8jtrmUQWICGtcaCbeceLGqteVtq.jpg"
-        },
-        {
-          "name": "立川志の輔",
-          "character": "Lord Inbe no Akita (voice)",
-          "profile": "/sQsLUZLusjHBVwgH9dA9R2aZgwO.jpg"
-        },
-        {
-          "name": "上川隆也",
-          "character": "Prince Ishitsukuri (voice)",
-          "profile": "/ecgrhujjLwzqbYs83J4LIEqinfm.jpg"
-        }
-      ],
-      "tmdbRating": 8.1,
-      "tmdbVotes": 2062,
-      "popularity": 10.7331,
-      "trailer": "https://www.youtube.com/watch?v=K-38rJ5FhWk",
-      "fonte": "dramma: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 111,
-      "imdbId": "tt0086250",
-      "title": "Scarface",
-      "originalTitle": "Scarface",
-      "release": "1984-04-20",
-      "releaseFonte": "IT",
-      "genres": [
-        "Azione",
-        "Crime",
-        "Dramma"
+        "Azione"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 170,
-      "plot": "Ambientato nella Miami degli anni 80, l'intreccio si dipana tra il mondo degli immigrati cubani e quello dei signori della droga della east-coast. Tony Montana, lo sfregiato, è uno tra i tanti \"rifugiati politici\" in territorio statunitense, sbarcati sulle coste della Florida in seguito all'apertura delle carceri cubane. Per i profughi la via più veloce per abbandonare la degenza economica è darsi al crimine, e Tony, non certo uno stinco di santo, non ci penserà due volte. Comincerà così per il gangster una rapida ascesa, che arriverà a vertiginose quanto pericolose altezze.",
-      "tagline": "La sua bramosia di potere non conosceva limiti.",
-      "poster": "/9FPr6u95lpDEdIemLlETj5hwHG1.jpg",
-      "backdrop": "/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
-      "director": "Brian De Palma",
+      "runtime": 119,
+      "plot": "Alcuni astronauti, risucchiati da un vortice, atterrano su un pianeta sconosciuto, dove scopriranno che le scimmie dominano gli altri esseri viventi, compresi gli umani, trattati alla stregua di schiavi.",
+      "tagline": "L'uomo... braccato... ingabbiato... da una civiltà rovescia!",
+      "poster": "/dADo107GRIr8naOeKU24CQpi3Qj.jpg",
+      "backdrop": "/5t6ImiTApy90YJ2QgYOCkjeav58.jpg",
+      "director": "Franklin J. Schaffner",
       "cast": [
-        "Al Pacino",
-        "Steven Bauer",
-        "Michelle Pfeiffer",
-        "Mary Elizabeth Mastrantonio",
-        "Robert Loggia"
+        "Charlton Heston",
+        "Roddy McDowall",
+        "Kim Hunter",
+        "Maurice Evans",
+        "James Whitmore"
       ],
       "castDetail": [
         {
-          "name": "Al Pacino",
-          "character": "Tony Montana",
-          "profile": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+          "name": "Charlton Heston",
+          "character": "George Taylor",
+          "profile": "/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
         },
         {
-          "name": "Steven Bauer",
-          "character": "Manny Ray",
-          "profile": "/eMSeKPgfilE2v5VcmwSt5pxbp0x.jpg"
-        },
-        {
-          "name": "Michelle Pfeiffer",
-          "character": "Elvira",
-          "profile": "/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
-        },
-        {
-          "name": "Mary Elizabeth Mastrantonio",
-          "character": "Gina",
-          "profile": "/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
-        },
-        {
-          "name": "Robert Loggia",
-          "character": "Frank Lopez",
-          "profile": "/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
-        },
-        {
-          "name": "Miriam Colon",
-          "character": "Mama Montana",
-          "profile": "/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
-        },
-        {
-          "name": "F. Murray Abraham",
-          "character": "Omar",
-          "profile": "/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
-        },
-        {
-          "name": "Paul Shenar",
-          "character": "Alejandro Sosa",
-          "profile": "/kc0I4h9fTY8WP3wyQbwVWEzbmil.jpg"
-        }
-      ],
-      "tmdbRating": 8.154,
-      "tmdbVotes": 13522,
-      "popularity": 25.998,
-      "trailer": "https://www.youtube.com/watch?v=lZMIrD36MG8",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 533535,
-      "imdbId": "tt6263850",
-      "title": "Deadpool & Wolverine",
-      "originalTitle": "Deadpool & Wolverine",
-      "release": "2024-07-24",
-      "releaseFonte": "IT",
-      "genres": [
-        "Azione",
-        "Commedia",
-        "Fantascienza"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 127,
-      "plot": "La vita di Wade Wilson, che ha ormai smesso di fare il mercenario in costume, non ha preso una bella piega. Negli ultimi anni la sua compagna l'ha lasciato e ora sta frequentando un altro uomo; al lavoro, come venditore di auto al fianco di Peter, gli affari arrancano; il colloquio per entrare negli Avengers è andato malissimo. Ciò nonostante Wade ha ancora i suoi amici intorno e, quando la TVA lo rapisce e gli comunica che la sua linea temporale sta per essere cancellata, ecco che Wade torna a mettere i panni di Deadpool e si lancia in una assurda impresa, per cui ha assolutamente bisogno di ",
-      "tagline": "Veniamo insieme.",
-      "poster": "/tDYG0QPL54nUKDUoBPdvtsmzbBI.jpg",
-      "backdrop": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
-      "director": "Shawn Levy",
-      "cast": [
-        "Ryan Reynolds",
-        "Hugh Jackman",
-        "Emma Corrin",
-        "Matthew Macfadyen",
-        "Dafne Keen"
-      ],
-      "castDetail": [
-        {
-          "name": "Ryan Reynolds",
-          "character": "Wade Wilson / Deadpool / Nicepool",
-          "profile": "/trzgptffGvAlAT6MEu01fz47cLW.jpg"
-        },
-        {
-          "name": "Hugh Jackman",
-          "character": "Logan / Wolverine",
-          "profile": "/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
-        },
-        {
-          "name": "Emma Corrin",
-          "character": "Cassandra Nova",
-          "profile": "/miSbXJBlq6S3dVvOr7OoNL4axW6.jpg"
-        },
-        {
-          "name": "Matthew Macfadyen",
-          "character": "Mr. Paradox",
-          "profile": "/sFaIfkykJdftwrc3BdEfpdg2mYW.jpg"
-        },
-        {
-          "name": "Dafne Keen",
-          "character": "Laura / X-23",
-          "profile": "/34BhddK5z2YHjfppOleezVrQ7Jt.jpg"
-        },
-        {
-          "name": "Jon Favreau",
-          "character": "Happy Hogan",
-          "profile": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
-        },
-        {
-          "name": "Morena Baccarin",
-          "character": "Vanessa",
-          "profile": "/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
-        },
-        {
-          "name": "Rob Delaney",
-          "character": "Peter",
-          "profile": "/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
-        }
-      ],
-      "tmdbRating": 7.587,
-      "tmdbVotes": 9584,
-      "popularity": 63.3349,
-      "trailer": "https://www.youtube.com/watch?v=rExHNVA5qgg",
-      "fonte": "fantascienza: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 9016,
-      "imdbId": "tt0133240",
-      "title": "Il pianeta del tesoro",
-      "originalTitle": "Treasure Planet",
-      "release": "2002-12-20",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantascienza",
-        "Avventura",
-        "Animazione",
-        "Famiglia",
-        "Fantasy"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 95,
-      "plot": "Jim Hawkins è un adolescente inquieto che ha scoperto la mappa del tesoro del capitano Flint. Lo spirito d'avventura lo farà imbarcare su un vascello volante che lo porterà al pianeta dove giace questa immensa fortuna. Il lungo viaggio cambierà psicologicamente il ragazzo, anche grazie al rapporto intenso con John Silver, cuoco di bordo trasformato in cyborg; questi non è però l'innocuo vecchietto che vuole far credere, ma un vero pirata, e destituisce il comandante del vascello per cercare assieme alla sua ciurma il luogo del tesoro. Ci vorrà tutto il coraggio e l'intraprendenza del giovane J",
-      "tagline": "Una grande emozionante avventura",
-      "poster": "/9dBdCgBg9N88IU15eL2t1Kz0kls.jpg",
-      "backdrop": "/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg",
-      "director": "Ron Clements",
-      "cast": [
-        "Joseph Gordon-Levitt",
-        "Brian Murray",
-        "Emma Thompson",
-        "David Hyde Pierce",
-        "Martin Short"
-      ],
-      "castDetail": [
-        {
-          "name": "Joseph Gordon-Levitt",
-          "character": "Jim Hawkins (voice)",
-          "profile": "/z2FA8js799xqtfiFjBTicFYdfk.jpg"
-        },
-        {
-          "name": "Brian Murray",
-          "character": "John Silver (voice)",
-          "profile": "/hjbab72rP0PopqbRHo3MKdPDd2s.jpg"
-        },
-        {
-          "name": "Emma Thompson",
-          "character": "Captain Amelia (voice)",
-          "profile": "/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
-        },
-        {
-          "name": "David Hyde Pierce",
-          "character": "Doctor Doppler (voice)",
-          "profile": "/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
-        },
-        {
-          "name": "Martin Short",
-          "character": "B.E.N. (voice)",
-          "profile": "/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
-        },
-        {
-          "name": "Dane A. Davis",
-          "character": "Morph (voice)",
-          "profile": null
-        },
-        {
-          "name": "Michael Wincott",
-          "character": "Scroop (voice)",
-          "profile": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
-        },
-        {
-          "name": "Laurie Metcalf",
-          "character": "Sarah (voice)",
-          "profile": "/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
-        }
-      ],
-      "tmdbRating": 7.58,
-      "tmdbVotes": 4753,
-      "popularity": 24.8858,
-      "trailer": "https://www.youtube.com/watch?v=nYzW3jfoEUw",
-      "fonte": "fantascienza: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 18,
-      "imdbId": "tt0119116",
-      "title": "Il quinto elemento",
-      "originalTitle": "Le Cinquième Élément",
-      "release": "1997-10-30",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantascienza",
-        "Azione",
-        "Avventura"
-      ],
-      "countries": [
-        "Francia"
-      ],
-      "runtime": 122,
-      "plot": "Una congiunzione provoca l'apertura di un varco attraverso cui una forza penetra nel nostro universo. Gli antichi egizi lo sapevano, ed anzi erano i custodi dell'arma capace di arrestarla, basata sulla fusione dei quattro elementi primari: terra, acqua, fuoco e aria, e di un quinto elemento. Ma agli inizi del ventesimo secolo scendono sulla Terra i Mondoshawan, esseri superiori e benefici che portano via l'arma, promettendo di restituirla. Il momento arriva nel 2259, quando il passaggio si riapre e l'universo è di nuovo minacciato. I Mondoshawan rispediscono sulla Terra l'arma con il quinto el",
-      "tagline": "Non c'è futuro senza di esso.",
-      "poster": "/gVwSEpiGyAnwmmhaYh84pWqPupU.jpg",
-      "backdrop": "/jW21PoKwqs79wk6bfiYezox63mK.jpg",
-      "director": "Luc Besson",
-      "cast": [
-        "Bruce Willis",
-        "Milla Jovovich",
-        "Gary Oldman",
-        "Ian Holm",
-        "Chris Tucker"
-      ],
-      "castDetail": [
-        {
-          "name": "Bruce Willis",
-          "character": "Korben Dallas",
-          "profile": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
-        },
-        {
-          "name": "Milla Jovovich",
-          "character": "Leeloo",
-          "profile": "/usWnHCzbADijULREZYSJ0qfM00y.jpg"
-        },
-        {
-          "name": "Gary Oldman",
-          "character": "Zorg",
-          "profile": "/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
-        },
-        {
-          "name": "Ian Holm",
+          "name": "Roddy McDowall",
           "character": "Cornelius",
-          "profile": "/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+          "profile": "/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
         },
         {
-          "name": "Chris Tucker",
-          "character": "Ruby Rhod",
-          "profile": "/rE5OaSWp45pNpMm2TYbAwLgYoCn.jpg"
+          "name": "Kim Hunter",
+          "character": "Zira",
+          "profile": "/knu87rUxQVZ65Plp6BgoyasAHOT.jpg"
         },
         {
-          "name": "Luke Perry",
-          "character": "Billy",
-          "profile": "/78TAr0wLoRHyubnYxjyHNCt70V2.jpg"
+          "name": "Maurice Evans",
+          "character": "Dr. Zaius",
+          "profile": "/l5IKeUtuLMMb2oMj7VMOGFRgYK3.jpg"
         },
         {
-          "name": "Brion James",
-          "character": "General Munro",
-          "profile": "/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg"
+          "name": "James Whitmore",
+          "character": "President of the Assembly",
+          "profile": "/nYMAbkfwFIgKK84vnLoQctI6vHg.jpg"
         },
         {
-          "name": "Tommy Lister Jr.",
-          "character": "President Lindberg",
-          "profile": "/kHrfRLYyLhwfJEHHH8VNK9SyxpO.jpg"
+          "name": "James Daly",
+          "character": "Dr. Honorious",
+          "profile": "/nm0UHeXAiNFeqpLQ8izonYeVleR.jpg"
+        },
+        {
+          "name": "Linda Harrison",
+          "character": "Nova",
+          "profile": "/9TGLtHHLwGY4THTt1StPdf1tngF.jpg"
+        },
+        {
+          "name": "Robert Gunner",
+          "character": "Landon",
+          "profile": "/tmH4H9vdaXFlZltaMFFR0RYTDFq.jpg"
         }
       ],
-      "tmdbRating": 7.593,
-      "tmdbVotes": 12221,
-      "popularity": 28.874,
-      "trailer": "https://www.youtube.com/watch?v=bBwsFdB5Kl8",
+      "tmdbRating": 7.7,
+      "tmdbVotes": 4137,
+      "popularity": 16.9336,
+      "trailer": "https://www.youtube.com/watch?v=yt28cFS562o",
       "fonte": "fantascienza: il tuo terreno",
       "categoria": "il tuo genere",
       "perche": "fantascienza: il tuo terreno",
       "motivi": [
         "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 106,
-      "imdbId": "tt0093773",
-      "title": "Predator",
-      "originalTitle": "Predator",
-      "release": "1987-08-22",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantascienza",
-        "Azione",
-        "Avventura",
-        "Thriller"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 107,
-      "plot": "Un commando di soldati americani specialisti in guerriglia viene inviato nella giungla del centro america per distruggere un gruppo di guerriglieri. La missione viene rapidamente eseguita, ma sulla via del ritorno il commando diviene il bersaglio di un terrificante essere invisibile, il quale attacca gli uomini, li uccide e li squarta. In breve tempo Dutch, il comandante del gruppo rimane solo a fronteggiare quello che si rivela essere un cacciatore alieno dotato di armi e tecnologia superiori. Il coraggio, l'addestramento e un po' di fortuna consentiranno all'uomo di individuare i punti debol",
-      "tagline": "La guerra era la sua professione .... questa volta non è guerra ma qualcosa di peggio!",
-      "poster": "/quBFT8L0Soxd4Ls6Ok9DtZniIj7.jpg",
-      "backdrop": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
-      "director": "John McTiernan",
-      "cast": [
-        "Arnold Schwarzenegger",
-        "Carl Weathers",
-        "Kevin Peter Hall",
-        "Elpidia Carrillo",
-        "Bill Duke"
-      ],
-      "castDetail": [
-        {
-          "name": "Arnold Schwarzenegger",
-          "character": "Major Alan 'Dutch' Schaefer",
-          "profile": "/4jM3vsHIEQVeNFifiTAUDVAmiUo.jpg"
-        },
-        {
-          "name": "Carl Weathers",
-          "character": "Al Dillon",
-          "profile": "/oUwtC5hEbcIZv53WPerZ9HhlSJR.jpg"
-        },
-        {
-          "name": "Kevin Peter Hall",
-          "character": "The Predator / Helicopter Pilot",
-          "profile": "/wdW2sUAQPonZcQo8oDY1j60h7DP.jpg"
-        },
-        {
-          "name": "Elpidia Carrillo",
-          "character": "Anna Gonsalves",
-          "profile": "/u8ZEUAUdVjUE8DTddv81rE1Qer7.jpg"
-        },
-        {
-          "name": "Bill Duke",
-          "character": "Mac Eliot",
-          "profile": "/hZrYPwer5PeK77OEILkNWHVb3ss.jpg"
-        },
-        {
-          "name": "Jesse Ventura",
-          "character": "Blain Cooper",
-          "profile": "/j1OaAOYJbelxGrFMzlwz6wfGaXA.jpg"
-        },
-        {
-          "name": "Sonny Landham",
-          "character": "Billy Sole",
-          "profile": "/873kBnyYgm8xYyeb26EXdCGDgnv.jpg"
-        },
-        {
-          "name": "Richard Chaves",
-          "character": "Jorge 'Poncho' Ramirez",
-          "profile": "/leJa0My0VtHINCpmose619KXupp.jpg"
-        }
-      ],
-      "tmdbRating": 7.584,
-      "tmdbVotes": 9568,
-      "popularity": 21.1672,
-      "trailer": "https://www.youtube.com/watch?v=PwFyoyw0WZ8",
-      "fonte": "fantascienza: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 782,
-      "imdbId": "tt0119177",
-      "title": "Gattaca - La porta dell'universo",
-      "originalTitle": "Gattaca",
-      "release": "1998-03-06",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantascienza",
-        "Dramma"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 106,
-      "plot": "Nel prossimo futuro l'ingegneria genetica prenderà il sopravvento, distinguendo gli esseri umani in \"validi\", concepiti in provetta col DNA modificato, e \"non validi\", concepiti tradizionalmente. Così, Vincent Freeman, un non valido è costretto a falsificare la sua identità anagrafica per poter diventare un cosmonauta.",
-      "tagline": "Come puoi nasconderti se stai fuggendo da te stesso?",
-      "poster": "/t7mjUkvfsN8uqAFnbLyMH0pAN8w.jpg",
-      "backdrop": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
-      "director": "Andrew Niccol",
-      "cast": [
-        "Ethan Hawke",
-        "Uma Thurman",
-        "Jude Law",
-        "Alan Arkin",
-        "Loren Dean"
-      ],
-      "castDetail": [
-        {
-          "name": "Ethan Hawke",
-          "character": "Vincent Freeman",
-          "profile": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
-        },
-        {
-          "name": "Uma Thurman",
-          "character": "Irene Cassini",
-          "profile": "/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
-        },
-        {
-          "name": "Jude Law",
-          "character": "Jerome Eugene Morrow",
-          "profile": "/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
-        },
-        {
-          "name": "Alan Arkin",
-          "character": "Detective Hugo",
-          "profile": "/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
-        },
-        {
-          "name": "Loren Dean",
-          "character": "Adult Anton Freeman",
-          "profile": "/kkWuneJSgPLvNYknj30yqxdfIBr.jpg"
-        },
-        {
-          "name": "Gore Vidal",
-          "character": "Director Josef",
-          "profile": "/vHIIjpltpM9StRYmjjM7liAObuZ.jpg"
-        },
-        {
-          "name": "Tony Shalhoub",
-          "character": "\"German\"",
-          "profile": "/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
-        },
-        {
-          "name": "Ernest Borgnine",
-          "character": "Caesar",
-          "profile": "/vlq94UdNfjLnd9DAkKC94vKLfJJ.jpg"
-        }
-      ],
-      "tmdbRating": 7.567,
-      "tmdbVotes": 7190,
-      "popularity": 12.0463,
-      "trailer": "https://www.youtube.com/watch?v=Qawg0FxUklQ",
-      "fonte": "fantascienza: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 490,
-      "imdbId": "tt0050976",
-      "title": "Il settimo sigillo",
-      "originalTitle": "Det sjunde inseglet",
-      "release": "1958-08-05",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantasy",
-        "Dramma"
-      ],
-      "countries": [
-        "Svezia"
-      ],
-      "runtime": 98,
-      "plot": "La morte appare ad un cavaliere al suo ritorno dalla battaglia e cerca di portarlo via. Il cavaliere sfida la morte ad una partita a scacchi.",
-      "tagline": null,
-      "poster": "/ojwrVRmNlwv0WeDKbEsNPRBae6W.jpg",
-      "backdrop": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "director": "Ingmar Bergman",
-      "cast": [
-        "Gunnar Björnstrand",
-        "Bengt Ekerot",
-        "Nils Poppe",
-        "Max von Sydow",
-        "Bibi Andersson"
-      ],
-      "castDetail": [
-        {
-          "name": "Gunnar Björnstrand",
-          "character": "Jöns",
-          "profile": "/vy5Y0c1ACGCI6d4rVjmTM6HOqNN.jpg"
-        },
-        {
-          "name": "Bengt Ekerot",
-          "character": "Death",
-          "profile": "/4UxoMzIdE9PR4THNr3U2PL17veu.jpg"
-        },
-        {
-          "name": "Nils Poppe",
-          "character": "Jof",
-          "profile": "/qPXSktfOnVn2zlGFSoYUn8BQUhf.jpg"
-        },
-        {
-          "name": "Max von Sydow",
-          "character": "Antonius Block",
-          "profile": "/u16BsGyT6v9yuO7wWAF62NayDth.jpg"
-        },
-        {
-          "name": "Bibi Andersson",
-          "character": "Mia",
-          "profile": "/6EGqmWOR3R3jv3IgrEZmCjTAVGv.jpg"
-        },
-        {
-          "name": "Inga Gill",
-          "character": "Lisa",
-          "profile": "/vyAAK3pxc4F8cwlG52wIJ834P9S.jpg"
-        },
-        {
-          "name": "Maud Hansson",
-          "character": "Witch",
-          "profile": "/91sveuL9d3Lasq7V0ryWEvmda98.jpg"
-        },
-        {
-          "name": "Inga Landgré",
-          "character": "Karin",
-          "profile": "/dp6F73XAbjtki5zZoUiOcq6sS0Z.jpg"
-        }
-      ],
-      "tmdbRating": 8.1,
-      "tmdbVotes": 3476,
-      "popularity": 12.8128,
-      "trailer": "https://www.youtube.com/watch?v=s4l5E8hdzvI",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 204922,
-      "imdbId": "tt1726592",
-      "title": "Before I Go to Sleep",
-      "originalTitle": "Before I Go to Sleep",
-      "release": "2014-09-03",
-      "releaseFonte": "globale",
-      "genres": [
-        "Thriller",
-        "Mistero"
-      ],
-      "countries": [
-        "Francia",
-        "Svezia",
-        "Regno Unito"
-      ],
-      "runtime": 91,
-      "plot": "A causa di un traumatico incidente avvenuto in passato, una donna si risveglia ogni mattina senza ricordar nulla della sua vita. Un giorno, però, recupera la memoria e il venire a galla di nuove terrificanti verità la costringe a mettere in discussione il mondo e coloro che la circondano, intuendo di aver vissuto nella menzogna.",
-      "tagline": null,
-      "poster": "/1sSWpTupVixOanIpZdLGzsKvcZS.jpg",
-      "backdrop": "/4Vyrc1SGaBZZ0ZGDq4o6LcEgq1i.jpg",
-      "director": "Rowan Joffé",
-      "cast": [
-        "Nicole Kidman",
-        "Colin Firth",
-        "Mark Strong",
-        "Ben Crompton",
-        "Anne-Marie Duff"
-      ],
-      "castDetail": [
-        {
-          "name": "Nicole Kidman",
-          "character": "Christine",
-          "profile": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
-        },
-        {
-          "name": "Colin Firth",
-          "character": "Ben",
-          "profile": "/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
-        },
-        {
-          "name": "Mark Strong",
-          "character": "Dr. Nasch",
-          "profile": "/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
-        },
-        {
-          "name": "Ben Crompton",
-          "character": "Warehouse Caretaker",
-          "profile": "/tsHOfCvdONdzVun4xaWGE4a8t8S.jpg"
-        },
-        {
-          "name": "Anne-Marie Duff",
-          "character": "Claire",
-          "profile": "/fR3z8QgUDPb6Br5fUmm0ASPTWWx.jpg"
-        },
-        {
-          "name": "Adam Levy",
-          "character": "Ben",
-          "profile": "/8KnI3N5hqIirvP6E3bywaDR932p.jpg"
-        },
-        {
-          "name": "Gabriel Strong",
-          "character": "Boy on Bike",
-          "profile": null
-        },
-        {
-          "name": "Flynn MacArthur",
-          "character": "Boy in Dream",
-          "profile": "/kCVFtcoWoJe7mNSJtnUjREkvMLo.jpg"
-        }
-      ],
-      "tmdbRating": 6.49,
-      "tmdbVotes": 2223,
-      "popularity": 97.5184,
-      "trailer": "https://www.youtube.com/watch?v=Sx_BayaYx_0",
-      "fonte": "se ne parla adesso",
-      "categoria": "di tendenza",
-      "perche": "se ne parla adesso",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "proposto": "2026-10-08"
-    },
-    {
-      "tmdbId": 10191,
-      "imdbId": "tt0892769",
-      "title": "Dragon Trainer",
-      "originalTitle": "How to Train Your Dragon",
-      "release": "2010-03-26",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantasy",
-        "Avventura",
-        "Animazione",
-        "Famiglia"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 98,
-      "plot": "Hiccup è un giovane vichingo che vive in un villaggio sperduto nel nulla, in una landa fredda, inospitale, con poco da mangiare e soprattutto infestata dai draghi. Tuttavia i vichinghi invece che spostarsi preferiscono combattere, non a caso sono tutti grandi e grossi. Tutti tranne Hiccup, figlio del capo del villaggio, che è secco e inadatto al combattimento. Il ragazzo ha però una spiccata passione per la costruzione di macchinari con cui tenta di uccidere draghi e una conseguente inclinazione per la creazione di problemi...",
-      "tagline": "Una avventura cambierà due mondi",
-      "poster": "/oM6tE3LJ1Rw5EHVJg0MVCDY7Dvi.jpg",
-      "backdrop": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-      "director": "Chris Sanders",
-      "cast": [
-        "Jay Baruchel",
-        "Gerard Butler",
-        "Craig Ferguson",
-        "America Ferrera",
-        "Jonah Hill"
-      ],
-      "castDetail": [
-        {
-          "name": "Jay Baruchel",
-          "character": "Hiccup (voice)",
-          "profile": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
-        },
-        {
-          "name": "Gerard Butler",
-          "character": "Stoick (voice)",
-          "profile": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
-        },
-        {
-          "name": "Craig Ferguson",
-          "character": "Gobber (voice)",
-          "profile": "/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
-        },
-        {
-          "name": "America Ferrera",
-          "character": "Astrid (voice)",
-          "profile": "/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
-        },
-        {
-          "name": "Jonah Hill",
-          "character": "Snotlout (voice)",
-          "profile": "/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
-        },
-        {
-          "name": "Christopher Mintz-Plasse",
-          "character": "Fishlegs (voice)",
-          "profile": "/dnj2qyxmPt5JF5uurbXQLegppAx.jpg"
-        },
-        {
-          "name": "T.J. Miller",
-          "character": "Tuffnut (voice)",
-          "profile": "/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
-        },
-        {
-          "name": "Kristen Wiig",
-          "character": "Ruffnut (voice)",
-          "profile": "/6U6UGztBwk7c4lg8n5BS5QOByot.jpg"
-        }
-      ],
-      "tmdbRating": 7.868,
-      "tmdbVotes": 14791,
-      "popularity": 23.5618,
-      "trailer": "https://www.youtube.com/watch?v=6x1Kto8w8Vg",
-      "fonte": "avventura: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "proposto": "2026-10-08"
+      "proposto": "2026-10-09"
     }
   ],
   "storico": {
@@ -909,6 +169,7 @@
     "832": "2026-09-21",
     "843": "2026-10-07",
     "857": "2026-10-04",
+    "871": "2026-10-09",
     "901": "2026-09-18",
     "914": "2026-10-01",
     "962": "2026-10-04",
