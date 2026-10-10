@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-09T11:37:02.223Z",
+  "preparato": "2026-10-10T10:54:54.009Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -158,27 +158,27 @@
       "uscitaItalia": "2026-10-09",
       "regia": "Ben Affleck",
       "generi": [
-        "Crime",
-        "Thriller"
+        "Thriller",
+        "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 106,
+      "durata": 109,
       "tagline": null,
       "cast": [
         "Ben Affleck (Mark Kimball)",
-        "Kerry Washington (Abigail)",
-        "Steven Yeun",
-        "Gillian Anderson",
-        "Adriana Paz",
-        "Luis Gerardo Méndez"
+        "Kerry Washington (Abigail Kimball)",
+        "Gillian Anderson (Dayle Burton)",
+        "Steven Yeun (Sam Allison)",
+        "Adriana Paz (Cecilia Trujillo)",
+        "Luis Gerardo Méndez (Ramon)"
       ],
-      "tramaTmdb": "Milo Bradgord (Ben Affleck), il candidato a sindaco di Los Angeles,  si trova a vivere in un incubo, dopo che suo figlio viene rapito. Lui e sua moglie hanno poche ore per pagare il riscatto, ma hanno speso la maggior parte del loro denato per la campagna politica dell'uomo. I due saranno costretti a ricorrere a misure estreme per racimolare i soldi, sporcandosi le mani e rivelando un lato della loro vita che non avrebbero mai voluto portare alla luce...",
+      "tramaTmdb": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
       "motivi": [
-        "thriller, il tuo terreno"
+        "thriller e dramma: il tuo terreno"
       ],
-      "impronta": "Animals|458|Ben Affleck"
+      "impronta": "Animals|175|Ben Affleck"
     },
     {
       "id": "tmdb-1263337",
@@ -331,7 +331,7 @@
         "Giappone",
         "USA"
       ],
-      "durata": null,
+      "durata": 120,
       "tagline": null,
       "cast": [
         "Andrew Koji (Ryu)",
@@ -350,7 +350,7 @@
       "tmdbId": 977942,
       "imdbId": "tt36983905",
       "origine": "trailer",
-      "titolo": "The Uprising",
+      "titolo": "The Uprising - Cuore ribelle",
       "titoloOriginale": "The Uprising",
       "anno": "2026",
       "uscitaItalia": "2026-11-05",
@@ -377,42 +377,179 @@
       ],
       "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
       "motivi": [],
-      "impronta": "The Uprising|235|Paul Greengrass"
+      "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
     },
     {
-      "id": "tmdb-871",
-      "tmdbId": 871,
-      "imdbId": "tt0063442",
+      "id": "tmdb-12444",
+      "tmdbId": 12444,
+      "imdbId": "tt0926084",
       "origine": "scoperta",
-      "titolo": "Il pianeta delle scimmie",
-      "titoloOriginale": "Planet of the Apes",
-      "anno": "1968",
-      "uscitaItalia": "1968-04-10",
-      "regia": "Franklin J. Schaffner",
+      "titolo": "Harry Potter e i Doni della Morte - Parte 1",
+      "titoloOriginale": "Harry Potter and the Deathly Hallows: Part 1",
+      "anno": "2010",
+      "uscitaItalia": "2010-11-19",
+      "regia": "David Yates",
+      "generi": [
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 146,
+      "tagline": "Nessun luogo è sicuro.",
+      "cast": [
+        "Daniel Radcliffe (Harry Potter)",
+        "Emma Watson (Hermione Granger)",
+        "Rupert Grint (Ron Weasley)",
+        "Toby Jones (Dobby (voice))",
+        "Helena Bonham Carter (Bellatrix Lestrange)",
+        "Alan Rickman (Severus Snape)"
+      ],
+      "tramaTmdb": "Dopo la tragica conclusione dell'ultimo anno scolastico, gli alunni di Hogwarts si accingono a tornare a scuola. Ma questo non sarà un anno come gli altri per Harry, Ron e Hermione che si preparano a una pericolosissima missione: scoprire e distruggere il segreto dell'immortalità di Voldemort, gli Horcrux. Senza la guida dei loro insegnanti e senza la protezione del professor Silente i tre amici dovranno fare affidamento l'uno sull'altro, ma le Forze Oscure metteranno a repentaglio la loro amicizia! Nel frattempo il mondo dei maghi è diventato un posto pericoloso per tutti i nemici del Signore",
+      "motivi": [
+        "c'è Ralph Fiennes, che hai visto 2 volte",
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Harry Potter e i Doni della Morte - Parte 1|600|David Yates"
+    },
+    {
+      "id": "tmdb-78",
+      "tmdbId": 78,
+      "imdbId": "tt0083658",
+      "origine": "scoperta",
+      "titolo": "Blade Runner",
+      "titoloOriginale": "Blade Runner",
+      "anno": "1982",
+      "uscitaItalia": "1982-10-14",
+      "regia": "Ridley Scott",
       "generi": [
         "Fantascienza",
-        "Avventura",
         "Dramma",
-        "Azione"
+        "Thriller"
+      ],
+      "paesi": [
+        "USA",
+        "Hong Kong",
+        "Regno Unito"
+      ],
+      "durata": 117,
+      "tagline": "Anno 2019. L'uomo ha costruito il proprio simile. La più grande invenzione è diventata la più grande minaccia. La polizia impiega reparti speciali chiamati Blade Runner.",
+      "cast": [
+        "Harrison Ford (Deckard)",
+        "Rutger Hauer (Batty)",
+        "Sean Young (Rachael)",
+        "Edward James Olmos (Gaff)",
+        "M. Emmet Walsh (Bryant)",
+        "Daryl Hannah (Pris)"
+      ],
+      "tramaTmdb": "Rick Deckard è un ex agente del dipartimento di polizia di Los Angeles, richiamato in servizio quando un gruppo di sofisticati androidi replicante Nexus 6 fugge dalle colonie Extra-Mondo e torna clandestinamente sulla Terra in cerca del loro costruttore, colpevole di averli dotati di una vita molto breve. La caccia di Deckard sarà violenta e serrata, resa più complessa dalla presenza di Rachael, un avanzato tipo sperimentale di replicante, femminile quanto e forse più di una donna autentica. I Nexus 6 saranno ritirati uno dopo l'altro fino allo scontro con l'elemento alfa del gruppo, l'angelic",
+      "motivi": [
+        "regia di Ridley Scott, di cui hai visto un film",
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Blade Runner|600|Ridley Scott"
+    },
+    {
+      "id": "tmdb-240",
+      "tmdbId": 240,
+      "imdbId": "tt0071562",
+      "origine": "scoperta",
+      "titolo": "Il padrino - Parte II",
+      "titoloOriginale": "The Godfather Part II",
+      "anno": "1975",
+      "uscitaItalia": "1975-09-25",
+      "regia": "Francis Ford Coppola",
+      "generi": [
+        "Dramma",
+        "Crime"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 119,
-      "tagline": "L'uomo... braccato... ingabbiato... da una civiltà rovescia!",
+      "durata": 200,
+      "tagline": "Nella vita una sola cosa è certa: se la storia ci ha insegnato qualcosa, è che si può uccidere chiunque.",
       "cast": [
-        "Charlton Heston (George Taylor)",
-        "Roddy McDowall (Cornelius)",
-        "Kim Hunter (Zira)",
-        "Maurice Evans (Dr. Zaius)",
-        "James Whitmore (President of the Assembly)",
-        "James Daly (Dr. Honorious)"
+        "Al Pacino (Don Michael Corleone)",
+        "Robert Duvall (Tom Hagen)",
+        "Diane Keaton (Kay Corleone)",
+        "Robert De Niro (Vito Corleone)",
+        "John Cazale (Frederico 'Fredo' Corleone)",
+        "Talia Shire (Constanzia 'Connie' Corleone)"
       ],
-      "tramaTmdb": "Alcuni astronauti, risucchiati da un vortice, atterrano su un pianeta sconosciuto, dove scopriranno che le scimmie dominano gli altri esseri viventi, compresi gli umani, trattati alla stregua di schiavi.",
+      "tramaTmdb": "Il film tratta della giovinezza e dei primi passi nel mondo del crimine di Vito Corleone, e delle difficoltà cinquant'anni più tardi di suo figlio, Michael, a mantenere in piedi l'impero Corleone. Il tutto tra vicende di emigrazione, tradimenti familiari, inchieste governative e affari.",
       "motivi": [
-        "fantascienza: il tuo terreno"
+        "dramma: il tuo terreno"
       ],
-      "impronta": "Il pianeta delle scimmie|203|Franklin J. Schaffner"
+      "impronta": "Il padrino - Parte II|287|Francis Ford Coppola"
+    },
+    {
+      "id": "tmdb-129",
+      "tmdbId": 129,
+      "imdbId": "tt0245429",
+      "origine": "scoperta",
+      "titolo": "La città incantata",
+      "titoloOriginale": "千と千尋の神隠し",
+      "anno": "2003",
+      "uscitaItalia": "2003-04-18",
+      "regia": "Hayao Miyazaki",
+      "generi": [
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 125,
+      "tagline": "Il tunnel porta Chihiro in una città misteriosa...",
+      "cast": [
+        "柊瑠美 (Chihiro (voice))",
+        "Miyu Irino (Haku (voice))",
+        "Mari Natsuki (Yubaba / Zeniba (voice))",
+        "内藤剛志 (Father (voice))",
+        "Yasuko Sawaguchi (Mother (voice))",
+        "我修院達也 (Aogaeru (voice))"
+      ],
+      "tramaTmdb": "La piccola Chihiro non sopporta l'idea di traslocare e di perdere i propri amici, ma non può far niente per impedirlo. Proprio quando la famiglia è in viaggio verso la nuova casa, il padre imbocca una strada sterrata che termina davanti a un tunnel misterioso. I genitori sceglieranno di attraversarlo nonostante le rimostranze di Chihiro, per giungere a un parco dei divertimenti abbandonato, almeno apparentemente.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "La città incantata|416|Hayao Miyazaki"
+    },
+    {
+      "id": "tmdb-278",
+      "tmdbId": 278,
+      "imdbId": "tt0111161",
+      "origine": "scoperta",
+      "titolo": "Le ali della libertà",
+      "titoloOriginale": "The Shawshank Redemption",
+      "anno": "1995",
+      "uscitaItalia": "1995-02-10",
+      "regia": "Frank Darabont",
+      "generi": [
+        "Dramma",
+        "Crime"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 142,
+      "tagline": "La paura ti rende prigioniero, la speranza può renderti libero.",
+      "cast": [
+        "Tim Robbins (Andy Dufresne)",
+        "Morgan Freeman (Ellis Boyd 'Red' Redding)",
+        "Bob Gunton (Warden Norton)",
+        "William Sadler (Heywood)",
+        "Clancy Brown (Captain Byron T. Hadley)",
+        "Gil Bellows (Tommy)"
+      ],
+      "tramaTmdb": "Siamo nel 1946. Processato per l'omicidio della moglie e del suo amante, Andy, un bancario del New England, viene condannato a un doppio ergastolo e recluso nel penitenziario di Shawshank. All'inizio è vittima delle violenze dei reclusi, poi però diventa il consulente finanziario delle guardie. Scopre così che il direttore falsifica i libri contabili intestando i conti a un fittizio Randall Stevens. Fuggito di prigione attraverso un tunnel costruito negli anni, Andy assume l'identità di Randall Stevens, denuncia il direttore e va in Messico.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Le ali della libertà|547|Frank Darabont"
     }
   ]
 }
