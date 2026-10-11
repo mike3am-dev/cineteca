@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-10T10:54:54.009Z",
+  "preparato": "2026-10-11T11:09:32.747Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -282,6 +282,37 @@
       "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
+      "id": "tmdb-1422011",
+      "tmdbId": 1422011,
+      "imdbId": "tt35519455",
+      "origine": "trailer",
+      "titolo": "It Ends",
+      "titoloOriginale": "It Ends",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-28",
+      "regia": "Alexander Ullom",
+      "generi": [
+        "Horror",
+        "Mistero"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 89,
+      "tagline": null,
+      "cast": [
+        "Phinehas Yoon (James)",
+        "Akira Jackson (Day)",
+        "Noah Toth (Fisher)",
+        "Mitchell Cole (Tyler)",
+        "Jenny Doyle (Fisher's Mom (voice))",
+        "Jon Linstad (Interrogated Man)"
+      ],
+      "tramaTmdb": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
+      "motivi": [],
+      "impronta": "It Ends|414|Alexander Ullom"
+    },
+    {
       "id": "tmdb-791523",
       "tmdbId": 791523,
       "imdbId": "tt2056785",
@@ -346,210 +377,343 @@
       "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
-      "id": "tmdb-977942",
-      "tmdbId": 977942,
-      "imdbId": "tt36983905",
-      "origine": "trailer",
-      "titolo": "The Uprising - Cuore ribelle",
-      "titoloOriginale": "The Uprising",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Paul Greengrass",
-      "generi": [
-        "Storia",
-        "Dramma",
-        "Azione"
-      ],
-      "paesi": [
-        "Germania",
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 128,
-      "tagline": "Risorgi o muori.",
-      "cast": [
-        "Andrew Garfield (Ploughman)",
-        "Jamie Bell (John Ball)",
-        "Stephen Dillane (Archbishop Sudbury)",
-        "Woody Norman (King Richard II)",
-        "Tom Hollander (Treasurer Hales)",
-        "Cosmo Jarvis (Wat Tyler)"
-      ],
-      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
-      "motivi": [],
-      "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
-    },
-    {
-      "id": "tmdb-12444",
-      "tmdbId": 12444,
-      "imdbId": "tt0926084",
+      "id": "tmdb-20126",
+      "tmdbId": 20126,
+      "imdbId": "tt0073582",
       "origine": "scoperta",
-      "titolo": "Harry Potter e i Doni della Morte - Parte 1",
-      "titoloOriginale": "Harry Potter and the Deathly Hallows: Part 1",
-      "anno": "2010",
-      "uscitaItalia": "2010-11-19",
-      "regia": "David Yates",
+      "titolo": "Profondo rosso",
+      "titoloOriginale": "Profondo rosso",
+      "anno": "1975",
+      "uscitaItalia": "1975-03-07",
+      "regia": "Dario Argento",
       "generi": [
-        "Avventura",
-        "Fantasy"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 146,
-      "tagline": "Nessun luogo è sicuro.",
-      "cast": [
-        "Daniel Radcliffe (Harry Potter)",
-        "Emma Watson (Hermione Granger)",
-        "Rupert Grint (Ron Weasley)",
-        "Toby Jones (Dobby (voice))",
-        "Helena Bonham Carter (Bellatrix Lestrange)",
-        "Alan Rickman (Severus Snape)"
-      ],
-      "tramaTmdb": "Dopo la tragica conclusione dell'ultimo anno scolastico, gli alunni di Hogwarts si accingono a tornare a scuola. Ma questo non sarà un anno come gli altri per Harry, Ron e Hermione che si preparano a una pericolosissima missione: scoprire e distruggere il segreto dell'immortalità di Voldemort, gli Horcrux. Senza la guida dei loro insegnanti e senza la protezione del professor Silente i tre amici dovranno fare affidamento l'uno sull'altro, ma le Forze Oscure metteranno a repentaglio la loro amicizia! Nel frattempo il mondo dei maghi è diventato un posto pericoloso per tutti i nemici del Signore",
-      "motivi": [
-        "c'è Ralph Fiennes, che hai visto 2 volte",
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Harry Potter e i Doni della Morte - Parte 1|600|David Yates"
-    },
-    {
-      "id": "tmdb-78",
-      "tmdbId": 78,
-      "imdbId": "tt0083658",
-      "origine": "scoperta",
-      "titolo": "Blade Runner",
-      "titoloOriginale": "Blade Runner",
-      "anno": "1982",
-      "uscitaItalia": "1982-10-14",
-      "regia": "Ridley Scott",
-      "generi": [
-        "Fantascienza",
-        "Dramma",
+        "Horror",
+        "Mistero",
         "Thriller"
       ],
       "paesi": [
-        "USA",
-        "Hong Kong",
-        "Regno Unito"
+        "Italia"
       ],
-      "durata": 117,
-      "tagline": "Anno 2019. L'uomo ha costruito il proprio simile. La più grande invenzione è diventata la più grande minaccia. La polizia impiega reparti speciali chiamati Blade Runner.",
+      "durata": 123,
+      "tagline": null,
       "cast": [
-        "Harrison Ford (Deckard)",
-        "Rutger Hauer (Batty)",
-        "Sean Young (Rachael)",
-        "Edward James Olmos (Gaff)",
-        "M. Emmet Walsh (Bryant)",
-        "Daryl Hannah (Pris)"
+        "David Hemmings (Marcus Daly)",
+        "Daria Nicolodi (Gianna Brezzi)",
+        "Gabriele Lavia (Carlo)",
+        "Macha Méril (Helga Ulmann)",
+        "Eros Pagni (Supt. Calcabrini)",
+        "Giuliana Calandra (Amanda Righetti)"
       ],
-      "tramaTmdb": "Rick Deckard è un ex agente del dipartimento di polizia di Los Angeles, richiamato in servizio quando un gruppo di sofisticati androidi replicante Nexus 6 fugge dalle colonie Extra-Mondo e torna clandestinamente sulla Terra in cerca del loro costruttore, colpevole di averli dotati di una vita molto breve. La caccia di Deckard sarà violenta e serrata, resa più complessa dalla presenza di Rachael, un avanzato tipo sperimentale di replicante, femminile quanto e forse più di una donna autentica. I Nexus 6 saranno ritirati uno dopo l'altro fino allo scontro con l'elemento alfa del gruppo, l'angelic",
+      "tramaTmdb": "Marc Daly, un giovane pianista, è testimone dell’omicidio di una parapsicologa, ma non sa individuare l’assassino. Si mette a indagare per conto proprio, aiutato dall’amica Gianna, ma ben presto la situazione si fa intricatissima: tutte le persone che potrebbero aiutarlo nella soluzione del mistero rimangono vittime dell’efferato killer...",
       "motivi": [
-        "regia di Ridley Scott, di cui hai visto un film",
         "thriller: il tuo terreno"
       ],
-      "impronta": "Blade Runner|600|Ridley Scott"
+      "impronta": "Profondo rosso|341|Dario Argento"
     },
     {
-      "id": "tmdb-240",
-      "tmdbId": 240,
-      "imdbId": "tt0071562",
+      "id": "tmdb-244267",
+      "tmdbId": 244267,
+      "imdbId": "tt2884206",
       "origine": "scoperta",
-      "titolo": "Il padrino - Parte II",
-      "titoloOriginale": "The Godfather Part II",
-      "anno": "1975",
-      "uscitaItalia": "1975-09-25",
-      "regia": "Francis Ford Coppola",
+      "titolo": "I Origins",
+      "titoloOriginale": "I Origins",
+      "anno": "2014",
+      "uscitaItalia": "2014-07-18",
+      "regia": "Mike Cahill",
       "generi": [
-        "Dramma",
-        "Crime"
+        "Fantascienza",
+        "Dramma"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 200,
-      "tagline": "Nella vita una sola cosa è certa: se la storia ci ha insegnato qualcosa, è che si può uccidere chiunque.",
+      "durata": 113,
+      "tagline": null,
       "cast": [
-        "Al Pacino (Don Michael Corleone)",
-        "Robert Duvall (Tom Hagen)",
-        "Diane Keaton (Kay Corleone)",
-        "Robert De Niro (Vito Corleone)",
-        "John Cazale (Frederico 'Fredo' Corleone)",
-        "Talia Shire (Constanzia 'Connie' Corleone)"
+        "Michael Pitt (Ian Gray)",
+        "Brit Marling (Karen)",
+        "Astrid Bergès-Frisbey (Sofi)",
+        "Steven Yeun (Kenny)",
+        "Archie Panjabi (Priya Varma)",
+        "Cara Seymour (Dr. Jane Simmons)"
       ],
-      "tramaTmdb": "Il film tratta della giovinezza e dei primi passi nel mondo del crimine di Vito Corleone, e delle difficoltà cinquant'anni più tardi di suo figlio, Michael, a mantenere in piedi l'impero Corleone. Il tutto tra vicende di emigrazione, tradimenti familiari, inchieste governative e affari.",
+      "tramaTmdb": "Il dottor Ian Gray, dottorando in biologia molecolare e specializzato nel processo di evoluzione dell'occhio, lascia il suo laboratorio per partecipare a una festa. Lì conosce una giovane modella straniera. L'incontro è fugace, ma basta la visione degli occhi della ragazza per fare accendere qualcosa in Gray. Anni dopo, Ian e la sua assistente di laboratorio, Karen, fanno una scoperta sensazionale con profonde implicazioni esistenziali. A quel punto, il medico sa che - pur rischiando di perdere il lavoro della sua vita - dovrà recarsi dall'altra parte del mondo per validare (o confutare) la su",
       "motivi": [
-        "dramma: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Il padrino - Parte II|287|Francis Ford Coppola"
+      "impronta": "I Origins|600|Mike Cahill"
     },
     {
-      "id": "tmdb-129",
-      "tmdbId": 129,
-      "imdbId": "tt0245429",
+      "id": "tmdb-447362",
+      "tmdbId": 447362,
+      "imdbId": "tt6598238",
       "origine": "scoperta",
-      "titolo": "La città incantata",
-      "titoloOriginale": "千と千尋の神隠し",
-      "anno": "2003",
-      "uscitaItalia": "2003-04-18",
+      "titolo": "Life in a Year",
+      "titoloOriginale": "Life in a Year",
+      "anno": "2020",
+      "uscitaItalia": "2020-11-27",
+      "regia": "Mitja Okorn",
+      "generi": [
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 107,
+      "tagline": null,
+      "cast": [
+        "Jaden Smith (Daryn)",
+        "Cara Delevingne (Isabelle)",
+        "Cuba Gooding Jr. (Xavier)",
+        "Chris D'Elia (Phil)",
+        "JT Neal (Sammy)",
+        "Stony Blyden (Kiran)"
+      ],
+      "tramaTmdb": "Il diciassettenne Daryn scopre che la fidanzata sta per morire. Si propone allora di farle vivere un’intera vita nell’ultimo anno che, secondo i medici, le resta…",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Life in a Year|162|Mitja Okorn"
+    },
+    {
+      "id": "tmdb-1954",
+      "tmdbId": 1954,
+      "imdbId": "tt0289879",
+      "origine": "scoperta",
+      "titolo": "The Butterfly Effect",
+      "titoloOriginale": "The Butterfly Effect",
+      "anno": "2004",
+      "uscitaItalia": "2004-02-27",
+      "regia": "J. Mackye Gruber",
+      "generi": [
+        "Fantascienza",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 113,
+      "tagline": "Ci sono cose che non devono essere cambiate.",
+      "cast": [
+        "Ashton Kutcher (Evan Treborn)",
+        "Amy Smart (Kayleigh Miller)",
+        "Melora Walters (Andrea Treborn)",
+        "Elden Henson (Lenny Kagan)",
+        "William Lee Scott (Tommy Miller)",
+        "Eric Stoltz (George Miller)"
+      ],
+      "tramaTmdb": "Evan soffre di amnesie fin da bambino. Mentre rilegge alcuni avvenimenti traumatici nei suoi diari, viene catapultato indietro nel passato, che presto scopre di poter influenzare. Cambiare anche il minimo dettaglio, però, sconvolge tutto il suo vissuto, e il destino di Evan e dei suoi amici, al risveglio, è completamente cambiato.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "The Butterfly Effect|332|J. Mackye Gruber"
+    },
+    {
+      "id": "tmdb-4935",
+      "tmdbId": 4935,
+      "imdbId": "tt0347149",
+      "origine": "scoperta",
+      "titolo": "Il castello errante di Howl",
+      "titoloOriginale": "ハウルの動く城",
+      "anno": "2004",
+      "uscitaItalia": "2004-09-09",
       "regia": "Hayao Miyazaki",
       "generi": [
+        "Fantasy",
         "Animazione",
-        "Famiglia",
-        "Fantasy"
+        "Avventura"
       ],
       "paesi": [
         "Giappone"
       ],
-      "durata": 125,
-      "tagline": "Il tunnel porta Chihiro in una città misteriosa...",
+      "durata": 119,
+      "tagline": "I due vivevano lì.",
       "cast": [
-        "柊瑠美 (Chihiro (voice))",
-        "Miyu Irino (Haku (voice))",
-        "Mari Natsuki (Yubaba / Zeniba (voice))",
-        "内藤剛志 (Father (voice))",
-        "Yasuko Sawaguchi (Mother (voice))",
-        "我修院達也 (Aogaeru (voice))"
+        "倍賞千恵子 (Sophie (voice))",
+        "Takuya Kimura (Howl (voice))",
+        "Akihiro Miwa (Witch of the Waste (voice))",
+        "我修院達也 (Calcifer (voice))",
+        "Ryūnosuke Kamiki (Markl (voice))",
+        "伊崎充則 (Kosho (voice))"
       ],
-      "tramaTmdb": "La piccola Chihiro non sopporta l'idea di traslocare e di perdere i propri amici, ma non può far niente per impedirlo. Proprio quando la famiglia è in viaggio verso la nuova casa, il padre imbocca una strada sterrata che termina davanti a un tunnel misterioso. I genitori sceglieranno di attraversarlo nonostante le rimostranze di Chihiro, per giungere a un parco dei divertimenti abbandonato, almeno apparentemente.",
+      "tramaTmdb": "Sophie ha diciotto anni e ogni giorno lavora instancabilmente nel negozio di cappelli del suo defunto padre. Un giorno, durante una rara escursione in città, per caso incontra il Mago Howl. Howl è ardito e bello, ma come tutti i maghi un po' smidollato. La Strega della Spazzatura, equivocando la natura del loro rapporto, getta una maledizione su Sophie, trasformandola in una novantenne rugosa. Sophie va via di casa e girovaga in una distesa desolata dove per caso entra nel castello mobile di Howl. Nascondendo la sua identita', diventa la donna delle pulizie. La vecchia petulante Sophie rimette",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Il castello errante di Howl|600|Hayao Miyazaki"
+    },
+    {
+      "id": "tmdb-10376",
+      "tmdbId": 10376,
+      "imdbId": "tt0120731",
+      "origine": "scoperta",
+      "titolo": "La leggenda del pianista sull'oceano",
+      "titoloOriginale": "La leggenda del pianista sull'oceano",
+      "anno": "1998",
+      "uscitaItalia": "1998-10-28",
+      "regia": "Giuseppe Tornatore",
+      "generi": [
+        "Dramma",
+        "Musica"
+      ],
+      "paesi": [
+        "Italia"
+      ],
+      "durata": 165,
+      "tagline": "La storia di un uomo che poteva far tutto... tranne essere normale.",
+      "cast": [
+        "Tim Roth (Danny Boodmann T.D. Lemon Nineteen Hundred '1900')",
+        "Pruitt Taylor Vince (Max Tooney)",
+        "Mélanie Thierry (The Girl)",
+        "Bill Nunn (Danny Boodmann)",
+        "Gabriele Lavia (Farmer)",
+        "Clarence Williams III (Jelly Roll Morton)"
+      ],
+      "tramaTmdb": "Un operaio fuochista del transatlantico Virginian trova un neonato nascosto in un cesto, a bordo, e lo chiama Novecento, in omaggio al nuovo secolo che sta iniziando. Il ragazzino, dopo la morte del padre adottivo, cresce educato da tutto l'equipaggio del transatlantico e osserva i passeggeri che salgono a bordo: emigranti, ragazze, ricchi signori e le merci. Da adulto, Novecento si appassiona alla musica e suona il piano...",
       "motivi": [
         "un classico che ti manca"
       ],
-      "impronta": "La città incantata|416|Hayao Miyazaki"
+      "impronta": "La leggenda del pianista sull'oceano|428|Giuseppe Tornatore"
     },
     {
-      "id": "tmdb-278",
-      "tmdbId": 278,
-      "imdbId": "tt0111161",
+      "id": "tmdb-963",
+      "tmdbId": 963,
+      "imdbId": "tt0033870",
       "origine": "scoperta",
-      "titolo": "Le ali della libertà",
-      "titoloOriginale": "The Shawshank Redemption",
-      "anno": "1995",
-      "uscitaItalia": "1995-02-10",
-      "regia": "Frank Darabont",
+      "titolo": "Il mistero del falco",
+      "titoloOriginale": "The Maltese Falcon",
+      "anno": "1945",
+      "uscitaItalia": "1945-10-30",
+      "regia": "John Huston",
       "generi": [
-        "Dramma",
-        "Crime"
+        "Mistero",
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 142,
-      "tagline": "La paura ti rende prigioniero, la speranza può renderti libero.",
+      "durata": 100,
+      "tagline": null,
       "cast": [
-        "Tim Robbins (Andy Dufresne)",
-        "Morgan Freeman (Ellis Boyd 'Red' Redding)",
-        "Bob Gunton (Warden Norton)",
-        "William Sadler (Heywood)",
-        "Clancy Brown (Captain Byron T. Hadley)",
-        "Gil Bellows (Tommy)"
+        "Humphrey Bogart (Samuel Spade)",
+        "Mary Astor (Brigid O'Shaughnessy)",
+        "Gladys George (Iva Archer)",
+        "Peter Lorre (Joel Cairo)",
+        "Barton MacLane (Lt. of Detectives Dundy)",
+        "Lee Patrick (Effie Perine)"
       ],
-      "tramaTmdb": "Siamo nel 1946. Processato per l'omicidio della moglie e del suo amante, Andy, un bancario del New England, viene condannato a un doppio ergastolo e recluso nel penitenziario di Shawshank. All'inizio è vittima delle violenze dei reclusi, poi però diventa il consulente finanziario delle guardie. Scopre così che il direttore falsifica i libri contabili intestando i conti a un fittizio Randall Stevens. Fuggito di prigione attraverso un tunnel costruito negli anni, Andy assume l'identità di Randall Stevens, denuncia il direttore e va in Messico.",
+      "tramaTmdb": "Una misteriosa cliente (Astor) si rivolge a Sam Spade (Bogart) per ritrovare una preziosissima statuetta antica, raffigurante un falcone, a cui è interessato anche il gangster Joel Cairo (Lorre): dopo complicate vicende, Spade scoprirà che la statuetta è un falso e che la donna l’ha raggirato per ottenere un ingente somma di denaro.",
       "motivi": [
-        "dramma: il tuo terreno"
+        "thriller: il tuo terreno"
       ],
-      "impronta": "Le ali della libertà|547|Frank Darabont"
+      "impronta": "Il mistero del falco|334|John Huston"
+    },
+    {
+      "id": "tmdb-578",
+      "tmdbId": 578,
+      "imdbId": "tt0073195",
+      "origine": "scoperta",
+      "titolo": "Lo squalo",
+      "titoloOriginale": "Jaws",
+      "anno": "1975",
+      "uscitaItalia": "1975-12-19",
+      "regia": "Steven Spielberg",
+      "generi": [
+        "Horror",
+        "Thriller",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 124,
+      "tagline": "Non andare in acqua.",
+      "cast": [
+        "Roy Scheider (Brody)",
+        "Robert Shaw (Quint)",
+        "Richard Dreyfuss (Hooper)",
+        "Lorraine Gary (Ellen Brody)",
+        "Murray Hamilton (Vaughn)",
+        "Carl Gottlieb (Meadows)"
+      ],
+      "tramaTmdb": "Ad Amity, cittadina balneare del New England, si sparge il terrore per gli attacchi di un terribile squalo bianco. Un poliziotto, un ittiologo e un cacciatore di squali si mettono in mare per dargli la caccia.",
+      "motivi": [
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Lo squalo|209|Steven Spielberg"
+    },
+    {
+      "id": "tmdb-264660",
+      "tmdbId": 264660,
+      "imdbId": "tt0470752",
+      "origine": "scoperta",
+      "titolo": "Ex Machina",
+      "titoloOriginale": "Ex Machina",
+      "anno": "2015",
+      "uscitaItalia": "2015-07-30",
+      "regia": "Alex Garland",
+      "generi": [
+        "Dramma",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 108,
+      "tagline": "Non c'è niente di più umano della voglia di sopravvivere",
+      "cast": [
+        "Domhnall Gleeson (Caleb)",
+        "Alicia Vikander (Ava)",
+        "Oscar Isaac (Nathan)",
+        "Sonoya Mizuno (Kyoko)",
+        "Corey Johnson (Jay)",
+        "Claire Selby (Lily)"
+      ],
+      "tramaTmdb": "Caleb, un programmatore ventiquattrenne impiegato presso la più grande società informatica del mondo, si aggiudica la possibilità di trascorrere una settimana nel rifugio privato di montagna che appartiene a Nathan, il solitario CEO della società. Ma quando Caleb raggiunge la località remota, scopre che dovrà partecipare ad uno strano ed affascinante esperimento in cui occorrerà interagire con la prima vera intelligenza artificiale al mondo, dalle fattezze di una bellissima ragazza robot.",
+      "motivi": [
+        "c'è Oscar Isaac, che hai visto 2 volte",
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Ex Machina|493|Alex Garland"
+    },
+    {
+      "id": "tmdb-950396",
+      "tmdbId": 950396,
+      "imdbId": "tt13654226",
+      "origine": "scoperta",
+      "titolo": "Misteri dal profondo",
+      "titoloOriginale": "The Gorge",
+      "anno": "2025",
+      "uscitaItalia": "2025-02-13",
+      "regia": "Scott Derrickson",
+      "generi": [
+        "Romance",
+        "Fantascienza",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 128,
+      "tagline": "Nessuno entra, nessuno esce.",
+      "cast": [
+        "Miles Teller (Levi)",
+        "Anya Taylor-Joy (Drasa)",
+        "Sigourney Weaver (Bartholomew)",
+        "Ṣọpẹ́ Dìrísù (J.D.)",
+        "William Houston (Erikas)",
+        "Kobna Holdbrook-Smith (Black Ops Commander)"
+      ],
+      "tramaTmdb": "Due agenti speciali vengono mandati a sorvegliare i margini opposti di una misteriosa gola. La loro intesa cresce quando si ritrovano a tentare di sopravvivere al male oscuro che emerge dal profondo.",
+      "motivi": [
+        "c'è Anya Taylor-Joy, che hai visto 2 volte",
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Misteri dal profondo|199|Scott Derrickson"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-10T10:54:52.055Z",
+  "preparato": "2026-10-11T11:09:31.817Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,39 +79,74 @@
   },
   "film": [
     {
-      "id": "tmdb-1022787",
-      "tmdbId": 1022787,
-      "imdbId": "tt4900148",
-      "titolo": "Elio",
+      "id": "tmdb-1492198",
+      "tmdbId": 1492198,
+      "imdbId": "tt37171180",
+      "titolo": "Artificial",
       "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-06-18",
-      "lista": "casa",
-      "regia": "Madeline Sharafian",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-25",
+      "lista": "cinema",
+      "regia": "Luca Guadagnino",
       "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantascienza",
-        "Famiglia",
-        "Commedia"
+        "Commedia",
+        "Dramma"
       ],
       "paesi": [
+        "Italia",
+        "Gran Bretagna",
         "USA"
       ],
-      "durata": 98,
-      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
+      "durata": 140,
+      "tagline": null,
       "cast": [
-        "Yonas Kibreab (Elio / Other Elio (voice))",
-        "Remy Edgerly (Glordon (voice))",
-        "Zoe Saldaña (Olga Solís (voice))",
-        "Brad Garrett (Lord Grigon (voice))",
-        "Brandon Moon (Ambassador Helix (voice))",
-        "Jameela Jamil (Ambassador Questa (voice))",
-        "Young Dylan (Bryce (voice))",
-        "Jake T. Getman (Caleb (voice))"
+        "Andrew Garfield (Sam Altman)",
+        "Yura Borisov (Ilya Sutskever)",
+        "Jason Schwartzman (Zeke)",
+        "Cooper Koch",
+        "Cooper Hoffman (Greg Brockman)",
+        "Monica Barbaro (Mira Murati)",
+        "Billie Lourd",
+        "Zosia Mamet (Tasha McCauley)"
       ],
-      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Madeline Sharafian"
+      "tramaTmdb": "Quando l'informatico Ilya Sutskever e il pioniere dell'intelligenza artificiale Geoffrey Hinton faranno una svolta, sono certi che modificheranno l'umanità per sempre: le figure più importanti della Silicon Valley faranno a gara per diventare parte della loro visione. Anni dopo, dopo un incontro fortuito con Sam Altman, Sutskever e un gruppo di imprenditori idealisti creano OpenAI con il supporto di Elon Musk e l'assistenza dell'ingegnere Mira Murati.",
+      "impronta": "Artificial|455|Luca Guadagnino"
+    },
+    {
+      "id": "tmdb-1226863",
+      "tmdbId": 1226863,
+      "imdbId": "tt28650488",
+      "titolo": "Super Mario Galaxy - Il film",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-04-01",
+      "lista": "casa",
+      "regia": "Aaron Horvath",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": "La galassia ti attende.",
+      "cast": [
+        "Chris Pratt (Mario (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Benny Safdie (Bowser Junior (voice))",
+        "Donald Glover (Yoshi (voice))",
+        "Brie Larson (Rosalina (voice))"
+      ],
+      "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
+      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
     }
   ]
 }

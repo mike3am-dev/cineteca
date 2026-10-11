@@ -1,418 +1,825 @@
 {
-  "aggiornato": "2026-10-10T10:54:54.008Z",
-  "giorno": "2026-10-10",
+  "aggiornato": "2026-10-11T11:09:32.745Z",
+  "giorno": "2026-10-11",
   "film": [
     {
-      "tmdbId": 12444,
-      "imdbId": "tt0926084",
-      "title": "Harry Potter e i Doni della Morte - Parte 1",
-      "originalTitle": "Harry Potter and the Deathly Hallows: Part 1",
-      "release": "2010-11-19",
+      "tmdbId": 20126,
+      "imdbId": "tt0073582",
+      "title": "Profondo rosso",
+      "originalTitle": "Profondo rosso",
+      "release": "1975-03-07",
       "releaseFonte": "IT",
       "genres": [
-        "Avventura",
-        "Fantasy"
-      ],
-      "countries": [
-        "Regno Unito",
-        "USA"
-      ],
-      "runtime": 146,
-      "plot": "Dopo la tragica conclusione dell'ultimo anno scolastico, gli alunni di Hogwarts si accingono a tornare a scuola. Ma questo non sarà un anno come gli altri per Harry, Ron e Hermione che si preparano a una pericolosissima missione: scoprire e distruggere il segreto dell'immortalità di Voldemort, gli Horcrux. Senza la guida dei loro insegnanti e senza la protezione del professor Silente i tre amici dovranno fare affidamento l'uno sull'altro, ma le Forze Oscure metteranno a repentaglio la loro amicizia! Nel frattempo il mondo dei maghi è diventato un posto pericoloso per tutti i nemici del Signore",
-      "tagline": "Nessun luogo è sicuro.",
-      "poster": "/m5MdXW22RHKtYK8LGukJCJhoHMZ.jpg",
-      "backdrop": "/5i2QAYnbN5vOZUUolLPYHTb9spe.jpg",
-      "director": "David Yates",
-      "cast": [
-        "Daniel Radcliffe",
-        "Emma Watson",
-        "Rupert Grint",
-        "Toby Jones",
-        "Helena Bonham Carter"
-      ],
-      "castDetail": [
-        {
-          "name": "Daniel Radcliffe",
-          "character": "Harry Potter",
-          "profile": "/uUFfo8RANo7tuckB6AZAnESne55.jpg"
-        },
-        {
-          "name": "Emma Watson",
-          "character": "Hermione Granger",
-          "profile": "/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg"
-        },
-        {
-          "name": "Rupert Grint",
-          "character": "Ron Weasley",
-          "profile": "/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg"
-        },
-        {
-          "name": "Toby Jones",
-          "character": "Dobby (voice)",
-          "profile": "/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
-        },
-        {
-          "name": "Helena Bonham Carter",
-          "character": "Bellatrix Lestrange",
-          "profile": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
-        },
-        {
-          "name": "Alan Rickman",
-          "character": "Severus Snape",
-          "profile": "/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
-        },
-        {
-          "name": "Ralph Fiennes",
-          "character": "Lord Voldemort",
-          "profile": "/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
-        },
-        {
-          "name": "Bill Nighy",
-          "character": "Rufus Scrimgeour",
-          "profile": "/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
-        }
-      ],
-      "tmdbRating": 7.733,
-      "tmdbVotes": 20887,
-      "popularity": 36.7727,
-      "trailer": "https://www.youtube.com/watch?v=7UaDE96ZR5c",
-      "fonte": "avventura: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "c'è Ralph Fiennes, che hai visto 2 volte",
-      "motivi": [
-        "c'è Ralph Fiennes, che hai visto 2 volte",
-        "avventura: il tuo terreno"
-      ],
-      "proposto": "2026-10-10"
-    },
-    {
-      "tmdbId": 78,
-      "imdbId": "tt0083658",
-      "title": "Blade Runner",
-      "originalTitle": "Blade Runner",
-      "release": "1982-10-14",
-      "releaseFonte": "IT",
-      "genres": [
-        "Fantascienza",
-        "Dramma",
+        "Horror",
+        "Mistero",
         "Thriller"
       ],
       "countries": [
-        "USA",
-        "Hong Kong",
-        "Regno Unito"
+        "Italia"
       ],
-      "runtime": 117,
-      "plot": "Rick Deckard è un ex agente del dipartimento di polizia di Los Angeles, richiamato in servizio quando un gruppo di sofisticati androidi replicante Nexus 6 fugge dalle colonie Extra-Mondo e torna clandestinamente sulla Terra in cerca del loro costruttore, colpevole di averli dotati di una vita molto breve. La caccia di Deckard sarà violenta e serrata, resa più complessa dalla presenza di Rachael, un avanzato tipo sperimentale di replicante, femminile quanto e forse più di una donna autentica. I Nexus 6 saranno ritirati uno dopo l'altro fino allo scontro con l'elemento alfa del gruppo, l'angelic",
-      "tagline": "Anno 2019. L'uomo ha costruito il proprio simile. La più grande invenzione è diventata la più grande minaccia. La polizia impiega reparti speciali chiamati Blade Runner.",
-      "poster": "/2mPclQ5v9YK0eqCefvav3YsYPYI.jpg",
-      "backdrop": "/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg",
-      "director": "Ridley Scott",
+      "runtime": 123,
+      "plot": "Marc Daly, un giovane pianista, è testimone dell’omicidio di una parapsicologa, ma non sa individuare l’assassino. Si mette a indagare per conto proprio, aiutato dall’amica Gianna, ma ben presto la situazione si fa intricatissima: tutte le persone che potrebbero aiutarlo nella soluzione del mistero rimangono vittime dell’efferato killer...",
+      "tagline": null,
+      "poster": "/wP6geQutTBbQcDY43ytGOTUVV9e.jpg",
+      "backdrop": "/45gBntOgkEKjyRhUJpdPJI9jzMi.jpg",
+      "director": "Dario Argento",
       "cast": [
-        "Harrison Ford",
-        "Rutger Hauer",
-        "Sean Young",
-        "Edward James Olmos",
-        "M. Emmet Walsh"
+        "David Hemmings",
+        "Daria Nicolodi",
+        "Gabriele Lavia",
+        "Macha Méril",
+        "Eros Pagni"
       ],
       "castDetail": [
         {
-          "name": "Harrison Ford",
-          "character": "Deckard",
-          "profile": "/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+          "name": "David Hemmings",
+          "character": "Marcus Daly",
+          "profile": "/xU0DylXHjiRTJlZ3czZ6luFF7uZ.jpg"
         },
         {
-          "name": "Rutger Hauer",
-          "character": "Batty",
-          "profile": "/xyag0LbjocTwx2Ht7B3RofvCNMT.jpg"
+          "name": "Daria Nicolodi",
+          "character": "Gianna Brezzi",
+          "profile": "/9cfqgKunrAX5g86WvHnSKG8NVOi.jpg"
         },
         {
-          "name": "Sean Young",
-          "character": "Rachael",
-          "profile": "/yfJADYt6xYPpg1g7Z7TTW0bcL2s.jpg"
+          "name": "Gabriele Lavia",
+          "character": "Carlo",
+          "profile": "/xjLiYd6fHszM8w5NiGBcSKd1mk9.jpg"
         },
         {
-          "name": "Edward James Olmos",
-          "character": "Gaff",
-          "profile": "/yleTij2PUEgaMLw8xYbLAt7UqIo.jpg"
+          "name": "Macha Méril",
+          "character": "Helga Ulmann",
+          "profile": "/6OR2ZNsGuwX8Nn1OAXe99wthNfN.jpg"
         },
         {
-          "name": "M. Emmet Walsh",
-          "character": "Bryant",
-          "profile": "/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg"
+          "name": "Eros Pagni",
+          "character": "Supt. Calcabrini",
+          "profile": "/scIKz8Ordl5ONCO0firEXOJCx0e.jpg"
         },
         {
-          "name": "Daryl Hannah",
-          "character": "Pris",
-          "profile": "/5FllFmoiaru7tjXJ6Orc11OpQcw.jpg"
+          "name": "Giuliana Calandra",
+          "character": "Amanda Righetti",
+          "profile": "/7gZa6l850zmQIITkTMD117BFrdw.jpg"
         },
         {
-          "name": "William Sanderson",
-          "character": "Sebastian",
-          "profile": "/i3JfaavAFq9ayeJ4doUaOGjHMMW.jpg"
+          "name": "Piero Mazzinghi",
+          "character": "Bardi",
+          "profile": null
         },
         {
-          "name": "Brion James",
-          "character": "Leon",
-          "profile": "/qy5jIIsWrNCV1OVRaUiqYNhLLVT.jpg"
+          "name": "Glauco Mauri",
+          "character": "Prof. Giordani",
+          "profile": "/ucv6v3VKo9vm8xaJgZsFLIQE2qt.jpg"
         }
       ],
-      "tmdbRating": 7.937,
-      "tmdbVotes": 15496,
-      "popularity": 27.9879,
-      "trailer": "https://www.youtube.com/watch?v=1BY0XjWtc-c",
+      "tmdbRating": 7.7,
+      "tmdbVotes": 1651,
+      "popularity": 6.354,
+      "trailer": "https://www.youtube.com/watch?v=55xnS3IIyas",
       "fonte": "thriller: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "regia di Ridley Scott, di cui hai visto un film",
+      "perche": "thriller: il tuo terreno",
       "motivi": [
-        "regia di Ridley Scott, di cui hai visto un film",
         "thriller: il tuo terreno"
       ],
-      "proposto": "2026-10-10"
+      "proposto": "2026-10-11"
     },
     {
-      "tmdbId": 240,
-      "imdbId": "tt0071562",
-      "title": "Il padrino - Parte II",
-      "originalTitle": "The Godfather Part II",
-      "release": "1975-09-25",
-      "releaseFonte": "IT",
+      "tmdbId": 244267,
+      "imdbId": "tt2884206",
+      "title": "I Origins",
+      "originalTitle": "I Origins",
+      "release": "2014-07-18",
+      "releaseFonte": "globale",
       "genres": [
-        "Dramma",
-        "Crime"
+        "Fantascienza",
+        "Dramma"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 200,
-      "plot": "Il film tratta della giovinezza e dei primi passi nel mondo del crimine di Vito Corleone, e delle difficoltà cinquant'anni più tardi di suo figlio, Michael, a mantenere in piedi l'impero Corleone. Il tutto tra vicende di emigrazione, tradimenti familiari, inchieste governative e affari.",
-      "tagline": "Nella vita una sola cosa è certa: se la storia ci ha insegnato qualcosa, è che si può uccidere chiunque.",
-      "poster": "/jftmAcdl5D94eANbhHugbUJDULI.jpg",
-      "backdrop": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
-      "director": "Francis Ford Coppola",
+      "runtime": 113,
+      "plot": "Il dottor Ian Gray, dottorando in biologia molecolare e specializzato nel processo di evoluzione dell'occhio, lascia il suo laboratorio per partecipare a una festa. Lì conosce una giovane modella straniera. L'incontro è fugace, ma basta la visione degli occhi della ragazza per fare accendere qualcosa in Gray. Anni dopo, Ian e la sua assistente di laboratorio, Karen, fanno una scoperta sensazionale con profonde implicazioni esistenziali. A quel punto, il medico sa che - pur rischiando di perdere il lavoro della sua vita - dovrà recarsi dall'altra parte del mondo per validare (o confutare) la su",
+      "tagline": null,
+      "poster": "/1yJC3SNXLLKe14UXULzGLMSHqkE.jpg",
+      "backdrop": "/cr8pv3Iel9T5Z3WTJX5VqvdIpAm.jpg",
+      "director": "Mike Cahill",
       "cast": [
-        "Al Pacino",
-        "Robert Duvall",
-        "Diane Keaton",
-        "Robert De Niro",
-        "John Cazale"
+        "Michael Pitt",
+        "Brit Marling",
+        "Astrid Bergès-Frisbey",
+        "Steven Yeun",
+        "Archie Panjabi"
       ],
       "castDetail": [
         {
-          "name": "Al Pacino",
-          "character": "Don Michael Corleone",
-          "profile": "/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+          "name": "Michael Pitt",
+          "character": "Ian Gray",
+          "profile": "/mKSjyfqcXTVjFhIFw6Esjlz1Tps.jpg"
         },
         {
-          "name": "Robert Duvall",
-          "character": "Tom Hagen",
-          "profile": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+          "name": "Brit Marling",
+          "character": "Karen",
+          "profile": "/38pSHsK7DKdOYmdeBOKqyunA45e.jpg"
         },
         {
-          "name": "Diane Keaton",
-          "character": "Kay Corleone",
-          "profile": "/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+          "name": "Astrid Bergès-Frisbey",
+          "character": "Sofi",
+          "profile": "/2mcTwrg61M7beQv05YQFPLWADmc.jpg"
         },
         {
-          "name": "Robert De Niro",
-          "character": "Vito Corleone",
-          "profile": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+          "name": "Steven Yeun",
+          "character": "Kenny",
+          "profile": "/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
         },
         {
-          "name": "John Cazale",
-          "character": "Frederico 'Fredo' Corleone",
-          "profile": "/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg"
+          "name": "Archie Panjabi",
+          "character": "Priya Varma",
+          "profile": "/1kSx9zUPwpTe35TbL7T2BWOp3bp.jpg"
         },
         {
-          "name": "Talia Shire",
-          "character": "Constanzia 'Connie' Corleone",
-          "profile": "/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+          "name": "Cara Seymour",
+          "character": "Dr. Jane Simmons",
+          "profile": "/dYzhA0tw1OPU50vtXsfgSGKSwpf.jpg"
         },
         {
-          "name": "Lee Strasberg",
-          "character": "Hyman Roth",
-          "profile": "/niSM7ejzddgaTcxjgJMYEFCr9Y2.jpg"
+          "name": "Venida Evans",
+          "character": "Margaret Dairy",
+          "profile": "/hHRYKElq9iOp1ZdFiLlzVHwv38b.jpg"
         },
         {
-          "name": "Michael V. Gazzo",
-          "character": "Frank Pentangeli",
-          "profile": "/cTY2Hlf6sIR9xLI95bBir7eI0N.jpg"
+          "name": "William Mapother",
+          "character": "Darryl Mackenzie",
+          "profile": "/k4TqA37bSoMz1VTyw9wPh3ptGch.jpg"
         }
       ],
-      "tmdbRating": 8.6,
-      "tmdbVotes": 14438,
-      "popularity": 39.6949,
-      "trailer": "https://www.youtube.com/watch?v=me9ATu6Lc3c",
-      "fonte": "dramma: il tuo terreno",
+      "tmdbRating": 7.6,
+      "tmdbVotes": 3581,
+      "popularity": 10.5762,
+      "trailer": "https://www.youtube.com/watch?v=sEGppIgwKf0",
+      "fonte": "fantascienza: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
+      "perche": "fantascienza: il tuo terreno",
       "motivi": [
-        "dramma: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-10-10"
+      "proposto": "2026-10-11"
     },
     {
-      "tmdbId": 129,
-      "imdbId": "tt0245429",
-      "title": "La città incantata",
-      "originalTitle": "千と千尋の神隠し",
-      "release": "2003-04-18",
-      "releaseFonte": "IT",
+      "tmdbId": 447362,
+      "imdbId": "tt6598238",
+      "title": "Life in a Year",
+      "originalTitle": "Life in a Year",
+      "release": "2020-11-27",
+      "releaseFonte": "globale",
       "genres": [
-        "Animazione",
-        "Famiglia",
-        "Fantasy"
+        "Dramma",
+        "Romance"
       ],
       "countries": [
-        "Giappone"
+        "USA"
       ],
-      "runtime": 125,
-      "plot": "La piccola Chihiro non sopporta l'idea di traslocare e di perdere i propri amici, ma non può far niente per impedirlo. Proprio quando la famiglia è in viaggio verso la nuova casa, il padre imbocca una strada sterrata che termina davanti a un tunnel misterioso. I genitori sceglieranno di attraversarlo nonostante le rimostranze di Chihiro, per giungere a un parco dei divertimenti abbandonato, almeno apparentemente.",
-      "tagline": "Il tunnel porta Chihiro in una città misteriosa...",
-      "poster": "/3PV6lq9BNmoyyDXr5tdNeeESEMn.jpg",
-      "backdrop": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
-      "director": "Hayao Miyazaki",
+      "runtime": 107,
+      "plot": "Il diciassettenne Daryn scopre che la fidanzata sta per morire. Si propone allora di farle vivere un’intera vita nell’ultimo anno che, secondo i medici, le resta…",
+      "tagline": null,
+      "poster": "/bP7u19opmHXYeTCUwGjlLldmUMc.jpg",
+      "backdrop": "/u6aGN71Hx39iX8Uv4ILRRKHmAXc.jpg",
+      "director": "Mitja Okorn",
       "cast": [
-        "柊瑠美",
-        "Miyu Irino",
-        "Mari Natsuki",
-        "内藤剛志",
-        "Yasuko Sawaguchi"
+        "Jaden Smith",
+        "Cara Delevingne",
+        "Cuba Gooding Jr.",
+        "Chris D'Elia",
+        "JT Neal"
       ],
       "castDetail": [
         {
-          "name": "柊瑠美",
-          "character": "Chihiro (voice)",
-          "profile": "/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg"
+          "name": "Jaden Smith",
+          "character": "Daryn",
+          "profile": "/aXCn1kRjs4sZS55xSrdmjbht7SM.jpg"
         },
         {
-          "name": "Miyu Irino",
-          "character": "Haku (voice)",
-          "profile": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+          "name": "Cara Delevingne",
+          "character": "Isabelle",
+          "profile": "/c4tJZGeygZf0tX2VCyOqzxICijb.jpg"
         },
         {
-          "name": "Mari Natsuki",
-          "character": "Yubaba / Zeniba (voice)",
-          "profile": "/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg"
+          "name": "Cuba Gooding Jr.",
+          "character": "Xavier",
+          "profile": "/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
         },
         {
-          "name": "内藤剛志",
-          "character": "Father (voice)",
-          "profile": "/xwsm0ygjG79jLIogutwo6r64igy.jpg"
+          "name": "Chris D'Elia",
+          "character": "Phil",
+          "profile": "/hfstFQUoIeOidHTHX9UHIGRTrmc.jpg"
         },
         {
-          "name": "Yasuko Sawaguchi",
-          "character": "Mother (voice)",
-          "profile": "/rWspusb13VeJowmctnniXYYTcqq.jpg"
+          "name": "JT Neal",
+          "character": "Sammy",
+          "profile": "/619XoheJeeajNAUQd9hwnPSoUCB.jpg"
         },
         {
-          "name": "我修院達也",
-          "character": "Aogaeru (voice)",
-          "profile": "/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+          "name": "Stony Blyden",
+          "character": "Kiran",
+          "profile": "/pBlaz9d6tou01mZWoTACsJx7qVv.jpg"
         },
         {
-          "name": "Ryūnosuke Kamiki",
-          "character": "Boh (voice)",
-          "profile": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+          "name": "Peter MacNeill",
+          "character": "James Maxwell",
+          "profile": "/9Y2O97Awq5BUH3qfWL3EUveurqI.jpg"
         },
         {
-          "name": "玉井夕海",
-          "character": "Rin (voice)",
-          "profile": "/x9Td7e5F21cK9S1FCkobfqiJZ1c.jpg"
+          "name": "RZA",
+          "character": "Ron",
+          "profile": "/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
         }
       ],
-      "tmdbRating": 8.536,
-      "tmdbVotes": 19018,
-      "popularity": 41.4588,
-      "trailer": "https://www.youtube.com/watch?v=XuYQKqn65-M",
+      "tmdbRating": 8.223,
+      "tmdbVotes": 2012,
+      "popularity": 8.621,
+      "trailer": "https://www.youtube.com/watch?v=BgmJ14p4Uuk",
       "fonte": "un classico che ti manca",
       "categoria": "un classico",
       "perche": "un classico che ti manca",
       "motivi": [
         "un classico che ti manca"
       ],
-      "proposto": "2026-10-10"
+      "proposto": "2026-10-11"
     },
     {
-      "tmdbId": 278,
-      "imdbId": "tt0111161",
-      "title": "Le ali della libertà",
-      "originalTitle": "The Shawshank Redemption",
-      "release": "1995-02-10",
+      "tmdbId": 1954,
+      "imdbId": "tt0289879",
+      "title": "The Butterfly Effect",
+      "originalTitle": "The Butterfly Effect",
+      "release": "2004-02-27",
       "releaseFonte": "IT",
       "genres": [
-        "Dramma",
-        "Crime"
+        "Fantascienza",
+        "Thriller"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 142,
-      "plot": "Siamo nel 1946. Processato per l'omicidio della moglie e del suo amante, Andy, un bancario del New England, viene condannato a un doppio ergastolo e recluso nel penitenziario di Shawshank. All'inizio è vittima delle violenze dei reclusi, poi però diventa il consulente finanziario delle guardie. Scopre così che il direttore falsifica i libri contabili intestando i conti a un fittizio Randall Stevens. Fuggito di prigione attraverso un tunnel costruito negli anni, Andy assume l'identità di Randall Stevens, denuncia il direttore e va in Messico.",
-      "tagline": "La paura ti rende prigioniero, la speranza può renderti libero.",
-      "poster": "/9OxcvTJwZDjQTFvY2NxiwnSrQS6.jpg",
-      "backdrop": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-      "director": "Frank Darabont",
+      "runtime": 113,
+      "plot": "Evan soffre di amnesie fin da bambino. Mentre rilegge alcuni avvenimenti traumatici nei suoi diari, viene catapultato indietro nel passato, che presto scopre di poter influenzare. Cambiare anche il minimo dettaglio, però, sconvolge tutto il suo vissuto, e il destino di Evan e dei suoi amici, al risveglio, è completamente cambiato.",
+      "tagline": "Ci sono cose che non devono essere cambiate.",
+      "poster": "/n0uWWDmFTm8mwNAiviwFkOXurTZ.jpg",
+      "backdrop": "/75UPGUm2Zm6M60szq1gQisDF4g.jpg",
+      "director": "J. Mackye Gruber",
       "cast": [
-        "Tim Robbins",
-        "Morgan Freeman",
-        "Bob Gunton",
-        "William Sadler",
-        "Clancy Brown"
+        "Ashton Kutcher",
+        "Amy Smart",
+        "Melora Walters",
+        "Elden Henson",
+        "William Lee Scott"
       ],
       "castDetail": [
         {
-          "name": "Tim Robbins",
-          "character": "Andy Dufresne",
-          "profile": "/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+          "name": "Ashton Kutcher",
+          "character": "Evan Treborn",
+          "profile": "/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
         },
         {
-          "name": "Morgan Freeman",
-          "character": "Ellis Boyd 'Red' Redding",
-          "profile": "/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+          "name": "Amy Smart",
+          "character": "Kayleigh Miller",
+          "profile": "/9GQwkmqd5klfXvhd29YI5OKAx3N.jpg"
         },
         {
-          "name": "Bob Gunton",
-          "character": "Warden Norton",
-          "profile": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+          "name": "Melora Walters",
+          "character": "Andrea Treborn",
+          "profile": "/FSxiDBekrKgmzow1j3UhmNHOhI.jpg"
         },
         {
-          "name": "William Sadler",
-          "character": "Heywood",
-          "profile": "/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+          "name": "Elden Henson",
+          "character": "Lenny Kagan",
+          "profile": "/8U5g30U76UJe0erbJdWjGLVz7NF.jpg"
         },
         {
-          "name": "Clancy Brown",
-          "character": "Captain Byron T. Hadley",
-          "profile": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+          "name": "William Lee Scott",
+          "character": "Tommy Miller",
+          "profile": "/p6mISLnDP84gaBOiXSpOenFO8Zd.jpg"
         },
         {
-          "name": "Gil Bellows",
-          "character": "Tommy",
-          "profile": "/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+          "name": "Eric Stoltz",
+          "character": "George Miller",
+          "profile": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
         },
         {
-          "name": "James Whitmore",
-          "character": "Brooks Hatlen",
-          "profile": "/nYMAbkfwFIgKK84vnLoQctI6vHg.jpg"
+          "name": "Ethan Suplee",
+          "character": "Thumper",
+          "profile": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
         },
         {
-          "name": "Mark Rolston",
-          "character": "Bogs Diamond",
-          "profile": "/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+          "name": "Logan Lerman",
+          "character": "Evan Treborn age 7",
+          "profile": "/ckcpgSvSWOhi8mvAfR1Cpsakg3S.jpg"
         }
       ],
-      "tmdbRating": 8.732,
-      "tmdbVotes": 31537,
-      "popularity": 56.2484,
-      "trailer": "https://www.youtube.com/watch?v=0ly4vMdPBo0",
-      "fonte": "dramma: il tuo terreno",
+      "tmdbRating": 7.6,
+      "tmdbVotes": 8596,
+      "popularity": 14.3023,
+      "trailer": "https://www.youtube.com/watch?v=KctopagSGJE",
+      "fonte": "fantascienza: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
+      "perche": "fantascienza: il tuo terreno",
       "motivi": [
-        "dramma: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-10-10"
+      "proposto": "2026-10-11"
+    },
+    {
+      "tmdbId": 4935,
+      "imdbId": "tt0347149",
+      "title": "Il castello errante di Howl",
+      "originalTitle": "ハウルの動く城",
+      "release": "2004-09-09",
+      "releaseFonte": "IT",
+      "genres": [
+        "Fantasy",
+        "Animazione",
+        "Avventura"
+      ],
+      "countries": [
+        "Giappone"
+      ],
+      "runtime": 119,
+      "plot": "Sophie ha diciotto anni e ogni giorno lavora instancabilmente nel negozio di cappelli del suo defunto padre. Un giorno, durante una rara escursione in città, per caso incontra il Mago Howl. Howl è ardito e bello, ma come tutti i maghi un po' smidollato. La Strega della Spazzatura, equivocando la natura del loro rapporto, getta una maledizione su Sophie, trasformandola in una novantenne rugosa. Sophie va via di casa e girovaga in una distesa desolata dove per caso entra nel castello mobile di Howl. Nascondendo la sua identita', diventa la donna delle pulizie. La vecchia petulante Sophie rimette",
+      "tagline": "I due vivevano lì.",
+      "poster": "/5Sr9s8ZesaDKQhZl2fMuvOxIaxQ.jpg",
+      "backdrop": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+      "director": "Hayao Miyazaki",
+      "cast": [
+        "倍賞千恵子",
+        "Takuya Kimura",
+        "Akihiro Miwa",
+        "我修院達也",
+        "Ryūnosuke Kamiki"
+      ],
+      "castDetail": [
+        {
+          "name": "倍賞千恵子",
+          "character": "Sophie (voice)",
+          "profile": "/u4mVoOgrqGutrPGi7ZHV1zRAtLK.jpg"
+        },
+        {
+          "name": "Takuya Kimura",
+          "character": "Howl (voice)",
+          "profile": "/sswCg8kvFsgSaVJwcIKKe4K7jOe.jpg"
+        },
+        {
+          "name": "Akihiro Miwa",
+          "character": "Witch of the Waste (voice)",
+          "profile": "/20n18waqgVo5zSO6Ot0d4fz3jAM.jpg"
+        },
+        {
+          "name": "我修院達也",
+          "character": "Calcifer (voice)",
+          "profile": "/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+        },
+        {
+          "name": "Ryūnosuke Kamiki",
+          "character": "Markl (voice)",
+          "profile": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+        },
+        {
+          "name": "伊崎充則",
+          "character": "Kosho (voice)",
+          "profile": "/qg7TOjxWW2UMvUJglQ7fyLlE3gI.jpg"
+        },
+        {
+          "name": "大泉洋",
+          "character": "Prince Justin / Turnip Head (voice)",
+          "profile": "/qw5KLuww2AEAk6JEssEkJY3wBn1.jpg"
+        },
+        {
+          "name": "Akio Ōtsuka",
+          "character": "King of Ingary (voice)",
+          "profile": "/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+        }
+      ],
+      "tmdbRating": 8.389,
+      "tmdbVotes": 11552,
+      "popularity": 46.3487,
+      "trailer": "https://www.youtube.com/watch?v=FmPUVEh686w",
+      "fonte": "avventura: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "avventura: il tuo terreno",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "proposto": "2026-10-11"
+    },
+    {
+      "tmdbId": 10376,
+      "imdbId": "tt0120731",
+      "title": "La leggenda del pianista sull'oceano",
+      "originalTitle": "La leggenda del pianista sull'oceano",
+      "release": "1998-10-28",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Musica"
+      ],
+      "countries": [
+        "Italia"
+      ],
+      "runtime": 165,
+      "plot": "Un operaio fuochista del transatlantico Virginian trova un neonato nascosto in un cesto, a bordo, e lo chiama Novecento, in omaggio al nuovo secolo che sta iniziando. Il ragazzino, dopo la morte del padre adottivo, cresce educato da tutto l'equipaggio del transatlantico e osserva i passeggeri che salgono a bordo: emigranti, ragazze, ricchi signori e le merci. Da adulto, Novecento si appassiona alla musica e suona il piano...",
+      "tagline": "La storia di un uomo che poteva far tutto... tranne essere normale.",
+      "poster": "/8rttNpb83qdHFMPMgFlcspVGaio.jpg",
+      "backdrop": "/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+      "director": "Giuseppe Tornatore",
+      "cast": [
+        "Tim Roth",
+        "Pruitt Taylor Vince",
+        "Mélanie Thierry",
+        "Bill Nunn",
+        "Gabriele Lavia"
+      ],
+      "castDetail": [
+        {
+          "name": "Tim Roth",
+          "character": "Danny Boodmann T.D. Lemon Nineteen Hundred '1900'",
+          "profile": "/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+        },
+        {
+          "name": "Pruitt Taylor Vince",
+          "character": "Max Tooney",
+          "profile": "/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+        },
+        {
+          "name": "Mélanie Thierry",
+          "character": "The Girl",
+          "profile": "/bzyr9QHNQhLwyxQ6mzN24HPyy3s.jpg"
+        },
+        {
+          "name": "Bill Nunn",
+          "character": "Danny Boodmann",
+          "profile": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+        },
+        {
+          "name": "Gabriele Lavia",
+          "character": "Farmer",
+          "profile": "/xjLiYd6fHszM8w5NiGBcSKd1mk9.jpg"
+        },
+        {
+          "name": "Clarence Williams III",
+          "character": "Jelly Roll Morton",
+          "profile": "/6tzuvVTlBxx0oWjoT3hFTfbVqUp.jpg"
+        },
+        {
+          "name": "Peter Vaughan",
+          "character": "'Pops', the Shopkeeper",
+          "profile": "/pqblKGyukQmyTbMTAhFG1B2mgFq.jpg"
+        },
+        {
+          "name": "Niall O'Brien",
+          "character": "Harbor Master",
+          "profile": null
+        }
+      ],
+      "tmdbRating": 8.2,
+      "tmdbVotes": 2507,
+      "popularity": 9.167,
+      "trailer": "https://www.youtube.com/watch?v=ydM-MZjZZ4I",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-11"
+    },
+    {
+      "tmdbId": 963,
+      "imdbId": "tt0033870",
+      "title": "Il mistero del falco",
+      "originalTitle": "The Maltese Falcon",
+      "release": "1945-10-30",
+      "releaseFonte": "IT",
+      "genres": [
+        "Mistero",
+        "Crime",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 100,
+      "plot": "Una misteriosa cliente (Astor) si rivolge a Sam Spade (Bogart) per ritrovare una preziosissima statuetta antica, raffigurante un falcone, a cui è interessato anche il gangster Joel Cairo (Lorre): dopo complicate vicende, Spade scoprirà che la statuetta è un falso e che la donna l’ha raggirato per ottenere un ingente somma di denaro.",
+      "tagline": null,
+      "poster": "/gek06OlNn074e4GlT4M21OP8wfO.jpg",
+      "backdrop": "/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+      "director": "John Huston",
+      "cast": [
+        "Humphrey Bogart",
+        "Mary Astor",
+        "Gladys George",
+        "Peter Lorre",
+        "Barton MacLane"
+      ],
+      "castDetail": [
+        {
+          "name": "Humphrey Bogart",
+          "character": "Samuel Spade",
+          "profile": "/4pk2VbOb2td7iBZyir6Ji46HH4N.jpg"
+        },
+        {
+          "name": "Mary Astor",
+          "character": "Brigid O'Shaughnessy",
+          "profile": "/jeZ8NZ2vf1kIgq4YrDZ2Ae2QN5m.jpg"
+        },
+        {
+          "name": "Gladys George",
+          "character": "Iva Archer",
+          "profile": "/yniYGj7MqG13UZNLDQWh28RR6tK.jpg"
+        },
+        {
+          "name": "Peter Lorre",
+          "character": "Joel Cairo",
+          "profile": "/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
+        },
+        {
+          "name": "Barton MacLane",
+          "character": "Lt. of Detectives Dundy",
+          "profile": "/5lrfsloSoznUSZWf9NYywYRLtDW.jpg"
+        },
+        {
+          "name": "Lee Patrick",
+          "character": "Effie Perine",
+          "profile": "/zlLezqw2Klyw1qt0uxePQtC9NZ6.jpg"
+        },
+        {
+          "name": "Sydney Greenstreet",
+          "character": "Kasper Gutman",
+          "profile": "/67bcDUjZEXrTpOTejsweP53KQGV.jpg"
+        },
+        {
+          "name": "Ward Bond",
+          "character": "Detective Tom Polhaus",
+          "profile": "/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+        }
+      ],
+      "tmdbRating": 7.703,
+      "tmdbVotes": 1954,
+      "popularity": 7.9272,
+      "trailer": "https://www.youtube.com/watch?v=Yv-BPuqhW9U",
+      "fonte": "thriller: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "thriller: il tuo terreno",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "proposto": "2026-10-11"
+    },
+    {
+      "tmdbId": 578,
+      "imdbId": "tt0073195",
+      "title": "Lo squalo",
+      "originalTitle": "Jaws",
+      "release": "1975-12-19",
+      "releaseFonte": "IT",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Avventura"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 124,
+      "plot": "Ad Amity, cittadina balneare del New England, si sparge il terrore per gli attacchi di un terribile squalo bianco. Un poliziotto, un ittiologo e un cacciatore di squali si mettono in mare per dargli la caccia.",
+      "tagline": "Non andare in acqua.",
+      "poster": "/zHO7LcDKgAM1sLAZ1Y9yuWc7W7B.jpg",
+      "backdrop": "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss",
+        "Lorraine Gary",
+        "Murray Hamilton"
+      ],
+      "castDetail": [
+        {
+          "name": "Roy Scheider",
+          "character": "Brody",
+          "profile": "/yyZ0DwUz3qAelJIUGVoOktGgMIh.jpg"
+        },
+        {
+          "name": "Robert Shaw",
+          "character": "Quint",
+          "profile": "/c8SIbGEmGIfhD9bObSf4FELUEns.jpg"
+        },
+        {
+          "name": "Richard Dreyfuss",
+          "character": "Hooper",
+          "profile": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg"
+        },
+        {
+          "name": "Lorraine Gary",
+          "character": "Ellen Brody",
+          "profile": "/6JKNdZopypnFnD9xSSlDs6YTHMC.jpg"
+        },
+        {
+          "name": "Murray Hamilton",
+          "character": "Vaughn",
+          "profile": "/kEAXyzRQ5POdciTjAUjRW4lIslj.jpg"
+        },
+        {
+          "name": "Carl Gottlieb",
+          "character": "Meadows",
+          "profile": "/tXsKWTANoQLwLyXTUteuDcDIc8b.jpg"
+        },
+        {
+          "name": "Jeffrey Kramer",
+          "character": "Hendricks",
+          "profile": "/tLlMHQtZWhR3qHXBu1RR6NanERX.jpg"
+        },
+        {
+          "name": "Susan Backlinie",
+          "character": "Chrissie",
+          "profile": "/A0WzKdjIf7MFxyV4adJE5vMRn5J.jpg"
+        }
+      ],
+      "tmdbRating": 7.7,
+      "tmdbVotes": 11920,
+      "popularity": 24.7789,
+      "trailer": "https://www.youtube.com/watch?v=u90wr5cp2JM",
+      "fonte": "thriller: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "regia di Steven Spielberg, di cui hai visto un film",
+      "motivi": [
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "thriller: il tuo terreno"
+      ],
+      "proposto": "2026-10-11"
+    },
+    {
+      "tmdbId": 264660,
+      "imdbId": "tt0470752",
+      "title": "Ex Machina",
+      "originalTitle": "Ex Machina",
+      "release": "2015-07-30",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Fantascienza"
+      ],
+      "countries": [
+        "Regno Unito",
+        "USA"
+      ],
+      "runtime": 108,
+      "plot": "Caleb, un programmatore ventiquattrenne impiegato presso la più grande società informatica del mondo, si aggiudica la possibilità di trascorrere una settimana nel rifugio privato di montagna che appartiene a Nathan, il solitario CEO della società. Ma quando Caleb raggiunge la località remota, scopre che dovrà partecipare ad uno strano ed affascinante esperimento in cui occorrerà interagire con la prima vera intelligenza artificiale al mondo, dalle fattezze di una bellissima ragazza robot.",
+      "tagline": "Non c'è niente di più umano della voglia di sopravvivere",
+      "poster": "/qRFWr87YE1ENrmW8iEoHfcNjaPz.jpg",
+      "backdrop": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+      "director": "Alex Garland",
+      "cast": [
+        "Domhnall Gleeson",
+        "Alicia Vikander",
+        "Oscar Isaac",
+        "Sonoya Mizuno",
+        "Corey Johnson"
+      ],
+      "castDetail": [
+        {
+          "name": "Domhnall Gleeson",
+          "character": "Caleb",
+          "profile": "/a63BgOBKzJ9XPaLFyu7u5Ge3REG.jpg"
+        },
+        {
+          "name": "Alicia Vikander",
+          "character": "Ava",
+          "profile": "/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg"
+        },
+        {
+          "name": "Oscar Isaac",
+          "character": "Nathan",
+          "profile": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+        },
+        {
+          "name": "Sonoya Mizuno",
+          "character": "Kyoko",
+          "profile": "/WVROOHuk6G6QgVe0pU8R2i1fsE.jpg"
+        },
+        {
+          "name": "Corey Johnson",
+          "character": "Jay",
+          "profile": "/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+        },
+        {
+          "name": "Claire Selby",
+          "character": "Lily",
+          "profile": "/h7E3yLCtZatP0G0Sd8dMFqQwQ2x.jpg"
+        },
+        {
+          "name": "Symara A. Templeman",
+          "character": "Jasmine",
+          "profile": "/bfj03PTq1C4OTdOQ7C8V8zWK9HB.jpg"
+        },
+        {
+          "name": "Gana Bayarsaikhan",
+          "character": "Jade",
+          "profile": "/sYUEOvA9jVVwHcnytD5O6w49va4.jpg"
+        }
+      ],
+      "tmdbRating": 7.6,
+      "tmdbVotes": 14677,
+      "popularity": 21.4753,
+      "trailer": "https://www.youtube.com/watch?v=zg23CSUm1qk",
+      "fonte": "fantascienza: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "c'è Oscar Isaac, che hai visto 2 volte",
+      "motivi": [
+        "c'è Oscar Isaac, che hai visto 2 volte",
+        "fantascienza: il tuo terreno"
+      ],
+      "proposto": "2026-10-11"
+    },
+    {
+      "tmdbId": 950396,
+      "imdbId": "tt13654226",
+      "title": "Misteri dal profondo",
+      "originalTitle": "The Gorge",
+      "release": "2025-02-13",
+      "releaseFonte": "globale",
+      "genres": [
+        "Romance",
+        "Fantascienza",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 128,
+      "plot": "Due agenti speciali vengono mandati a sorvegliare i margini opposti di una misteriosa gola. La loro intesa cresce quando si ritrovano a tentare di sopravvivere al male oscuro che emerge dal profondo.",
+      "tagline": "Nessuno entra, nessuno esce.",
+      "poster": "/7IU0AhsnulBMEGauba755Snhcy4.jpg",
+      "backdrop": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "director": "Scott Derrickson",
+      "cast": [
+        "Miles Teller",
+        "Anya Taylor-Joy",
+        "Sigourney Weaver",
+        "Ṣọpẹ́ Dìrísù",
+        "William Houston"
+      ],
+      "castDetail": [
+        {
+          "name": "Miles Teller",
+          "character": "Levi",
+          "profile": "/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+        },
+        {
+          "name": "Anya Taylor-Joy",
+          "character": "Drasa",
+          "profile": "/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+        },
+        {
+          "name": "Sigourney Weaver",
+          "character": "Bartholomew",
+          "profile": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+        },
+        {
+          "name": "Ṣọpẹ́ Dìrísù",
+          "character": "J.D.",
+          "profile": "/xcHaI7IOGxWhArkE6iWPCYhx9HD.jpg"
+        },
+        {
+          "name": "William Houston",
+          "character": "Erikas",
+          "profile": "/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
+        },
+        {
+          "name": "Kobna Holdbrook-Smith",
+          "character": "Black Ops Commander",
+          "profile": "/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg"
+        },
+        {
+          "name": "James Marlowe",
+          "character": "Bradford Shaw",
+          "profile": "/grKtqA62ni9yBqGekfq3Aw1GM1o.jpg"
+        },
+        {
+          "name": "Julianna Kurokawa",
+          "character": "Airman",
+          "profile": "/fObnbEVsnhyWiaXYbaA6JA86r01.jpg"
+        }
+      ],
+      "tmdbRating": 7.7,
+      "tmdbVotes": 4285,
+      "popularity": 32.3551,
+      "trailer": "https://www.youtube.com/watch?v=hJ80ybhvsjM",
+      "fonte": "thriller: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "c'è Anya Taylor-Joy, che hai visto 2 volte",
+      "motivi": [
+        "c'è Anya Taylor-Joy, che hai visto 2 volte",
+        "thriller: il tuo terreno"
+      ],
+      "proposto": "2026-10-11"
     }
   ],
   "storico": {
@@ -479,6 +886,7 @@
     "550": "2026-09-12",
     "559": "2026-09-24",
     "567": "2026-09-25",
+    "578": "2026-10-11",
     "581": "2026-09-12",
     "587": "2026-10-02",
     "597": "2026-09-18",
@@ -506,6 +914,7 @@
     "901": "2026-09-18",
     "914": "2026-10-01",
     "962": "2026-10-04",
+    "963": "2026-10-11",
     "975": "2026-09-13",
     "996": "2026-10-05",
     "1018": "2026-09-23",
@@ -521,8 +930,10 @@
     "1700": "2026-09-16",
     "1726": "2026-09-27",
     "1891": "2026-09-22",
+    "1954": "2026-10-11",
     "2118": "2026-09-13",
     "3082": "2026-10-03",
+    "4935": "2026-10-11",
     "4977": "2026-09-23",
     "5156": "2026-09-14",
     "5925": "2026-10-04",
@@ -532,6 +943,7 @@
     "9016": "2026-10-08",
     "9702": "2026-10-04",
     "10191": "2026-10-08",
+    "10376": "2026-10-11",
     "10386": "2026-10-04",
     "10494": "2026-09-30",
     "10681": "2026-09-12",
@@ -549,6 +961,7 @@
     "14306": "2026-09-12",
     "18491": "2026-09-24",
     "19404": "2026-09-25",
+    "20126": "2026-10-11",
     "20526": "2026-09-14",
     "24021": "2026-09-26",
     "24428": "2026-09-29",
@@ -589,9 +1002,11 @@
     "209112": "2026-09-25",
     "209361": "2026-09-27",
     "210577": "2026-10-07",
+    "244267": "2026-10-11",
     "244786": "2026-09-15",
     "257211": "2026-09-12",
     "263115": "2026-09-29",
+    "264660": "2026-10-11",
     "265177": "2026-10-05",
     "265195": "2026-09-26",
     "269149": "2026-09-16",
@@ -625,6 +1040,7 @@
     "406997": "2026-09-29",
     "411088": "2026-10-05",
     "447332": "2026-09-17",
+    "447362": "2026-10-11",
     "451048": "2026-09-20",
     "453278": "2026-09-28",
     "458220": "2026-10-07",
@@ -667,6 +1083,7 @@
     "823219": "2026-10-03",
     "843847": "2026-09-13",
     "931285": "2026-10-06",
+    "950396": "2026-10-11",
     "961323": "2026-09-29",
     "965150": "2026-09-20",
     "980431": "2026-09-14",
