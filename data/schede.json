@@ -551,38 +551,39 @@
     "scritta": "2026-09-13"
   },
   "tmdb-1492198": {
-    "trama": "Novembre 2023, San Francisco: il consiglio di amministrazione di OpenAI licenzia il proprio amministratore delegato, e nell'arco di cinque giorni l'azienda più discussa del mondo rischia di dissolversi prima che quella decisione venga ribaltata. È il materiale da cui parte Artificial, con Andrew Garfield nei panni di Sam Altman, Yura Borisov in quelli del cofondatore e capo scienziato Ilya Sutskever, Monica Barbaro in quelli di Mira Murati e Cooper Hoffman in quelli di Greg Brockman.\n\nLuca Guadagnino lo affronta da regista che non ha mai amato il registro documentario: i generi dichiarati sono commedia e dramma, e la sua idea di gruppo — corpi, desiderio, rivalità, stanze in cui si decide troppo in fretta — promette un film sulle persone più che sulla tecnologia. Sui contenuti precisi, per ora, non si sa molto più di questo.",
-    "perche": "Guadagnino è diventato il regista più prolifico e imprevedibile in circolazione: Challengers e Queer in due anni, registri opposti. Prendere il caso OpenAI e trattarlo come un dramma di gruppo — cinque giorni, poche stanze, persone che si tradiscono a vicenda — è esattamente il suo terreno. E Yura Borisov, rivelazione di Anora, è un casting che dice molto sul tono.",
+    "trama": "Prima dei miliardi e delle copertine c'è una stanza con due informatici convinti di avere in mano qualcosa che cambierà la specie: Ilya Sutskever e Geoffrey Hinton arrivano a una svolta tecnica e capiscono, prima di tutti, cosa significa. Da quel momento la Silicon Valley fa la fila per entrare nella loro visione.\n\nAnni dopo, un incontro fortuito con Sam Altman porta alla nascita di OpenAI: un gruppo di imprenditori idealisti, i soldi di Elon Musk, l'ingegneria di Mira Murati e la promessa che questa volta la tecnologia resterà di tutti. Luca Guadagnino prende il materiale più discusso del decennio e lo tratta come ha sempre trattato i gruppi: corpi in stanze troppo piccole, amicizie che diventano gerarchie, il desiderio di contare. I generi dichiarati sono commedia e dramma, non biopic reverente, e Andrew Garfield nei panni di Altman insieme a Yura Borisov in quelli di Sutskever promettono un film sulle persone, non sugli algoritmi.",
+    "perche": "Hai visto Oppenheimer: la stessa domanda — chi ha costruito la cosa, e quando ha capito cosa stava costruendo — qui torna senza l'apparato del mito. Guadagnino ha girato Challengers e Queer a un anno di distanza, quindi è imprevedibile per statuto, e il casting di Yura Borisov, la rivelazione di Anora, dice che il tono sarà obliquo. È The Social Network senza la retorica del genio.",
     "vibes": [
       "The Social Network",
       "Steve Jobs",
+      "Oppenheimer",
       "Challengers"
     ],
     "dopo": [
+      {
+        "tipo": "libro",
+        "titolo": "Empire of AI di Karen Hao",
+        "perche": "L'inchiesta del 2025 su OpenAI: il contesto più solido per arrivare al film sapendo i fatti."
+      },
       {
         "tipo": "film",
         "titolo": "The Social Network",
         "perche": "Il modello di ogni film su una startup: l'amicizia come primo materiale di consumo."
       },
       {
-        "tipo": "libro",
-        "titolo": "Empire of AI di Karen Hao",
-        "perche": "L'inchiesta del 2025 su OpenAI: il contesto più solido per capire i fatti del film."
+        "tipo": "documentario",
+        "titolo": "AlphaGo",
+        "perche": "Il momento in cui una macchina batte un campione umano, filmato mentre accade."
       },
       {
         "tipo": "film",
         "titolo": "Challengers",
-        "perche": "Il Guadagnino del triangolo e della rivalità, qui applicato a un consiglio di amministrazione."
-      },
-      {
-        "tipo": "film",
-        "titolo": "Steve Jobs",
-        "perche": "Sorkin e Boyle nel 2015: il fondatore raccontato in tre stanze e tre rese dei conti."
+        "perche": "Il Guadagnino del triangolo e della rivalità, qui trasferito in un consiglio di amministrazione."
       }
     ],
-    "nota": "Il film ricostruisce i cinque giorni del novembre 2023 in cui Sam Altman fu licenziato da OpenAI e poi reintegrato.",
-    "impronta": "Artificial|0|Luca Guadagnino",
-    "scritta": "2026-09-13"
+    "nota": "Il progetto nasce dai cinque giorni del novembre 2023 in cui Sam Altman fu licenziato dal consiglio di OpenAI e poi reintegrato.",
+    "impronta": "Artificial|455|Luca Guadagnino",
+    "scritta": "2026-10-12"
   },
   "tmdb-1297467": {
     "trama": "Tredici anni dopo aver chiuso il caso di un serial killer satanico, la detective Julie Miller si ritrova davanti a una nuova sequenza di omicidi che ripete quella firma. Non è un ritorno di routine: i segni che trova sulle scene la riguardano personalmente, e mentre l'indagine avanza suo figlio Max, dodici anni, diventa il bersaglio di qualcosa che la polizia non ha strumenti per inseguire. Intorno a lei si muovono due sacerdoti, padre William e padre Sunday, chiamati dove il metodo investigativo si ferma.\n\nMike Flanagan scrive e dirige, al primo ingresso nel franchise dell'Esorcista, e la struttura che ha scelto dice già dove vuole portare il materiale: un poliziesco che scivola nel sacro, invece di partire da una stanza chiusa e una bambina. Scarlett Johansson al centro di un film di possessione è l'anomalia più interessante del progetto; Diane Lane, Chiwetel Ejiofor e Laurence Fishburne completano un cast insolitamente alto per il genere.",
@@ -1432,13 +1433,13 @@
     "scritta": "2026-09-14"
   },
   "tmdb-1226863": {
-    "trama": "Nel Regno dei Funghi la vita è tornata quasi normale: Mario e Luigi hanno una nuova casa, un motto da ripetere a ogni ostacolo e la routine di chi risolve i guai degli altri prima dei propri. Bowser è rimpicciolito e imprigionato, la Principessa Peach governa in pace, e nella bottega dei gemelli compare un compagno nuovo, Yoshi, che porta con sé un modo diverso di muoversi nel mondo.\n\nBasta una festa di compleanno a mandare tutto in pezzi. I piani di Bowser Jr. scaraventano i fratelli fuori dall'atmosfera, in un arcipelago di pianeti minuscoli dove la gravità è un giocattolo e ogni sfera di roccia ha regole sue. È un film d'animazione che prende il gioco di piattaforme alla lettera e ne fa grammatica visiva: corsa, salto, caduta, orizzonte che si curva. Il tono resta quello della commedia familiare — ritmo alto, gag fisiche, affetto fraterno — più una vertigine nuova e una principessa delle stelle, Rosalinda, che viene dalla zona più malinconica di questo universo.",
-    "perche": "Hai visto Super Mario Bros. Il Film: questo riparte da lì, ma adatta Super Mario Galaxy, il capitolo in cui Nintendo rese la gravità un meccanismo narrativo. Se ti è piaciuto come Wonka costruiva un mondo intero intorno a una sola idea visiva, qui la regola è il pianeta che si curva sotto i piedi. E Rosalinda porta dentro una vena malinconica che nel gioco originale sorprese tutti.",
+    "trama": "Nel Regno dei Funghi la vita è tornata quasi normale. Mario e Luigi hanno una casa nuova, un motto da ripetere a ogni ostacolo e la routine di chi risolve i guai degli altri prima dei propri: Bowser è rimpicciolito e in gabbia, la Principessa Peach governa in pace, e accanto ai gemelli compare un compagno nuovo, Yoshi.\n\nPoi c'è una festa di compleanno, e basta quella per mandare tutto in pezzi. I piani di Bowser Jr. scaraventano i fratelli fuori dall'atmosfera, in un arcipelago di pianeti minuscoli dove la gravità è un giocattolo e ogni sfera di roccia ha regole sue. Aaron Horvath, che aveva diretto il film del 2023, prende il platform alla lettera e ne fa grammatica visiva: corsa, salto, caduta, orizzonte che si curva sotto i piedi. Il tono resta quello della commedia familiare — ritmo alto, gag fisiche, affetto fraterno — più una vertigine nuova e una principessa delle stelle, Rosalinda, che arriva dalla zona più malinconica di questo universo.",
+    "perche": "Hai visto Super Mario Bros. Il Film: stesso regista, Aaron Horvath, ma il gioco di partenza è un altro. Super Mario Galaxy è il capitolo in cui Nintendo trasformò la gravità in meccanica narrativa, e se ti è piaciuto come Wonka costruiva un mondo intero su una sola idea visiva, qui l'idea è il pianeta che si curva sotto i piedi. Brie Larson doppia Rosalinda, il personaggio che nel gioco portò una malinconia che nessuno si aspettava.",
     "vibes": [
       "Super Mario Bros. Il Film",
+      "Il pianeta del tesoro",
       "Sonic - Il film",
-      "Cattivissimo me",
-      "Il pianeta del tesoro"
+      "Cattivissimo me"
     ],
     "dopo": [
       {
@@ -1449,7 +1450,7 @@
       {
         "tipo": "film",
         "titolo": "Super Mario Bros. (1993)",
-        "perche": "Il primo adattamento live action, disastroso e irresistibile: misura quanto è cambiato l'approccio."
+        "perche": "Il primo adattamento in live action, disastroso e irresistibile: misura quanto è cambiato l'approccio."
       },
       {
         "tipo": "libro",
@@ -1463,8 +1464,8 @@
       }
     ],
     "nota": "Adatta Super Mario Galaxy (Wii, 2007), il capitolo che portò la saga nello spazio e introdusse Rosalinda.",
-    "impronta": "Super Mario Galaxy - Il film|521|Michael Jelenic",
-    "scritta": "2026-10-10"
+    "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath",
+    "scritta": "2026-10-12"
   },
   "tmdb-1325734": {
     "trama": "Emma e Charlie si sposano fra pochi giorni. Hanno la casa, gli inviti, gli amici che arrivano e quella certezza tranquilla di conoscersi fino in fondo che regge tutto il resto. Poi emerge qualcosa — una cosa sola, detta o scoperta — e da quel momento uno dei due non riesce più a far tornare i conti su chi ha davanti.\n\nKristoffer Borgli è il norvegese di Sick of Myself e Dream Scenario, cioè due film costruiti sull'imbarazzo come materiale primario: guarda i suoi personaggi mentre fanno la cosa peggiore e non distoglie lo sguardo un secondo prima di quanto sia sopportabile. Qui lavora per la prima volta con due star assolute, Zendaya e Robert Pattinson, dentro una commedia romantica che si comporta come un thriller psicologico. La domanda che pone è antipatica e semplicissima: quanto amore regge una revisione dei fatti?",
