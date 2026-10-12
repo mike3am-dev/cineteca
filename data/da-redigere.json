@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-11T11:09:31.817Z",
+  "preparato": "2026-10-12T12:38:53.322Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -79,38 +79,36 @@
   },
   "film": [
     {
-      "id": "tmdb-1492198",
-      "tmdbId": 1492198,
-      "imdbId": "tt37171180",
-      "titolo": "Artificial",
+      "id": "tmdb-574475",
+      "tmdbId": 574475,
+      "imdbId": "tt9619824",
+      "titolo": "Final Destination - Bloodlines",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-12-25",
-      "lista": "cinema",
-      "regia": "Luca Guadagnino",
+      "anno": "2025",
+      "uscitaItalia": "2025-05-15",
+      "lista": "casa",
+      "regia": "Zach Lipovsky",
       "generi": [
-        "Commedia",
-        "Dramma"
+        "Horror",
+        "Mistero"
       ],
       "paesi": [
-        "Italia",
-        "Gran Bretagna",
         "USA"
       ],
-      "durata": 140,
-      "tagline": null,
+      "durata": 110,
+      "tagline": "Una famiglia con la morte nel sangue.",
       "cast": [
-        "Andrew Garfield (Sam Altman)",
-        "Yura Borisov (Ilya Sutskever)",
-        "Jason Schwartzman (Zeke)",
-        "Cooper Koch",
-        "Cooper Hoffman (Greg Brockman)",
-        "Monica Barbaro (Mira Murati)",
-        "Billie Lourd",
-        "Zosia Mamet (Tasha McCauley)"
+        "Kaitlyn Santa Juana (Stefani Reyes)",
+        "Teo Briones (Charlie Reyes)",
+        "Rya Kihlstedt (Darlene Campbell)",
+        "Richard Harmon (Erik)",
+        "Owen Patrick Joyner (Bobby)",
+        "Anna Lore (Julia)",
+        "Alex Zahara (Uncle Howard)",
+        "April Telek (Aunt Brenda)"
       ],
-      "tramaTmdb": "Quando l'informatico Ilya Sutskever e il pioniere dell'intelligenza artificiale Geoffrey Hinton faranno una svolta, sono certi che modificheranno l'umanità per sempre: le figure più importanti della Silicon Valley faranno a gara per diventare parte della loro visione. Anni dopo, dopo un incontro fortuito con Sam Altman, Sutskever e un gruppo di imprenditori idealisti creano OpenAI con il supporto di Elon Musk e l'assistenza dell'ingegnere Mira Murati.",
-      "impronta": "Artificial|455|Luca Guadagnino"
+      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
+      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
     },
     {
       "id": "tmdb-1226863",
@@ -121,7 +119,7 @@
       "anno": "2026",
       "uscitaItalia": "2026-04-01",
       "lista": "casa",
-      "regia": "Aaron Horvath",
+      "regia": "Michael Jelenic",
       "generi": [
         "Famiglia",
         "Commedia",
@@ -146,7 +144,43 @@
         "Brie Larson (Rosalina (voice))"
       ],
       "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
-      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
+      "impronta": "Super Mario Galaxy - Il film|521|Michael Jelenic"
+    },
+    {
+      "id": "tmdb-502356",
+      "tmdbId": 502356,
+      "imdbId": "tt6718170",
+      "titolo": "Super Mario Bros. Il Film",
+      "titoloOriginale": null,
+      "anno": "2023",
+      "uscitaItalia": "2023-04-05",
+      "lista": "visto",
+      "regia": "Michael Jelenic",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 92,
+      "tagline": "Not all heroes wear capes. Some wear overalls.",
+      "cast": [
+        "Chris Pratt (Mario (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Seth Rogen (Donkey Kong (voice))",
+        "Fred Armisen (Cranky Kong (voice))",
+        "Sebastian Maniscalco (Spike (voice))"
+      ],
+      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
+      "impronta": "Super Mario Bros. Il Film|258|Michael Jelenic"
     }
   ]
 }
