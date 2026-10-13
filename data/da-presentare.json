@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-12T12:38:53.946Z",
+  "preparato": "2026-10-13T12:27:17.535Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,6 +78,39 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1255833",
+      "tmdbId": 1255833,
+      "imdbId": "tt28535715",
+      "origine": "trailer",
+      "titolo": "Whalefall - Nella balena",
+      "titoloOriginale": "Whalefall",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Brian Duffield",
+      "generi": [
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": null,
+      "cast": [
+        "Austin Abrams (Jay Gardiner)",
+        "Josh Brolin (Mitt Gardiner)",
+        "Elisabeth Shue (Zara Gardiner)",
+        "John Ortiz (Hewey)",
+        "Jane Levy (Eva Gardiner)",
+        "Emily Rudd (Nan Gardiner)"
+      ],
+      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+      "motivi": [
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "thriller, il tuo terreno"
+      ],
+      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
     {
       "id": "tmdb-858035",
       "tmdbId": 858035,
@@ -113,39 +146,6 @@
         "fantascienza e dramma: il tuo terreno"
       ],
       "impronta": "Klara e il sole|412|Taika Waititi"
-    },
-    {
-      "id": "tmdb-1255833",
-      "tmdbId": 1255833,
-      "imdbId": "tt28535715",
-      "origine": "trailer",
-      "titolo": "Whalefall - Nella balena",
-      "titoloOriginale": "Whalefall",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Brian Duffield",
-      "generi": [
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": null,
-      "cast": [
-        "Austin Abrams (Jay Gardiner)",
-        "Josh Brolin (Mitt Gardiner)",
-        "Elisabeth Shue (Zara Gardiner)",
-        "John Ortiz (Hewey)",
-        "Jane Levy (Eva Gardiner)",
-        "Emily Rudd (Nan Gardiner)"
-      ],
-      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
-      "motivi": [
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "thriller, il tuo terreno"
-      ],
-      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
     {
       "id": "tmdb-848700",
@@ -284,38 +284,37 @@
       "impronta": "Primetime|523|Lance Oppenheim"
     },
     {
-      "id": "tmdb-1503762",
-      "tmdbId": 1503762,
-      "imdbId": "tt13609648",
+      "id": "tmdb-1283320",
+      "tmdbId": 1283320,
+      "imdbId": "tt35715953",
       "origine": "trailer",
-      "titolo": "Ragione e sentimento",
-      "titoloOriginale": "Sense and Sensibility",
+      "titolo": "Urchin",
+      "titoloOriginale": "Urchin",
       "anno": "2026",
       "uscitaItalia": "2026-10-22",
-      "regia": "Georgia Oakley",
+      "regia": "Harris Dickinson",
       "generi": [
-        "Dramma",
-        "Romance"
+        "Dramma"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 132,
+      "durata": 99,
       "tagline": null,
       "cast": [
-        "Daisy Edgar-Jones (Elinor Dashwood)",
-        "Esmé Creed-Miles (Marianne Dashwood)",
-        "Caitríona Balfe (Mrs. Dashwood)",
-        "Bodhi Rae Breathnach (Margaret Dashwood)",
-        "Frank Dillane (John Willoughby)",
-        "George MacKay (Edward Ferrars)"
+        "Frank Dillane (Mike)",
+        "Megan Northam (Andrea)",
+        "Карина Химчук (Ramona)",
+        "Shonagh Marie (Chanelle)",
+        "عمرو واكد (Franco)",
+        "Claudia Jones (Religious Leader)"
       ],
-      "tramaTmdb": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla pa",
+      "tramaTmdb": "Mike, piccolo criminale vagabondo, prova a restare sobrio e a lasciare la strada, collezionando tante idee per il futuro e qualche amico di baldoria altrettanto instabile. Senza casa, finisce in prigione dopo aver aggredito un passante che voleva aiutarlo. Si impegna a riparare lavorando in una cucina di cui fatica tuttavia a seguire le regole. Il recupero è l'orizzonte ma l'autodistruzione è dietro l'angolo.",
       "motivi": [
         "dramma, il tuo terreno"
       ],
-      "impronta": "Ragione e sentimento|600|Georgia Oakley"
+      "impronta": "Urchin|412|Harris Dickinson"
     },
     {
       "id": "tmdb-1153576",
@@ -357,7 +356,7 @@
       "titolo": "Godzilla Minus Zero",
       "titoloOriginale": "ゴジラ-0.0",
       "anno": "2026",
-      "uscitaItalia": "2026-11-05",
+      "uscitaItalia": "2026-11-12",
       "regia": "Takashi Yamazaki",
       "generi": [
         "Fantascienza",
@@ -380,6 +379,351 @@
       "tramaTmdb": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
       "motivi": [],
       "impronta": "Godzilla Minus Zero|379|Takashi Yamazaki"
+    },
+    {
+      "id": "tmdb-242582",
+      "tmdbId": 242582,
+      "imdbId": "tt2872718",
+      "origine": "scoperta",
+      "titolo": "Lo sciacallo - Nightcrawler",
+      "titoloOriginale": "Nightcrawler",
+      "anno": "2014",
+      "uscitaItalia": "2014-11-13",
+      "regia": "Dan Gilroy",
+      "generi": [
+        "Crime",
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": null,
+      "cast": [
+        "Jake Gyllenhaal (Louis Bloom)",
+        "Rene Russo (Nina Romina)",
+        "Riz Ahmed (Rick)",
+        "Bill Paxton (Joe Loder)",
+        "Kevin Rahm (Frank Kruse)",
+        "Michael Hyatt (Detective Frontieri)"
+      ],
+      "tramaTmdb": "Louis è un ladro di materiali edili quando lo incontriamo, non è chiaro cosa abbia fatto prima ma ora ruba rame, ferro e simili per rivenderli sottoprezzo ai cantieri con un obiettivo più grande: trovare un vero lavoro in una congiuntura economica non facile. Tuttavia nessuno assume un ladro. Un giorno è testimone di un incidente stradale e vede una troupe televisiva accorsa per riprendere l'accaduto, capisce che è un vero lavoro e uno che paga ma nemmeno in questo caso trova qualcuno pronto ad assumerlo così pensa di poter fare da sè e con i propri metodi (il furto) ruba il necessario per com",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Lo sciacallo - Nightcrawler|600|Dan Gilroy"
+    },
+    {
+      "id": "tmdb-81",
+      "tmdbId": 81,
+      "imdbId": "tt0087544",
+      "origine": "scoperta",
+      "titolo": "Nausicaä della Valle del vento",
+      "titoloOriginale": "風の谷のナウシカ",
+      "anno": "2015",
+      "uscitaItalia": "2015-10-05",
+      "regia": "Hayao Miyazaki",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 116,
+      "tagline": "Nausicaa: ecco il futuro del mondo",
+      "cast": [
+        "Sumi Shimamoto (Nausicaä (voice))",
+        "Ichirō Nagai (Mito (voice))",
+        "納谷悟朗 (Yupa (voice))",
+        "松田洋治 (Asbel (voice))",
+        "Yoshiko Sakakibara (Kushana (voice))",
+        "家弓家正 (Kurotowa (voice))"
+      ],
+      "tramaTmdb": "È trascorso un millennio da quando una serie di guerre, culminata nelle esplosioni termonucleari dei Sette Giorni del Fuoco, ha alterato l'ecosistema mondiale. Il Mare della Rovina si è espanso drammaticamente, occupando i regni degli uomini e invadendo la Terra con i suoi insetti giganti e le sue spore velenose. Solo pochi territori sono rimasti indenni, ma i loro abitanti continuano incessantemente a combattere tra loro. In un regno neutrale e pacifico, la Valle del Vento, vive la principessa Nausicaa, dotata di un potere extrasensoriale che le permette di comunicare con gli animali e con i ",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Nausicaä della Valle del vento|600|Hayao Miyazaki"
+    },
+    {
+      "id": "tmdb-85",
+      "tmdbId": 85,
+      "imdbId": "tt0082971",
+      "origine": "scoperta",
+      "titolo": "I predatori dell'arca perduta",
+      "titoloOriginale": "Raiders of the Lost Ark",
+      "anno": "1981",
+      "uscitaItalia": "1981-10-22",
+      "regia": "Steven Spielberg",
+      "generi": [
+        "Avventura",
+        "Azione"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 115,
+      "tagline": "Il ritorno della grande avventura.",
+      "cast": [
+        "Harrison Ford (Indiana Jones)",
+        "Karen Allen (Marion Ravenwood)",
+        "Paul Freeman (Dr. René Belloq)",
+        "John Rhys-Davies (Sallah)",
+        "Ronald Lacey (Major Arnold Toht)",
+        "Wolf Kahler (Colonel Dietrich)"
+      ],
+      "tramaTmdb": "Dopo essere stato derubato di un prezioso idolo, Indiana Jones ritorna all'università da insegnante. Qui i servizi segreti gli offriranno il compito di trovare l'arca dell'alleanza e cercare così di non farla cadere nelle mani dei tedeschi. Giunto nel Nepal, incontrerà Marion, una sua vecchia conoscenza, con la quale giungerà dall'amico Sallah, trovando ospitalità e svolgendo da lì la definitiva ricerca dell'arca.",
+      "motivi": [
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "I predatori dell'arca perduta|417|Steven Spielberg"
+    },
+    {
+      "id": "tmdb-44214",
+      "tmdbId": 44214,
+      "imdbId": "tt0947798",
+      "origine": "scoperta",
+      "titolo": "Il cigno nero",
+      "titoloOriginale": "Black Swan",
+      "anno": "2011",
+      "uscitaItalia": "2011-02-18",
+      "regia": "Darren Aronofsky",
+      "generi": [
+        "Dramma",
+        "Thriller",
+        "Horror"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 108,
+      "tagline": "La perfezione non è solo una questione di controllo. Si tratta anche di lasciarsi andare.",
+      "cast": [
+        "Natalie Portman (Nina Sayers / The Swan Queen)",
+        "Mila Kunis (Lily / The Black Swan)",
+        "Vincent Cassel (Thomas Leroy / The Gentleman)",
+        "Barbara Hershey (Erica Sayers / The Queen)",
+        "Winona Ryder (Beth Macintyre / The Dying Swan)",
+        "Benjamin Millepied (David Moreau / The Prince)"
+      ],
+      "tramaTmdb": "Nina è una ballerina del New York City Ballet che sogna il \"ruolo\" e un amore che spezzi l'adolescenza mai finita. Incalzata dalla madre, si sottopone ad un allenamento sotto lo sguardo di Thomas Leroy. Coreografo appassionato e deciso a farne una stella, Leroy le assegna la parte della protagonista nella sua versione del \"Lago dei cigni\". Sul palcoscenico Nina sarà Odette. Eterea e piena di grazia Nina incarna alla perfezione il candore del cigno bianco e con difficoltà il suo doppio nero e tenebroso, che in una superba variazione ingannerà il suo principe e la voterà al suicidio. La ricerca ",
+      "motivi": [
+        "regia di Darren Aronofsky, di cui hai visto un film",
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "Il cigno nero|600|Darren Aronofsky"
+    },
+    {
+      "id": "tmdb-51608",
+      "tmdbId": 51608,
+      "imdbId": "tt1527788",
+      "origine": "scoperta",
+      "titolo": "The Man from Nowhere",
+      "titoloOriginale": "아저씨",
+      "anno": "2010",
+      "uscitaItalia": "2010-08-04",
+      "regia": "Lee Jeong-beom",
+      "generi": [
+        "Azione",
+        "Thriller",
+        "Crime"
+      ],
+      "paesi": [
+        "Corea del Sud"
+      ],
+      "durata": 119,
+      "tagline": "Niente da perdere e niente compromessi.",
+      "cast": [
+        "원빈 (Cha Tae-sik)",
+        "Kim Sae-ron (Jeong So-mi)",
+        "김태훈 (Kim Chi-gon)",
+        "Kim Hie-won (Man-seok)",
+        "김성오 (Jong-seok)",
+        "이종필 (Detective No)"
+      ],
+      "tramaTmdb": "Tae shik è un uomo che gestisce un banco di pegni in uno squallido condominio e che non ha contatti con nessuno tranne che con la figlia della sua vicina, Hyo-jeong. La donna ha rubato della droga a un’organizzazione dedita allo spaccio di stupefacenti e al traffico di organi che, per riuscire a farsi restituire quello le è stato rubato, le rapisce la figlia. A questo punto Tae shik si mette alla ricerca della bambina  mentre anche la polizia è sulle tracce della banda di criminali.",
+      "motivi": [
+        "thriller: il tuo terreno"
+      ],
+      "impronta": "The Man from Nowhere|487|Lee Jeong-beom"
+    },
+    {
+      "id": "tmdb-14160",
+      "tmdbId": 14160,
+      "imdbId": "tt1049413",
+      "origine": "scoperta",
+      "titolo": "Up",
+      "titoloOriginale": "Up",
+      "anno": "2009",
+      "uscitaItalia": "2009-10-15",
+      "regia": "Pete Docter",
+      "generi": [
+        "Animazione",
+        "Commedia",
+        "Famiglia",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 104,
+      "tagline": "Il cambiamento è nell'aria.",
+      "cast": [
+        "Ed Asner (Carl Fredricksen (voice))",
+        "Christopher Plummer (Charles Muntz (voice))",
+        "Jordan Nagai (Russell (voice))",
+        "Bob Peterson (Dug / Alpha (voice))",
+        "Delroy Lindo (Beta (voice))",
+        "Jerome Ranft (Gamma (voice))"
+      ],
+      "tramaTmdb": "Carl Fredricksen ha trascorso tutta la vita sognando di esplorare il mondo e di vivere appieno ogni istante. Ma a 78 anni, la vita sembra essergli sfuggita di mano, finché un colpo di fortuna (e un tenace esploratore di 8 anni di nome Russell) non gli regala una nuova prospettiva.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Up|281|Pete Docter"
+    },
+    {
+      "id": "tmdb-284053",
+      "tmdbId": 284053,
+      "imdbId": "tt3501632",
+      "origine": "scoperta",
+      "titolo": "Thor: Ragnarok",
+      "titoloOriginale": "Thor: Ragnarok",
+      "anno": "2017",
+      "uscitaItalia": "2017-10-25",
+      "regia": "Taika Waititi",
+      "generi": [
+        "Azione",
+        "Avventura",
+        "Commedia",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 131,
+      "tagline": "Nessun martello. Nessun problema.",
+      "cast": [
+        "Chris Hemsworth (Thor)",
+        "Mark Ruffalo (Bruce Banner / Hulk)",
+        "Tom Hiddleston (Loki)",
+        "Cate Blanchett (Hela)",
+        "Idris Elba (Heimdall)",
+        "Jeff Goldblum (Grandmaster)"
+      ],
+      "tramaTmdb": "Thor è imprigionato dall’altro lato dell’universo senza il suo potente martello e deve lottare contro il tempo per tornare ad Asgard e fermare il Ragnarok — la distruzione del suo mondo e la fine della civiltà asgardiana — per mano di una nuova e onnipotente minaccia, la spietata Hela. Ma prima dovrà sopravvivere a un letale scontro fra gladiatori che lo metterà contro il suo vecchio alleato e compagno nel team degli Avengers: l’Incredibile Hulk.",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Thor: Ragnarok|450|Taika Waititi"
+    },
+    {
+      "id": "tmdb-17431",
+      "tmdbId": 17431,
+      "imdbId": "tt1182345",
+      "origine": "scoperta",
+      "titolo": "Moon",
+      "titoloOriginale": "Moon",
+      "anno": "2009",
+      "uscitaItalia": "2009-12-04",
+      "regia": "Duncan Jones",
+      "generi": [
+        "Fantascienza",
+        "Dramma"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 97,
+      "tagline": "250.000 chilometri da casa. La cosa più difficile da affrontare... è te stesso.",
+      "cast": [
+        "Sam Rockwell (Sam Bell)",
+        "Kevin Spacey (GERTY (voice))",
+        "Dominique McElligott (Tess Bell)",
+        "Rosie Shaw (Little Eve)",
+        "Adrienne Shaw (Nanny)",
+        "Kaya Scodelario (Eve)"
+      ],
+      "tramaTmdb": "L'energia sulla Terra non è più un problema, la Lunar ha trovato il modo di generarne in maniera pulita e non dannosa sfruttando il materiale di cui sono composte le rocce presenti sul lato oscuro della Luna. A sorvegliare il lavoro dei macchinari è stata posta una base sul satellite naturale della Terra abitata unicamente da un computer tuttofare dalla voce umana e da un uomo, solo, quasi arrivato al termine dei suoi tre lunghissimi anni di contratto e sempre più vittima degli scherzi che stanchezza e solitudine gli procurano. Sarà un incidente quasi mortale a scardinare il meccanismo di inga",
+      "motivi": [
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Moon|600|Duncan Jones"
+    },
+    {
+      "id": "tmdb-333339",
+      "tmdbId": 333339,
+      "imdbId": "tt1677720",
+      "origine": "scoperta",
+      "titolo": "Ready Player One",
+      "titoloOriginale": "Ready Player One",
+      "anno": "2018",
+      "uscitaItalia": "2018-03-28",
+      "regia": "Steven Spielberg",
+      "generi": [
+        "Avventura",
+        "Azione",
+        "Fantascienza"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 140,
+      "tagline": "Fuggi dalla realtà",
+      "cast": [
+        "Tye Sheridan (Parzival / Wade)",
+        "Olivia Cooke (Art3mis / Samantha)",
+        "Ben Mendelsohn (Sorrento)",
+        "Lena Waithe (Aech / Helen)",
+        "T.J. Miller (I-R0k (voice))",
+        "Simon Pegg (Curator / Ogden Morrow)"
+      ],
+      "tramaTmdb": "Nel 2045, anno in cui il mondo sta per collassare sull’orlo del caos, le persone hanno trovato la salvezza nell’OASIS, un enorme universo di realtà virtuale creato dal brillante ed eccentrico James Halliday. A seguito della morte di Halliday, la sua immensa fortuna andrà in dote a colui che per primo troverà un Easter egg nascosto da qualche parte all’interno dell’OASIS, dando il via ad una gara che coinvolgerà il mondo intero. Quando un improbabile giovane eroe di nome Wade Watts deciderà di prendere parte alla gara, verrà coinvolto in una vertiginosa caccia al tesoro in questo fantastico uni",
+      "motivi": [
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "fantascienza: il tuo terreno"
+      ],
+      "impronta": "Ready Player One|600|Steven Spielberg"
+    },
+    {
+      "id": "tmdb-447365",
+      "tmdbId": 447365,
+      "imdbId": "tt6791350",
+      "origine": "scoperta",
+      "titolo": "Guardiani della Galassia Vol. 3",
+      "titoloOriginale": "Guardians of the Galaxy Vol. 3",
+      "anno": "2023",
+      "uscitaItalia": "2023-05-03",
+      "regia": "James Gunn",
+      "generi": [
+        "Fantascienza",
+        "Avventura",
+        "Azione"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 150,
+      "tagline": "Ancora una volta con sentimento.",
+      "cast": [
+        "Chris Pratt (Peter Quill / Star-Lord)",
+        "Zoe Saldaña (Gamora)",
+        "Dave Bautista (Drax)",
+        "Karen Gillan (Nebula)",
+        "Pom Klementieff (Mantis)",
+        "Vin Diesel (Groot (voice))"
+      ],
+      "tramaTmdb": "Peter Quill, ancora provato dalla perdita di Gamora, deve riunire la sua squadra per difendere l'universo e proteggere uno di loro. Una missione che, se non sarà portata a termine con successo, potrebbe portare alla fine dei Guardiani così come li conosciamo.",
+      "motivi": [
+        "c'è Chris Pratt, che hai visto 4 volte",
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Guardiani della Galassia Vol. 3|259|James Gunn"
     }
   ]
 }
