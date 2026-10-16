@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-15T09:33:30.978Z",
+  "preparato": "2026-10-16T09:26:27.223Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -87,7 +87,7 @@
       "anno": "2025",
       "uscitaItalia": "2025-06-18",
       "lista": "casa",
-      "regia": "Domee Shi",
+      "regia": "Madeline Sharafian",
       "generi": [
         "Animazione",
         "Avventura",
@@ -111,7 +111,43 @@
         "Jake T. Getman (Caleb (voice))"
       ],
       "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Domee Shi"
+      "impronta": "Elio|287|Madeline Sharafian"
+    },
+    {
+      "id": "tmdb-1226863",
+      "tmdbId": 1226863,
+      "imdbId": "tt28650488",
+      "titolo": "Super Mario Galaxy - Il film",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-04-01",
+      "lista": "casa",
+      "regia": "Michael Jelenic",
+      "generi": [
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": "La galassia ti attende.",
+      "cast": [
+        "Chris Pratt (Mario (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Benny Safdie (Bowser Junior (voice))",
+        "Donald Glover (Yoshi (voice))",
+        "Glen Powell (Fox McCloud (voice))"
+      ],
+      "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
+      "impronta": "Super Mario Galaxy - Il film|521|Michael Jelenic"
     }
   ]
 }

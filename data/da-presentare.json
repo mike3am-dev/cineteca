@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-15T09:33:31.652Z",
+  "preparato": "2026-10-16T09:26:29.038Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -123,8 +123,7 @@
       "uscitaItalia": "2026-10-15",
       "regia": "Brian Duffield",
       "generi": [
-        "Thriller",
-        "Horror"
+        "Thriller"
       ],
       "paesi": [
         "USA"
@@ -183,73 +182,103 @@
       "impronta": "Klara e il sole|412|Taika Waititi"
     },
     {
-      "id": "tmdb-848700",
-      "tmdbId": 848700,
-      "imdbId": "tt37118301",
+      "id": "tmdb-977942",
+      "tmdbId": 977942,
+      "imdbId": "tt36983905",
       "origine": "trailer",
-      "titolo": "Minotaur - Nel labirinto del potere",
-      "titoloOriginale": "Minotaure",
+      "titolo": "The Uprising - Cuore ribelle",
+      "titoloOriginale": "The Uprising",
       "anno": "2026",
-      "uscitaItalia": "2026-10-29",
-      "regia": "Андрей Звягинцев",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Paul Greengrass",
       "generi": [
+        "Azione",
         "Dramma",
+        "Storia"
+      ],
+      "paesi": [
+        "Germania",
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 128,
+      "tagline": "Risorgi o muori.",
+      "cast": [
+        "Andrew Garfield (Ploughman)",
+        "Jamie Bell (John Ball)",
+        "Stephen Dillane (Archbishop Sudbury)",
+        "Woody Norman (King Richard II)",
+        "Tom Hollander (Treasurer Hales)",
+        "Cosmo Jarvis (Wat Tyler)"
+      ],
+      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
+      "motivi": [],
+      "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
+    },
+    {
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
+      "origine": "trailer",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
+      "generi": [
+        "Commedia",
         "Crime",
         "Thriller"
       ],
       "paesi": [
-        "Francia",
-        "Latvia",
-        "Germania"
-      ],
-      "durata": 135,
-      "tagline": null,
-      "cast": [
-        "Дмитрий Мазуров (Gleb)",
-        "Ирис Лебедева (Galina)",
-        "Варвара Шмыкова (Natasha)",
-        "Juris Žagars",
-        "Анатолий Белый",
-        "ולדימיר פרידמן (Mayor)"
-      ],
-      "tramaTmdb": "Russia, 2022. Quando Gleb, un direttore aziendale di successo, si trova assediato da crescenti pressioni aziendali e da un mondo sempre più instabile, il crollo della sua vita ordinata precipita verso la violenza.",
-      "motivi": [
-        "dramma e thriller: il tuo terreno"
-      ],
-      "impronta": "Minotaur - Nel labirinto del potere|213|Андрей Звягинцев"
-    },
-    {
-      "id": "tmdb-1236045",
-      "tmdbId": 1236045,
-      "imdbId": "tt31049299",
-      "origine": "trailer",
-      "titolo": "Animals",
-      "titoloOriginale": "Animals",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-09",
-      "regia": "Ben Affleck",
-      "generi": [
-        "Thriller",
-        "Dramma"
-      ],
-      "paesi": [
+        "Regno Unito",
         "USA"
       ],
-      "durata": 109,
-      "tagline": "Il potere non può proteggerti.",
+      "durata": 117,
+      "tagline": null,
       "cast": [
-        "Ben Affleck (Mark Kimball)",
-        "Kerry Washington (Abigail Kimball)",
-        "Gillian Anderson (Dayle Burton)",
-        "Steven Yeun (Sam Allison)",
-        "Adriana Paz (Cecilia Trujillo)",
-        "Luis Gerardo Méndez (Ramon)"
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Tom Waits"
       ],
-      "tramaTmdb": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
-      "motivi": [
-        "thriller e dramma: il tuo terreno"
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+      "motivi": [],
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
+      "id": "tmdb-1153576",
+      "tmdbId": 1153576,
+      "imdbId": "tt27419420",
+      "origine": "trailer",
+      "titolo": "Street Fighter",
+      "titoloOriginale": "Street Fighter",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Kitao Sakurai",
+      "generi": [
+        "Azione",
+        "Fantasy"
       ],
-      "impronta": "Animals|175|Ben Affleck"
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": null,
+      "cast": [
+        "Andrew Koji (Ryu)",
+        "Noah Centineo (Ken Masters)",
+        "Callina Liang (Chun-Li)",
+        "David Dastmalchian (M. Bison)",
+        "Eric Andre (Don Sauvage)",
+        "Andrew Schulz (Dan Hibiki)"
+      ],
+      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
+      "motivi": [],
+      "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
       "id": "tmdb-1117898",
@@ -287,103 +316,277 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
-      "id": "tmdb-1153576",
-      "tmdbId": 1153576,
-      "imdbId": "tt27419420",
+      "id": "tmdb-1422011",
+      "tmdbId": 1422011,
+      "imdbId": "tt35519455",
       "origine": "trailer",
-      "titolo": "Street Fighter",
-      "titoloOriginale": "Street Fighter",
+      "titolo": "It Ends",
+      "titoloOriginale": "It Ends",
       "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Kitao Sakurai",
+      "uscitaItalia": "2026-10-28",
+      "regia": "Alexander Ullom",
+      "generi": [
+        "Horror",
+        "Mistero"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 89,
+      "tagline": null,
+      "cast": [
+        "Phinehas Yoon (James)",
+        "Akira Jackson (Day)",
+        "Noah Toth (Fisher)",
+        "Mitchell Cole (Tyler)",
+        "Jenny Doyle (Fisher's Mom (voice))",
+        "Jon Linstad (Interrogated Man)"
+      ],
+      "tramaTmdb": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
+      "motivi": [],
+      "impronta": "It Ends|414|Alexander Ullom"
+    },
+    {
+      "id": "tmdb-550205",
+      "tmdbId": 550205,
+      "imdbId": "tt5562070",
+      "origine": "scoperta",
+      "titolo": "Il drago dei desideri",
+      "titoloOriginale": "Wish Dragon",
+      "anno": "2021",
+      "uscitaItalia": "2021-01-15",
+      "regia": "Chris Appelhans",
+      "generi": [
+        "Animazione",
+        "Famiglia",
+        "Commedia",
+        "Fantasy",
+        "Romance",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA",
+        "Cina",
+        "Czech Republic"
+      ],
+      "durata": 102,
+      "tagline": null,
+      "cast": [
+        "Jimmy Wong (Din (voice))",
+        "John Cho (Long (voice))",
+        "Constance Wu (Mom (voice))",
+        "Natasha Liu Bordizzo (Lina (voice))",
+        "Jimmy O. Yang (Short Goon / Security Guard 2 (voice))",
+        "Aaron Yoo (Pockets (voice))"
+      ],
+      "tramaTmdb": "Il giovane Din è determinato a voler ristabilire i contatti con la sua migliore amica d'infanzia quando un drago che esaudisce i desideri gli offre possibilità magiche.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Il drago dei desideri|168|Chris Appelhans"
+    },
+    {
+      "id": "tmdb-504253",
+      "tmdbId": 504253,
+      "imdbId": "tt7236034",
+      "origine": "scoperta",
+      "titolo": "Voglio mangiare il tuo pancreas",
+      "titoloOriginale": "君の膵臓をたべたい",
+      "anno": "2019",
+      "uscitaItalia": "2019-01-21",
+      "regia": "牛嶋新一郎",
+      "generi": [
+        "Animazione",
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 108,
+      "tagline": "La distanza tra loro, non ha ancora un nome.",
+      "cast": [
+        "高杉真宙 (Haruki Shiga (voice))",
+        "Lynn (Sakura Yamauchi (voice))",
+        "Yukiyo Fujii (Kyoko Takimoto (voice))",
+        "Yuma Uchida (Takahiro (voice))",
+        "Jun Fukushima (Issei Miyata (voice))",
+        "Atsuko Tanaka (Haruki's Mother (voice))"
+      ],
+      "tramaTmdb": "La giovane Sakura è gravemente malata e non le restano molti giorni da vivere, ma nessuno lo sa. Finché il timido e introverso Haruki non lo scopre, in maniera del tutto casuale. Tra i due nasce un complicato rapporto di amicizia, che insegnerà molto a entrambi sulla vita e sull'affetto reciproco.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Voglio mangiare il tuo pancreas|298|牛嶋新一郎"
+    },
+    {
+      "id": "tmdb-103",
+      "tmdbId": 103,
+      "imdbId": "tt0075314",
+      "origine": "scoperta",
+      "titolo": "Taxi Driver",
+      "titoloOriginale": "Taxi Driver",
+      "anno": "1976",
+      "uscitaItalia": "1976-08-27",
+      "regia": "Martin Scorsese",
+      "generi": [
+        "Crime",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 113,
+      "tagline": "In ogni strada di ogni città di questo paese c'è un nessuno che sogna di diventare qualcuno. E' un uomo solitario e dimenticato che deve disperatamente provare di essere vivo.",
+      "cast": [
+        "Robert De Niro (Travis Bickle)",
+        "Jodie Foster (Iris)",
+        "Cybill Shepherd (Betsy)",
+        "Harvey Keitel (Sport)",
+        "Peter Boyle (Wizard)",
+        "Leonard Harris (Charles Palantine)"
+      ],
+      "tramaTmdb": "New York: Travis Bickle, veterano del Vietnam in congedo, soffre d'insonnia e decide di impegnare le proprie notti facendo il tassista. Completamente disadattato ma idealista alla ricerca di uno scopo, l'uomo si invaghirà di una ragazza e le chiederà di uscire. Quando le cose tra i due andranno storte, Travis, definitivamente disilluso riguardo la società, si chiuderà in se stesso. Comincerà così per il tassista una claustrofobica discesa nel baratro della solitudine, in bilico sui margini della sanità mentale.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Taxi Driver|516|Martin Scorsese"
+    },
+    {
+      "id": "tmdb-122917",
+      "tmdbId": 122917,
+      "imdbId": "tt2310332",
+      "origine": "scoperta",
+      "titolo": "Lo Hobbit: La battaglia delle cinque armate",
+      "titoloOriginale": "The Hobbit: The Battle of the Five Armies",
+      "anno": "2014",
+      "uscitaItalia": "2014-12-17",
+      "regia": "Peter Jackson",
       "generi": [
         "Azione",
+        "Avventura",
         "Fantasy"
       ],
       "paesi": [
-        "Giappone",
+        "Nuova Zelanda",
         "USA"
       ],
-      "durata": 120,
-      "tagline": null,
+      "durata": 144,
+      "tagline": "L'ultimo viaggio nella terra di mezzo.",
       "cast": [
-        "Andrew Koji (Ryu)",
-        "Noah Centineo (Ken Masters)",
-        "Callina Liang (Chun-Li)",
-        "Joe Anoa'i (Akuma)",
-        "David Dastmalchian (M. Bison)",
-        "Cody Rhodes (Guile)"
+        "Ian McKellen (Gandalf the Grey)",
+        "Martin Freeman (Bilbo Baggins)",
+        "Richard Armitage (Thorin Oakenshield)",
+        "Orlando Bloom (Legolas)",
+        "Evangeline Lilly (Tauriel)",
+        "Luke Evans (Bard)"
       ],
-      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
-      "motivi": [],
-      "impronta": "Street Fighter|600|Kitao Sakurai"
+      "tramaTmdb": "Smaug ha deciso di scatenarsi dando fuoco a Pontelagolungo e ai suoi abitanti. Mentre i nani, inermi, guardano la scena dalla montagna, in un delirio di fughe disperate solo Bard decide di combattere il drago riuscendo in extremis a penetrare l'unico punto scoperto della sua dura scorza con una sola grande freccia. Sconfitta la creatura si apre uno scenario ancora più truce: la montagna è libera e il tesoro dei nani incustodito, la notizia si sparge in fretta e, vista la bramosia di Thorin nel tenere l'oro per sè, alle porte si prepara un conflitto tra l'esercito degli elfi e degli uomini (des",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Lo Hobbit: La battaglia delle cinque armate|600|Peter Jackson"
     },
     {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
+      "id": "tmdb-935",
+      "tmdbId": 935,
+      "imdbId": "tt0057012",
+      "origine": "scoperta",
+      "titolo": "Il dottor Stranamore, ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
+      "titoloOriginale": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "anno": "1964",
+      "uscitaItalia": "1964-04-17",
+      "regia": "Stanley Kubrick",
       "generi": [
         "Commedia",
-        "Crime",
-        "Thriller"
+        "Guerra"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 117,
-      "tagline": null,
+      "durata": 95,
+      "tagline": "Ieri fantapolitica, oggi... quasi realtà. Questo film è la... fine del mondo!",
       "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Tom Waits"
+        "Peter Sellers (Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove)",
+        "George C. Scott (General 'Buck' Turgidson)",
+        "Sterling Hayden (Brigadier General Jack D. Ripper)",
+        "Keenan Wynn (Colonel Bat Guano)",
+        "Slim Pickens (Major \"King\" Kong)",
+        "Peter Bull (Botschafter De Sadesky)"
       ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+      "tramaTmdb": "Uno psicopatico generale dell'aviazione USA, deciso a salvare il mondo dal complotto comunista, è pronto ad attaccare l'Unione Sovietica con armi nucleari.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il dottor Stranamore, ovvero: come ho imparato a non preoccuparmi e ad amare la bomba|155|Stanley Kubrick"
     },
     {
-      "id": "tmdb-805",
-      "tmdbId": 805,
-      "imdbId": "tt0063522",
+      "id": "tmdb-89",
+      "tmdbId": 89,
+      "imdbId": "tt0097576",
       "origine": "scoperta",
-      "titolo": "Rosemary's baby: nastro rosso a New York",
-      "titoloOriginale": "Rosemary's Baby",
-      "anno": "1968",
-      "uscitaItalia": "1968-12-24",
-      "regia": "Roman Polanski",
+      "titolo": "Indiana Jones e l'ultima crociata",
+      "titoloOriginale": "Indiana Jones and the Last Crusade",
+      "anno": "1989",
+      "uscitaItalia": "1989-10-06",
+      "regia": "Steven Spielberg",
       "generi": [
-        "Dramma",
-        "Horror",
-        "Thriller"
+        "Avventura",
+        "Azione"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 138,
-      "tagline": "Non è quello che ti aspettavi",
+      "durata": 127,
+      "tagline": "Questa volta si porta papà.",
       "cast": [
-        "Mia Farrow (Rosemary Woodhouse)",
-        "John Cassavetes (Guy Woodhouse)",
-        "Ruth Gordon (Minnie Castevet)",
-        "Sidney Blackmer (Roman Castevet)",
-        "Maurice Evans (Hutch)",
-        "Ralph Bellamy (Dr. Sapirstein)"
+        "Harrison Ford (Indiana Jones)",
+        "Sean Connery (Professor Henry Jones)",
+        "Denholm Elliott (Marcus Brody)",
+        "Alison Doody (Elsa)",
+        "John Rhys-Davies (Sallah)",
+        "Julian Glover (Walter Donovan)"
       ],
-      "tramaTmdb": "Rosemary e Guy Woodhouse, una giovane coppia di New York, si trasferiscono in un nuovo appartamento di un palazzo che gode di una cattiva reputazione. I due fanno subito amicizia con i vicini, Roman e Minnie Castevet, una vecchia coppia molto gentile e premurosa nei loro confronti. Da subito però iniziano ad accadere strani incidenti nel palazzo.",
+      "tramaTmdb": "Nel 1938, Indiana Jones, celebre archeologo, apprende che suo padre, Henry, anch'egli archeologo, è stato rapito perchè prossimo, con i suoi studi, ad individuare il luogo dove è custodito il Santo Graal, il calice in cui, secondo la leggenda, Gesù Cristo bevve nell'Ultima Cena.",
       "motivi": [
-        "thriller: il tuo terreno"
+        "regia di Steven Spielberg, di cui hai visto un film",
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Rosemary's baby: nastro rosso a New York|348|Roman Polanski"
+      "impronta": "Indiana Jones e l'ultima crociata|279|Steven Spielberg"
+    },
+    {
+      "id": "tmdb-872",
+      "tmdbId": 872,
+      "imdbId": "tt0045152",
+      "origine": "scoperta",
+      "titolo": "Cantando sotto la pioggia",
+      "titoloOriginale": "Singin' in the Rain",
+      "anno": "1953",
+      "uscitaItalia": "1953-02-05",
+      "regia": "Stanley Donen",
+      "generi": [
+        "Commedia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 102,
+      "tagline": null,
+      "cast": [
+        "Gene Kelly (Don Lockwood)",
+        "Donald O'Connor (Cosmo Brown)",
+        "Debbie Reynolds (Kathy Selden)",
+        "Jean Hagen (Lina Lamont)",
+        "Millard Mitchell (R.F. Simpson)",
+        "Cyd Charisse (Dancer)"
+      ],
+      "tramaTmdb": "Don, un giovane attore di varietà, decide di tentare la fortuna passando al cinema. Viene ingaggiato per affiancare la bellissima attrice Lina Lamont in un film muto e la pellicola ottiene uno strepitoso successo.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Cantando sotto la pioggia|213|Stanley Donen"
     }
   ]
 }
