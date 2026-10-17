@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-16T09:26:29.038Z",
+  "preparato": "2026-10-17T08:58:01.239Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,40 +79,6 @@
   },
   "film": [
     {
-      "id": "tmdb-1503762",
-      "tmdbId": 1503762,
-      "imdbId": "tt13609648",
-      "origine": "trailer",
-      "titolo": "Ragione e sentimento",
-      "titoloOriginale": "Sense and Sensibility",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Georgia Oakley",
-      "generi": [
-        "Dramma",
-        "Romance"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 132,
-      "tagline": null,
-      "cast": [
-        "Daisy Edgar-Jones (Elinor Dashwood)",
-        "Esmé Creed-Miles (Marianne Dashwood)",
-        "Caitríona Balfe (Mrs. Dashwood)",
-        "Bodhi Rae Breathnach (Margaret Dashwood)",
-        "Frank Dillane (John Willoughby)",
-        "George MacKay (Edward Ferrars)"
-      ],
-      "tramaTmdb": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla pa",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Ragione e sentimento|600|Georgia Oakley"
-    },
-    {
       "id": "tmdb-1255833",
       "tmdbId": 1255833,
       "imdbId": "tt28535715",
@@ -144,6 +110,40 @@
         "thriller, il tuo terreno"
       ],
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
+    {
+      "id": "tmdb-1503762",
+      "tmdbId": 1503762,
+      "imdbId": "tt13609648",
+      "origine": "trailer",
+      "titolo": "Ragione e sentimento",
+      "titoloOriginale": "Sense and Sensibility",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Georgia Oakley",
+      "generi": [
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": null,
+      "cast": [
+        "Daisy Edgar-Jones (Elinor Dashwood)",
+        "Esmé Creed-Miles (Marianne Dashwood)",
+        "Bodhi Rae Breathnach (Margaret Dashwood)",
+        "Caitríona Balfe (Mrs. Dashwood)",
+        "Fiona Shaw (Mrs. Jennings)",
+        "George MacKay (Edward Ferrars)"
+      ],
+      "tramaTmdb": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla pa",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
       "id": "tmdb-858035",
@@ -180,6 +180,41 @@
         "fantascienza e dramma: il tuo terreno"
       ],
       "impronta": "Klara e il sole|412|Taika Waititi"
+    },
+    {
+      "id": "tmdb-1117898",
+      "tmdbId": 1117898,
+      "imdbId": "tt2321555",
+      "origine": "trailer",
+      "titolo": "Il gatto col cappello",
+      "titoloOriginale": "The Cat in the Hat",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Erica Rivinoja",
+      "generi": [
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Famiglia"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 91,
+      "tagline": "Qui gatto ci cova",
+      "cast": [
+        "Bill Hader (The Cat in the Hat (voice))",
+        "Xochitl Gomez (Gabby (voice))",
+        "Tiago Martinez (Sebastian (voice))",
+        "Matt Berry (Waffles the Fish (voice))",
+        "Quinta Brunson (Sherri (voice))",
+        "Bowen Yang ((voice))"
+      ],
+      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+      "motivi": [],
+      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
       "id": "tmdb-977942",
@@ -281,312 +316,69 @@
       "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
+      "id": "tmdb-1381071",
+      "tmdbId": 1381071,
+      "imdbId": "tt34384661",
       "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
+      "titolo": "Godzilla Minus Zero",
+      "titoloOriginale": "ゴジラ-0.0",
       "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Takashi Yamazaki",
       "generi": [
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Famiglia"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherri (voice))",
-        "Bowen Yang ((voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
-      "id": "tmdb-1422011",
-      "tmdbId": 1422011,
-      "imdbId": "tt35519455",
-      "origine": "trailer",
-      "titolo": "It Ends",
-      "titoloOriginale": "It Ends",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-28",
-      "regia": "Alexander Ullom",
-      "generi": [
+        "Fantascienza",
         "Horror",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 89,
-      "tagline": null,
-      "cast": [
-        "Phinehas Yoon (James)",
-        "Akira Jackson (Day)",
-        "Noah Toth (Fisher)",
-        "Mitchell Cole (Tyler)",
-        "Jenny Doyle (Fisher's Mom (voice))",
-        "Jon Linstad (Interrogated Man)"
-      ],
-      "tramaTmdb": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
-      "motivi": [],
-      "impronta": "It Ends|414|Alexander Ullom"
-    },
-    {
-      "id": "tmdb-550205",
-      "tmdbId": 550205,
-      "imdbId": "tt5562070",
-      "origine": "scoperta",
-      "titolo": "Il drago dei desideri",
-      "titoloOriginale": "Wish Dragon",
-      "anno": "2021",
-      "uscitaItalia": "2021-01-15",
-      "regia": "Chris Appelhans",
-      "generi": [
-        "Animazione",
-        "Famiglia",
-        "Commedia",
-        "Fantasy",
-        "Romance",
-        "Avventura"
-      ],
-      "paesi": [
-        "USA",
-        "Cina",
-        "Czech Republic"
-      ],
-      "durata": 102,
-      "tagline": null,
-      "cast": [
-        "Jimmy Wong (Din (voice))",
-        "John Cho (Long (voice))",
-        "Constance Wu (Mom (voice))",
-        "Natasha Liu Bordizzo (Lina (voice))",
-        "Jimmy O. Yang (Short Goon / Security Guard 2 (voice))",
-        "Aaron Yoo (Pockets (voice))"
-      ],
-      "tramaTmdb": "Il giovane Din è determinato a voler ristabilire i contatti con la sua migliore amica d'infanzia quando un drago che esaudisce i desideri gli offre possibilità magiche.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Il drago dei desideri|168|Chris Appelhans"
-    },
-    {
-      "id": "tmdb-504253",
-      "tmdbId": 504253,
-      "imdbId": "tt7236034",
-      "origine": "scoperta",
-      "titolo": "Voglio mangiare il tuo pancreas",
-      "titoloOriginale": "君の膵臓をたべたい",
-      "anno": "2019",
-      "uscitaItalia": "2019-01-21",
-      "regia": "牛嶋新一郎",
-      "generi": [
-        "Animazione",
-        "Dramma",
-        "Romance"
+        "Azione"
       ],
       "paesi": [
         "Giappone"
       ],
-      "durata": 108,
-      "tagline": "La distanza tra loro, non ha ancora un nome.",
+      "durata": 135,
+      "tagline": null,
       "cast": [
-        "高杉真宙 (Haruki Shiga (voice))",
-        "Lynn (Sakura Yamauchi (voice))",
-        "Yukiyo Fujii (Kyoko Takimoto (voice))",
-        "Yuma Uchida (Takahiro (voice))",
-        "Jun Fukushima (Issei Miyata (voice))",
-        "Atsuko Tanaka (Haruki's Mother (voice))"
+        "Ryūnosuke Kamiki (Koichi Shikishima)",
+        "浜辺美波 (Noriko Oishi)",
+        "山田裕貴 (Shiro Mizushima)",
+        "Kuranosuke Sasaki (Seiji Akitsu)",
+        "Jun Kunimura",
+        "田中美央 (Captain Tatsuo Hotta)"
       ],
-      "tramaTmdb": "La giovane Sakura è gravemente malata e non le restano molti giorni da vivere, ma nessuno lo sa. Finché il timido e introverso Haruki non lo scopre, in maniera del tutto casuale. Tra i due nasce un complicato rapporto di amicizia, che insegnerà molto a entrambi sulla vita e sull'affetto reciproco.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "Voglio mangiare il tuo pancreas|298|牛嶋新一郎"
+      "tramaTmdb": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
+      "motivi": [],
+      "impronta": "Godzilla Minus Zero|379|Takashi Yamazaki"
     },
     {
-      "id": "tmdb-103",
-      "tmdbId": 103,
-      "imdbId": "tt0075314",
+      "id": "tmdb-1101412",
+      "tmdbId": 1101412,
+      "imdbId": "tt31192372",
       "origine": "scoperta",
-      "titolo": "Taxi Driver",
-      "titoloOriginale": "Taxi Driver",
-      "anno": "1976",
-      "uscitaItalia": "1976-08-27",
-      "regia": "Martin Scorsese",
+      "titolo": "Fall 2: Deadpoint",
+      "titoloOriginale": "Fall 2: Deadpoint",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-01",
+      "regia": "Michael Spierig",
       "generi": [
-        "Crime",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 113,
-      "tagline": "In ogni strada di ogni città di questo paese c'è un nessuno che sogna di diventare qualcuno. E' un uomo solitario e dimenticato che deve disperatamente provare di essere vivo.",
-      "cast": [
-        "Robert De Niro (Travis Bickle)",
-        "Jodie Foster (Iris)",
-        "Cybill Shepherd (Betsy)",
-        "Harvey Keitel (Sport)",
-        "Peter Boyle (Wizard)",
-        "Leonard Harris (Charles Palantine)"
-      ],
-      "tramaTmdb": "New York: Travis Bickle, veterano del Vietnam in congedo, soffre d'insonnia e decide di impegnare le proprie notti facendo il tassista. Completamente disadattato ma idealista alla ricerca di uno scopo, l'uomo si invaghirà di una ragazza e le chiederà di uscire. Quando le cose tra i due andranno storte, Travis, definitivamente disilluso riguardo la società, si chiuderà in se stesso. Comincerà così per il tassista una claustrofobica discesa nel baratro della solitudine, in bilico sui margini della sanità mentale.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Taxi Driver|516|Martin Scorsese"
-    },
-    {
-      "id": "tmdb-122917",
-      "tmdbId": 122917,
-      "imdbId": "tt2310332",
-      "origine": "scoperta",
-      "titolo": "Lo Hobbit: La battaglia delle cinque armate",
-      "titoloOriginale": "The Hobbit: The Battle of the Five Armies",
-      "anno": "2014",
-      "uscitaItalia": "2014-12-17",
-      "regia": "Peter Jackson",
-      "generi": [
-        "Azione",
-        "Avventura",
-        "Fantasy"
-      ],
-      "paesi": [
-        "Nuova Zelanda",
-        "USA"
-      ],
-      "durata": 144,
-      "tagline": "L'ultimo viaggio nella terra di mezzo.",
-      "cast": [
-        "Ian McKellen (Gandalf the Grey)",
-        "Martin Freeman (Bilbo Baggins)",
-        "Richard Armitage (Thorin Oakenshield)",
-        "Orlando Bloom (Legolas)",
-        "Evangeline Lilly (Tauriel)",
-        "Luke Evans (Bard)"
-      ],
-      "tramaTmdb": "Smaug ha deciso di scatenarsi dando fuoco a Pontelagolungo e ai suoi abitanti. Mentre i nani, inermi, guardano la scena dalla montagna, in un delirio di fughe disperate solo Bard decide di combattere il drago riuscendo in extremis a penetrare l'unico punto scoperto della sua dura scorza con una sola grande freccia. Sconfitta la creatura si apre uno scenario ancora più truce: la montagna è libera e il tesoro dei nani incustodito, la notizia si sparge in fretta e, vista la bramosia di Thorin nel tenere l'oro per sè, alle porte si prepara un conflitto tra l'esercito degli elfi e degli uomini (des",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Lo Hobbit: La battaglia delle cinque armate|600|Peter Jackson"
-    },
-    {
-      "id": "tmdb-935",
-      "tmdbId": 935,
-      "imdbId": "tt0057012",
-      "origine": "scoperta",
-      "titolo": "Il dottor Stranamore, ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
-      "titoloOriginale": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-      "anno": "1964",
-      "uscitaItalia": "1964-04-17",
-      "regia": "Stanley Kubrick",
-      "generi": [
-        "Commedia",
-        "Guerra"
+        "Thriller"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 95,
-      "tagline": "Ieri fantapolitica, oggi... quasi realtà. Questo film è la... fine del mondo!",
-      "cast": [
-        "Peter Sellers (Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove)",
-        "George C. Scott (General 'Buck' Turgidson)",
-        "Sterling Hayden (Brigadier General Jack D. Ripper)",
-        "Keenan Wynn (Colonel Bat Guano)",
-        "Slim Pickens (Major \"King\" Kong)",
-        "Peter Bull (Botschafter De Sadesky)"
-      ],
-      "tramaTmdb": "Uno psicopatico generale dell'aviazione USA, deciso a salvare il mondo dal complotto comunista, è pronto ad attaccare l'Unione Sovietica con armi nucleari.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Il dottor Stranamore, ovvero: come ho imparato a non preoccuparmi e ad amare la bomba|155|Stanley Kubrick"
-    },
-    {
-      "id": "tmdb-89",
-      "tmdbId": 89,
-      "imdbId": "tt0097576",
-      "origine": "scoperta",
-      "titolo": "Indiana Jones e l'ultima crociata",
-      "titoloOriginale": "Indiana Jones and the Last Crusade",
-      "anno": "1989",
-      "uscitaItalia": "1989-10-06",
-      "regia": "Steven Spielberg",
-      "generi": [
-        "Avventura",
-        "Azione"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 127,
-      "tagline": "Questa volta si porta papà.",
-      "cast": [
-        "Harrison Ford (Indiana Jones)",
-        "Sean Connery (Professor Henry Jones)",
-        "Denholm Elliott (Marcus Brody)",
-        "Alison Doody (Elsa)",
-        "John Rhys-Davies (Sallah)",
-        "Julian Glover (Walter Donovan)"
-      ],
-      "tramaTmdb": "Nel 1938, Indiana Jones, celebre archeologo, apprende che suo padre, Henry, anch'egli archeologo, è stato rapito perchè prossimo, con i suoi studi, ad individuare il luogo dove è custodito il Santo Graal, il calice in cui, secondo la leggenda, Gesù Cristo bevve nell'Ultima Cena.",
-      "motivi": [
-        "regia di Steven Spielberg, di cui hai visto un film",
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Indiana Jones e l'ultima crociata|279|Steven Spielberg"
-    },
-    {
-      "id": "tmdb-872",
-      "tmdbId": 872,
-      "imdbId": "tt0045152",
-      "origine": "scoperta",
-      "titolo": "Cantando sotto la pioggia",
-      "titoloOriginale": "Singin' in the Rain",
-      "anno": "1953",
-      "uscitaItalia": "1953-02-05",
-      "regia": "Stanley Donen",
-      "generi": [
-        "Commedia",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 102,
+      "durata": 98,
       "tagline": null,
       "cast": [
-        "Gene Kelly (Don Lockwood)",
-        "Donald O'Connor (Cosmo Brown)",
-        "Debbie Reynolds (Kathy Selden)",
-        "Jean Hagen (Lina Lamont)",
-        "Millard Mitchell (R.F. Simpson)",
-        "Cyd Charisse (Dancer)"
+        "Harriet Slater (Jax Hunter)",
+        "Arsema Thomas (Luce)",
+        "Tom Brittney (Jon Platt)",
+        "Virginia Gardner (Shiloh Hunter)",
+        "Sahajak Boonthanakit (Thai Barman)",
+        "Korakod Yensuk (Large Woman)"
       ],
-      "tramaTmdb": "Don, un giovane attore di varietà, decide di tentare la fortuna passando al cinema. Viene ingaggiato per affiancare la bellissima attrice Lina Lamont in un film muto e la pellicola ottiene uno strepitoso successo.",
+      "tramaTmdb": "Durante una pericolosa scalata sul monte Kwan in Thailandia, due alpinisti rimangono intrappolati a migliaia di piedi dal suolo, dove altezze che inducono vertigini, pura esposizione e probabilità impossibili trasformano ogni momento in una lotta per la sopravvivenza.",
       "motivi": [
-        "un classico che ti manca"
+        "se ne parla adesso"
       ],
-      "impronta": "Cantando sotto la pioggia|213|Stanley Donen"
+      "impronta": "Fall 2: Deadpoint|268|Michael Spierig"
     }
   ]
 }

@@ -1,584 +1,87 @@
 {
-  "aggiornato": "2026-10-16T09:26:29.037Z",
-  "giorno": "2026-10-16",
+  "aggiornato": "2026-10-17T08:58:01.238Z",
+  "giorno": "2026-10-17",
   "film": [
     {
-      "tmdbId": 550205,
-      "imdbId": "tt5562070",
-      "title": "Il drago dei desideri",
-      "originalTitle": "Wish Dragon",
-      "release": "2021-01-15",
+      "tmdbId": 1101412,
+      "imdbId": "tt31192372",
+      "title": "Fall 2: Deadpoint",
+      "originalTitle": "Fall 2: Deadpoint",
+      "release": "2026-09-01",
       "releaseFonte": "globale",
       "genres": [
-        "Animazione",
-        "Famiglia",
-        "Commedia",
-        "Fantasy",
-        "Romance",
-        "Avventura"
+        "Thriller"
       ],
       "countries": [
-        "USA",
-        "Cina",
-        "Czech Republic"
+        "Regno Unito",
+        "USA"
       ],
-      "runtime": 102,
-      "plot": "Il giovane Din è determinato a voler ristabilire i contatti con la sua migliore amica d'infanzia quando un drago che esaudisce i desideri gli offre possibilità magiche.",
+      "runtime": 98,
+      "plot": "Durante una pericolosa scalata sul monte Kwan in Thailandia, due alpinisti rimangono intrappolati a migliaia di piedi dal suolo, dove altezze che inducono vertigini, pura esposizione e probabilità impossibili trasformano ogni momento in una lotta per la sopravvivenza.",
       "tagline": null,
-      "poster": "/sVz8AHWyCGluM5d8uUudsFvyAWZ.jpg",
-      "backdrop": "/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
-      "director": "Chris Appelhans",
+      "poster": "/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "backdrop": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+      "director": "Michael Spierig",
       "cast": [
-        "Jimmy Wong",
-        "John Cho",
-        "Constance Wu",
-        "Natasha Liu Bordizzo",
-        "Jimmy O. Yang"
+        "Harriet Slater",
+        "Arsema Thomas",
+        "Tom Brittney",
+        "Virginia Gardner",
+        "Sahajak Boonthanakit"
       ],
       "castDetail": [
         {
-          "name": "Jimmy Wong",
-          "character": "Din (voice)",
-          "profile": "/4857lISQnBHQewi4sL7aBkJ5sFa.jpg"
+          "name": "Harriet Slater",
+          "character": "Jax Hunter",
+          "profile": "/9BJxdhi4tuiQdgT8bfDuiPipnsx.jpg"
         },
         {
-          "name": "John Cho",
-          "character": "Long (voice)",
-          "profile": "/4Lar4uy8gk78cEocq6ERPRFWt3e.jpg"
+          "name": "Arsema Thomas",
+          "character": "Luce",
+          "profile": "/tFdTyIrWsPIItcOP3OcyHtCboqC.jpg"
         },
         {
-          "name": "Constance Wu",
-          "character": "Mom (voice)",
-          "profile": "/7nT6QsetU2RCUwopPmq2NFSnLDL.jpg"
+          "name": "Tom Brittney",
+          "character": "Jon Platt",
+          "profile": "/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
         },
         {
-          "name": "Natasha Liu Bordizzo",
-          "character": "Lina (voice)",
-          "profile": "/92hZjJ2f7HWATUEw4BbMMWlGXps.jpg"
+          "name": "Virginia Gardner",
+          "character": "Shiloh Hunter",
+          "profile": "/1DnNysK267b0te48KCkUlTKoTzj.jpg"
         },
         {
-          "name": "Jimmy O. Yang",
-          "character": "Short Goon / Security Guard 2 (voice)",
-          "profile": "/1QfCVmdNo4AqBdN54kc9DTBx84X.jpg"
+          "name": "Sahajak Boonthanakit",
+          "character": "Thai Barman",
+          "profile": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
         },
         {
-          "name": "Aaron Yoo",
-          "character": "Pockets (voice)",
-          "profile": "/fL5SEE5RSac93swa5fXjhA2Hhw5.jpg"
+          "name": "Korakod Yensuk",
+          "character": "Large Woman",
+          "profile": null
         },
         {
-          "name": "Will Yun Lee",
-          "character": "Dad (voice)",
-          "profile": "/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+          "name": "Jordan Coleman",
+          "character": "Real Luce",
+          "profile": "/57FrMe016RyMHm8WDL2mK7P0bmS.jpg"
         },
         {
-          "name": "Bobby Lee",
-          "character": "Tall Goon (voice)",
-          "profile": "/90TyhVb7OfyHPmj3ZVX6hEjHGlD.jpg"
+          "name": "Maryna Bennett",
+          "character": "Female Teenager",
+          "profile": "/alqr0Hx7kgLZ38QvwdQKFIA8Y8l.jpg"
         }
       ],
-      "tmdbRating": 7.844,
-      "tmdbVotes": 1576,
-      "popularity": 15.5858,
-      "trailer": "https://www.youtube.com/watch?v=htX6XIQdjcE",
-      "fonte": "avventura: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "proposto": "2026-10-16"
-    },
-    {
-      "tmdbId": 504253,
-      "imdbId": "tt7236034",
-      "title": "Voglio mangiare il tuo pancreas",
-      "originalTitle": "君の膵臓をたべたい",
-      "release": "2019-01-21",
-      "releaseFonte": "IT",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Romance"
-      ],
-      "countries": [
-        "Giappone"
-      ],
-      "runtime": 108,
-      "plot": "La giovane Sakura è gravemente malata e non le restano molti giorni da vivere, ma nessuno lo sa. Finché il timido e introverso Haruki non lo scopre, in maniera del tutto casuale. Tra i due nasce un complicato rapporto di amicizia, che insegnerà molto a entrambi sulla vita e sull'affetto reciproco.",
-      "tagline": "La distanza tra loro, non ha ancora un nome.",
-      "poster": "/2ezMKcw090lTq7dA7AY0lr2gOP1.jpg",
-      "backdrop": "/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
-      "director": "牛嶋新一郎",
-      "cast": [
-        "高杉真宙",
-        "Lynn",
-        "Yukiyo Fujii",
-        "Yuma Uchida",
-        "Jun Fukushima"
-      ],
-      "castDetail": [
-        {
-          "name": "高杉真宙",
-          "character": "Haruki Shiga (voice)",
-          "profile": "/gP5lShrAl4ovliqAqJQTgrTeEwz.jpg"
-        },
-        {
-          "name": "Lynn",
-          "character": "Sakura Yamauchi (voice)",
-          "profile": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
-        },
-        {
-          "name": "Yukiyo Fujii",
-          "character": "Kyoko Takimoto (voice)",
-          "profile": "/tLG4K1iix3QNHFexf98mrZ25jT6.jpg"
-        },
-        {
-          "name": "Yuma Uchida",
-          "character": "Takahiro (voice)",
-          "profile": "/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
-        },
-        {
-          "name": "Jun Fukushima",
-          "character": "Issei Miyata (voice)",
-          "profile": "/xo2A4cr8TnhC9rLFxSQvhwCbIOw.jpg"
-        },
-        {
-          "name": "Atsuko Tanaka",
-          "character": "Haruki's Mother (voice)",
-          "profile": "/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
-        },
-        {
-          "name": "Shin-ichiro Miki",
-          "character": "Haruki's Father (voice)",
-          "profile": "/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg"
-        },
-        {
-          "name": "和久井映見",
-          "character": "Sakura's Mother (voice)",
-          "profile": "/p6yRJ4ZgdEjA0rvVsk1uvzae36E.jpg"
-        }
-      ],
-      "tmdbRating": 8.249,
-      "tmdbVotes": 1868,
-      "popularity": 11.7109,
-      "trailer": "https://www.youtube.com/watch?v=YK9Tp_WFbxY",
-      "fonte": "dramma: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "proposto": "2026-10-16"
-    },
-    {
-      "tmdbId": 103,
-      "imdbId": "tt0075314",
-      "title": "Taxi Driver",
-      "originalTitle": "Taxi Driver",
-      "release": "1976-08-27",
-      "releaseFonte": "IT",
-      "genres": [
-        "Crime",
-        "Dramma"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 113,
-      "plot": "New York: Travis Bickle, veterano del Vietnam in congedo, soffre d'insonnia e decide di impegnare le proprie notti facendo il tassista. Completamente disadattato ma idealista alla ricerca di uno scopo, l'uomo si invaghirà di una ragazza e le chiederà di uscire. Quando le cose tra i due andranno storte, Travis, definitivamente disilluso riguardo la società, si chiuderà in se stesso. Comincerà così per il tassista una claustrofobica discesa nel baratro della solitudine, in bilico sui margini della sanità mentale.",
-      "tagline": "In ogni strada di ogni città di questo paese c'è un nessuno che sogna di diventare qualcuno. E' un uomo solitario e dimenticato che deve disperatamente provare di essere vivo.",
-      "poster": "/nun5m5ZnR5aSQPPpQdD38QvBHI9.jpg",
-      "backdrop": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
-      "director": "Martin Scorsese",
-      "cast": [
-        "Robert De Niro",
-        "Jodie Foster",
-        "Cybill Shepherd",
-        "Harvey Keitel",
-        "Peter Boyle"
-      ],
-      "castDetail": [
-        {
-          "name": "Robert De Niro",
-          "character": "Travis Bickle",
-          "profile": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
-        },
-        {
-          "name": "Jodie Foster",
-          "character": "Iris",
-          "profile": "/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
-        },
-        {
-          "name": "Cybill Shepherd",
-          "character": "Betsy",
-          "profile": "/ci20y6ilSmiw759cUwQVheOqNaD.jpg"
-        },
-        {
-          "name": "Harvey Keitel",
-          "character": "Sport",
-          "profile": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
-        },
-        {
-          "name": "Peter Boyle",
-          "character": "Wizard",
-          "profile": "/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
-        },
-        {
-          "name": "Leonard Harris",
-          "character": "Charles Palantine",
-          "profile": "/aldnhNNMP8hZrq9cAcBE6pCVCCm.jpg"
-        },
-        {
-          "name": "Albert Brooks",
-          "character": "Tom",
-          "profile": "/8iDSGu5l93N7benjf6b3AysBore.jpg"
-        },
-        {
-          "name": "Diahnne Abbott",
-          "character": "Concession Girl",
-          "profile": "/2huiGuIcrGn2bYiIDqVnuX2ZWzf.jpg"
-        }
-      ],
-      "tmdbRating": 8.119,
-      "tmdbVotes": 13893,
-      "popularity": 27.2552,
-      "trailer": "https://www.youtube.com/watch?v=KOtmwEaZODE",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-16"
-    },
-    {
-      "tmdbId": 122917,
-      "imdbId": "tt2310332",
-      "title": "Lo Hobbit: La battaglia delle cinque armate",
-      "originalTitle": "The Hobbit: The Battle of the Five Armies",
-      "release": "2014-12-17",
-      "releaseFonte": "IT",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Fantasy"
-      ],
-      "countries": [
-        "Nuova Zelanda",
-        "USA"
-      ],
-      "runtime": 144,
-      "plot": "Smaug ha deciso di scatenarsi dando fuoco a Pontelagolungo e ai suoi abitanti. Mentre i nani, inermi, guardano la scena dalla montagna, in un delirio di fughe disperate solo Bard decide di combattere il drago riuscendo in extremis a penetrare l'unico punto scoperto della sua dura scorza con una sola grande freccia. Sconfitta la creatura si apre uno scenario ancora più truce: la montagna è libera e il tesoro dei nani incustodito, la notizia si sparge in fretta e, vista la bramosia di Thorin nel tenere l'oro per sè, alle porte si prepara un conflitto tra l'esercito degli elfi e degli uomini (des",
-      "tagline": "L'ultimo viaggio nella terra di mezzo.",
-      "poster": "/A2RkCwo2gcWX6OXL2B46eOU7Wv6.jpg",
-      "backdrop": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
-      "director": "Peter Jackson",
-      "cast": [
-        "Ian McKellen",
-        "Martin Freeman",
-        "Richard Armitage",
-        "Orlando Bloom",
-        "Evangeline Lilly"
-      ],
-      "castDetail": [
-        {
-          "name": "Ian McKellen",
-          "character": "Gandalf the Grey",
-          "profile": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
-        },
-        {
-          "name": "Martin Freeman",
-          "character": "Bilbo Baggins",
-          "profile": "/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
-        },
-        {
-          "name": "Richard Armitage",
-          "character": "Thorin Oakenshield",
-          "profile": "/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg"
-        },
-        {
-          "name": "Orlando Bloom",
-          "character": "Legolas",
-          "profile": "/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
-        },
-        {
-          "name": "Evangeline Lilly",
-          "character": "Tauriel",
-          "profile": "/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
-        },
-        {
-          "name": "Luke Evans",
-          "character": "Bard",
-          "profile": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
-        },
-        {
-          "name": "Lee Pace",
-          "character": "King Thranduil",
-          "profile": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
-        },
-        {
-          "name": "Benedict Cumberbatch",
-          "character": "Smaug / Sauron (voice)",
-          "profile": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
-        }
-      ],
-      "tmdbRating": 7.339,
-      "tmdbVotes": 15854,
-      "popularity": 85.5457,
-      "trailer": "https://www.youtube.com/watch?v=yDE_p_n1Do0",
+      "tmdbRating": 7.295,
+      "tmdbVotes": 559,
+      "popularity": 184.7682,
+      "trailer": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
       "fonte": "se ne parla adesso",
       "categoria": "di tendenza",
       "perche": "se ne parla adesso",
       "motivi": [
         "se ne parla adesso"
       ],
-      "proposto": "2026-10-16"
-    },
-    {
-      "tmdbId": 935,
-      "imdbId": "tt0057012",
-      "title": "Il dottor Stranamore, ovvero: come ho imparato a non preoccuparmi e ad amare la bomba",
-      "originalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-      "release": "1964-04-17",
-      "releaseFonte": "IT",
-      "genres": [
-        "Commedia",
-        "Guerra"
-      ],
-      "countries": [
-        "Regno Unito",
-        "USA"
-      ],
-      "runtime": 95,
-      "plot": "Uno psicopatico generale dell'aviazione USA, deciso a salvare il mondo dal complotto comunista, è pronto ad attaccare l'Unione Sovietica con armi nucleari.",
-      "tagline": "Ieri fantapolitica, oggi... quasi realtà. Questo film è la... fine del mondo!",
-      "poster": "/9VrxpHVS5zjcWKauMNEDyehsV9w.jpg",
-      "backdrop": "/7i0L2ee4Iy0aXV6vR5u1ZmblOrx.jpg",
-      "director": "Stanley Kubrick",
-      "cast": [
-        "Peter Sellers",
-        "George C. Scott",
-        "Sterling Hayden",
-        "Keenan Wynn",
-        "Slim Pickens"
-      ],
-      "castDetail": [
-        {
-          "name": "Peter Sellers",
-          "character": "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove",
-          "profile": "/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg"
-        },
-        {
-          "name": "George C. Scott",
-          "character": "General 'Buck' Turgidson",
-          "profile": "/iZON8v2ExgNzY943W0UDWXeRZrz.jpg"
-        },
-        {
-          "name": "Sterling Hayden",
-          "character": "Brigadier General Jack D. Ripper",
-          "profile": "/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg"
-        },
-        {
-          "name": "Keenan Wynn",
-          "character": "Colonel Bat Guano",
-          "profile": "/bO88300vMddcIXuRZvMm5QLXdr.jpg"
-        },
-        {
-          "name": "Slim Pickens",
-          "character": "Major \"King\" Kong",
-          "profile": "/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg"
-        },
-        {
-          "name": "Peter Bull",
-          "character": "Botschafter De Sadesky",
-          "profile": "/187FadUt4kYNbrRfWp1sHynmGWW.jpg"
-        },
-        {
-          "name": "James Earl Jones",
-          "character": "Lt. Lothar Zogg",
-          "profile": "/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
-        },
-        {
-          "name": "Tracy Reed",
-          "character": "Miss Scott",
-          "profile": "/ts9KswPwZfhJQFdp4WBhzPfVJOQ.jpg"
-        }
-      ],
-      "tmdbRating": 8.1,
-      "tmdbVotes": 6409,
-      "popularity": 19.8911,
-      "trailer": "https://www.youtube.com/watch?v=CNdcgqq2NZg",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-16"
-    },
-    {
-      "tmdbId": 89,
-      "imdbId": "tt0097576",
-      "title": "Indiana Jones e l'ultima crociata",
-      "originalTitle": "Indiana Jones and the Last Crusade",
-      "release": "1989-10-06",
-      "releaseFonte": "IT",
-      "genres": [
-        "Avventura",
-        "Azione"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 127,
-      "plot": "Nel 1938, Indiana Jones, celebre archeologo, apprende che suo padre, Henry, anch'egli archeologo, è stato rapito perchè prossimo, con i suoi studi, ad individuare il luogo dove è custodito il Santo Graal, il calice in cui, secondo la leggenda, Gesù Cristo bevve nell'Ultima Cena.",
-      "tagline": "Questa volta si porta papà.",
-      "poster": "/bPcdsUvGwyeIfyFkzebJdUcw8Fd.jpg",
-      "backdrop": "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
-      "director": "Steven Spielberg",
-      "cast": [
-        "Harrison Ford",
-        "Sean Connery",
-        "Denholm Elliott",
-        "Alison Doody",
-        "John Rhys-Davies"
-      ],
-      "castDetail": [
-        {
-          "name": "Harrison Ford",
-          "character": "Indiana Jones",
-          "profile": "/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
-        },
-        {
-          "name": "Sean Connery",
-          "character": "Professor Henry Jones",
-          "profile": "/cd0zKpYJ6eSutkrZkLFxQCGjhnF.jpg"
-        },
-        {
-          "name": "Denholm Elliott",
-          "character": "Marcus Brody",
-          "profile": "/qqgkT4QMMUbiFztfcUVLPYRXAxD.jpg"
-        },
-        {
-          "name": "Alison Doody",
-          "character": "Elsa",
-          "profile": "/q5CpMFAjLP40JHgwS6qWku6arSC.jpg"
-        },
-        {
-          "name": "John Rhys-Davies",
-          "character": "Sallah",
-          "profile": "/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
-        },
-        {
-          "name": "Julian Glover",
-          "character": "Walter Donovan",
-          "profile": "/diwVEgax6O2YwJu2VcW8zC0qhot.jpg"
-        },
-        {
-          "name": "River Phoenix",
-          "character": "Young Indy",
-          "profile": "/m6fAk9U6ws76aWCBanu2cj2Lgh0.jpg"
-        },
-        {
-          "name": "Michael Byrne",
-          "character": "Vogel",
-          "profile": "/cWUhkJPdyPFbWAskmTuzgEXYR8X.jpg"
-        }
-      ],
-      "tmdbRating": 7.857,
-      "tmdbVotes": 11439,
-      "popularity": 22.6694,
-      "trailer": "https://www.youtube.com/watch?v=Rs02Vmufgv8",
-      "fonte": "avventura: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "regia di Steven Spielberg, di cui hai visto un film",
-      "motivi": [
-        "regia di Steven Spielberg, di cui hai visto un film",
-        "avventura: il tuo terreno"
-      ],
-      "proposto": "2026-10-16"
-    },
-    {
-      "tmdbId": 872,
-      "imdbId": "tt0045152",
-      "title": "Cantando sotto la pioggia",
-      "originalTitle": "Singin' in the Rain",
-      "release": "1953-02-05",
-      "releaseFonte": "IT",
-      "genres": [
-        "Commedia",
-        "Romance"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 102,
-      "plot": "Don, un giovane attore di varietà, decide di tentare la fortuna passando al cinema. Viene ingaggiato per affiancare la bellissima attrice Lina Lamont in un film muto e la pellicola ottiene uno strepitoso successo.",
-      "tagline": null,
-      "poster": "/yHPHqHUwE0J8qRUW3NjOcCbqv9r.jpg",
-      "backdrop": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
-      "director": "Stanley Donen",
-      "cast": [
-        "Gene Kelly",
-        "Donald O'Connor",
-        "Debbie Reynolds",
-        "Jean Hagen",
-        "Millard Mitchell"
-      ],
-      "castDetail": [
-        {
-          "name": "Gene Kelly",
-          "character": "Don Lockwood",
-          "profile": "/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
-        },
-        {
-          "name": "Donald O'Connor",
-          "character": "Cosmo Brown",
-          "profile": "/sV7Dx16wcajPsxJItmW5dX4axoW.jpg"
-        },
-        {
-          "name": "Debbie Reynolds",
-          "character": "Kathy Selden",
-          "profile": "/2jG8pk5fr9ZgCQOH1cLVDWbbwBK.jpg"
-        },
-        {
-          "name": "Jean Hagen",
-          "character": "Lina Lamont",
-          "profile": "/i8fAlnnH3v5LECQaHD3RdfZeG9z.jpg"
-        },
-        {
-          "name": "Millard Mitchell",
-          "character": "R.F. Simpson",
-          "profile": "/elMhz4DvHUu5OK8hdC3cpzPwGEk.jpg"
-        },
-        {
-          "name": "Cyd Charisse",
-          "character": "Dancer",
-          "profile": "/g5in2cxIlYimrD5bNYPeX6AkBb2.jpg"
-        },
-        {
-          "name": "Douglas Fowley",
-          "character": "Roscoe Dexter",
-          "profile": "/zsgxWLXCHdMKJrsCI8dRWs4IEEk.jpg"
-        },
-        {
-          "name": "Rita Moreno",
-          "character": "Zelda Zanders",
-          "profile": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
-        }
-      ],
-      "tmdbRating": 8.123,
-      "tmdbVotes": 3646,
-      "popularity": 15.6999,
-      "trailer": "https://www.youtube.com/watch?v=lSE8sl2-PZg",
-      "fonte": "un classico che ti manca",
-      "categoria": "un classico",
-      "perche": "un classico che ti manca",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "proposto": "2026-10-16"
+      "proposto": "2026-10-17"
     }
   ],
   "storico": {
@@ -868,6 +371,7 @@
     "994108": "2026-09-29",
     "1007757": "2026-09-19",
     "1087192": "2026-10-04",
+    "1101412": "2026-10-17",
     "1108427": "2026-09-16",
     "1184918": "2026-09-17",
     "1204680": "2026-10-01",
