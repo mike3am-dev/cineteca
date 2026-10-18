@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-17T08:58:01.239Z",
+  "preparato": "2026-10-18T09:16:39.779Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -89,13 +89,15 @@
       "uscitaItalia": "2026-10-15",
       "regia": "Brian Duffield",
       "generi": [
-        "Thriller"
+        "Thriller",
+        "Dramma",
+        "Horror"
       ],
       "paesi": [
         "USA"
       ],
       "durata": 106,
-      "tagline": null,
+      "tagline": "Trattieni il respiro",
       "cast": [
         "Austin Abrams (Jay Gardiner)",
         "Josh Brolin (Mitt Gardiner)",
@@ -107,7 +109,7 @@
       "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
       "motivi": [
         "c'è Josh Brolin, che hai visto 2 volte",
-        "thriller, il tuo terreno"
+        "thriller e dramma: il tuo terreno"
       ],
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
@@ -217,6 +219,71 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
+      "origine": "trailer",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": null,
+      "cast": [
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Tom Waits"
+      ],
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+      "motivi": [],
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "origine": "trailer",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": null,
+      "cast": [
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "motivi": [],
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
       "id": "tmdb-977942",
       "tmdbId": 977942,
       "imdbId": "tt36983905",
@@ -251,39 +318,6 @@
       "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
     },
     {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
-      "generi": [
-        "Commedia",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": null,
-      "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Tom Waits"
-      ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
       "id": "tmdb-1153576",
       "tmdbId": 1153576,
       "imdbId": "tt27419420",
@@ -308,77 +342,12 @@
         "Noah Centineo (Ken Masters)",
         "Callina Liang (Chun-Li)",
         "David Dastmalchian (M. Bison)",
-        "Eric Andre (Don Sauvage)",
-        "Andrew Schulz (Dan Hibiki)"
+        "Mel Jarnson (Cammy)",
+        "Cody Rhodes (Guile)"
       ],
       "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
       "motivi": [],
       "impronta": "Street Fighter|600|Kitao Sakurai"
-    },
-    {
-      "id": "tmdb-1381071",
-      "tmdbId": 1381071,
-      "imdbId": "tt34384661",
-      "origine": "trailer",
-      "titolo": "Godzilla Minus Zero",
-      "titoloOriginale": "ゴジラ-0.0",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Takashi Yamazaki",
-      "generi": [
-        "Fantascienza",
-        "Horror",
-        "Azione"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 135,
-      "tagline": null,
-      "cast": [
-        "Ryūnosuke Kamiki (Koichi Shikishima)",
-        "浜辺美波 (Noriko Oishi)",
-        "山田裕貴 (Shiro Mizushima)",
-        "Kuranosuke Sasaki (Seiji Akitsu)",
-        "Jun Kunimura",
-        "田中美央 (Captain Tatsuo Hotta)"
-      ],
-      "tramaTmdb": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
-      "motivi": [],
-      "impronta": "Godzilla Minus Zero|379|Takashi Yamazaki"
-    },
-    {
-      "id": "tmdb-1101412",
-      "tmdbId": 1101412,
-      "imdbId": "tt31192372",
-      "origine": "scoperta",
-      "titolo": "Fall 2: Deadpoint",
-      "titoloOriginale": "Fall 2: Deadpoint",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-01",
-      "regia": "Michael Spierig",
-      "generi": [
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": null,
-      "cast": [
-        "Harriet Slater (Jax Hunter)",
-        "Arsema Thomas (Luce)",
-        "Tom Brittney (Jon Platt)",
-        "Virginia Gardner (Shiloh Hunter)",
-        "Sahajak Boonthanakit (Thai Barman)",
-        "Korakod Yensuk (Large Woman)"
-      ],
-      "tramaTmdb": "Durante una pericolosa scalata sul monte Kwan in Thailandia, due alpinisti rimangono intrappolati a migliaia di piedi dal suolo, dove altezze che inducono vertigini, pura esposizione e probabilità impossibili trasformano ogni momento in una lotta per la sopravvivenza.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Fall 2: Deadpoint|268|Michael Spierig"
     }
   ]
 }
