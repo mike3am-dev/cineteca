@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-18T09:16:39.779Z",
+  "preparato": "2026-10-19T10:26:38.433Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,41 +78,6 @@
     ]
   },
   "film": [
-    {
-      "id": "tmdb-1255833",
-      "tmdbId": 1255833,
-      "imdbId": "tt28535715",
-      "origine": "trailer",
-      "titolo": "Whalefall - Nella balena",
-      "titoloOriginale": "Whalefall",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Brian Duffield",
-      "generi": [
-        "Thriller",
-        "Dramma",
-        "Horror"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 106,
-      "tagline": "Trattieni il respiro",
-      "cast": [
-        "Austin Abrams (Jay Gardiner)",
-        "Josh Brolin (Mitt Gardiner)",
-        "Elisabeth Shue (Zara Gardiner)",
-        "John Ortiz (Hewey)",
-        "Jane Levy (Eva Gardiner)",
-        "Emily Rudd (Nan Gardiner)"
-      ],
-      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
-      "motivi": [
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "thriller e dramma: il tuo terreno"
-      ],
-      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
-    },
     {
       "id": "tmdb-1503762",
       "tmdbId": 1503762,
@@ -148,6 +113,39 @@
       "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
+      "id": "tmdb-1255833",
+      "tmdbId": 1255833,
+      "imdbId": "tt28535715",
+      "origine": "trailer",
+      "titolo": "Whalefall - Nella balena",
+      "titoloOriginale": "Whalefall",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Brian Duffield",
+      "generi": [
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": "Trattieni il respiro",
+      "cast": [
+        "Austin Abrams (Jay Gardiner)",
+        "Josh Brolin (Mitt Gardiner)",
+        "Elisabeth Shue (Zara Gardiner)",
+        "John Ortiz (Hewey)",
+        "Jane Levy (Eva Gardiner)",
+        "Emily Rudd (Nan Gardiner)"
+      ],
+      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+      "motivi": [
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "thriller, il tuo terreno"
+      ],
+      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
+    {
       "id": "tmdb-858035",
       "tmdbId": 858035,
       "imdbId": "tt14371256",
@@ -167,7 +165,7 @@
         "Regno Unito",
         "USA"
       ],
-      "durata": 117,
+      "durata": 116,
       "tagline": "Il futuro dell'amicizia è qui",
       "cast": [
         "Jenna Ortega (Klara)",
@@ -217,6 +215,38 @@
       "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
       "motivi": [],
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
+    },
+    {
+      "id": "tmdb-1153576",
+      "tmdbId": 1153576,
+      "imdbId": "tt27419420",
+      "origine": "trailer",
+      "titolo": "Street Fighter",
+      "titoloOriginale": "Street Fighter",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Kitao Sakurai",
+      "generi": [
+        "Azione",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": null,
+      "cast": [
+        "Andrew Koji (Ryu)",
+        "Noah Centineo (Ken Masters)",
+        "Callina Liang (Chun-Li)",
+        "David Dastmalchian (M. Bison)",
+        "Mel Jarnson (Cammy)",
+        "Cody Rhodes (Guile)"
+      ],
+      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
+      "motivi": [],
+      "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
       "id": "tmdb-891621",
@@ -318,36 +348,38 @@
       "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
     },
     {
-      "id": "tmdb-1153576",
-      "tmdbId": 1153576,
-      "imdbId": "tt27419420",
-      "origine": "trailer",
-      "titolo": "Street Fighter",
-      "titoloOriginale": "Street Fighter",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Kitao Sakurai",
+      "id": "tmdb-9479",
+      "tmdbId": 9479,
+      "imdbId": "tt0107688",
+      "origine": "scoperta",
+      "titolo": "Nightmare Before Christmas",
+      "titoloOriginale": "The Nightmare Before Christmas",
+      "anno": "1993",
+      "uscitaItalia": "1993-12-06",
+      "regia": "Henry Selick",
       "generi": [
-        "Azione",
-        "Fantasy"
+        "Fantasy",
+        "Animazione",
+        "Famiglia"
       ],
       "paesi": [
-        "Giappone",
         "USA"
       ],
-      "durata": 120,
+      "durata": 76,
       "tagline": null,
       "cast": [
-        "Andrew Koji (Ryu)",
-        "Noah Centineo (Ken Masters)",
-        "Callina Liang (Chun-Li)",
-        "David Dastmalchian (M. Bison)",
-        "Mel Jarnson (Cammy)",
-        "Cody Rhodes (Guile)"
+        "Danny Elfman (Jack Skellington (singing) / Barrel / Clown with the Tear away Face (voice))",
+        "Chris Sarandon (Jack Skellington (voice))",
+        "Catherine O'Hara (Sally / Shock (voice))",
+        "William Hickey (Dr. Finkelstein (voice))",
+        "Glenn Shadix (Mayor (voice))",
+        "Paul Reubens (Lock (voice))"
       ],
-      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
-      "motivi": [],
-      "impronta": "Street Fighter|600|Kitao Sakurai"
+      "tramaTmdb": "Jack Skeletron, il sovrano della città di Halloween, vuole riprodurre la magia della città di Natale, naturalmente a modo suo, e per fare ciò rapisce proprio Babbo Natale, mettendo in pericolo il naturale equilibrio fra le festività. Riuscirà Sally, con il suo amore, a far ritornare Jack sui propri passi ed evitare così questo disastro?",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Nightmare Before Christmas|338|Henry Selick"
     }
   ]
 }
