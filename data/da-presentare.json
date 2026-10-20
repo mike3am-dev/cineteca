@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-19T10:26:38.433Z",
+  "preparato": "2026-10-20T09:45:22.234Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -157,8 +157,7 @@
       "regia": "Taika Waititi",
       "generi": [
         "Fantascienza",
-        "Dramma",
-        "Commedia"
+        "Dramma"
       ],
       "paesi": [
         "Nuova Zelanda",
@@ -180,73 +179,6 @@
         "fantascienza e dramma: il tuo terreno"
       ],
       "impronta": "Klara e il sole|412|Taika Waititi"
-    },
-    {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
-      "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
-      "generi": [
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Famiglia"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherri (voice))",
-        "Bowen Yang ((voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
-      "id": "tmdb-1153576",
-      "tmdbId": 1153576,
-      "imdbId": "tt27419420",
-      "origine": "trailer",
-      "titolo": "Street Fighter",
-      "titoloOriginale": "Street Fighter",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Kitao Sakurai",
-      "generi": [
-        "Azione",
-        "Fantasy"
-      ],
-      "paesi": [
-        "Giappone",
-        "USA"
-      ],
-      "durata": 120,
-      "tagline": null,
-      "cast": [
-        "Andrew Koji (Ryu)",
-        "Noah Centineo (Ken Masters)",
-        "Callina Liang (Chun-Li)",
-        "David Dastmalchian (M. Bison)",
-        "Mel Jarnson (Cammy)",
-        "Cody Rhodes (Guile)"
-      ],
-      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
-      "motivi": [],
-      "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
       "id": "tmdb-891621",
@@ -280,6 +212,107 @@
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
+      "id": "tmdb-1117898",
+      "tmdbId": 1117898,
+      "imdbId": "tt2321555",
+      "origine": "trailer",
+      "titolo": "Il gatto col cappello",
+      "titoloOriginale": "The Cat in the Hat",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Erica Rivinoja",
+      "generi": [
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Famiglia"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 91,
+      "tagline": "Qui gatto ci cova",
+      "cast": [
+        "Bill Hader (The Cat in the Hat (voice))",
+        "Xochitl Gomez (Gabby (voice))",
+        "Tiago Martinez (Sebastian (voice))",
+        "Matt Berry (Waffles the Fish (voice))",
+        "Quinta Brunson (Sherri (voice))",
+        "Bowen Yang (Gary (voice))"
+      ],
+      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+      "motivi": [],
+      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
+    },
+    {
+      "id": "tmdb-1477712",
+      "tmdbId": 1477712,
+      "imdbId": "tt36893729",
+      "origine": "trailer",
+      "titolo": "Ice Cream Man",
+      "titoloOriginale": "Ice Cream Man",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-29",
+      "regia": "Eli Roth",
+      "generi": [
+        "Commedia",
+        "Horror",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito",
+        "Francia"
+      ],
+      "durata": 86,
+      "tagline": null,
+      "cast": [
+        "Ari Millen (The Ice Cream Man / Jonathan Smiley)",
+        "Charlie Zeltzer (Jared)",
+        "Shiloh O’Reilly (Tommy)",
+        "Kiori Mirza Waldman (Mia)",
+        "Sarah Abbott (Lizzie)",
+        "Benjamin Byron Davis (The Priest)"
+      ],
+      "tramaTmdb": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
+      "motivi": [],
+      "impronta": "Ice Cream Man|156|Eli Roth"
+    },
+    {
+      "id": "tmdb-1153576",
+      "tmdbId": 1153576,
+      "imdbId": "tt27419420",
+      "origine": "trailer",
+      "titolo": "Street Fighter",
+      "titoloOriginale": "Street Fighter",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Kitao Sakurai",
+      "generi": [
+        "Azione",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": null,
+      "cast": [
+        "Andrew Koji (Ryu)",
+        "Noah Centineo (Ken Masters)",
+        "Callina Liang (Chun-Li)",
+        "David Dastmalchian (M. Bison)",
+        "Mel Jarnson (Cammy)",
+        "Cody Rhodes (Guile)"
+      ],
+      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
+      "motivi": [],
+      "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
       "id": "tmdb-791523",
@@ -346,40 +379,6 @@
       "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
       "motivi": [],
       "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
-    },
-    {
-      "id": "tmdb-9479",
-      "tmdbId": 9479,
-      "imdbId": "tt0107688",
-      "origine": "scoperta",
-      "titolo": "Nightmare Before Christmas",
-      "titoloOriginale": "The Nightmare Before Christmas",
-      "anno": "1993",
-      "uscitaItalia": "1993-12-06",
-      "regia": "Henry Selick",
-      "generi": [
-        "Fantasy",
-        "Animazione",
-        "Famiglia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 76,
-      "tagline": null,
-      "cast": [
-        "Danny Elfman (Jack Skellington (singing) / Barrel / Clown with the Tear away Face (voice))",
-        "Chris Sarandon (Jack Skellington (voice))",
-        "Catherine O'Hara (Sally / Shock (voice))",
-        "William Hickey (Dr. Finkelstein (voice))",
-        "Glenn Shadix (Mayor (voice))",
-        "Paul Reubens (Lock (voice))"
-      ],
-      "tramaTmdb": "Jack Skeletron, il sovrano della città di Halloween, vuole riprodurre la magia della città di Natale, naturalmente a modo suo, e per fare ciò rapisce proprio Babbo Natale, mettendo in pericolo il naturale equilibrio fra le festività. Riuscirà Sally, con il suo amore, a far ritornare Jack sui propri passi ed evitare così questo disastro?",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Nightmare Before Christmas|338|Henry Selick"
     }
   ]
 }
