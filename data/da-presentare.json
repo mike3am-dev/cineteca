@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-20T09:45:22.234Z",
+  "preparato": "2026-10-21T09:46:48.566Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -249,6 +249,38 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "origine": "trailer",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": null,
+      "cast": [
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "motivi": [],
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
       "id": "tmdb-1477712",
       "tmdbId": 1477712,
       "imdbId": "tt36893729",
@@ -315,70 +347,207 @@
       "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
-      "id": "tmdb-791523",
-      "tmdbId": 791523,
-      "imdbId": "tt2056785",
+      "id": "tmdb-1567605",
+      "tmdbId": 1567605,
+      "imdbId": "tt38773219",
       "origine": "trailer",
-      "titolo": "Wildwood - I segreti del bosco proibito",
-      "titoloOriginale": "Wildwood",
+      "titolo": "Scrooge e gli spiriti del Natale",
+      "titoloOriginale": "Ebenezer",
       "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Travis Knight",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Ti West",
+      "generi": [
+        "Fantasy",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito"
+      ],
+      "durata": 120,
+      "tagline": null,
+      "cast": [
+        "Johnny Depp (Ebenezer Scrooge)",
+        "Rupert Grint (Bob Cratchit)",
+        "Daisy Ridley (Emily Cratchit)",
+        "Andrea Riseborough (Ghost of Christmas Past)",
+        "Tramell Tillman (Ghost of Christmas Present)",
+        "Ian McKellen (Jacob Marley)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [],
+      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
+    },
+    {
+      "id": "tmdb-110420",
+      "tmdbId": 110420,
+      "imdbId": "tt2140203",
+      "origine": "scoperta",
+      "titolo": "Wolf Children - Ame e Yuki i bambini lupo",
+      "titoloOriginale": "おおかみこどもの雨と雪",
+      "anno": "2013",
+      "uscitaItalia": "2013-11-13",
+      "regia": "細田守",
       "generi": [
         "Animazione",
-        "Avventura",
+        "Famiglia",
+        "Dramma",
         "Fantasy"
       ],
       "paesi": [
-        "USA"
+        "Giappone"
       ],
-      "durata": 132,
-      "tagline": null,
+      "durata": 117,
+      "tagline": "Amare selvaggiamente.",
       "cast": [
-        "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Carey Mulligan (Alexandra (voice))",
-        "Mahershala Ali (Brenden (voice))",
-        "Angela Bassett (The General (voice))",
-        "Awkwafina (Septima (voice))"
+        "宮﨑あおい (Hana (voice))",
+        "大沢たかお (Wolf Man (voice))",
+        "黒木華 (Yuki (voice))",
+        "西井幸人 (Ame (voice))",
+        "大野百花 (Yuki as a Child (voice))",
+        "加部亜門 (Ame as a Child (voice))"
       ],
-      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-      "motivi": [],
-      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+      "tramaTmdb": "I protagonisti, Ame e Yuki, sono due bambini apparentemente normali, che conducono una vita semplice con la madre Hana. Ma in realtà celano un segreto cruciale: il loro papà è un licantropo sparito misteriosamente e i bambini condividono la sua terribile eredità metamorfica… Come educarli?",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Wolf Children - Ame e Yuki i bambini lupo|290|細田守"
     },
     {
-      "id": "tmdb-977942",
-      "tmdbId": 977942,
-      "imdbId": "tt36983905",
-      "origine": "trailer",
-      "titolo": "The Uprising - Cuore ribelle",
-      "titoloOriginale": "The Uprising",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Paul Greengrass",
+      "id": "tmdb-527641",
+      "tmdbId": 527641,
+      "imdbId": "tt6472976",
+      "origine": "scoperta",
+      "titolo": "A un metro da te",
+      "titoloOriginale": "Five Feet Apart",
+      "anno": "2019",
+      "uscitaItalia": "2019-03-21",
+      "regia": "Justin Baldoni",
       "generi": [
-        "Azione",
+        "Romance",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 116,
+      "tagline": "Ci si può innamorare senza mai sfiorarsi?",
+      "cast": [
+        "Haley Lu Richardson (Stella)",
+        "Cole Sprouse (Will)",
+        "Moisés Arias (Poe)",
+        "Kimberly Hébert Gregory (Barb)",
+        "Parminder Nagra (Dr. Hamid)",
+        "Claire Forlani (Meredith)"
+      ],
+      "tramaTmdb": "Stella, diciassettenne, trascorre la maggior parte del tempo in ospedale perché affetta da fibrosi cistica. La sua vita è piena di routine, confini e autocontrollo: tutti sono messi alla prova quando incontra Will, un adolescente incredibilmente affascinante che ha la sua stessa malattia.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "A un metro da te|289|Justin Baldoni"
+    },
+    {
+      "id": "tmdb-16869",
+      "tmdbId": 16869,
+      "imdbId": "tt0361748",
+      "origine": "scoperta",
+      "titolo": "Bastardi senza gloria",
+      "titoloOriginale": "Inglourious Basterds",
+      "anno": "2009",
+      "uscitaItalia": "2009-10-02",
+      "regia": "Quentin Tarantino",
+      "generi": [
         "Dramma",
-        "Storia"
+        "Thriller",
+        "Guerra"
       ],
       "paesi": [
         "Germania",
+        "USA"
+      ],
+      "durata": 153,
+      "tagline": "Benvenuti alla delirante storia di una vendetta senza gloria",
+      "cast": [
+        "Brad Pitt (LT. Aldo Raine)",
+        "Mélanie Laurent (Shosanna)",
+        "Christoph Waltz (COL. Hans Landa)",
+        "Eli Roth (SGT. Donny Donowitz)",
+        "Michael Fassbender (LT. Archie Hicox)",
+        "Diane Kruger (Bridget von Hammersmark)"
+      ],
+      "tramaTmdb": "Nella Francia occupata dai nazisti, durante la Seconda Guerra Mondiale, Shosanna Dreyfus assiste all'esecuzione della sua famiglia su ordine del colonnello nazista Hans Landa, ma riesce a fuggire a Parigi dove assume una nuova identità, come operatrice e titolare di un cinematografo. Nel frattempo, in un'altra località europea, il tenente Aldo Raine si mette alla guida di un gruppo di soldati ebrei conosciuti dai loro nemici come I Bastardi. Insieme ai suoi uomini, Raine collabora con con l'attrice tedesca Bridget Von Hammersmark, che in realtà è un agente segreto, in una missione speciale per",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Bastardi senza gloria|600|Quentin Tarantino"
+    },
+    {
+      "id": "tmdb-694",
+      "tmdbId": 694,
+      "imdbId": "tt0081505",
+      "origine": "scoperta",
+      "titolo": "Shining",
+      "titoloOriginale": "The Shining",
+      "anno": "1980",
+      "uscitaItalia": "1980-12-22",
+      "regia": "Stanley Kubrick",
+      "generi": [
+        "Horror",
+        "Thriller"
+      ],
+      "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 128,
-      "tagline": "Risorgi o muori.",
+      "durata": 142,
+      "tagline": "L'onda di terrore che ha spazzato l'America è qui.",
       "cast": [
-        "Andrew Garfield (Ploughman)",
-        "Jamie Bell (John Ball)",
-        "Stephen Dillane (Archbishop Sudbury)",
-        "Woody Norman (King Richard II)",
-        "Tom Hollander (Treasurer Hales)",
-        "Cosmo Jarvis (Wat Tyler)"
+        "Jack Nicholson (Jack Torrance)",
+        "Shelley Duvall (Wendy Torrance)",
+        "Danny Lloyd (Danny)",
+        "Scatman Crothers (Hallorann)",
+        "Barry Nelson (Ullman)",
+        "Philip Stone (Grady)"
       ],
-      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
-      "motivi": [],
-      "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
+      "tramaTmdb": "L'aspirante scrittore Jack Torrance si trasferisce tra i monti per trovare il giusto isolamento che gli permetterà di completare il suo romanzo. L'uomo accetta quindi l'incarico di custode invernale di un enorme albergo tra le montagne, dove lo seguono la moglie e il figlioletto Danny, il quale possiede poteri paranormali che gli permettono di vedere nel passato e nel futuro.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Shining|378|Stanley Kubrick"
+    },
+    {
+      "id": "tmdb-508965",
+      "tmdbId": 508965,
+      "imdbId": "tt4729430",
+      "origine": "scoperta",
+      "titolo": "Klaus - I segreti del Natale",
+      "titoloOriginale": "Klaus",
+      "anno": "2019",
+      "uscitaItalia": "2019-11-08",
+      "regia": "Sergio Pablos",
+      "generi": [
+        "Animazione",
+        "Famiglia",
+        "Commedia"
+      ],
+      "paesi": [
+        "Spagna"
+      ],
+      "durata": 97,
+      "tagline": "Basta crederci",
+      "cast": [
+        "Jason Schwartzman (Jesper (voice))",
+        "J.K. Simmons (Klaus (voice))",
+        "Rashida Jones (Alva (voice))",
+        "Joan Cusack (Mrs. Krum (voice))",
+        "Norm Macdonald (Mogens (voice))",
+        "Will Sasso (Mr. Ellingboe (voice))"
+      ],
+      "tramaTmdb": "Jesper, il peggior studente dell'Accademia delle Poste, viene spedito su un'isola ghiacciata, oltre il Circolo Polare Artico, dove la gente del posto fatica a scambiare qualche parola e tanto meno lettere. Jesper sta per arrendersi quando trova un'alleata in Alva, un'insegnante del posto, e incontra Klaus, un misterioso falegname che vive da solo in una baita piena di giocattoli realizzati a mano.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Klaus - I segreti del Natale|400|Sergio Pablos"
     }
   ]
 }

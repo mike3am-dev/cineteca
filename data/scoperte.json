@@ -1,7 +1,419 @@
 {
-  "aggiornato": "2026-10-20T09:45:22.233Z",
-  "giorno": "2026-10-20",
-  "film": [],
+  "aggiornato": "2026-10-21T09:46:48.565Z",
+  "giorno": "2026-10-21",
+  "film": [
+    {
+      "tmdbId": 110420,
+      "imdbId": "tt2140203",
+      "title": "Wolf Children - Ame e Yuki i bambini lupo",
+      "originalTitle": "おおかみこどもの雨と雪",
+      "release": "2013-11-13",
+      "releaseFonte": "IT",
+      "genres": [
+        "Animazione",
+        "Famiglia",
+        "Dramma",
+        "Fantasy"
+      ],
+      "countries": [
+        "Giappone"
+      ],
+      "runtime": 117,
+      "plot": "I protagonisti, Ame e Yuki, sono due bambini apparentemente normali, che conducono una vita semplice con la madre Hana. Ma in realtà celano un segreto cruciale: il loro papà è un licantropo sparito misteriosamente e i bambini condividono la sua terribile eredità metamorfica… Come educarli?",
+      "tagline": "Amare selvaggiamente.",
+      "poster": "/2P7Uj8dyOmhzS66SaLyfceD1BjM.jpg",
+      "backdrop": "/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg",
+      "director": "細田守",
+      "cast": [
+        "宮﨑あおい",
+        "大沢たかお",
+        "黒木華",
+        "西井幸人",
+        "大野百花"
+      ],
+      "castDetail": [
+        {
+          "name": "宮﨑あおい",
+          "character": "Hana (voice)",
+          "profile": "/9xbfwMqlETlGMdiqycmc8FDcWa9.jpg"
+        },
+        {
+          "name": "大沢たかお",
+          "character": "Wolf Man (voice)",
+          "profile": "/nxSOEoENPw6NIYOckna94WICPAE.jpg"
+        },
+        {
+          "name": "黒木華",
+          "character": "Yuki (voice)",
+          "profile": "/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
+        },
+        {
+          "name": "西井幸人",
+          "character": "Ame (voice)",
+          "profile": "/papPYfWpj7lrpS6eGSQYH1bM4Hy.jpg"
+        },
+        {
+          "name": "大野百花",
+          "character": "Yuki as a Child (voice)",
+          "profile": "/8Ts2UoALyqs0c5rRFzBkSNlrBmf.jpg"
+        },
+        {
+          "name": "加部亜門",
+          "character": "Ame as a Child (voice)",
+          "profile": "/9QuiyASaZo17czjFA4Y7LWtu8W0.jpg"
+        },
+        {
+          "name": "平岡拓真",
+          "character": "Sohei (voice)",
+          "profile": "/4a0kjjfZ2cGn0WdbWvabCEz8SRN.jpg"
+        },
+        {
+          "name": "Megumi Hayashibara",
+          "character": "Sohei's Mother (voice)",
+          "profile": "/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+        }
+      ],
+      "tmdbRating": 8.218,
+      "tmdbVotes": 2561,
+      "popularity": 11.0592,
+      "trailer": "https://www.youtube.com/watch?v=gWSNCzIQeWw",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-21"
+    },
+    {
+      "tmdbId": 527641,
+      "imdbId": "tt6472976",
+      "title": "A un metro da te",
+      "originalTitle": "Five Feet Apart",
+      "release": "2019-03-21",
+      "releaseFonte": "IT",
+      "genres": [
+        "Romance",
+        "Dramma"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 116,
+      "plot": "Stella, diciassettenne, trascorre la maggior parte del tempo in ospedale perché affetta da fibrosi cistica. La sua vita è piena di routine, confini e autocontrollo: tutti sono messi alla prova quando incontra Will, un adolescente incredibilmente affascinante che ha la sua stessa malattia.",
+      "tagline": "Ci si può innamorare senza mai sfiorarsi?",
+      "poster": "/nuIlrl1jBwvKSOjXGqba418nwWF.jpg",
+      "backdrop": "/cYdHaKx6Ihj1BIvbxpCxIGXfZ02.jpg",
+      "director": "Justin Baldoni",
+      "cast": [
+        "Haley Lu Richardson",
+        "Cole Sprouse",
+        "Moisés Arias",
+        "Kimberly Hébert Gregory",
+        "Parminder Nagra"
+      ],
+      "castDetail": [
+        {
+          "name": "Haley Lu Richardson",
+          "character": "Stella",
+          "profile": "/iTNWzU5FlKT8s0CBZQyMIvebBPh.jpg"
+        },
+        {
+          "name": "Cole Sprouse",
+          "character": "Will",
+          "profile": "/mQAXL0rUGwX316d1FBBQmloZzHu.jpg"
+        },
+        {
+          "name": "Moisés Arias",
+          "character": "Poe",
+          "profile": "/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+        },
+        {
+          "name": "Kimberly Hébert Gregory",
+          "character": "Barb",
+          "profile": "/qHhb8bU2oWscATbSwsxPz1NVwGZ.jpg"
+        },
+        {
+          "name": "Parminder Nagra",
+          "character": "Dr. Hamid",
+          "profile": "/cjhduysHB3hXjzaCyH5VYEXkT1J.jpg"
+        },
+        {
+          "name": "Claire Forlani",
+          "character": "Meredith",
+          "profile": "/e0Uk6QphxHZ9VTtxUT0ZkPgYWNs.jpg"
+        },
+        {
+          "name": "Emily Baldoni",
+          "character": "Julie",
+          "profile": "/1d5FaYSUNLkgu0ev6PBlDgk8DoC.jpg"
+        },
+        {
+          "name": "Gary Weeks",
+          "character": "Tom",
+          "profile": "/n4taftpteF6qUTeYRDkdGPHC58.jpg"
+        }
+      ],
+      "tmdbRating": 8.213,
+      "tmdbVotes": 6009,
+      "popularity": 11.1425,
+      "trailer": "https://www.youtube.com/watch?v=A_Rs9R5K4ps",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-21"
+    },
+    {
+      "tmdbId": 16869,
+      "imdbId": "tt0361748",
+      "title": "Bastardi senza gloria",
+      "originalTitle": "Inglourious Basterds",
+      "release": "2009-10-02",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Thriller",
+        "Guerra"
+      ],
+      "countries": [
+        "Germania",
+        "USA"
+      ],
+      "runtime": 153,
+      "plot": "Nella Francia occupata dai nazisti, durante la Seconda Guerra Mondiale, Shosanna Dreyfus assiste all'esecuzione della sua famiglia su ordine del colonnello nazista Hans Landa, ma riesce a fuggire a Parigi dove assume una nuova identità, come operatrice e titolare di un cinematografo. Nel frattempo, in un'altra località europea, il tenente Aldo Raine si mette alla guida di un gruppo di soldati ebrei conosciuti dai loro nemici come I Bastardi. Insieme ai suoi uomini, Raine collabora con con l'attrice tedesca Bridget Von Hammersmark, che in realtà è un agente segreto, in una missione speciale per",
+      "tagline": "Benvenuti alla delirante storia di una vendetta senza gloria",
+      "poster": "/aa1jLbxTTuA6o5ucHoZh2khwNSo.jpg",
+      "backdrop": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Brad Pitt",
+        "Mélanie Laurent",
+        "Christoph Waltz",
+        "Eli Roth",
+        "Michael Fassbender"
+      ],
+      "castDetail": [
+        {
+          "name": "Brad Pitt",
+          "character": "LT. Aldo Raine",
+          "profile": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "Mélanie Laurent",
+          "character": "Shosanna",
+          "profile": "/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+        },
+        {
+          "name": "Christoph Waltz",
+          "character": "COL. Hans Landa",
+          "profile": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+        },
+        {
+          "name": "Eli Roth",
+          "character": "SGT. Donny Donowitz",
+          "profile": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg"
+        },
+        {
+          "name": "Michael Fassbender",
+          "character": "LT. Archie Hicox",
+          "profile": "/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+        },
+        {
+          "name": "Diane Kruger",
+          "character": "Bridget von Hammersmark",
+          "profile": "/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+        },
+        {
+          "name": "Daniel Brühl",
+          "character": "Fredrick Zoller",
+          "profile": "/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+        },
+        {
+          "name": "Til Schweiger",
+          "character": "SGT. Hugo Stiglitz",
+          "profile": "/3Jk7y4sKgckrN9RzAAt0drlR0QG.jpg"
+        }
+      ],
+      "tmdbRating": 8.217,
+      "tmdbVotes": 24988,
+      "popularity": 36.5849,
+      "trailer": "https://www.youtube.com/watch?v=bkFVk4zkxu0",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-21"
+    },
+    {
+      "tmdbId": 694,
+      "imdbId": "tt0081505",
+      "title": "Shining",
+      "originalTitle": "The Shining",
+      "release": "1980-12-22",
+      "releaseFonte": "IT",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "countries": [
+        "Regno Unito",
+        "USA"
+      ],
+      "runtime": 142,
+      "plot": "L'aspirante scrittore Jack Torrance si trasferisce tra i monti per trovare il giusto isolamento che gli permetterà di completare il suo romanzo. L'uomo accetta quindi l'incarico di custode invernale di un enorme albergo tra le montagne, dove lo seguono la moglie e il figlioletto Danny, il quale possiede poteri paranormali che gli permettono di vedere nel passato e nel futuro.",
+      "tagline": "L'onda di terrore che ha spazzato l'America è qui.",
+      "poster": "/shTUOizWjurXOl5Bp2riMvSNIbZ.jpg",
+      "backdrop": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd",
+        "Scatman Crothers",
+        "Barry Nelson"
+      ],
+      "castDetail": [
+        {
+          "name": "Jack Nicholson",
+          "character": "Jack Torrance",
+          "profile": "/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+        },
+        {
+          "name": "Shelley Duvall",
+          "character": "Wendy Torrance",
+          "profile": "/zwscEWl7QLiOsfsvzGXFjAQCVp3.jpg"
+        },
+        {
+          "name": "Danny Lloyd",
+          "character": "Danny",
+          "profile": "/5pEmugZ6m25RB0cXbL4t5D4kZAO.jpg"
+        },
+        {
+          "name": "Scatman Crothers",
+          "character": "Hallorann",
+          "profile": "/ughfThqQuuoPLSsC9HfkxwX370w.jpg"
+        },
+        {
+          "name": "Barry Nelson",
+          "character": "Ullman",
+          "profile": "/fSrHmvOxZJbeKpNM0uWGvha1aK9.jpg"
+        },
+        {
+          "name": "Philip Stone",
+          "character": "Grady",
+          "profile": "/l9riEGDgSK1NkVDUN6fn1TaXdpy.jpg"
+        },
+        {
+          "name": "Joe Turkel",
+          "character": "Lloyd",
+          "profile": "/rqpNzjLFCoMrvGSf6SIL5JnWwMT.jpg"
+        },
+        {
+          "name": "Anne Jackson",
+          "character": "Doctor",
+          "profile": "/tRXdd8JVhClmM0LsuyD7lWbbw4a.jpg"
+        }
+      ],
+      "tmdbRating": 8.2,
+      "tmdbVotes": 19553,
+      "popularity": 31.5997,
+      "trailer": "https://www.youtube.com/watch?v=wtXItiRx8Jk",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-21"
+    },
+    {
+      "tmdbId": 508965,
+      "imdbId": "tt4729430",
+      "title": "Klaus - I segreti del Natale",
+      "originalTitle": "Klaus",
+      "release": "2019-11-08",
+      "releaseFonte": "globale",
+      "genres": [
+        "Animazione",
+        "Famiglia",
+        "Commedia"
+      ],
+      "countries": [
+        "Spagna"
+      ],
+      "runtime": 97,
+      "plot": "Jesper, il peggior studente dell'Accademia delle Poste, viene spedito su un'isola ghiacciata, oltre il Circolo Polare Artico, dove la gente del posto fatica a scambiare qualche parola e tanto meno lettere. Jesper sta per arrendersi quando trova un'alleata in Alva, un'insegnante del posto, e incontra Klaus, un misterioso falegname che vive da solo in una baita piena di giocattoli realizzati a mano.",
+      "tagline": "Basta crederci",
+      "poster": "/5u38V38eaIkGXAa4gyVHNUfAU4Z.jpg",
+      "backdrop": "/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
+      "director": "Sergio Pablos",
+      "cast": [
+        "Jason Schwartzman",
+        "J.K. Simmons",
+        "Rashida Jones",
+        "Joan Cusack",
+        "Norm Macdonald"
+      ],
+      "castDetail": [
+        {
+          "name": "Jason Schwartzman",
+          "character": "Jesper (voice)",
+          "profile": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+        },
+        {
+          "name": "J.K. Simmons",
+          "character": "Klaus (voice)",
+          "profile": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+        },
+        {
+          "name": "Rashida Jones",
+          "character": "Alva (voice)",
+          "profile": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+        },
+        {
+          "name": "Joan Cusack",
+          "character": "Mrs. Krum (voice)",
+          "profile": "/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+        },
+        {
+          "name": "Norm Macdonald",
+          "character": "Mogens (voice)",
+          "profile": "/e7zNBqe1DEWVzpxxn41KuyQAKn4.jpg"
+        },
+        {
+          "name": "Will Sasso",
+          "character": "Mr. Ellingboe (voice)",
+          "profile": "/4F8p9Dg32WJl12ras7CzQzLFy2i.jpg"
+        },
+        {
+          "name": "Sergio Pablos",
+          "character": "Pumpkin / Olaf (voice)",
+          "profile": "/yUbwlVSiUZpjRYoD4XqFdiM1Knq.jpg"
+        },
+        {
+          "name": "Mila Brener",
+          "character": "Ellingboe Girl 3 (voice)",
+          "profile": "/qju4Z0flOcENRf2eHyG6w0wk7pG.jpg"
+        }
+      ],
+      "tmdbRating": 8.216,
+      "tmdbVotes": 4876,
+      "popularity": 12.641,
+      "trailer": "https://www.youtube.com/watch?v=mgkhZ_EMf4Q",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-21"
+    }
+  ],
   "storico": {
     "11": "2026-10-03",
     "13": "2026-09-30",
@@ -83,6 +495,7 @@
     "670": "2026-09-28",
     "679": "2026-09-22",
     "680": "2026-09-23",
+    "694": "2026-10-21",
     "752": "2026-10-07",
     "769": "2026-09-30",
     "775": "2026-09-17",
@@ -148,6 +561,7 @@
     "13855": "2026-10-01",
     "14160": "2026-10-13",
     "14306": "2026-09-12",
+    "16869": "2026-10-21",
     "17431": "2026-10-13",
     "18491": "2026-09-24",
     "19404": "2026-09-25",
@@ -179,6 +593,7 @@
     "84332": "2026-09-18",
     "100402": "2026-10-01",
     "103663": "2026-09-18",
+    "110420": "2026-10-21",
     "118340": "2026-09-14",
     "122917": "2026-10-16",
     "137113": "2026-09-17",
@@ -247,10 +662,12 @@
     "496243": "2026-09-23",
     "504253": "2026-10-16",
     "508442": "2026-10-14",
+    "508965": "2026-10-21",
     "520763": "2026-09-16",
     "522402": "2026-10-02",
     "522924": "2026-09-13",
     "524434": "2026-09-28",
+    "527641": "2026-10-21",
     "527774": "2026-10-02",
     "533533": "2026-09-24",
     "533535": "2026-10-08",
