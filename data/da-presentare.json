@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-21T09:46:48.566Z",
+  "preparato": "2026-10-22T09:47:17.382Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,6 +79,38 @@
   },
   "film": [
     {
+      "id": "tmdb-1591675",
+      "tmdbId": 1591675,
+      "imdbId": "tt39094466",
+      "origine": "trailer",
+      "titolo": "Look Back",
+      "titoloOriginale": "ルックバック",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Hirokazu Kore-eda",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 100,
+      "tagline": null,
+      "cast": [
+        "出口夏希 (Fujino)",
+        "Aju Makita (Kyomoto)",
+        "七瀬ふうり (Young Fujino)",
+        "岡田六花 (Young Kyomoto)",
+        "Masaki Suda (Maeda)",
+        "宮藤官九郎 (Tamai)"
+      ],
+      "tramaTmdb": "Fujino, adolescente determinata e piena di talento, sogna di diventare una mangaka. Kyomoto, schiva e solitaria, vive quasi sempre chiusa nella sua stanza, dedicando ogni istante al disegno. Unite dalla stessa passione, le due ragazze, cresciute in una piccola città, inseguono per tredici anni il sogno di diventare autrici di manga.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Look Back|334|Hirokazu Kore-eda"
+    },
+    {
       "id": "tmdb-1503762",
       "tmdbId": 1503762,
       "imdbId": "tt13609648",
@@ -144,41 +176,6 @@
         "thriller, il tuo terreno"
       ],
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
-    },
-    {
-      "id": "tmdb-858035",
-      "tmdbId": 858035,
-      "imdbId": "tt14371256",
-      "origine": "trailer",
-      "titolo": "Klara e il sole",
-      "titoloOriginale": "Klara and the Sun",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Taika Waititi",
-      "generi": [
-        "Fantascienza",
-        "Dramma"
-      ],
-      "paesi": [
-        "Nuova Zelanda",
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 116,
-      "tagline": "Il futuro dell'amicizia è qui",
-      "cast": [
-        "Jenna Ortega (Klara)",
-        "Mia Tharia (Josie)",
-        "Amy Adams (Chrissie)",
-        "Natasha Lyonne (Manager)",
-        "Aran Murphy (Rick)",
-        "Rachel House (Melania)"
-      ],
-      "tramaTmdb": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
-      "motivi": [
-        "fantascienza e dramma: il tuo terreno"
-      ],
-      "impronta": "Klara e il sole|412|Taika Waititi"
     },
     {
       "id": "tmdb-891621",
@@ -291,8 +288,8 @@
       "uscitaItalia": "2026-10-29",
       "regia": "Eli Roth",
       "generi": [
-        "Commedia",
         "Horror",
+        "Commedia",
         "Thriller"
       ],
       "paesi": [
@@ -379,175 +376,107 @@
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
     },
     {
-      "id": "tmdb-110420",
-      "tmdbId": 110420,
-      "imdbId": "tt2140203",
-      "origine": "scoperta",
-      "titolo": "Wolf Children - Ame e Yuki i bambini lupo",
-      "titoloOriginale": "おおかみこどもの雨と雪",
-      "anno": "2013",
-      "uscitaItalia": "2013-11-13",
-      "regia": "細田守",
+      "id": "tmdb-977942",
+      "tmdbId": 977942,
+      "imdbId": "tt36983905",
+      "origine": "trailer",
+      "titolo": "The Uprising - Cuore ribelle",
+      "titoloOriginale": "The Uprising",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Paul Greengrass",
       "generi": [
-        "Animazione",
-        "Famiglia",
+        "Azione",
         "Dramma",
-        "Fantasy"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 117,
-      "tagline": "Amare selvaggiamente.",
-      "cast": [
-        "宮﨑あおい (Hana (voice))",
-        "大沢たかお (Wolf Man (voice))",
-        "黒木華 (Yuki (voice))",
-        "西井幸人 (Ame (voice))",
-        "大野百花 (Yuki as a Child (voice))",
-        "加部亜門 (Ame as a Child (voice))"
-      ],
-      "tramaTmdb": "I protagonisti, Ame e Yuki, sono due bambini apparentemente normali, che conducono una vita semplice con la madre Hana. Ma in realtà celano un segreto cruciale: il loro papà è un licantropo sparito misteriosamente e i bambini condividono la sua terribile eredità metamorfica… Come educarli?",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Wolf Children - Ame e Yuki i bambini lupo|290|細田守"
-    },
-    {
-      "id": "tmdb-527641",
-      "tmdbId": 527641,
-      "imdbId": "tt6472976",
-      "origine": "scoperta",
-      "titolo": "A un metro da te",
-      "titoloOriginale": "Five Feet Apart",
-      "anno": "2019",
-      "uscitaItalia": "2019-03-21",
-      "regia": "Justin Baldoni",
-      "generi": [
-        "Romance",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 116,
-      "tagline": "Ci si può innamorare senza mai sfiorarsi?",
-      "cast": [
-        "Haley Lu Richardson (Stella)",
-        "Cole Sprouse (Will)",
-        "Moisés Arias (Poe)",
-        "Kimberly Hébert Gregory (Barb)",
-        "Parminder Nagra (Dr. Hamid)",
-        "Claire Forlani (Meredith)"
-      ],
-      "tramaTmdb": "Stella, diciassettenne, trascorre la maggior parte del tempo in ospedale perché affetta da fibrosi cistica. La sua vita è piena di routine, confini e autocontrollo: tutti sono messi alla prova quando incontra Will, un adolescente incredibilmente affascinante che ha la sua stessa malattia.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "A un metro da te|289|Justin Baldoni"
-    },
-    {
-      "id": "tmdb-16869",
-      "tmdbId": 16869,
-      "imdbId": "tt0361748",
-      "origine": "scoperta",
-      "titolo": "Bastardi senza gloria",
-      "titoloOriginale": "Inglourious Basterds",
-      "anno": "2009",
-      "uscitaItalia": "2009-10-02",
-      "regia": "Quentin Tarantino",
-      "generi": [
-        "Dramma",
-        "Thriller",
-        "Guerra"
+        "Storia"
       ],
       "paesi": [
         "Germania",
-        "USA"
-      ],
-      "durata": 153,
-      "tagline": "Benvenuti alla delirante storia di una vendetta senza gloria",
-      "cast": [
-        "Brad Pitt (LT. Aldo Raine)",
-        "Mélanie Laurent (Shosanna)",
-        "Christoph Waltz (COL. Hans Landa)",
-        "Eli Roth (SGT. Donny Donowitz)",
-        "Michael Fassbender (LT. Archie Hicox)",
-        "Diane Kruger (Bridget von Hammersmark)"
-      ],
-      "tramaTmdb": "Nella Francia occupata dai nazisti, durante la Seconda Guerra Mondiale, Shosanna Dreyfus assiste all'esecuzione della sua famiglia su ordine del colonnello nazista Hans Landa, ma riesce a fuggire a Parigi dove assume una nuova identità, come operatrice e titolare di un cinematografo. Nel frattempo, in un'altra località europea, il tenente Aldo Raine si mette alla guida di un gruppo di soldati ebrei conosciuti dai loro nemici come I Bastardi. Insieme ai suoi uomini, Raine collabora con con l'attrice tedesca Bridget Von Hammersmark, che in realtà è un agente segreto, in una missione speciale per",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Bastardi senza gloria|600|Quentin Tarantino"
-    },
-    {
-      "id": "tmdb-694",
-      "tmdbId": 694,
-      "imdbId": "tt0081505",
-      "origine": "scoperta",
-      "titolo": "Shining",
-      "titoloOriginale": "The Shining",
-      "anno": "1980",
-      "uscitaItalia": "1980-12-22",
-      "regia": "Stanley Kubrick",
-      "generi": [
-        "Horror",
-        "Thriller"
-      ],
-      "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 142,
-      "tagline": "L'onda di terrore che ha spazzato l'America è qui.",
+      "durata": 128,
+      "tagline": "Risorgi o muori.",
       "cast": [
-        "Jack Nicholson (Jack Torrance)",
-        "Shelley Duvall (Wendy Torrance)",
-        "Danny Lloyd (Danny)",
-        "Scatman Crothers (Hallorann)",
-        "Barry Nelson (Ullman)",
-        "Philip Stone (Grady)"
+        "Andrew Garfield (Ploughman)",
+        "Jamie Bell (John Ball)",
+        "Stephen Dillane (Archbishop Sudbury)",
+        "Woody Norman (King Richard II)",
+        "Tom Hollander (Treasurer Hales)",
+        "Cosmo Jarvis (Wat Tyler)"
       ],
-      "tramaTmdb": "L'aspirante scrittore Jack Torrance si trasferisce tra i monti per trovare il giusto isolamento che gli permetterà di completare il suo romanzo. L'uomo accetta quindi l'incarico di custode invernale di un enorme albergo tra le montagne, dove lo seguono la moglie e il figlioletto Danny, il quale possiede poteri paranormali che gli permettono di vedere nel passato e nel futuro.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Shining|378|Stanley Kubrick"
+      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
+      "motivi": [],
+      "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
     },
     {
-      "id": "tmdb-508965",
-      "tmdbId": 508965,
-      "imdbId": "tt4729430",
+      "id": "tmdb-9806",
+      "tmdbId": 9806,
+      "imdbId": "tt0317705",
       "origine": "scoperta",
-      "titolo": "Klaus - I segreti del Natale",
-      "titoloOriginale": "Klaus",
-      "anno": "2019",
-      "uscitaItalia": "2019-11-08",
-      "regia": "Sergio Pablos",
+      "titolo": "Gli Incredibili - Una \"normale\" famiglia di supereroi",
+      "titoloOriginale": "The Incredibles",
+      "anno": "2004",
+      "uscitaItalia": "2004-11-26",
+      "regia": "Brad Bird",
       "generi": [
+        "Azione",
+        "Avventura",
         "Animazione",
-        "Famiglia",
-        "Commedia"
+        "Famiglia"
       ],
       "paesi": [
-        "Spagna"
+        "USA"
       ],
-      "durata": 97,
-      "tagline": "Basta crederci",
+      "durata": 115,
+      "tagline": "Una \"normale\" famiglia di supereroi.",
       "cast": [
-        "Jason Schwartzman (Jesper (voice))",
-        "J.K. Simmons (Klaus (voice))",
-        "Rashida Jones (Alva (voice))",
-        "Joan Cusack (Mrs. Krum (voice))",
-        "Norm Macdonald (Mogens (voice))",
-        "Will Sasso (Mr. Ellingboe (voice))"
+        "Craig T. Nelson (Bob Parr / Mr. Incredible (voice))",
+        "Holly Hunter (Helen Parr / Elastigirl (voice))",
+        "Sarah Vowell (Violet Parr (voice))",
+        "Spencer Fox (Dashiell 'Dash' Parr (voice))",
+        "Jason Lee (Buddy Pine / Syndrome (voice))",
+        "Samuel L. Jackson (Lucius Best / Frozone (voice))"
       ],
-      "tramaTmdb": "Jesper, il peggior studente dell'Accademia delle Poste, viene spedito su un'isola ghiacciata, oltre il Circolo Polare Artico, dove la gente del posto fatica a scambiare qualche parola e tanto meno lettere. Jesper sta per arrendersi quando trova un'alleata in Alva, un'insegnante del posto, e incontra Klaus, un misterioso falegname che vive da solo in una baita piena di giocattoli realizzati a mano.",
+      "tramaTmdb": "Bob Parr ha rinunciato ai suoi giorni da supereroe per dedicarsi al perito assicurativo e crescere i suoi tre figli con la moglie un tempo eroica in periferia. Ma quando riceve un incarico misterioso, è il momento di tornare a indossare il costume.",
       "motivi": [
-        "un classico che ti manca"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "Klaus - I segreti del Natale|400|Sergio Pablos"
+      "impronta": "Gli Incredibili - Una \"normale\" famiglia di supereroi|248|Brad Bird"
+    },
+    {
+      "id": "tmdb-15196",
+      "tmdbId": 15196,
+      "imdbId": "tt0088930",
+      "origine": "scoperta",
+      "titolo": "Signori, il delitto è servito",
+      "titoloOriginale": "Clue",
+      "anno": "1986",
+      "uscitaItalia": "1986-04-23",
+      "regia": "Jonathan Lynn",
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Mistero"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 94,
+      "tagline": "Un invito a cena. Una pistola puntata alla tempia. Un cadavere in cucina e due in anticamera. Irrompe la polizia... grazie a Dio tutto è normale.",
+      "cast": [
+        "Tim Curry (Wadsworth)",
+        "Eileen Brennan (Mrs. Peacock)",
+        "Madeline Kahn (Mrs. White)",
+        "Christopher Lloyd (Professor Plum)",
+        "Michael McKean (Mr. Green)",
+        "Martin Mull (Colonel Mustard)"
+      ],
+      "tramaTmdb": "In seguito a un insolito invito, si trovano riuniti in un lussuoso castello di stile gotico-americano alcuni convitati. Sono tutti estranei tra loro, ma hanno qualcosa in comune: sono tutti ricattati dal padrone di casa, Mr. Boddy, che a un certo punto compare con bizzarri doni per ognuno dei suoi ospiti. Le cose precipitano quando Mr. Boddy viene assassinato. Da quel momento gli omicidi cominciano a fioccare. Chi sarà l'assassino? Il film propone tre soluzioni possibili...",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Signori, il delitto è servito|478|Jonathan Lynn"
     }
   ]
 }
