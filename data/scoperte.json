@@ -1,171 +1,252 @@
 {
-  "aggiornato": "2026-10-22T09:47:17.381Z",
-  "giorno": "2026-10-22",
+  "aggiornato": "2026-10-23T09:42:48.520Z",
+  "giorno": "2026-10-23",
   "film": [
     {
-      "tmdbId": 9806,
-      "imdbId": "tt0317705",
-      "title": "Gli Incredibili - Una \"normale\" famiglia di supereroi",
-      "originalTitle": "The Incredibles",
-      "release": "2004-11-26",
+      "tmdbId": 185,
+      "imdbId": "tt0066921",
+      "title": "Arancia meccanica",
+      "originalTitle": "A Clockwork Orange",
+      "release": "1972-09-07",
+      "releaseFonte": "IT",
+      "genres": [
+        "Fantascienza",
+        "Crime"
+      ],
+      "countries": [
+        "Regno Unito",
+        "USA"
+      ],
+      "runtime": 137,
+      "plot": "Alex è un giovane senza arte né parte, figlio di proletari e dedito a furti, stupri e omicidi. Fa capo a una banda di spostati, denominati drughi. Dopo aver usato violenza alla moglie di uno scrittore finisce in carcere. Viene sottoposto ad angherie ma si fa amico un prete. Pur di essere scarcerato accetta il \"trattamento lodovico\", che consiste nell'assistere a filmati di violenza. Quando esce scopre che i genitori hanno subaffittato la sua stanza. Senza poter reagire, dovrà subire violenza da alcuni mendicanti vendicativi, dai drughi diventati poliziotti e dallo scrittore che ha perso la mog",
+      "tagline": "Le avventure di un giovane i cui principali interessi sono lo stupro, l'ultra-violenza e Beethoven.",
+      "poster": "/7dbLsJo2DiyhPZO3iQc70LwDMzv.jpg",
+      "backdrop": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Carl Duering",
+        "Michael Bates",
+        "Warren Clarke"
+      ],
+      "castDetail": [
+        {
+          "name": "Malcolm McDowell",
+          "character": "Alex",
+          "profile": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+        },
+        {
+          "name": "Patrick Magee",
+          "character": "Mr. Alexander",
+          "profile": "/99xStF5zQy6qkDxLnIVaKD3urzI.jpg"
+        },
+        {
+          "name": "Carl Duering",
+          "character": "Dr. Brodsky",
+          "profile": "/idrRJuQErZ2cj8F8II1LikeTgb1.jpg"
+        },
+        {
+          "name": "Michael Bates",
+          "character": "Chief Guard",
+          "profile": "/53ciikCHIcr1thlDFvQtzNNbFAd.jpg"
+        },
+        {
+          "name": "Warren Clarke",
+          "character": "Dim",
+          "profile": "/gqIPFhAaTvFZVmNiXnPtV3k4JBV.jpg"
+        },
+        {
+          "name": "James Marcus",
+          "character": "Georgie",
+          "profile": "/keW0TRtGZ15oA12jsEYfqeLEq8v.jpg"
+        },
+        {
+          "name": "Michael Tarn",
+          "character": "Pete",
+          "profile": "/34dqPwJtsB3CrXShZA8zhm7pq0c.jpg"
+        },
+        {
+          "name": "Miriam Karlin",
+          "character": "Catlady",
+          "profile": "/3VbYzKcHJdVYGkrBcqMgcKRmICE.jpg"
+        }
+      ],
+      "tmdbRating": 8.168,
+      "tmdbVotes": 14246,
+      "popularity": 22.3853,
+      "trailer": "https://www.youtube.com/watch?v=YEU98GX-Cag",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-10-23"
+    },
+    {
+      "tmdbId": 503314,
+      "imdbId": "tt7961060",
+      "title": "Dragon Ball Super - Broly",
+      "originalTitle": "ドラゴンボール超 ブロリー",
+      "release": "2019-02-28",
       "releaseFonte": "IT",
       "genres": [
         "Azione",
-        "Avventura",
-        "Animazione",
-        "Famiglia"
+        "Fantascienza",
+        "Animazione"
       ],
       "countries": [
-        "USA"
+        "Giappone"
       ],
-      "runtime": 115,
-      "plot": "Bob Parr ha rinunciato ai suoi giorni da supereroe per dedicarsi al perito assicurativo e crescere i suoi tre figli con la moglie un tempo eroica in periferia. Ma quando riceve un incarico misterioso, è il momento di tornare a indossare il costume.",
-      "tagline": "Una \"normale\" famiglia di supereroi.",
-      "poster": "/YC2HuIkt6JOyOInuSRnRR9iVLE.jpg",
-      "backdrop": "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
-      "director": "Brad Bird",
+      "runtime": 100,
+      "plot": "Il pianeta Terra è finalmente in pace dopo il Torneo del Potere. Rendendosi conto che gli universi hanno ancora da offrire avversari molto forti, Goku passa tutto il suo tempo ad allenarsi per potersi superare ancora una volta.  Improvvisamente, Goku e Vegeta vengono affrontati dal leggendario Saiyan chiamato \"Broly\".  Questo incontro tra i tre Saiyan dai destini completamente diversi si trasforma in una stupenda battaglia, con anche Freezer che si lascia coinvolgere nel mix.",
+      "tagline": null,
+      "poster": "/7D1UV0LGjE1dfaRSmpmun6y0T8E.jpg",
+      "backdrop": "/6OTRuxpwUUGbmCX3MKP25dOmo59.jpg",
+      "director": "長峯達也",
       "cast": [
-        "Craig T. Nelson",
-        "Holly Hunter",
-        "Sarah Vowell",
-        "Spencer Fox",
-        "Jason Lee"
+        "Masako Nozawa",
+        "Aya Hisakawa",
+        "Ryou Horikawa",
+        "Toshio Furukawa",
+        "Takeshi Kusao"
       ],
       "castDetail": [
         {
-          "name": "Craig T. Nelson",
-          "character": "Bob Parr / Mr. Incredible (voice)",
-          "profile": "/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+          "name": "Masako Nozawa",
+          "character": "Son Goku / Son Goten / Bardock (voice)",
+          "profile": "/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
         },
         {
-          "name": "Holly Hunter",
-          "character": "Helen Parr / Elastigirl (voice)",
-          "profile": "/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+          "name": "Aya Hisakawa",
+          "character": "Bulma (voice)",
+          "profile": "/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
         },
         {
-          "name": "Sarah Vowell",
-          "character": "Violet Parr (voice)",
-          "profile": "/dP1hMYTk2q4voIUxtgmvD81nMty.jpg"
+          "name": "Ryou Horikawa",
+          "character": "Vegeta (voice)",
+          "profile": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg"
         },
         {
-          "name": "Spencer Fox",
-          "character": "Dashiell 'Dash' Parr (voice)",
-          "profile": "/vMyWK5qZWEG0GZh4FXCDXx4Jqfm.jpg"
+          "name": "Toshio Furukawa",
+          "character": "Piccolo (voice)",
+          "profile": "/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg"
         },
         {
-          "name": "Jason Lee",
-          "character": "Buddy Pine / Syndrome (voice)",
-          "profile": "/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg"
+          "name": "Takeshi Kusao",
+          "character": "Trunks (voice)",
+          "profile": "/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg"
         },
         {
-          "name": "Samuel L. Jackson",
-          "character": "Lucius Best / Frozone (voice)",
-          "profile": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+          "name": "Ryūsei Nakao",
+          "character": "Frieza (voice)",
+          "profile": "/fsxlwNIWj7taqpXRYETmXFk0x1P.jpg"
         },
         {
-          "name": "Elizabeth Peña",
-          "character": "Mirage (voice)",
-          "profile": "/uyUrPmtbwiGFOq8pIfYVQYgmBmK.jpg"
+          "name": "Kōichi Yamadera",
+          "character": "Beerus (voice)",
+          "profile": "/biov5jENp2XYfehkcdnRvi796Wi.jpg"
         },
         {
-          "name": "Eli Fucile",
-          "character": "Jack-Jack Parr (voice)",
-          "profile": "/pcNfD0mIB9KrQMaXP0rN82VbiHY.jpg"
+          "name": "森田成一",
+          "character": "Whis (voice)",
+          "profile": "/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
         }
       ],
-      "tmdbRating": 7.73,
-      "tmdbVotes": 19439,
-      "popularity": 29.1069,
-      "trailer": "https://www.youtube.com/watch?v=qN8X-lJONi4",
-      "fonte": "avventura: il tuo terreno",
+      "tmdbRating": 7.971,
+      "tmdbVotes": 3295,
+      "popularity": 3.0753,
+      "trailer": "https://www.youtube.com/watch?v=It1VrNWgiqs",
+      "fonte": "fantascienza: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
+      "perche": "fantascienza: il tuo terreno",
       "motivi": [
-        "avventura: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-10-22"
+      "proposto": "2026-10-23"
     },
     {
-      "tmdbId": 15196,
-      "imdbId": "tt0088930",
-      "title": "Signori, il delitto è servito",
-      "originalTitle": "Clue",
-      "release": "1986-04-23",
+      "tmdbId": 517814,
+      "imdbId": "tt8267604",
+      "title": "Cafarnao - Caos e miracoli",
+      "originalTitle": "کفرناحوم",
+      "release": "2019-04-11",
       "releaseFonte": "IT",
       "genres": [
-        "Commedia",
-        "Crime",
-        "Mistero"
+        "Dramma"
       ],
       "countries": [
-        "USA"
+        "Francia",
+        "Lebanon",
+        "Regno Unito"
       ],
-      "runtime": 94,
-      "plot": "In seguito a un insolito invito, si trovano riuniti in un lussuoso castello di stile gotico-americano alcuni convitati. Sono tutti estranei tra loro, ma hanno qualcosa in comune: sono tutti ricattati dal padrone di casa, Mr. Boddy, che a un certo punto compare con bizzarri doni per ognuno dei suoi ospiti. Le cose precipitano quando Mr. Boddy viene assassinato. Da quel momento gli omicidi cominciano a fioccare. Chi sarà l'assassino? Il film propone tre soluzioni possibili...",
-      "tagline": "Un invito a cena. Una pistola puntata alla tempia. Un cadavere in cucina e due in anticamera. Irrompe la polizia... grazie a Dio tutto è normale.",
-      "poster": "/mhsICw8bI7ohm4flGn5v6KKh3BR.jpg",
-      "backdrop": "/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
-      "director": "Jonathan Lynn",
+      "runtime": 126,
+      "plot": "Zain, un ragazzo di 12 anni che lotta per sopravvivere nelle strade di Beirut, fa causa ai suoi genitori per averlo portato in un mondo così ingiusto, dove essere un rifugiato senza documenti significa che i tuoi diritti possono essere facilmente negati.",
+      "tagline": null,
+      "poster": "/jxRndek1NmXdGGZM9rzxorUcr3l.jpg",
+      "backdrop": "/sEW8q9al73rtow257dXAusD9yS7.jpg",
+      "director": "Nadine Labaki",
       "cast": [
-        "Tim Curry",
-        "Eileen Brennan",
-        "Madeline Kahn",
-        "Christopher Lloyd",
-        "Michael McKean"
+        "Zain Al Rafeea",
+        "Yordanos Shifera",
+        "Boluwatife Treasure Bankole",
+        "Kawsar Al Haddad",
+        "Fadi Kamel Yousef"
       ],
       "castDetail": [
         {
-          "name": "Tim Curry",
-          "character": "Wadsworth",
-          "profile": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+          "name": "Zain Al Rafeea",
+          "character": "Zain",
+          "profile": "/oIy59UFCGwXJcT4SRzn1mOmLaTd.jpg"
         },
         {
-          "name": "Eileen Brennan",
-          "character": "Mrs. Peacock",
-          "profile": "/b3hP3bHhDqWQfiuZWqhcIUUsPKT.jpg"
+          "name": "Yordanos Shifera",
+          "character": "Rahil",
+          "profile": "/kQUcANAYcpg98zyargFHqv17hhr.jpg"
         },
         {
-          "name": "Madeline Kahn",
-          "character": "Mrs. White",
-          "profile": "/5jbkrxx0uaymKDnv5EImUXxWQyN.jpg"
+          "name": "Boluwatife Treasure Bankole",
+          "character": "Yonas",
+          "profile": "/790MeyflzEn6DG5wPcsduXbS1Re.jpg"
         },
         {
-          "name": "Christopher Lloyd",
-          "character": "Professor Plum",
-          "profile": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+          "name": "Kawsar Al Haddad",
+          "character": "Souad",
+          "profile": "/zYTxxC7SAeAyqPUcd2vkKGaLkgI.jpg"
         },
         {
-          "name": "Michael McKean",
-          "character": "Mr. Green",
-          "profile": "/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
+          "name": "Fadi Kamel Yousef",
+          "character": "Selim",
+          "profile": "/cCiUNhjIWW1BuE49KtXOwdS0fBG.jpg"
         },
         {
-          "name": "Martin Mull",
-          "character": "Colonel Mustard",
-          "profile": "/wthyliVHLrgvKUIRI1WXfEw9pjL.jpg"
+          "name": "Cedra Izzam",
+          "character": "Sahar",
+          "profile": "/traiQT5JY7f4yJxVCUpOHuwDiuU.jpg"
         },
         {
-          "name": "Lesley Ann Warren",
-          "character": "Miss Scarlet",
-          "profile": "/keo0DKSTITmDJIeQ91tHQZ0lh2k.jpg"
+          "name": "Alaa Chouchnieh",
+          "character": "Aspro",
+          "profile": "/7RwbwTLQf7jKzuGML1UFJwO6jbx.jpg"
         },
         {
-          "name": "Colleen Camp",
-          "character": "Yvette",
-          "profile": "/t1IbM9x1vJOzg02tQr68x9F4gI3.jpg"
+          "name": "Elias Khoury",
+          "character": "The Judge",
+          "profile": null
         }
       ],
-      "tmdbRating": 7.217,
-      "tmdbVotes": 2097,
-      "popularity": 73.6212,
-      "trailer": "https://www.youtube.com/watch?v=KEXdWfsKZ1k",
-      "fonte": "se ne parla adesso",
-      "categoria": "di tendenza",
-      "perche": "se ne parla adesso",
+      "tmdbRating": 8.142,
+      "tmdbVotes": 2061,
+      "popularity": 10.3123,
+      "trailer": "https://www.youtube.com/watch?v=f-0WF6RQsLg",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
       "motivi": [
-        "se ne parla adesso"
+        "un classico che ti manca"
       ],
-      "proposto": "2026-10-22"
+      "proposto": "2026-10-23"
     }
   ],
   "storico": {
@@ -199,6 +280,7 @@
     "142": "2026-09-21",
     "155": "2026-09-28",
     "165": "2026-09-28",
+    "185": "2026-10-23",
     "207": "2026-09-29",
     "213": "2026-10-04",
     "218": "2026-09-15",
@@ -416,9 +498,11 @@
     "482321": "2026-09-20",
     "490132": "2026-09-22",
     "496243": "2026-09-23",
+    "503314": "2026-10-23",
     "504253": "2026-10-16",
     "508442": "2026-10-14",
     "508965": "2026-10-21",
+    "517814": "2026-10-23",
     "520763": "2026-09-16",
     "522402": "2026-10-02",
     "522924": "2026-09-13",

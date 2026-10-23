@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-22T09:47:17.382Z",
+  "preparato": "2026-10-23T09:42:48.521Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -178,6 +178,38 @@
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
     {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "origine": "trailer",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 140,
+      "tagline": null,
+      "cast": [
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "motivi": [],
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
       "id": "tmdb-891621",
       "tmdbId": 891621,
       "imdbId": "tt15799564",
@@ -246,38 +278,6 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
-      "id": "tmdb-791523",
-      "tmdbId": 791523,
-      "imdbId": "tt2056785",
-      "origine": "trailer",
-      "titolo": "Wildwood - I segreti del bosco proibito",
-      "titoloOriginale": "Wildwood",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Travis Knight",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 132,
-      "tagline": null,
-      "cast": [
-        "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Carey Mulligan (Alexandra (voice))",
-        "Mahershala Ali (Brenden (voice))",
-        "Angela Bassett (The General (voice))",
-        "Awkwafina (Septima (voice))"
-      ],
-      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-      "motivi": [],
-      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
-    },
-    {
       "id": "tmdb-1477712",
       "tmdbId": 1477712,
       "imdbId": "tt36893729",
@@ -336,8 +336,8 @@
         "Noah Centineo (Ken Masters)",
         "Callina Liang (Chun-Li)",
         "David Dastmalchian (M. Bison)",
-        "Mel Jarnson (Cammy)",
-        "Cody Rhodes (Guile)"
+        "Andrew Schulz (Dan Hibiki)",
+        "Joe Anoa'i (Akuma)"
       ],
       "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
       "motivi": [],
@@ -361,7 +361,7 @@
         "USA",
         "Regno Unito"
       ],
-      "durata": 120,
+      "durata": 115,
       "tagline": null,
       "cast": [
         "Johnny Depp (Ebenezer Scrooge)",
@@ -376,107 +376,106 @@
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
     },
     {
-      "id": "tmdb-977942",
-      "tmdbId": 977942,
-      "imdbId": "tt36983905",
-      "origine": "trailer",
-      "titolo": "The Uprising - Cuore ribelle",
-      "titoloOriginale": "The Uprising",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Paul Greengrass",
+      "id": "tmdb-185",
+      "tmdbId": 185,
+      "imdbId": "tt0066921",
+      "origine": "scoperta",
+      "titolo": "Arancia meccanica",
+      "titoloOriginale": "A Clockwork Orange",
+      "anno": "1972",
+      "uscitaItalia": "1972-09-07",
+      "regia": "Stanley Kubrick",
       "generi": [
-        "Azione",
-        "Dramma",
-        "Storia"
+        "Fantascienza",
+        "Crime"
       ],
       "paesi": [
-        "Germania",
         "Regno Unito",
         "USA"
       ],
-      "durata": 128,
-      "tagline": "Risorgi o muori.",
+      "durata": 137,
+      "tagline": "Le avventure di un giovane i cui principali interessi sono lo stupro, l'ultra-violenza e Beethoven.",
       "cast": [
-        "Andrew Garfield (Ploughman)",
-        "Jamie Bell (John Ball)",
-        "Stephen Dillane (Archbishop Sudbury)",
-        "Woody Norman (King Richard II)",
-        "Tom Hollander (Treasurer Hales)",
-        "Cosmo Jarvis (Wat Tyler)"
+        "Malcolm McDowell (Alex)",
+        "Patrick Magee (Mr. Alexander)",
+        "Carl Duering (Dr. Brodsky)",
+        "Michael Bates (Chief Guard)",
+        "Warren Clarke (Dim)",
+        "James Marcus (Georgie)"
       ],
-      "tramaTmdb": "Mentre la guerra e la peste devastano l'Inghilterra del XIV secolo, un umile contadino, unendo un esercito di popolani, dà inizio a una ribellione per sfidare il potere del re in una disperata lotta per la giustizia e la sopravvivenza.",
-      "motivi": [],
-      "impronta": "The Uprising - Cuore ribelle|235|Paul Greengrass"
+      "tramaTmdb": "Alex è un giovane senza arte né parte, figlio di proletari e dedito a furti, stupri e omicidi. Fa capo a una banda di spostati, denominati drughi. Dopo aver usato violenza alla moglie di uno scrittore finisce in carcere. Viene sottoposto ad angherie ma si fa amico un prete. Pur di essere scarcerato accetta il \"trattamento lodovico\", che consiste nell'assistere a filmati di violenza. Quando esce scopre che i genitori hanno subaffittato la sua stanza. Senza poter reagire, dovrà subire violenza da alcuni mendicanti vendicativi, dai drughi diventati poliziotti e dallo scrittore che ha perso la mog",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Arancia meccanica|600|Stanley Kubrick"
     },
     {
-      "id": "tmdb-9806",
-      "tmdbId": 9806,
-      "imdbId": "tt0317705",
+      "id": "tmdb-503314",
+      "tmdbId": 503314,
+      "imdbId": "tt7961060",
       "origine": "scoperta",
-      "titolo": "Gli Incredibili - Una \"normale\" famiglia di supereroi",
-      "titoloOriginale": "The Incredibles",
-      "anno": "2004",
-      "uscitaItalia": "2004-11-26",
-      "regia": "Brad Bird",
+      "titolo": "Dragon Ball Super - Broly",
+      "titoloOriginale": "ドラゴンボール超 ブロリー",
+      "anno": "2019",
+      "uscitaItalia": "2019-02-28",
+      "regia": "長峯達也",
       "generi": [
         "Azione",
-        "Avventura",
-        "Animazione",
-        "Famiglia"
+        "Fantascienza",
+        "Animazione"
       ],
       "paesi": [
-        "USA"
+        "Giappone"
       ],
-      "durata": 115,
-      "tagline": "Una \"normale\" famiglia di supereroi.",
+      "durata": 100,
+      "tagline": null,
       "cast": [
-        "Craig T. Nelson (Bob Parr / Mr. Incredible (voice))",
-        "Holly Hunter (Helen Parr / Elastigirl (voice))",
-        "Sarah Vowell (Violet Parr (voice))",
-        "Spencer Fox (Dashiell 'Dash' Parr (voice))",
-        "Jason Lee (Buddy Pine / Syndrome (voice))",
-        "Samuel L. Jackson (Lucius Best / Frozone (voice))"
+        "Masako Nozawa (Son Goku / Son Goten / Bardock (voice))",
+        "Aya Hisakawa (Bulma (voice))",
+        "Ryou Horikawa (Vegeta (voice))",
+        "Toshio Furukawa (Piccolo (voice))",
+        "Takeshi Kusao (Trunks (voice))",
+        "Ryūsei Nakao (Frieza (voice))"
       ],
-      "tramaTmdb": "Bob Parr ha rinunciato ai suoi giorni da supereroe per dedicarsi al perito assicurativo e crescere i suoi tre figli con la moglie un tempo eroica in periferia. Ma quando riceve un incarico misterioso, è il momento di tornare a indossare il costume.",
+      "tramaTmdb": "Il pianeta Terra è finalmente in pace dopo il Torneo del Potere. Rendendosi conto che gli universi hanno ancora da offrire avversari molto forti, Goku passa tutto il suo tempo ad allenarsi per potersi superare ancora una volta.  Improvvisamente, Goku e Vegeta vengono affrontati dal leggendario Saiyan chiamato \"Broly\".  Questo incontro tra i tre Saiyan dai destini completamente diversi si trasforma in una stupenda battaglia, con anche Freezer che si lascia coinvolgere nel mix.",
       "motivi": [
-        "avventura: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Gli Incredibili - Una \"normale\" famiglia di supereroi|248|Brad Bird"
+      "impronta": "Dragon Ball Super - Broly|480|長峯達也"
     },
     {
-      "id": "tmdb-15196",
-      "tmdbId": 15196,
-      "imdbId": "tt0088930",
+      "id": "tmdb-517814",
+      "tmdbId": 517814,
+      "imdbId": "tt8267604",
       "origine": "scoperta",
-      "titolo": "Signori, il delitto è servito",
-      "titoloOriginale": "Clue",
-      "anno": "1986",
-      "uscitaItalia": "1986-04-23",
-      "regia": "Jonathan Lynn",
+      "titolo": "Cafarnao - Caos e miracoli",
+      "titoloOriginale": "کفرناحوم",
+      "anno": "2019",
+      "uscitaItalia": "2019-04-11",
+      "regia": "Nadine Labaki",
       "generi": [
-        "Commedia",
-        "Crime",
-        "Mistero"
+        "Dramma"
       ],
       "paesi": [
-        "USA"
+        "Francia",
+        "Lebanon",
+        "Regno Unito"
       ],
-      "durata": 94,
-      "tagline": "Un invito a cena. Una pistola puntata alla tempia. Un cadavere in cucina e due in anticamera. Irrompe la polizia... grazie a Dio tutto è normale.",
+      "durata": 126,
+      "tagline": null,
       "cast": [
-        "Tim Curry (Wadsworth)",
-        "Eileen Brennan (Mrs. Peacock)",
-        "Madeline Kahn (Mrs. White)",
-        "Christopher Lloyd (Professor Plum)",
-        "Michael McKean (Mr. Green)",
-        "Martin Mull (Colonel Mustard)"
+        "Zain Al Rafeea (Zain)",
+        "Yordanos Shifera (Rahil)",
+        "Boluwatife Treasure Bankole (Yonas)",
+        "Kawsar Al Haddad (Souad)",
+        "Fadi Kamel Yousef (Selim)",
+        "Cedra Izzam (Sahar)"
       ],
-      "tramaTmdb": "In seguito a un insolito invito, si trovano riuniti in un lussuoso castello di stile gotico-americano alcuni convitati. Sono tutti estranei tra loro, ma hanno qualcosa in comune: sono tutti ricattati dal padrone di casa, Mr. Boddy, che a un certo punto compare con bizzarri doni per ognuno dei suoi ospiti. Le cose precipitano quando Mr. Boddy viene assassinato. Da quel momento gli omicidi cominciano a fioccare. Chi sarà l'assassino? Il film propone tre soluzioni possibili...",
+      "tramaTmdb": "Zain, un ragazzo di 12 anni che lotta per sopravvivere nelle strade di Beirut, fa causa ai suoi genitori per averlo portato in un mondo così ingiusto, dove essere un rifugiato senza documenti significa che i tuoi diritti possono essere facilmente negati.",
       "motivi": [
-        "se ne parla adesso"
+        "un classico che ti manca"
       ],
-      "impronta": "Signori, il delitto è servito|478|Jonathan Lynn"
+      "impronta": "Cafarnao - Caos e miracoli|254|Nadine Labaki"
     }
   ]
 }
