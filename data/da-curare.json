@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-23T09:42:40.692Z",
+  "preparato": "2026-10-24T09:14:51.526Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -34,43 +34,204 @@
   },
   "articoli": [
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-klara-1236738669/",
-      "fonte": "Hollywood Reporter",
+      "link": "https://deadline.com/lists/playing-in-movie-theaters-this-weekend-reviews/",
+      "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-10-23T00:52:00.000Z",
-      "titolo": "‘Clayface’ Aims to Give DC Studios a Box Office Win as ‘You Can See Everything’ Stays Strong",
-      "sommario": "Also debuting this weekend are 'Wildwood,' 'Klara and the Sun,' 'Wicker' and 'Ali G: Who Iz I?'",
+      "data": "2026-10-23T22:28:39.000Z",
+      "titolo": "Deadline’s Reviews Of This Week’s Box Office Openers: ‘Clayface’, ‘Wildwood’ & More",
+      "sommario": "Several buzzy films are premiering in theatrical release beginning Friday, October 23, the start of a big weekend at the box office. DC Studios’ Clayface starring Tom Rhys Harries as the Batman villain and shapeshifter will be on the big screen, as will Laika’s newest stop-motion animation feature Wildwood, based on th",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Clayface (in libreria)",
+        "Klara e il sole"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-24T03:00:27.000Z",
+      "titolo": "‘Clayface’ Director James Watkins Explains Aaron Paul’s Cameo: “A Real Brief Easter Egg”",
+      "sommario": "In DC Studios’ Clayface, Tom Rhys Harries’ titular shape-shifting Batman villain takes multiple forms, including a surprising familiar face. Following murmurs of a cameo, director James Watkins confirmed that Aaron Paul makes a brief appearance in the DCU movie as Matt’s (Harries) father, who raised him in the slums of",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Clayface (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-24T01:01:53.000Z",
+      "titolo": "‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+      "sommario": "As the World Series got underway, MCU fans were treated to a new sneak peek at Avengers: Doomsday, premiering Dec. 18. During Friday’s Game 1, the MLB and the MCU teamed up for a special preview of the upcoming movie, in which Pedro Pascal’s Mister Fantastic takes the mound for the ceremonial first pitch to […]",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://deadline.com/2026/10/indie-films-opening-only-living-pickpocket-in-new-york-wicker-1237171300/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-24T00:30:00.000Z",
+      "titolo": "Awards Season Heats Up With ‘The Only Living Pickpocket In New York,’ ‘Fatherland’ & More – Specialty Preview",
+      "sommario": "The weekend feels awards-y with John Turturro tugging the heartstrings in The Only Living Pickpocket in New York, Olivia Colman (Wicker) and Helen Mirren (A Talent For Murder) in the house, and Hans Zischler and Sandra Hüller playing Thomas Mann and his daughter on a road trip (Fatherland). The A24 You Can See Everythi",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "The Only Living Pickpocket in New York"
+      ],
+      "radar": "dramma e thriller: il tuo terreno"
+    },
+    {
+      "link": "https://deadline.com/2026/10/klara-and-the-sun-songs-soundtrack-chopin-vivaldi-1237172171/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-23T23:34:51.000Z",
+      "titolo": "All The Songs In ‘Klara And The Sun’: Violent Femmes & More",
+      "sommario": "Taika Waititi’s Klara and the Sun, based on the book by Kazuo Ishiguro, stars Jenna Ortega as the titular robotic Artificial Friend. The film follows Klara as she wishes for a charge or owner to claim her from the Friend Store, where she gets a limited amount of time in the front alcove to show […]",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Klara e il sole"
+        "Klara e il sole",
+        "Jenna Ortega"
       ],
       "radar": "fantascienza e dramma: il tuo terreno"
     },
     {
-      "link": "https://deadline.com/2026/10/prince-william-christopher-nolan-super-fan-batman-1237171554/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-23T09:16:43.000Z",
-      "titolo": "Prince William Says He’s A Christopher Nolan & ‘The Celebrity Traitors’ Super Fan",
-      "sommario": "Prince William has declared his love for Christopher Nolan films and The Celebrity Traitors in an unexpected appearance on The Graham Norton Show. Sitting on the BBC late-night show’s famous red sofa, the Prince of Wales told Norton that he relaxes by watching movies and listening to music. “I love getting immersed in ",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Christopher Nolan"
-      ],
-      "radar": "regia di Christopher Nolan, di cui hai visto 2 film"
-    },
-    {
-      "link": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/",
+      "link": "https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-10-23T09:34:35.000Z",
-      "titolo": "Kore-eda Hirokazu Ditched AI Notes on His ‘Sheep in the Box’ Script: ‘I’d Like to Stand on the Human Side’",
-      "sommario": "Kore-eda Hirokazu ran the screenplay for his AI-themed Cannes title “Sheep in the Box” past a generative AI chatbot, then cut it loose after concluding that notes from something with no personal history with cinema were of no use to him. Kore-eda, who is receiving the Cinema Honorary Award at the Singapore Internationa",
+      "data": "2026-10-23T22:02:10.000Z",
+      "titolo": "Sandra Hüller Joins ‘Avengers: Doomsday’ in Cameo Role",
+      "sommario": "Oscar nominee Sandra Hüller will make a cameo in Marvel’s “Avengers: Doomsday.” News of Hüller’s top-secret role comes as directors Anthony and Joe Russo are in post-production on the project, ahead of its Dec. 18 release date. The superhero movie is already stuffed to the gills with award-winning actors and massive mo",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://deadline.com/2026/10/quentin-tarantino-cliff-booth-screening-surprise-afi-fest-1237172221/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-10-24T06:37:30.000Z",
+      "titolo": "Quentin Tarantino Wraps His AFI Fest Q&A By Showing Crowd First 17 Minutes Of ‘Cliff Booth’",
+      "sommario": "Quentin Tarantino surprised the crowd during a Q&A and screening of his 10-time Oscar-nominated Once Upon a Time in Hollywood on Friday night at AFI Fest in Los Angeles by screening the first 17 minutes of its sequel The Further Mis-Adventures of Cliff Booth. It marks the first public look at the film, a follow-up […]",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Look Back"
+        "C'era una volta a… Hollywood",
+        "Brad Pitt"
+      ],
+      "radar": "dramma e thriller: il tuo terreno"
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-previews-you-can-see-everything-wicker-1236739049/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-23T17:27:42.000Z",
+      "titolo": "‘Clayface’ Soaks Up $3.5M in Box Office Previews as ‘You Can See Everything’ Expands",
+      "sommario": "'Wicker,' 'Wildwood' and 'Klara and the Sun' are among this weekend's arrivals.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "You Can See Everything",
+        "Klara e il sole"
       ],
       "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2296075/marvel-avengers-doomsday-footage-world-series-commercial/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-24T01:03:08.000Z",
+      "titolo": "Marvel Reveals New Avengers: Doomsday Footage In Special World Series Commercial",
+      "sommario": "As the hype for Avengers: Doomsday continues to build, Marvel Studios released new footage during Game 1 of the World Series. Check it out here.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-sandra-huller-cameo-1236739095/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-23T21:29:11.000Z",
+      "titolo": "Sandra Hüller Set for Cameo Role in ‘Avengers: Doomsday’",
+      "sommario": "The Oscar-nominated actress is having a big year, with 'Project Hail Mary' a hit in the spring.",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://www.slashfilm.com/2293442/clayface-interview-tom-rhys-harries-naomi-ackie-standalone-dc-movie/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-23T15:00:00.000Z",
+      "titolo": "Clayface Is A Standalone DC Movie, And Its Stars Think That's Perfect [Exclusive]",
+      "sommario": "Clayface stars Tom Rhys Harries and Naomi Ackie tell us about appearing in a DC movie that isn't bogged down by cameos or references.",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Clayface (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2290659/the-only-living-pickpocket-in-new-york-noah-segan-interview/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-23T14:00:00.000Z",
+      "titolo": "The Only Living Pickpocket In New York's Noah Segan Learned Two Key Things From Rian Johnson [Exclusive Interview]",
+      "sommario": "We spoke with The Only Living Pickpocket in New York writer/director Noah Segan about his terrific new film, what he learned from Rian Johnson, and more.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "The Only Living Pickpocket in New York"
+      ],
+      "radar": "dramma e thriller: il tuo terreno"
+    },
+    {
+      "link": "https://www.slashfilm.com/2293656/cammy-street-fighter-2026-movie-actress-mel-jarnson/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-24T08:10:00.000Z",
+      "titolo": "Why Cammy From Street Fighter (2026) Looks So Familiar",
+      "sommario": "If you feel like you've seen the actress who plays Cammy in 2026's Street Fighter somewhere before, we can help you solve that mystery.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Street Fighter"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-21T19:00:54.000Z",
+      "titolo": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
+      "sommario": "<p>Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain</p><p>A sense of desperation is understandably in the air over at DC, the company, like Marvel, slowly realising that the mass superhero fever has finally broken. ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Clayface (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-15T20:15:40.000Z",
+      "titolo": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
+      "sommario": "<p>The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief</p><p>Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbearably mannered, unspeakably acted film. It’s a slice of sentimental whimsy-futur",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Klara e il sole",
+        "Jenna Ortega"
+      ],
+      "radar": "fantascienza e dramma: il tuo terreno"
     },
     {
       "link": "https://www.theguardian.com/film/2026/oct/22/taika-waititi-kazuo-ishiguro-robot-friend-klara-and-the-sun",
@@ -86,74 +247,49 @@
       "radar": "fantascienza e dramma: il tuo terreno"
     },
     {
-      "link": "https://deadline.com/2026/10/chris-pratt-teases-marvel-return-star-lord-again-1237171079/",
-      "fonte": "Deadline",
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/street-fighter-callina-liang-chin-li-1236739271/",
+      "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-10-22T19:50:18.000Z",
-      "titolo": "Chris Pratt Teases Marvel Return: “You’ll See Star-Lord Again, Which Is Very Exciting”",
-      "sommario": "Chris Pratt is teasing his return to the Marvel Cinematic Universe (MCU) to reprise his role as Star-Lord from Guardians of the Galaxy. After Guardians Of The Galaxy Vol. 3, the post-credits assured fans that the “Legendary Star-Lord Will Return,” but that has not happened yet. With Avengers: Doomsday and Avengers: Sec",
+      "data": "2026-10-23T23:53:36.000Z",
+      "titolo": "‘Street Fighter’ Breakout Callina Liang Talks Embracing Fan Skepticism and Reveals Two Key Scrapped Moments",
+      "sommario": "The character nearly lost a finger before the creative team and Capcom reached a compromise on an alternative outcome.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Chris Pratt",
-        "Avengers: Doomsday"
-      ],
-      "radar": "c'è Chris Pratt, che hai visto 4 volte"
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/20/michael-jackson-jaafar-jackson-biopic-uncle-sexual-abuse-allegations",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-20T15:15:32.000Z",
-      "titolo": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
-      "sommario": "<p>The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer</p><p>Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier this year, the most persistent was that Antoine Fuqua’s film failed to mention ",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Michael (in libreria)"
+        "Street Fighter"
       ],
       "radar": null
     },
     {
-      "link": "https://deadline.com/2026/10/silaa-release-date-zee-studios-omung-kumars-1237169645/",
+      "link": "https://deadline.com/2026/10/renate-reinsve-interview-fjord-cristian-mungiu-sebastian-stan-1237172003/",
       "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-10-23T05:45:00.000Z",
-      "titolo": "Zee Studios Sets Release Date For Omung Kumar’s ‘Silaa’",
-      "sommario": "EXCLUSIVE: Omung Kumar’s ‘Silaa’, starring Harshvardhan Rane, will release early next year. Zee Studios has set a launch date of February 5, 2027, on the film, which stars Rane and Sadia Khateeb in a story billed as bringing together “intense romance, gripping mystery and high-octane action” set against the landscapes ",
+      "data": "2026-10-23T21:30:00.000Z",
+      "titolo": "Renate Reinsve On Making Cristian Mungiu’s Cannes Winner ‘Fjord’: “I Knew I Was Going Into A Completely Different World”",
+      "sommario": "By now, Renate Reinsve is no stranger to the closing-night pomp of the Cannes Film Festival, having won the best actress trophy in 2021 for Joachim Trier’s The Worst Person in the World, her first ever leading role. Since then, she’s clearly mastered the art of capturing souls; after reteaming with Trier for last year’",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.slashfilm.com/2294135/josh-oconnor-finalists-daniel-craig-james-bond-replacement/",
+      "link": "https://www.slashfilm.com/2295062/dc-clayface-movie-james-cameron-movie-inspiration/",
       "fonte": "/Film",
       "lingua": "en",
-      "data": "2026-10-22T15:00:51.000Z",
-      "titolo": "Josh O'Connor Is One Of Four Finalists To Replace Daniel Craig As James Bond",
-      "sommario": "Final screen tests for the role of the next James Bond are taking place with four actors still in the running, including Challengers star Josh O'Connor.",
+      "data": "2026-10-23T17:00:00.000Z",
+      "titolo": "DC's Clayface Took An Important Cue From A Classic James Cameron Movie [Exclusive]",
+      "sommario": "While DC's Clayface is full of body horror elements, a non-body horror movie from James Cameron inspired one of the grossest scenes.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Challengers (in libreria)"
+        "James Cameron"
       ],
-      "radar": null
+      "radar": "regia di James Cameron, di cui hai visto 2 film"
     },
     {
-      "link": "https://variety.com/2026/music/news/ascap-writing-awards-biographies-john-williams-bernard-herrmann-1236922092/",
-      "fonte": "Variety",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/new-alien-movie-in-the-works-1236739216/",
+      "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-10-23T03:01:11.000Z",
-      "titolo": "Biographies of John Williams and Bernard Herrmann Among Honored Works in ASCAP’s Awards for Music Writing and Broadcasts",
-      "sommario": "The winners of annual awards given out by ASCAP for the year’s most outstanding music writing and broadcasts include biographies of film composers John Williams and Bernard Herrmann, as well as a documentary about cult R&B artist Swamp Dogg, liner notes for an archival release from Frank Zappa, Rick Beato’s YouTube pod",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/gallery/tom-skerritt-tv-film-career-in-photos/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-22T20:00:35.000Z",
-      "titolo": "Remembering Tom Skerritt: A Career In Photos",
-      "sommario": "Tom Skerritt, the Emmy-winning actor whose film and television career spanned over six decades, has died at age 93. Skerritt broke into mainstream prominence with Robert Altman’s M*A*S*H (1970) and early TV guest roles on series like Hawaii Five-O, Gunsmoke and Bonanza. He starred as Captain Dallas in Ridley Scott’s Al",
+      "data": "2026-10-23T21:28:10.000Z",
+      "titolo": "New ‘Alien’ Movie in the Works With Writer Aaron Guzikowski (Exclusive)",
+      "sommario": "Ridley Scott is reteaming with the scribe that created HBO Max sci-fi drama \"Raised by Wolves.\"",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
         "Ridley Scott"
@@ -161,37 +297,128 @@
       "radar": "regia di Ridley Scott, di cui hai visto un film"
     },
     {
-      "link": "https://variety.com/lists/2027-oscars-predictions/",
-      "fonte": "Variety",
+      "link": "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition",
+      "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-10-23T00:10:00.000Z",
-      "titolo": "Oscars Predictions 2027: Is ‘You Can See Everything’ the Film That Can Take Down ‘The Odyssey’?",
-      "sommario": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current sta",
+      "data": "2026-10-23T12:38:44.000Z",
+      "titolo": "I expect you to cry: what the James Bond actors may face at the final audition",
+      "sommario": "<p>Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend. So how can they best prepare? And who is likely to triumph?</p><p>This weekend, the identity of the next James Bond is finally expected to be known – to the insiders, at least. According to reports, ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Denis Villeneuve",
+        "Jacob Elordi"
+      ],
+      "radar": "regia di Denis Villeneuve, di cui hai visto 3 film"
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/21/uk-cinemas-report-bonkers-demand-for-documentary-you-can-see-everything",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-21T13:06:46.000Z",
+      "titolo": "UK cinemas report ‘bonkers’ demand for documentary You Can See Everything",
+      "sommario": "<p>Tickets for film about Theranos founder Elizabeth Holmes said to be selling out after $15m opening weekend in the US</p><p>It is the film everyone seems to be talking about, spawning memes and fuelling feverish online debate about its subject, the <a href=\"https://www.theguardian.com/us-news/2026/sep/24/theranos-eli",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "You Can See Everything",
+        "Nathan Fielder"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-20T21:16:23.000Z",
+      "titolo": "You Can See Everything mania lifts viewership for The Dropout by 186%",
+      "sommario": "<p>The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films\">",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "You Can See Everything",
+        "Nathan Fielder"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/22/you-can-see-everything-elizabeth-holmes-billy-evans-villain",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-22T09:00:58.000Z",
+      "titolo": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
+      "sommario": "<p>Nathan Fielder’s conversation-igniting film on the Theranos founder finds its darkest moments in her deceptive, Charlie Kirk-loving fiance Billy Evans</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success\">Secrets, lies and a shock A-list cameo: how You Can",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "You Can See Everything",
+        "Nathan Fielder"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/23/lee-chang-dong-possible-love-director-interview",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-23T12:00:25.000Z",
+      "titolo": "‘Fighting an impossible fight is the only way to reclaim dignity’: Lee Chang-dong on class warfare and his searing Oscar contender",
+      "sommario": "<p>The auteur’s new film – a study of labour, capital and the fallout of redundancy – won the grand jury prize at Venice. Telling tales of the disenfranchised is ‘our moral responsibility’, he says</p><p>A quintessential 21st-century horror story: a&nbsp;private equity firm has set its sights on your company. That’s th",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://deadline.com/2026/10/rebel-wilson-trial-delay-1237171175/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-22T21:28:42.000Z",
-      "titolo": "Rebel Wilson Trial Over ‘The Deb’ Producers’ Defamation Claims Likely To Be Delayed",
-      "sommario": "Years in the making, the L.A. courtroom showdown between Rebel Wilson and The Deb producers is not going to trial as scheduled. In a filing Wednesday that has been agreed upon by all the principals, Wilson’s lead lawyer Allyson K. Thompson asked for the long-set January 19, 2027 trial to be pushed back more than […]",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/sense-and-sensibility-making-of-grittier-jane-austen-1236726492/",
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/jeon-do-yeon-possible-love-career-profile-1236738634/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-10-22T18:30:36.000Z",
-      "titolo": "“Respect Rather Than Reverence”: Inside the Making of a Grittier ‘Sense and Sensibility’",
-      "sommario": "Screenwriter Diana Reid, costume designer Grace Snell, cinematographer Arnaud Potier and production designer Francesca Di Mottola explain how they made the Dashwood sisters’ world grounded, moody and lived-in.",
+      "data": "2026-10-23T17:01:32.000Z",
+      "titolo": "Jeon Do-yeon Defined an Era of Korean Cinema. With ‘Possible Love,’ She’s Become an Oscar Contender",
+      "sommario": "The decorated actor could become the first person from South Korea to be nominated for best actress — fitting, given her remarkable run onscreen: “I almost find myself wondering why it has taken the rest of the world so long to notice her,” says Lee Byung-hun.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/alec-baldwin-rory-kennedy-rust-1236738791/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-23T20:45:05.000Z",
+      "titolo": "Director Rory Kennedy on ‘The Trial of Alec Baldwin’: “If This Was Tom Hanks or Julia Roberts, I Don’t Think This Would Have Gone to Trial”",
+      "sommario": "The director's film asks how social media and public opinion can affect legal proceedings.",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [
-        "Ragione e sentimento"
+        "Tom Hanks"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-why-never-films-children-crying-1236930180/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-24T08:40:11.000Z",
+      "titolo": "Kore-eda Hirokazu Explains Why He Never Films Children Crying – and What Ken Loach and Hou Hsiao-hsien Taught Him",
+      "sommario": "Japanese auteur Kore-eda Hirokazu, whose films are known for their natural performances from child actors, said there is one thing he has decided never to put on screen: a child crying. “It’s not that I can’t, or that it’s difficult. I don’t shoot it,” the Japanese director said at an In Conversation event at the […]",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/impulso-morelia-galerna-tatiana-huezo-top-prize-1236922084/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-24T08:33:02.000Z",
+      "titolo": "Impulso Morelia: Tatiana Huezo’s ‘Galerna’ Takes Top José María Riba Award, With ‘Homeboys’ Another Key Winner",
+      "sommario": "“Galerna,” a fiction feature from Mexico’s Tatiana Huezo, has snagged the top prize at Impulso Morelia, the pix-in-post industry section of the 10-day Morelia Film Festival, which wraps Oct. 25. The José Maria Riba Award, presented by Cinépolis Distribution and Profest 2026, bestows $14,740. (250,000 pesos) toward outs",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/pat-mcafee-first-acting-role-the-mosquito-bowl-1236738997/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-10-23T17:33:31.000Z",
+      "titolo": "How Pat McAfee Landed His First Acting Role in ‘The Mosquito Bowl’ — With Some Help From Bradley Cooper and Tom Cruise",
+      "sommario": "The ESPN personality appears in Peter Berg's new sports war drama alongside Nicholas Galitzine, Bill Skarsgard, Ray Nicholson and Tom Francis.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Tom Cruise"
       ],
       "radar": null
     },
@@ -209,222 +436,84 @@
       "radar": "regia di Denis Villeneuve, di cui hai visto 3 film"
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/apart-film-trailer-cyprus-apartheid-south-africa-tallinn-1236738213/",
+      "link": "https://variety.com/2026/film/news/vino-g-bastian-pevita-pearce-faradina-mufti-gasigogi-1236930103/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-24T07:00:00.000Z",
+      "titolo": "Vino G. Bastian, Pevita Pearce, Faradina Mufti, Indra Jegel Lead ‘Miracle in Cell No. 7’ Director Lee Hwan-kyung’s Indonesian Father-Son Drama ‘Gasigogi’ (EXCLUSIVE)",
+      "sommario": "Korean filmmaker Lee Hwan-kyung, director of “Miracle in Cell No. 7,” has assembled an Indonesian ensemble led by Vino G. Bastian, Pevita Pearce, Faradina Mufti and Indra Jegel for “Gasigogi,” a father-son drama now in production with Falcon Pictures. The film follows Jiwa, a father who sacrifices everything in a fight",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/news/kartik-aaryan-captain-india-houthi-conflict-yemen-1236930090/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-24T02:26:30.000Z",
+      "titolo": "Kartik Aaryan’s ‘Captain India’ Set Amid Houthi Conflict in Yemen (EXCLUSIVE)",
+      "sommario": "Kartik Aaryan’s upcoming action drama “Captain India” is set amid the Houthi conflict in Yemen, Variety understands. The film marks Aaryan’s first turn as a pilot. Shimit Amin directs the project, which is based on a real humanitarian evacuation. Aaryan’s character leads the rescue effort. That conflict is central to t",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/ken-atchity-dead-joe-somebody-the-meg-producer-1236739449/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-10-23T08:30:00.000Z",
-      "titolo": "‘Apart,’ Set in Cyprus and Apartheid South Africa, “Challenges the Idea of ‘Us’ and ‘Them'” (Exclusive Tallinn Trailer)",
-      "sommario": "Writer-director Stelana Kliris’ feature, starring Leem Lubany and Luca Pasqualino and inspired by the experiences of her refugee parents, will open PÖFF’s Critics’ Picks section.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/ebenezer-venmo-real-johnny-depp-scrooge-movie-1236921820/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-23T00:15:34.000Z",
-      "titolo": "‘Ebenezer’ Creates a Real Venmo Profile for Scrooge, Which Hands Out Money and Accepts It, Too",
-      "sommario": "The surly miser Ebenezer Scrooge is no longer just a fictional character haunting the holidays — he’s on Venmo. To promote Ti West’s upcoming adaptation of the notorious character in the film “Ebenezer,” starring Johnny Depp in the titular role, the Paramount promotional team created a Venmo account for Ebenezer Scroog",
-      "sezioneProvvisoria": "approfondimento",
+      "data": "2026-10-23T23:12:27.000Z",
+      "titolo": "Ken Atchity, Producer on ‘Joe Somebody’ and ‘The Meg,’ Dies at 82",
+      "sommario": "The author and literary manager also worked on Maggie Gyllenhaal’s ‘Hysteria’ and Angelina Jolie’s ‘Life or Something Like It.’",
+      "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Johnny Depp"
+        "Angelina Jolie"
       ],
       "radar": null
     },
     {
-      "link": "https://deadline.com/2026/10/joe-perry-hollywood-vampires-movie-aerosmith-1237171377/",
+      "link": "https://deadline.com/2026/10/crazy-rich-asians-constance-wu-teases-funny-hbo-series-1237172108/",
       "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-10-23T00:35:00.000Z",
-      "titolo": "Joe Perry Bows Out Of Tonight’s Hollywood Vampires’ Flick West Coast Debut As Aerosmith Ramps Up For Hollywood Bowl Gigs",
-      "sommario": "If you were planning on catching the West Coast debut of the Hollywood Vampires’ documentary tonight at the Newport Beach Film Festival, be warned Joe Perry will not be in the sold out Lido Theater. While info for the 8 pm PT showing of the Daniel E. Catullo III helmed Unleashed Spirits: The Rise of […]",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Johnny Depp"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2294563/dc-studios-shake-up-superman-sequel-peter-safran-netflix/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-22T18:15:12.000Z",
-      "titolo": "DC Studios Could Face Major Shake-Up Before Superman Sequel, All Because Of Netflix",
-      "sommario": "Netflix is on the hunt for a new film chief, and one of the streamer's reported candidates for the job is currently the co-head of DC Studios.",
+      "data": "2026-10-23T22:15:37.000Z",
+      "titolo": "‘Crazy Rich Asians’ Star Constance Wu Teases “Really Funny” HBO Series Filming In NYC",
+      "sommario": "After eight years, Constance Wu is reuniting with the Young family for the Crazy Rich Asians HBO sequel series. On Friday, the Golden Globe nominee teased the “really funny” script from the 2018 film’s co-writer Adele Lim, revealing the filming is taking place in New York City for the one-hour drama series, which got a",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/amy-director-asif-kapadia-oscar-journey-mia-market-1236738292/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-22T17:55:33.000Z",
-      "titolo": "‘Amy’ Director Asif Kapadia Recalls Three-Act Quest to Becoming an Oscar Winner",
-      "sommario": "“If you’re lucky, you get to pick and choose what you make,” the 'Senna' and 'Diego Maradona' filmmaker told the MIA Market in Rome.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2293325/zangief-street-fighter-2026-movie-actor-olivier-richters/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-21T18:08:25.000Z",
-      "titolo": "Why Zangief From Street Fighter (2026) Looks So Familiar",
-      "sommario": "Bearded bruiser Zangief is a well-known character, and the 2026 Street Fighter movie casts a hard-working (and fittingly massive) fellow to play him.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Street Fighter"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2293175/chris-pratt-the-terminal-list-season-2-streaming-prime-video/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-21T16:52:49.000Z",
-      "titolo": "Prime Video Adds Long-Awaited Second Season Of Chris Pratt's Thrilling Action Series",
-      "sommario": "After a long four-year wait, the second season of Chris Pratt's hit action series is finally streaming over on Prime Video.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Chris Pratt"
-      ],
-      "radar": "c'è Chris Pratt, che hai visto 4 volte"
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/james-bond-auditions-watch-screen-tests-1236738531/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-22T20:57:13.000Z",
-      "titolo": "You Only Audition Twice: Watch Henry Cavill, James Brolin, Sam Neill and Others Screen-Test for James Bond",
-      "sommario": "As a new generation of would-be 007s reportedly lines up at Pinewood, take a look at the famous faces who tested for the tux — but didn't get to keep it.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Henry Cavill"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/global/hannah-dodd-romantic-drama-miss-you-forever-zara-drake-1236922171/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-23T09:00:00.000Z",
-      "titolo": "‘Bridgerton’ Breakout Hannah Dodd to Lead Lucas Jones’ Romantic Drama ‘Miss You Forever, Zara Drake’ (EXCLUSIVE)",
-      "sommario": "Hannah Dodd, best known for her portrayal of Francesca in Netflix’s hit Regency-era period drama “Bridgerton,” has landed her first lead film role. The British actress, also seen in “Enola Holmes 2” and “Anatomy of a Scandal,” has joined upcoming “Miss You Forever, Zara Drake,” a romantic drama exploring love and traum",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/global/netflix-ester-exposito-mar-coll-elastica-maria-zamora-1236919972/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-23T08:02:57.000Z",
-      "titolo": "Netflix, ‘Elite’ Star Ester Expósito and Locarno Winner Mar Coll Adapt ‘La Regenta,’ a ‘Fresh Female Perspective’ on a Big Spanish Classic (EXCLUSIVE)",
-      "sommario": "Netflix, ‘Elite’ star Ester Expósito and Locarno Winner Mar Coll are adapting Clarín’s classic novel into a feature film which went into production Oct. 23, produced by María Zamora at Elastica Films (“Alcarràs” “Romería”). Bombshell news – nothing was known of the movie until Friday’s announcement – “La Regenta” now w",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/10/the-mosquito-bowl-review-peter-berg-true-wwii-story-afi-fest-1237170862/",
+      "link": "https://deadline.com/2026/10/judi-dench-cant-do-film-anymore-worsening-eye-condition-1237172032/",
       "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-10-23T07:30:00.000Z",
-      "titolo": "‘The Mosquito Bowl’ Review: Peter Berg’s Powerful True WWII Story Takes Four Star Players From The Glory Of The Football Field To The Hell Of The Battlefield – AFI Fest",
-      "sommario": "There have been so many films about WWII, both during and after, so many different takes and personal stories told, that now 81 years since it ended it is hard to imagine finding a fresh way to say anything new, but with his film adaptation of Buzz Bissinger’s best seller, “The Mosquito Bowl: A Game […]",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/10/louis-partridge-one-last-summer-enola-holmes-1237171542/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-23T07:05:49.000Z",
-      "titolo": "‘Enola Holmes’ Star Louis Partridge To Headline & Produce Film ‘One Last Summer’",
-      "sommario": "EXCLUSIVE: Louis Partridge, the English actor best known for Enola Holmes and House of Guinness, will star in and produce the coming-of-age indie film One Last Summer. Partridge will be joined by Mia Jenkins (Love Me Love Me, Geek Girl) and Jude Carmichael (Dear England at The National Theatre), with further cast to be",
+      "data": "2026-10-23T20:59:34.000Z",
+      "titolo": "Judi Dench Reveals She “Can’t Do A Film Anymore” Or “Be On Stage” Amid Worsening Eye Condition",
+      "sommario": "More than a decade after she was first diagnosed, Dame Judi Dench’s vision loss has taken her off the stage and screen. The Oscar winner recently revealed that she “can’t do a play anymore” and “can’t do a film anymore” following her diagnosis with age-related macular degeneration (AMD) in 2012. “I can’t be on stage,” ",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/film/news/richard-gadd-bill-camp-ray-mckinnon-rode-to-ruin-1236922088/",
+      "link": "https://variety.com/2026/film/features/the-cycle-werewolf-horror-movie-police-procedural-1236914753/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-10-23T02:22:45.000Z",
-      "titolo": "Richard Gadd, Bill Camp and Ray McKinnon Join Michael Keaton-Directed Western ‘Rode to Ruin’ (EXCLUSIVE)",
-      "sommario": "Emmy Award-winning actor and writer Richard Gadd, multi-Emmy and SAG nominated actor Bill Camp and Oscar-nominated filmmaker and actor Ray McKinnon are joining “Rode to Ruin,” a Western thriller directed by Michael Keaton. Keaton also stars in the film, which is now in production in Santa Fe, New Mexico, along with Mor",
+      "data": "2026-10-23T19:30:00.000Z",
+      "titolo": "‘The Cycle’ Is a Surprising New Take on the Police Procedural, With a Huge Twist and an Emotional Resonance the Director Didn’t Expect",
+      "sommario": "SPOILER ALERT: This article contains major spoilers for “The Cycle,” now streaming on Shudder. What if a werewolf continued to transform even after its death? This light bulb idea came to frequent collaborators Jordan Downey and Kevin Stewart as they were sketching out a TV treatment for their 2018 film “The Head Hunte",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "link": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
       "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-10-23T09:13:35.000Z",
-      "titolo": "‘Overnight, everything was dead’: the Teeside fisherman turned activist dubbed the Mr Bates of the seas",
-      "sommario": "<p>When thousands of dying crabs washed up on a Yorkshire beach in 2021, Stan Rennie’s livelihood was immediately threatened. Five years later, he’s leading the fight back against toxic ocean pollution – and corporate coverups</p><p>It was an otherwise typical day on 25 September 2021 when thousands of dead and dying c",
+      "data": "2026-10-22T20:19:49.000Z",
+      "titolo": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
+      "sommario": "<p>Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years</p><p>Tom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93.</p><p>His publicist confirmed to <a href=\"https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236",
       "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/23/junk-movie-review-david-schwimmer-mubi",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-23T09:00:05.000Z",
-      "titolo": "Junk review – David Schwimmer is lost in Mubi’s frustrating LA-set misstep",
-      "sommario": "<p>The Friends alum makes up half of a messy and pretentious comedy drama that boasts some visual panache but is dragged down by a confused tone</p><p>You could be forgiven, upon watching the first scene of Junk, for believing that this debut feature will boldly, perhaps ill-advisedly, dare to satirize the industry it’",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/festivals/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-23T00:27:55.000Z",
-      "titolo": "Peter Chan Rules Out AI-Generated Content, Says Feature Films Will Survive the Rise of Vertical Dramas",
-      "sommario": "Acclaimed Asian filmmaker Peter Chan Ho-sun, director of “Comrades: Almost a Love Story” and “The Warlords,” said he will probably use AI in his filmmaking but “definitely not AIGC,” or AI-generated content, and that the two-hour feature will hold its ground against short-form and vertical dramas, at least in his lifet",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/awards/animation-adults-wildwood-ray-gunn-tangles-hoppers-scad-1236917883/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-10-22T21:11:06.000Z",
-      "titolo": "Laika’s First PG-13 Film, Brad Bird’s Neo-Noir and an Alzheimer’s Memoir: Animation’s Revolution Isn’t for Kids",
-      "sommario": "The MPA gave “Wildwood” a PG-13 for “strong fantasy violence/bloody images, thematic material, suicide-related material, brief partial nudity and language,” which is a mouthful for any movie and an especially wild one for a stop-motion picture about a girl hunting for her kidnapped baby brother. It’s the first PG-13 in",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/10/wicker-olivia-colman-peter-dinklage-alexander-skarsgard-1237170426/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-10-22T20:00:00.000Z",
-      "titolo": "‘Wicker’ Review: Olivia Colman And Peter Dinklage Turn Alexander Skarsgård Into A Sexy Basket Case In Comic Fable That’s Pure Delight",
-      "sommario": "With something smart and pertinent to say about relationships between men and women, happiness and love, jealousy and longing and other matters of the heart, Wicker is the year’s most unexpected charmer. A hit at Sundance where it was picked up by Black Bear, this wry film from writer-directors Alex Huston and Eleanor ",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-23T04:00:04.000Z",
-      "titolo": "‘I struggle to see myself as someone special’: Sandra Hüller on being the star of four - or, possibly, five - of the year’s biggest films",
-      "sommario": "<p>New film Fatherland took Sandra Hüller back to a divided Germany. She talks about damaged dreams, Hollywood feelgood and - just maybe - appearing in the new Marvel movie</p><p>Sandra Hüller is crying, and it feels very strange. A wildly gifted actor, she can convey every human emotion there is. On screen, though, sh",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
+      "soggetti": [
+        "Tom Skerritt"
+      ],
       "radar": null
     },
     {
@@ -441,60 +530,137 @@
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/wolf-biermann-doc-film-german-singer-trump-era-viennale-qa-1236736129/",
+      "link": "https://variety.com/2026/film/global/el-gouna-cinegouna-arab-film-industry-programs-1236929945/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-10-23T19:23:37.000Z",
+      "titolo": "El Gouna’s CineGouna Expands Industry Push: ‘We Want to Give Every Filmmaker a Chance’",
+      "sommario": "More than 320 Arab film projects applied to CineGouna Funding this year, including more than 100 from Egypt, as the industry arm of Egypt’s El Gouna Film Festival drew submissions from across the region. At the festival’s ninth edition, running through Oct. 23 on the Red Sea, CineGouna is adding new initiatives as it l",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2294747/tom-skerritt-alien-top-gun-actor-dead-93/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-22T19:38:19.000Z",
+      "titolo": "Tom Skerritt, Alien And Top Gun Actor, Dead At 93",
+      "sommario": "Tom Skerritt, the dashing actor who had credits in Alien, Top Gun, Contact, Steel Magnolias, and many more, has died at the age of 93.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Tom Skerritt"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/crawl-2-sarah-niles-ray-panthaki-flula-borg-sequel-1236739368/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-10-23T08:00:00.000Z",
-      "titolo": "‘Biermann’ Director Explains Why His Doc About a German Political Singer Is a Film for the Trump Era",
-      "sommario": "Jens Meurer discusses his doc, screening at Austria's Viennale and showing Wolf Biermann narrating his life in various iterations of Germany, and how the outspoken artist inspired 'The Lives of Others.'",
+      "data": "2026-10-23T22:51:39.000Z",
+      "titolo": "‘Crawl 2’ Adds Sarah Niles, Ray Panthaki and 3 More Ahead of 2027 Paramount Release (Exclusive)",
+      "sommario": "Flula Borg, Richard Brake and Charley Palmer Rothwell also star in Alexandre Aja's follow-up to the 2019 horror film.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2295096/clayface-james-gunn-dc-universe-expansion-before-man-of-tomorrow/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-23T19:00:00.000Z",
+      "titolo": "How Clayface Expands James Gunn's DC Universe",
+      "sommario": "While Clayface mostly operates as a standalone film, it expands James Gunn's DC Universe in ways beyond the Gotham City of it all.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2295685/batman-status-clayface-explained-dc-studios-peter-safran/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-23T18:51:00.000Z",
+      "titolo": "Batman's Status During Clayface Explained By DC Studios Co-Head",
+      "sommario": "Clayface is set almost entirely in Gotham, but Batman isn't mentioned once. So is the Caped Crusader even active during the events of the film?",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
-      "fonte": "The Guardian",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/house-of-guerrero-chino-pacas-clave-especial-vic-blends-1236739166/",
+      "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-10-22T23:31:22.000Z",
-      "titolo": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
-      "sommario": "<p>NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued</p><p>Rebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s co-producers.</p><p>The Pitch Perfec",
+      "data": "2026-10-23T18:57:34.000Z",
+      "titolo": "Chino Pacas, Clave Especial, Vic Blends Join Gina Rodriguez’s Boxing Drama ‘House of Guerrero’ (Exclusive)",
+      "sommario": "Emily Austin will also appear in the Justin Baldoni-produced feature that stars Carlos Sanson Jr., Rosario Dawson and George Lopez.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+      "link": "https://www.theguardian.com/film/2026/oct/23/taika-waititi-star-wars-lucasfilm",
       "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-10-22T20:19:49.000Z",
-      "titolo": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
-      "sommario": "<p>Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years</p><p>Tom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93.</p><p>His publicist confirmed to <a href=\"https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236",
+      "data": "2026-10-23T10:39:45.000Z",
+      "titolo": "Taika Waititi’s Star Wars film is the latest to hit the buffers. At some point Lucasfilm is going to have to actually make a movie",
+      "sommario": "<p>Waititi joins a long list of movie-makers who were expected to bring a new direction to the franchise, before the studio appeared to get cold feet</p><p>Movie-making these days is a very expensive endeavour. In 1977, George Lucas’s Star Wars cost $11m to make, which would be approximately $60m in today’s money, and ",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-23T10:03:02.000Z",
+      "titolo": "‘Overnight, everything was dead’: the Teesside fisherman turned activist dubbed the Mr Bates of the seas",
+      "sommario": "<p>When thousands of dying crabs washed up on a Yorkshire beach in 2021, Stan Rennie’s livelihood was immediately threatened. Five years later, he’s leading the fight back against toxic ocean pollution – and corporate coverups</p><p>It was an otherwise typical day on 25 September 2021 when thousands of dead and dying c",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
+      "link": "https://www.slashfilm.com/2294983/wildwood-director-travis-knight-defend-movie-violence/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-10-23T16:00:00.000Z",
+      "titolo": "Wildwood Director Travis Knight Defends The Movie's Violence, Says Film Is 'Appropriately Rated' [Exclusive]",
+      "sommario": "Wildwood has more violence than you might expect from a stop-motion animated feature, but director Travis Knight tells us why it was important to showcase that.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/23/junk-movie-review-david-schwimmer-mubi",
       "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-10-22T15:10:18.000Z",
-      "titolo": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
-      "sommario": "<p><strong>Exclusive:</strong> Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker</p><p><strong>• This article contains substantial spoilers for Ali G: Who Iz I?<br></strong><a href=\"https://www.theguardian.com/film/",
+      "data": "2026-10-23T09:00:05.000Z",
+      "titolo": "Junk review – David Schwimmer is lost in Mubi’s frustrating LA-set misstep",
+      "sommario": "<p>The Friends alum makes up half of a messy and pretentious comedy drama that boasts some visual panache but is dragged down by a confused tone</p><p>You could be forgiven, upon watching the first scene of Junk, for believing that this debut feature will boldly, perhaps ill-advisedly, dare to satirize the industry it’",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-10-23T04:00:04.000Z",
+      "titolo": "‘I struggle to see myself as someone special’: Sandra Hüller on being the star of four - or, possibly, five - of the year’s biggest films",
+      "sommario": "<p>New film Fatherland took Sandra Hüller back to a divided Germany. She talks about damaged dreams, Hollywood feelgood and - just maybe - appearing in the new Marvel movie</p><p>Sandra Hüller is crying, and it feels very strange. A wildly gifted actor, she can convey every human emotion there is. On screen, though, sh",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
+      "link": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
       "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-10-20T21:16:23.000Z",
-      "titolo": "You Can See Everything mania lifts viewership for The Dropout by 186%",
-      "sommario": "<p>The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films\">",
+      "data": "2026-10-21T16:06:54.000Z",
+      "titolo": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
+      "sommario": "<p>The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’</p><p>Sacha Baron Cohen has launched an impassioned defence of satire, the right to offend, and his Ali G character on <a href=\"https://time.com/article/2026/10/20",
       "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Amanda Seyfried"
-      ],
+      "soggetti": [],
       "radar": null
     },
     {
@@ -520,69 +686,29 @@
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/ted-sarandos-elected-chair-of-afi-board-of-directors-1236737958/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-10-22T18:00:00.000Z",
-      "titolo": "Netflix’s Ted Sarandos Elected Chair of AFI’s Board of Directors (Exclusive)",
-      "sommario": "Sarandos succeeds Bob Daly, who has held the role for the past 17 years.",
+      "link": "https://movieplayer.it/news/avengers-doomsday-nuovo-trailer-dove-quando-vederlo_171634/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-23T10:00:06.000Z",
+      "titolo": "Avengers: Doomsday, mancano poche ore al nuovo trailer: dove e quando vederlo",
+      "sommario": "Marvel ha confermato l'arrivo di un'anteprima esclusiva di Avengers: Doomsday durante la prima partita delle World Series di baseball: cresce l'attesa per nuove immagini di Doctor Doom e degli X-Men. Il prossimo appuntamento con Avengers: Doomsday è molto più vicino del previsto. Marvel Studios mostrerà un nuovo filmat",
       "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
     },
     {
-      "link": "https://www.theguardian.com/film/2026/oct/22/you-can-see-everything-elizabeth-holmes-billy-evans-villain",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-22T09:00:58.000Z",
-      "titolo": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
-      "sommario": "<p>Nathan Fielder’s conversation-igniting film on the Theranos founder finds its darkest moments in her deceptive, Charlie Kirk-loving fiance Billy Evans</p><ul><li><p><a href=\"https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-movie-spoilers-success\">Secrets, lies and a shock A-list cameo: how You Can",
+      "link": "https://www.cineblog.it/post/clayface-film-horror-dc-reazioni",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-10-24T00:24:21.000Z",
+      "titolo": "Clayface, l’horror DC di James Watkins divide le prime reazioni",
+      "sommario": "Il clayface film di James Watkins genera giudizi contrastanti dopo le proiezioni segrete. Un body horror che mescola l'universo DC con il genere horror, suscitando dibatt",
       "sezioneProvvisoria": "curiosita",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-21T16:06:54.000Z",
-      "titolo": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
-      "sommario": "<p>The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’</p><p>Sacha Baron Cohen has launched an impassioned defence of satire, the right to offend, and his Ali G character on <a href=\"https://time.com/article/2026/10/20",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/oct/21/uk-cinemas-report-bonkers-demand-for-documentary-you-can-see-everything",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-10-21T13:06:46.000Z",
-      "titolo": "UK cinemas report ‘bonkers’ demand for documentary You Can See Everything",
-      "sommario": "<p>Tickets for film about Theranos founder Elizabeth Holmes said to be selling out after $15m opening weekend in the US</p><p>It is the film everyone seems to be talking about, spawning memes and fuelling feverish online debate about its subject, the <a href=\"https://www.theguardian.com/us-news/2026/sep/24/theranos-eli",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2293687/clayface-rotten-tomatoes-score-superman-supergirl-comparison/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-21T21:58:31.000Z",
-      "titolo": "Clayface Rotten Tomatoes Score: How Does It Compare To Superman And Supergirl?",
-      "sommario": "Critics have weighed in on Clayface, so let's see how the body horror film's Rotten Tomatoes score stacks up to the other DCU movies, Superman and Supergirl.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2293090/clayface-2026-movie-review/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-10-21T19:00:00.000Z",
-      "titolo": "Clayface Review: DC's Gory Villain Spin-Off Movie Is Shapeless",
-      "sommario": "Clayface isn't afraid to get gory in Gotham, but the horror-adjacent film ends up lacking a personality of its own. Here's our review.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
+      "soggetti": [
+        "Clayface (in libreria)"
+      ],
       "radar": null
     },
     {
@@ -595,32 +721,6 @@
       "sezioneProvvisoria": "curiosita",
       "soggetti": [
         "Clayface (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/gears-of-war-e-day-giochi-costosi-sempre-supererebbe-spider-man-2-907536.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-10-22T20:22:00.000Z",
-      "titolo": "Gears of War: E-Day è tra i giochi più costosi di sempre? Supererebbe persino Spider-Man 2",
-      "sommario": "Secondo indiscrezioni, Microsoft avrebbe investito oltre 500 milioni per Gears of War: E-Day, ma la cifra non è stata confermata ufficialmente. Quanto ha speso Microsoft per sviluppare Gears of War: E-Day ? Stando a quanto emerso nelle ultime ore, la risposta potrebbe superare ogni aspettativa. Prosegui la lettura",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Spider-Man: Brand New Day (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/festa-del-cinema-di-roma-programma-venerdi-23-ottobre_171630/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-10-23T07:00:00.000Z",
-      "titolo": "Festa del Cinema di Roma, è il giorno di Se domani non torno: il programma del 23 ottobre",
-      "sommario": "Festa del Cinema di Roma 2026: dall'atteso Se domani non torno a La Bola Negra e la musica di Elisa. I film che vedremo il 23 ottobre. La Festa del Cinema di Roma 2026 si avvia verso il finale con una giornata ricca di attesissimi appuntamenti. Evento della giornata di venerdì 23 ottobre è l'anteprima assoluta - insiem",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "La bola negra"
       ],
       "radar": null
     },
@@ -640,90 +740,29 @@
       "radar": null
     },
     {
-      "link": "https://www.cineblog.it/post/jenna-ortega-rome-film-festival-klara",
-      "fonte": "Cineblog",
+      "link": "https://www.everyeye.it/notizie/gears-of-war-e-day-giochi-costosi-sempre-supererebbe-spider-man-2-907536.html",
+      "fonte": "Everyeye",
       "lingua": "it",
-      "data": "2026-10-21T00:05:25.000Z",
-      "titolo": "Jenna Ortega al Festival di Roma con ‘Klara and the Sun’",
-      "sommario": "Jenna Ortega presenta Klara and the Sun alla 21ª Festa del Cinema di Roma, adattamento del romanzo di Kazuo Ishiguro diretto da Taika Waititi.",
+      "data": "2026-10-22T20:22:00.000Z",
+      "titolo": "Gears of War: E-Day è tra i giochi più costosi di sempre? Supererebbe persino Spider-Man 2",
+      "sommario": "Secondo indiscrezioni, Microsoft avrebbe investito oltre 500 milioni per Gears of War: E-Day, ma la cifra non è stata confermata ufficialmente. Quanto ha speso Microsoft per sviluppare Gears of War: E-Day ? Stando a quanto emerso nelle ultime ore, la risposta potrebbe superare ogni aspettativa. Prosegui la lettura",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Klara e il sole"
+        "Spider-Man: Brand New Day (in libreria)"
       ],
-      "radar": "fantascienza e dramma: il tuo terreno"
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/rainbow-six-che-fine-ha-fatto-il-sequel-di-senza-rimorso-il-film-con-michael-b-jordan-nasconde-unincognita",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-23T07:30:40.000Z",
-      "titolo": "Rainbow Six, che fine ha fatto il sequel di Senza rimorso? Il film con Michael B. Jordan nasconde un'incognita",
-      "sommario": "Che fine ha fatto Rainbow Six, il sequel di Senza rimorso con Michael B. Jordan? Tutte le ultime novità sul film, dalla regia alla possibile uscita.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://movieplayer.it/news/james-bond-jacob-elordi-corsa-spunta-terzo-attore-misterioso-007_171619/",
-      "fonte": "MoviePlayer",
+      "link": "https://www.badtaste.it/articoli/staro-lontana-dalla-tv-per-un-po-jenna-ortega-svela-i-suoi-piani-dopo-la-terza-stagione-di-mercoledi",
+      "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-10-22T10:30:00.000Z",
-      "titolo": "James Bond: Jacob Elordi è ancora in corsa ma spunta un terzo attore misterioso per il prossimo 007",
-      "sommario": "La ricerca del successore di Daniel Craig per la spia con licenza di uccidere sarebbe arrivata alla fase decisiva: due candidati sono noti, mentre il terzo resta ancora nell'ombra. La caccia al nuovo James Bond potrebbe essere vicina alla svolta. Dopo mesi di indiscrezioni, scommesse e nomi entrati e usciti dalla corsa",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Jacob Elordi"
-      ],
-      "radar": "c'è Jacob Elordi, che hai visto 2 volte"
-    },
-    {
-      "link": "https://movieplayer.it/news/jenna-ortega-vuole-pausa-dopo-mercoledi-3-spazio-nuove-esperienze_171631/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-10-23T08:00:33.000Z",
-      "titolo": "Jenna Ortega vuole una pausa dopo Mercoledì 3: \"Do spazio a nuove esperienze\"",
-      "sommario": "L'attrice ha spiegato di voler rallentare con la televisione per dedicarsi a nuove opportunità professionali, dopo anni trascorsi passando da un set all'altro fin da bambina. Jenna Ortega non ha intenzione di restare legata a lungo allo stesso tipo di progetto. Con la terza stagione di Mercoledì ormai terminata, l'attr",
-      "sezioneProvvisoria": "approfondimento",
+      "data": "2026-10-24T08:29:28.000Z",
+      "titolo": "\"Starò lontana dalla tv per un po'\": Jenna Ortega svela i suoi piani dopo la terza stagione di Mercoledì",
+      "sommario": "Dopo essere diventata un icona con la serie Netflix Mercoledì, Jenna Ortega ha rivelato che si prenderà una pausa dalla recitazione dopo aver finito di recitare nella terza stagione della serie firmata da Tim Burton.",
+      "sezioneProvvisoria": "curiosita",
       "soggetti": [
         "Jenna Ortega"
       ],
-      "radar": null
-    },
-    {
-      "link": "https://fumettologica.it/2026/10/clayface-recensioni-film-dc-studios/",
-      "fonte": "Fumettologica",
-      "lingua": "it",
-      "data": "2026-10-22T10:47:13.000Z",
-      "titolo": "Clayface divide la critica: capolavoro horror o occasione sprecata?",
-      "sommario": "Clayface, il nuovo film DC, è stato accolto con giudizi contrastanti: bene soprattutto gli effetti speciali, male la sceneggiatura. Clayface divide la critica: capolavoro horror o occasione sprecata? leggi l’articolo su Fumettologica .",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Clayface (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/ragione-e-sentimento-clip-esclusiva-nuovo-film-jane-austen_171624/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-10-22T07:00:00.000Z",
-      "titolo": "Ragione e Sentimento: l'incontro tra Elinor ed Edward in questa clip dal nuovo adattamento di Jane Austen",
-      "sommario": "Daisy Edgar-Jones e George MacKay sono i protagonisti di una scena che vi mostriamo in esclusiva del film diretto da Georgia Oakley, in cui l'incontro tra Elinor Dashwood ed Edward Ferrars è decisamente meno composto del previsto. Arriva oggi al cinema il nuovo adattamento di Ragione e Sentimento, il celebre romanzo di",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Ragione e sentimento"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/mass-effect-5-cancellato-premiato-autore-sci-fi-svelapreparando-davvero-fantastico-907546.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-10-23T06:53:00.000Z",
-      "titolo": "Mass Effect 5 cancellato: un premiato autore Sci-Fi svela: \"Ciò che stavamo preparando era davvero fantastico\"",
-      "sommario": "BioWare chiude, cancellato il prossimo Mass Effect. Il team elogiato per la visione creativa, resta il rammarico per il progetto mai realizzato. La notizia più triste della settimana riguarda la chiusura di BioWare, storico studio sotto la effige EA al quale dobbiamo la nascita di IP leggendarie, tra cui quella di Mass",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
       "radar": null
     },
     {
@@ -753,25 +792,64 @@
       "radar": "fantascienza e dramma: il tuo terreno"
     },
     {
-      "link": "https://www.everyeye.it/notizie/mass-effect-universe-trailer-leakato-chiusura-bioware-autentico-jason-schreier-conferma-907504.html",
-      "fonte": "Everyeye",
+      "link": "https://movieplayer.it/news/james-bond-jacob-elordi-corsa-spunta-terzo-attore-misterioso-007_171619/",
+      "fonte": "MoviePlayer",
       "lingua": "it",
-      "data": "2026-10-23T06:09:00.000Z",
-      "titolo": "Mass Effect Universe: il trailer leakato dopo la chiusura di BioWare è autentico, Jason Schreier conferma",
-      "sommario": "Jason Schreier conferma l'autenticità del trailer e il nome Mass Effect Universe, ma il gioco, cambiando genere e trama, è stato cancellato dopo Bioware. Aggiornamento : Jason Schreier di Bloomberg conferma che il trailer è autentico, confermando al tempo stesso anche il nome del gioco, Mass Effect Universe . Il proget",
+      "data": "2026-10-22T10:30:00.000Z",
+      "titolo": "James Bond: Jacob Elordi è ancora in corsa ma spunta un terzo attore misterioso per il prossimo 007",
+      "sommario": "La ricerca del successore di Daniel Craig per la spia con licenza di uccidere sarebbe arrivata alla fase decisiva: due candidati sono noti, mentre il terzo resta ancora nell'ombra. La caccia al nuovo James Bond potrebbe essere vicina alla svolta. Dopo mesi di indiscrezioni, scommesse e nomi entrati e usciti dalla corsa",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Jacob Elordi"
+      ],
+      "radar": "c'è Jacob Elordi, che hai visto 2 volte"
+    },
+    {
+      "link": "https://www.cineblog.it/post/naza-documentario-distribuzione-globale",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-10-24T09:11:27.000Z",
+      "titolo": "NAZA, il documentario vincitore di Venezia trova distribuzione globale con Neon e The Guardian",
+      "sommario": "Il naza documentario vincitore a Venezia 2026 ottiene distribuzione internazionale attraverso Neon, The Guardian e MK2, raggiungendo oltre 50 paesi.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.everyeye.it/notizie/serious-sam-the-third-encounter-realta-annunciato-teaser-capitolo-907543.html",
+      "link": "https://www.everyeye.it/notizie/mass-effect-5-trapelano-tanti-dettagli-gioco-cancellato-bioware-fan-907739.html",
       "fonte": "Everyeye",
       "lingua": "it",
-      "data": "2026-10-22T22:27:00.000Z",
-      "titolo": "Serious Sam The Third Encounter è realtà: annunciato con un teaser il nuovo capitolo",
-      "sommario": "Devolver Digital e Croteam hanno annunciato ufficialmente l'inizio dei lavori su Serious Sam The Third Encounter. Se siete appassionati della storica serie Serious Sam, sappiate che è arrivato l'annuncio che stavate aspettando da tempo . Dopo il non riuscitissimo Shatterverse , Devolver Digital e Croteam tornano sulla ",
-      "sezioneProvvisoria": "notizia",
+      "data": "2026-10-23T21:34:00.000Z",
+      "titolo": "Mass Effect 5, trapelano tanti dettagli sul gioco cancellato: 'BioWare lo stava facendo per i fan'",
+      "sommario": "EA chiude BioWare e cancella il nuovo capitolo di Mass Effect, rivelati dettagli sul titolo mai pubblicato da un content creator coinvolto nel progetto. Electronic Arts ha decretato la chiusura di BioWare e la fine dei lavori su Mass Effect 5 . Un noto content creator è intervenuto per raccontarci più nel dettaglio ciò",
+      "sezioneProvvisoria": "curiosita",
       "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://fumettologica.it/2026/10/clayface-recensioni-film-dc-studios/",
+      "fonte": "Fumettologica",
+      "lingua": "it",
+      "data": "2026-10-22T10:47:13.000Z",
+      "titolo": "Clayface divide la critica: capolavoro horror o occasione sprecata?",
+      "sommario": "Clayface, il nuovo film DC, è stato accolto con giudizi contrastanti: bene soprattutto gli effetti speciali, male la sceneggiatura. Clayface divide la critica: capolavoro horror o occasione sprecata? leggi l’articolo su Fumettologica .",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Clayface (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/festa-del-cinema-di-roma-programma-venerdi-23-ottobre_171630/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-23T07:00:00.000Z",
+      "titolo": "Festa del Cinema di Roma, è il giorno di Se domani non torno: il programma del 23 ottobre",
+      "sommario": "Festa del Cinema di Roma 2026: dall'atteso Se domani non torno a La Bola Negra e la musica di Elisa. I film che vedremo il 23 ottobre. La Festa del Cinema di Roma 2026 si avvia verso il finale con una giornata ricca di attesissimi appuntamenti. Evento della giornata di venerdì 23 ottobre è l'anteprima assoluta - insiem",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "La bola negra"
+      ],
       "radar": null
     },
     {
@@ -788,12 +866,185 @@
       "radar": null
     },
     {
-      "link": "https://www.everyeye.it/notizie/mass-effect-progetto-cancellato-bioware-puntava-superare-baldur-s-gate-3-907499.html",
+      "link": "https://www.everyeye.it/notizie/gran-turismo-7-conquista-mercato-vendite-record-sorprendono-sviluppatori-905180.html",
       "fonte": "Everyeye",
       "lingua": "it",
-      "data": "2026-10-22T16:22:00.000Z",
-      "titolo": "Mass Effect: il progetto cancellato da BioWare puntava a superare Baldur's Gate 3",
-      "sommario": "Dopo la chiusura di BioWare emergono dettagli sul nuovo Mass Effect: puntava a libertà senza precedenti, ispirandosi ai GDR moderni. Con la recente chiusura di BioWare è sfumato anche il nuovo Mass Effect , eppure in queste ore cominciano a trapelare alcune informazioni su quello che il team aveva in mente per il pross",
+      "data": "2026-10-23T18:02:00.000Z",
+      "titolo": "Gran Turismo 7 conquista il mercato: vendite record sorprendono anche gli sviluppatori",
+      "sommario": "Gran Turismo 7 si prepara all'aggiornamento Spec IV, il più grande di sempre, nel mentre il gioco continua a vendere oltre le aspettative. Gran Turismo 7 continua a sfrecciare a pieno regime e a rappresentare una delle esclusive PlayStation più ambite. Il Real Driving Simulator di Polyphony Digital è tanto in salute da",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/clayface-rotten-tomatoes-batte-villain-premio-oscar_171636/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-23T11:00:05.000Z",
+      "titolo": "Clayface parte bene su Rotten Tomatoes, dove batte anche un villain premio Oscar",
+      "sommario": "Il nuovo film DC dedicato al villain di Batman debutta con una percentuale di recensioni positive superiore a quella di Joker, il film del 2019 premiato agli Oscar e capace di incassare oltre un miliardo di dollari. Il nuovo universo DC prova a farsi strada con uno dei suoi personaggi più inquietanti: Clayface, arrivat",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.cineblog.it/post/jenna-ortega-rome-film-festival-klara",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-10-21T00:05:25.000Z",
+      "titolo": "Jenna Ortega al Festival di Roma con ‘Klara and the Sun’",
+      "sommario": "Jenna Ortega presenta Klara and the Sun alla 21ª Festa del Cinema di Roma, adattamento del romanzo di Kazuo Ishiguro diretto da Taika Waititi.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Klara e il sole"
+      ],
+      "radar": "fantascienza e dramma: il tuo terreno"
+    },
+    {
+      "link": "https://www.cineblog.it/post/bfi-london-film-festival-awards-2026-winners",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-10-24T03:23:19.000Z",
+      "titolo": "Londra premia ‘Imperium’, ‘Concrete Land’ e ‘9 Temples to Heaven’ al 70° BFI London Film Festival",
+      "sommario": "The 70th BFI London Film Festival awards honored Imperium, Concrete Land, and 9 Temples to Heaven as major winners, recognizing emerging voices across three continents.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/rainbow-six-che-fine-ha-fatto-il-sequel-di-senza-rimorso-il-film-con-michael-b-jordan-nasconde-unincognita",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-10-23T07:30:40.000Z",
+      "titolo": "Rainbow Six, che fine ha fatto il sequel di Senza rimorso? Il film con Michael B. Jordan nasconde un'incognita",
+      "sommario": "Che fine ha fatto Rainbow Six, il sequel di Senza rimorso con Michael B. Jordan? Tutte le ultime novità sul film, dalla regia alla possibile uscita.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/the-debut-la-grande-occasione-trailer-italiano-ufficiale/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-10-23T17:59:34.000Z",
+      "titolo": "The Debut - La grande occasione: trailer italiano ufficiale",
+      "sommario": "",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/jenna-ortega-vuole-pausa-dopo-mercoledi-3-spazio-nuove-esperienze_171631/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-23T08:00:33.000Z",
+      "titolo": "Jenna Ortega vuole una pausa dopo Mercoledì 3: \"Do spazio a nuove esperienze\"",
+      "sommario": "L'attrice ha spiegato di voler rallentare con la televisione per dedicarsi a nuove opportunità professionali, dopo anni trascorsi passando da un set all'altro fin da bambina. Jenna Ortega non ha intenzione di restare legata a lungo allo stesso tipo di progetto. Con la terza stagione di Mercoledì ormai terminata, l'attr",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Jenna Ortega"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://fumettologica.it/2026/10/lucca-comics-2026-cinema-programma/",
+      "fonte": "Fumettologica",
+      "lingua": "it",
+      "data": "2026-10-23T09:44:18.000Z",
+      "titolo": "Lucca Comics 2026, il programma del cinema: anteprime, ospiti e proiezioni da non perdere",
+      "sommario": "Da Blue Lock e Madoka Magica a Look Back, Frank Miller e Harry Potter: le principali proiezioni, anteprime e incontri di Lucca Comics & Games 2026, dal 28 ottobre al 1° novembre. Il calendario con date, orari, luoghi e collegamenti al programma ufficiale. Lucca Comics 2026, il programma del cinema: anteprime, ospiti e ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Look Back"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/ragione-e-sentimento-clip-esclusiva-nuovo-film-jane-austen_171624/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-22T07:00:00.000Z",
+      "titolo": "Ragione e Sentimento: l'incontro tra Elinor ed Edward in questa clip dal nuovo adattamento di Jane Austen",
+      "sommario": "Daisy Edgar-Jones e George MacKay sono i protagonisti di una scena che vi mostriamo in esclusiva del film diretto da Georgia Oakley, in cui l'incontro tra Elinor Dashwood ed Edward Ferrars è decisamente meno composto del previsto. Arriva oggi al cinema il nuovo adattamento di Ragione e Sentimento, il celebre romanzo di",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Ragione e sentimento"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/mass-effect-5-cancellato-premiato-autore-sci-fi-svelapreparando-davvero-fantastico-907546.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-10-23T06:53:00.000Z",
+      "titolo": "Mass Effect 5 cancellato: un premiato autore Sci-Fi svela: \"Ciò che stavamo preparando era davvero fantastico\"",
+      "sommario": "BioWare chiude, cancellato il prossimo Mass Effect. Il team elogiato per la visione creativa, resta il rammarico per il progetto mai realizzato. La notizia più triste della settimana riguarda la chiusura di BioWare, storico studio sotto la effige EA al quale dobbiamo la nascita di IP leggendarie, tra cui quella di Mass",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/mass-effect-universe-trailer-leakato-chiusura-bioware-autentico-jason-schreier-conferma-907504.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-10-23T06:09:00.000Z",
+      "titolo": "Mass Effect Universe: il trailer leakato dopo la chiusura di BioWare è autentico, Jason Schreier conferma",
+      "sommario": "Jason Schreier conferma l'autenticità del trailer e il nome Mass Effect Universe, ma il gioco, cambiando genere e trama, è stato cancellato dopo Bioware. Aggiornamento : Jason Schreier di Bloomberg conferma che il trailer è autentico, confermando al tempo stesso anche il nome del gioco, Mass Effect Universe . Il proget",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/il-patriota-come-finisce-il-film-con-mel-gibson-dietro-il-finale-ce-molto-piu-di-una-semplice-vendetta",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-10-24T07:30:47.000Z",
+      "titolo": "Il Patriota, come finisce il film con Mel Gibson? Dietro il finale c'è molto più di una semplice vendetta",
+      "sommario": "Come finisce Il Patriota con Mel Gibson? Scopri cosa accade a Benjamin Martin nell'ultima battaglia e il vero significato del finale del film.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/roma-2026-programma-24-ottobre-kim-kardashian_171647/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-10-24T07:34:43.000Z",
+      "titolo": "Roma 2026, il 24 ottobre è il giorno dei premi: Kim Kardashian, Serena Rossi e Vicky Krieps sul red carpet",
+      "sommario": "Kim Kardashian, Naomi Watts e Sarah Paulson attese sul red carpet per All's Fair, mentre Serena Rossi presenta La famiglia Panini - L'avventura delle figurine. Riflettori puntati sulla cerimonia di premiazione condotta da Ema Stokholma. Penultimo giorno per la Festa del Cinema di Roma, con cerimonia di premiazione dell",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/il-patriota-e-tratto-da-una-storia-vera-mel-gibson-racconta-la-guerra-in-perfetto-stile-hollywood",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-10-24T06:45:37.000Z",
+      "titolo": "Il Patriota è tratto da una storia vera? Mel Gibson racconta la guerra in perfetto stile Hollywood",
+      "sommario": "Il Patriota con Mel Gibson è ispirato a fatti realmente accaduti? Scopri la vera storia dietro il film e le differenze tra realtà e finzione hollywoodiana.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/american-sniper-e-tratto-da-una-storia-vera-dietro-il-film-con-bradley-cooper-si-cela-una-storia-incredibile",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-10-24T06:15:23.000Z",
+      "titolo": "American Sniper è tratto da una storia vera? Dietro il film con Bradley Cooper si cela una storia incredibile",
+      "sommario": "American Sniper racconta la storia vera di Chris Kyle, ma il film di Clint Eastwood cambia alcuni fatti importanti. Ecco cosa è successo davvero.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/serious-sam-the-third-encounter-realta-annunciato-teaser-capitolo-907543.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-10-22T22:27:00.000Z",
+      "titolo": "Serious Sam The Third Encounter è realtà: annunciato con un teaser il nuovo capitolo",
+      "sommario": "Devolver Digital e Croteam hanno annunciato ufficialmente l'inizio dei lavori su Serious Sam The Third Encounter. Se siete appassionati della storica serie Serious Sam, sappiate che è arrivato l'annuncio che stavate aspettando da tempo . Dopo il non riuscitissimo Shatterverse , Devolver Digital e Croteam tornano sulla ",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -810,6 +1061,17 @@
       "radar": null
     },
     {
+      "link": "https://www.everyeye.it/notizie/mass-effect-progetto-cancellato-bioware-puntava-superare-baldur-s-gate-3-907499.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-10-22T16:22:00.000Z",
+      "titolo": "Mass Effect: il progetto cancellato da BioWare puntava a superare Baldur's Gate 3",
+      "sommario": "Dopo la chiusura di BioWare emergono dettagli sul nuovo Mass Effect: puntava a libertà senza precedenti, ispirandosi ai GDR moderni. Con la recente chiusura di BioWare è sfumato anche il nuovo Mass Effect , eppure in queste ore cominciano a trapelare alcune informazioni su quello che il team aveva in mente per il pross",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
       "link": "https://www.everyeye.it/notizie/lego-daft-punk-collaborazione-annunciata-ufficialmente-trailer-907492.html",
       "fonte": "Everyeye",
       "lingua": "it",
@@ -819,122 +1081,6 @@
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/da-cervelli-in-fuga-a-spacciatori-in-questo-brillante-film-italiano-di-sydney-sibilia-con-edoardo-leo",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-23T09:32:27.000Z",
-      "titolo": "Da cervelli in fuga a spacciatori, in questo brillante film italiano di Sydney Sibilia con Edoardo Leo",
-      "sommario": "Sydney Sibilia ha raccontato il precariato universitario italiano attraverso una commedia brillante sul vuoto normativo delle droghe.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/anni-70-macchine-da-cucire-e-segreti-femminili-in-questo-film-su-netflix-di-ferzan-ozpetek",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-23T09:24:12.000Z",
-      "titolo": "Anni '70, macchine da cucire e segreti femminili, in questo film su Netflix di Ferzan Özpetek",
-      "sommario": "18 attrici italiane in una sartoria anni '70. Cast stellare con Ranieri, Trinca, Ricci. Streaming su Netflix.",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/je-so-pazzo-e-davvero-massimiliano-caiazzo-a-cantare-pino-daniele-lattore-svela-come-stanno-le-cose",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-23T07:15:02.000Z",
-      "titolo": "Je so' pazzo, è davvero Massimiliano Caiazzo a cantare Pino Daniele? L'attore svela come stanno le cose",
-      "sommario": "È davvero Massimiliano Caiazzo a cantare le canzoni di Pino Daniele in Je so' pazzo? L'attore chiarisce il retroscena sulla voce utilizzata nel film.",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/i-play-rocky-film-london-festival",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-10-21T08:47:40.000Z",
-      "titolo": "I Play Rocky, il nuovo film di Peter Farrelly su Sylvester Stallone debutta al London Film Festival",
-      "sommario": "Al BFI London Film Festival le sorprese migliori arrivano senza preavviso. Venerdì 18 ottobre 2026, la Royal Festival Hall ha ospitato la proiezione non an",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Sylvester Stallone"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/senza-rimorso-come-finisce-il-film-il-colpo-di-scena-finale-e-solo-linizio-di-una-storia-piu-grande",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-23T06:00:54.000Z",
-      "titolo": "Senza rimorso, come finisce il film? Il colpo di scena finale è solo l'inizio di una storia più grande",
-      "sommario": "Come finisce Senza rimorso con Michael B. Jordan? La spiegazione del finale, la verità dietro la cospirazione e il collegamento con Rainbow Six.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/3-giochi-microsoft-perfetti-film-906113.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-10-23T07:04:00.000Z",
-      "titolo": "3 giochi Microsoft che sarebbero perfetti per un film",
-      "sommario": "Una guerra sanguinosa, un fantasy da favola e gli inganni della mente: tre mondi Microsoft che aspettano solo di essere tradotti per il grande schermo. Recentemente si è tornato a parlare di Microsoft e cinema, un sodalizio che ha come obiettivo quello di consacrare le proprietà intellettuali del colosso anche in ambit",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/bioware-annuncia-chiusura-non-mass-effect-907298.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-10-21T17:25:00.000Z",
-      "titolo": "BioWare annuncia la chiusura: non ci sarà nessun nuovo Mass Effect",
-      "sommario": "Con un lungo messaggio sui social, i creatori di Dragon Age e Mass Effect hanno annunciato l'imminente chiusura dello studio. Quanto annunciato questa sera era ormai nell'aria da tempo, soprattutto dopo l'acquisizione di Electronic Arts : BioWare chiuderà i battenti e tutti i progetti in sviluppo non vedranno mai la lu",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/jesse-eisenberg-debut-london-film-festival",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-10-22T03:24:28.000Z",
-      "titolo": "Jesse Eisenberg chiude il London Film Festival con ‘The Debut’",
-      "sommario": "Jesse Eisenberg's directorial debut The Debut, starring Julianne Moore, closed the BFI London Film Festival on October 18, 2026 with seven original songs and critical acc",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/you-can-see-everything-documentario-esordio",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-10-21T09:05:22.000Z",
-      "titolo": "You Can See Everything, il documentario di Fielder e Oppenheim su Elizabeth Holmes debutta con 15 milioni di dollari",
-      "sommario": "You Can See Everything, il documentario di Nathan Fielder e Lance Oppenheim su Elizabeth Holmes, debutta con 15 milioni di dollari. Un evento cinematografico raro.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "You Can See Everything"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/chris-evans-anya-taylor-joy-rituale-tenerissimo-asini-sacrifice_171584/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-10-20T13:00:12.000Z",
-      "titolo": "Chris Evans, Anya Taylor-Joy e il rituale tenerissimo con gli asini sul set di Sacrifice",
-      "sommario": "Per raggiungere il set di Sacrifice, il cast ha dovuto affrontare lunghe camminate fino alla cima di un vulcano, affidando agli asini il trasporto delle attrezzature, diventando i compagni di viaggio di una piacevole abitudine quotidiana. Anche le produzioni più impegnative possono regalare momenti inaspettatamente ten",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Anya Taylor-Joy"
-      ],
-      "radar": "c'è Anya Taylor-Joy, che hai visto 2 volte"
     },
     {
       "link": "https://www.screenweek.it/possible-love-il-trailer-finale-del-film-netflix-con-jeon-do-yeon/",
@@ -970,126 +1116,12 @@
       "radar": null
     },
     {
-      "link": "https://www.everyeye.it/notizie/fortnite-arriva-skin-nikki-obsession-scoppia-polemica-fan-907542.html",
+      "link": "https://www.everyeye.it/notizie/the-matrix-awakens-dlss-5-confine-gioco-realt-non-cos-sottile-905485.html",
       "fonte": "Everyeye",
       "lingua": "it",
-      "data": "2026-10-22T22:08:00.000Z",
-      "titolo": "[SPOILER] Fortnite: arriva l'attesa skin di Nikki da Obsession, ma scoppia la polemica tra i fan",
-      "sommario": "Scopriamo per quale motivo sono in tanti a voler boicottare la skin di Nikki, la protagonista di Obsession, in Fortnite. Dopo averla attesa per settimane, i giocatori di Fortnite stanno invitando gli altri utenti a boicottare la skin di Nikki , la protagonista del film horror Obsession . Prosegui la lettura",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/mercoledi-3-jenna-ortega-anticipa-il-ruolo-di-winona-ryder-il-suo-personaggio-potrebbe-sorprendere",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-21T07:30:55.000Z",
-      "titolo": "Mercoledì 3, Jenna Ortega anticipa il ruolo di Winona Ryder: il suo personaggio potrebbe sorprendere",
-      "sommario": "Jenna Ortega anticipa nuovi dettagli su Tabitha, il misterioso personaggio di Winona Ryder in Mercoledì 3. Le sue parole sorprendono i fan.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Jenna Ortega"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/livatino-giudice-assassini-placido-papa",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-10-23T05:19:35.000Z",
-      "titolo": "Livatino – Il giudice e i suoi assassini, Michele Placido risponde alla chiamata del Papa",
-      "sommario": "Michele Placido presenta alla Festa del Cinema di Roma la fiction su Rosario Livatino, il giudice assassinato dalla mafia. Una storia di giustizia nata da una telefonata",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/ps2-lettore-cd-musicali-ricordavi-907474.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-10-22T13:58:00.000Z",
-      "titolo": "La PS2 faceva anche da lettore CD musicali: te lo ricordavi?",
-      "sommario": "PlayStation 2 offriva anche la funzione di lettore CD audio, rendendola un versatile centro multimediale oltre ai videogiochi e ai DVD. Quando pensiamo a PlayStation 2 , vengono subito in mente i suoi videogiochi e la possibilità di riprodurre film in DVD . La console Sony , però, nascondeva un'altra funzione che in mo",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/roma-2026-programma-22-ottobre-bille-august-erri-de-luca_171613/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-10-22T06:44:07.000Z",
-      "titolo": "A Roma 2026 è il giorno di Bille August e di 'Me, You', tratto da Erri De Luca: il programma del 22 ottobre",
-      "sommario": "Dalla prima mondiale di Me, You, tratto dal romanzo di Erri De Luca, al ritratto di Ingeborg Bachmann con Sandra Hüller: il programma del 22 ottobre tra opere prime, omaggi e cinema muto restaurato. La Festa del Cinema di Roma si avvicina alla conclusione e giovedì 22 ottobre propone una giornata tra prime mondiali, es",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/roma-2026-still-game-riccardo-denaro-corto-diabete-tipo-1_171618/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-10-22T06:22:08.000Z",
-      "titolo": "Roma 2026, arriva Still Game di Riccardo Denaro: il corto che racconta il diabete di tipo 1",
-      "sommario": "Alla Festa del Cinema di Roma, il cortometraggio prodotto da ELIVE Multimedia con Diabete Italia affronta la diagnosi attraverso la storia di una giovane pallavolista. Al centro, il rapporto con la malattia, lo sport e la possibilità di guardare al futuro senza pregiudizi. Raccontare il diabete di tipo 1 senza lasciare",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/sempre-amici-e-tratto-da-una-storia-vera-dietro-il-film-con-bryan-cranston-ce-una-storia-sorprendente",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-22T06:45:41.000Z",
-      "titolo": "Sempre amici è tratto da una storia vera? Dietro il film con Bryan Cranston c'è una storia sorprendente",
-      "sommario": "Sempre amici con Bryan Cranston è ispirato a una storia vera: chi erano Philippe Pozzo di Borgo e Abdel Sellou e cosa è successo realmente.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/sempre-amici-come-finisce-il-film-con-bryan-cranston-il-finale-dimostra-che-lamicizia-cambia-tutto",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-22T06:15:03.000Z",
-      "titolo": "Sempre amici, come finisce il film con Bryan Cranston? Il finale dimostra che l'amicizia cambia tutto",
-      "sommario": "Come finisce Sempre amici con Bryan Cranston e Kevin Hart? Il significato del finale, il destino di Philip e Dell e le differenze con Quasi amici.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/power-rangers-svelate-le-concept-art-del-reboot-cancellato-da-netflix-avrebbe-stravolto-il-tono-della-saga",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-10-20T18:45:46.000Z",
-      "titolo": "Power Rangers: svelate le concept art del reboot cancellato da Netflix (avrebbe stravolto il tono della saga)",
-      "sommario": "Nel 2024, Netflix ha cancellato il reboot dedicato ai Power Ranger e ora l'artista Samuel Garcia ha deciso di condividere sul suo Instagram i design delle armature del progetto mai partito.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/jesse-eisenberg-perche-iniziato-scrivere-colpa-batman-v-superman_171597/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-10-21T09:00:00.000Z",
-      "titolo": "Jesse Eisenberg svela perché ha iniziato a scrivere sceneggiature: \"Colpa di Batman v Superman\"",
-      "sommario": "L'attore ha raccontato quanto la partecipazione al cinecomic con Ben Affleck e Henry Cavill abbia pesato sulle sue occasioni a Hollywood, spingendolo in una direzione molto più creativa. Per Jesse Eisenberg interpretare Lex Luthor in Batman v Superman: Dawn of Justice ha avuto conseguenze che sono andate oltre le criti",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Henry Cavill"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/imperium-loznitsa-bfi-london-film-festival",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-10-21T08:28:40.000Z",
-      "titolo": "Sergei Loznitsa trionfa al BFI London Film Festival con Imperium",
-      "sommario": "Sergei Loznitsa conquista il premio per il miglior film al 70° BFI London Film Festival con Imperium, documentario di 175 minuti costruito su archivi sovietici degli anni",
+      "data": "2026-10-23T19:12:00.000Z",
+      "titolo": "The Matrix Awakens: con DLSS 5 il confine tra gioco e realtà non è mai stato così sottile",
+      "sommario": "The Matrix Awakens, che già era bello di suo, col DLSS 5 diventa uno spettacolo per gli occhi, tanto da sembrare un film. Ve lo ricordate The Matrix Awakens ? Si tratta della particolare tech demo in Unreal Engine 5 pubblicata su PlayStation 5 e nota in Italia come Matrix: Il Risveglio . Sebbene già di suo si trattasse",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null

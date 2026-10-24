@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-23T09:42:48.521Z",
+  "preparato": "2026-10-24T09:14:59.039Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,6 +78,39 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1255833",
+      "tmdbId": 1255833,
+      "imdbId": "tt28535715",
+      "origine": "trailer",
+      "titolo": "Whalefall - Nella balena",
+      "titoloOriginale": "Whalefall",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Brian Duffield",
+      "generi": [
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": "Trattieni il respiro",
+      "cast": [
+        "Austin Abrams (Jay Gardiner)",
+        "Josh Brolin (Mitt Gardiner)",
+        "Elisabeth Shue (Zara Gardiner)",
+        "John Ortiz (Hewey)",
+        "Jane Levy (Eva Gardiner)",
+        "Emily Rudd (Nan Gardiner)"
+      ],
+      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+      "motivi": [
+        "c'è Josh Brolin, che hai visto 2 volte",
+        "thriller, il tuo terreno"
+      ],
+      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
     {
       "id": "tmdb-1591675",
       "tmdbId": 1591675,
@@ -145,104 +178,6 @@
       "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
-      "id": "tmdb-1255833",
-      "tmdbId": 1255833,
-      "imdbId": "tt28535715",
-      "origine": "trailer",
-      "titolo": "Whalefall - Nella balena",
-      "titoloOriginale": "Whalefall",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Brian Duffield",
-      "generi": [
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 106,
-      "tagline": "Trattieni il respiro",
-      "cast": [
-        "Austin Abrams (Jay Gardiner)",
-        "Josh Brolin (Mitt Gardiner)",
-        "Elisabeth Shue (Zara Gardiner)",
-        "John Ortiz (Hewey)",
-        "Jane Levy (Eva Gardiner)",
-        "Emily Rudd (Nan Gardiner)"
-      ],
-      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
-      "motivi": [
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "thriller, il tuo terreno"
-      ],
-      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
-    },
-    {
-      "id": "tmdb-791523",
-      "tmdbId": 791523,
-      "imdbId": "tt2056785",
-      "origine": "trailer",
-      "titolo": "Wildwood - I segreti del bosco proibito",
-      "titoloOriginale": "Wildwood",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Travis Knight",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 140,
-      "tagline": null,
-      "cast": [
-        "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Carey Mulligan (Alexandra (voice))",
-        "Mahershala Ali (Brenden (voice))",
-        "Angela Bassett (The General (voice))",
-        "Awkwafina (Septima (voice))"
-      ],
-      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-      "motivi": [],
-      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
-    },
-    {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
-      "generi": [
-        "Commedia",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": null,
-      "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Tom Waits"
-      ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
       "id": "tmdb-1117898",
       "tmdbId": 1117898,
       "imdbId": "tt2321555",
@@ -278,70 +213,68 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
-      "id": "tmdb-1477712",
-      "tmdbId": 1477712,
-      "imdbId": "tt36893729",
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
       "origine": "trailer",
-      "titolo": "Ice Cream Man",
-      "titoloOriginale": "Ice Cream Man",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
       "anno": "2026",
-      "uscitaItalia": "2026-10-29",
-      "regia": "Eli Roth",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
       "generi": [
-        "Horror",
-        "Commedia",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito",
-        "Francia"
-      ],
-      "durata": 86,
-      "tagline": null,
-      "cast": [
-        "Ari Millen (The Ice Cream Man / Jonathan Smiley)",
-        "Charlie Zeltzer (Jared)",
-        "Shiloh O’Reilly (Tommy)",
-        "Kiori Mirza Waldman (Mia)",
-        "Sarah Abbott (Lizzie)",
-        "Benjamin Byron Davis (The Priest)"
-      ],
-      "tramaTmdb": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
-      "motivi": [],
-      "impronta": "Ice Cream Man|156|Eli Roth"
-    },
-    {
-      "id": "tmdb-1153576",
-      "tmdbId": 1153576,
-      "imdbId": "tt27419420",
-      "origine": "trailer",
-      "titolo": "Street Fighter",
-      "titoloOriginale": "Street Fighter",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Kitao Sakurai",
-      "generi": [
-        "Azione",
+        "Animazione",
+        "Avventura",
         "Fantasy"
       ],
       "paesi": [
-        "Giappone",
         "USA"
       ],
-      "durata": 120,
+      "durata": 130,
       "tagline": null,
       "cast": [
-        "Andrew Koji (Ryu)",
-        "Noah Centineo (Ken Masters)",
-        "Callina Liang (Chun-Li)",
-        "David Dastmalchian (M. Bison)",
-        "Andrew Schulz (Dan Hibiki)",
-        "Joe Anoa'i (Akuma)"
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
       ],
-      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
       "motivi": [],
-      "impronta": "Street Fighter|600|Kitao Sakurai"
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
+      "id": "tmdb-1437511",
+      "tmdbId": 1437511,
+      "imdbId": "tt35866986",
+      "origine": "trailer",
+      "titolo": "Come rapinare una banca",
+      "titoloOriginale": "How to Rob a Bank",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "David Leitch",
+      "generi": [
+        "Azione",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 90,
+      "tagline": "Chi rapina chi?",
+      "cast": [
+        "Nicholas Hoult (Ryan)",
+        "Zoë Kravitz (Reagan Gardner)",
+        "Anna Sawai",
+        "Rhenzy Feliz",
+        "Pete Davidson (Vince)",
+        "John C. Reilly (Agent West)"
+      ],
+      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+      "motivi": [],
+      "impronta": "Come rapinare una banca|451|David Leitch"
     },
     {
       "id": "tmdb-1567605",
@@ -376,106 +309,138 @@
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
     },
     {
-      "id": "tmdb-185",
-      "tmdbId": 185,
-      "imdbId": "tt0066921",
-      "origine": "scoperta",
-      "titolo": "Arancia meccanica",
-      "titoloOriginale": "A Clockwork Orange",
-      "anno": "1972",
-      "uscitaItalia": "1972-09-07",
-      "regia": "Stanley Kubrick",
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
+      "origine": "trailer",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
       "generi": [
-        "Fantascienza",
-        "Crime"
+        "Commedia",
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 137,
-      "tagline": "Le avventure di un giovane i cui principali interessi sono lo stupro, l'ultra-violenza e Beethoven.",
+      "durata": 117,
+      "tagline": null,
       "cast": [
-        "Malcolm McDowell (Alex)",
-        "Patrick Magee (Mr. Alexander)",
-        "Carl Duering (Dr. Brodsky)",
-        "Michael Bates (Chief Guard)",
-        "Warren Clarke (Dim)",
-        "James Marcus (Georgie)"
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Tom Waits"
       ],
-      "tramaTmdb": "Alex è un giovane senza arte né parte, figlio di proletari e dedito a furti, stupri e omicidi. Fa capo a una banda di spostati, denominati drughi. Dopo aver usato violenza alla moglie di uno scrittore finisce in carcere. Viene sottoposto ad angherie ma si fa amico un prete. Pur di essere scarcerato accetta il \"trattamento lodovico\", che consiste nell'assistere a filmati di violenza. Quando esce scopre che i genitori hanno subaffittato la sua stanza. Senza poter reagire, dovrà subire violenza da alcuni mendicanti vendicativi, dai drughi diventati poliziotti e dallo scrittore che ha perso la mog",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Arancia meccanica|600|Stanley Kubrick"
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+      "motivi": [],
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
     },
     {
-      "id": "tmdb-503314",
-      "tmdbId": 503314,
-      "imdbId": "tt7961060",
-      "origine": "scoperta",
-      "titolo": "Dragon Ball Super - Broly",
-      "titoloOriginale": "ドラゴンボール超 ブロリー",
-      "anno": "2019",
-      "uscitaItalia": "2019-02-28",
-      "regia": "長峯達也",
+      "id": "tmdb-1153576",
+      "tmdbId": 1153576,
+      "imdbId": "tt27419420",
+      "origine": "trailer",
+      "titolo": "Street Fighter",
+      "titoloOriginale": "Street Fighter",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "regia": "Kitao Sakurai",
       "generi": [
         "Azione",
-        "Fantascienza",
-        "Animazione"
+        "Fantasy"
       ],
       "paesi": [
-        "Giappone"
+        "Giappone",
+        "USA"
       ],
-      "durata": 100,
+      "durata": 120,
       "tagline": null,
       "cast": [
-        "Masako Nozawa (Son Goku / Son Goten / Bardock (voice))",
-        "Aya Hisakawa (Bulma (voice))",
-        "Ryou Horikawa (Vegeta (voice))",
-        "Toshio Furukawa (Piccolo (voice))",
-        "Takeshi Kusao (Trunks (voice))",
-        "Ryūsei Nakao (Frieza (voice))"
+        "Andrew Koji (Ryu)",
+        "Noah Centineo (Ken Masters)",
+        "Callina Liang (Chun-Li)",
+        "David Dastmalchian (M. Bison)",
+        "Andrew Schulz (Dan Hibiki)",
+        "Joe Anoa'i (Akuma)"
       ],
-      "tramaTmdb": "Il pianeta Terra è finalmente in pace dopo il Torneo del Potere. Rendendosi conto che gli universi hanno ancora da offrire avversari molto forti, Goku passa tutto il suo tempo ad allenarsi per potersi superare ancora una volta.  Improvvisamente, Goku e Vegeta vengono affrontati dal leggendario Saiyan chiamato \"Broly\".  Questo incontro tra i tre Saiyan dai destini completamente diversi si trasforma in una stupenda battaglia, con anche Freezer che si lascia coinvolgere nel mix.",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "impronta": "Dragon Ball Super - Broly|480|長峯達也"
+      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
+      "motivi": [],
+      "impronta": "Street Fighter|600|Kitao Sakurai"
     },
     {
-      "id": "tmdb-517814",
-      "tmdbId": 517814,
-      "imdbId": "tt8267604",
+      "id": "tmdb-1058424",
+      "tmdbId": 1058424,
+      "imdbId": "tt27369017",
       "origine": "scoperta",
-      "titolo": "Cafarnao - Caos e miracoli",
-      "titoloOriginale": "کفرناحوم",
-      "anno": "2019",
-      "uscitaItalia": "2019-04-11",
-      "regia": "Nadine Labaki",
+      "titolo": "Hope",
+      "titoloOriginale": "호프",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "나홍진",
       "generi": [
-        "Dramma"
+        "Fantascienza",
+        "Mistero",
+        "Azione"
       ],
       "paesi": [
-        "Francia",
-        "Lebanon",
-        "Regno Unito"
+        "Corea del Sud"
       ],
-      "durata": 126,
+      "durata": 157,
       "tagline": null,
       "cast": [
-        "Zain Al Rafeea (Zain)",
-        "Yordanos Shifera (Rahil)",
-        "Boluwatife Treasure Bankole (Yonas)",
-        "Kawsar Al Haddad (Souad)",
-        "Fadi Kamel Yousef (Selim)",
-        "Cedra Izzam (Sahar)"
+        "황정민 (Go Bum-seok)",
+        "조인성 (Go Sung-ki)",
+        "정호연 (Lim Sung-ae)",
+        "Alicia Vikander (J'aur)",
+        "Michael Fassbender (Ma'veyyo)",
+        "Taylor Russell (Ai'dovor)"
       ],
-      "tramaTmdb": "Zain, un ragazzo di 12 anni che lotta per sopravvivere nelle strade di Beirut, fa causa ai suoi genitori per averlo portato in un mondo così ingiusto, dove essere un rifugiato senza documenti significa che i tuoi diritti possono essere facilmente negati.",
+      "tramaTmdb": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
       "motivi": [
-        "un classico che ti manca"
+        "se ne parla adesso"
       ],
-      "impronta": "Cafarnao - Caos e miracoli|254|Nadine Labaki"
+      "impronta": "Hope|493|나홍진"
+    },
+    {
+      "id": "tmdb-1377237",
+      "tmdbId": 1377237,
+      "imdbId": "tt31349844",
+      "origine": "scoperta",
+      "titolo": "The Rush - Corsa contro il tempo",
+      "titoloOriginale": "Runner",
+      "anno": "2026",
+      "uscitaItalia": "2026-09-07",
+      "regia": "Scott Waugh",
+      "generi": [
+        "Azione",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA",
+        "Australia",
+        "Regno Unito"
+      ],
+      "durata": 97,
+      "tagline": null,
+      "cast": [
+        "Alan Ritchson (Hank Malone)",
+        "Owen Wilson (Ben Bishop)",
+        "Rodrigo Santoro (Damian Zaldivar)",
+        "Leila George (Kate Baker)",
+        "Kate Box (Dr. Ainsley)",
+        "Peta Sergeant (Nurse Julie)"
+      ],
+      "tramaTmdb": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi.",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "The Rush - Corsa contro il tempo|283|Scott Waugh"
     }
   ]
 }
