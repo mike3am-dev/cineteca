@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-24T09:14:59.039Z",
+  "preparato": "2026-10-25T09:32:09.575Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -78,6 +78,40 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1003596",
+      "tmdbId": 1003596,
+      "imdbId": "tt21357150",
+      "origine": "trailer",
+      "titolo": "Avengers: Doomsday",
+      "titoloOriginale": "Avengers: Doomsday",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-16",
+      "regia": "Joe Russo",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 165,
+      "tagline": null,
+      "cast": [
+        "Robert Downey Jr. (Victor von Doom  / Doctor Doom)",
+        "Chris Evans (Steve Rogers)",
+        "Chris Hemsworth (Thor)",
+        "Pedro Pascal (Reed Richards / Mister Fantastic)",
+        "Paul Rudd (Scott Lang / Ant-Man)",
+        "Anthony Mackie (Sam Wilson / Captain America)"
+      ],
+      "tramaTmdb": "Gli universi si scontrano e la Saga del Multiverso inizia il suo capitolo finale. Gli amati eroi di tre universi distinti si troveranno su una rotta di collisione mortale e dovranno affrontare una minaccia esistenziale diversa da qualsiasi altra abbiano mai incontrato.",
+      "motivi": [
+        "fantascienza e avventura: il tuo terreno"
+      ],
+      "impronta": "Avengers: Doomsday|269|Joe Russo"
+    },
     {
       "id": "tmdb-1255833",
       "tmdbId": 1255833,
@@ -230,12 +264,12 @@
       "paesi": [
         "USA"
       ],
-      "durata": 130,
+      "durata": 132,
       "tagline": null,
       "cast": [
+        "Carey Mulligan (Alexandra (voice))",
         "Peyton Elizabeth Lee (Prue McKeel (voice))",
         "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Carey Mulligan (Alexandra (voice))",
         "Mahershala Ali (Brenden (voice))",
         "Angela Bassett (The General (voice))",
         "Awkwafina (Septima (voice))"
@@ -372,75 +406,6 @@
       "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
       "motivi": [],
       "impronta": "Street Fighter|600|Kitao Sakurai"
-    },
-    {
-      "id": "tmdb-1058424",
-      "tmdbId": 1058424,
-      "imdbId": "tt27369017",
-      "origine": "scoperta",
-      "titolo": "Hope",
-      "titoloOriginale": "호프",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "나홍진",
-      "generi": [
-        "Fantascienza",
-        "Mistero",
-        "Azione"
-      ],
-      "paesi": [
-        "Corea del Sud"
-      ],
-      "durata": 157,
-      "tagline": null,
-      "cast": [
-        "황정민 (Go Bum-seok)",
-        "조인성 (Go Sung-ki)",
-        "정호연 (Lim Sung-ae)",
-        "Alicia Vikander (J'aur)",
-        "Michael Fassbender (Ma'veyyo)",
-        "Taylor Russell (Ai'dovor)"
-      ],
-      "tramaTmdb": "I rinforzi sono stati richiamati per fronteggiare i devastanti incendi boschivi e ogni comunicazione con l’esterno è stata interrotta. Nel piccolo posto di polizia di Hope, il comandante Bum-seok e l’agente Sung-ae lottano per proteggere un villaggio popolato quasi esclusivamente da anziani. Nel frattempo, tra le montagne, Sung-ki e gli abitanti del luogo partono sulle tracce della misteriosa creatura, ma la battuta di caccia si trasforma presto in un incubo e diventano loro stessi prede.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Hope|493|나홍진"
-    },
-    {
-      "id": "tmdb-1377237",
-      "tmdbId": 1377237,
-      "imdbId": "tt31349844",
-      "origine": "scoperta",
-      "titolo": "The Rush - Corsa contro il tempo",
-      "titoloOriginale": "Runner",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-07",
-      "regia": "Scott Waugh",
-      "generi": [
-        "Azione",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA",
-        "Australia",
-        "Regno Unito"
-      ],
-      "durata": 97,
-      "tagline": null,
-      "cast": [
-        "Alan Ritchson (Hank Malone)",
-        "Owen Wilson (Ben Bishop)",
-        "Rodrigo Santoro (Damian Zaldivar)",
-        "Leila George (Kate Baker)",
-        "Kate Box (Dr. Ainsley)",
-        "Peta Sergeant (Nurse Julie)"
-      ],
-      "tramaTmdb": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "The Rush - Corsa contro il tempo|283|Scott Waugh"
     }
   ]
 }
