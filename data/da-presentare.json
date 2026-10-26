@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-25T09:32:09.575Z",
+  "preparato": "2026-10-26T10:41:52.382Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -178,6 +178,38 @@
       "impronta": "Look Back|334|Hirokazu Kore-eda"
     },
     {
+      "id": "tmdb-1780005",
+      "tmdbId": 1780005,
+      "imdbId": "tt37961714",
+      "origine": "trailer",
+      "titolo": "Contra el huracán",
+      "titoloOriginale": "Contra el huracán",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-23",
+      "regia": "Jorge Michel Grau",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Messico"
+      ],
+      "durata": 97,
+      "tagline": null,
+      "cast": [
+        "Benny Emmanuel (Wirpul)",
+        "Kristyan Ferrer (Candi)",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers (Nico)",
+        "Gonzalo Vega Jr. (Napo)"
+      ],
+      "tramaTmdb": "Due fratellastri lottano per sopravvivere all'uragano Otis ad Acapulco, dove il loro legame e il loro coraggio trasformano le avversità in speranza. Ispirato a una storia vera.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Contra el huracán|176|Jorge Michel Grau"
+    },
+    {
       "id": "tmdb-1503762",
       "tmdbId": 1503762,
       "imdbId": "tt13609648",
@@ -210,6 +242,38 @@
         "dramma, il tuo terreno"
       ],
       "impronta": "Ragione e sentimento|600|Georgia Oakley"
+    },
+    {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "origine": "trailer",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": null,
+      "cast": [
+        "Carey Mulligan (Alexandra (voice))",
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "motivi": [],
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
     },
     {
       "id": "tmdb-1117898",
@@ -245,38 +309,6 @@
       "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
       "motivi": [],
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
-      "id": "tmdb-791523",
-      "tmdbId": 791523,
-      "imdbId": "tt2056785",
-      "origine": "trailer",
-      "titolo": "Wildwood - I segreti del bosco proibito",
-      "titoloOriginale": "Wildwood",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Travis Knight",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 132,
-      "tagline": null,
-      "cast": [
-        "Carey Mulligan (Alexandra (voice))",
-        "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Mahershala Ali (Brenden (voice))",
-        "Angela Bassett (The General (voice))",
-        "Awkwafina (Septima (voice))"
-      ],
-      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-      "motivi": [],
-      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
     },
     {
       "id": "tmdb-1437511",
@@ -369,43 +401,48 @@
         "Steve Buscemi (MJ)",
         "Mariana di Girolamo (Monica)",
         "Ailín Salas (Alicia)",
-        "Tom Waits"
+        "Tom Waits (Jim)"
       ],
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
     },
     {
-      "id": "tmdb-1153576",
-      "tmdbId": 1153576,
-      "imdbId": "tt27419420",
-      "origine": "trailer",
-      "titolo": "Street Fighter",
-      "titoloOriginale": "Street Fighter",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Kitao Sakurai",
+      "id": "tmdb-446893",
+      "tmdbId": 446893,
+      "imdbId": "tt6587640",
+      "origine": "scoperta",
+      "titolo": "Trolls World Tour",
+      "titoloOriginale": "Trolls World Tour",
+      "anno": "2020",
+      "uscitaItalia": "2020-03-11",
+      "regia": "Walt Dohrn",
       "generi": [
-        "Azione",
-        "Fantasy"
+        "Famiglia",
+        "Animazione",
+        "Commedia",
+        "Fantasy",
+        "Avventura",
+        "Musica"
       ],
       "paesi": [
-        "Giappone",
         "USA"
       ],
-      "durata": 120,
-      "tagline": null,
+      "durata": 91,
+      "tagline": "Il film più felice e colorato di sempre",
       "cast": [
-        "Andrew Koji (Ryu)",
-        "Noah Centineo (Ken Masters)",
-        "Callina Liang (Chun-Li)",
-        "David Dastmalchian (M. Bison)",
-        "Andrew Schulz (Dan Hibiki)",
-        "Joe Anoa'i (Akuma)"
+        "Anna Kendrick (Poppy (voice))",
+        "Justin Timberlake (Branch (voice))",
+        "Ron Funches (Cooper (voice))",
+        "Rachel Bloom (Barb (voice))",
+        "James Corden (Biggie (voice))",
+        "Kelly Clarkson (Delta Dawn (voice))"
       ],
-      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guard",
-      "motivi": [],
-      "impronta": "Street Fighter|600|Kitao Sakurai"
+      "tramaTmdb": "In un'avventura che li porterà ben oltre ciò che hanno da sempre conosciuto, Poppy e Branch scoprono che esistono ben sei diverse tribù di troll sparse in sei diverse terre, dedicate ognuna a un genere musicale diverso: funk, country, techno, classica, pop e rock. Barb, regina del regno del Rock, ha però in mente di distruggere tutti gli altri generi. Per tale ragione, i due con l'aiuto di vecchi e nuovi amici tenteranno di portare l'armonia in tutte le terre e trovare una soluzione per evitare che Barb distrugga tutti.",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Trolls World Tour|525|Walt Dohrn"
     }
   ]
 }
