@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-26T10:41:52.382Z",
+  "preparato": "2026-10-27T10:10:09.980Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -178,38 +178,6 @@
       "impronta": "Look Back|334|Hirokazu Kore-eda"
     },
     {
-      "id": "tmdb-1780005",
-      "tmdbId": 1780005,
-      "imdbId": "tt37961714",
-      "origine": "trailer",
-      "titolo": "Contra el huracán",
-      "titoloOriginale": "Contra el huracán",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-23",
-      "regia": "Jorge Michel Grau",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Messico"
-      ],
-      "durata": 97,
-      "tagline": null,
-      "cast": [
-        "Benny Emmanuel (Wirpul)",
-        "Kristyan Ferrer (Candi)",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers (Nico)",
-        "Gonzalo Vega Jr. (Napo)"
-      ],
-      "tramaTmdb": "Due fratellastri lottano per sopravvivere all'uragano Otis ad Acapulco, dove il loro legame e il loro coraggio trasformano le avversità in speranza. Ispirato a una storia vera.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Contra el huracán|176|Jorge Michel Grau"
-    },
-    {
       "id": "tmdb-1503762",
       "tmdbId": 1503762,
       "imdbId": "tt13609648",
@@ -232,10 +200,10 @@
       "cast": [
         "Daisy Edgar-Jones (Elinor Dashwood)",
         "Esmé Creed-Miles (Marianne Dashwood)",
-        "Bodhi Rae Breathnach (Margaret Dashwood)",
         "Caitríona Balfe (Mrs. Dashwood)",
-        "Fiona Shaw (Mrs. Jennings)",
-        "George MacKay (Edward Ferrars)"
+        "Bodhi Rae Breathnach (Margaret Dashwood)",
+        "Frank Dillane (John Willoughby)",
+        "Herbert Nordrum (Colonel Brandon)"
       ],
       "tramaTmdb": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla pa",
       "motivi": [
@@ -244,36 +212,37 @@
       "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
-      "id": "tmdb-791523",
-      "tmdbId": 791523,
-      "imdbId": "tt2056785",
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
       "origine": "trailer",
-      "titolo": "Wildwood - I segreti del bosco proibito",
-      "titoloOriginale": "Wildwood",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
       "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Travis Knight",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
       "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy"
+        "Commedia",
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
+        "Regno Unito",
         "USA"
       ],
-      "durata": 132,
+      "durata": 117,
       "tagline": null,
       "cast": [
-        "Carey Mulligan (Alexandra (voice))",
-        "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Mahershala Ali (Brenden (voice))",
-        "Angela Bassett (The General (voice))",
-        "Awkwafina (Septima (voice))"
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Tom Waits (Jim)"
       ],
-      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
-      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
     },
     {
       "id": "tmdb-1117898",
@@ -303,7 +272,7 @@
         "Xochitl Gomez (Gabby (voice))",
         "Tiago Martinez (Sebastian (voice))",
         "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherri (voice))",
+        "Quinta Brunson (Sherrie (voice))",
         "Bowen Yang (Gary (voice))"
       ],
       "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
@@ -343,6 +312,65 @@
       "impronta": "Come rapinare una banca|451|David Leitch"
     },
     {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "origine": "trailer",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": null,
+      "cast": [
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "motivi": [],
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
+      "id": "tmdb-1309373",
+      "tmdbId": 1309373,
+      "imdbId": "tt32368068",
+      "origine": "trailer",
+      "titolo": "Il canto della foresta",
+      "titoloOriginale": "Le Chant des forêts",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Vincent Munier",
+      "generi": [
+        "Documentario"
+      ],
+      "paesi": [
+        "Francia"
+      ],
+      "durata": 99,
+      "tagline": null,
+      "cast": [
+        "Michel Munier (Self)",
+        "Simon Munier (Self)",
+        "Vincent Munier (Self)"
+      ],
+      "tramaTmdb": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazion",
+      "motivi": [],
+      "impronta": "Il canto della foresta|600|Vincent Munier"
+    },
+    {
       "id": "tmdb-1567605",
       "tmdbId": 1567605,
       "imdbId": "tt38773219",
@@ -373,76 +401,6 @@
       "tramaTmdb": null,
       "motivi": [],
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
-    },
-    {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
-      "generi": [
-        "Commedia",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": null,
-      "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Tom Waits (Jim)"
-      ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
-      "id": "tmdb-446893",
-      "tmdbId": 446893,
-      "imdbId": "tt6587640",
-      "origine": "scoperta",
-      "titolo": "Trolls World Tour",
-      "titoloOriginale": "Trolls World Tour",
-      "anno": "2020",
-      "uscitaItalia": "2020-03-11",
-      "regia": "Walt Dohrn",
-      "generi": [
-        "Famiglia",
-        "Animazione",
-        "Commedia",
-        "Fantasy",
-        "Avventura",
-        "Musica"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Il film più felice e colorato di sempre",
-      "cast": [
-        "Anna Kendrick (Poppy (voice))",
-        "Justin Timberlake (Branch (voice))",
-        "Ron Funches (Cooper (voice))",
-        "Rachel Bloom (Barb (voice))",
-        "James Corden (Biggie (voice))",
-        "Kelly Clarkson (Delta Dawn (voice))"
-      ],
-      "tramaTmdb": "In un'avventura che li porterà ben oltre ciò che hanno da sempre conosciuto, Poppy e Branch scoprono che esistono ben sei diverse tribù di troll sparse in sei diverse terre, dedicate ognuna a un genere musicale diverso: funk, country, techno, classica, pop e rock. Barb, regina del regno del Rock, ha però in mente di distruggere tutti gli altri generi. Per tale ragione, i due con l'aiuto di vecchi e nuovi amici tenteranno di portare l'armonia in tutte le terre e trovare una soluzione per evitare che Barb distrugga tutti.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Trolls World Tour|525|Walt Dohrn"
     }
   ]
 }

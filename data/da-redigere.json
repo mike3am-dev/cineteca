@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-26T10:41:51.691Z",
+  "preparato": "2026-10-27T10:10:07.710Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,36 +79,40 @@
   },
   "film": [
     {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
+      "id": "tmdb-1226863",
+      "tmdbId": 1226863,
+      "imdbId": "tt28650488",
+      "titolo": "Super Mario Galaxy - Il film",
       "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-05-15",
+      "anno": "2026",
+      "uscitaItalia": "2026-04-01",
       "lista": "casa",
-      "regia": "Adam Stein",
+      "regia": "Aaron Horvath",
       "generi": [
-        "Horror",
-        "Mistero"
+        "Famiglia",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Animazione"
       ],
       "paesi": [
+        "Giappone",
         "USA"
       ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
+      "durata": 105,
+      "tagline": "La galassia ti attende.",
       "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
+        "Chris Pratt (Mario (voice))",
+        "Charlie Day (Luigi (voice))",
+        "Anya Taylor-Joy (Princess Peach (voice))",
+        "Jack Black (Bowser (voice))",
+        "Keegan-Michael Key (Toad (voice))",
+        "Benny Safdie (Bowser Junior (voice))",
+        "Donald Glover (Yoshi (voice))",
+        "Glen Powell (Fox McCloud (voice))"
       ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
+      "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
+      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
     }
   ]
 }
