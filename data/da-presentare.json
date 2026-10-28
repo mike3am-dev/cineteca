@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-27T10:10:09.980Z",
+  "preparato": "2026-10-28T10:56:27.841Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,6 +79,42 @@
   },
   "film": [
     {
+      "id": "tmdb-1157869",
+      "tmdbId": 1157869,
+      "imdbId": "tt36646880",
+      "origine": "trailer",
+      "titolo": "Storie parallele",
+      "titoloOriginale": "Histoires parallèles",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "اصغر فرهادی",
+      "generi": [
+        "Dramma",
+        "Mistero",
+        "Thriller"
+      ],
+      "paesi": [
+        "Francia",
+        "Belgio",
+        "Italia"
+      ],
+      "durata": 139,
+      "tagline": null,
+      "cast": [
+        "Isabelle Huppert (Sylvie)",
+        "Virginie Efira (Anna / Nita)",
+        "Vincent Cassel (Pierre / Nicolas)",
+        "Pierre Niney (Christophe / Théo)",
+        "Adam Bessa (Adam)",
+        "Catherine Deneuve (Céline)"
+      ],
+      "tramaTmdb": "Sylvie, una scrittrice in cerca d’ispirazione per il suo nuovo romanzo, inizia a osservare di nascosto i vicini, immaginando le loro vite. Quando assume il giovane Adam per aiutarla nella quotidianità, la sua presenza sconvolge ogni equilibrio, fino a rendere sempre più sottile il confine tra realtà e finzione.",
+      "motivi": [
+        "dramma e thriller: il tuo terreno"
+      ],
+      "impronta": "Storie parallele|312|اصغر فرهادی"
+    },
+    {
       "id": "tmdb-1003596",
       "tmdbId": 1003596,
       "imdbId": "tt21357150",
@@ -146,6 +182,41 @@
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
     {
+      "id": "tmdb-1437696",
+      "tmdbId": 1437696,
+      "imdbId": "tt37304295",
+      "origine": "trailer",
+      "titolo": "Fatherland",
+      "titoloOriginale": "Ojczyzna",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-16",
+      "regia": "Paweł Pawlikowski",
+      "generi": [
+        "Dramma",
+        "Storia"
+      ],
+      "paesi": [
+        "Polonia",
+        "Germania",
+        "Francia"
+      ],
+      "durata": 82,
+      "tagline": null,
+      "cast": [
+        "Sandra Hüller (Erika Mann)",
+        "Hanns Zischler (Thomas Mann)",
+        "August Diehl (Klaus Mann)",
+        "Anna Madeley (Betty Knox)",
+        "Devid Striesow (Johannes R. Becher)",
+        "David Menkin (Arthur Quint)"
+      ],
+      "tramaTmdb": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Fatherland|474|Paweł Pawlikowski"
+    },
+    {
       "id": "tmdb-1591675",
       "tmdbId": 1591675,
       "imdbId": "tt39094466",
@@ -176,6 +247,38 @@
         "dramma, il tuo terreno"
       ],
       "impronta": "Look Back|334|Hirokazu Kore-eda"
+    },
+    {
+      "id": "tmdb-1780005",
+      "tmdbId": 1780005,
+      "imdbId": "tt37961714",
+      "origine": "trailer",
+      "titolo": "Contra el huracán",
+      "titoloOriginale": "Contra el huracán",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-23",
+      "regia": "Jorge Michel Grau",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Messico"
+      ],
+      "durata": 97,
+      "tagline": null,
+      "cast": [
+        "Benny Emmanuel (Wirpul)",
+        "Kristyan Ferrer (Candi)",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers (Nico)",
+        "Gonzalo Vega Jr. (Napo)"
+      ],
+      "tramaTmdb": "Due fratellastri lottano per sopravvivere all'uragano Otis ad Acapulco, dove il loro legame e il loro coraggio trasformano le avversità in speranza. Ispirato a una storia vera.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Contra el huracán|176|Jorge Michel Grau"
     },
     {
       "id": "tmdb-1503762",
@@ -212,37 +315,37 @@
       "impronta": "Ragione e sentimento|600|Georgia Oakley"
     },
     {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
+      "id": "tmdb-1596275",
+      "tmdbId": 1596275,
+      "imdbId": "tt37180686",
       "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
+      "titolo": "Drive - Cuori in pista",
+      "titoloOriginale": "Drive - The Pretenders",
       "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
+      "uscitaItalia": "2026-10-27",
+      "regia": "Sergej Moya",
       "generi": [
-        "Commedia",
-        "Crime",
+        "Romance",
         "Thriller"
       ],
       "paesi": [
-        "Regno Unito",
-        "USA"
+        "Germania"
       ],
-      "durata": 117,
+      "durata": 102,
       "tagline": null,
       "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Tom Waits (Jim)"
+        "Lisa-Marie Koroll (Sarah Jenkins)",
+        "Amin Baahmed (Dante Annunziata)",
+        "Gustav Schmidt (Ruben)",
+        "Mišel Matičević (Bronson)",
+        "Lucie Heinze (Tanya)",
+        "Frederic Linkemann (Jack)"
       ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+      "tramaTmdb": "Savvy Jenkins, una meccanica determinata a farsi strada nel mondo delle corse, entra nel team di Dante Annunziata, un campione del mondo arrogante che la vede solo come una distrazione.",
+      "motivi": [
+        "thriller, il tuo terreno"
+      ],
+      "impronta": "Drive - Cuori in pista|185|Sergej Moya"
     },
     {
       "id": "tmdb-1117898",
@@ -280,127 +383,37 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
-      "id": "tmdb-1437511",
-      "tmdbId": 1437511,
-      "imdbId": "tt35866986",
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
       "origine": "trailer",
-      "titolo": "Come rapinare una banca",
-      "titoloOriginale": "How to Rob a Bank",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
       "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "David Leitch",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
       "generi": [
-        "Azione",
+        "Commedia",
         "Crime",
         "Thriller"
       ],
       "paesi": [
+        "Regno Unito",
         "USA"
       ],
-      "durata": 90,
-      "tagline": "Chi rapina chi?",
-      "cast": [
-        "Nicholas Hoult (Ryan)",
-        "Zoë Kravitz (Reagan Gardner)",
-        "Anna Sawai",
-        "Rhenzy Feliz",
-        "Pete Davidson (Vince)",
-        "John C. Reilly (Agent West)"
-      ],
-      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
-      "motivi": [],
-      "impronta": "Come rapinare una banca|451|David Leitch"
-    },
-    {
-      "id": "tmdb-791523",
-      "tmdbId": 791523,
-      "imdbId": "tt2056785",
-      "origine": "trailer",
-      "titolo": "Wildwood - I segreti del bosco proibito",
-      "titoloOriginale": "Wildwood",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Travis Knight",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 132,
+      "durata": 117,
       "tagline": null,
       "cast": [
-        "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Carey Mulligan (Alexandra (voice))",
-        "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Mahershala Ali (Brenden (voice))",
-        "Angela Bassett (The General (voice))",
-        "Awkwafina (Septima (voice))"
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Tom Waits (Jim)"
       ],
-      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
-      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
-    },
-    {
-      "id": "tmdb-1309373",
-      "tmdbId": 1309373,
-      "imdbId": "tt32368068",
-      "origine": "trailer",
-      "titolo": "Il canto della foresta",
-      "titoloOriginale": "Le Chant des forêts",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Vincent Munier",
-      "generi": [
-        "Documentario"
-      ],
-      "paesi": [
-        "Francia"
-      ],
-      "durata": 99,
-      "tagline": null,
-      "cast": [
-        "Michel Munier (Self)",
-        "Simon Munier (Self)",
-        "Vincent Munier (Self)"
-      ],
-      "tramaTmdb": "Un nonno, suo figlio e il figlio del figlio: Michel, Vincent (il regista) e Simon. Tre maschi di età diverse che condividono l'esperienza, più che consapevoli della sua rarità, di osservare da vicinissimo la natura. Rispettandola. Nelle foreste di conifere del dipartimento francese dei Vosgi, come a una base sicura dopo le loro esplorazioni, tornano in una baita di legno illuminata solo da candele. Tra i tre si compie la trasmissione della passione per animali e ambiente, in uno scambio continuo di saperi e curiosità. Un patrimonio di storie tramandate per via orale e di esperienze, rilevazion",
-      "motivi": [],
-      "impronta": "Il canto della foresta|600|Vincent Munier"
-    },
-    {
-      "id": "tmdb-1567605",
-      "tmdbId": 1567605,
-      "imdbId": "tt38773219",
-      "origine": "trailer",
-      "titolo": "Scrooge e gli spiriti del Natale",
-      "titoloOriginale": "Ebenezer",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Ti West",
-      "generi": [
-        "Fantasy",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 115,
-      "tagline": null,
-      "cast": [
-        "Johnny Depp (Ebenezer Scrooge)",
-        "Rupert Grint (Bob Cratchit)",
-        "Daisy Ridley (Emily Cratchit)",
-        "Andrea Riseborough (Ghost of Christmas Past)",
-        "Tramell Tillman (Ghost of Christmas Present)",
-        "Ian McKellen (Jacob Marley)"
-      ],
-      "tramaTmdb": null,
-      "motivi": [],
-      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
     }
   ]
 }

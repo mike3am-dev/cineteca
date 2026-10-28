@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-27T10:10:07.710Z",
+  "preparato": "2026-10-28T10:56:26.142Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -78,6 +78,73 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-574475",
+      "tmdbId": 574475,
+      "imdbId": "tt9619824",
+      "titolo": "Final Destination - Bloodlines",
+      "titoloOriginale": null,
+      "anno": "2025",
+      "uscitaItalia": "2025-05-15",
+      "lista": "casa",
+      "regia": "Adam Stein",
+      "generi": [
+        "Horror",
+        "Mistero"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": "Una famiglia con la morte nel sangue.",
+      "cast": [
+        "Kaitlyn Santa Juana (Stefani Reyes)",
+        "Teo Briones (Charlie Reyes)",
+        "Rya Kihlstedt (Darlene Campbell)",
+        "Richard Harmon (Erik)",
+        "Owen Patrick Joyner (Bobby)",
+        "Anna Lore (Julia)",
+        "Alex Zahara (Uncle Howard)",
+        "April Telek (Aunt Brenda)"
+      ],
+      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
+      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
+    },
+    {
+      "id": "tmdb-1022787",
+      "tmdbId": 1022787,
+      "imdbId": "tt4900148",
+      "titolo": "Elio",
+      "titoloOriginale": null,
+      "anno": "2025",
+      "uscitaItalia": "2025-06-18",
+      "lista": "casa",
+      "regia": "Domee Shi",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantascienza",
+        "Famiglia",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 98,
+      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
+      "cast": [
+        "Yonas Kibreab (Elio / Other Elio (voice))",
+        "Remy Edgerly (Glordon (voice))",
+        "Zoe Saldaña (Olga Solís (voice))",
+        "Brad Garrett (Lord Grigon (voice))",
+        "Brandon Moon (Ambassador Helix (voice))",
+        "Jameela Jamil (Ambassador Questa (voice))",
+        "Young Dylan (Bryce (voice))",
+        "Jake T. Getman (Caleb (voice))"
+      ],
+      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
+      "impronta": "Elio|287|Domee Shi"
+    },
     {
       "id": "tmdb-1226863",
       "tmdbId": 1226863,
