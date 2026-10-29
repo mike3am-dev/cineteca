@@ -1,7 +1,90 @@
 {
-  "aggiornato": "2026-10-28T10:56:27.840Z",
-  "giorno": "2026-10-28",
-  "film": [],
+  "aggiornato": "2026-10-29T11:14:03.868Z",
+  "giorno": "2026-10-29",
+  "film": [
+    {
+      "tmdbId": 1302904,
+      "imdbId": "tt32588798",
+      "title": "Amori & incantesimi 2",
+      "originalTitle": "Practical Magic 2",
+      "release": "2026-09-10",
+      "releaseFonte": "IT",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Commedia"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 130,
+      "plot": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
+      "tagline": "Tutto ciò che hai magicamente desiderato.",
+      "poster": "/fj4qveRGXSBTGBJHVSZfILDafOJ.jpg",
+      "backdrop": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "director": "Susanne Bier",
+      "cast": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña"
+      ],
+      "castDetail": [
+        {
+          "name": "Sandra Bullock",
+          "character": "Sally Owens",
+          "profile": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+        },
+        {
+          "name": "Nicole Kidman",
+          "character": "Gillian Owens",
+          "profile": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+        },
+        {
+          "name": "Joey King",
+          "character": "Kylie",
+          "profile": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+        },
+        {
+          "name": "Maisie Williams",
+          "character": "Antonia",
+          "profile": "/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+        },
+        {
+          "name": "Xolo Maridueña",
+          "character": "Gideon",
+          "profile": "/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+        },
+        {
+          "name": "Lee Pace",
+          "character": "Ian Wright",
+          "profile": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+        },
+        {
+          "name": "Dianne Wiest",
+          "character": "Jet",
+          "profile": "/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+        },
+        {
+          "name": "Stockard Channing",
+          "character": "Franny",
+          "profile": "/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+        }
+      ],
+      "tmdbRating": 7.2,
+      "tmdbVotes": 328,
+      "popularity": 114.1277,
+      "trailer": "https://www.youtube.com/watch?v=DU1Q_diK3zo",
+      "fonte": "se ne parla adesso",
+      "categoria": "di tendenza",
+      "perche": "se ne parla adesso",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "proposto": "2026-10-29"
+    }
+  ],
   "storico": {
     "11": "2026-10-03",
     "13": "2026-09-30",
@@ -311,6 +394,7 @@
     "1242898": "2026-10-04",
     "1288445": "2026-10-04",
     "1290821": "2026-10-03",
+    "1302904": "2026-10-29",
     "1311031": "2026-09-20",
     "1315772": "2026-09-12",
     "1375646": "2026-09-18",

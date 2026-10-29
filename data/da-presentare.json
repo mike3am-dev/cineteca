@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-28T10:56:27.841Z",
+  "preparato": "2026-10-29T11:14:03.870Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -320,7 +320,7 @@
       "imdbId": "tt37180686",
       "origine": "trailer",
       "titolo": "Drive - Cuori in pista",
-      "titoloOriginale": "Drive - The Pretenders",
+      "titoloOriginale": "Drive – The Pretenders",
       "anno": "2026",
       "uscitaItalia": "2026-10-27",
       "regia": "Sergej Moya",
@@ -331,56 +331,21 @@
       "paesi": [
         "Germania"
       ],
-      "durata": 102,
+      "durata": 103,
       "tagline": null,
       "cast": [
         "Lisa-Marie Koroll (Sarah Jenkins)",
         "Amin Baahmed (Dante Annunziata)",
-        "Gustav Schmidt (Ruben)",
-        "Mišel Matičević (Bronson)",
-        "Lucie Heinze (Tanya)",
-        "Frederic Linkemann (Jack)"
+        "Gustav Schmidt (Ruben Laroch)",
+        "Mišel Matičević (Alexander Bronson)",
+        "Lucie Heinze (Tanya Stein)",
+        "Frederic Linkemann (Jack Schroder)"
       ],
       "tramaTmdb": "Savvy Jenkins, una meccanica determinata a farsi strada nel mondo delle corse, entra nel team di Dante Annunziata, un campione del mondo arrogante che la vede solo come una distrazione.",
       "motivi": [
         "thriller, il tuo terreno"
       ],
       "impronta": "Drive - Cuori in pista|185|Sergej Moya"
-    },
-    {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
-      "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
-      "generi": [
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Famiglia"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherrie (voice))",
-        "Bowen Yang (Gary (voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
       "id": "tmdb-891621",
@@ -414,6 +379,38 @@
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "origine": "trailer",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": "Wildwood",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": null,
+      "cast": [
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "motivi": [],
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
     }
   ]
 }
