@@ -1,88 +1,87 @@
 {
-  "aggiornato": "2026-10-29T11:14:03.868Z",
-  "giorno": "2026-10-29",
+  "aggiornato": "2026-10-30T11:08:21.970Z",
+  "giorno": "2026-10-30",
   "film": [
     {
-      "tmdbId": 1302904,
-      "imdbId": "tt32588798",
-      "title": "Amori & incantesimi 2",
-      "originalTitle": "Practical Magic 2",
-      "release": "2026-09-10",
+      "tmdbId": 10098,
+      "imdbId": "tt0012349",
+      "title": "Il monello",
+      "originalTitle": "The Kid",
+      "release": "1923-11-26",
       "releaseFonte": "IT",
       "genres": [
-        "Romance",
-        "Fantasy",
-        "Commedia"
+        "Commedia",
+        "Dramma"
       ],
       "countries": [
         "USA"
       ],
-      "runtime": 130,
-      "plot": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l’oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all’insegna di divertimento, magia e caos.",
-      "tagline": "Tutto ciò che hai magicamente desiderato.",
-      "poster": "/fj4qveRGXSBTGBJHVSZfILDafOJ.jpg",
-      "backdrop": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "director": "Susanne Bier",
+      "runtime": 52,
+      "plot": "Un povero vetraio adotta un bimbo abbandonato, crescendolo come se fosse suo figlio.",
+      "tagline": null,
+      "poster": "/1bD391JnGnKN2JMUo0I5W4ofKTH.jpg",
+      "backdrop": "/yJvv7kDmeWT18jUSW2ZugZmYg0i.jpg",
+      "director": "Charlie Chaplin",
       "cast": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña"
+        "Charlie Chaplin",
+        "Jackie Coogan",
+        "Carl Miller",
+        "Edna Purviance",
+        "Albert Austin"
       ],
       "castDetail": [
         {
-          "name": "Sandra Bullock",
-          "character": "Sally Owens",
-          "profile": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+          "name": "Charlie Chaplin",
+          "character": "A Tramp",
+          "profile": "/lRI9Ky1SMOehn04OqhYJ5hQfgIK.jpg"
         },
         {
-          "name": "Nicole Kidman",
-          "character": "Gillian Owens",
-          "profile": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+          "name": "Jackie Coogan",
+          "character": "The Kid",
+          "profile": "/nTyszFKR1OCzEDs0kmUtz1g2msq.jpg"
         },
         {
-          "name": "Joey King",
-          "character": "Kylie",
-          "profile": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+          "name": "Carl Miller",
+          "character": "The Man",
+          "profile": "/bt3pDOt4rcUJQvt61MlHqYQzBgh.jpg"
         },
         {
-          "name": "Maisie Williams",
-          "character": "Antonia",
-          "profile": "/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+          "name": "Edna Purviance",
+          "character": "The Woman",
+          "profile": "/qGAhDLNl9YjTdds73hhgOo2NLf7.jpg"
         },
         {
-          "name": "Xolo Maridueña",
-          "character": "Gideon",
-          "profile": "/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+          "name": "Albert Austin",
+          "character": "Car Thief / Man in Shelter (uncredited)",
+          "profile": "/4NjPns56oHuoH0BVmI9oW4pMAmV.jpg"
         },
         {
-          "name": "Lee Pace",
-          "character": "Ian Wright",
-          "profile": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+          "name": "Beulah Bains",
+          "character": "Bride (uncredited)",
+          "profile": "/m2vMuicPcJgXwUhXyd6l2ioHBmr.jpg"
         },
         {
-          "name": "Dianne Wiest",
-          "character": "Jet",
-          "profile": "/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+          "name": "Nellie Bly Baker",
+          "character": "Slum Nurse (uncredited)",
+          "profile": "/eKj1sCj2Fd8wLRemIlWQqiQQMjg.jpg"
         },
         {
-          "name": "Stockard Channing",
-          "character": "Franny",
-          "profile": "/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+          "name": "Henry Bergman",
+          "character": "Professor Guido / Night Shelter Keeper (uncredited)",
+          "profile": "/x41Z1XOGnBg6xnFhxunVQBmcJ36.jpg"
         }
       ],
-      "tmdbRating": 7.2,
-      "tmdbVotes": 328,
-      "popularity": 114.1277,
-      "trailer": "https://www.youtube.com/watch?v=DU1Q_diK3zo",
-      "fonte": "se ne parla adesso",
-      "categoria": "di tendenza",
-      "perche": "se ne parla adesso",
+      "tmdbRating": 8.134,
+      "tmdbVotes": 2479,
+      "popularity": 6.8417,
+      "trailer": "https://www.youtube.com/watch?v=O5WXokyub-4",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
       "motivi": [
-        "se ne parla adesso"
+        "un classico che ti manca"
       ],
-      "proposto": "2026-10-29"
+      "proposto": "2026-10-30"
     }
   ],
   "storico": {
@@ -216,6 +215,7 @@
     "9479": "2026-10-19",
     "9702": "2026-10-04",
     "9806": "2026-10-22",
+    "10098": "2026-10-30",
     "10191": "2026-10-08",
     "10376": "2026-10-11",
     "10386": "2026-10-04",

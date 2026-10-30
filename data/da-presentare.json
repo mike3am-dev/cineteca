@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-29T11:14:03.870Z",
+  "preparato": "2026-10-30T11:08:21.971Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -78,6 +78,38 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1591675",
+      "tmdbId": 1591675,
+      "imdbId": "tt39094466",
+      "origine": "trailer",
+      "titolo": "Look Back",
+      "titoloOriginale": "ルックバック",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Hirokazu Kore-eda",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 100,
+      "tagline": null,
+      "cast": [
+        "出口夏希 (Fujino)",
+        "Aju Makita (Kyomoto)",
+        "七瀬ふうり (Young Fujino)",
+        "岡田六花 (Young Kyomoto)",
+        "Masaki Suda (Maeda)",
+        "宮藤官九郎 (Tamai)"
+      ],
+      "tramaTmdb": "Fujino, adolescente determinata e piena di talento, sogna di diventare una mangaka. Kyomoto, schiva e solitaria, vive quasi sempre chiusa nella sua stanza, dedicando ogni istante al disegno. Unite dalla stessa passione, le due ragazze, cresciute in una piccola città, inseguono per tredici anni il sogno di diventare autrici di manga.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Look Back|334|Hirokazu Kore-eda"
+    },
     {
       "id": "tmdb-1157869",
       "tmdbId": 1157869,
@@ -217,38 +249,6 @@
       "impronta": "Fatherland|474|Paweł Pawlikowski"
     },
     {
-      "id": "tmdb-1591675",
-      "tmdbId": 1591675,
-      "imdbId": "tt39094466",
-      "origine": "trailer",
-      "titolo": "Look Back",
-      "titoloOriginale": "ルックバック",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Hirokazu Kore-eda",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 100,
-      "tagline": null,
-      "cast": [
-        "出口夏希 (Fujino)",
-        "Aju Makita (Kyomoto)",
-        "七瀬ふうり (Young Fujino)",
-        "岡田六花 (Young Kyomoto)",
-        "Masaki Suda (Maeda)",
-        "宮藤官九郎 (Tamai)"
-      ],
-      "tramaTmdb": "Fujino, adolescente determinata e piena di talento, sogna di diventare una mangaka. Kyomoto, schiva e solitaria, vive quasi sempre chiusa nella sua stanza, dedicando ogni istante al disegno. Unite dalla stessa passione, le due ragazze, cresciute in una piccola città, inseguono per tredici anni il sogno di diventare autrici di manga.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Look Back|334|Hirokazu Kore-eda"
-    },
-    {
       "id": "tmdb-1780005",
       "tmdbId": 1780005,
       "imdbId": "tt37961714",
@@ -281,71 +281,70 @@
       "impronta": "Contra el huracán|176|Jorge Michel Grau"
     },
     {
-      "id": "tmdb-1503762",
-      "tmdbId": 1503762,
-      "imdbId": "tt13609648",
+      "id": "tmdb-1117898",
+      "tmdbId": 1117898,
+      "imdbId": "tt2321555",
       "origine": "trailer",
-      "titolo": "Ragione e sentimento",
-      "titoloOriginale": "Sense and Sensibility",
+      "titolo": "Il gatto col cappello",
+      "titoloOriginale": "The Cat in the Hat",
       "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Georgia Oakley",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Erica Rivinoja",
       "generi": [
-        "Dramma",
-        "Romance"
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Fantasy",
+        "Famiglia"
       ],
       "paesi": [
         "Regno Unito",
         "USA"
       ],
-      "durata": 132,
-      "tagline": null,
+      "durata": 91,
+      "tagline": "Qui gatto ci cova",
       "cast": [
-        "Daisy Edgar-Jones (Elinor Dashwood)",
-        "Esmé Creed-Miles (Marianne Dashwood)",
-        "Caitríona Balfe (Mrs. Dashwood)",
-        "Bodhi Rae Breathnach (Margaret Dashwood)",
-        "Frank Dillane (John Willoughby)",
-        "Herbert Nordrum (Colonel Brandon)"
+        "Bill Hader (The Cat in the Hat (voice))",
+        "Xochitl Gomez (Gabby (voice))",
+        "Tiago Martinez (Sebastian (voice))",
+        "Matt Berry (Waffles the Fish (voice))",
+        "Quinta Brunson (Sherrie (voice))",
+        "Bowen Yang (Gary (voice))"
       ],
-      "tramaTmdb": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla pa",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Ragione e sentimento|600|Georgia Oakley"
+      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+      "motivi": [],
+      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
-      "id": "tmdb-1596275",
-      "tmdbId": 1596275,
-      "imdbId": "tt37180686",
+      "id": "tmdb-1727734",
+      "tmdbId": 1727734,
+      "imdbId": "tt43655467",
       "origine": "trailer",
-      "titolo": "Drive - Cuori in pista",
-      "titoloOriginale": "Drive – The Pretenders",
+      "titolo": "Ali G: Who Iz I?",
+      "titoloOriginale": "Ali G: Who Iz I?",
       "anno": "2026",
-      "uscitaItalia": "2026-10-27",
-      "regia": "Sergej Moya",
+      "uscitaItalia": "2026-10-22",
+      "regia": "Sacha Baron Cohen",
       "generi": [
-        "Romance",
-        "Thriller"
+        "Commedia"
       ],
       "paesi": [
-        "Germania"
+        "Regno Unito",
+        "USA"
       ],
-      "durata": 103,
+      "durata": 89,
       "tagline": null,
       "cast": [
-        "Lisa-Marie Koroll (Sarah Jenkins)",
-        "Amin Baahmed (Dante Annunziata)",
-        "Gustav Schmidt (Ruben Laroch)",
-        "Mišel Matičević (Alexander Bronson)",
-        "Lucie Heinze (Tanya Stein)",
-        "Frederic Linkemann (Jack Schroder)"
+        "Sacha Baron Cohen (Ali G / Dr. Nira Cain-N'Degeocello / Colonel Erran Morad)",
+        "Morgana Robinson (Julie)",
+        "Alpha Miknas (Manu)",
+        "Clive Russell (Malcolm 'Rocky' Atkins)",
+        "A$AP Rocky (Himself)",
+        "Rihanna (Herself)"
       ],
-      "tramaTmdb": "Savvy Jenkins, una meccanica determinata a farsi strada nel mondo delle corse, entra nel team di Dante Annunziata, un campione del mondo arrogante che la vede solo come una distrazione.",
-      "motivi": [
-        "thriller, il tuo terreno"
-      ],
-      "impronta": "Drive - Cuori in pista|185|Sergej Moya"
+      "tramaTmdb": "Dopo vent'anni trascorsi a \"rilassarsi, farsi canne e scopare\", Ali G rimane scioccato nello scoprire che la sua fidanzata storica, Julie, è incinta all'ottavo mese. Messo di fronte a una bocca in più da sfamare, si dà una mossa e parte per l'America nel tentativo di riconquistare i fasti di un tempo... ma ben presto si imbatte in avversari che finiranno per minacciare la sua stessa esistenza e quella di suo figlio.",
+      "motivi": [],
+      "impronta": "Ali G: Who Iz I?|419|Sacha Baron Cohen"
     },
     {
       "id": "tmdb-891621",
@@ -411,6 +410,39 @@
       "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
       "motivi": [],
       "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
+      "id": "tmdb-10098",
+      "tmdbId": 10098,
+      "imdbId": "tt0012349",
+      "origine": "scoperta",
+      "titolo": "Il monello",
+      "titoloOriginale": "The Kid",
+      "anno": "1923",
+      "uscitaItalia": "1923-11-26",
+      "regia": "Charlie Chaplin",
+      "generi": [
+        "Commedia",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 52,
+      "tagline": null,
+      "cast": [
+        "Charlie Chaplin (A Tramp)",
+        "Jackie Coogan (The Kid)",
+        "Carl Miller (The Man)",
+        "Edna Purviance (The Woman)",
+        "Albert Austin (Car Thief / Man in Shelter (uncredited))",
+        "Beulah Bains (Bride (uncredited))"
+      ],
+      "tramaTmdb": "Un povero vetraio adotta un bimbo abbandonato, crescendolo come se fosse suo figlio.",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Il monello|84|Charlie Chaplin"
     }
   ]
 }
