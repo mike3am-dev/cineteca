@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-30T11:08:21.971Z",
+  "preparato": "2026-10-31T10:41:47.494Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -122,8 +122,8 @@
       "regia": "اصغر فرهادی",
       "generi": [
         "Dramma",
-        "Mistero",
-        "Thriller"
+        "Thriller",
+        "Mistero"
       ],
       "paesi": [
         "Francia",
@@ -249,38 +249,6 @@
       "impronta": "Fatherland|474|Paweł Pawlikowski"
     },
     {
-      "id": "tmdb-1780005",
-      "tmdbId": 1780005,
-      "imdbId": "tt37961714",
-      "origine": "trailer",
-      "titolo": "Contra el huracán",
-      "titoloOriginale": "Contra el huracán",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-23",
-      "regia": "Jorge Michel Grau",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Messico"
-      ],
-      "durata": 97,
-      "tagline": null,
-      "cast": [
-        "Benny Emmanuel (Wirpul)",
-        "Kristyan Ferrer (Candi)",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers (Nico)",
-        "Gonzalo Vega Jr. (Napo)"
-      ],
-      "tramaTmdb": "Due fratellastri lottano per sopravvivere all'uragano Otis ad Acapulco, dove il loro legame e il loro coraggio trasformano le avversità in speranza. Ispirato a una storia vera.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Contra el huracán|176|Jorge Michel Grau"
-    },
-    {
       "id": "tmdb-1117898",
       "tmdbId": 1117898,
       "imdbId": "tt2321555",
@@ -316,6 +284,38 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
+      "id": "tmdb-1567605",
+      "tmdbId": 1567605,
+      "imdbId": "tt38773219",
+      "origine": "trailer",
+      "titolo": "Scrooge e gli spiriti del Natale",
+      "titoloOriginale": "Ebenezer",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Ti West",
+      "generi": [
+        "Fantasy",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA",
+        "Regno Unito"
+      ],
+      "durata": 115,
+      "tagline": null,
+      "cast": [
+        "Johnny Depp (Ebenezer Scrooge)",
+        "Rupert Grint (Bob Cratchit)",
+        "Daisy Ridley (Emily Cratchit)",
+        "Andrea Riseborough (Ghost of Christmas Past)",
+        "Tramell Tillman (Ghost of Christmas Present)",
+        "Ian McKellen (Jacob Marley)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [],
+      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
+    },
+    {
       "id": "tmdb-1727734",
       "tmdbId": 1727734,
       "imdbId": "tt43655467",
@@ -335,12 +335,12 @@
       "durata": 89,
       "tagline": null,
       "cast": [
-        "Sacha Baron Cohen (Ali G / Dr. Nira Cain-N'Degeocello / Colonel Erran Morad)",
+        "Sacha Baron Cohen (Ali G / Nira Cain-N'Degeocello / Erran Morad)",
         "Morgana Robinson (Julie)",
         "Alpha Miknas (Manu)",
         "Clive Russell (Malcolm 'Rocky' Atkins)",
-        "A$AP Rocky (Himself)",
-        "Rihanna (Herself)"
+        "A$AP Rocky (A$AP Rocky)",
+        "Rihanna (Rihanna)"
       ],
       "tramaTmdb": "Dopo vent'anni trascorsi a \"rilassarsi, farsi canne e scopare\", Ali G rimane scioccato nello scoprire che la sua fidanzata storica, Julie, è incinta all'ottavo mese. Messo di fronte a una bocca in più da sfamare, si dà una mossa e parte per l'America nel tentativo di riconquistare i fasti di un tempo... ma ben presto si imbatte in avversari che finiranno per minacciare la sua stessa esistenza e quella di suo figlio.",
       "motivi": [],
@@ -401,48 +401,15 @@
       "tagline": null,
       "cast": [
         "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Carey Mulligan (Alexandra (voice))",
         "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Carey Mulligan (Alexandra (voice))",
         "Mahershala Ali (Brenden (voice))",
-        "Angela Bassett (The General (voice))",
-        "Awkwafina (Septima (voice))"
+        "Richard E. Grant (Owl Rex (voice))",
+        "Angela Bassett (The General (voice))"
       ],
       "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
       "motivi": [],
       "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
-    },
-    {
-      "id": "tmdb-10098",
-      "tmdbId": 10098,
-      "imdbId": "tt0012349",
-      "origine": "scoperta",
-      "titolo": "Il monello",
-      "titoloOriginale": "The Kid",
-      "anno": "1923",
-      "uscitaItalia": "1923-11-26",
-      "regia": "Charlie Chaplin",
-      "generi": [
-        "Commedia",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 52,
-      "tagline": null,
-      "cast": [
-        "Charlie Chaplin (A Tramp)",
-        "Jackie Coogan (The Kid)",
-        "Carl Miller (The Man)",
-        "Edna Purviance (The Woman)",
-        "Albert Austin (Car Thief / Man in Shelter (uncredited))",
-        "Beulah Bains (Bride (uncredited))"
-      ],
-      "tramaTmdb": "Un povero vetraio adotta un bimbo abbandonato, crescendolo come se fosse suo figlio.",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Il monello|84|Charlie Chaplin"
     }
   ]
 }

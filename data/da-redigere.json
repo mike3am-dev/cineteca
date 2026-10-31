@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-30T11:08:20.686Z",
+  "preparato": "2026-10-31T10:41:45.983Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -77,38 +77,5 @@
       "Blade Runner 2049 (2017), Denis Villeneuve"
     ]
   },
-  "film": [
-    {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
-      "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-05-15",
-      "lista": "casa",
-      "regia": "Adam Stein",
-      "generi": [
-        "Horror",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
-      "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
-      ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
-    }
-  ]
+  "film": []
 }
