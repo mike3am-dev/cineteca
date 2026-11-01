@@ -2536,8 +2536,8 @@
       "releaseUS": "2026-07-10",
       "poster": "/9Mnn4EjYs3vaQNW7ja717fLAntX.jpg",
       "backdrop": "/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-      "tmdbRating": 7.596,
-      "tmdbVotes": 1872,
+      "tmdbRating": 7.594,
+      "tmdbVotes": 1875,
       "popularity": 36.5858,
       "budget": 20000000,
       "revenue": 71491178,
@@ -2779,15 +2779,6 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 11336,
-          "titolo": "La zona morta",
-          "poster": "/uggxnQRGyrHEF5p1a9jujhtXn8W.jpg",
-          "anno": 1983,
-          "voto": 7,
-          "votanti": 1945,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 559581,
           "titolo": "Estraneo a bordo",
           "poster": "/78oWP943459rqQUB45Jc6eYL8KM.jpg",
@@ -2797,30 +2788,30 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 154,
-          "titolo": "Star Trek II - L'ira di Khan",
-          "poster": "/2nHlpaWHtDgHEMJI38bfebeukAB.jpg",
-          "anno": 1982,
-          "voto": 7.452,
-          "votanti": 2255,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 157336,
           "titolo": "Interstellar",
           "poster": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
           "anno": 2014,
-          "voto": 8.493,
-          "votanti": 41727,
+          "voto": 8.494,
+          "votanti": 41733,
           "tipo": "simile"
         },
         {
-          "tmdbId": 601,
-          "titolo": "E.T. l'extra-terrestre",
-          "poster": "/3DIwTC2A58WDtsgjaXjo2FYA1pW.jpg",
-          "anno": 1982,
-          "voto": 7.518,
-          "votanti": 12379,
+          "tmdbId": 17431,
+          "titolo": "Moon",
+          "poster": "/y90zRKir3o4UwlRRocNP7G8eTbC.jpg",
+          "anno": 2009,
+          "voto": 7.564,
+          "votanti": 6607,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 118340,
+          "titolo": "Guardiani della Galassia",
+          "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
+          "anno": 2014,
+          "voto": 7.908,
+          "votanti": 30578,
           "tipo": "simile"
         },
         {
@@ -2833,12 +2824,21 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 17431,
-          "titolo": "Moon",
-          "poster": "/y90zRKir3o4UwlRRocNP7G8eTbC.jpg",
-          "anno": 2009,
-          "voto": 7.564,
-          "votanti": 6607,
+          "tmdbId": 49047,
+          "titolo": "Gravity",
+          "poster": "/4pRXqT7wQmoH5sH6Z4WYmbAFG4t.jpg",
+          "anno": 2013,
+          "voto": 7.172,
+          "votanti": 16832,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 11864,
+          "titolo": "Il mio nemico",
+          "poster": "/kigoL3CxcWTAp3hEKhLQYPaVrma.jpg",
+          "anno": 1985,
+          "voto": 7.02,
+          "votanti": 1154,
           "tipo": "simile"
         },
         {
@@ -7117,7 +7117,7 @@
           "poster": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
           "anno": 2018,
           "voto": 8.246,
-          "votanti": 33306,
+          "votanti": 33309,
           "tipo": "attore",
           "attore": "Josh Brolin"
         },
@@ -7127,7 +7127,7 @@
           "poster": "/km1QPJeX93KCp6fqAcBf4Urijtc.jpg",
           "anno": 2014,
           "voto": 7.908,
-          "votanti": 30576,
+          "votanti": 30578,
           "tipo": "attore",
           "attore": "Josh Brolin"
         },
@@ -7137,7 +7137,7 @@
           "poster": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
           "anno": 2019,
           "voto": 8.247,
-          "votanti": 29187,
+          "votanti": 29189,
           "tipo": "attore",
           "attore": "Josh Brolin"
         }
@@ -15598,7 +15598,460 @@
           "profile": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
         }
       ]
+    },
+    {
+      "id": "tmdb-1381071",
+      "tmdbId": 1381071,
+      "title": "Godzilla Minus Zero",
+      "originalTitle": null,
+      "release": "2026-11-12",
+      "director": "Takashi Yamazaki",
+      "genres": [
+        "Fantascienza",
+        "Horror",
+        "Azione"
+      ],
+      "countries": [
+        "Giappone"
+      ],
+      "runtime": 135,
+      "trailer": "https://www.youtube.com/watch?v=a1y8wbDMUOg",
+      "cast": [
+        "Ryūnosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Kuranosuke Sasaki",
+        "Jun Kunimura",
+        "田中美央",
+        "Sakura Ando",
+        "長澤まさみ",
+        "田中泯",
+        "吉岡秀隆",
+        "Munetaka Aoki",
+        "永谷咲笑"
+      ],
+      "plot": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
+      "lista": "cinema",
+      "source": "tmdb:1381071",
+      "imdbId": "tt34384661",
+      "rtScore": 97,
+      "metascore": null,
+      "imdbRating": null,
+      "imdbVotes": null,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-11-03",
+      "releaseUS": "2026-11-06",
+      "poster": "/SS3rNoR2RICMWoV2566e32lOi6.jpg",
+      "backdrop": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "tmdbRating": null,
+      "tmdbVotes": null,
+      "popularity": 22.5256,
+      "budget": null,
+      "revenue": null,
+      "tagline": "There is no third time. Everything ends here.",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Ryūnosuke Kamiki",
+          "character": "Koichi Shikishima",
+          "profile": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+        },
+        {
+          "name": "浜辺美波",
+          "character": "Noriko Oishi",
+          "profile": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+        },
+        {
+          "name": "山田裕貴",
+          "character": "Shiro Mizushima",
+          "profile": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "Kuranosuke Sasaki",
+          "character": "Seiji Akitsu",
+          "profile": "/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
+        },
+        {
+          "name": "Jun Kunimura",
+          "character": null,
+          "profile": "/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+        },
+        {
+          "name": "田中美央",
+          "character": "Captain Tatsuo Hotta",
+          "profile": "/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg"
+        },
+        {
+          "name": "Sakura Ando",
+          "character": "Sumiko Ota",
+          "profile": "/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+        },
+        {
+          "name": "長澤まさみ",
+          "character": "Aoyama",
+          "profile": "/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
+        },
+        {
+          "name": "田中泯",
+          "character": "Kanji Murakami",
+          "profile": "/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg"
+        },
+        {
+          "name": "吉岡秀隆",
+          "character": "Kenji Noda",
+          "profile": "/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+        },
+        {
+          "name": "Munetaka Aoki",
+          "character": "Sosaku Tachibana",
+          "profile": "/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+        },
+        {
+          "name": "永谷咲笑",
+          "character": "Akiko",
+          "profile": "/qiIizEalCI14Ztt9uXFVXqxecEO.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-1421903",
+      "tmdbId": 1421903,
+      "title": "Werwulf",
+      "originalTitle": null,
+      "release": "2027-01-01",
+      "director": "Robert Eggers",
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "runtime": 120,
+      "trailer": "https://www.youtube.com/watch?v=fjmWhgB4ZFk",
+      "cast": [
+        "Aaron Taylor-Johnson",
+        "Lily-Rose Depp",
+        "Willem Dafoe",
+        "Bodhi Rae Breathnach",
+        "Ralph Ineson",
+        "Vidal Arzoni",
+        "Ned Dennehy",
+        "Jack Morris",
+        "Jan Bijvoet",
+        "Ritchi Edwards",
+        "Valeriia Karaman",
+        "Kate Dickie"
+      ],
+      "plot": "Ambientata nell'Inghilterra del XIII secolo, la storia si concentra sugli abitanti dei villaggi locali perseguitati da una creatura misteriosa. Mentre gli attacchi continuano, l'antico folklore e la superstizione sanguinano in una realtà terrificante. Sebbene i dettagli ufficiali della trama siano scarsi, il film sarà una versione storica del mito del lupo mannaro.",
+      "lista": "cinema",
+      "source": "tmdb:1421903",
+      "imdbId": "tt35514120",
+      "rtScore": null,
+      "metascore": null,
+      "imdbRating": null,
+      "imdbVotes": null,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-12-25",
+      "releaseUS": "2026-12-25",
+      "poster": "/u7qY5rIgQ3tsrD2MLksgbiqs4Ym.jpg",
+      "backdrop": "/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
+      "tmdbRating": null,
+      "tmdbVotes": null,
+      "popularity": 7.4086,
+      "budget": null,
+      "revenue": null,
+      "tagline": "Devoureth all mankynde.",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Aaron Taylor-Johnson",
+          "character": "Man",
+          "profile": "/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "character": "Woman",
+          "profile": "/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
+        },
+        {
+          "name": "Willem Dafoe",
+          "character": "Old Hunter",
+          "profile": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+        },
+        {
+          "name": "Bodhi Rae Breathnach",
+          "character": "Daughter",
+          "profile": "/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
+        },
+        {
+          "name": "Ralph Ineson",
+          "character": "One-Eyed Hunter",
+          "profile": "/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+        },
+        {
+          "name": "Vidal Arzoni",
+          "character": "Man (young)",
+          "profile": "/dKyVt8FvccmqrMcP19aKGlnZykI.jpg"
+        },
+        {
+          "name": "Ned Dennehy",
+          "character": "Friar",
+          "profile": "/gSEtkD9YwYnIPbnagDc797kMVJ2.jpg"
+        },
+        {
+          "name": "Jack Morris",
+          "character": "Young Hunter",
+          "profile": "/dQbK7ZBX1ERN2zxMnyWAkBmYAfX.jpg"
+        },
+        {
+          "name": "Jan Bijvoet",
+          "character": "Priest",
+          "profile": "/vEiLdWybj3tt92KN67JCIvYj6vP.jpg"
+        },
+        {
+          "name": "Ritchi Edwards",
+          "character": null,
+          "profile": "/gikJtZ5hF8fQyT6JozUuyQPzGmH.jpg"
+        },
+        {
+          "name": "Valeriia Karaman",
+          "character": null,
+          "profile": "/qPbtMxEbcNOenBOq1kiHSi7oNcZ.jpg"
+        },
+        {
+          "name": "Kate Dickie",
+          "character": "Weeping Woman",
+          "profile": "/mlFYUmZycpRa7TGgDTfP0xanE1Q.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-1153576",
+      "tmdbId": 1153576,
+      "title": "Street Fighter",
+      "originalTitle": null,
+      "release": "2026-10-15",
+      "director": "Kitao Sakurai",
+      "genres": [
+        "Azione",
+        "Fantasy"
+      ],
+      "countries": [
+        "Giappone",
+        "USA"
+      ],
+      "runtime": 120,
+      "trailer": "https://www.youtube.com/watch?v=yO7xhQ6VKak",
+      "cast": [
+        "Andrew Koji",
+        "Noah Centineo",
+        "Callina Liang",
+        "David Dastmalchian",
+        "Andrew Schulz",
+        "Joe Anoa'i",
+        "Cody Rhodes",
+        "Jason Momoa",
+        "Eric André",
+        "50 Cent",
+        "마동석",
+        "Mel Jarnson"
+      ],
+      "plot": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
+      "lista": "casa",
+      "source": "tmdb:1153576",
+      "imdbId": "tt27419420",
+      "rtScore": null,
+      "metascore": 46,
+      "imdbRating": 6.2,
+      "imdbVotes": 1231,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-10-13",
+      "releaseUS": "2026-10-16",
+      "poster": "/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+      "backdrop": "/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+      "tmdbRating": 6.314,
+      "tmdbVotes": 210,
+      "popularity": 94.4481,
+      "budget": 82000000,
+      "revenue": 83562121,
+      "tagline": "Ready. Set. Fight.",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Andrew Koji",
+          "character": "Ryu",
+          "profile": "/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg"
+        },
+        {
+          "name": "Noah Centineo",
+          "character": "Ken Masters",
+          "profile": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg"
+        },
+        {
+          "name": "Callina Liang",
+          "character": "Chun-Li",
+          "profile": "/blJ4iEqMs5oTiKVxUyB9Ky7kNRO.jpg"
+        },
+        {
+          "name": "David Dastmalchian",
+          "character": "M. Bison",
+          "profile": "/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
+        },
+        {
+          "name": "Andrew Schulz",
+          "character": "Dan Hibiki",
+          "profile": "/fdeYq1EraYvlYM3VmGXjIaSGoTz.jpg"
+        },
+        {
+          "name": "Joe Anoa'i",
+          "character": "Akuma",
+          "profile": "/6BKc77eAUBQdL9MmgBorBc4SMdE.jpg"
+        },
+        {
+          "name": "Cody Rhodes",
+          "character": "Guile",
+          "profile": "/m9hfLcsQuESprcb7dJUj5lQLWCv.jpg"
+        },
+        {
+          "name": "Jason Momoa",
+          "character": "Blanka",
+          "profile": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+        },
+        {
+          "name": "Eric André",
+          "character": "Don Sauvage",
+          "profile": "/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg"
+        },
+        {
+          "name": "50 Cent",
+          "character": "Balrog",
+          "profile": "/7VfwFIwBxy7qBUErosWRDQOovl9.jpg"
+        },
+        {
+          "name": "마동석",
+          "character": "Gouken",
+          "profile": "/xqnARIEzfyr3BalhFBWHmCusLKH.jpg"
+        },
+        {
+          "name": "Mel Jarnson",
+          "character": "Cammy",
+          "profile": "/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-1255833",
+      "tmdbId": 1255833,
+      "title": "Whalefall - Nella balena",
+      "originalTitle": null,
+      "release": "2026-10-15",
+      "director": "Brian Duffield",
+      "genres": [
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 106,
+      "trailer": "https://www.youtube.com/watch?v=pkZgSRpRjBM",
+      "cast": [
+        "Austin Abrams",
+        "Josh Brolin",
+        "Elisabeth Shue",
+        "John Ortiz",
+        "Jane Levy",
+        "Emily Rudd",
+        "Kamy D. Bruder",
+        "Mark Meloro Jr.",
+        "Sam Franich",
+        "Nicholas Gould",
+        "Laurel Lane Bowen",
+        "Sam Skolnik"
+      ],
+      "plot": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+      "lista": "casa",
+      "source": "tmdb:1255833",
+      "imdbId": "tt28535715",
+      "rtScore": null,
+      "metascore": null,
+      "imdbRating": null,
+      "imdbVotes": null,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-10-14",
+      "releaseUS": "2026-10-16",
+      "poster": "/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
+      "backdrop": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+      "tmdbRating": 6.573,
+      "tmdbVotes": 131,
+      "popularity": 62.8816,
+      "budget": 60000000,
+      "revenue": 32582242,
+      "tagline": "Trattieni il respiro",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Austin Abrams",
+          "character": "Jay Gardiner",
+          "profile": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
+        },
+        {
+          "name": "Josh Brolin",
+          "character": "Mitt Gardiner",
+          "profile": "/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+        },
+        {
+          "name": "Elisabeth Shue",
+          "character": "Zara Gardiner",
+          "profile": "/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+        },
+        {
+          "name": "John Ortiz",
+          "character": "Hewey",
+          "profile": "/o2SOFI53N6Gv5S3fDEBNbeimbzY.jpg"
+        },
+        {
+          "name": "Jane Levy",
+          "character": "Eva Gardiner",
+          "profile": "/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
+        },
+        {
+          "name": "Emily Rudd",
+          "character": "Nan Gardiner",
+          "profile": "/vVl4ABlqUuh5n1M2B9AOOa9r6kV.jpg"
+        },
+        {
+          "name": "Kamy D. Bruder",
+          "character": "Whale Watcher Man",
+          "profile": "/zClbeBZWyCogpRZz9zRQnBSl5X9.jpg"
+        },
+        {
+          "name": "Mark Meloro Jr.",
+          "character": "Whale Watcher Man",
+          "profile": null
+        },
+        {
+          "name": "Sam Franich",
+          "character": "Jay at 10",
+          "profile": null
+        },
+        {
+          "name": "Nicholas Gould",
+          "character": "US Coast Guard Petty Officer Third Class Whaley",
+          "profile": null
+        },
+        {
+          "name": "Laurel Lane Bowen",
+          "character": "Cafe Patron",
+          "profile": null
+        },
+        {
+          "name": "Sam Skolnik",
+          "character": "Employee",
+          "profile": "/wTqS6v4AIa1X3T9bNv3dRhpZynW.jpg"
+        }
+      ]
     }
   ],
-  "enrichedAt": "2026-11-01T12:17:24.867Z"
+  "enrichedAt": "2026-11-01T12:33:59.824Z"
 }

@@ -155,6 +155,14 @@
   ],
   "cinema": [
     {
+      "tmdbId": 1381071,
+      "titolo": "Godzilla Minus Zero"
+    },
+    {
+      "tmdbId": 1421903,
+      "titolo": "Werwulf"
+    },
+    {
       "tmdbId": 1375441,
       "titolo": "Primetime"
     },
@@ -220,6 +228,14 @@
     }
   ],
   "casa": [
+    {
+      "tmdbId": 1153576,
+      "titolo": "Street Fighter"
+    },
+    {
+      "tmdbId": 1255833,
+      "titolo": "Whalefall - Nella balena"
+    },
     {
       "tmdbId": 1022888,
       "titolo": "Ti auguro ogni bene"
