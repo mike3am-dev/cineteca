@@ -16051,7 +16051,121 @@
           "profile": "/wTqS6v4AIa1X3T9bNv3dRhpZynW.jpg"
         }
       ]
+    },
+    {
+      "id": "tmdb-858035",
+      "tmdbId": 858035,
+      "title": "Klara e il sole",
+      "originalTitle": null,
+      "release": "2026-10-22",
+      "director": "Taika Waititi",
+      "genres": [
+        "Fantascienza",
+        "Dramma"
+      ],
+      "countries": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "runtime": 116,
+      "trailer": "https://www.youtube.com/watch?v=Evw3_f4X-J4",
+      "cast": [
+        "Jenna Ortega",
+        "Mia Tharia",
+        "Amy Adams",
+        "Natasha Lyonne",
+        "Aran Murphy",
+        "Rachel House",
+        "Steve Buscemi",
+        "Davida McKenzie",
+        "Harry Greenwood",
+        "Anastasiia Aksiuta",
+        "Antonia Prebble",
+        "Rachel Forman"
+      ],
+      "plot": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
+      "lista": "casa",
+      "source": "tmdb:858035",
+      "imdbId": "tt14371256",
+      "rtScore": null,
+      "metascore": null,
+      "imdbRating": null,
+      "imdbVotes": null,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-10-21",
+      "releaseUS": "2026-10-23",
+      "poster": "/9pbXmKk4EgTkQKBdiCgiEdhI6eG.jpg",
+      "backdrop": "/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
+      "tmdbRating": 5.8,
+      "tmdbVotes": 26,
+      "popularity": 49.7889,
+      "budget": 20000000,
+      "revenue": 1691141,
+      "tagline": "Il futuro dell'amicizia è qui",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Jenna Ortega",
+          "character": "Klara",
+          "profile": "/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg"
+        },
+        {
+          "name": "Mia Tharia",
+          "character": "Josie",
+          "profile": "/oHb6lb5swU8U4JPEGfbUY5vkW5y.jpg"
+        },
+        {
+          "name": "Amy Adams",
+          "character": "Chrissie",
+          "profile": "/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+        },
+        {
+          "name": "Natasha Lyonne",
+          "character": "Manager",
+          "profile": "/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg"
+        },
+        {
+          "name": "Aran Murphy",
+          "character": "Rick",
+          "profile": "/gXwVwAY791aYZXkdSjLaRwYY37l.jpg"
+        },
+        {
+          "name": "Rachel House",
+          "character": "Melania",
+          "profile": "/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+        },
+        {
+          "name": "Steve Buscemi",
+          "character": "Capaldi",
+          "profile": "/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+        },
+        {
+          "name": "Davida McKenzie",
+          "character": "Simone",
+          "profile": "/2BqQHNNIXbUYSWbUk6UMrG7dwYu.jpg"
+        },
+        {
+          "name": "Harry Greenwood",
+          "character": null,
+          "profile": "/bTTjxIacR1a9GPVx2SkieZYHvbF.jpg"
+        },
+        {
+          "name": "Anastasiia Aksiuta",
+          "character": "AF-1",
+          "profile": null
+        },
+        {
+          "name": "Antonia Prebble",
+          "character": "Fiona",
+          "profile": "/83hN7Nz0bCRuRJ3KeHbSsb9kwrE.jpg"
+        },
+        {
+          "name": "Rachel Forman",
+          "character": "Prudence",
+          "profile": "/s8idqPRC5HCzsaOgh5nKZVZSq4d.jpg"
+        }
+      ]
     }
   ],
-  "enrichedAt": "2026-11-01T12:33:59.824Z"
+  "enrichedAt": "2026-11-01T12:36:25.626Z"
 }
