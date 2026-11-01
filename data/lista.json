@@ -155,6 +155,30 @@
   ],
   "cinema": [
     {
+      "tmdbId": 1375441,
+      "titolo": "Primetime"
+    },
+    {
+      "tmdbId": 1503762,
+      "titolo": "Ragione e sentimento"
+    },
+    {
+      "tmdbId": 1422011,
+      "titolo": "It Ends"
+    },
+    {
+      "tmdbId": 1477712,
+      "titolo": "Ice Cream Man"
+    },
+    {
+      "tmdbId": 1412795,
+      "titolo": "L'estranea"
+    },
+    {
+      "tmdbId": 791523,
+      "titolo": "Wildwood - I segreti del bosco proibito"
+    },
+    {
       "tmdbId": 1283515,
       "titolo": "Verity"
     },

@@ -569,8 +569,8 @@
       "releaseUS": "2026-08-28",
       "poster": "/kNzWRhai5eMUC0NuybT4VdisqHF.jpg",
       "backdrop": "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-      "tmdbRating": 7.088,
-      "tmdbVotes": 697,
+      "tmdbRating": 7.1,
+      "tmdbVotes": 713,
       "popularity": 188.8553,
       "budget": 110000000,
       "revenue": 37416959,
@@ -1652,15 +1652,6 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 1422011,
-          "titolo": "It Ends",
-          "poster": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
-          "anno": 2026,
-          "voto": 5.896,
-          "votanti": 96,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 91586,
           "titolo": "Oltre i confini del male: Insidious 2",
           "poster": "/mOYrwxKqyoL9o90zYpQbkfdHeZV.jpg",
@@ -1676,6 +1667,15 @@
           "anno": 2025,
           "voto": 6.019,
           "votanti": 324,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 1063877,
+          "titolo": "Don't Move",
+          "poster": "/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg",
+          "anno": 2024,
+          "voto": 6.312,
+          "votanti": 1086,
           "tipo": "simile"
         },
         {
@@ -1832,15 +1832,6 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 1422011,
-          "titolo": "It Ends",
-          "poster": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
-          "anno": 2026,
-          "voto": 5.896,
-          "votanti": 96,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 1330443,
           "titolo": "Strange Harvest",
           "poster": "/fYe0FNJNy0EIb8q4JUMLbbSmCth.jpg",
@@ -1874,6 +1865,15 @@
           "anno": 2016,
           "voto": 6.4,
           "votanti": 4302,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 8843,
+          "titolo": "The Cell - La cellula",
+          "poster": "/pgrboB2BSjSgFpy6IlZV32LkUx.jpg",
+          "anno": 2000,
+          "voto": 6.287,
+          "votanti": 1810,
           "tipo": "simile"
         },
         {
@@ -3783,8 +3783,8 @@
       "releaseUS": "2026-06-19",
       "poster": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
       "backdrop": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "tmdbRating": 8.281,
-      "tmdbVotes": 2777,
+      "tmdbRating": 8.28,
+      "tmdbVotes": 2778,
       "popularity": 87.8451,
       "budget": 250000000,
       "revenue": 1148032461,
@@ -6301,8 +6301,8 @@
       "releaseUS": "2025-10-17",
       "poster": "/73Lhoexx9xTjTBVsb5UUqqOzmH3.jpg",
       "backdrop": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
-      "tmdbRating": 7.6,
-      "tmdbVotes": 4024,
+      "tmdbRating": 7.599,
+      "tmdbVotes": 4025,
       "popularity": 25.3727,
       "budget": 120000000,
       "revenue": 480678,
@@ -8759,8 +8759,8 @@
           "titolo": "Matilda 6 mitica",
           "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
           "anno": 1996,
-          "voto": 7.193,
-          "votanti": 5011,
+          "voto": 7.194,
+          "votanti": 5012,
           "tipo": "simile"
         },
         {
@@ -8773,12 +8773,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 560044,
-          "titolo": "La famiglia Willoughby",
-          "poster": "/gnzkTans6lSEL6c9Fco3fXOqwLm.jpg",
-          "anno": 2020,
-          "voto": 7.059,
-          "votanti": 1032,
+          "tmdbId": 315162,
+          "titolo": "Il gatto con gli stivali 2 - L'ultimo desiderio",
+          "poster": "/v8xkTiSL2q680uCFuhc50mSea7q.jpg",
+          "anno": 2022,
+          "voto": 8.218,
+          "votanti": 9352,
           "tipo": "simile"
         },
         {
@@ -11965,8 +11965,8 @@
           "titolo": "Tomb Raider",
           "poster": "/Au8mBURHNFCtknbz89mVxjqcxq1.jpg",
           "anno": 2018,
-          "voto": 6.362,
-          "votanti": 8595,
+          "voto": 6.361,
+          "votanti": 8596,
           "tipo": "simile"
         },
         {
@@ -11975,7 +11975,7 @@
           "poster": "/vvglsPQgyGogyTu2e59dJYGlJNE.jpg",
           "anno": 2017,
           "voto": 6.666,
-          "votanti": 13190,
+          "votanti": 13191,
           "tipo": "simile"
         },
         {
@@ -11988,21 +11988,12 @@
           "tipo": "simile"
         },
         {
-          "tmdbId": 11649,
-          "titolo": "I dominatori dell'universo",
-          "poster": "/opgeYzyA2CC0Lr0YzAkUPCSk3ZM.jpg",
-          "anno": 1987,
-          "voto": 5.915,
-          "votanti": 1195,
-          "tipo": "simile"
-        },
-        {
           "tmdbId": 9543,
           "titolo": "Prince of Persia - Le sabbie del tempo",
           "poster": "/8NYXMJ4G5fWQyv2UM2SKzfBx3Rn.jpg",
           "anno": 2010,
-          "voto": 6.313,
-          "votanti": 7398,
+          "voto": 6.314,
+          "votanti": 7400,
           "tipo": "simile"
         },
         {
@@ -12011,7 +12002,7 @@
           "poster": "/qkQf6FVvtRKKk1JQAWTJZDPiy5r.jpg",
           "anno": 2008,
           "voto": 6.028,
-          "votanti": 9347,
+          "votanti": 9348,
           "tipo": "simile"
         },
         {
@@ -12028,8 +12019,17 @@
           "titolo": "Aquaman",
           "poster": "/ceYbmybt6ucJhM4lq6D998bMToc.jpg",
           "anno": 2018,
-          "voto": 6.9,
+          "voto": 6.861,
           "votanti": 15329,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 22,
+          "titolo": "La maledizione della prima luna",
+          "poster": "/r6ISuJLJ5U9MACu8lyCGmdZcHq3.jpg",
+          "anno": 2003,
+          "voto": 7.837,
+          "votanti": 23020,
           "tipo": "simile"
         },
         {
@@ -12216,30 +12216,21 @@
           "tipo": "simile"
         },
         {
+          "tmdbId": 17761,
+          "titolo": "Prigionieri del cielo",
+          "poster": "/nBmSCNRdrnNSpdcJVdqYPe4rAIW.jpg",
+          "anno": 1954,
+          "voto": 5.9,
+          "votanti": 91,
+          "tipo": "simile"
+        },
+        {
           "tmdbId": 516486,
           "titolo": "Greyhound: il nemico invisibile",
           "poster": "/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg",
           "anno": 2020,
           "voto": 7.418,
-          "votanti": 3528,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 3536,
-          "titolo": "U-571",
-          "poster": "/dIpU7KGjDMYZBj3mz9jCQeuhw7f.jpg",
-          "anno": 2000,
-          "voto": 6.563,
-          "votanti": 1436,
-          "tipo": "simile"
-        },
-        {
-          "tmdbId": 9664,
-          "titolo": "Giovani aquile",
-          "poster": "/jkF8yTFwId8Yg66xywy1qZkwOzk.jpg",
-          "anno": 2006,
-          "voto": 6.533,
-          "votanti": 881,
+          "votanti": 3529,
           "tipo": "simile"
         },
         {
@@ -12257,7 +12248,7 @@
           "poster": "/8mx8Rs7C9YYaIWOFk9bQvCO3GHD.jpg",
           "anno": 2012,
           "voto": 5.949,
-          "votanti": 6244,
+          "votanti": 6245,
           "tipo": "simile"
         },
         {
@@ -12276,6 +12267,15 @@
           "anno": 1992,
           "voto": 7.563,
           "votanti": 4395,
+          "tipo": "simile"
+        },
+        {
+          "tmdbId": 8619,
+          "titolo": "Master & Commander - Sfida ai confini del mare",
+          "poster": "/6J8Cpjaan2KfLGglruBZE7MoTo7.jpg",
+          "anno": 2003,
+          "voto": 7.208,
+          "votanti": 3730,
           "tipo": "simile"
         },
         {
@@ -14277,7 +14277,7 @@
           "poster": "/6vzDHECuUbKiqSSXHcIKb9LPcQs.jpg",
           "anno": 1980,
           "voto": 8.393,
-          "votanti": 19069,
+          "votanti": 19070,
           "tipo": "attore",
           "attore": "Harrison Ford"
         }
@@ -14911,7 +14911,694 @@
           "profile": "/af4hYV7WwEtL48eND0xDsdobJq9.jpg"
         }
       ]
+    },
+    {
+      "id": "tmdb-1375441",
+      "tmdbId": 1375441,
+      "title": "Primetime",
+      "originalTitle": null,
+      "release": "2026-10-15",
+      "director": "Lance Oppenheim",
+      "genres": [
+        "Dramma",
+        "Thriller"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 110,
+      "trailer": "https://www.youtube.com/watch?v=wCDh_IhYz6Y",
+      "cast": [
+        "Robert Pattinson",
+        "Merritt Wever",
+        "Skyler Gisondo",
+        "Matthew Maher",
+        "Phoebe Bridgers",
+        "Victor Brunette",
+        "Bokeem Woodbine",
+        "Michael Chachere",
+        "Alex Winter",
+        "Tony Revolori",
+        "Bob Ari",
+        "Jonathan Lipnicki"
+      ],
+      "plot": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+      "lista": "cinema",
+      "source": "tmdb:1375441",
+      "imdbId": "tt34206385",
+      "rtScore": 86,
+      "metascore": 75,
+      "imdbRating": 8.7,
+      "imdbVotes": 120,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-09-23",
+      "releaseUS": "2026-09-25",
+      "poster": "/sqArsDFYFryd5iKuoxLvr4y5NZv.jpg",
+      "backdrop": "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "tmdbRating": 6.838,
+      "tmdbVotes": 253,
+      "popularity": 56.4555,
+      "budget": 14500000,
+      "revenue": 52704611,
+      "tagline": "Siete pronti ad entrare nella storia della televisione?",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Robert Pattinson",
+          "character": "Chris Hansen",
+          "profile": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        },
+        {
+          "name": "Merritt Wever",
+          "character": "Andie Bender",
+          "profile": "/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+        },
+        {
+          "name": "Skyler Gisondo",
+          "character": "Dan Plum",
+          "profile": "/4oywya1Roukq6FJFuWjU5z61WUg.jpg"
+        },
+        {
+          "name": "Matthew Maher",
+          "character": "Xavier Von Erck",
+          "profile": "/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "character": "Del",
+          "profile": "/3Br0mutrOkKaemjXsh9m6ejFfRx.jpg"
+        },
+        {
+          "name": "Victor Brunette",
+          "character": "Frag",
+          "profile": "/oVLryWXSuHFNWceoY61nzOiB1ti.jpg"
+        },
+        {
+          "name": "Bokeem Woodbine",
+          "character": "Cortland Gunn",
+          "profile": "/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+        },
+        {
+          "name": "Michael Chachere",
+          "character": "Michael Chachere",
+          "profile": "/z3GdHd9fJni93zvqpIyLJvKKH99.jpg"
+        },
+        {
+          "name": "Alex Winter",
+          "character": "Bill Conradt",
+          "profile": "/2GM34tP0VZegydEXgCj541udTP9.jpg"
+        },
+        {
+          "name": "Tony Revolori",
+          "character": "MarriedAndLookingForFun31313",
+          "profile": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+        },
+        {
+          "name": "Bob Ari",
+          "character": "RedBd",
+          "profile": "/r3nwKEVVH7kDgklIx1Wg8CqJ3Fh.jpg"
+        },
+        {
+          "name": "Jonathan Lipnicki",
+          "character": "Crazyfrog73",
+          "profile": "/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-1503762",
+      "tmdbId": 1503762,
+      "title": "Ragione e sentimento",
+      "originalTitle": null,
+      "release": "2026-10-22",
+      "director": "Georgia Oakley",
+      "genres": [
+        "Dramma",
+        "Romance",
+        "Storia"
+      ],
+      "countries": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "runtime": 132,
+      "trailer": "https://www.youtube.com/watch?v=DKwPSComY6k",
+      "cast": [
+        "Daisy Edgar-Jones",
+        "Esmé Creed-Miles",
+        "Caitríona Balfe",
+        "Frank Dillane",
+        "Herbert Nordrum",
+        "George MacKay",
+        "Fiona Shaw",
+        "Bodhi Rae Breathnach",
+        "Stacy Martin",
+        "Tom Brooke",
+        "Turlough Convery",
+        "Chloe Pirrie"
+      ],
+      "plot": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
+      "lista": "cinema",
+      "source": "tmdb:1503762",
+      "imdbId": "tt13609648",
+      "rtScore": 79,
+      "metascore": 72,
+      "imdbRating": 7.2,
+      "imdbVotes": 1752,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-09-23",
+      "releaseUS": "2026-10-16",
+      "poster": "/bwZCHb0qCFP2QT3QylGixpsNo8D.jpg",
+      "backdrop": "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+      "tmdbRating": 7.35,
+      "tmdbVotes": 113,
+      "popularity": 91.0269,
+      "budget": 25000000,
+      "revenue": 33773081,
+      "tagline": "No one knows your heart like a sister.",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Daisy Edgar-Jones",
+          "character": "Elinor Dashwood",
+          "profile": "/4Fdc3VSoVhkkEZNx5Zpz3AU6DYz.jpg"
+        },
+        {
+          "name": "Esmé Creed-Miles",
+          "character": "Marianne Dashwood",
+          "profile": "/hmGkEC4OWsyDe7ZGVkZ7e1RjViD.jpg"
+        },
+        {
+          "name": "Caitríona Balfe",
+          "character": "Mrs. Dashwood",
+          "profile": "/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+        },
+        {
+          "name": "Frank Dillane",
+          "character": "John Willoughby",
+          "profile": "/eitUc8e045y8dDfBSm681hU471g.jpg"
+        },
+        {
+          "name": "Herbert Nordrum",
+          "character": "Colonel Brandon",
+          "profile": "/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
+        },
+        {
+          "name": "George MacKay",
+          "character": "Edward Ferrars",
+          "profile": "/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg"
+        },
+        {
+          "name": "Fiona Shaw",
+          "character": "Mrs. Jennings",
+          "profile": "/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+        },
+        {
+          "name": "Bodhi Rae Breathnach",
+          "character": "Margaret Dashwood",
+          "profile": "/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
+        },
+        {
+          "name": "Stacy Martin",
+          "character": "Fanny Dashwood",
+          "profile": "/wLPh456xduwDkGgPpaf1KGH9EWz.jpg"
+        },
+        {
+          "name": "Tom Brooke",
+          "character": "John Dashwood",
+          "profile": "/pUQ3KyfTLPLkBP8KvCcwEyHUMB7.jpg"
+        },
+        {
+          "name": "Turlough Convery",
+          "character": "Sir John Middleton",
+          "profile": "/xDHf65t9vtxmIAmDxp5yMKZUtPt.jpg"
+        },
+        {
+          "name": "Chloe Pirrie",
+          "character": "Lady Middleton",
+          "profile": "/t5pUoG5kDk8F0uNQ1reMD8Cd4V0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-1422011",
+      "tmdbId": 1422011,
+      "title": "It Ends",
+      "originalTitle": null,
+      "release": "2026-10-28",
+      "director": "Alexander Ullom",
+      "genres": [
+        "Horror",
+        "Mistero"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 89,
+      "trailer": "https://www.youtube.com/watch?v=dDA7kHRa67U",
+      "cast": [
+        "Phinehas Yoon",
+        "Akira Jackson",
+        "Noah Toth",
+        "Mitchell Cole",
+        "Jenny Doyle",
+        "Jon Linstad",
+        "Ian Weir",
+        "Alexander Ullom",
+        "Antonio Andrés Rosello",
+        "Dakota Shiver",
+        "Dennis Brewer",
+        "Grace Wu"
+      ],
+      "plot": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
+      "lista": "cinema",
+      "source": "tmdb:1422011",
+      "imdbId": "tt35519455",
+      "rtScore": 93,
+      "metascore": 75,
+      "imdbRating": 5.8,
+      "imdbVotes": 8983,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-08-21",
+      "releaseUS": "2026-08-28",
+      "poster": "/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+      "backdrop": "/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+      "tmdbRating": 5.907,
+      "tmdbVotes": 97,
+      "popularity": 15.1163,
+      "budget": 80000,
+      "revenue": 1208522,
+      "tagline": "Some wrong turns last forever.",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Phinehas Yoon",
+          "character": "James",
+          "profile": "/4QPjUk5XRcK31hq5sfeuS1MjL1I.jpg"
+        },
+        {
+          "name": "Akira Jackson",
+          "character": "Day",
+          "profile": "/6rTQ373bfj3TvPigeciCqteEPZg.jpg"
+        },
+        {
+          "name": "Noah Toth",
+          "character": "Fisher",
+          "profile": "/cj6dL9qUnrSVOlaQBOvLiGzjdEk.jpg"
+        },
+        {
+          "name": "Mitchell Cole",
+          "character": "Tyler",
+          "profile": "/zsnkkaOPiBgLmQODpAE8GBcE0YT.jpg"
+        },
+        {
+          "name": "Jenny Doyle",
+          "character": "Fisher's Mom (voice)",
+          "profile": null
+        },
+        {
+          "name": "Jon Linstad",
+          "character": "Interrogated Man",
+          "profile": null
+        },
+        {
+          "name": "Ian Weir",
+          "character": "Lost Man",
+          "profile": null
+        },
+        {
+          "name": "Alexander Ullom",
+          "character": "Passenger",
+          "profile": "/neVbiMVlEks9TkChp5qmhS65wiB.jpg"
+        },
+        {
+          "name": "Antonio Andrés Rosello",
+          "character": "Background Cast",
+          "profile": "/uC54bxPZCUCEA2kMOe897pqiOeg.jpg"
+        },
+        {
+          "name": "Dakota Shiver",
+          "character": "Background Cast",
+          "profile": null
+        },
+        {
+          "name": "Dennis Brewer",
+          "character": "Background Cast",
+          "profile": null
+        },
+        {
+          "name": "Grace Wu",
+          "character": "Background Cast",
+          "profile": "/dxjGsCBmIqzMl2YpyBhYi9JhXmK.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-1477712",
+      "tmdbId": 1477712,
+      "title": "Ice Cream Man",
+      "originalTitle": null,
+      "release": "2026-10-29",
+      "director": "Eli Roth",
+      "genres": [
+        "Horror",
+        "Commedia",
+        "Thriller"
+      ],
+      "countries": [
+        "USA",
+        "Gran Bretagna",
+        "Francia",
+        "Giappone"
+      ],
+      "runtime": 86,
+      "trailer": "https://www.youtube.com/watch?v=okMr4WPxFTs",
+      "cast": [
+        "Ari Millen",
+        "Charlie Zeltzer",
+        "Shiloh O’Reilly",
+        "Kiori Mirza Waldman",
+        "Sarah Abbott",
+        "Benjamin Byron Davis",
+        "Karen Cliche",
+        "Dylan Hawco",
+        "Eli Roth",
+        "Lorenzo Antonucci",
+        "Luke Dietz",
+        "Eli Massillon"
+      ],
+      "plot": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
+      "lista": "cinema",
+      "source": "tmdb:1477712",
+      "imdbId": "tt36893729",
+      "rtScore": 25,
+      "metascore": 33,
+      "imdbRating": 3.8,
+      "imdbVotes": 4763,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-08-03",
+      "releaseUS": "2026-08-07",
+      "poster": "/bnZUCOLv2Br3VOxnDMo5qPOncJF.jpg",
+      "backdrop": "/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+      "tmdbRating": 5.308,
+      "tmdbVotes": 265,
+      "popularity": 53.2998,
+      "budget": 5500000,
+      "revenue": 7788193,
+      "tagline": "We all scream.",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Ari Millen",
+          "character": "The Ice Cream Man / Jonathan Smiley",
+          "profile": "/x2hFdgnrJ1er0VpteRcqTr8aWTT.jpg"
+        },
+        {
+          "name": "Charlie Zeltzer",
+          "character": "Jared",
+          "profile": "/ytbrQ4R1iiRD3I0qdAddVfgooD7.jpg"
+        },
+        {
+          "name": "Shiloh O’Reilly",
+          "character": "Tommy",
+          "profile": "/ogT1ycS4CoOassN1GeCaS7qVcgO.jpg"
+        },
+        {
+          "name": "Kiori Mirza Waldman",
+          "character": "Mia",
+          "profile": "/yfEe5f4kT411DH2NNx1VU3gDQZV.jpg"
+        },
+        {
+          "name": "Sarah Abbott",
+          "character": "Lizzie",
+          "profile": "/riLNrHSQNFL2jgT3IRhIYOiBCXG.jpg"
+        },
+        {
+          "name": "Benjamin Byron Davis",
+          "character": "The Priest",
+          "profile": "/5WHDh9l9Ylsbf5ZKt3nQ4FRweUi.jpg"
+        },
+        {
+          "name": "Karen Cliche",
+          "character": "Alison",
+          "profile": "/fVXdJyDRVDo7C5tTHauDm9zDvi9.jpg"
+        },
+        {
+          "name": "Dylan Hawco",
+          "character": "Chris",
+          "profile": "/scuhT7GDRFIXP2Iw7Yz2Mplq7oW.jpg"
+        },
+        {
+          "name": "Eli Roth",
+          "character": "Marty",
+          "profile": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg"
+        },
+        {
+          "name": "Lorenzo Antonucci",
+          "character": "Terry",
+          "profile": "/rUPpfC8HwWdwB8NNP1m1zLPIhlH.jpg"
+        },
+        {
+          "name": "Luke Dietz",
+          "character": "Elliot",
+          "profile": "/3JsnxWS7wIsdplyDLtzr2PS6sgM.jpg"
+        },
+        {
+          "name": "Eli Massillon",
+          "character": "Myles",
+          "profile": "/px6dbImEiHQrDQdmrg5NvHqg2DF.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tmdb-1412795",
+      "tmdbId": 1412795,
+      "title": "L'estranea",
+      "originalTitle": null,
+      "release": "2026-10-08",
+      "director": "Paolo Strippoli",
+      "genres": [
+        "Dramma",
+        "Thriller"
+      ],
+      "countries": [
+        "Belgio",
+        "Francia",
+        "Italia"
+      ],
+      "runtime": 115,
+      "trailer": null,
+      "cast": [
+        "Jasmine Trinca",
+        "Romana Maggiora Vergano",
+        "Adriano Giannini",
+        "Valeria Bruni Tedeschi",
+        "Gabriella Telegrafo",
+        "Alessandro Carbonara",
+        "Mariandrea Cesari",
+        "Andrea Rossini",
+        "Andrea Genovese",
+        "Marina Limosani",
+        "Raffaele Braia",
+        "Irene Maria Rita Moccia"
+      ],
+      "plot": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
+      "lista": "cinema",
+      "source": "tmdb:1412795",
+      "imdbId": "tt23411728",
+      "rtScore": null,
+      "metascore": null,
+      "imdbRating": null,
+      "imdbVotes": null,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-10-08",
+      "releaseUS": null,
+      "poster": "/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
+      "backdrop": "/jsnatGViKLWlW3iqr2wrZNWSrRB.jpg",
+      "tmdbRating": 7.46,
+      "tmdbVotes": 164,
+      "popularity": 5.4508,
+      "budget": 5500000,
+      "revenue": null,
+      "tagline": null,
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Jasmine Trinca",
+          "character": "Anna",
+          "profile": "/zpwHVGrExns5NA83m72lawDu3n4.jpg"
+        },
+        {
+          "name": "Romana Maggiora Vergano",
+          "character": "Alice",
+          "profile": "/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
+        },
+        {
+          "name": "Adriano Giannini",
+          "character": "Walter",
+          "profile": "/8cyApt07EO7aaAtPTshe7whciSx.jpg"
+        },
+        {
+          "name": "Valeria Bruni Tedeschi",
+          "character": "Stranger",
+          "profile": "/ioMCjkUWngWjS0nXWYLqvBsm4mI.jpg"
+        },
+        {
+          "name": "Gabriella Telegrafo",
+          "character": "Alice (1999)",
+          "profile": null
+        },
+        {
+          "name": "Alessandro Carbonara",
+          "character": "Tobia (1999)",
+          "profile": null
+        },
+        {
+          "name": "Mariandrea Cesari",
+          "character": "Alice (2006)",
+          "profile": null
+        },
+        {
+          "name": "Andrea Rossini",
+          "character": "Tobia (2006)",
+          "profile": null
+        },
+        {
+          "name": "Andrea Genovese",
+          "character": "Tobia (2025)",
+          "profile": null
+        },
+        {
+          "name": "Marina Limosani",
+          "character": "Lidia Mariani",
+          "profile": "/oNPpWC4od83rMehapdQBphTfQHp.jpg"
+        },
+        {
+          "name": "Raffaele Braia",
+          "character": "Maresciallo Luigi Grieco",
+          "profile": "/2rwpcLDYYLnoJ9ZVJNnFZy1LRfV.jpg"
+        },
+        {
+          "name": "Irene Maria Rita Moccia",
+          "character": "Pianist",
+          "profile": null
+        }
+      ]
+    },
+    {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "title": "Wildwood - I segreti del bosco proibito",
+      "originalTitle": null,
+      "release": "2026-10-22",
+      "director": "Travis Knight",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 132,
+      "trailer": "https://www.youtube.com/watch?v=7rQ_JSUt_bs",
+      "cast": [
+        "Peyton Elizabeth Lee",
+        "Jacob Tremblay",
+        "Carey Mulligan",
+        "Mahershala Ali",
+        "Richard E. Grant",
+        "Angela Bassett",
+        "Awkwafina",
+        "Amandla Stenberg",
+        "Tom Waits",
+        "Charlie Day",
+        "Blythe Danner",
+        "Jake Johnson"
+      ],
+      "plot": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "lista": "cinema",
+      "source": "tmdb:791523",
+      "imdbId": "tt2056785",
+      "rtScore": null,
+      "metascore": null,
+      "imdbRating": null,
+      "imdbVotes": null,
+      "releaseFonte": "IT",
+      "releaseGlobale": "2026-10-19",
+      "releaseUS": "2026-10-23",
+      "poster": "/kfczsvfehVNDwzWiPuKAuQclzl7.jpg",
+      "backdrop": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "tmdbRating": 8.681,
+      "tmdbVotes": 127,
+      "popularity": 1453.32,
+      "budget": 100000000,
+      "revenue": 23642848,
+      "tagline": "How far would you go for those you love?",
+      "scoperte": [],
+      "castDetail": [
+        {
+          "name": "Peyton Elizabeth Lee",
+          "character": "Prue McKeel (voice)",
+          "profile": "/hnEl4HxqGNGHCJ7Y8l3dJ21WHeG.jpg"
+        },
+        {
+          "name": "Jacob Tremblay",
+          "character": "Curtis Mehlberg (voice)",
+          "profile": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+        },
+        {
+          "name": "Carey Mulligan",
+          "character": "Alexandra (voice)",
+          "profile": "/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+        },
+        {
+          "name": "Mahershala Ali",
+          "character": "Brenden (voice)",
+          "profile": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+        },
+        {
+          "name": "Richard E. Grant",
+          "character": "Owl Rex (voice)",
+          "profile": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+        },
+        {
+          "name": "Angela Bassett",
+          "character": "The General (voice)",
+          "profile": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+        },
+        {
+          "name": "Awkwafina",
+          "character": "Septima (voice)",
+          "profile": "/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+        },
+        {
+          "name": "Amandla Stenberg",
+          "character": "Niamh (voice)",
+          "profile": "/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
+        },
+        {
+          "name": "Tom Waits",
+          "character": "Maxim (voice)",
+          "profile": "/kmPOnRmxUgL0rjIUF98uToQrQKB.jpg"
+        },
+        {
+          "name": "Charlie Day",
+          "character": "Dmitri (voice)",
+          "profile": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+        },
+        {
+          "name": "Blythe Danner",
+          "character": "The Seer (voice)",
+          "profile": "/5fJM6RZXYKAd0ayRwB7osEAQ8YR.jpg"
+        },
+        {
+          "name": "Jake Johnson",
+          "character": "Mr. McKeel (voice)",
+          "profile": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+        }
+      ]
     }
   ],
-  "enrichedAt": "2026-11-01T11:36:44.668Z"
+  "enrichedAt": "2026-11-01T12:17:24.867Z"
 }
