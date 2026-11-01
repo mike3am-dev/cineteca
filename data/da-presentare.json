@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-10-31T10:41:47.494Z",
+  "preparato": "2026-11-01T11:36:55.473Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -111,6 +111,39 @@
       "impronta": "Look Back|334|Hirokazu Kore-eda"
     },
     {
+      "id": "tmdb-1154730",
+      "tmdbId": 1154730,
+      "imdbId": "tt36107185",
+      "origine": "trailer",
+      "titolo": "La Gradiva",
+      "titoloOriginale": "La Gradiva",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-18",
+      "regia": "Marine Atlan",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Francia",
+        "Italia"
+      ],
+      "durata": 145,
+      "tagline": null,
+      "cast": [
+        "Colas Quignard (Toni)",
+        "Antonia Buresi (Madame Mercier)",
+        "Mitia Capellier-Audat (James)",
+        "Suzanne Gerin (Suzanne)",
+        "Hadya Fofana (Angela)",
+        "Rouge Isaac (Amaury)"
+      ],
+      "tramaTmdb": "Una classe di liceali si reca a Pompei alla scoperta delle rovine e dei corpi pietrificati dal Vesuvio. Il viaggio si trasforma in un momento unico in cui la forza della giovinezza incontra un mondo congelato nel tempo. I loro desideri cominciano ad affiorare con intensità inaspettata, conducendoli verso una frattura irreversibile.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "La Gradiva|333|Marine Atlan"
+    },
+    {
       "id": "tmdb-1157869",
       "tmdbId": 1157869,
       "imdbId": "tt36646880",
@@ -214,41 +247,6 @@
       "impronta": "Whalefall - Nella balena|386|Brian Duffield"
     },
     {
-      "id": "tmdb-1437696",
-      "tmdbId": 1437696,
-      "imdbId": "tt37304295",
-      "origine": "trailer",
-      "titolo": "Fatherland",
-      "titoloOriginale": "Ojczyzna",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-16",
-      "regia": "Paweł Pawlikowski",
-      "generi": [
-        "Dramma",
-        "Storia"
-      ],
-      "paesi": [
-        "Polonia",
-        "Germania",
-        "Francia"
-      ],
-      "durata": 82,
-      "tagline": null,
-      "cast": [
-        "Sandra Hüller (Erika Mann)",
-        "Hanns Zischler (Thomas Mann)",
-        "August Diehl (Klaus Mann)",
-        "Anna Madeley (Betty Knox)",
-        "Devid Striesow (Johannes R. Becher)",
-        "David Menkin (Arthur Quint)"
-      ],
-      "tramaTmdb": "Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e sua figlia Erika (Sandra Hüller), attrice, giornalista e pilota di rally. A bordo di una Buick nera intraprendono un viaggio attraverso una Germania in macerie: da Francoforte, sotto l'influenza statunitense, fino a Weimar, controllata dai sovietici. Per la prima volta dopo la guerra, Mann torna nella sua nativa Germania, dopo aver preso la difficile decisione di fuggire negli Stati Uniti per mettersi in salvo.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Fatherland|474|Paweł Pawlikowski"
-    },
-    {
       "id": "tmdb-1117898",
       "tmdbId": 1117898,
       "imdbId": "tt2321555",
@@ -316,6 +314,38 @@
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
     },
     {
+      "id": "tmdb-1437511",
+      "tmdbId": 1437511,
+      "imdbId": "tt35866986",
+      "origine": "trailer",
+      "titolo": "Come rapinare una banca",
+      "titoloOriginale": "How to Rob a Bank",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "David Leitch",
+      "generi": [
+        "Azione",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 90,
+      "tagline": "Chi rapina chi?",
+      "cast": [
+        "Nicholas Hoult (Ryan)",
+        "Zoë Kravitz (Reagan Gardner)",
+        "Anna Sawai",
+        "Rhenzy Feliz",
+        "Pete Davidson (Vince)",
+        "John C. Reilly (Agent West)"
+      ],
+      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+      "motivi": [],
+      "impronta": "Come rapinare una banca|451|David Leitch"
+    },
+    {
       "id": "tmdb-1727734",
       "tmdbId": 1727734,
       "imdbId": "tt43655467",
@@ -380,36 +410,38 @@
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
     },
     {
-      "id": "tmdb-791523",
-      "tmdbId": 791523,
-      "imdbId": "tt2056785",
-      "origine": "trailer",
-      "titolo": "Wildwood - I segreti del bosco proibito",
-      "titoloOriginale": "Wildwood",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Travis Knight",
+      "id": "tmdb-11324",
+      "tmdbId": 11324,
+      "imdbId": "tt1130884",
+      "origine": "scoperta",
+      "titolo": "Shutter Island",
+      "titoloOriginale": "Shutter Island",
+      "anno": "2010",
+      "uscitaItalia": "2010-03-05",
+      "regia": "Martin Scorsese",
       "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantasy"
+        "Dramma",
+        "Thriller",
+        "Mistero"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 132,
-      "tagline": null,
+      "durata": 138,
+      "tagline": "Alcuni posti non ti lasciano mai andare.",
       "cast": [
-        "Peyton Elizabeth Lee (Prue McKeel (voice))",
-        "Jacob Tremblay (Curtis Mehlberg (voice))",
-        "Carey Mulligan (Alexandra (voice))",
-        "Mahershala Ali (Brenden (voice))",
-        "Richard E. Grant (Owl Rex (voice))",
-        "Angela Bassett (The General (voice))"
+        "Leonardo DiCaprio (Teddy Daniels)",
+        "Mark Ruffalo (Chuck Aule)",
+        "Ben Kingsley (Dr. Cawley)",
+        "Max von Sydow (Dr. Naehring)",
+        "Michelle Williams (Dolores)",
+        "Emily Mortimer (Rachel 1)"
       ],
-      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
-      "motivi": [],
-      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+      "tramaTmdb": "Nel 1954, i due agenti federali Teddy Daniels e Chuck Aule vengono inviati all'istituto mentale Ashecliffe di Shutter Island, al largo della costa est, per indagare sull'improvvisa scomparsa di Rachel Solando, una pericolosa infanticida. Il direttore dell'istituto, il dottor Cawley, e i vari infermieri sostengono che la madre assassina si sia come dileguata dalla sua stanza senza lasciare alcuna traccia, ma l'agente Daniels nutre fin dal principio dei forti sospetti sullla gestione dell'ospedale da parte del dottor Cawley e del suo medico assistente, il dottor Naehring. Un uragano costringe i ",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "impronta": "Shutter Island|600|Martin Scorsese"
     }
   ]
 }

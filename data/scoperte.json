@@ -1,7 +1,90 @@
 {
-  "aggiornato": "2026-10-31T10:41:47.493Z",
-  "giorno": "2026-10-31",
-  "film": [],
+  "aggiornato": "2026-11-01T11:36:55.472Z",
+  "giorno": "2026-11-01",
+  "film": [
+    {
+      "tmdbId": 11324,
+      "imdbId": "tt1130884",
+      "title": "Shutter Island",
+      "originalTitle": "Shutter Island",
+      "release": "2010-03-05",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Thriller",
+        "Mistero"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": 138,
+      "plot": "Nel 1954, i due agenti federali Teddy Daniels e Chuck Aule vengono inviati all'istituto mentale Ashecliffe di Shutter Island, al largo della costa est, per indagare sull'improvvisa scomparsa di Rachel Solando, una pericolosa infanticida. Il direttore dell'istituto, il dottor Cawley, e i vari infermieri sostengono che la madre assassina si sia come dileguata dalla sua stanza senza lasciare alcuna traccia, ma l'agente Daniels nutre fin dal principio dei forti sospetti sullla gestione dell'ospedale da parte del dottor Cawley e del suo medico assistente, il dottor Naehring. Un uragano costringe i ",
+      "tagline": "Alcuni posti non ti lasciano mai andare.",
+      "poster": "/kgPRqDDr5RFkIly6CJrBPHYs2qS.jpg",
+      "backdrop": "/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
+      "director": "Martin Scorsese",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Mark Ruffalo",
+        "Ben Kingsley",
+        "Max von Sydow",
+        "Michelle Williams"
+      ],
+      "castDetail": [
+        {
+          "name": "Leonardo DiCaprio",
+          "character": "Teddy Daniels",
+          "profile": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+        },
+        {
+          "name": "Mark Ruffalo",
+          "character": "Chuck Aule",
+          "profile": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Ben Kingsley",
+          "character": "Dr. Cawley",
+          "profile": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+        },
+        {
+          "name": "Max von Sydow",
+          "character": "Dr. Naehring",
+          "profile": "/u16BsGyT6v9yuO7wWAF62NayDth.jpg"
+        },
+        {
+          "name": "Michelle Williams",
+          "character": "Dolores",
+          "profile": "/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+        },
+        {
+          "name": "Emily Mortimer",
+          "character": "Rachel 1",
+          "profile": "/oZ4CZW2eW8lL2alD1mwZrFkfACI.jpg"
+        },
+        {
+          "name": "Patricia Clarkson",
+          "character": "Rachel 2",
+          "profile": "/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+        },
+        {
+          "name": "Jackie Earle Haley",
+          "character": "George Noyce",
+          "profile": "/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+        }
+      ],
+      "tmdbRating": 8.195,
+      "tmdbVotes": 26726,
+      "popularity": 29.0972,
+      "trailer": "https://www.youtube.com/watch?v=mzkVNB3FpSQ",
+      "fonte": "un classico che ti manca",
+      "categoria": "un classico",
+      "perche": "un classico che ti manca",
+      "motivi": [
+        "un classico che ti manca"
+      ],
+      "proposto": "2026-11-01"
+    }
+  ],
   "storico": {
     "11": "2026-10-03",
     "13": "2026-09-30",
@@ -142,6 +225,7 @@
     "10775": "2026-09-27",
     "11036": "2026-10-02",
     "11216": "2026-10-06",
+    "11324": "2026-11-01",
     "11423": "2026-09-28",
     "11474": "2026-09-24",
     "11878": "2026-09-21",
