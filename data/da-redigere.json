@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-01T11:36:54.433Z",
+  "preparato": "2026-11-02T12:59:46.294Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,15 +79,180 @@
   },
   "film": [
     {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
+      "id": "tmdb-1283515",
+      "tmdbId": 1283515,
+      "imdbId": "tt32261958",
+      "titolo": "Verity",
       "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-05-15",
-      "lista": "casa",
-      "regia": "Adam Stein",
+      "anno": "2026",
+      "uscitaItalia": "2026-10-01",
+      "lista": "cinema",
+      "regia": "Michael Showalter",
+      "generi": [
+        "Mistero",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 121,
+      "tagline": "Dove andiamo non c'è luce",
+      "cast": [
+        "Dakota Johnson (Lowen Ashleigh)",
+        "Anne Hathaway (Verity Crawford)",
+        "Josh Hartnett (Jeremy Crawford)",
+        "Brady Wagner (Crew Crawford)",
+        "Ismael Cruz Cordova (Corey)",
+        "Ірина Дворовенко (Anna)",
+        "Sienna Kulovitz (Harper Crawford)",
+        "K.K. Moggie (Amanda Thomas)"
+      ],
+      "tramaTmdb": "Lowen Ashleigh, una scrittrice in difficoltà, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford. Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy, trovando difficile distinguere la finzione dalla realtà, la manipolazione dall'attrazione e l'opportunità dall'ossessione.",
+      "impronta": "Verity|463|Michael Showalter"
+    },
+    {
+      "id": "tmdb-1412795",
+      "tmdbId": 1412795,
+      "imdbId": "tt23411728",
+      "titolo": "L'estranea",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-08",
+      "lista": "cinema",
+      "regia": "Paolo Strippoli",
+      "generi": [
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "Belgio",
+        "Francia",
+        "Italia"
+      ],
+      "durata": 115,
+      "tagline": null,
+      "cast": [
+        "Jasmine Trinca (Anna)",
+        "Romana Maggiora Vergano (Alice)",
+        "Adriano Giannini (Walter)",
+        "Valeria Bruni Tedeschi (Stranger)",
+        "Gabriella Telegrafo (Alice (1999))",
+        "Alessandro Carbonara (Tobia (1999))",
+        "Mariandrea Cesari (Alice (2006))",
+        "Andrea Rossini (Tobia (2006))"
+      ],
+      "tramaTmdb": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
+      "impronta": "L'estranea|273|Paolo Strippoli"
+    },
+    {
+      "id": "tmdb-1375441",
+      "tmdbId": 1375441,
+      "imdbId": "tt34206385",
+      "titolo": "Primetime",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "lista": "cinema",
+      "regia": "Lance Oppenheim",
+      "generi": [
+        "Dramma",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": "Siete pronti ad entrare nella storia della televisione?",
+      "cast": [
+        "Robert Pattinson (Chris Hansen)",
+        "Merritt Wever (Andie Bender)",
+        "Skyler Gisondo (Dan Plum)",
+        "Matthew Maher (Xavier Von Erck)",
+        "Phoebe Bridgers (Del)",
+        "Victor Brunette (Frag)",
+        "Bokeem Woodbine (Cortland Gunn)",
+        "Michael Chachere (Michael Chachere)"
+      ],
+      "tramaTmdb": "Nel 2006 il giornalista Chris Hansen si prepara a fare la storia della televisione con To Catch a Predator, il controverso format che, attraverso operazioni sotto copertura e telecamere nascoste, smaschera in diretta tv predatori sessuali colti sul fatto. Mentre il programma diventa un fenomeno nazionale e il suo conduttore un’icona del pubblico, il confine tra informazione, giustizia e spettacolo si fa sempre più ambiguo e il cortocircuito fra cronaca, intrattenimento e voyeurismo televisivo sempre più insostenibile.",
+      "impronta": "Primetime|523|Lance Oppenheim"
+    },
+    {
+      "id": "tmdb-1503762",
+      "tmdbId": 1503762,
+      "imdbId": "tt13609648",
+      "titolo": "Ragione e sentimento",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "lista": "cinema",
+      "regia": "Georgia Oakley",
+      "generi": [
+        "Romance",
+        "Dramma",
+        "Storia"
+      ],
+      "paesi": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": "No one knows your heart like a sister.",
+      "cast": [
+        "Daisy Edgar-Jones (Elinor Dashwood)",
+        "Esmé Creed-Miles (Marianne Dashwood)",
+        "Caitríona Balfe (Mrs. Dashwood)",
+        "Frank Dillane (John Willoughby)",
+        "Herbert Nordrum (Colonel Brandon)",
+        "George MacKay (Edward Ferrars)",
+        "Fiona Shaw (Mrs. Jennings)",
+        "Bodhi Rae Breathnach (Margaret Dashwood)"
+      ],
+      "tramaTmdb": "La storia segue le vicende delle sorelle Elinor e Marianne Dashwood che, insieme alla madre e alla sorella minore Margaret, si ritrovano improvvisamente in ristrettezze economiche dopo la morte del padre, la cui eredità passa interamente al fratellastro John a causa delle leggi dell’epoca. Sfrattate dalla loro casa di famiglia nel Sussex, le donne Dashwood si trasferiscono in un modesto cottage nel Devonshire. Qui le due sorelle maggiori, profondamente diverse per temperamento – Elinor è guidata dalla prudenza e dal controllo delle emozioni (sense, la ragione), Marianne dall’impulso e dalla passione romantica (sensibility, il sentimento) –, dovranno navigare tra le rigide convenzioni sociali e i dolori dei loro rispettivi e tormentati primi amori, incarnati dalle figure di Edward Ferrars, John Willoughby e del colonnello Brandon.",
+      "impronta": "Ragione e sentimento|841|Georgia Oakley"
+    },
+    {
+      "id": "tmdb-791523",
+      "tmdbId": 791523,
+      "imdbId": "tt2056785",
+      "titolo": "Wildwood - I segreti del bosco proibito",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "lista": "cinema",
+      "regia": "Travis Knight",
+      "generi": [
+        "Animazione",
+        "Avventura",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 132,
+      "tagline": "How far would you go for those you love?",
+      "cast": [
+        "Peyton Elizabeth Lee (Prue McKeel (voice))",
+        "Jacob Tremblay (Curtis Mehlberg (voice))",
+        "Carey Mulligan (Alexandra (voice))",
+        "Mahershala Ali (Brenden (voice))",
+        "Richard E. Grant (Owl Rex (voice))",
+        "Angela Bassett (The General (voice))",
+        "Awkwafina (Septima (voice))",
+        "Amandla Stenberg (Niamh (voice))"
+      ],
+      "tramaTmdb": "Wildwood, nei dintorni di Portland, è un posto da cui tenersi lontani e che dovrebbe rimanere nascosto a tutti. Prue McKeel, tuttavia, è costretta a raggiungerlo dopo che il fratellino Mac è stato rapito da uno stormo di corvi e trasportato nei meandri della foresta. Insieme allo sfortunato compagno di classe Curtis, Prue corre a salvare Mac da un pericolo che sembra uscito dalle pagine di una favola.",
+      "impronta": "Wildwood - I segreti del bosco proibito|404|Travis Knight"
+    },
+    {
+      "id": "tmdb-1422011",
+      "tmdbId": 1422011,
+      "imdbId": "tt35519455",
+      "titolo": "It Ends",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-28",
+      "lista": "cinema",
+      "regia": "Alexander Ullom",
       "generi": [
         "Horror",
         "Mistero"
@@ -95,20 +260,218 @@
       "paesi": [
         "USA"
       ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
+      "durata": 89,
+      "tagline": "Some wrong turns last forever.",
       "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
+        "Phinehas Yoon (James)",
+        "Akira Jackson (Day)",
+        "Noah Toth (Fisher)",
+        "Mitchell Cole (Tyler)",
+        "Jenny Doyle (Fisher's Mom (voice))",
+        "Jon Linstad (Interrogated Man)",
+        "Ian Weir (Lost Man)",
+        "Alexander Ullom (Passenger)"
       ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Adam Stein"
+      "tramaTmdb": "Quattro amici appena diplomati partono per un giro in auto a tarda notte, sperando di godersi un’ultima serata insieme prima che le loro vie si dividano, ma si ritrovano intrappolati in una misteriosa strada senza fine, circondati da fenomeni inspiegabili e presenze terrificanti. Mentre la realtà sembra sgretolarsi intorno a loro, dovranno decidere se accettare il proprio destino o tentare una fuga impossibile.",
+      "impronta": "It Ends|414|Alexander Ullom"
+    },
+    {
+      "id": "tmdb-1477712",
+      "tmdbId": 1477712,
+      "imdbId": "tt36893729",
+      "titolo": "Ice Cream Man",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-29",
+      "lista": "cinema",
+      "regia": "Eli Roth",
+      "generi": [
+        "Horror",
+        "Commedia",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA",
+        "Gran Bretagna",
+        "Francia",
+        "Giappone"
+      ],
+      "durata": 86,
+      "tagline": "We all scream.",
+      "cast": [
+        "Ari Millen (The Ice Cream Man / Jonathan Smiley)",
+        "Charlie Zeltzer (Jared)",
+        "Shiloh O’Reilly (Tommy)",
+        "Kiori Mirza Waldman (Mia)",
+        "Sarah Abbott (Lizzie)",
+        "Benjamin Byron Davis (The Priest)",
+        "Karen Cliche (Alison)",
+        "Dylan Hawco (Chris)"
+      ],
+      "tramaTmdb": "Un'idilliaca cittadina di villeggiatura estiva precipita nell’orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
+      "impronta": "Ice Cream Man|156|Eli Roth"
+    },
+    {
+      "id": "tmdb-1381071",
+      "tmdbId": 1381071,
+      "imdbId": "tt34384661",
+      "titolo": "Godzilla Minus Zero",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "lista": "cinema",
+      "regia": "Takashi Yamazaki",
+      "generi": [
+        "Fantascienza",
+        "Horror",
+        "Azione"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 135,
+      "tagline": "There is no third time. Everything ends here.",
+      "cast": [
+        "Ryūnosuke Kamiki (Koichi Shikishima)",
+        "浜辺美波 (Noriko Oishi)",
+        "山田裕貴 (Shiro Mizushima)",
+        "Kuranosuke Sasaki (Seiji Akitsu)",
+        "Jun Kunimura",
+        "田中美央 (Captain Tatsuo Hotta)",
+        "Sakura Ando (Sumiko Ota)",
+        "長澤まさみ (Aoyama)"
+      ],
+      "tramaTmdb": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
+      "impronta": "Godzilla Minus Zero|379|Takashi Yamazaki"
+    },
+    {
+      "id": "tmdb-1421903",
+      "tmdbId": 1421903,
+      "imdbId": "tt35514120",
+      "titolo": "Werwulf",
+      "titoloOriginale": null,
+      "anno": "2027",
+      "uscitaItalia": "2027-01-01",
+      "lista": "cinema",
+      "regia": "Robert Eggers",
+      "generi": [
+        "Horror"
+      ],
+      "paesi": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": "Devoureth all mankynde.",
+      "cast": [
+        "Aaron Taylor-Johnson (Man)",
+        "Lily-Rose Depp (Woman)",
+        "Willem Dafoe (Old Hunter)",
+        "Bodhi Rae Breathnach (Daughter)",
+        "Ralph Ineson (One-Eyed Hunter)",
+        "Vidal Arzoni (Man (young))",
+        "Ned Dennehy (Friar)",
+        "Jack Morris (Young Hunter)"
+      ],
+      "tramaTmdb": "Ambientata nell'Inghilterra del XIII secolo, la storia si concentra sugli abitanti dei villaggi locali perseguitati da una creatura misteriosa. Mentre gli attacchi continuano, l'antico folklore e la superstizione sanguinano in una realtà terrificante. Sebbene i dettagli ufficiali della trama siano scarsi, il film sarà una versione storica del mito del lupo mannaro.",
+      "impronta": "Werwulf|367|Robert Eggers"
+    },
+    {
+      "id": "tmdb-1153576",
+      "tmdbId": 1153576,
+      "imdbId": "tt27419420",
+      "titolo": "Street Fighter",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "lista": "casa",
+      "regia": "Kitao Sakurai",
+      "generi": [
+        "Azione",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone",
+        "USA"
+      ],
+      "durata": 120,
+      "tagline": "Ready. Set. Fight.",
+      "cast": [
+        "Andrew Koji (Ryu)",
+        "Noah Centineo (Ken Masters)",
+        "Callina Liang (Chun-Li)",
+        "David Dastmalchian (M. Bison)",
+        "Andrew Schulz (Dan Hibiki)",
+        "Joe Anoa'i (Akuma)",
+        "Cody Rhodes (Guile)",
+        "Jason Momoa (Blanka)"
+      ],
+      "tramaTmdb": "1993. Un’epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un’ombra. Una cospirazione letale che costringerà Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perché qui non esistono seconde possibilità: se perdi, è GAME OVER.",
+      "impronta": "Street Fighter|703|Kitao Sakurai"
+    },
+    {
+      "id": "tmdb-1255833",
+      "tmdbId": 1255833,
+      "imdbId": "tt28535715",
+      "titolo": "Whalefall - Nella balena",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-15",
+      "lista": "casa",
+      "regia": "Brian Duffield",
+      "generi": [
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 106,
+      "tagline": "Trattieni il respiro",
+      "cast": [
+        "Austin Abrams (Jay Gardiner)",
+        "Josh Brolin (Mitt Gardiner)",
+        "Elisabeth Shue (Zara Gardiner)",
+        "John Ortiz (Hewey)",
+        "Jane Levy (Eva Gardiner)",
+        "Emily Rudd (Nan Gardiner)",
+        "Kamy D. Bruder (Whale Watcher Man)",
+        "Mark Meloro Jr. (Whale Watcher Man)"
+      ],
+      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
+      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+    },
+    {
+      "id": "tmdb-858035",
+      "tmdbId": 858035,
+      "imdbId": "tt14371256",
+      "titolo": "Klara e il sole",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-10-22",
+      "lista": "casa",
+      "regia": "Taika Waititi",
+      "generi": [
+        "Fantascienza",
+        "Dramma"
+      ],
+      "paesi": [
+        "Gran Bretagna",
+        "USA"
+      ],
+      "durata": 116,
+      "tagline": "Il futuro dell'amicizia è qui",
+      "cast": [
+        "Jenna Ortega (Klara)",
+        "Mia Tharia (Josie)",
+        "Amy Adams (Chrissie)",
+        "Natasha Lyonne (Manager)",
+        "Aran Murphy (Rick)",
+        "Rachel House (Melania)",
+        "Steve Buscemi (Capaldi)",
+        "Davida McKenzie (Simone)"
+      ],
+      "tramaTmdb": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
+      "impronta": "Klara e il sole|412|Taika Waititi"
     }
   ]
 }

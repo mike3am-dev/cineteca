@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-01T11:36:55.473Z",
+  "preparato": "2026-11-02T12:59:46.727Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -214,37 +214,36 @@
       "impronta": "Avengers: Doomsday|269|Joe Russo"
     },
     {
-      "id": "tmdb-1255833",
-      "tmdbId": 1255833,
-      "imdbId": "tt28535715",
+      "id": "tmdb-1567605",
+      "tmdbId": 1567605,
+      "imdbId": "tt38773219",
       "origine": "trailer",
-      "titolo": "Whalefall - Nella balena",
-      "titoloOriginale": "Whalefall",
+      "titolo": "Scrooge e gli spiriti del Natale",
+      "titoloOriginale": "Ebenezer",
       "anno": "2026",
-      "uscitaItalia": "2026-10-15",
-      "regia": "Brian Duffield",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Ti West",
       "generi": [
-        "Thriller"
+        "Fantasy",
+        "Commedia"
       ],
       "paesi": [
-        "USA"
+        "USA",
+        "Regno Unito"
       ],
-      "durata": 106,
-      "tagline": "Trattieni il respiro",
+      "durata": 115,
+      "tagline": null,
       "cast": [
-        "Austin Abrams (Jay Gardiner)",
-        "Josh Brolin (Mitt Gardiner)",
-        "Elisabeth Shue (Zara Gardiner)",
-        "John Ortiz (Hewey)",
-        "Jane Levy (Eva Gardiner)",
-        "Emily Rudd (Nan Gardiner)"
+        "Johnny Depp (Ebenezer Scrooge)",
+        "Rupert Grint (Bob Cratchit)",
+        "Daisy Ridley (Emily Cratchit)",
+        "Andrea Riseborough (Ghost of Christmas Past)",
+        "Tramell Tillman (Ghost of Christmas Present)",
+        "Ian McKellen (Jacob Marley)"
       ],
-      "tramaTmdb": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre è intrappolato nel suo ventre con solo un’ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
-      "motivi": [
-        "c'è Josh Brolin, che hai visto 2 volte",
-        "thriller, il tuo terreno"
-      ],
-      "impronta": "Whalefall - Nella balena|386|Brian Duffield"
+      "tramaTmdb": null,
+      "motivi": [],
+      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
     },
     {
       "id": "tmdb-1117898",
@@ -282,36 +281,37 @@
       "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
-      "id": "tmdb-1567605",
-      "tmdbId": 1567605,
-      "imdbId": "tt38773219",
+      "id": "tmdb-1195803",
+      "tmdbId": 1195803,
+      "imdbId": "tt29611136",
       "origine": "trailer",
-      "titolo": "Scrooge e gli spiriti del Natale",
-      "titoloOriginale": "Ebenezer",
+      "titolo": "Wicker",
+      "titoloOriginale": "Wicker",
       "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Ti West",
+      "uscitaItalia": "2026-10-21",
+      "regia": "Alex Huston Fischer",
       "generi": [
+        "Romance",
         "Fantasy",
         "Commedia"
       ],
       "paesi": [
-        "USA",
-        "Regno Unito"
+        "Regno Unito",
+        "USA"
       ],
-      "durata": 115,
+      "durata": 105,
       "tagline": null,
       "cast": [
-        "Johnny Depp (Ebenezer Scrooge)",
-        "Rupert Grint (Bob Cratchit)",
-        "Daisy Ridley (Emily Cratchit)",
-        "Andrea Riseborough (Ghost of Christmas Past)",
-        "Tramell Tillman (Ghost of Christmas Present)",
-        "Ian McKellen (Jacob Marley)"
+        "Olivia Colman (The Fisherwoman)",
+        "Alexander Skarsgård (The Wicker Husband)",
+        "Peter Dinklage (The Basketmaker)",
+        "Elizabeth Debicki (The Tailor’s Wife)",
+        "Marli Siu (The Bottlewasher’s Wife)",
+        "Nabhaan Rizwan (The Tailor)"
       ],
-      "tramaTmdb": null,
+      "tramaTmdb": "Alla periferia di un villaggio sul mare vive una pescatrice single e perennemente derisa. Un giorno, stufa dei suoi vicini bigotti e dalla mentalità ristretta, desiderosa di trovare l'amore, la donna commissiona a un mastro cestaio del villaggio la creazione di un marito fatto interamente di vimini.  L'uomo intrecciato (interpretato da Alexander Skarsgård) si rivela sorprendentemente affascinante, devoto e superiore ad ogni aspettativa, trasformandosi così in un compagno ideale.  La felicità della coppia e il legame fuori dagli schemi scatenano però un’ondata di gelosia, scandalo e sconcerto t",
       "motivi": [],
-      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
+      "impronta": "Wicker|600|Alex Huston Fischer"
     },
     {
       "id": "tmdb-1437511",
@@ -336,7 +336,7 @@
       "cast": [
         "Nicholas Hoult (Ryan)",
         "Zoë Kravitz (Reagan Gardner)",
-        "Anna Sawai",
+        "Anna Sawai (Emi)",
         "Rhenzy Feliz",
         "Pete Davidson (Vince)",
         "John C. Reilly (Agent West)"
@@ -408,40 +408,6 @@
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
-      "id": "tmdb-11324",
-      "tmdbId": 11324,
-      "imdbId": "tt1130884",
-      "origine": "scoperta",
-      "titolo": "Shutter Island",
-      "titoloOriginale": "Shutter Island",
-      "anno": "2010",
-      "uscitaItalia": "2010-03-05",
-      "regia": "Martin Scorsese",
-      "generi": [
-        "Dramma",
-        "Thriller",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 138,
-      "tagline": "Alcuni posti non ti lasciano mai andare.",
-      "cast": [
-        "Leonardo DiCaprio (Teddy Daniels)",
-        "Mark Ruffalo (Chuck Aule)",
-        "Ben Kingsley (Dr. Cawley)",
-        "Max von Sydow (Dr. Naehring)",
-        "Michelle Williams (Dolores)",
-        "Emily Mortimer (Rachel 1)"
-      ],
-      "tramaTmdb": "Nel 1954, i due agenti federali Teddy Daniels e Chuck Aule vengono inviati all'istituto mentale Ashecliffe di Shutter Island, al largo della costa est, per indagare sull'improvvisa scomparsa di Rachel Solando, una pericolosa infanticida. Il direttore dell'istituto, il dottor Cawley, e i vari infermieri sostengono che la madre assassina si sia come dileguata dalla sua stanza senza lasciare alcuna traccia, ma l'agente Daniels nutre fin dal principio dei forti sospetti sullla gestione dell'ospedale da parte del dottor Cawley e del suo medico assistente, il dottor Naehring. Un uragano costringe i ",
-      "motivi": [
-        "un classico che ti manca"
-      ],
-      "impronta": "Shutter Island|600|Martin Scorsese"
     }
   ]
 }
