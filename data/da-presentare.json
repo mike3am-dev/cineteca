@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-02T12:59:46.727Z",
+  "preparato": "2026-11-03T12:33:53.902Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -78,6 +78,40 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1457866",
+      "tmdbId": 1457866,
+      "imdbId": "tt36408401",
+      "origine": "trailer",
+      "titolo": "Le avventure di Cliff Booth",
+      "titoloOriginale": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "David Fincher",
+      "generi": [
+        "Dramma",
+        "Commedia",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": null,
+      "tagline": null,
+      "cast": [
+        "Brad Pitt (Cliff Booth)",
+        "Elizabeth Debicki (Karen Crosby)",
+        "Scott Caan (Charlie Peters)",
+        "Yahya Abdul-Mateen II (Roderick 'Hot Rod' Harrison)",
+        "Carla Gugino (Toni Peters)",
+        "Peter Weller (Gus Booth)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [
+        "dramma e thriller: il tuo terreno"
+      ],
+      "impronta": "Le avventure di Cliff Booth|0|David Fincher"
+    },
     {
       "id": "tmdb-1591675",
       "tmdbId": 1591675,
@@ -144,42 +178,6 @@
       "impronta": "La Gradiva|333|Marine Atlan"
     },
     {
-      "id": "tmdb-1157869",
-      "tmdbId": 1157869,
-      "imdbId": "tt36646880",
-      "origine": "trailer",
-      "titolo": "Storie parallele",
-      "titoloOriginale": "Histoires parallèles",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "اصغر فرهادی",
-      "generi": [
-        "Dramma",
-        "Thriller",
-        "Mistero"
-      ],
-      "paesi": [
-        "Francia",
-        "Belgio",
-        "Italia"
-      ],
-      "durata": 139,
-      "tagline": null,
-      "cast": [
-        "Isabelle Huppert (Sylvie)",
-        "Virginie Efira (Anna / Nita)",
-        "Vincent Cassel (Pierre / Nicolas)",
-        "Pierre Niney (Christophe / Théo)",
-        "Adam Bessa (Adam)",
-        "Catherine Deneuve (Céline)"
-      ],
-      "tramaTmdb": "Sylvie, una scrittrice in cerca d’ispirazione per il suo nuovo romanzo, inizia a osservare di nascosto i vicini, immaginando le loro vite. Quando assume il giovane Adam per aiutarla nella quotidianità, la sua presenza sconvolge ogni equilibrio, fino a rendere sempre più sottile il confine tra realtà e finzione.",
-      "motivi": [
-        "dramma e thriller: il tuo terreno"
-      ],
-      "impronta": "Storie parallele|312|اصغر فرهادی"
-    },
-    {
       "id": "tmdb-1003596",
       "tmdbId": 1003596,
       "imdbId": "tt21357150",
@@ -212,6 +210,71 @@
         "fantascienza e avventura: il tuo terreno"
       ],
       "impronta": "Avengers: Doomsday|269|Joe Russo"
+    },
+    {
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
+      "origine": "trailer",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": null,
+      "cast": [
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Tom Waits (Jim)",
+        "Parker Posey (Marge)",
+        "Mariana di Girolamo (Monica)"
+      ],
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+      "motivi": [],
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
+      "id": "tmdb-1437511",
+      "tmdbId": 1437511,
+      "imdbId": "tt35866986",
+      "origine": "trailer",
+      "titolo": "Come rapinare una banca",
+      "titoloOriginale": "How to Rob a Bank",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "David Leitch",
+      "generi": [
+        "Azione",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 90,
+      "tagline": "Chi rapina chi?",
+      "cast": [
+        "Nicholas Hoult (Ryan)",
+        "Zoë Kravitz (Reagan Gardner)",
+        "Anna Sawai (Emi)",
+        "Rhenzy Feliz",
+        "Pete Davidson (Vince)",
+        "John C. Reilly (Agent West)"
+      ],
+      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+      "motivi": [],
+      "impronta": "Come rapinare una banca|451|David Leitch"
     },
     {
       "id": "tmdb-1567605",
@@ -256,11 +319,11 @@
       "uscitaItalia": "2026-11-05",
       "regia": "Erica Rivinoja",
       "generi": [
+        "Avventura",
         "Animazione",
         "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Famiglia"
+        "Famiglia",
+        "Fantasy"
       ],
       "paesi": [
         "Regno Unito",
@@ -314,38 +377,6 @@
       "impronta": "Wicker|600|Alex Huston Fischer"
     },
     {
-      "id": "tmdb-1437511",
-      "tmdbId": 1437511,
-      "imdbId": "tt35866986",
-      "origine": "trailer",
-      "titolo": "Come rapinare una banca",
-      "titoloOriginale": "How to Rob a Bank",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "David Leitch",
-      "generi": [
-        "Azione",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 90,
-      "tagline": "Chi rapina chi?",
-      "cast": [
-        "Nicholas Hoult (Ryan)",
-        "Zoë Kravitz (Reagan Gardner)",
-        "Anna Sawai (Emi)",
-        "Rhenzy Feliz",
-        "Pete Davidson (Vince)",
-        "John C. Reilly (Agent West)"
-      ],
-      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
-      "motivi": [],
-      "impronta": "Come rapinare una banca|451|David Leitch"
-    },
-    {
       "id": "tmdb-1727734",
       "tmdbId": 1727734,
       "imdbId": "tt43655467",
@@ -375,39 +406,6 @@
       "tramaTmdb": "Dopo vent'anni trascorsi a \"rilassarsi, farsi canne e scopare\", Ali G rimane scioccato nello scoprire che la sua fidanzata storica, Julie, è incinta all'ottavo mese. Messo di fronte a una bocca in più da sfamare, si dà una mossa e parte per l'America nel tentativo di riconquistare i fasti di un tempo... ma ben presto si imbatte in avversari che finiranno per minacciare la sua stessa esistenza e quella di suo figlio.",
       "motivi": [],
       "impronta": "Ali G: Who Iz I?|419|Sacha Baron Cohen"
-    },
-    {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
-      "generi": [
-        "Commedia",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": null,
-      "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Tom Waits (Jim)"
-      ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
     }
   ]
 }

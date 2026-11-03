@@ -1,34 +1,4 @@
 {
-  "https://movieplayer.it/news/terminator-7-linda-hamilton-boccia-reboot-james-cameron-io-sono-fuori_171577/": {
-    "titolo": "Linda Hamilton dice no al reboot di Terminator voluto da James Cameron",
-    "sommario": "L'attrice ha escluso un ritorno nei panni di Sarah Connor e si è detta sorpresa che Hollywood voglia ripartire ancora una volta dalla saga.",
-    "perche": "Cameron riparte da Terminator senza Sarah Connor: l'autore che hai già seguito",
-    "sezione": "notizia"
-  },
-  "https://www.badtaste.it/articoli/le-cronache-di-narnia-il-nuovo-film-di-greta-gerwig-divide-i-fan-la-famiglia-di-cs-lewis-prende-posizione": {
-    "titolo": "Il Narnia di Greta Gerwig divide i fan, interviene la famiglia di C.S. Lewis",
-    "sommario": "Dopo il trailer il film tratto dalle Cronache di Narnia ha spaccato il pubblico; gli eredi dello scrittore hanno preso posizione sulle polemiche.",
-    "perche": "La regista di Barbie, che hai visto, alle prese con un classico e con i suoi custodi",
-    "sezione": "notizia"
-  },
-  "https://www.cineblog.it/post/festa-cinema-roma-2026-programma": {
-    "titolo": "Festa del Cinema di Roma, la settimana di Waititi, Luchetti e dei restauri",
-    "sommario": "Tra le anteprime Klara e il Sole di Taika Waititi e il nuovo film di Luchetti, insieme alle copie restaurate e agli incontri con i registi.",
-    "perche": "Klara e il Sole è la fantascienza intima di Ishiguro: esattamente il tuo terreno",
-    "sezione": "notizia"
-  },
-  "https://www.badtaste.it/articoli/sarebbe-inorridito-lex-di-pino-daniele-contro-je-so-pazzo-il-film-non-racconterebbe-la-verita": {
-    "titolo": "L'ex compagna di Pino Daniele contesta la ricostruzione di Je so' pazzo",
-    "sommario": "Amanda Bonini critica alcune scene del film e il ritratto delle zie del cantautore, sostenendo che il racconto non sia fedele alla realtà.",
-    "perche": "Il biopic italiano più visto del momento messo alla prova da chi c'era davvero",
-    "sezione": "curiosita"
-  },
-  "https://www.badtaste.it/recensioni/festa-del-cinema-di-roma-2026-e-andata-cosi-la-recensione-gianni-zanasi-cinema-in-direzione-ostinata-e-contraria": {
-    "titolo": "È andata così, Gianni Zanasi porta a Roma un film sulla messa in scena",
-    "sommario": "La recensione di BadTaste descrive un film costruito sulla finzione dichiarata, in aperta controtendenza rispetto al cinema italiano da festival.",
-    "perche": "Zanasi resta il regista italiano che lavora meglio sull'imbarazzo e sul caso",
-    "sezione": "approfondimento"
-  },
   "https://deadline.com/2026/10/snl-uk-cynthia-eriva-nigerian-wicked-sapphic-parody-1237172417/": {
     "titolo": "SNL UK e Cynthia Erivo, parodia saffica di Wicked in versione nigeriana",
     "sommario": "Saturday Night Live UK ha risposto ai fan di Elphaba e Glinda con una parodia che vede protagonista Cynthia Erivo.",
@@ -215,12 +185,6 @@
     "perche": "Utile se segui il cinema, ma poco legato ai tuoi gusti.",
     "sezione": "notizia"
   },
-  "https://www.screenweek.it/the-debut-la-grande-occasione-trailer-italiano-ufficiale/": {
-    "titolo": "The Debut - La grande occasione, trailer italiano",
-    "sommario": "Il trailer ufficiale in italiano.",
-    "perche": "Utile se segui il cinema, ma poco legato ai tuoi gusti.",
-    "sezione": "notizia"
-  },
   "https://movieplayer.it/news/festa-del-cinema-roma-i-vincitori-2026_171654/": {
     "titolo": "Festa del Cinema di Roma 2026, i vincitori: trionfa I See Buildings Fall Like Lightning",
     "sommario": "Il film di Clio Barnard vince; premi anche a Kasia Smutniak per Mustang e a Paolo Pierobon.",
@@ -239,18 +203,6 @@
     "perche": "Ragione e sentimento è nel tuo radar: nuova versione di Austen.",
     "sezione": "notizia"
   },
-  "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328/": {
-    "titolo": "Godzilla Minus Zero al Tokyo Film Festival: fan in costume e due proiezioni esaurite",
-    "sommario": "Il sequel di Takashi Yamazaki, con Ryunosuke Kamiki e Minami Hamabe, è stato accolto da applausi in due proiezioni sold out, prima dell'uscita del 3 novembre.",
-    "perche": "Un kaiju d'autore dopo l'Oscar: segnati la data in Giappone.",
-    "sezione": "scarta"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227/": {
-    "titolo": "Klara e il sole, Waititi contro la critica: «Sad lost souls»",
-    "sommario": "Il film distopico con Jenna Ortega e Amy Adams riceve recensioni negative; il regista risponde duramente sui social.",
-    "perche": "Doppione dello stesso caso: segui l'uscita prima di giudicare.",
-    "sezione": "scarta"
-  },
   "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close": {
     "titolo": "La Bola Negra, il kolossal queer con Penélope Cruz e Glenn Close verso gli Oscar",
     "sommario": "Epopea di guerra e pregiudizio già premiata, con Cruz in parrucca bionda e Glenn Close che parla spagnolo; il Guardian incontra gli autori.",
@@ -262,12 +214,6 @@
     "sommario": "A meno di due mesi da Avengers: Doomsday, Robert Downey Jr. e Pedro Pascal si sono scambiati i ruoli MCU in un costume di coppia per Halloween.",
     "perche": "Un'occhiata leggera al film che si contenderà il Natale con Dune.",
     "sezione": "curiosita"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/how-patrick-stewart-saved-green-room-scrapped-jeremy-saulnier-1236744241/": {
-    "titolo": "Green Room, Saulnier: Patrick Stewart salvò il film dalla chiusura",
-    "sommario": "Prima della proiezione, il regista ha detto che il progetto era a un passo dallo stop quando Stewart espresse interesse.",
-    "perche": "Doppione dello stesso evento già coperto.",
-    "sezione": "scarta"
   },
   "https://www.hollywoodreporter.com/movies/movie-features/street-fighter-director-1994-steven-de-souza-jokes-1236741401/": {
     "titolo": "Street Fighter del 1994, il regista difende il tono comico del film",
@@ -377,24 +323,6 @@
     "perche": "Cinema giapponese da festival.",
     "sezione": "notizia"
   },
-  "https://www.everyeye.it/notizie/mass-effect-universe-trailer-trapelato-chiusura-bioware-vero-907504.html": {
-    "titolo": "Mass Effect Universe: il trailer trapelato è autentico",
-    "sommario": "Jason Schreier di Bloomberg conferma il trailer e il nome del gioco, cancellato dopo la chiusura di BioWare.",
-    "perche": "Videogiochi, non cinema.",
-    "sezione": "scarta"
-  },
-  "https://movieplayer.it/news/dune-parte-tre-trailer-finale-destino-paul-atreides_171698/": {
-    "titolo": "Dune - Parte Tre, il trailer finale: Paul contro la cospirazione di Chani",
-    "sommario": "Paul Atreides è schiacciato dal peso del potere mentre una cospirazione guidata da Chani minaccia di fermare il suo impero.",
-    "perche": "Doppione del trailer finale già segnalato.",
-    "sezione": "scarta"
-  },
-  "https://www.badtaste.it/articoli/lalba-sulla-mietitura-riporta-in-vita-hunger-games-le-prime-reazioni-degli-spettatori-al-film": {
-    "titolo": "Hunger Games L'alba sulla mietitura: le prime reazioni lo paragonano a Rogue One",
-    "sommario": "I critici elogiano il film e Joseph Zada nei panni del giovane Haymitch; i primi giudizi sono entusiasti.",
-    "perche": "Doppione delle prime reazioni già coperte.",
-    "sezione": "scarta"
-  },
   "https://www.badtaste.it/articoli/il-regista-di-obsession-regala-ai-fan-un-nuovo-corto-horror-gratuito-che-potrebbe-espandere-il-film": {
     "titolo": "Curry Barker, regista di Obsession, pubblica un corto horror gratuito",
     "sommario": "Mama Bear è su YouTube dalle 16.30 di oggi e potrebbe espandere il mondo del film.",
@@ -412,12 +340,6 @@
     "sommario": "Il film d'azione di Jaume Collet-Serra ha un nuovo protagonista dopo l'uscita di Alan Ritchson dal progetto.",
     "perche": "Thriller d'azione di un regista solido, con un volto amato.",
     "sezione": "notizia"
-  },
-  "https://www.badtaste.it/editoriali/007-come-sara-e-come-vorremmo-che-fosse-il-nuovo-film-di-james-bond": {
-    "titolo": "Il prossimo film di James Bond: cosa aspettarsi e cosa sperare",
-    "sommario": "BadTaste immagina il film dopo l'annuncio che l'identità del nuovo 007 sarà svelata a breve.",
-    "perche": "Speculazione, ma Bond è sempre attuale.",
-    "sezione": "scarta"
   },
   "https://movieplayer.it/news/batman-james-gunn-casting-dcu-nuovo-cavaliere-oscuro-eta-superman_171738/": {
     "titolo": "Batman, Gunn: il nuovo Cavaliere Oscuro avrà l'età di Superman",
@@ -437,12 +359,6 @@
     "perche": "Action da streaming con due volti noti.",
     "sezione": "approfondimento"
   },
-  "https://www.badtaste.it/articoli/ballando-con-le-stelle-monica-guerritore-racconta-la-delusione-per-i-david-di-donatello-mi-sono-ammalata": {
-    "titolo": "Monica Guerritore: «Mi sono ammalata» per i David di Donatello non ottenuti",
-    "sommario": "A Ballando con le stelle l'attrice racconta il dolore per l'esclusione del film Anna dalle candidature.",
-    "perche": "Gossip da tv.",
-    "sezione": "scarta"
-  },
   "https://www.everyeye.it/notizie/hunger-games-alba-mietitura-paura-gta-6-regista-ammette-sfortunatamente-escono-contemporanea-908585.html": {
     "titolo": "Hunger Games L'alba sulla mietitura esce con GTA 6: il regista ammette",
     "sommario": "Il regista dice «sfortunatamente» che il film esce insieme a GTA 6, mentre i publisher evitano novembre.",
@@ -454,12 +370,6 @@
     "sommario": "Il film, presentato a Cannes e Roma, è una commedia drammatica queer sulla paternità inattesa.",
     "perche": "Firstman premiato a Santa Barbara; film da festival.",
     "sezione": "notizia"
-  },
-  "https://movieplayer.it/news/patrick-stewart-cinema-ultima-volta-ian-mckellen-hugh-jackman_171736/": {
-    "titolo": "Patrick Stewart, il cordoglio di McKellen, Jackman e Hollywood",
-    "sommario": "Colleghi e amici ricordano l'interprete di Picard e Xavier dopo la sua scomparsa.",
-    "perche": "Doppione del ricordo di Stewart.",
-    "sezione": "scarta"
   },
   "https://movieplayer.it/news/patrick-stewart-morto-86-anni-x-men-star-trek_171734/": {
     "titolo": "È morto Patrick Stewart, Picard di Star Trek e Xavier degli X-Men",
@@ -503,12 +413,6 @@
     "perche": "Commedia italiana di grande pubblico.",
     "sezione": "notizia"
   },
-  "https://www.badtaste.it/articoli/patrick-stewart-rivelata-la-causa-della-morte-la-malattia-che-ha-colpito-lattore-a-86-anni": {
-    "titolo": "Patrick Stewart morto: era malato di Alzheimer e demenza a corpi di Lewy",
-    "sommario": "BadTaste riferisce che l'attore è morto a 86 anni a Los Angeles dopo una lunga malattia.",
-    "perche": "Dettaglio sulla causa, già coperto dalla notizia principale.",
-    "sezione": "scarta"
-  },
   "https://www.cineblog.it/post/clayface-box-office-debutto": {
     "titolo": "Clayface debutta primo al box office con 24 milioni",
     "sommario": "Il film DC ha incassato 24 milioni in patria e 43 nel mondo, con un budget di 40 milioni.",
@@ -532,23 +436,5 @@
     "sommario": "Da Picard in Star Trek al Professor Xavier in Logan fino a Green Room, i ruoli che hanno segnato l'attore.",
     "perche": "Guida utile per recuperare Stewart.",
     "sezione": "notizia"
-  },
-  "https://www.everyeye.it/notizie/perch-memory-card-indispensabile-ps1-ps2-903438.html": {
-    "titolo": "Perché la memory card era indispensabile su PS1 e PS2",
-    "sommario": "Le schede di memoria permettevano di salvare i progressi di gioco nelle prime console PlayStation.",
-    "perche": "Videogiochi.",
-    "sezione": "scarta"
-  },
-  "https://www.everyeye.it/notizie/storia-resident-evil-finire-10-anni-908487.html": {
-    "titolo": "Resident Evil potrebbe finire tra dieci anni, dice Capcom",
-    "sommario": "Il produttore annuncia che la serie proseguirà per un decennio con nuovi titoli, prima di una possibile conclusione.",
-    "perche": "Videogiochi, sebbene tu abbia il film in libreria.",
-    "sezione": "scarta"
-  },
-  "https://movieplayer.it/news/pechino-express-2027-coppie-concorrenti-nuova-rotta_171725/": {
-    "titolo": "Pechino Express 2027: le coppie e la rotta sudamericana",
-    "sommario": "Dieci coppie di famosi attraversano Cile, Argentina e Brasile; tra loro Rocco Siffredi e Franceska Nuredini.",
-    "perche": "Programma tv.",
-    "sezione": "scarta"
   }
 }
