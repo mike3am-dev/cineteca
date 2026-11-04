@@ -8,7 +8,7 @@
    quando la rete non c'è.
    ══════════════════════════════════════════════════════════ */
 
-const CACHE = 'cineteca-v202611031233';
+const CACHE = 'cineteca-v202611041243';
 const SHELL = [
   './', './index.html', './css/styles.css',
   './js/avviso.js', './js/store.js', './js/format.js', './js/charts.js',

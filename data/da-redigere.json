@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-03T12:33:52.098Z",
+  "preparato": "2026-11-04T12:43:16.130Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -122,7 +122,8 @@
       "regia": "Paolo Strippoli",
       "generi": [
         "Dramma",
-        "Thriller"
+        "Thriller",
+        "Horror"
       ],
       "paesi": [
         "Belgio",
@@ -155,8 +156,8 @@
       "lista": "cinema",
       "regia": "Lance Oppenheim",
       "generi": [
-        "Dramma",
-        "Thriller"
+        "Thriller",
+        "Dramma"
       ],
       "paesi": [
         "USA"
@@ -445,42 +446,6 @@
       "impronta": "Elio|287|Domee Shi"
     },
     {
-      "id": "tmdb-1226863",
-      "tmdbId": 1226863,
-      "imdbId": "tt28650488",
-      "titolo": "Super Mario Galaxy - Il film",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-04-01",
-      "lista": "casa",
-      "regia": "Aaron Horvath",
-      "generi": [
-        "Famiglia",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Animazione"
-      ],
-      "paesi": [
-        "Giappone",
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": "La galassia ti attende.",
-      "cast": [
-        "Chris Pratt (Mario (voice))",
-        "Charlie Day (Luigi (voice))",
-        "Anya Taylor-Joy (Princess Peach (voice))",
-        "Jack Black (Bowser (voice))",
-        "Keegan-Michael Key (Toad (voice))",
-        "Benny Safdie (Bowser Junior (voice))",
-        "Donald Glover (Yoshi (voice))",
-        "Glen Powell (Fox McCloud (voice))"
-      ],
-      "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
-      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
-    },
-    {
       "id": "tmdb-1153576",
       "tmdbId": 1153576,
       "imdbId": "tt27419420",
@@ -576,42 +541,6 @@
       ],
       "tramaTmdb": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
       "impronta": "Klara e il sole|412|Taika Waititi"
-    },
-    {
-      "id": "tmdb-502356",
-      "tmdbId": 502356,
-      "imdbId": "tt6718170",
-      "titolo": "Super Mario Bros. Il Film",
-      "titoloOriginale": null,
-      "anno": "2023",
-      "uscitaItalia": "2023-04-05",
-      "lista": "visto",
-      "regia": "Michael Jelenic",
-      "generi": [
-        "Famiglia",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Animazione"
-      ],
-      "paesi": [
-        "Giappone",
-        "USA"
-      ],
-      "durata": 92,
-      "tagline": "Not all heroes wear capes. Some wear overalls.",
-      "cast": [
-        "Chris Pratt (Mario (voice))",
-        "Anya Taylor-Joy (Princess Peach (voice))",
-        "Charlie Day (Luigi (voice))",
-        "Jack Black (Bowser (voice))",
-        "Keegan-Michael Key (Toad (voice))",
-        "Seth Rogen (Donkey Kong (voice))",
-        "Fred Armisen (Cranky Kong (voice))",
-        "Sebastian Maniscalco (Spike (voice))"
-      ],
-      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
-      "impronta": "Super Mario Bros. Il Film|258|Michael Jelenic"
     }
   ]
 }

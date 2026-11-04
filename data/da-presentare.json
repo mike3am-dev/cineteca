@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-03T12:33:53.902Z",
+  "preparato": "2026-11-04T12:43:17.163Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -113,38 +113,6 @@
       "impronta": "Le avventure di Cliff Booth|0|David Fincher"
     },
     {
-      "id": "tmdb-1591675",
-      "tmdbId": 1591675,
-      "imdbId": "tt39094466",
-      "origine": "trailer",
-      "titolo": "Look Back",
-      "titoloOriginale": "ルックバック",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Hirokazu Kore-eda",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 100,
-      "tagline": null,
-      "cast": [
-        "出口夏希 (Fujino)",
-        "Aju Makita (Kyomoto)",
-        "七瀬ふうり (Young Fujino)",
-        "岡田六花 (Young Kyomoto)",
-        "Masaki Suda (Maeda)",
-        "宮藤官九郎 (Tamai)"
-      ],
-      "tramaTmdb": "Fujino, adolescente determinata e piena di talento, sogna di diventare una mangaka. Kyomoto, schiva e solitaria, vive quasi sempre chiusa nella sua stanza, dedicando ogni istante al disegno. Unite dalla stessa passione, le due ragazze, cresciute in una piccola città, inseguono per tredici anni il sogno di diventare autrici di manga.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Look Back|334|Hirokazu Kore-eda"
-    },
-    {
       "id": "tmdb-1154730",
       "tmdbId": 1154730,
       "imdbId": "tt36107185",
@@ -178,38 +146,37 @@
       "impronta": "La Gradiva|333|Marine Atlan"
     },
     {
-      "id": "tmdb-1003596",
-      "tmdbId": 1003596,
-      "imdbId": "tt21357150",
+      "id": "tmdb-1317149",
+      "tmdbId": 1317149,
+      "imdbId": "tt31514146",
       "origine": "trailer",
-      "titolo": "Avengers: Doomsday",
-      "titoloOriginale": "Avengers: Doomsday",
+      "titolo": "I Swear - È più forte di me",
+      "titoloOriginale": "I Swear",
       "anno": "2026",
-      "uscitaItalia": "2026-12-16",
-      "regia": "Joe Russo",
+      "uscitaItalia": "2026-11-26",
+      "regia": "Kirk Jones",
       "generi": [
-        "Fantascienza",
-        "Azione",
-        "Avventura"
+        "Dramma",
+        "Storia"
       ],
       "paesi": [
-        "USA"
+        "Regno Unito"
       ],
-      "durata": 165,
+      "durata": 121,
       "tagline": null,
       "cast": [
-        "Robert Downey Jr. (Victor von Doom  / Doctor Doom)",
-        "Chris Evans (Steve Rogers)",
-        "Chris Hemsworth (Thor)",
-        "Pedro Pascal (Reed Richards / Mister Fantastic)",
-        "Paul Rudd (Scott Lang / Ant-Man)",
-        "Anthony Mackie (Sam Wilson / Captain America)"
+        "Robert Aramayo (John)",
+        "Maxine Peake (Dottie)",
+        "Peter Mullan (Tommy)",
+        "Shirley Henderson (Heather)",
+        "Scott Ellis Watson (Young John)",
+        "David Carlyle (Chris)"
       ],
-      "tramaTmdb": "Gli universi si scontrano e la Saga del Multiverso inizia il suo capitolo finale. Gli amati eroi di tre universi distinti si troveranno su una rotta di collisione mortale e dovranno affrontare una minaccia esistenziale diversa da qualsiasi altra abbiano mai incontrato.",
+      "tramaTmdb": "A quindici anni, John Davidson riceve una diagnosi di sindrome di Tourette. Sfidando ogni difficoltà, affronta un'adolescenza complicata e il passaggio all'età adulta, trovando nella gentilezza degli altri la forza e l'ispirazione necessarie per scoprire il suo vero scopo nella vita.",
       "motivi": [
-        "fantascienza e avventura: il tuo terreno"
+        "dramma, il tuo terreno"
       ],
-      "impronta": "Avengers: Doomsday|269|Joe Russo"
+      "impronta": "I Swear - È più forte di me|284|Kirk Jones"
     },
     {
       "id": "tmdb-891621",
@@ -309,72 +276,35 @@
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
     },
     {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
       "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker-in-Law",
       "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
       "generi": [
-        "Avventura",
-        "Animazione",
         "Commedia",
-        "Famiglia",
-        "Fantasy"
+        "Romance"
       ],
       "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherrie (voice))",
-        "Bowen Yang (Gary (voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
-      "id": "tmdb-1195803",
-      "tmdbId": 1195803,
-      "imdbId": "tt29611136",
-      "origine": "trailer",
-      "titolo": "Wicker",
-      "titoloOriginale": "Wicker",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-21",
-      "regia": "Alex Huston Fischer",
-      "generi": [
-        "Romance",
-        "Fantasy",
-        "Commedia"
-      ],
-      "paesi": [
-        "Regno Unito",
         "USA"
       ],
       "durata": 105,
       "tagline": null,
       "cast": [
-        "Olivia Colman (The Fisherwoman)",
-        "Alexander Skarsgård (The Wicker Husband)",
-        "Peter Dinklage (The Basketmaker)",
-        "Elizabeth Debicki (The Tailor’s Wife)",
-        "Marli Siu (The Bottlewasher’s Wife)",
-        "Nabhaan Rizwan (The Tailor)"
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
       ],
-      "tramaTmdb": "Alla periferia di un villaggio sul mare vive una pescatrice single e perennemente derisa. Un giorno, stufa dei suoi vicini bigotti e dalla mentalità ristretta, desiderosa di trovare l'amore, la donna commissiona a un mastro cestaio del villaggio la creazione di un marito fatto interamente di vimini.  L'uomo intrecciato (interpretato da Alexander Skarsgård) si rivela sorprendentemente affascinante, devoto e superiore ad ogni aspettativa, trasformandosi così in un compagno ideale.  La felicità della coppia e il legame fuori dagli schemi scatenano però un’ondata di gelosia, scandalo e sconcerto t",
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
       "motivi": [],
-      "impronta": "Wicker|600|Alex Huston Fischer"
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
       "id": "tmdb-1727734",
@@ -406,6 +336,70 @@
       "tramaTmdb": "Dopo vent'anni trascorsi a \"rilassarsi, farsi canne e scopare\", Ali G rimane scioccato nello scoprire che la sua fidanzata storica, Julie, è incinta all'ottavo mese. Messo di fronte a una bocca in più da sfamare, si dà una mossa e parte per l'America nel tentativo di riconquistare i fasti di un tempo... ma ben presto si imbatte in avversari che finiranno per minacciare la sua stessa esistenza e quella di suo figlio.",
       "motivi": [],
       "impronta": "Ali G: Who Iz I?|419|Sacha Baron Cohen"
+    },
+    {
+      "id": "tmdb-1538497",
+      "tmdbId": 1538497,
+      "imdbId": "tt38077943",
+      "origine": "trailer",
+      "titolo": "Hexe - Il regno delle streghe",
+      "titoloOriginale": "Hexed",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "Jason Hand",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 103,
+      "tagline": null,
+      "cast": [
+        "Hailee Steinfeld (Billie Doe (voice))",
+        "Rashida Jones (Alice Doe (voice))",
+        "Jodie Foster (Queen Celeste (voice))",
+        "Walton Goggins (Beef Roger Crummchuk (voice))",
+        "Tracey Ullman (Ms. Quill (voice))",
+        "Stephen Fry (Elias Quire (voice))"
+      ],
+      "tramaTmdb": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
+      "motivi": [],
+      "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
+    },
+    {
+      "id": "tmdb-1765072",
+      "tmdbId": 1765072,
+      "imdbId": "tt45368240",
+      "origine": "trailer",
+      "titolo": "You Can See Everything",
+      "titoloOriginale": "You Can See Everything",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-27",
+      "regia": "Nathan Fielder",
+      "generi": [
+        "Documentario"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 174,
+      "tagline": null,
+      "cast": [
+        "Elizabeth Holmes (Self)",
+        "Nathan Fielder (Self)",
+        "Billy Evans (Self)",
+        "Amanda Seyfried (Self / Elizabeth Holmes)",
+        "Christopher Abbott (Billy Evans)",
+        "Lance Oppenheim (Self)"
+      ],
+      "tramaTmdb": "Trentaquattro giorni prima di entrare in prigione, Elizabeth Holmes, la controversa fondatrice di una società della Silicon Valley, invita una troupe cinematografica scettica a documentare ogni suo passo. Quello che inizia come un ritratto intimo di una figura enigmatica condannata per frode si trasforma in un sorprendente viaggio di tre anni negli abissi di una realtà sempre più inquietante e difficile da decifrare.",
+      "motivi": [],
+      "impronta": "You Can See Everything|420|Nathan Fielder"
     }
   ]
 }
