@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-04T12:43:17.163Z",
+  "preparato": "2026-11-05T12:52:54.733Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Aaron Horvath",
+      "Super Mario Bros. Il Film (2023), Michael Jelenic",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -212,36 +212,68 @@
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
     },
     {
-      "id": "tmdb-1437511",
-      "tmdbId": 1437511,
-      "imdbId": "tt35866986",
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
       "origine": "trailer",
-      "titolo": "Come rapinare una banca",
-      "titoloOriginale": "How to Rob a Bank",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker-in-Law",
       "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "David Leitch",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
       "generi": [
-        "Azione",
-        "Crime",
-        "Thriller"
+        "Commedia",
+        "Romance"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 90,
-      "tagline": "Chi rapina chi?",
+      "durata": 105,
+      "tagline": null,
       "cast": [
-        "Nicholas Hoult (Ryan)",
-        "Zoë Kravitz (Reagan Gardner)",
-        "Anna Sawai (Emi)",
-        "Rhenzy Feliz",
-        "Pete Davidson (Vince)",
-        "John C. Reilly (Agent West)"
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
       ],
-      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
       "motivi": [],
-      "impronta": "Come rapinare una banca|451|David Leitch"
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
+    },
+    {
+      "id": "tmdb-1117898",
+      "tmdbId": 1117898,
+      "imdbId": "tt2321555",
+      "origine": "trailer",
+      "titolo": "Il gatto col cappello",
+      "titoloOriginale": "The Cat in the Hat",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Erica Rivinoja",
+      "generi": [
+        "Animazione",
+        "Fantasy",
+        "Commedia"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 91,
+      "tagline": "Qui gatto ci cova",
+      "cast": [
+        "Bill Hader (The Cat in the Hat (voice))",
+        "Xochitl Gomez (Gabby (voice))",
+        "Tiago Martinez (Sebastian (voice))",
+        "Matt Berry (Waffles the Fish (voice))",
+        "Quinta Brunson (Sherrie (voice))",
+        "Bowen Yang (Gary (voice))"
+      ],
+      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+      "motivi": [],
+      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
       "id": "tmdb-1567605",
@@ -276,66 +308,68 @@
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
     },
     {
-      "id": "tmdb-1400336",
-      "tmdbId": 1400336,
-      "imdbId": "tt34966140",
+      "id": "tmdb-1437511",
+      "tmdbId": 1437511,
+      "imdbId": "tt35866986",
       "origine": "trailer",
-      "titolo": "Ti presento i Fotter",
-      "titoloOriginale": "Focker-in-Law",
+      "titolo": "Come rapinare una banca",
+      "titoloOriginale": "How to Rob a Bank",
       "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "John Hamburg",
+      "uscitaItalia": "2026-11-12",
+      "regia": "David Leitch",
       "generi": [
-        "Commedia",
-        "Romance"
+        "Azione",
+        "Crime",
+        "Thriller"
       ],
       "paesi": [
         "USA"
       ],
-      "durata": 105,
-      "tagline": null,
+      "durata": 90,
+      "tagline": "Chi rapina chi?",
       "cast": [
-        "Ben Stiller (Greg Focker)",
-        "Robert De Niro (Jack Byrnes)",
-        "Ariana Grande (Olivia Jones)",
-        "Skyler Gisondo (Henry Focker)",
-        "Owen Wilson (Kevin Rawley)",
-        "Blythe Danner (Dina Byrnes)"
+        "Nicholas Hoult (Ryan)",
+        "Zoë Kravitz (Reagan Gardner)",
+        "Anna Sawai (Emi)",
+        "Rhenzy Feliz",
+        "Pete Davidson (Vince)",
+        "John C. Reilly (Agent West)"
       ],
-      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
       "motivi": [],
-      "impronta": "Ti presento i Fotter|209|John Hamburg"
+      "impronta": "Come rapinare una banca|451|David Leitch"
     },
     {
-      "id": "tmdb-1727734",
-      "tmdbId": 1727734,
-      "imdbId": "tt43655467",
+      "id": "tmdb-1813355",
+      "tmdbId": 1813355,
+      "imdbId": "tt50389959",
       "origine": "trailer",
-      "titolo": "Ali G: Who Iz I?",
-      "titoloOriginale": "Ali G: Who Iz I?",
+      "titolo": "A Story of Derry",
+      "titoloOriginale": "A Story of Derry",
       "anno": "2026",
-      "uscitaItalia": "2026-10-22",
-      "regia": "Sacha Baron Cohen",
+      "uscitaItalia": "2026-10-31",
+      "regia": "Tazbah Chavez",
       "generi": [
-        "Commedia"
+        "Dramma",
+        "Horror",
+        "Mistero"
       ],
       "paesi": [
-        "Regno Unito",
         "USA"
       ],
-      "durata": 89,
+      "durata": 30,
       "tagline": null,
       "cast": [
-        "Sacha Baron Cohen (Ali G / Nira Cain-N'Degeocello / Erran Morad)",
-        "Morgana Robinson (Julie)",
-        "Alpha Miknas (Manu)",
-        "Clive Russell (Malcolm 'Rocky' Atkins)",
-        "A$AP Rocky (A$AP Rocky)",
-        "Rihanna (Rihanna)"
+        "Kiawentiio (Neekani)",
+        "Isabel DeRoy-Olson (Kino)",
+        "Michael Podemski (Maneese)",
+        "Zahn McClarnon (Mitig)",
+        "MorningStar Angeline (Sesqui)",
+        "Brandon Oakes (Apto)"
       ],
-      "tramaTmdb": "Dopo vent'anni trascorsi a \"rilassarsi, farsi canne e scopare\", Ali G rimane scioccato nello scoprire che la sua fidanzata storica, Julie, è incinta all'ottavo mese. Messo di fronte a una bocca in più da sfamare, si dà una mossa e parte per l'America nel tentativo di riconquistare i fasti di un tempo... ma ben presto si imbatte in avversari che finiranno per minacciare la sua stessa esistenza e quella di suo figlio.",
+      "tramaTmdb": "Centinaia di anni prima dell'arrivo di Pennywise, tre ragazzini si avventurano nel bosco dove incontrano un terrificante e antico spirito.",
       "motivi": [],
-      "impronta": "Ali G: Who Iz I?|419|Sacha Baron Cohen"
+      "impronta": "A Story of Derry|138|Tazbah Chavez"
     },
     {
       "id": "tmdb-1538497",
@@ -370,36 +404,6 @@
       "tramaTmdb": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
       "motivi": [],
       "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
-    },
-    {
-      "id": "tmdb-1765072",
-      "tmdbId": 1765072,
-      "imdbId": "tt45368240",
-      "origine": "trailer",
-      "titolo": "You Can See Everything",
-      "titoloOriginale": "You Can See Everything",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-27",
-      "regia": "Nathan Fielder",
-      "generi": [
-        "Documentario"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 174,
-      "tagline": null,
-      "cast": [
-        "Elizabeth Holmes (Self)",
-        "Nathan Fielder (Self)",
-        "Billy Evans (Self)",
-        "Amanda Seyfried (Self / Elizabeth Holmes)",
-        "Christopher Abbott (Billy Evans)",
-        "Lance Oppenheim (Self)"
-      ],
-      "tramaTmdb": "Trentaquattro giorni prima di entrare in prigione, Elizabeth Holmes, la controversa fondatrice di una società della Silicon Valley, invita una troupe cinematografica scettica a documentare ogni suo passo. Quello che inizia come un ritratto intimo di una figura enigmatica condannata per frode si trasforma in un sorprendente viaggio di tre anni negli abissi di una realtà sempre più inquietante e difficile da decifrare.",
-      "motivi": [],
-      "impronta": "You Can See Everything|420|Nathan Fielder"
     }
   ]
 }

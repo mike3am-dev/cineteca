@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-04T12:43:12.817Z",
+  "preparato": "2026-11-05T12:52:49.970Z",
   "gusti": {
     "generi": [
       "Avventura",
@@ -34,25 +34,125 @@
   },
   "articoli": [
     {
-      "link": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-election-day-voting-1236938876/",
-      "fonte": "Variety",
+      "link": "https://deadline.com/2026/11/godzilla-minus-zero-review-oscar-winning-takashi-yamazaki-1237213496/",
+      "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-11-03T22:45:02.000Z",
-      "titolo": "Jennifer Lawrence Quotes ‘The Hunger Games’ While Urging Fans to Vote on Election Day: ‘Don’t Forget Who Burns With Us’",
-      "sommario": "Jennifer Lawrence encouraged her 8.7 million Instagram followers to vote on Election Day by channeling her iconic role of Katniss Everdeen from “The Hunter Games.” The Oscar winner posted a photo of herself on Instagram giving the franchise’s trademark three-finger salute along with the caption: “Midterms [baby]. Don’t",
-      "sezioneProvvisoria": "notizia",
+      "data": "2026-11-04T21:45:00.000Z",
+      "titolo": "‘Godzilla Minus Zero’ Review: Oscar Winner Takashi Yamazaki’s Vision Of Japan’s Most Iconic Monster Is Back Bigger Than Ever Battling An Even Deadlier Foe",
+      "sommario": "With 2023’s monster hit Godzilla Minus One, Takashi Yamazaki became only the second director after Stanley Kubrick and 2001: A Space Odyssey to take home the Visual Effects Academy Award, and his film became the only Godzilla movie in 70 years to win an Oscar. Naturally, that all calls for a sequel, doesn’t it? The […]",
+      "sezioneProvvisoria": "approfondimento",
       "soggetti": [
-        "Hunger Games - L'alba sulla mietitura (in libreria)"
+        "Godzilla Minus Zero (in libreria)",
+        "2001: Odissea nello spazio"
       ],
       "radar": null
     },
     {
-      "link": "https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/",
+      "link": "https://deadline.com/2026/11/amc-entertainment-record-q3-resurgent-box-office-1237213464/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-11-04T22:34:49.000Z",
+      "titolo": "Resurgent Box Office Drives AMC Theatres’ Record Q3; CEO Says Chain Has Finally Recovered",
+      "sommario": "AMC Entertainment swung to the black for the three months ended in September on higher revenue, noting market share gains in both domestic and international markets, with CEO Adam Aron saying the chain’s second consecutive record quarter means the company has “recovered” from its post-Covid struggles. The world’s large",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Spider-Man: Brand New Day (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/11/timothee-chalamet-explains-dune-part-three-its-own-thing-1237213597/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-11-04T22:21:48.000Z",
+      "titolo": "Timothée Chalamet Explains ‘Dune: Part Three’ Is “Its Own Thing” As He Praises Ending",
+      "sommario": "As Denis Villeneuve prepares to release the conclusion of his Dune trilogy, Timothée Chalamet is praising the ending of the epic saga. The 4x Oscar nominee recently teased that he’s “absolutely” satisfied with Villeneuve’s third installment in his big-screen adaptations of Frank Herbert’s science-fiction novels, which ",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Dune - Parte tre (in libreria)",
+        "Dune (in libreria, visto)",
+        "Denis Villeneuve",
+        "Timothée Chalamet"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/11/scarlett-johansson-the-batman-part-ii-role-hard-to-crack-1237213661/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-11-04T22:57:03.000Z",
+      "titolo": "Scarlett Johansson Says ‘The Batman: Part II’ Role Was “Hard To Crack,” Gave Her “Existential Angst”",
+      "sommario": "Although Scarlett Johansson is no stranger to a big-budget superhero flick, she found herself in uncharted territory when making the jump from Marvel to DC. The 2x Oscar nominee admitted she had “a lot of existential angst” on the set of The Batman: Part II, which she explained was “hard to figure out” as she […]",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "The Batman: Part II (in libreria)",
+        "Scarlett Johansson"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-11-05T07:05:49.000Z",
+      "titolo": "‘Spider-Man: Brand New Day’ Propels Sony Pictures To Huge Q2 Profit Boost",
+      "sommario": "The friendly neighborhood Spider-Man has swung Sony Pictures Entertainment (SPE) to a massive hike in second quarter profit. The box office success of Spider-Man: Brand New Day was the main reason SPE posted earnings of $581 million for the three months to September 30, a huge 527% swing on the $93 million posted in th",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Spider-Man: Brand New Day (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/scarlett-johansson-on-the-batman-part-ii-role-1236748021/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-11-04T23:03:10.000Z",
+      "titolo": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
+      "sommario": "The actress' character in Matt Reeves' sequel to DC Studios' 2022 film has yet to be revealed.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "The Batman: Part II (in libreria)",
+        "The Batman (in libreria, visto)",
+        "Matt Reeves",
+        "Robert Pattinson",
+        "Scarlett Johansson"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/news/liam-neeson-meryl-streep-aslan-narnia-1236940112/",
       "fonte": "Variety",
       "lingua": "en",
-      "data": "2026-11-03T23:48:36.000Z",
-      "titolo": "‘Dune 3’ Production Designer Patrice Vermette Created a 55-Ton Spaceship for Sci-Fi Epic: It’s a ‘Major Spectacle’",
-      "sommario": "Production designer Patrice Vermette promises the third and final instalkment in the “Dune” franchise is going to be “a major spectacle.” “You know when you go see fireworks, and they put everything in, and at the end, it’s ‘Oh, we have this one.’ It’s going to be like that,” he teases. “Dune: Part Three” opens […]",
+      "data": "2026-11-05T11:16:35.000Z",
+      "titolo": "Liam Neeson Says There’s ‘Nobody Better Than’ Meryl Streep to Take Over Aslan Role in ‘Narnia,’ but Admits He Didn’t Know About Greta Gerwig’s Movie: ‘This Is News to Me’",
+      "sommario": "Liam Neeson is all for Meryl Streep taking over the role of Aslan in Greta Gerwig’s upcoming “Narnia” movie — even if he’s just learning about it now. Neeson, who voiced the mythical lion in the original “Chronicles of Narnia” film trilogy, admitted he was unaware of the new adaptation in a recent interview with […]",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Greta Gerwig"
+      ],
+      "radar": "regia di Greta Gerwig, di cui hai visto un film"
+    },
+    {
+      "link": "https://www.slashfilm.com/2307052/avengers-doomsday-biggest-threat-explained-dunkin-donuts-commercial/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-11-04T19:50:45.000Z",
+      "titolo": "New Dunkin' Donuts Commercial Explains The Biggest Threat The Avengers Face In Doomsday",
+      "sommario": "Here, watch this Dunkin' Donuts ad featuring Channing Tatum as Gambit to better understand the plot of Avengers: Doomsday.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://www.slashfilm.com/2306919/dune-part-three-runtime/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-11-04T18:58:57.000Z",
+      "titolo": "Dune: Part Three's Official Runtime Confirms It's The Shortest Movie In The Series",
+      "sommario": "We now know the official runtime for Dune: Part Three, and the final entry in the epic saga will be the shortest film in the series.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
         "Dune - Parte tre (in libreria)"
@@ -60,15 +160,79 @@
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/jennifer-lawrence-hunger-games-midterms-dont-forget-burns-with-us-1236747170/",
-      "fonte": "Hollywood Reporter",
+      "link": "https://www.slashfilm.com/2306889/backrooms-star-renate-reinsve-marvel-x-men-movie-role-moira-mactaggert/",
+      "fonte": "/Film",
       "lingua": "en",
-      "data": "2026-11-03T23:26:51.000Z",
-      "titolo": "Jennifer Lawrence Cites ‘Hunger Games’ While Encouraging Fans to Vote: “Don’t Forget Who Burns With Us”",
-      "sommario": "The Oscar winner shared a photo of herself doing the iconic three-finger salute from the film franchise while sharing a link to Vote.org.",
+      "data": "2026-11-04T18:42:11.000Z",
+      "titolo": "Backrooms Star Renate Reinsve Reportedly Met Marvel For Major X-Men Movie Role",
+      "sommario": "Fresh off her turn in the hit film Backrooms, Renate Reinsve has apparently met Marvel Studios about an intriguing role in its X-Men movie reboot.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Hunger Games - L'alba sulla mietitura (in libreria)"
+        "Backrooms (in libreria, visto)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-05T11:00:22.000Z",
+      "titolo": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+      "sommario": "<p>Portraying the humour, passion and grit that took the actor from bit parts to Oscar glory, this making-of tale is even more mythic than the original movie</p><p>For fun, excitement and the transcendental thrill of success, there’s nothing to touch this very enjoyable drama about the making of Sylvester Stallone’s Os",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Rocky sono io"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/nicolas-cage-ryan-gosling-ghost-rider-20-years-1236748268/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-11-05T04:29:09.000Z",
+      "titolo": "Nicolas Cage Weighs in on Ryan Gosling’s Ghost Rider, 20 Years After His Version",
+      "sommario": "\"I was happy for him and wished him best of luck on his adventures and I look forward to seeing the movie,\" Cage said of passing the fiery baton.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Ryan Gosling",
+        "Nicolas Cage"
+      ],
+      "radar": "c'è Ryan Gosling, che hai visto 3 volte"
+    },
+    {
+      "link": "https://variety.com/2026/film/awards/griffin-dunne-practical-magic-resurgence-american-werewolf-london-1236938556/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-11-05T10:30:00.000Z",
+      "titolo": "Griffin Dunne on Renewed Interest in ‘Practical Magic’ and ‘An American Werewolf in London’: ‘I Seem to Be the King of Lapsed Love’",
+      "sommario": "Acclaimed actor and “Practical Magic” director Griffin Dunne is glad to see its renaissance. “I don’t know when it could have started. Maybe 10 years ago, the conversation about ‘Practical Magic’ started to pick up more steam, particularly around Halloween. I’d see memes with ‘midnight margaritas’ and when my friends’ ",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "You Can See Everything"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/festivals/pamela-anderson-torino-film-festival-lifetime-achievement-award-1236940049/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-11-05T10:05:13.000Z",
+      "titolo": "Pamela Anderson Set for Torino Film Festival Lifetime Achievement Award (EXCLUSIVE)",
+      "sommario": "Pamela Anderson will be honored with a lifetime achievement award at Italy’s Torino Film Festival, where she will introduce a special screening of Gia Coppola’s “The Last Showgirl.” At the Torino fest — which is a preeminent event for young directors and indie cinema run by Italy’s National Film Museum — Anderson will ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/conclave-director-edward-berger-a24-the-riders-brad-pitt-1236938487/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-11-05T11:10:35.000Z",
+      "titolo": "‘Conclave’ Director Edward Berger Teases Upcoming Brad Pitt A24 Film ‘The Riders’: It’s a ‘European Odyssey’",
+      "sommario": "“All Quiet on the Western Front” director Edward Berger gave a brief update on “The Riders,” his upcoming A24 film starring Brad Pitt. Speaking at Evolution Mallorca, where he is the recipient of this year’s Evolution Vision Award, the filmmaker confirmed they have already shot the film, which he calls a “singular pers",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Brad Pitt"
       ],
       "radar": null
     },
@@ -86,106 +250,197 @@
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/nov/03/peter-medak-obituary",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-11-03T16:44:12.000Z",
-      "titolo": "Peter Medak obituary",
-      "sommario": "<p>Film and television director who won plaudits for The Ruling Class, The Changeling and The Krays</p><p>In 2013, when Martin Scorsese compiled a brief list of his favourite horror films, he placed the eerie and overlooked 1980 ghost story The Changeling in the company of classics such as The Shining, The Exorcist and",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "The Exorcist: Martyrs (in libreria)"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/festivals/sister-brother-manhole-cover-top-prize-tokyo-film-festival-1236938999/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-11-04T09:48:37.000Z",
-      "titolo": "Milcho Manchevski’s ‘Sister Brother Manhole Cover’ Wins Top Prize at Tokyo Film Festival",
-      "sommario": "Milcho Manchevski’s “Sister Brother Manhole Cover,” a comic allegory about two siblings who strip scrap metal from the streets of Skopje, won the Tokyo Grand Prix at the 39th Tokyo International Film Festival on Wednesday. A steady drizzle failed to dampen the spirits of a full house at Hulic Hall for closing night, a ",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/11/ashland-trailer-wyatt-maw-doc-nyc-1237212981/",
+      "link": "https://deadline.com/video/ask-e-jean-interview-for-the-love-of-docs/",
       "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-11-04T10:42:47.000Z",
-      "titolo": "‘Ashland’ Trailer: First Look At Wyatt Maw’s Debut Feature Ahead Of DOC NYC",
-      "sommario": "EXCLUSIVE: Wyatt Maw makes his feature debut with Ashland, which screens in competition at DOC NYC. Check out the film’s trailer above. Shot on Super 16mm film over the course of eight years, the panoramic portrait explores the hopes and dreams through the traditions, triumphs, and tragedies of a diverse group of peopl",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/news/quentin-tarantino-letting-down-brad-pitt-cliff-booth-sequel-1236939103/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-11-04T09:37:11.000Z",
-      "titolo": "Quentin Tarantino Thought He Was ‘Letting Down’ Brad Pitt by Not Directing Cliff Booth Sequel: ‘I Felt Bad About That’",
-      "sommario": "Quentin Tarantino has admitted that Brad Pitt was on his mind when he stepped away from directing his sequel to “Once Upon a Time in Hollywood.” “[Pitt] was the one I felt I was really letting down when I didn’t do it,” Tarantino told Empire. “I felt bad about that.” Pitt landed a best supporting […]",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/11/ladaku-karthik-aaryan-kabir-khan-directing-1237212954/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-11-04T09:15:33.000Z",
-      "titolo": "Kartik Aaryan To Star In ‘Ladaku’ With Kabir Khan Directing; Worldwide Release Date Set For 2027",
-      "sommario": "Kartik Aaryan is to lead Ladaku, a “heart-tugging, inspiring” move from Kabul Express director Kabir Khan. Birla Studios is leading on production ahead of a June 18, 2027, worldwide theatrical release, with Kabir Khan Entertainment also attached. Aaryan will also make his debut as a producer through his Dopamine Studio",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/lists/celebrities-midterm-election-who-they-voted-for-photos/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-11-04T00:56:00.000Z",
-      "titolo": "Hollywood A-Listers Send A Message To Voters On Social Media",
-      "sommario": "As the first polls close on the 2026 Midterm elections, celebrities took to social media to share their “I voted” photos — and some even shared who they voted for. While messages varied, all urged Americans to vote, while some went even further to express anger at politicians and the ruling elite. Scroll through the […",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Chris Pratt",
-        "Pedro Pascal"
-      ],
-      "radar": "c'è Chris Pratt, che hai visto 4 volte"
-    },
-    {
-      "link": "https://deadline.com/2026/11/pierce-brosnan-callum-turner-james-bond-josh-oconnor-casting-1237212659/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-11-04T02:40:42.000Z",
-      "titolo": "Pierce Brosnan Endorses Callum Turner As Next James Bond As “He’s So Strong”; Josh O’Connor Reacts To Talk Around 007 Casting",
-      "sommario": "Two names rumored to take on the James Bond role next are Callum Turner and Josh O’Connor, and reactions to the idea of them playing 007 on the big screen are coming in. Turner got a major endorsement from former James Bond star Pierce Brosnan and, in a new interview, shared his thoughts. “All the […]",
+      "data": "2026-11-05T01:46:56.000Z",
+      "titolo": "How Videotaped Depositions Of Donald Trump And E. Jean Carroll Became Key To Oscar-Contending Documentary – For The Love Of Docs",
+      "sommario": "President Trump’s party suffered historic losses in the midterm elections Tuesday. But defeat at the polls isn’t the only problem he faces. There’s also the matter of a pending $83 million civil judgment against him. Unless the U.S. Supreme Court intervenes in his favor, Trump will have to pay E. Jean Carroll the $83 m",
       "sezioneProvvisoria": "approfondimento",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406/",
+      "link": "https://deadline.com/gallery/madden-movie-premiere-photos-nicolas-cage/",
       "fonte": "Deadline",
       "lingua": "en",
-      "data": "2026-11-03T22:32:27.000Z",
-      "titolo": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-      "sommario": "EXCLUSIVE: Tami Roman (The Ms. Pat Show, The Family Business) is expanding her relationship with Lifetime with the announcement of Double Double Trouble 2, a sequel to Double Double Trouble, the network’s No. 1 highest-rated original movie of 2026. Roman will executive produce and star opposite Roger Cross (Dark Matter",
+      "data": "2026-11-05T06:09:17.000Z",
+      "titolo": "‘Madden’ Premiere Photos: Nicolas Cage, Christian Bale, Sienna Miller & John Madden’s Family",
+      "sommario": "Stars Nicolas Cage and Christian Bale walked the red carpet at the world premiere of Prime Video’s Madden, in which Cage plays the titular John and Bale plays then-Raiders owner Al Davis. Also on hand were co-stars Kathryn Hahn, Sienna Miller, John Mulaney, Shane Gillis and director David O. Russell. From the football ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Nicolas Cage"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://deadline.com/2026/11/meryl-streep-my-undesirable-friends-part-ii-exile-1237213631/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-11-04T22:40:37.000Z",
+      "titolo": "Meryl Streep On How Fellow Oscar Winner Introduced Her To ‘My Undesirable Friends’ Documentary: “I Was Just Absolutely Entranced’",
+      "sommario": "EXCLUSIVE: Meryl Streep has become a major fan of Julia Loktev’s epic two-part documentary My Undesirable Friends, an examination of brave women journalists in Russia who paid a heavy price for daring to report the truth in their country. The three-time Oscar winner serves as an executive producer on My Undesirable Fri",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-film-latvia-ulya-basketball-blockbuster-interview-1236745736/",
+      "link": "https://deadline.com/2026/11/nicolas-cage-alexander-ludwig-gabriel-basso-cast-the-brand-1237213610/",
+      "fonte": "Deadline",
+      "lingua": "en",
+      "data": "2026-11-04T23:31:19.000Z",
+      "titolo": "Nicolas Cage, Alexander Ludwig, Gabriel Basso & Maria Bakalova Set For True Crime Pic ‘The Brand’ Based On David Grann New Yorker Article About The Aryan Brotherhood — AFM",
+      "sommario": "EXCLUSIVE: Oscar winner Nicolas Cage (Longlegs), Alexander Ludwig (Bad Boys franchise), Gabriel Basso (The Night Agent), and Oscar nominee Maria Bakalova (The Apprentice) are aboard to star in true crime movie The Brand, based on the investigative New Yorker article by bestselling author and acclaimed journalist David ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Nicolas Cage"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-doc-film-fruitcakes-dawn-of-drag-happy-gays-poff-1236746810/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-11-04T10:01:00.000Z",
-      "titolo": "‘Ulya’ Director Dives Into His Third Latvian Oscar Contender, Which Stars a Rising Actor as a Female Basketball Legend and Became a “Blockbuster”",
-      "sommario": "Viesturs Kairišs also shares Herzog and Bergman inspirations for the film, opening Tallinn and starring Kārlis Arnolds Avots as Uljana Semjonova, the first non-U.S. woman in the Basketball Hall of Fame.",
+      "data": "2026-11-05T09:30:00.000Z",
+      "titolo": "‘Fruitcakes: Dawn of Drag’ Goes Back to ‘Happy Gays,’ “Reclaiming History” Through a Timely Film (Exclusive Trailer and Chat)",
+      "sommario": "Finnish filmmaker Vesa Kuosmanen discusses his doc, premiering at Tallinn, how it feels like a story for our time amid a backlash against trans and queer rights, and how fear drives anger.",
       "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-sounds-of-the-desert-doc-film-trailer-sun-ra-arkestra-1236744161/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-11-05T07:00:00.000Z",
+      "titolo": "‘Sounds of the Desert’ Explores Lives, Music and Cosmic Visions of Two Members of the Sun Ra Arkestra (Exclusive Tallinn Trailer)",
+      "sommario": "“In a time of displacement and division, their music reminds me that we can still build a shelter together,” says Lithuanian filmmaker Emilija Škarnulytė, whose new doc premieres at Estonia’s Black Nights Film Festival.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/04/callum-turner-favourite-new-james-bond-pierce-brosnan-endorses",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-04T12:34:54.000Z",
+      "titolo": "Callum Turner emerges as James Bond favourite as Pierce Brosnan endorses actor: ‘He’s so strong’",
+      "sommario": "<p>Bookmakers’ odds have shortened to 8/13 for the British actor, seen sipping martinis with his wife Dua Lipa at the weekend</p><p>Ten days after final screentests for the most coveted role in British cinema, one actor has emerged as a strong favourite to don the 007 tux for Denis Villeneuve’s forthcoming film.</p><p>",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Denis Villeneuve"
+      ],
+      "radar": "regia di Denis Villeneuve, di cui hai visto 3 film"
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/sister-brother-manhole-tokyo-film-fest-milcho-manchevski-1236748138/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-11-05T01:07:57.000Z",
+      "titolo": "Milcho Manchevski’s ‘Sister Brother Manhole Cover’ Wins Top Prize at Tokyo Film Fest",
+      "sommario": "Macedonian filmmaker examination of families and the wealth gap takes Grand Prix and brings 10 days of festival to a close.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.slashfilm.com/2307253/stacey-abrams-star-trek-role-explained/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-11-04T21:33:46.000Z",
+      "titolo": "Star Trek Cast A Real-Life American Hero In The Perfect Role",
+      "sommario": "When it came time to cast the President of Earth, the folks behind Star Trek: Discovery looked to a real-life hero to play the part.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-04T16:47:15.000Z",
+      "titolo": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+      "sommario": "<p>The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’</p><p>Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Tinto Brass"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/awkwafina-alex-wolff-projects-us-in-progress-1236937689/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-11-05T10:30:00.000Z",
+      "titolo": "Awkwafina’s ‘Kate Might Die,’ ‘Outside of Cleveland’ With Alex Wolff Among Projects Selected for U.S. in Progress",
+      "sommario": "Eight independent films in the final stages of editing have been selected for the U.S. in Progress co-production forum at Tauron American Film Festival in Wrocław, Poland. “Kate Might Die,” directed by Mercedes Bryce Morgan, boasts some recognizable names including Awkwafina, Anthony Ramos, Ken Jeong and Zosia Mamet. I",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/olivier-dahan-nana-marvelous-productions-kapa-studios-1236937292/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-11-05T08:00:00.000Z",
+      "titolo": "Olivier Dahan’s Period Drama ‘Nana’ Kicks Off Marvelous Productions, Kapa Studios Pact (EXCLUSIVE)",
+      "sommario": "French production company Marvelous Productions and Greek production outfit Kapa Studios are joining forces on a cross-border partnership that will begin with a feature film and expand into television series and additional projects. The collaboration, which will be announced Thursday at the Thessaloniki Intl. Film Fest",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://variety.com/2026/film/global/sea-of-glass-country-gothic-noir-greece-women-solidarity-1236938537/",
+      "fonte": "Variety",
+      "lingua": "en",
+      "data": "2026-11-05T08:00:00.000Z",
+      "titolo": "‘Sea of Glass’ Brings ‘Country Gothic Noir’ Tradition to Greece With Story of Two Women Finding Solidarity Across Generations",
+      "sommario": "Greek filmmaker Alexis Alexiou arrives at the Thessaloniki Intl. Film Festival with his third feature, “Sea of Glass,” fresh off its premiere out of competition at Edinburgh. The moody, noir-infused drama will have a special screening in Thessaloniki before a limited theatrical release across Greece on Nov. 12. Best kn",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-03T12:49:40.000Z",
+      "titolo": "Andrew Scott drama Elsinore leads British independent film award nominations",
+      "sommario": "<p>Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised</p><p>Elsinore, the drama in which Andrew Scott plays the actor <a href=\"https://www.thegu",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/05/syrian-family-10-year-journey-one-in-a-million-itab-azzam-and-jack-macinnes",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-05T11:39:48.000Z",
+      "titolo": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
+      "sommario": "<p>In 2015, two film-makers first met 11-year-old refugee Israa, forced to abandon Aleppo for a new life in Europe, along with her parents and siblings. None of them imagined what would come next</p><p>In 2015, an 11-year-old Syrian girl called Israa matter-of-factly explained how her family would survive if their ding",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/05/jimmy-james-stewart-movie-review",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-05T10:00:01.000Z",
+      "titolo": "Jimmy review – simple-minded James Stewart biopic is too straightforward",
+      "sommario": "<p>Riverdale’s KJ Apa gives surprisingly solid performance but this corny look at iconic actor’s life is missed opportunity</p><p>The last time <a href=\"https://www.theguardian.com/world/newzealand\">New Zealand</a> actor KJ Apa took on a midcentury American pop-cultural icon, he was playing a nominally sexy yet often w",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/05/think-of-england-review",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-05T09:00:00.000Z",
+      "titolo": "Think of England review – far-fetched tale of state-sponsored second world war porn turns deadly serious",
+      "sommario": "<p>Apocryphal plans to send an arousing morale booster to troops battling the Nazis make scant sense, and nor does the resulting movie</p><p>Some potentially interesting ideas here and a good cast … but the whole thing disintegrates into a very weird and ill-judged mess. It looks as if it might be a saucy romp, but is ",
+      "sezioneProvvisoria": "passato",
       "soggetti": [],
       "radar": null
     },
@@ -201,81 +456,13 @@
       "radar": null
     },
     {
-      "link": "https://www.slashfilm.com/2306080/mason-thames-robin-dynamic-duo-movie-dc-studios-live-action-potential/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-11-03T22:43:35.000Z",
-      "titolo": "DC Studios Officially Casts Mason Thames As Robin — Will He Play Him In Live-Action?",
-      "sommario": "Mason Thames has been cast as an animated version of Robin for a new DC Comics movie, but will he play the Boy Wonder in live-action too?",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2305116/liam-neeson-2026-action-movie-flop-box-office-the-mongoose/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-11-03T15:00:00.000Z",
-      "titolo": "Liam Neeson's New 2026 Action Movie Flopped At The Box Office",
-      "sommario": "Another Liam Neeson action flick barely made a noise at the box office this weekend (although it will likely do much better on VOD and streaming).",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2305233/star-trek-gates-mcfadden-john-de-lancie-patrick-stewart-death-reaction/",
-      "fonte": "/Film",
-      "lingua": "en",
-      "data": "2026-11-03T15:07:26.000Z",
-      "titolo": "Star Trek's Gates McFadden And John De Lancie React To Death Of Patrick Stewart",
-      "sommario": "Patrick Stewart's Star Trek co-stars John de Lancie and Gates McFadden have paid their respects to the late actor and the impact he had playing Jean-Luc Picard.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Patrick Stewart"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://variety.com/2026/film/festivals/cristian-mungiu-cinematographer-tudor-vladimir-panduru-long-takes-masterclass-1236939064/",
-      "fonte": "Variety",
-      "lingua": "en",
-      "data": "2026-11-04T05:53:52.000Z",
-      "titolo": "Cristian Mungiu’s Cinematographer Tudor Vladimir Panduru Breaks Down Long Takes on ‘Fjord,’ ‘R.M.N.’ at Jakarta World Cinema Masterclass",
-      "sommario": "Known for his long-time collaboration with Romanian auteur Cristian Mungiu, cinematographer Tudor Vladimir Panduru shared his experience making “Graduation,” “R.M.N.,” “Fjord” and Iraqi director Hasan Hadi’s “The President’s Cake” during his masterclass at Jakarta World Cinema. Benh Zeitlin, the Oscar-nominated directo",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/nov/04/crawlers-review-killer-spiders-movie-offers-giant-arachnid-action-alongside-anticapitalist-commentary",
+      "link": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann",
       "fonte": "The Guardian",
       "lingua": "en",
-      "data": "2026-11-04T11:00:09.000Z",
-      "titolo": "Crawlers review – killer-spiders movie offers giant-arachnid action alongside anticapitalist commentary",
-      "sommario": "<p>A witty creature feature set in a multi-occupancy building in Los Angeles that takes aim at unscrupulous landlords and finance bros</p><p>This arachnid-themed horror is fairly traditional in terms of its structure, core monster threat and scares-to-laughs ratio, but there are a few winningly modern touches. For star",
+      "data": "2026-11-05T07:00:57.000Z",
+      "titolo": "Being Heumann review – stirring biopic of a pioneering disability rights campaigner",
+      "sommario": "<p>Heartfelt real-life drama follows the late activist whose groundbreaking struggle helped build a rainbow alliance with gay action groups and the Black Panthers</p><p>The remarkable story of <a href=\"https://www.theguardian.com/us-news/2023/mar/06/judith-heumann-dead-disability-rights-activist\">the late US disability",
       "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/nov/04/merry-christmas-aubrey-flint-review-dickensian-festive-britpic-decorated-by-selection-box-of-familiar-faces",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-11-04T09:00:01.000Z",
-      "titolo": "Merry Christmas Aubrey Flint review – Dickensian festive Britpic decorated by selection box of familiar faces",
-      "sommario": "<p>A cast including Richard E Grant, Celia Imrie, Kiell Smith-Bynoe and Nigel Planer warm up a formulaic narrative about a imperilled retirement community</p><p>The annual drive to expand the festive film canon begins unseasonably early with a modest, sentimentally inclined Britpic that opens like a penny-pinching John",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/nov/04/amazing-grace-review-blazing-hannah-walters-struggles-to-save-a-lonely-caller-at-the-end-of-his-tether",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-11-04T07:00:27.000Z",
-      "titolo": "Amazing Grace review – blazing Hannah Walters struggles to save a lonely caller at the end of his tether",
-      "sommario": "<p>Daniel P Lewis stars in his own script as an isolated man beset by trauma as a helpline counsellor Walters tries to heal his pain</p><p>While working for a helpline one night, counsellor Grace (a terrific Hannah Walters) gets a call from Walter (Daniel P Lewis, also the film’s screenwriter), an isolated working-clas",
-      "sezioneProvvisoria": "passato",
       "soggetti": [],
       "radar": null
     },
@@ -293,101 +480,57 @@
       "radar": null
     },
     {
-      "link": "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-11-04T06:00:26.000Z",
-      "titolo": "Judi Dench says Daniel Craig ordered her death. James Bond just got a lot scarier",
-      "sommario": "<p>Not only did Craig insist his 007 die at the end of his run, but now we learn from Dench’s memoir that it was his idea to kill her off too. How will the next Bond top that? Shoot a puppy?</p><p></p><p>Now that the <a href=\"https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://deadline.com/2026/11/blumhouse-atomic-new-name-jason-blum-james-wan-1237212295/",
-      "fonte": "Deadline",
-      "lingua": "en",
-      "data": "2026-11-03T18:45:00.000Z",
-      "titolo": "Blumhouse & Atomic Monster Unveil New Name For Combined Studio",
-      "sommario": "Two years after merging, Jason Blum’s Blumhouse and James Wan’s Atomic Monster will now call their combined entity Blumhouse Atomic. The producers of Obsession, Backrooms and the Conjuring franchise will continue as distinct production labels with their own creative teams shepherding film and TV projects under each lab",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-bafta-breakthrough-ted-evans-retreat-deaf-film-bsl-1236743428/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-11-04T09:30:00.000Z",
-      "titolo": "BAFTA Breakthrough Ted Evans Shares What Sign Language Taught Him About Film – and What’s Next After ‘Retreat’",
-      "sommario": "The British writer-director, featured on the 2026 U.K. BAFTA Breakthrough list, supported by Netflix, also tells THR how \"I always feel I have two audiences\" and about his vision for \"sign language cinema.\"",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/the-incomer-louis-paxton-bafta-breakthrough-new-film-moby-1236743443/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-11-04T01:30:00.000Z",
-      "titolo": "‘The Incomer’ Attracted Domhnall Gleeson and Moby and Got Its Creator on the BAFTA Breakthrough List. Now, He’s Working on a Plan B Film.",
-      "sommario": "Scottish writer-director Louis Paxton takes THR through his feature debut, how much it reflects real-life experiences and what’s next for him.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-11-03T14:32:54.000Z",
-      "titolo": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
-      "sommario": "<p>Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future Past</p><p>China’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of millions” to make, according to its producer.</p><p>But is it any good? The Guardian watche",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/nov/03/mum-im-alien-pregnant-review-slime-and-silliness-in-amusing-new-zealand-comedy-horror",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-11-03T13:00:07.000Z",
-      "titolo": "Mum, I’m Alien Pregnant review – slime and silliness in amusing New Zealand comedy horror",
-      "sommario": "<p>Mucus, alien gristle, a tentacle-bearing penis and, of course, the pregnancy of the title are all borne with deadpan calmness in this underplayed comedy</p><p>In this amusingly silly exercise in gross-out body horror and bathos from New Zealand, thirtysomething underachiever Mary (Hannah Lynch) finds herself unexpec",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/billie-piper-elsinore-feature-1236746765/",
-      "fonte": "Hollywood Reporter",
-      "lingua": "en",
-      "data": "2026-11-03T20:30:00.000Z",
-      "titolo": "In ‘Elsinore,’ Billie Piper Found “Beautiful Chaos” With Andrew Scott — And a New Career Chapter",
-      "sommario": "The decorated stage and screen star is a scene-stealer in the weepy Oscar contender, leading to the most attention she's received for a film role to date. The experience is inspiring her to forge a new path.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.slashfilm.com/2296672/ed-asner-john-wayne-western-el-dorado/",
+      "link": "https://www.slashfilm.com/2306080/mason-thames-robin-dynamic-duo-movie-dc-studios-live-action-potential/",
       "fonte": "/Film",
       "lingua": "en",
-      "data": "2026-11-03T18:00:00.000Z",
-      "titolo": "TV Legend Ed Asner Appeared In This Classic '60s John Wayne Western",
-      "sommario": "Before the Mary Tyler Moore Show made him famous, Ed Asner made his Western movie debut in this '60s film alongside John Wayne.",
+      "data": "2026-11-03T22:43:35.000Z",
+      "titolo": "DC Studios Officially Casts Mason Thames As Robin — Will He Play Him In Live-Action?",
+      "sommario": "Mason Thames has been cast as an animated version of Robin for a new DC Comics movie, but will he play the Boy Wonder in live-action too?",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
     {
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/rory-kinnear-father-roy-death",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-05T05:00:55.000Z",
+      "titolo": "‘I was given the big picture early’: Rory Kinnear on love, drama – and how his father’s death changed his life",
+      "sommario": "<p>When Kinnear was 10, his beloved father Roy died in an on-set accident. This affected how he now approaches his work as an actor, and also his understanding of life’s most important questions</p><p>At first glance, Rory Kinnear is Mr Normal. Bald head, nice face, wholly unremarkable. As an actor, he’s not one for fl",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/charles-porter-dead-finding-faith-duke-wendell-scott-1236748133/",
       "fonte": "Hollywood Reporter",
       "lingua": "en",
-      "data": "2026-11-03T17:00:00.000Z",
-      "titolo": "‘The Cat in the Hat’ Review: Bill Hader in a Dr. Seuss Adaptation That Captures the Antic Silliness but Misses the Charm",
-      "sommario": "The voice cast also includes Quinta Brunson, Bowen Yang, America Ferrera, Giancarlo Esposito and Matt Berry.",
+      "data": "2026-11-05T00:28:31.000Z",
+      "titolo": "Charles F. Porter, Actor and ‘Finding Faith’ Producer, Dies at 47",
+      "sommario": "The former Duke football standout also made films for BET+, championed inspirational, independent cinema, wrote poetry and mentored kids.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.theguardian.com/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
+      "fonte": "The Guardian",
+      "lingua": "en",
+      "data": "2026-11-04T13:00:11.000Z",
+      "titolo": "Ramayana: Rise of a Legend review – India’s most expensive film ever becomes spectacular, huge-scale epic",
+      "sommario": "<p>Based on the ancient classical poem about Rama, the avatar of the Hindu god Vishnu, this three-hour blockbuster is highly enjoyable </p><p>Here is a thoroughly engaging, rousing and spectacular Indian epic melodrama from director Nitesh Tiwari, with music by Hans Zimmer and AR Rahman, based on the ancient classical ",
       "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/trial-of-alec-baldwin-scad-rory-kennedy-1236742989/",
+      "fonte": "Hollywood Reporter",
+      "lingua": "en",
+      "data": "2026-11-04T20:30:54.000Z",
+      "titolo": "Alec Baldwin “Really, Really Didn’t Like” Documentary About Him, Filmmakers Say",
+      "sommario": "'The Trial of Alec Baldwin' director Rory Kennedy and writer Mark Bailey opened up about assessing their subject's ability to be a reliable narrator in his own story and his reaction to the film during a panel at SCAD.",
+      "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
     },
@@ -398,17 +541,6 @@
       "data": "2026-11-03T00:54:16.000Z",
       "titolo": "Dustin Hoffman says filming The Graduate was ‘a terrible experience’ due to Mike Nichols’ ‘sadism’",
       "sommario": "<p>In his new memoir, the actor reveals he was slapped 27 times until he was dizzy for a scene director Nichols ‘didn’t even use’</p><p>Almost 60 years after The Graduate was released, Dustin Hoffman has revealed that making the 1967 film that launched his career was “a terrible experience” and he felt “immediately unc",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
-      "fonte": "The Guardian",
-      "lingua": "en",
-      "data": "2026-11-01T16:39:37.000Z",
-      "titolo": "Director Michael Mann accidentally shoots himself in the leg at gun range",
-      "sommario": "<p>Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered</p><p></p><p>The Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press.</p><p>Mann, 83, reportedly sho",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -425,6 +557,62 @@
       "radar": null
     },
     {
+      "link": "https://www.slashfilm.com/2296672/ed-asner-john-wayne-western-el-dorado/",
+      "fonte": "/Film",
+      "lingua": "en",
+      "data": "2026-11-03T18:00:00.000Z",
+      "titolo": "TV Legend Ed Asner Appeared In This Classic '60s John Wayne Western",
+      "sommario": "Before the Mary Tyler Moore Show made him famous, Ed Asner made his Western movie debut in this '60s film alongside John Wayne.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/the-batman-2-scarlett-johansson-ruolo-misterioso-angoscia-esistenziale_171830/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-05T11:00:08.000Z",
+      "titolo": "The Batman 2, Scarlett Johansson rompe il silenzio sul suo ruolo misterioso: \"Mi ha provocato angoscia\"",
+      "sommario": "L'attrice ha raccontato quanto sia stato complicato interpretare il misterioso personaggio affidatole da Matt Reeves, parlando di una vera e propria \"angoscia esistenziale\". Entrare nell'universo di Batman si è rivelato più complicato del previsto per Scarlett Johansson. L'attrice, storica protagonista del Marvel Cinem",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "The Batman: Part II (in libreria)",
+        "The Batman (in libreria, visto)",
+        "Matt Reeves",
+        "Scarlett Johansson"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/dune-3-timothee-chalamet-robert-pattinson-cambiamenti-libro-pazzi_171829/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-05T10:00:14.000Z",
+      "titolo": "Dune 3, Timothée Chalamet e Robert Pattinson sui cambiamenti rispetto al libro: \"Siete pazzi se li criticate\"",
+      "sommario": "Il nuovo film di Denis Villeneuve si prenderà diverse libertà rispetto a Messia di Dune, il romanzo di Frank Herbert del 1969: Robert Pattinson invita a giudicare il risultato sullo schermo, mentre Timothée Chalamet promuove il finale della trilogia. Adattare un romanzo molto amato significa inevitabilmente confrontars",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Dune (in libreria, visto)",
+        "Denis Villeneuve",
+        "Timothée Chalamet",
+        "Robert Pattinson"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/avengers-doomsday-potrebbe-risolvere-mistero-doctor-strange-10-anni-fa_171834/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-05T12:36:14.000Z",
+      "titolo": "Avengers: Doomsday potrebbe risolvere un mistero di Doctor Strange rimasto senza risposta da 10 anni",
+      "sommario": "Una scena del film Marvel del 2016 ha lasciato in sospeso una storia mai ripresa. E se il ritorno degli Avengers fosse l'occasione giusta per darle finalmente un seguito? Il Marvel Cinematic Universe ha ancora parecchie questioni in sospeso. Tra personaggi introdotti e poi scomparsi e scene post-credit che promettevano",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Avengers: Doomsday"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
       "link": "https://www.badtaste.it/articoli/avengers-doomsday-contro-dune-3-i-primi-dati-sorprendono-uno-dei-due-film-domina-gia-le-prevendite",
       "fonte": "BadTaste",
       "lingua": "it",
@@ -435,6 +623,19 @@
       "soggetti": [
         "Dune - Parte tre (in libreria)",
         "Avengers: Doomsday"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/ti-presento-i-fotter-come-vincere-biglietti-omaggio-anteprime_171824/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-04T17:51:32.000Z",
+      "titolo": "Ti presento i Fotter: come vincere biglietti omaggio per le anteprime in 9 città italiane",
+      "sommario": "Movieplayer.it offre ai suoi lettori la possibilità di assistere gratuitamente alle anteprime di Ti presento i Fotter, il nuovo capitolo della saga comica con Ben Stiller, Robert De Niro e Ariana Grande: ecco come richiedere gli inviti per due persone e in quali città si terranno le proiezioni Il ritorno della famiglia",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Ti presento i Fotter"
       ],
       "radar": null
     },
@@ -453,16 +654,15 @@
       "radar": null
     },
     {
-      "link": "https://movieplayer.it/news/dune-3-svelata-durata-film-non-lungo-come-primi-due_171813/",
-      "fonte": "MoviePlayer",
+      "link": "https://fumettologica.it/2026/11/spider-man-one-more-day-marvel-avengers/",
+      "fonte": "Fumettologica",
       "lingua": "it",
-      "data": "2026-11-04T11:00:14.000Z",
-      "titolo": "Dune 3, svelata la durata del film, che non sarà lungo come i primi due",
-      "sommario": "Il capitolo conclusivo della saga diretta da Denis Villeneuve durerà 2 ore e 30 minuti, cinque in meno rispetto al primo film e quindici rispetto al secondo, una scelta che ha acceso il dibattito tra gli spettatori, soprattutto considerando la portata della storia tratta da Messia di Dune. Il 18 dicembre 2026 sarà una ",
+      "data": "2026-11-05T11:52:30.000Z",
+      "titolo": "Marvel torna su una delle storie più controverse di Spider-Man, dopo quasi vent’anni",
+      "sommario": "A quasi vent'anni da One More Day, Marvel torna sul patto con Mefisto che cancellò il matrimonio tra Peter Parker e Mary Jane Watson. Marvel torna su una delle storie più controverse di Spider-Man, dopo quasi vent’anni leggi l’articolo su Fumettologica .",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Dune (in libreria, visto)",
-        "Denis Villeneuve"
+        "Spider-Man: Brand New Day (in libreria)"
       ],
       "radar": null
     },
@@ -477,6 +677,72 @@
       "soggetti": [
         "Hunger Games - L'alba sulla mietitura (in libreria)"
       ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/dune-3-svelata-durata-film-non-lungo-come-primi-due_171813/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-04T11:00:14.000Z",
+      "titolo": "Dune 3, svelata la durata del film, che non sarà lungo come i primi due",
+      "sommario": "Il capitolo conclusivo della saga diretta da Denis Villeneuve durerà 2 ore e 30 minuti, cinque in meno rispetto al primo film e quindici rispetto al secondo, una scelta che ha acceso il dibattito tra gli spettatori, soprattutto considerando la portata della storia tratta da Messia di Dune. Il 18 dicembre 2026 sarà una ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Dune (in libreria, visto)",
+        "Denis Villeneuve"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://fumettologica.it/2026/11/elon-musk-odissea-grok-intelligenza-artificiale/",
+      "fonte": "Fumettologica",
+      "lingua": "it",
+      "data": "2026-11-05T12:00:00.000Z",
+      "titolo": "Musk fa l’Odissea con l’IA: meglio la recita di mio figlio in quinta elementare",
+      "sommario": "Elon Musk aveva promesso un'Odissea fatta con l'IA e migliore di quella di Christopher Nolan, ma le cose non sono andate per niente bene. Musk fa l’Odissea con l’IA: meglio la recita di mio figlio in quinta elementare leggi l’articolo su Fumettologica .",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Odissea (in libreria, visto)",
+        "Christopher Nolan"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/avengers-doomsday-sara-lultimo-film-del-grande-patrick-stewart/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-10-30T09:29:25.000Z",
+      "titolo": "Avengers Doomsday sarà l'ultimo film del grande Patrick Stewart",
+      "sommario": "Il commosso omaggio del più famoso dei suoi X-Men.",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [
+        "Avengers: Doomsday",
+        "Patrick Stewart"
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://www.cineblog.it/post/dune-parte-tre-durata-minuti",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-11-04T15:24:20.000Z",
+      "titolo": "Dune: Parte Tre sarà il film più breve della trilogia di Villeneuve",
+      "sommario": "Dune Parte Tre ha una durata di 150-151 minuti, rendendolo il capitolo più breve della trilogia di Villeneuve. Scopri cosa significa per il finale della saga.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [
+        "Dune - Parte tre (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/viola-come-il-mare-3-ascolti-tv-4-novembre-2026_171833/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-05T11:37:05.000Z",
+      "titolo": "Viola come il mare 3 vince facile, Rai 1 crolla senza Tale e Quale: ascolti TV 4 novembre",
+      "sommario": "Il debutto della fiction con Francesca Chillemi conquista il 17% di share e supera lo speciale di Rai 1, fermo al 10,6%. Bene Aldo Cazzullo su La7 e Il Tavolo di Fabio Fazio sul Nove. La sfida degli ascolti TV di mercoledì 4 novembre 2026 premia Canale 5, che conquista la prima serata con il debutto della terza stagion",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
       "radar": null
     },
     {
@@ -508,6 +774,19 @@
       "radar": null
     },
     {
+      "link": "https://www.badtaste.it/articoli/le-attrici-scoperte-da-tinto-brass-da-serena-grandi-a-claudia-koll-le-sue-muse",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-11-05T11:27:51.000Z",
+      "titolo": "Le attrici scoperte da Tinto Brass: da Serena Grandi a Claudia Koll, le sue muse",
+      "sommario": "Da Stefania Sandrelli a Serena Grandi, Debora Caprioglio e Claudia Koll: ecco le attrici scoperte, rilanciate e trasformate in icone da Tinto Brass.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Tinto Brass"
+      ],
+      "radar": null
+    },
+    {
       "link": "https://www.badtaste.it/articoli/batman-ii-incidente-con-la-batmobile-durante-una-scena-dazione-un-membro-del-cast-finisce-in-ospedale",
       "fonte": "BadTaste",
       "lingua": "it",
@@ -519,20 +798,6 @@
         "The Batman: Part II (in libreria)"
       ],
       "radar": null
-    },
-    {
-      "link": "https://www.screenweek.it/avengers-doomsday-sara-lultimo-film-del-grande-patrick-stewart/",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-10-30T09:29:25.000Z",
-      "titolo": "Avengers Doomsday sarà l'ultimo film del grande Patrick Stewart",
-      "sommario": "Il commosso omaggio del più famoso dei suoi X-Men.",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [
-        "Avengers: Doomsday",
-        "Patrick Stewart"
-      ],
-      "radar": "fantascienza e avventura: il tuo terreno"
     },
     {
       "link": "https://www.screenweek.it/godzilla-minus-zero-e-un-film-clamoroso-e-feroce-recensione-senza-spoiler/",
@@ -548,51 +813,41 @@
       "radar": null
     },
     {
-      "link": "https://www.cineblog.it/post/avengers-doomsday-test-screening",
+      "link": "https://www.screenweek.it/it-ends-e-lorrore-diventare-adulti/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-10-29T07:08:00.000Z",
+      "titolo": "It Ends è l'orrore di diventare adulti",
+      "sommario": "Alexander Ullom sfrutta i limiti pratici come una risorsa creativa, ma badate bene: il suo esordio registico è più un racconto simbolico che un mistero da risolvere.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "It Ends (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/tinto-brass-le-parole-sulla-morte-che-oggi-fanno-riflettere-non-mi-spaventa-ma-temo-una-cosa",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-11-05T07:15:19.000Z",
+      "titolo": "Tinto Brass, le parole sulla morte che oggi fanno riflettere: “Non mi spaventa, ma temo una cosa”",
+      "sommario": "Tinto Brass è morto a 93 anni. Riemerge un'intervista del 2021 in cui il regista parlava della morte, della malattia e dell'amore per Caterina Varzi.",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Tinto Brass"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.cineblog.it/post/wicker-film-box-office-uk-irlanda",
       "fonte": "Cineblog",
       "lingua": "it",
-      "data": "2026-11-01T18:19:05.000Z",
-      "titolo": "Avengers: Doomsday, i test screening promuovono il cinecomic: Doctor Doom e Robert Downey Jr. dominano la scena",
-      "sommario": "I test screening di Avengers Doomsday generano reazioni entusiaste. Robert Downey Jr. nei panni di Doctor Doom impressiona il pubblico di prova, mentre Ciclope emerge com",
+      "data": "2026-11-05T00:24:21.000Z",
+      "titolo": "Wicker conquista il box office UK-Irlanda con Colman e Skarsgård",
+      "sommario": "Wicker conquista il box office britannico con £1,76 milioni nel debutto. La commedia d'epoca di Black Bear con Olivia Colman e Alexander Skarsgård vince per soli £10mila.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "Avengers: Doomsday",
-        "Robert Downey Jr."
-      ],
-      "radar": "fantascienza e avventura: il tuo terreno"
-    },
-    {
-      "link": "https://movieplayer.it/news/tale-e-quale-show-vince-stefano-meloccaro-classifica_171816/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-04T11:16:06.000Z",
-      "titolo": "Tale e Quale Show, Stefano Meloccaro vince la settima puntata: la classifica aggiornata",
-      "sommario": "Stefano Meloccaro conquista il primo posto con l'omaggio a Bruno Lauzi, seguito da Roberta Morise e Max Paiella. Tutti i punteggi della serata e la graduatoria generale aggiornata dopo sette puntate. È Stefano Meloccaro il vincitore della settima puntata di Tale e Quale Show, andata in onda eccezionalmente martedì 3 no",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/michael-douglas-cher-oscar-1988-vincerlo-glenn-close_171812/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-04T10:00:30.000Z",
-      "titolo": "Michael Douglas punge Cher per l'Oscar \"immeritato\" del 1988, lei risponde... a modo suo",
-      "sommario": "L'attore ha riaperto una vecchia polemica durante una puntata del Graham Norton Show, sostenendo che la collega di Attrazione fatale meritasse la statuetta conquistata da Cher per Stregata dalla luna. A quasi quarant'anni dagli Oscar del 1988, Michael Douglas ha ancora qualcosa da ridire su uno dei verdetti più discuss",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/taika-waititi-attacca-critici-dopo-flop-klara-sole_171781/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-02T14:00:48.000Z",
-      "titolo": "Taika Waititi attacca i critici dopo il flop di Klara e il sole: \"Irrilevanti, obsoleti\"",
-      "sommario": "Il regista di Jojo Rabbit e Thor: Ragnarok ha scelto di rispondere a modo suo, prendendo di mira chi recensisce il lavoro degli altri e rivendicando un rapporto diretto con il pubblico. Il regista premio Oscar non ha preso bene le recensioni negative del suo ultimo film, Klara e il sole, adattamento del romanzo di Kazu",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Klara e il sole (in libreria)"
+        "Olivia Colman"
       ],
       "radar": null
     },
@@ -610,15 +865,125 @@
       "radar": null
     },
     {
-      "link": "https://www.screenweek.it/it-ends-e-lorrore-diventare-adulti/",
+      "link": "https://www.screenweek.it/martin-scorsese-e-il-cleopatra-con-angelina-jolie-cancellato/",
       "fonte": "ScreenWeek",
       "lingua": "it",
-      "data": "2026-10-29T07:08:00.000Z",
-      "titolo": "It Ends è l'orrore di diventare adulti",
-      "sommario": "Alexander Ullom sfrutta i limiti pratici come una risorsa creativa, ma badate bene: il suo esordio registico è più un racconto simbolico che un mistero da risolvere.",
+      "data": "2026-10-30T09:45:31.000Z",
+      "titolo": "Martin Scorsese e il Cleopatra con Angelina Jolie cancellato",
+      "sommario": "Il regista è tornato a parlare del film accantonato per colpa delle polemiche e degli hacker.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [
-        "It Ends (in libreria)"
+        "Angelina Jolie"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/control-resonant-felice-remedy-incassi-volano-226-action-rpg-909861.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-11-04T22:45:00.000Z",
+      "titolo": "Control Resonant fa felice Remedy: gli incassi volano a +226% grazie all'action-RPG",
+      "sommario": "Control Resonant debutta con successo, triplicando i ricavi trimestrali di Remedy e attirando molti nuovi giocatori al franchise. Control Resonant si rende protagonista di un ottimo debutto e fa la felicit&agrave; di Remedy Entertainment . A rivelarlo &egrave; il report finanziario della compagnia finlandese, che propr",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.everyeye.it/notizie/quando-annunciano-giochi-playstation-plus-gratis-dicembre-909842.html",
+      "fonte": "Everyeye",
+      "lingua": "it",
+      "data": "2026-11-04T20:14:00.000Z",
+      "titolo": "Quando annunciano i giochi PlayStation Plus 'gratis' di dicembre?",
+      "sommario": "I giochi PlayStation Plus Essential di dicembre 2026 saranno annunciati il 25 novembre alle 17:30 e disponibili dal 1&deg; dicembre. Con i giochi PlayStation Plus Essential di novembre ormai disponibili al download, è ufficialmente cominciato il conto alla rovescia per l'annuncio dei Giochi mensili di dicembre 2026 . P",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/tale-e-quale-show-vince-stefano-meloccaro-classifica_171816/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-04T11:16:06.000Z",
+      "titolo": "Tale e Quale Show, Stefano Meloccaro vince la settima puntata: la classifica aggiornata",
+      "sommario": "Stefano Meloccaro conquista il primo posto con l'omaggio a Bruno Lauzi, seguito da Roberta Morise e Max Paiella. Tutti i punteggi della serata e la graduatoria generale aggiornata dopo sette puntate. È Stefano Meloccaro il vincitore della settima puntata di Tale e Quale Show, andata in onda eccezionalmente martedì 3 no",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.cineblog.it/post/avengers-doomsday-test-screening",
+      "fonte": "Cineblog",
+      "lingua": "it",
+      "data": "2026-11-01T18:19:05.000Z",
+      "titolo": "Avengers: Doomsday, i test screening promuovono il cinecomic: Doctor Doom e Robert Downey Jr. dominano la scena",
+      "sommario": "I test screening di Avengers Doomsday generano reazioni entusiaste. Robert Downey Jr. nei panni di Doctor Doom impressiona il pubblico di prova, mentre Ciclope emerge com",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Avengers: Doomsday",
+        "Robert Downey Jr."
+      ],
+      "radar": "fantascienza e avventura: il tuo terreno"
+    },
+    {
+      "link": "https://movieplayer.it/news/michael-douglas-cher-oscar-1988-vincerlo-glenn-close_171812/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-04T10:00:30.000Z",
+      "titolo": "Michael Douglas punge Cher per l'Oscar \"immeritato\" del 1988, lei risponde... a modo suo",
+      "sommario": "L'attore ha riaperto una vecchia polemica durante una puntata del Graham Norton Show, sostenendo che la collega di Attrazione fatale meritasse la statuetta conquistata da Cher per Stregata dalla luna. A quasi quarant'anni dagli Oscar del 1988, Michael Douglas ha ancora qualcosa da ridire su uno dei verdetti più discuss",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/gabriel-garko-tinto-brass-retroscena-spruzzino_171822/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-04T15:49:19.000Z",
+      "titolo": "Gabriel Garko: \"Tinto Brass amava i peli. Durante una fellatio simulata è dovuto intervenire con lo spruzzino\"",
+      "sommario": "Dalla nudità quasi costante sul set al famoso calzino, l'attore ha svelato alcuni episodi inediti della sua esperienza con Tinto Brass durante il podcast Non lo faccio x moda. La morte di Tinto Brass, scomparso oggi, 4 novembre, all'età di 93 anni, riporta alla memoria anche alcuni dei racconti più curiosi legati alla ",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Tinto Brass"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/taika-waititi-attacca-critici-dopo-flop-klara-sole_171781/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-02T14:00:48.000Z",
+      "titolo": "Taika Waititi attacca i critici dopo il flop di Klara e il sole: \"Irrilevanti, obsoleti\"",
+      "sommario": "Il regista di Jojo Rabbit e Thor: Ragnarok ha scelto di rispondere a modo suo, prendendo di mira chi recensisce il lavoro degli altri e rivendicando un rapporto diretto con il pubblico. Il regista premio Oscar non ha preso bene le recensioni negative del suo ultimo film, Klara e il sole, adattamento del romanzo di Kazu",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Klara e il sole (in libreria)"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://movieplayer.it/news/tinto-brass-morto-addio-maestro-erotismo-sfidato-tabu-cinema-italiano_171818/",
+      "fonte": "MoviePlayer",
+      "lingua": "it",
+      "data": "2026-11-04T12:47:00.000Z",
+      "titolo": "Tinto Brass è morto: addio al maestro dell'erotismo che ha sfidato i tabù del cinema italiano",
+      "sommario": "È morto Tinto Brass, il celebre regista italiano aveva 93 anni. La carriera, i film più famosi e l'ultimo omaggio alla Mostra del Cinema di Venezia. Tinto Brass, uno dei registi più conosciuti e controversi del cinema italiano, si è spento questa mattina a Roma. Aveva 93 anni e alle spalle una carriera durata oltre qua",
+      "sezioneProvvisoria": "passato",
+      "soggetti": [
+        "Tinto Brass"
+      ],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/il-gatto-col-cappello-si-muove-tra-avventura-e-confronto-generazionale/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-11-03T11:50:59.000Z",
+      "titolo": "Il gatto col cappello si muove tra avventura e confronto generazionale",
+      "sommario": "Il film di Erica Rivinoja e Alessandro Carloni rilegge la creatura del Dr. Seuss alla luce dei blockbuster animati contemporanei.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [
+        "Il gatto col cappello"
       ],
       "radar": null
     },
@@ -676,16 +1041,69 @@
       "radar": "c'è Ryan Gosling, che hai visto 3 volte"
     },
     {
-      "link": "https://www.screenweek.it/martin-scorsese-e-il-cleopatra-con-angelina-jolie-cancellato/",
-      "fonte": "ScreenWeek",
+      "link": "https://www.badtaste.it/articoli/se-domani-non-torno-spiegazione-del-finale-significato-delle-chiavi-e-il-senso-del-film",
+      "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-10-30T09:45:31.000Z",
-      "titolo": "Martin Scorsese e il Cleopatra con Angelina Jolie cancellato",
-      "sommario": "Il regista è tornato a parlare del film accantonato per colpa delle polemiche e degli hacker.",
+      "data": "2026-11-05T12:06:34.000Z",
+      "titolo": "Se domani non torno: spiegazione del finale, significato delle chiavi e il senso del film",
+      "sommario": "Analisi e spiegazione del finale di Se domani non torno, il film di Paola Randi ispirato a Giulia Cecchettin: cosa significano le chiavi e il messaggio del lutto collettivo.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/se-domani-non-torno-il-significato-profondo-del-titolo-e-il-legame-con-la-poesia-di-cristina-torres-caceres",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-11-05T11:55:23.000Z",
+      "titolo": "Se domani non torno: il significato profondo del titolo e il legame con la poesia di Cristina Torres Cáceres",
+      "sommario": "Scopri il significato del titolo \"Se domani non torno\", il film di Paola Randi ispirato alla storia di Giulia Cecchettin e tratto dalla celebre poesia di Cristina Torres Cáceres.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/recensioni/la-guerra-dei-prezzi-la-recensione-un-film-che-va-al-ritmo-dellattualita",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-11-05T10:20:18.000Z",
+      "titolo": "La guerra dei prezzi, la recensione - Un film che va al ritmo dell'attualità",
+      "sommario": "La guerra dei prezzi è un buon film che diventa ottimo grazie alla congiunzione tra l'argomento affrontato dalla sceneggiatura e la più stringente attualità.",
+      "sezioneProvvisoria": "approfondimento",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/leonardo-pieraccioni-torna-con-un-film-sullintelligenza-artificiale-e-se-invidiasse-gli-esseri-umani",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-11-05T09:00:54.000Z",
+      "titolo": "Leonardo Pieraccioni torna con un film sull'intelligenza artificiale: e se invidiasse gli esseri umani?",
+      "sommario": "Leonardo Pieraccioni presenta Un weekend artificiale, la commedia sull'intelligenza artificiale in arrivo il 12 novembre. Trama, cast e dichiarazioni.",
       "sezioneProvvisoria": "notizia",
-      "soggetti": [
-        "Angelina Jolie"
-      ],
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/the-traitors-italia-2-alessia-marcuzzi-mostra-il-suo-lato-piu-oscuro-il-legame-inatteso-con-nicole-kidman",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-11-05T08:30:23.000Z",
+      "titolo": "The Traitors Italia 2, Alessia Marcuzzi mostra il suo lato più oscuro: il legame inatteso con Nicole Kidman",
+      "sommario": "Alessia Marcuzzi torna con The Traitors Italia 2 su Prime Video dal 6 novembre. Ecco il nuovo look ispirato a Nicole Kidman, il cast e le date.",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.badtaste.it/articoli/contagion-quante-cose-aveva-previsto-il-film-sulla-pandemia-quando-la-finzione-diventa-realta",
+      "fonte": "BadTaste",
+      "lingua": "it",
+      "data": "2026-11-05T08:15:35.000Z",
+      "titolo": "Contagion, quante cose aveva previsto il film sulla pandemia? Quando la finzione diventa realtà",
+      "sommario": "Contagion aveva previsto davvero la pandemia di COVID-19? Dall'origine del virus ai vaccini e alle fake news, ecco cosa il film aveva anticipato.",
+      "sezioneProvvisoria": "curiosita",
+      "soggetti": [],
       "radar": null
     },
     {
@@ -695,6 +1113,17 @@
       "data": "2026-11-03T20:52:00.000Z",
       "titolo": "Wonders of O: ecco cosa sappiamo sul sequel di Lies of P",
       "sommario": "Grazie ad un annuncio di lavoro, conosciamo alcuni interessanti dettagli sul seguito di Lies of P, forse chiamato Wonders of O. A distanza di poco tempo dalla comparsa delle prime indiscrezioni sul titolo di Lies of P 2 , il cui nome reale potrebbe essere Wonders of O , spuntano altri dettagli grazie ad un annuncio di ",
+      "sezioneProvvisoria": "notizia",
+      "soggetti": [],
+      "radar": null
+    },
+    {
+      "link": "https://www.screenweek.it/nella-gioia-e-nel-dolore-il-trailer-ufficiale-del-nuovo-film/",
+      "fonte": "ScreenWeek",
+      "lingua": "it",
+      "data": "2026-11-03T15:58:21.000Z",
+      "titolo": "Nella gioia e nel dolore: il trailer ufficiale del nuovo film",
+      "sommario": "",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
@@ -711,381 +1140,12 @@
       "radar": null
     },
     {
-      "link": "https://www.cineblog.it/post/british-independent-film-awards-2026-elsinore",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-04T00:24:00.000Z",
-      "titolo": "Elsinore domina le nomination ai British Independent Film Awards",
-      "sommario": "Elsinore guida la corsa ai British Independent Film Awards 2026 con 12 nomination. Andrew Scott protagonista nel dramma di Simon Stone.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/matt-damon-e-david-letterman-attraversano-la-strada-in-the-gilded-age-e-nessuno-se-ne-accorto",
+      "link": "https://www.badtaste.it/articoli/falkor-torna-sul-grande-schermo-dopo-42-anni-ecco-quando-vedere-la-storia-infinita-al-cinema",
       "fonte": "BadTaste",
       "lingua": "it",
-      "data": "2026-11-02T11:08:17.000Z",
-      "titolo": "Matt Damon e David Letterman attraversano la strada in The Gilded Age (e nessuno se n'è accorto)",
-      "sommario": "Matt Damon e David Letterman appaiono in un cameo segreto al minuto 8:33 di The Gilded Age. Scopri il dietro le quinte della loro apparizione nascosta.",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [
-        "Matt Damon"
-      ],
-      "radar": "c'è Matt Damon, che hai visto 2 volte"
-    },
-    {
-      "link": "https://www.cineblog.it/post/dexter-resurrection-2-killer-sfuggito",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-03T22:47:44.000Z",
-      "titolo": "Dexter: Resurrection, il serial killer ritorna nel nuovo teaser",
-      "sommario": "La seconda stagione di Dexter Resurrection 2 è disponibile su Paramount+. Un assassino ritorna con il messaggio 'Volevo incontrarti', promettendo una rottura con la tradi",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/e-morto-tinto-brass-addio-al-maestro-del-cinema-erotico-italiano",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-04T12:42:40.000Z",
-      "titolo": "È morto Tinto Brass: addio al maestro del cinema erotico italiano",
-      "sommario": "A 93 anni è scomparso Tinto Brass, regista visionario e anticonformista. Da La chiave a Miranda, la storia di un maestro dell'eros che ha fatto la storia del costume.",
-      "sezioneProvvisoria": "passato",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.screenweek.it/nella-gioia-e-nel-dolore-il-trailer-ufficiale-del-nuovo-film/",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-11-03T15:58:21.000Z",
-      "titolo": "Nella gioia e nel dolore: il trailer ufficiale del nuovo film",
-      "sommario": "",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/shaun-vita-pecora-operazione-zucca-walker",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-01T12:21:43.000Z",
-      "titolo": "Shaun, Vita da Pecora: Operazione Z.U.C.C.A., Matthew Walker rivela i retroscena del nuovo film",
-      "sommario": "Matthew Walker svela i dettagli della produzione di Shaun Vita da Pecora Operazione Zucca: dieci mesi di riprese, omaggi horror e innovazioni narrative nel terzo film.",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [
-        "Shaun, vita da pecora - Operazione Z.U.C.C.A."
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/james-bond-judi-dench-daniel-craig-idea-uccidere-m-risentita_171815/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-04T12:00:15.000Z",
-      "titolo": "James Bond, Judi Dench svela che fu di Daniel Craig l'idea di uccidere M: \"Sono ancora risentita\"",
-      "sommario": "Nel suo nuovo memoir, l'attrice ripercorre gli otto film in cui ha interpretato la direttrice dell'MI6, raccontando il rapporto con Pierce Brosnan e Daniel Craig, i problemi sul set di Il domani non muore mai e il momento in cui ha scoperto che il destino del suo personaggio era segnato. Judi Dench non ha mai avuto par",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/frozen-4-disney-cambia-i-piani-il-film-non-uscira-piu-insieme-a-frozen-3-ma-ce-una-buona-ragione",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-04T09:15:57.000Z",
-      "titolo": "Frozen 4, Disney cambia i piani: il film non uscirà più insieme a Frozen 3, ma c'è una buona ragione",
-      "sommario": "Inizialmente pensato per uscire dopo il terzo capitolo, Frozen 4 non ha più una data d'uscita fissata ma, come spiegato da Disney, è per una buona motivazione ben precisa.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/7-chili-in-7-giorni-che-fine-ha-fatto-paolone-la-nuova-vita-del-bambino-del-film-con-carlo-verdone",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-04T09:00:38.000Z",
-      "titolo": "7 chili in 7 giorni, che fine ha fatto Paolone? La nuova vita del bambino del film con Carlo Verdone",
-      "sommario": "Che fine ha fatto Paolone di 7 chili in 7 giorni? Chi è Fabrizio Sergi, il bambino del celebre film con Carlo Verdone e Renato Pozzetto, e cosa fa oggi.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/mohammad-rasoulof-jafar-panahi-denuncia",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-04T12:05:20.000Z",
-      "titolo": "Rasoulof accusa il regime iraniano: Panahi condannato a cinque anni di carcere",
-      "sommario": "Mohammad Rasoulof al Tokyo Film Festival cita la condanna di Jafar Panahi a cinque anni di carcere come prova della repressione del cinema iraniano.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/film-intelligenza-artificiale-flop-sanxingdui",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-03T11:32:14.000Z",
-      "titolo": "Il primo film interamente generato dall’AI crolla al box office: Sanxingdui: Future Past incassa solo 198mila dollari",
-      "sommario": "Il primo film fatto con intelligenza artificiale distribuito in Cina è un flop storico: Sanxingdui: Future Past ha incassato solo 198mila dollari in una settimana con rat",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/sophia-lillis-protagonista-immagine-teaser-horror-firmato-hideo-kojima-909407.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-11-02T23:05:00.000Z",
-      "titolo": "OD: Sophia Lillis protagonista di un'immagine teaser dell'horror firmato da Hideo Kojima",
-      "sommario": "OD di Kojima svela un nuovo teaser alla mostra di Tokyo: un misterioso oggetto rosso fluttuante accende le teorie tra i fan. OD è un gioco che si è mostrato molto di rado , ma il misterioso progetto horror di Hideo Kojima riceve una nuova immagine teaser nell'ambito della mostra per il decimo anniversario di Kojima Pro",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/the-blood-countess-film-ottinger-censura",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-03T10:15:57.000Z",
-      "titolo": "Ulrike Ottinger denuncia il taglio di 20 minuti a The Blood Countess: censura creativa al Tokyo International Film Festival",
-      "sommario": "Ulrike Ottinger rivela al Tokyo Film Festival che The Blood Countess con Isabelle Huppert è stato ridotto di 20 minuti senza consenso, sollevando questioni di censura cre",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/il-signore-degli-anelli-caccia-a-gollum-sam-heughan-sara-nel-cast-lattore-lascia-un-indizio-misterioso",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-02T09:00:30.000Z",
-      "titolo": "Il Signore degli Anelli: Caccia a Gollum, Sam Heughan sarà nel cast? L'attore lascia un indizio misterioso",
-      "sommario": "Sam Heughan potrebbe entrare nel cast di Caccia a Gollum? La star di Outlander sorprende i fan con una dichiarazione sulla Nuova Zelanda e il suo legame con Tolkien.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/percy-jackson-season-3-lucca-comics",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-02T08:04:25.000Z",
-      "titolo": "Percy Jackson e gli dei dell’Olimpo 3, il cast sbarca a Lucca Comics & Games 2026",
-      "sommario": "Il cast di Percy Jackson e gli dei dell'Olimpo presenta la terza stagione a Lucca Comics 2026, con anticipazioni su Titani e la Profezia.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/nicolas-cage-senza-filtri-sulla-marvel-il-mcu-e-diventato-un-wrestling-glorificato-con-budget-stellare",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-02T10:27:50.000Z",
-      "titolo": "Nicolas Cage senza filtri sulla Marvel: il MCU è diventato un wrestling glorificato con budget stellare",
-      "sommario": "Nicolas Cage critica il Marvel Cinematic Universe al Fan Expo Dallas: lo paragona al wrestling glorificato con budget stellare. Chiede più narrazione e meno action.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [
-        "Nicolas Cage"
-      ],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/pok-mon-30-anniversario-prezzo-data-uscita-collezioni-statuina-mew-mewtwo-909142.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-11-02T11:04:00.000Z",
-      "titolo": "Pokémon 30&deg; Anniversario: prezzo e data di uscita delle Collezioni con statuina Mew e MewTwo",
-      "sommario": "Le nuove Collezioni con statuina dedicate ai Pokémon del 30&deg; Anniversario arrivano il 6 novembre 2026 in edicola a 39,90 euro. Non solo le Collezioni Ultra Premium: Giornata e Serata , questa settimana arrivano in edicola anche le Collezioni con statuina dedicate a Mew e MewTwo , arricchendo ulteriormente la lista ",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/bully-perch-20-anni-capolavoro-rockstar-merita-sequel-909207.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-11-02T08:54:00.000Z",
-      "titolo": "Bully: perché dopo 20 anni il capolavoro Rockstar merita ancora un sequel",
-      "sommario": "Rockstar Games si è distinta nel settore grazie a titoli come Bully, capolavoro del 2006 che ha rinnovato il genere open world scolastico. Se oggi Rockstar Games è considerata fra le aziende più forti e popolari di tutta l' industria dei videogiochi , in parte lo deve anche alla sua visione creativa avanti decenni. Un ",
-      "sezioneProvvisoria": "passato",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/ferine-horror-andrea-corsini-clip-esclusiva_171800/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-03T13:18:01.000Z",
-      "titolo": "Ferine, quando l'istinto animale prende il sopravvento: la clip esclusiva dell'horror di Andrea Corsini",
-      "sommario": "Una donna raffinata, un istinto primordiale che prende il sopravvento e una trasformazione sempre più inquietante: in esclusiva una scena di Ferine, lungometraggio d'esordio di Andrea Corsini, al cinema dal 5 novembre con Adler Entertainment Il confine tra razionalità e istinto animale è al centro di Ferine, primo lung",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/ti-ho-visto-nascere-stefano-accorsi-e-il-legame-con-kimi-antonelli-il-ricordo-commosso-sul-film",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-03T11:27:55.000Z",
-      "titolo": "\"Ti ho visto nascere\": Stefano Accorsi e il legame con Kimi Antonelli, il ricordo commosso sul film",
-      "sommario": "Stefano Accorsi celebra Kimi Antonelli dopo il Mondiale di Formula 1 e condivide le foto del loro incontro sul set di Veloce come il vento nel 2016.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/fratelli-coen-tornano-lavorare-insieme-dopo-dieci-anni-film-netflix_171794/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-03T11:00:44.000Z",
-      "titolo": "I fratelli Coen tornano a lavorare insieme dopo quasi dieci anni con un film di Netflix",
-      "sommario": "Joel ed Ethan Coen firmano insieme la sceneggiatura di un mistero gotico ambientato nelle Highlands scozzesi, tratto da un romanzo del 1901: alla regia ci sarà Joel, mentre nel cast figurano Josh O'Connor, Patsy Ferran, Damian Lewis e Lesley Manville. Dopo anni di percorsi professionali separati, Joel ed Ethan Coen tor",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/frozen-4-disney-cambia-strategia-se-la-prende-comoda-buon-motivo_171795/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-03T10:00:00.000Z",
-      "titolo": "Frozen 4 si farà attendere: Disney cambia strategia e se la prende comoda, ma c’è un buon motivo",
-      "sommario": "Disney aveva inizialmente immaginato un intervallo molto breve tra Frozen 3 e Frozen 4, ma i piani sono cambiati. Jared Bush spiega perché lo studio preferisce non accelerare i tempi. Frozen 3 arriverà nei cinema il 24 novembre 2027, ma Disney sta già guardando al futuro di Anna, Elsa e del regno di Arendelle. Frozen 4",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/kimi-antonelli-e-il-retroscena-che-nessuno-si-aspettava-il-cameo-nel-film-con-stefano-accorsi",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-03T10:25:01.000Z",
-      "titolo": "Kimi Antonelli e il retroscena che nessuno si aspettava: il cameo nel film con Stefano Accorsi",
-      "sommario": "Kimi Antonelli apparve da bambino in Veloce come il vento nel 2016. Oggi è campione del mondo di F1. La profezia cinematografica che si è avverata.",
-      "sezioneProvvisoria": "curiosita",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/pirati-caraibi-johnny-depp-tornare-unico-ottimo-motivo_171792/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-03T09:00:13.000Z",
-      "titolo": "Pirati dei Caraibi: Johnny Depp è disposto a tornare per un unico, ottimo motivo",
-      "sommario": "Dopo le parole del produttore Jerry Bruckheimer, che vorrebbe coinvolgerlo nel prossimo capitolo della saga, Johnny Depp torna a parlare del futuro di Jack Sparrow: non esclude un nuovo film, ma pone una condizione precisa. Il futuro di Pirati dei Caraibi potrebbe riservare ancora un posto a Johnny Depp. Dopo anni di i",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.badtaste.it/articoli/tv8-lancia-la-maratona-dei-film-di-natale-due-appuntamenti-al-giorno-e-un-dicembre-tutto-da-scoprire",
-      "fonte": "BadTaste",
-      "lingua": "it",
-      "data": "2026-11-03T09:04:49.000Z",
-      "titolo": "TV8 lancia la maratona dei film di Natale: due appuntamenti al giorno e un dicembre tutto da scoprire",
-      "sommario": "TV8 anticipa il Natale con Appuntamento con l'amore Christmas: due film al giorno a novembre e una programmazione speciale per tutto dicembre.",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.cineblog.it/post/coen-brothers-netflix-film-jack-spades",
-      "fonte": "Cineblog",
-      "lingua": "it",
-      "data": "2026-11-04T00:21:43.000Z",
-      "titolo": "I Coen tornano insieme per Netflix: il mistero gotico nelle Highlands",
-      "sommario": "Joel e Ethan Coen tornano insieme per il Coen Brothers Netflix film 'Jack of Spades', un thriller gotico nelle Highlands scozzesi con Josh O'Connor.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.everyeye.it/notizie/golden-joystick-awards-chi-vincer-goty-2026-gta-6-giochi-908133.html",
-      "fonte": "Everyeye",
-      "lingua": "it",
-      "data": "2026-11-01T17:42:00.000Z",
-      "titolo": "Golden Joystick Awards: chi vincerà il GOTY 2026? GTA 6 fuori dai giochi!",
-      "sommario": "Gli organizzatori della nuova edizione dei Golden Joystick Awards stilano l'elenco dei videogiochi che si contenderanno il prestigioso premio GOTY Il mancato dominio di GTA 6 dei GOTY 2026 promette di rendere, se possibile, ancora più avvincente e inaspettata la battaglia per la conquista del prestigioso premio Game of",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.screenweek.it/il-gatto-col-cappello-si-muove-tra-avventura-e-confronto-generazionale/",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-11-03T11:50:59.000Z",
-      "titolo": "Il gatto col cappello si muove tra avventura e confronto generazionale",
-      "sommario": "Il film di Erica Rivinoja e Alessandro Carloni rilegge la creatura del Dr. Seuss alla luce dei blockbuster animati contemporanei.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.screenweek.it/carrie-compie-50-anni-il-capolavoro-horror-che-ci-ha-insegnato-a-temere-la-crudelta-umana/",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-11-03T09:06:04.000Z",
-      "titolo": "Carrie compie 50 anni: il capolavoro horror che ci ha insegnato a temere la crudeltà umana",
-      "sommario": "Dal romanzo di Stephen King salvato dalla spazzatura al cult di Brian De Palma: cinquant'anni di sangue, bullismo e repressione per una storia che continua a raccontare le nostre paure più profonde.",
-      "sezioneProvvisoria": "passato",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/dustin-hoffman-lato-oscuro-laureato-27-schiaffi-nemmeno-film_171782/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-02T15:00:10.000Z",
-      "titolo": "Dustin Hoffman e il lato oscuro de Il laureato: \"Ho preso 27 schiaffi nemmeno finiti nel film\"",
-      "sommario": "Sul set de Il laureato, Dustin Hoffman visse mesi di profonda insicurezza, convinto di non essere all'altezza e di aver deluso il regista Mike Nichols, fino a una scena ripetuta 27 volte, con conseguenze fisiche che l'attore ricorda ancora. Il ruolo che lo rese celebre avrebbe dovuto cambiargli la vita, e così fu: a qu",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/tv8-natale-2027-programmazione-comincia-oggi-2-novembre_171785/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-02T14:37:32.000Z",
-      "titolo": "TV8 è il canale giusto per chi ha già voglia di Natale: al via oggi la programmazione delle feste",
-      "sommario": "Dal 2 novembre doppio appuntamento pomeridiano con i film del ciclo 'Appuntamento con l'amore Christmas': storie romantiche e atmosfere natalizie anticipano la programmazione speciale che a dicembre accompagnerà gli spettatori di TV8 per tutta la giornata Non è ancora dicembre, ma su TV8 l'atmosfera natalizia è già pro",
-      "sezioneProvvisoria": "approfondimento",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://movieplayer.it/news/cinema-ipnotizzare-spettatori-dimenticare-film-esperimento-olanda_171772/",
-      "fonte": "MoviePlayer",
-      "lingua": "it",
-      "data": "2026-11-02T10:00:42.000Z",
-      "titolo": "\"Ipnotizzeremo gli spettatori\": l'esperimento folle (e un po' geniale) di un cinema dei Paesi Bassi",
-      "sommario": "Pathé, catena cinematografica olandese, ha deciso di sperimentare una forma di intrattenimento piuttosto insolita: ipnotizzare il pubblico per fargli dimenticare un film già visto e restituirgli, almeno in teoria, la sorpresa della prima visione. E se fosse possibile rivedere un film come se non lo si fosse mai visto? ",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.screenweek.it/se-domani-non-torno-unisce-ricostruzione-intima-e-cinema-educativo/",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-11-02T15:14:32.000Z",
-      "titolo": "Se domani non torno unisce ricostruzione intima e cinema educativo",
-      "sommario": "Paola Randi racconta i giorni del femminicidio di Giulia Cecchettin, focalizzandosi sul dramma dell'assenza e sulla promozione di una nuova consapevolezza.",
-      "sezioneProvvisoria": "notizia",
-      "soggetti": [],
-      "radar": null
-    },
-    {
-      "link": "https://www.screenweek.it/i-film-piu-attesi-di-novembre/",
-      "fonte": "ScreenWeek",
-      "lingua": "it",
-      "data": "2026-10-31T06:11:39.000Z",
-      "titolo": "I film più attesi di novembre",
-      "sommario": "Tra grande cinema d'autore, saghe celebri e capolavori del passato, ecco le uscite cinematografiche più attese di novembre.",
+      "data": "2026-11-04T18:27:02.000Z",
+      "titolo": "Falkor torna sul grande schermo dopo 42 anni: ecco quando vedere La storia infinita al cinema",
+      "sommario": "La storia infinita torna al cinema in versione rimasterizzata. Rivivi la magia di Falkor e Fantàsia sul grande schermo.",
       "sezioneProvvisoria": "notizia",
       "soggetti": [],
       "radar": null
