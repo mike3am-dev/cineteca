@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-05T12:52:54.733Z",
+  "preparato": "2026-11-06T12:39:21.682Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,6 +79,40 @@
   },
   "film": [
     {
+      "id": "tmdb-1003596",
+      "tmdbId": 1003596,
+      "imdbId": "tt21357150",
+      "origine": "trailer",
+      "titolo": "Avengers: Doomsday",
+      "titoloOriginale": "Avengers: Doomsday",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-16",
+      "regia": "Joe Russo",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 165,
+      "tagline": null,
+      "cast": [
+        "Robert Downey Jr. (Victor von Doom  / Doctor Doom)",
+        "Chris Evans (Steve Rogers)",
+        "Chris Hemsworth (Thor)",
+        "Pedro Pascal (Reed Richards / Mister Fantastic)",
+        "Paul Rudd (Scott Lang / Ant-Man)",
+        "Anthony Mackie (Sam Wilson / Captain America)"
+      ],
+      "tramaTmdb": "Gli universi si scontrano e la Saga del Multiverso inizia il suo capitolo finale. Gli amati eroi di tre universi distinti si troveranno su una rotta di collisione mortale e dovranno affrontare una minaccia esistenziale diversa da qualsiasi altra abbiano mai incontrato.",
+      "motivi": [
+        "fantascienza e avventura: il tuo terreno"
+      ],
+      "impronta": "Avengers: Doomsday|269|Joe Russo"
+    },
+    {
       "id": "tmdb-1457866",
       "tmdbId": 1457866,
       "imdbId": "tt36408401",
@@ -146,37 +180,38 @@
       "impronta": "La Gradiva|333|Marine Atlan"
     },
     {
-      "id": "tmdb-1317149",
-      "tmdbId": 1317149,
-      "imdbId": "tt31514146",
+      "id": "tmdb-1117898",
+      "tmdbId": 1117898,
+      "imdbId": "tt2321555",
       "origine": "trailer",
-      "titolo": "I Swear - È più forte di me",
-      "titoloOriginale": "I Swear",
+      "titolo": "Il gatto col cappello",
+      "titoloOriginale": "The Cat in the Hat",
       "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "Kirk Jones",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Erica Rivinoja",
       "generi": [
-        "Dramma",
-        "Storia"
+        "Animazione",
+        "Fantasy",
+        "Avventura",
+        "Famiglia"
       ],
       "paesi": [
-        "Regno Unito"
+        "Regno Unito",
+        "USA"
       ],
-      "durata": 121,
-      "tagline": null,
+      "durata": 91,
+      "tagline": "Qui gatto ci cova",
       "cast": [
-        "Robert Aramayo (John)",
-        "Maxine Peake (Dottie)",
-        "Peter Mullan (Tommy)",
-        "Shirley Henderson (Heather)",
-        "Scott Ellis Watson (Young John)",
-        "David Carlyle (Chris)"
+        "Bill Hader (The Cat in the Hat (voice))",
+        "Xochitl Gomez (Gabby (voice))",
+        "Tiago Martinez (Sebastian (voice))",
+        "Matt Berry (Waffles the Fish (voice))",
+        "Quinta Brunson (Sherrie (voice))",
+        "Bowen Yang (Gary (voice))"
       ],
-      "tramaTmdb": "A quindici anni, John Davidson riceve una diagnosi di sindrome di Tourette. Sfidando ogni difficoltà, affronta un'adolescenza complicata e il passaggio all'età adulta, trovando nella gentilezza degli altri la forza e l'ispirazione necessarie per scoprire il suo vero scopo nella vita.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "I Swear - È più forte di me|284|Kirk Jones"
+      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+      "motivi": [],
+      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
     },
     {
       "id": "tmdb-891621",
@@ -203,9 +238,9 @@
         "John Malkovich (Chris)",
         "Sam Rockwell (Lee)",
         "Steve Buscemi (MJ)",
-        "Tom Waits (Jim)",
         "Parker Posey (Marge)",
-        "Mariana di Girolamo (Monica)"
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)"
       ],
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
@@ -243,39 +278,6 @@
       "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
-      "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
-      "generi": [
-        "Animazione",
-        "Fantasy",
-        "Commedia"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherrie (voice))",
-        "Bowen Yang (Gary (voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
       "id": "tmdb-1567605",
       "tmdbId": 1567605,
       "imdbId": "tt38773219",
@@ -297,11 +299,11 @@
       "tagline": null,
       "cast": [
         "Johnny Depp (Ebenezer Scrooge)",
+        "Adam Sandler (Sonny O’delle)",
         "Rupert Grint (Bob Cratchit)",
         "Daisy Ridley (Emily Cratchit)",
         "Andrea Riseborough (Ghost of Christmas Past)",
-        "Tramell Tillman (Ghost of Christmas Present)",
-        "Ian McKellen (Jacob Marley)"
+        "Tramell Tillman (Ghost of Christmas Present)"
       ],
       "tramaTmdb": null,
       "motivi": [],
@@ -338,38 +340,6 @@
       "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
       "motivi": [],
       "impronta": "Come rapinare una banca|451|David Leitch"
-    },
-    {
-      "id": "tmdb-1813355",
-      "tmdbId": 1813355,
-      "imdbId": "tt50389959",
-      "origine": "trailer",
-      "titolo": "A Story of Derry",
-      "titoloOriginale": "A Story of Derry",
-      "anno": "2026",
-      "uscitaItalia": "2026-10-31",
-      "regia": "Tazbah Chavez",
-      "generi": [
-        "Dramma",
-        "Horror",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 30,
-      "tagline": null,
-      "cast": [
-        "Kiawentiio (Neekani)",
-        "Isabel DeRoy-Olson (Kino)",
-        "Michael Podemski (Maneese)",
-        "Zahn McClarnon (Mitig)",
-        "MorningStar Angeline (Sesqui)",
-        "Brandon Oakes (Apto)"
-      ],
-      "tramaTmdb": "Centinaia di anni prima dell'arrivo di Pennywise, tre ragazzini si avventurano nel bosco dove incontrano un terrificante e antico spirito.",
-      "motivi": [],
-      "impronta": "A Story of Derry|138|Tazbah Chavez"
     },
     {
       "id": "tmdb-1538497",

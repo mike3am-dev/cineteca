@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-05T12:52:54.113Z",
+  "preparato": "2026-11-06T12:39:20.702Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -369,13 +369,47 @@
         "浜辺美波 (Noriko Oishi)",
         "山田裕貴 (Shiro Mizushima)",
         "Kuranosuke Sasaki (Seiji Akitsu)",
-        "Jun Kunimura",
+        "Jun Kunimura (Dr. Ogata)",
         "田中美央 (Captain Tatsuo Hotta)",
         "Sakura Ando (Sumiko Ota)",
         "長澤まさみ (Aoyama)"
       ],
       "tramaTmdb": "La vicenda è ambientata nel 1949, in un Giappone che sta ancora faticosamente cercando di ricostruirsi dopo i traumi della Seconda Guerra Mondiale e dopo il precedente passaggio del mostro. La ricomparsa di Godzilla costringerà i due protagonisti, l’ex pilota Kōichi (interpretato da Ryunosuke Kamiki) e Noriko (Minami Hamabe), a una nuova e disperata lotta per la sopravvivenza.",
       "impronta": "Godzilla Minus Zero|379|Takashi Yamazaki"
+    },
+    {
+      "id": "tmdb-1300968",
+      "tmdbId": 1300968,
+      "imdbId": "tt32558705",
+      "titolo": "Hunger Games - L'alba sulla mietitura",
+      "titoloOriginale": null,
+      "anno": "2026",
+      "uscitaItalia": "2026-11-19",
+      "lista": "cinema",
+      "regia": "Francis Lawrence",
+      "generi": [
+        "Fantascienza",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "USA",
+        "Germania"
+      ],
+      "durata": 159,
+      "tagline": "Questi giochi saranno diversi.",
+      "cast": [
+        "Joseph Zada (Haymitch Abernathy)",
+        "Mckenna Grace (Maysilee Donner / Merrilee Donner)",
+        "Maya Hawke (Wiress)",
+        "Ralph Fiennes (President Coriolanus Snow)",
+        "Jesse Plemons (Plutarch Heavensbee)",
+        "Elle Fanning (Effie Trinket)",
+        "Kieran Culkin (Caesar Flickerman)",
+        "Glenn Close (Drusilla Sickle)"
+      ],
+      "tramaTmdb": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
+      "impronta": "Hunger Games - L'alba sulla mietitura|282|Francis Lawrence"
     },
     {
       "id": "tmdb-1421903",
@@ -410,40 +444,36 @@
       "impronta": "Werwulf|367|Robert Eggers"
     },
     {
-      "id": "tmdb-1226863",
-      "tmdbId": 1226863,
-      "imdbId": "tt28650488",
-      "titolo": "Super Mario Galaxy - Il film",
+      "id": "tmdb-574475",
+      "tmdbId": 574475,
+      "imdbId": "tt9619824",
+      "titolo": "Final Destination - Bloodlines",
       "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-04-01",
+      "anno": "2025",
+      "uscitaItalia": "2025-05-15",
       "lista": "casa",
-      "regia": "Aaron Horvath",
+      "regia": "Zach Lipovsky",
       "generi": [
-        "Famiglia",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Animazione"
+        "Horror",
+        "Mistero"
       ],
       "paesi": [
-        "Giappone",
         "USA"
       ],
-      "durata": 105,
-      "tagline": "La galassia ti attende.",
+      "durata": 110,
+      "tagline": "Una famiglia con la morte nel sangue.",
       "cast": [
-        "Chris Pratt (Mario (voice))",
-        "Charlie Day (Luigi (voice))",
-        "Anya Taylor-Joy (Princess Peach (voice))",
-        "Jack Black (Bowser (voice))",
-        "Keegan-Michael Key (Toad (voice))",
-        "Benny Safdie (Bowser Junior (voice))",
-        "Donald Glover (Yoshi (voice))",
-        "Glen Powell (Fox McCloud (voice))"
+        "Kaitlyn Santa Juana (Stefani Reyes)",
+        "Teo Briones (Charlie Reyes)",
+        "Rya Kihlstedt (Darlene Campbell)",
+        "Richard Harmon (Erik)",
+        "Owen Patrick Joyner (Bobby)",
+        "Anna Lore (Julia)",
+        "Alex Zahara (Uncle Howard)",
+        "April Telek (Aunt Brenda)"
       ],
-      "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
-      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
+      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
+      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
     },
     {
       "id": "tmdb-1153576",
