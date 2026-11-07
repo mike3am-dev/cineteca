@@ -1,7 +1,169 @@
 {
-  "aggiornato": "2026-11-06T12:39:21.681Z",
-  "giorno": "2026-11-06",
-  "film": [],
+  "aggiornato": "2026-11-07T11:26:14.733Z",
+  "giorno": "2026-11-07",
+  "film": [
+    {
+      "tmdbId": 406,
+      "imdbId": "tt0113247",
+      "title": "L'odio",
+      "originalTitle": "La Haine",
+      "release": "1995-09-21",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma"
+      ],
+      "countries": [
+        "Francia"
+      ],
+      "runtime": 98,
+      "plot": "In Le Cité, un quartiere periferico parigino, scoppia il vento della rivolta dopo il pestaggio del sedicenne Abdel Ichaha da parte della polizia. I giovani della banlieu scendono in strada e si battono tutta la notte con gli agenti. Tra loro ci sono tre amici: l'ebreo Vinz, il maghrebino Saïd e il nero Hubert Dia, un trio di sfigati, disoccupati, arrabbiati e senza futuro.",
+      "tagline": "Fino qui tutto bene…",
+      "poster": "/fO9B1SHiTBm2A1pUh6WQinV8V1x.jpg",
+      "backdrop": "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+      "director": "Mathieu Kassovitz",
+      "cast": [
+        "Vincent Cassel",
+        "Hubert Koundé",
+        "Saïd Taghmaoui",
+        "Abdel Ahmed Ghili",
+        "Solo"
+      ],
+      "castDetail": [
+        {
+          "name": "Vincent Cassel",
+          "character": "Vinz",
+          "profile": "/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+        },
+        {
+          "name": "Hubert Koundé",
+          "character": "Hubert",
+          "profile": "/nii46CtpR2AYPkl8fBKtbrffqQg.jpg"
+        },
+        {
+          "name": "Saïd Taghmaoui",
+          "character": "Saïd",
+          "profile": "/kuxI08YpwQFGweIXK7TELknwexr.jpg"
+        },
+        {
+          "name": "Abdel Ahmed Ghili",
+          "character": "Abdel",
+          "profile": "/zCBgVA0B1ywgIQsMCPIhfnE7C60.jpg"
+        },
+        {
+          "name": "Solo",
+          "character": "Santo",
+          "profile": "/ydu1Na06GXKjARkfbdv4ulG6z6.jpg"
+        },
+        {
+          "name": "Joseph Momo",
+          "character": "Ordinary Man",
+          "profile": null
+        },
+        {
+          "name": "Héloïse Rauth",
+          "character": "Sarah",
+          "profile": "/vXfAbfJTvH92srHQR4lAJIYZKTB.jpg"
+        },
+        {
+          "name": "Rywka Wajsbrot",
+          "character": "Vinz's Grandmother",
+          "profile": null
+        }
+      ],
+      "tmdbRating": 8.088,
+      "tmdbVotes": 4788,
+      "popularity": 7.5607,
+      "trailer": "https://www.youtube.com/watch?v=C6gY_iOFQbU",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "dramma: il tuo terreno",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "proposto": "2026-11-07"
+    },
+    {
+      "tmdbId": 531428,
+      "imdbId": "tt8613070",
+      "title": "Ritratto della giovane in fiamme",
+      "originalTitle": "Portrait de la jeune fille en feu",
+      "release": "2019-12-19",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Romance"
+      ],
+      "countries": [
+        "Francia"
+      ],
+      "runtime": 122,
+      "plot": "Bretagna, Francia, 1770. Marianne, una pittrice, è incaricata di realizzare il ritratto di nozze di Héloïse, una giovane donna che ha appena lasciato il convento. Héloïse è però riluttante al matrimonio e Marianne deve ritrarla senza che lei lo sappia, osservandola di giorno e lavorando di nascosto di notte. Tra le due pian piano nascerà un rapporto fatto di intimità e attrazione, destinato a un drammatico epilogo.",
+      "tagline": null,
+      "poster": "/uCx5hXBbMOwAaYlbPhl3izZglDq.jpg",
+      "backdrop": "/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg",
+      "director": "Céline Sciamma",
+      "cast": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami",
+        "Valeria Golino",
+        "Christel Baras"
+      ],
+      "castDetail": [
+        {
+          "name": "Noémie Merlant",
+          "character": "Marianne",
+          "profile": "/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
+        },
+        {
+          "name": "Adèle Haenel",
+          "character": "Héloïse",
+          "profile": "/hjdVKSzqs8QXtARvV2RTbzR1a4H.jpg"
+        },
+        {
+          "name": "Luàna Bajrami",
+          "character": "Sophie",
+          "profile": "/yjA6oAhxtRZfrC68VvAI8yOttA7.jpg"
+        },
+        {
+          "name": "Valeria Golino",
+          "character": "La Comtesse",
+          "profile": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+        },
+        {
+          "name": "Christel Baras",
+          "character": "La faiseuse d'ange",
+          "profile": "/lZdOrS1y7ADRm99GCl05vpV8zLF.jpg"
+        },
+        {
+          "name": "Armande Boulanger",
+          "character": "L'élève atelier",
+          "profile": "/3qiFTfRl8x68D8u6aUXWmV5POEb.jpg"
+        },
+        {
+          "name": "Guy Delamarche",
+          "character": "L'homme salon",
+          "profile": "/5iCVhlXw8F59ya0B0BJZhfLO2Oc.jpg"
+        },
+        {
+          "name": "Clément Bouyssou",
+          "character": "Le batelier",
+          "profile": "/523TGI1P3MIj0rg8TJyJLsEdti9.jpg"
+        }
+      ],
+      "tmdbRating": 8.089,
+      "tmdbVotes": 3100,
+      "popularity": 12.0607,
+      "trailer": "https://www.youtube.com/watch?v=xyK-pGEbddY",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "dramma: il tuo terreno",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "proposto": "2026-11-07"
+    }
+  ],
   "storico": {
     "11": "2026-10-03",
     "13": "2026-09-30",
@@ -57,6 +219,7 @@
     "389": "2026-09-20",
     "393": "2026-10-07",
     "404": "2026-09-23",
+    "406": "2026-11-07",
     "423": "2026-09-25",
     "424": "2026-09-25",
     "426": "2026-09-14",
@@ -265,6 +428,7 @@
     "524434": "2026-09-28",
     "527641": "2026-10-21",
     "527774": "2026-10-02",
+    "531428": "2026-11-07",
     "533533": "2026-09-24",
     "533535": "2026-10-08",
     "550205": "2026-10-16",

@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-06T12:39:21.682Z",
+  "preparato": "2026-11-07T11:26:14.734Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,6 +79,73 @@
   },
   "film": [
     {
+      "id": "tmdb-1457866",
+      "tmdbId": 1457866,
+      "imdbId": "tt36408401",
+      "origine": "trailer",
+      "titolo": "Le nuove disavventure di Cliff Booth",
+      "titoloOriginale": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "David Fincher",
+      "generi": [
+        "Dramma",
+        "Commedia",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": null,
+      "tagline": null,
+      "cast": [
+        "Brad Pitt (Cliff Booth)",
+        "Elizabeth Debicki (Karen Crosby)",
+        "Scott Caan (Charlie Peters)",
+        "Yahya Abdul-Mateen II (Roderick 'Hot Rod' Harrison)",
+        "Carla Gugino (Toni Peters)",
+        "Peter Weller (Gus Booth)"
+      ],
+      "tramaTmdb": "Otto anni dopo gli eventi di C'era una volta a... Hollywood, Cliff Booth torna in una Los Angeles in trasformazione. Ora lavora come risolutore di problemi nell'ombra del sistema degli studi di Hollywood e si ritrova invischiato in una pericolosa rete di segreti, crimini e tradimenti che metterà alla prova tutto ciò che sa sulla lealtà e sulla sopravvivenza.",
+      "motivi": [
+        "dramma e thriller: il tuo terreno"
+      ],
+      "impronta": "Le nuove disavventure di Cliff Booth|360|David Fincher"
+    },
+    {
+      "id": "tmdb-1317149",
+      "tmdbId": 1317149,
+      "imdbId": "tt31514146",
+      "origine": "trailer",
+      "titolo": "I Swear - È più forte di me",
+      "titoloOriginale": "I Swear",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "Kirk Jones",
+      "generi": [
+        "Dramma",
+        "Storia"
+      ],
+      "paesi": [
+        "Regno Unito"
+      ],
+      "durata": 121,
+      "tagline": null,
+      "cast": [
+        "Robert Aramayo (John)",
+        "Maxine Peake (Dottie)",
+        "Peter Mullan (Tommy)",
+        "Shirley Henderson (Heather)",
+        "Scott Ellis Watson (Young John)",
+        "David Carlyle (Chris)"
+      ],
+      "tramaTmdb": "A quindici anni, John Davidson riceve una diagnosi di sindrome di Tourette. Sfidando ogni difficoltà, affronta un'adolescenza complicata e il passaggio all'età adulta, trovando nella gentilezza degli altri la forza e l'ispirazione necessarie per scoprire il suo vero scopo nella vita.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "I Swear - È più forte di me|284|Kirk Jones"
+    },
+    {
       "id": "tmdb-1003596",
       "tmdbId": 1003596,
       "imdbId": "tt21357150",
@@ -111,40 +178,6 @@
         "fantascienza e avventura: il tuo terreno"
       ],
       "impronta": "Avengers: Doomsday|269|Joe Russo"
-    },
-    {
-      "id": "tmdb-1457866",
-      "tmdbId": 1457866,
-      "imdbId": "tt36408401",
-      "origine": "trailer",
-      "titolo": "Le avventure di Cliff Booth",
-      "titoloOriginale": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "David Fincher",
-      "generi": [
-        "Dramma",
-        "Commedia",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": null,
-      "tagline": null,
-      "cast": [
-        "Brad Pitt (Cliff Booth)",
-        "Elizabeth Debicki (Karen Crosby)",
-        "Scott Caan (Charlie Peters)",
-        "Yahya Abdul-Mateen II (Roderick 'Hot Rod' Harrison)",
-        "Carla Gugino (Toni Peters)",
-        "Peter Weller (Gus Booth)"
-      ],
-      "tramaTmdb": null,
-      "motivi": [
-        "dramma e thriller: il tuo terreno"
-      ],
-      "impronta": "Le avventure di Cliff Booth|0|David Fincher"
     },
     {
       "id": "tmdb-1154730",
@@ -180,40 +213,6 @@
       "impronta": "La Gradiva|333|Marine Atlan"
     },
     {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
-      "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
-      "generi": [
-        "Animazione",
-        "Fantasy",
-        "Avventura",
-        "Famiglia"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherrie (voice))",
-        "Bowen Yang (Gary (voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
       "id": "tmdb-891621",
       "tmdbId": 891621,
       "imdbId": "tt15799564",
@@ -238,9 +237,9 @@
         "John Malkovich (Chris)",
         "Sam Rockwell (Lee)",
         "Steve Buscemi (MJ)",
-        "Parker Posey (Marge)",
         "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)"
+        "Ailín Salas (Alicia)",
+        "Parker Posey (Marge)"
       ],
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
@@ -278,6 +277,74 @@
       "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
+      "id": "tmdb-1117898",
+      "tmdbId": 1117898,
+      "imdbId": "tt2321555",
+      "origine": "trailer",
+      "titolo": "Il gatto col cappello",
+      "titoloOriginale": "The Cat in the Hat",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Erica Rivinoja",
+      "generi": [
+        "Animazione",
+        "Fantasy",
+        "Avventura",
+        "Famiglia",
+        "Commedia"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 91,
+      "tagline": "Qui gatto ci cova",
+      "cast": [
+        "Bill Hader (The Cat in the Hat (voice))",
+        "Xochitl Gomez (Gabby (voice))",
+        "Tiago Martinez (Sebastian (voice))",
+        "Matt Berry (Waffles the Fish (voice))",
+        "Quinta Brunson (Sherrie (voice))",
+        "Bowen Yang (Gary (voice))"
+      ],
+      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
+      "motivi": [],
+      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
+    },
+    {
+      "id": "tmdb-656908",
+      "tmdbId": 656908,
+      "imdbId": "tt27988879",
+      "origine": "trailer",
+      "titolo": "Ramayana - La nascita di una leggenda",
+      "titoloOriginale": "रामायणम्",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-19",
+      "regia": "Nitesh Tiwari",
+      "generi": [
+        "Fantasy",
+        "Azione",
+        "Avventura"
+      ],
+      "paesi": [
+        "India",
+        "Regno Unito"
+      ],
+      "durata": 208,
+      "tagline": "La più grande storia dell'umanità arriva sul grande schermo",
+      "cast": [
+        "रणबीर कपूर (Prince Ram / Parshuram / Lord Vishnu)",
+        "Yash (Ravana)",
+        "Sai Pallavi (Sita)",
+        "Ravi Dubey (Lakshman)",
+        "अरुण गोविल (King Dashrath)",
+        "लारा दत्ता (Kaikeyi)"
+      ],
+      "tramaTmdb": "In un’epoca di dèi e re, il destino di interi mondi è in bilico. Rama, principe votato al dovere, al sacrificio e alla rettitudine, deve affrontare Ravana, sovrano immortale accecato dall’orgoglio e dalla sete di vendetta, tanto potente da poter frantumare il cosmo.",
+      "motivi": [],
+      "impronta": "Ramayana - La nascita di una leggenda|266|Nitesh Tiwari"
+    },
+    {
       "id": "tmdb-1567605",
       "tmdbId": 1567605,
       "imdbId": "tt38773219",
@@ -299,47 +366,15 @@
       "tagline": null,
       "cast": [
         "Johnny Depp (Ebenezer Scrooge)",
-        "Adam Sandler (Sonny O’delle)",
         "Rupert Grint (Bob Cratchit)",
         "Daisy Ridley (Emily Cratchit)",
-        "Andrea Riseborough (Ghost of Christmas Past)",
-        "Tramell Tillman (Ghost of Christmas Present)"
+        "Sam Claflin (Fred)",
+        "Tramell Tillman (Ghost of Christmas Present)",
+        "Ian McKellen (Jacob Marley)"
       ],
       "tramaTmdb": null,
       "motivi": [],
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
-    },
-    {
-      "id": "tmdb-1437511",
-      "tmdbId": 1437511,
-      "imdbId": "tt35866986",
-      "origine": "trailer",
-      "titolo": "Come rapinare una banca",
-      "titoloOriginale": "How to Rob a Bank",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "David Leitch",
-      "generi": [
-        "Azione",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 90,
-      "tagline": "Chi rapina chi?",
-      "cast": [
-        "Nicholas Hoult (Ryan)",
-        "Zoë Kravitz (Reagan Gardner)",
-        "Anna Sawai (Emi)",
-        "Rhenzy Feliz",
-        "Pete Davidson (Vince)",
-        "John C. Reilly (Agent West)"
-      ],
-      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
-      "motivi": [],
-      "impronta": "Come rapinare una banca|451|David Leitch"
     },
     {
       "id": "tmdb-1538497",
@@ -374,6 +409,71 @@
       "tramaTmdb": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
       "motivi": [],
       "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
+    },
+    {
+      "id": "tmdb-406",
+      "tmdbId": 406,
+      "imdbId": "tt0113247",
+      "origine": "scoperta",
+      "titolo": "L'odio",
+      "titoloOriginale": "La Haine",
+      "anno": "1995",
+      "uscitaItalia": "1995-09-21",
+      "regia": "Mathieu Kassovitz",
+      "generi": [
+        "Dramma"
+      ],
+      "paesi": [
+        "Francia"
+      ],
+      "durata": 98,
+      "tagline": "Fino qui tutto bene…",
+      "cast": [
+        "Vincent Cassel (Vinz)",
+        "Hubert Koundé (Hubert)",
+        "Saïd Taghmaoui (Saïd)",
+        "Abdel Ahmed Ghili (Abdel)",
+        "Solo (Santo)",
+        "Joseph Momo (Ordinary Man)"
+      ],
+      "tramaTmdb": "In Le Cité, un quartiere periferico parigino, scoppia il vento della rivolta dopo il pestaggio del sedicenne Abdel Ichaha da parte della polizia. I giovani della banlieu scendono in strada e si battono tutta la notte con gli agenti. Tra loro ci sono tre amici: l'ebreo Vinz, il maghrebino Saïd e il nero Hubert Dia, un trio di sfigati, disoccupati, arrabbiati e senza futuro.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "L'odio|375|Mathieu Kassovitz"
+    },
+    {
+      "id": "tmdb-531428",
+      "tmdbId": 531428,
+      "imdbId": "tt8613070",
+      "origine": "scoperta",
+      "titolo": "Ritratto della giovane in fiamme",
+      "titoloOriginale": "Portrait de la jeune fille en feu",
+      "anno": "2019",
+      "uscitaItalia": "2019-12-19",
+      "regia": "Céline Sciamma",
+      "generi": [
+        "Dramma",
+        "Romance"
+      ],
+      "paesi": [
+        "Francia"
+      ],
+      "durata": 122,
+      "tagline": null,
+      "cast": [
+        "Noémie Merlant (Marianne)",
+        "Adèle Haenel (Héloïse)",
+        "Luàna Bajrami (Sophie)",
+        "Valeria Golino (La Comtesse)",
+        "Christel Baras (La faiseuse d'ange)",
+        "Armande Boulanger (L'élève atelier)"
+      ],
+      "tramaTmdb": "Bretagna, Francia, 1770. Marianne, una pittrice, è incaricata di realizzare il ritratto di nozze di Héloïse, una giovane donna che ha appena lasciato il convento. Héloïse è però riluttante al matrimonio e Marianne deve ritrarla senza che lei lo sappia, osservandola di giorno e lavorando di nascosto di notte. Tra le due pian piano nascerà un rapporto fatto di intimità e attrazione, destinato a un drammatico epilogo.",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "impronta": "Ritratto della giovane in fiamme|418|Céline Sciamma"
     }
   ]
 }
