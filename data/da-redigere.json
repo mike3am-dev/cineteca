@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-07T11:26:13.738Z",
+  "preparato": "2026-11-08T11:38:30.928Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -122,7 +122,8 @@
       "regia": "Paolo Strippoli",
       "generi": [
         "Dramma",
-        "Thriller"
+        "Thriller",
+        "Horror"
       ],
       "paesi": [
         "Belgio",
@@ -187,9 +188,8 @@
       "lista": "cinema",
       "regia": "Georgia Oakley",
       "generi": [
-        "Romance",
         "Dramma",
-        "Storia"
+        "Romance"
       ],
       "paesi": [
         "Gran Bretagna",
@@ -366,7 +366,7 @@
       "tagline": "Una nuova minaccia sta per arrivare.",
       "cast": [
         "Ryūnosuke Kamiki (Koichi Shikishima)",
-        "浜辺美波 (Noriko Oishi)",
+        "浜辺美波 (Noriko Shikishima)",
         "山田裕貴 (Shiro Mizushima)",
         "Kuranosuke Sasaki (Seiji Akitsu)",
         "Jun Kunimura (Dr. Ogata)",
@@ -400,13 +400,13 @@
       "tagline": "Questi giochi saranno diversi.",
       "cast": [
         "Joseph Zada (Haymitch Abernathy)",
-        "Mckenna Grace (Maysilee Donner / Merrilee Donner)",
-        "Maya Hawke (Wiress)",
         "Ralph Fiennes (President Coriolanus Snow)",
         "Jesse Plemons (Plutarch Heavensbee)",
+        "Whitney Peak (Lenore Dove Baird)",
         "Elle Fanning (Effie Trinket)",
         "Kieran Culkin (Caesar Flickerman)",
-        "Glenn Close (Drusilla Sickle)"
+        "Maya Hawke (Wiress)",
+        "Kelvin Harrison Jr. (Beetee Latier)"
       ],
       "tramaTmdb": "Ventiquattro anni prima delle vicende di Katniss Everdeen, il giovane Haymitch Abernathy viene scelto come tributo del Distretto 12 per i cinquantesimi Hunger Games, la seconda Edizione della Memoria. Nell’arena dovrà lottare per sopravvivere contro avversari e un sistema spietato.",
       "impronta": "Hunger Games - L'alba sulla mietitura|282|Francis Lawrence"
@@ -442,41 +442,6 @@
       ],
       "tramaTmdb": "Ambientata nell'Inghilterra del XIII secolo, la storia si concentra sugli abitanti dei villaggi locali perseguitati da una creatura misteriosa. Mentre gli attacchi continuano, l'antico folklore e la superstizione sanguinano in una realtà terrificante. Sebbene i dettagli ufficiali della trama siano scarsi, il film sarà una versione storica del mito del lupo mannaro.",
       "impronta": "Werwulf|367|Robert Eggers"
-    },
-    {
-      "id": "tmdb-1022787",
-      "tmdbId": 1022787,
-      "imdbId": "tt4900148",
-      "titolo": "Elio",
-      "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-06-18",
-      "lista": "casa",
-      "regia": "Domee Shi",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantascienza",
-        "Famiglia",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
-      "cast": [
-        "Yonas Kibreab (Elio / Other Elio (voice))",
-        "Remy Edgerly (Glordon (voice))",
-        "Zoe Saldaña (Olga Solís (voice))",
-        "Brad Garrett (Lord Grigon (voice))",
-        "Brandon Moon (Ambassador Helix (voice))",
-        "Jameela Jamil (Ambassador Questa (voice))",
-        "Young Dylan (Bryce (voice))",
-        "Jake T. Getman (Caleb (voice))"
-      ],
-      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Domee Shi"
     },
     {
       "id": "tmdb-1153576",
@@ -574,42 +539,6 @@
       ],
       "tramaTmdb": "La storia di Klara, un'Amica Artificiale il cui unico desiderio è trovare la casa perfetta. Quando Klara incontra Josie, le due scoprono fin da subito una forte affinità e, sebbene la ragazza viva un rapporto conflittuale con la madre segnato da un grave lutto, lo stupore innocente e l'incrollabile lealtà di Klara inizieranno a sanare le ferite della famiglia, riportando la luce nel complicato mondo di Josie.",
       "impronta": "Klara e il sole|412|Taika Waititi"
-    },
-    {
-      "id": "tmdb-502356",
-      "tmdbId": 502356,
-      "imdbId": "tt6718170",
-      "titolo": "Super Mario Bros. Il Film",
-      "titoloOriginale": null,
-      "anno": "2023",
-      "uscitaItalia": "2023-04-05",
-      "lista": "visto",
-      "regia": "Michael Jelenic",
-      "generi": [
-        "Famiglia",
-        "Commedia",
-        "Avventura",
-        "Fantasy",
-        "Animazione"
-      ],
-      "paesi": [
-        "Giappone",
-        "USA"
-      ],
-      "durata": 92,
-      "tagline": "Not all heroes wear capes. Some wear overalls.",
-      "cast": [
-        "Chris Pratt (Mario (voice))",
-        "Anya Taylor-Joy (Princess Peach (voice))",
-        "Charlie Day (Luigi (voice))",
-        "Jack Black (Bowser (voice))",
-        "Keegan-Michael Key (Toad (voice))",
-        "Seth Rogen (Donkey Kong (voice))",
-        "Fred Armisen (Cranky Kong (voice))",
-        "Sebastian Maniscalco (Spike (voice))"
-      ],
-      "tramaTmdb": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
-      "impronta": "Super Mario Bros. Il Film|258|Michael Jelenic"
     }
   ]
 }

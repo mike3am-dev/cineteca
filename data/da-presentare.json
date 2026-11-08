@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-07T11:26:14.734Z",
+  "preparato": "2026-11-08T11:38:32.075Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -62,7 +62,7 @@
       "Barbie (2023), Greta Gerwig",
       "The Whale (2023), Darren Aronofsky",
       "The Menu (2022), Mark Mylod",
-      "Super Mario Bros. Il Film (2023), Michael Jelenic",
+      "Super Mario Bros. Il Film (2023), Aaron Horvath",
       "La sirenetta (2023), Rob Marshall",
       "C'è ancora domani (2023), Paola Cortellesi",
       "Wonka (2023), Paul King",
@@ -180,39 +180,6 @@
       "impronta": "Avengers: Doomsday|269|Joe Russo"
     },
     {
-      "id": "tmdb-1154730",
-      "tmdbId": 1154730,
-      "imdbId": "tt36107185",
-      "origine": "trailer",
-      "titolo": "La Gradiva",
-      "titoloOriginale": "La Gradiva",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-18",
-      "regia": "Marine Atlan",
-      "generi": [
-        "Dramma"
-      ],
-      "paesi": [
-        "Francia",
-        "Italia"
-      ],
-      "durata": 145,
-      "tagline": null,
-      "cast": [
-        "Colas Quignard (Toni)",
-        "Antonia Buresi (Madame Mercier)",
-        "Mitia Capellier-Audat (James)",
-        "Suzanne Gerin (Suzanne)",
-        "Hadya Fofana (Angela)",
-        "Rouge Isaac (Amaury)"
-      ],
-      "tramaTmdb": "Una classe di liceali si reca a Pompei alla scoperta delle rovine e dei corpi pietrificati dal Vesuvio. Il viaggio si trasforma in un momento unico in cui la forza della giovinezza incontra un mondo congelato nel tempo. I loro desideri cominciano ad affiorare con intensità inaspettata, conducendoli verso una frattura irreversibile.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "La Gradiva|333|Marine Atlan"
-    },
-    {
       "id": "tmdb-891621",
       "tmdbId": 891621,
       "imdbId": "tt15799564",
@@ -303,8 +270,8 @@
         "Bill Hader (The Cat in the Hat (voice))",
         "Xochitl Gomez (Gabby (voice))",
         "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles the Fish (voice))",
-        "Quinta Brunson (Sherrie (voice))",
+        "Matt Berry (Waffles (voice))",
+        "Quinta Brunson (Sherrie from HR (voice))",
         "Bowen Yang (Gary (voice))"
       ],
       "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
@@ -330,7 +297,7 @@
         "India",
         "Regno Unito"
       ],
-      "durata": 208,
+      "durata": 197,
       "tagline": "La più grande storia dell'umanità arriva sul grande schermo",
       "cast": [
         "रणबीर कपूर (Prince Ram / Parshuram / Lord Vishnu)",
@@ -411,69 +378,108 @@
       "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
     },
     {
-      "id": "tmdb-406",
-      "tmdbId": 406,
-      "imdbId": "tt0113247",
-      "origine": "scoperta",
-      "titolo": "L'odio",
-      "titoloOriginale": "La Haine",
-      "anno": "1995",
-      "uscitaItalia": "1995-09-21",
-      "regia": "Mathieu Kassovitz",
+      "id": "tmdb-1437511",
+      "tmdbId": 1437511,
+      "imdbId": "tt35866986",
+      "origine": "trailer",
+      "titolo": "Come rapinare una banca",
+      "titoloOriginale": "How to Rob a Bank",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "David Leitch",
       "generi": [
+        "Azione",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 90,
+      "tagline": "Chi rapina chi?",
+      "cast": [
+        "Nicholas Hoult (Ryan)",
+        "Zoë Kravitz (Reagan Gardner)",
+        "Anna Sawai (Emi)",
+        "Rhenzy Feliz",
+        "Pete Davidson (Vince)",
+        "John C. Reilly (Agent West)"
+      ],
+      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+      "motivi": [],
+      "impronta": "Come rapinare una banca|451|David Leitch"
+    },
+    {
+      "id": "tmdb-522518",
+      "tmdbId": 522518,
+      "imdbId": "tt8385474",
+      "origine": "scoperta",
+      "titolo": "Qua la zampa 2 - Un amico è per sempre",
+      "titoloOriginale": "A Dog's Journey",
+      "anno": "2020",
+      "uscitaItalia": "2020-07-01",
+      "regia": "Gail Mancuso",
+      "generi": [
+        "Famiglia",
+        "Avventura",
         "Dramma"
       ],
       "paesi": [
-        "Francia"
+        "Cina",
+        "India",
+        "USA"
       ],
-      "durata": 98,
-      "tagline": "Fino qui tutto bene…",
+      "durata": 109,
+      "tagline": "Alcune amicizie trascendono le vite.",
       "cast": [
-        "Vincent Cassel (Vinz)",
-        "Hubert Koundé (Hubert)",
-        "Saïd Taghmaoui (Saïd)",
-        "Abdel Ahmed Ghili (Abdel)",
-        "Solo (Santo)",
-        "Joseph Momo (Ordinary Man)"
+        "Marg Helgenberger (Hannah Montgomery)",
+        "Betty Gilpin (Gloria Mitchell)",
+        "헨리 (Trent)",
+        "Kathryn Prescott (Clarity June \"CJ\" Mitchell)",
+        "Dennis Quaid (Ethan Montgomery)",
+        "Josh Gad (Bailey / Molly / Big Dog / Max (voice))"
       ],
-      "tramaTmdb": "In Le Cité, un quartiere periferico parigino, scoppia il vento della rivolta dopo il pestaggio del sedicenne Abdel Ichaha da parte della polizia. I giovani della banlieu scendono in strada e si battono tutta la notte con gli agenti. Tra loro ci sono tre amici: l'ebreo Vinz, il maghrebino Saïd e il nero Hubert Dia, un trio di sfigati, disoccupati, arrabbiati e senza futuro.",
+      "tramaTmdb": "Alcune amicizie trascendono le vite. In Qua la zampa 2 – Un amico è per sempre, il sequel del commovente successo mondiale Qua la zampa, l’amato cane Bailey trova il suo nuovo destino e forma un legame indissolubile che condurrà lui, e le persone che ama, in luoghi che non immaginavano.  Bailey sta facendo la bella vita nella fattoria del Michigan del suo “ragazzo” Ethan (Dennis Quaid) e di Hannah, moglie di Ethan (Marg Helgenberger). Ha anche un nuovo compagno di giochi: la nipotina di Ethan e Hannah, CJ. Il problema è che la madre di CJ, Gloria (Betty Gilpin), decide di portare via CJ. Mentr",
       "motivi": [
-        "dramma: il tuo terreno"
+        "avventura: il tuo terreno"
       ],
-      "impronta": "L'odio|375|Mathieu Kassovitz"
+      "impronta": "Qua la zampa 2 - Un amico è per sempre|600|Gail Mancuso"
     },
     {
-      "id": "tmdb-531428",
-      "tmdbId": 531428,
-      "imdbId": "tt8613070",
+      "id": "tmdb-939243",
+      "tmdbId": 939243,
+      "imdbId": "tt18259086",
       "origine": "scoperta",
-      "titolo": "Ritratto della giovane in fiamme",
-      "titoloOriginale": "Portrait de la jeune fille en feu",
-      "anno": "2019",
-      "uscitaItalia": "2019-12-19",
-      "regia": "Céline Sciamma",
+      "titolo": "Sonic 3: Il film",
+      "titoloOriginale": "Sonic the Hedgehog 3",
+      "anno": "2025",
+      "uscitaItalia": "2025-01-01",
+      "regia": "Jeff Fowler",
       "generi": [
-        "Dramma",
-        "Romance"
+        "Azione",
+        "Fantascienza",
+        "Commedia",
+        "Famiglia"
       ],
       "paesi": [
-        "Francia"
+        "USA",
+        "Giappone"
       ],
-      "durata": 122,
-      "tagline": null,
+      "durata": 110,
+      "tagline": "Cerca di tenere il passo.",
       "cast": [
-        "Noémie Merlant (Marianne)",
-        "Adèle Haenel (Héloïse)",
-        "Luàna Bajrami (Sophie)",
-        "Valeria Golino (La Comtesse)",
-        "Christel Baras (La faiseuse d'ange)",
-        "Armande Boulanger (L'élève atelier)"
+        "Ben Schwartz (Sonic (voice))",
+        "Jim Carrey (Ivo Robotnik / Gerald Robotnik)",
+        "Keanu Reeves (Shadow (voice))",
+        "Idris Elba (Knuckles (voice))",
+        "Colleen O'Shaughnessey (Tails (voice))",
+        "James Marsden (Tom)"
       ],
-      "tramaTmdb": "Bretagna, Francia, 1770. Marianne, una pittrice, è incaricata di realizzare il ritratto di nozze di Héloïse, una giovane donna che ha appena lasciato il convento. Héloïse è però riluttante al matrimonio e Marianne deve ritrarla senza che lei lo sappia, osservandola di giorno e lavorando di nascosto di notte. Tra le due pian piano nascerà un rapporto fatto di intimità e attrazione, destinato a un drammatico epilogo.",
+      "tramaTmdb": "Sonic, Knuckles e Tails si ritrovano a dover fronteggiare un nuovo e formidabile nemico:  Shadow, un misterioso villain con poteri incredibili mai visti prima. Con le loro abilità messe alla prova in ogni modo, il Team Sonic dovra cercare un'alleanza inaspettata per fermare Shadow e proteggere il pianeta.",
       "motivi": [
-        "dramma: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "impronta": "Ritratto della giovane in fiamme|418|Céline Sciamma"
+      "impronta": "Sonic 3: Il film|306|Jeff Fowler"
     }
   ]
 }

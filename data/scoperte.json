@@ -1,167 +1,174 @@
 {
-  "aggiornato": "2026-11-07T11:26:14.733Z",
-  "giorno": "2026-11-07",
+  "aggiornato": "2026-11-08T11:38:32.074Z",
+  "giorno": "2026-11-08",
   "film": [
     {
-      "tmdbId": 406,
-      "imdbId": "tt0113247",
-      "title": "L'odio",
-      "originalTitle": "La Haine",
-      "release": "1995-09-21",
+      "tmdbId": 522518,
+      "imdbId": "tt8385474",
+      "title": "Qua la zampa 2 - Un amico è per sempre",
+      "originalTitle": "A Dog's Journey",
+      "release": "2020-07-01",
       "releaseFonte": "IT",
       "genres": [
+        "Famiglia",
+        "Avventura",
         "Dramma"
       ],
       "countries": [
-        "Francia"
+        "Cina",
+        "India",
+        "USA"
       ],
-      "runtime": 98,
-      "plot": "In Le Cité, un quartiere periferico parigino, scoppia il vento della rivolta dopo il pestaggio del sedicenne Abdel Ichaha da parte della polizia. I giovani della banlieu scendono in strada e si battono tutta la notte con gli agenti. Tra loro ci sono tre amici: l'ebreo Vinz, il maghrebino Saïd e il nero Hubert Dia, un trio di sfigati, disoccupati, arrabbiati e senza futuro.",
-      "tagline": "Fino qui tutto bene…",
-      "poster": "/fO9B1SHiTBm2A1pUh6WQinV8V1x.jpg",
-      "backdrop": "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
-      "director": "Mathieu Kassovitz",
+      "runtime": 109,
+      "plot": "Alcune amicizie trascendono le vite. In Qua la zampa 2 – Un amico è per sempre, il sequel del commovente successo mondiale Qua la zampa, l’amato cane Bailey trova il suo nuovo destino e forma un legame indissolubile che condurrà lui, e le persone che ama, in luoghi che non immaginavano.  Bailey sta facendo la bella vita nella fattoria del Michigan del suo “ragazzo” Ethan (Dennis Quaid) e di Hannah, moglie di Ethan (Marg Helgenberger). Ha anche un nuovo compagno di giochi: la nipotina di Ethan e Hannah, CJ. Il problema è che la madre di CJ, Gloria (Betty Gilpin), decide di portare via CJ. Mentr",
+      "tagline": "Alcune amicizie trascendono le vite.",
+      "poster": "/1FVBMtI4jU6Pmxm0JE0lRTFn0Kf.jpg",
+      "backdrop": "/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
+      "director": "Gail Mancuso",
       "cast": [
-        "Vincent Cassel",
-        "Hubert Koundé",
-        "Saïd Taghmaoui",
-        "Abdel Ahmed Ghili",
-        "Solo"
+        "Marg Helgenberger",
+        "Betty Gilpin",
+        "헨리",
+        "Kathryn Prescott",
+        "Dennis Quaid"
       ],
       "castDetail": [
         {
-          "name": "Vincent Cassel",
-          "character": "Vinz",
-          "profile": "/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+          "name": "Marg Helgenberger",
+          "character": "Hannah Montgomery",
+          "profile": "/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
         },
         {
-          "name": "Hubert Koundé",
-          "character": "Hubert",
-          "profile": "/nii46CtpR2AYPkl8fBKtbrffqQg.jpg"
+          "name": "Betty Gilpin",
+          "character": "Gloria Mitchell",
+          "profile": "/bNY6pwoztA95dzFCcvDQCs7TbbF.jpg"
         },
         {
-          "name": "Saïd Taghmaoui",
-          "character": "Saïd",
-          "profile": "/kuxI08YpwQFGweIXK7TELknwexr.jpg"
+          "name": "헨리",
+          "character": "Trent",
+          "profile": "/apbaSap49dGzaE6TcmUshTWN25q.jpg"
         },
         {
-          "name": "Abdel Ahmed Ghili",
-          "character": "Abdel",
-          "profile": "/zCBgVA0B1ywgIQsMCPIhfnE7C60.jpg"
+          "name": "Kathryn Prescott",
+          "character": "Clarity June \"CJ\" Mitchell",
+          "profile": "/h4K970PqPapI69OBd84aP0GYIiF.jpg"
         },
         {
-          "name": "Solo",
-          "character": "Santo",
-          "profile": "/ydu1Na06GXKjARkfbdv4ulG6z6.jpg"
+          "name": "Dennis Quaid",
+          "character": "Ethan Montgomery",
+          "profile": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
         },
         {
-          "name": "Joseph Momo",
-          "character": "Ordinary Man",
-          "profile": null
+          "name": "Josh Gad",
+          "character": "Bailey / Molly / Big Dog / Max (voice)",
+          "profile": "/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg"
         },
         {
-          "name": "Héloïse Rauth",
-          "character": "Sarah",
-          "profile": "/vXfAbfJTvH92srHQR4lAJIYZKTB.jpg"
+          "name": "Abby Ryder Fortson",
+          "character": "Young CJ",
+          "profile": "/mNRZFVtAvj5P3HxM2PFM1YqXMAw.jpg"
         },
         {
-          "name": "Rywka Wajsbrot",
-          "character": "Vinz's Grandmother",
+          "name": "Emma Volk",
+          "character": "Toddler CJ",
           "profile": null
         }
       ],
-      "tmdbRating": 8.088,
-      "tmdbVotes": 4788,
-      "popularity": 7.5607,
-      "trailer": "https://www.youtube.com/watch?v=C6gY_iOFQbU",
-      "fonte": "dramma: il tuo terreno",
+      "tmdbRating": 8.051,
+      "tmdbVotes": 1667,
+      "popularity": 5.9601,
+      "trailer": "https://www.youtube.com/watch?v=vGnxmwQDeYA",
+      "fonte": "avventura: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
+      "perche": "avventura: il tuo terreno",
       "motivi": [
-        "dramma: il tuo terreno"
+        "avventura: il tuo terreno"
       ],
-      "proposto": "2026-11-07"
+      "proposto": "2026-11-08"
     },
     {
-      "tmdbId": 531428,
-      "imdbId": "tt8613070",
-      "title": "Ritratto della giovane in fiamme",
-      "originalTitle": "Portrait de la jeune fille en feu",
-      "release": "2019-12-19",
+      "tmdbId": 939243,
+      "imdbId": "tt18259086",
+      "title": "Sonic 3: Il film",
+      "originalTitle": "Sonic the Hedgehog 3",
+      "release": "2025-01-01",
       "releaseFonte": "IT",
       "genres": [
-        "Dramma",
-        "Romance"
+        "Azione",
+        "Fantascienza",
+        "Commedia",
+        "Famiglia"
       ],
       "countries": [
-        "Francia"
+        "USA",
+        "Giappone"
       ],
-      "runtime": 122,
-      "plot": "Bretagna, Francia, 1770. Marianne, una pittrice, è incaricata di realizzare il ritratto di nozze di Héloïse, una giovane donna che ha appena lasciato il convento. Héloïse è però riluttante al matrimonio e Marianne deve ritrarla senza che lei lo sappia, osservandola di giorno e lavorando di nascosto di notte. Tra le due pian piano nascerà un rapporto fatto di intimità e attrazione, destinato a un drammatico epilogo.",
-      "tagline": null,
-      "poster": "/uCx5hXBbMOwAaYlbPhl3izZglDq.jpg",
-      "backdrop": "/ivJ5UzT6IzucLVfbZwCCwiJJoBz.jpg",
-      "director": "Céline Sciamma",
+      "runtime": 110,
+      "plot": "Sonic, Knuckles e Tails si ritrovano a dover fronteggiare un nuovo e formidabile nemico:  Shadow, un misterioso villain con poteri incredibili mai visti prima. Con le loro abilità messe alla prova in ogni modo, il Team Sonic dovra cercare un'alleanza inaspettata per fermare Shadow e proteggere il pianeta.",
+      "tagline": "Cerca di tenere il passo.",
+      "poster": "/hArbAOlNZX0qfd2Udpr6RCTflpg.jpg",
+      "backdrop": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "director": "Jeff Fowler",
       "cast": [
-        "Noémie Merlant",
-        "Adèle Haenel",
-        "Luàna Bajrami",
-        "Valeria Golino",
-        "Christel Baras"
+        "Ben Schwartz",
+        "Jim Carrey",
+        "Keanu Reeves",
+        "Idris Elba",
+        "Colleen O'Shaughnessey"
       ],
       "castDetail": [
         {
-          "name": "Noémie Merlant",
-          "character": "Marianne",
-          "profile": "/l9ECDc9GGIESuKuT5zxIJknAD33.jpg"
+          "name": "Ben Schwartz",
+          "character": "Sonic (voice)",
+          "profile": "/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
         },
         {
-          "name": "Adèle Haenel",
-          "character": "Héloïse",
-          "profile": "/hjdVKSzqs8QXtARvV2RTbzR1a4H.jpg"
+          "name": "Jim Carrey",
+          "character": "Ivo Robotnik / Gerald Robotnik",
+          "profile": "/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
         },
         {
-          "name": "Luàna Bajrami",
-          "character": "Sophie",
-          "profile": "/yjA6oAhxtRZfrC68VvAI8yOttA7.jpg"
+          "name": "Keanu Reeves",
+          "character": "Shadow (voice)",
+          "profile": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
         },
         {
-          "name": "Valeria Golino",
-          "character": "La Comtesse",
-          "profile": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg"
+          "name": "Idris Elba",
+          "character": "Knuckles (voice)",
+          "profile": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
         },
         {
-          "name": "Christel Baras",
-          "character": "La faiseuse d'ange",
-          "profile": "/lZdOrS1y7ADRm99GCl05vpV8zLF.jpg"
+          "name": "Colleen O'Shaughnessey",
+          "character": "Tails (voice)",
+          "profile": "/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
         },
         {
-          "name": "Armande Boulanger",
-          "character": "L'élève atelier",
-          "profile": "/3qiFTfRl8x68D8u6aUXWmV5POEb.jpg"
+          "name": "James Marsden",
+          "character": "Tom",
+          "profile": "/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
         },
         {
-          "name": "Guy Delamarche",
-          "character": "L'homme salon",
-          "profile": "/5iCVhlXw8F59ya0B0BJZhfLO2Oc.jpg"
+          "name": "Tika Sumpter",
+          "character": "Maddie",
+          "profile": "/1zTXufyuQFPXVthryH7KVoZAfb7.jpg"
         },
         {
-          "name": "Clément Bouyssou",
-          "character": "Le batelier",
-          "profile": "/523TGI1P3MIj0rg8TJyJLsEdti9.jpg"
+          "name": "Lee Majdoub",
+          "character": "Agent Stone",
+          "profile": "/vpF3R2YRCGHseGevmDAhftmOPkO.jpg"
         }
       ],
-      "tmdbRating": 8.089,
-      "tmdbVotes": 3100,
-      "popularity": 12.0607,
-      "trailer": "https://www.youtube.com/watch?v=xyK-pGEbddY",
-      "fonte": "dramma: il tuo terreno",
+      "tmdbRating": 7.595,
+      "tmdbVotes": 3538,
+      "popularity": 19.2806,
+      "trailer": "https://www.youtube.com/watch?v=-z2GQdybr0U",
+      "fonte": "fantascienza: il tuo terreno",
       "categoria": "il tuo genere",
-      "perche": "dramma: il tuo terreno",
+      "perche": "fantascienza: il tuo terreno",
       "motivi": [
-        "dramma: il tuo terreno"
+        "fantascienza: il tuo terreno"
       ],
-      "proposto": "2026-11-07"
+      "proposto": "2026-11-08"
     }
   ],
   "storico": {
@@ -424,6 +431,7 @@
     "517814": "2026-10-23",
     "520763": "2026-09-16",
     "522402": "2026-10-02",
+    "522518": "2026-11-08",
     "522924": "2026-09-13",
     "524434": "2026-09-28",
     "527641": "2026-10-21",
@@ -460,6 +468,7 @@
     "823219": "2026-10-03",
     "843847": "2026-09-13",
     "931285": "2026-10-06",
+    "939243": "2026-11-08",
     "950396": "2026-10-11",
     "961323": "2026-09-29",
     "965150": "2026-09-20",
