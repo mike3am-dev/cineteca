@@ -1,10 +1,4 @@
 {
-  "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/": {
-    "titolo": "Box office: You Can See Everything verso 20 milioni, Clayface in testa",
-    "sommario": "Secondo Hollywood Reporter il documentario punta a 20 milioni nel secondo weekend; debuttano Wildwood, Wicker e Klara e il sole.",
-    "perche": "Fotografia del weekend che include Klara e il sole, il film che segui.",
-    "sezione": "notizia"
-  },
   "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close": {
     "titolo": "La Bola Negra, il kolossal queer con Penélope Cruz e Glenn Close verso gli Oscar",
     "sommario": "Epopea di guerra e pregiudizio già premiata, con Cruz in parrucca bionda e Glenn Close che parla spagnolo; il Guardian incontra gli autori.",
@@ -22,12 +16,6 @@
     "sommario": "Steven E. de Souza risponde ai dibattiti sul film: la comicità era voluta, dice, di fronte all'uscita del nuovo Street Fighter.",
     "perche": "Ripesca un cult trash, utile in vista del nuovo film.",
     "sezione": "notizia"
-  },
-  "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero": {
-    "titolo": "Patrick Stewart, da Picard a Xavier: gravità e complessità sullo schermo",
-    "sommario": "Il Guardian ricorda l'attore, la formazione shakespeariana e la voce che ne fecero una presenza unica a Hollywood.",
-    "perche": "Il ricordo critico più completo tra quelli sul tema.",
-    "sezione": "passato"
   },
   "https://www.theguardian.com/film/2026/oct/29/rocky-sylvester-stallone-anthony-ippolita": {
     "titolo": "Come un pescivendolo fece Rocky: la storia del trionfo di Stallone",
@@ -167,12 +155,6 @@
     "perche": "Pratt e Super Mario sono nella tua libreria.",
     "sezione": "notizia"
   },
-  "https://www.screenweek.it/behemoth-una-vita-da-ricomporre-il-trailer-ufficiale/": {
-    "titolo": "Behemoth! - Una vita. Da ricomporre., il trailer ufficiale",
-    "sommario": "È uscito il trailer ufficiale del film.",
-    "perche": "Solo un trailer.",
-    "sezione": "notizia"
-  },
   "https://www.cineblog.it/post/clayface-box-office-debutto": {
     "titolo": "Clayface debutta primo al box office con 24 milioni",
     "sommario": "Il film DC ha incassato 24 milioni in patria e 43 nel mondo, con un budget di 40 milioni.",
@@ -209,106 +191,16 @@
     "perche": "Tocca due titoli della tua libreria: Primetime e Godzilla Minus Zero.",
     "sezione": "approfondimento"
   },
-  "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348/": {
-    "titolo": "Camerimage apre con Artificial di Guadagnino e un omaggio a Kamiński",
-    "sommario": "La 34ª edizione del festival della fotografia si apre con il film di Luca Guadagnino; premi a Darren Aronofsky e a Janusz Kamiński.",
-    "perche": "Artificial è in libreria; Camerimage è il festival che premia chi fa le immagini.",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2310132/godzilla-minus-zero-shut-down-criticism-franchise/": {
-    "titolo": "Godzilla Minus Zero evita una delle critiche storiche alla saga",
-    "sommario": "Secondo /Film il sequel supera uno dei difetti più ricorrenti dei film su Godzilla, spesso accusati di dare poco spazio al mostro.",
-    "perche": "Hai Godzilla Minus Zero in libreria: un'anticipazione prima di vederlo.",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2309455/best-king-ghidorah-movie-watch-after-godzilla-minus-zero-streaming-hbo-max/": {
-    "titolo": "Il miglior film con King Ghidorah da vedere dopo Godzilla Minus Zero è su HBO Max",
-    "sommario": "/Film consiglia come recupero il film con Ghidorah, il principale avversario di Godzilla, disponibile in streaming su HBO Max.",
-    "perche": "Un recupero kaiju utile se Godzilla Minus Zero è in lista.",
-    "sezione": "approfondimento"
-  },
   "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/": {
     "titolo": "Nolan, presidente DGA, difende il copyright dall'IA e mette una clausola anti-IA in Odisse",
     "sommario": "Al primo mandato da presidente del sindacato registi, Nolan chiede agli studios di tutelare le opere dall'intelligenza artificiale.",
     "perche": "Di Nolan hai visto due film: qui parla di come proteggerà il cinema che ami.",
     "sezione": "approfondimento"
   },
-  "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars": {
-    "titolo": "Se Dune è lo Star Wars di questa generazione, siamo nei guai",
-    "sommario": "Il Guardian commenta il paragone di Florence Pugh tra l'universo di Villeneuve e la saga di George Lucas.",
-    "perche": "Dune lo hai visto: un punto di vista critico sulla saga di Villeneuve.",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313/": {
-    "titolo": "Pabrik Gula avrà un sequel nel 2028; MD Entertainment prepara tre film Imax",
-    "sommario": "Lo studio indonesiano MD Entertainment annuncia il seguito dell'horror campione d'incassi del 2025 e tre titoli per l'Imax.",
-    "perche": "Per capire dove va il cinema horror asiatico di grande incasso.",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/11/indie-films-opening-i-play-rocky-club-kid-wild-horse-nine-1237215727/": {
-    "titolo": "Weekend indie: I Play Rocky, Club Kid e Wild Horse Nine in sala",
-    "sommario": "Il preview Deadline dei film in uscita limitata: I Play Rocky, Club Kid, Wild Horse Nine e il debutto di Godzilla Minus Zero.",
-    "perche": "Include Godzilla Minus Zero, che hai in libreria.",
-    "sezione": "approfondimento"
-  },
-  "https://variety.com/2026/film/markets-festivals/impostor-thriller-the-stand-in-family-mirror-fiction-award-tccf-1236942238/": {
-    "titolo": "The Stand-In Family vince il Mirror Fiction Award a Taiwan",
-    "sommario": "Il thriller su un'impostura in una casa del delitto trionfa al premio della società taiwanese; presentati anche altri cinque progetti.",
-    "perche": "Segnala nuovi thriller asiatici in arrivo.",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2304227/cillian-murphy-performances-christopher-nolan-movies-ranked/": {
-    "titolo": "Le quattro interpretazioni di Cillian Murphy nei film di Nolan, in classifica",
-    "sommario": "/Film ordina i ruoli di Murphy nei film di Nolan, dai villain di Batman allo scienziato Oppenheimer.",
-    "perche": "Hai visto due film di Nolan: potresti non essere d'accordo con la classifica.",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/news/papua-new-guinea-most-expensive-film-mussau-first-song-wraps-1236942202/": {
-    "titolo": "Mussau: The First Song, il film più costoso della Papua Nuova Guinea, ha finito le riprese",
-    "sommario": "Il dramma storico da 4,5 milioni di dollari ha concluso la fotografia principale; diffuse le prime immagini.",
-    "perche": "Cinema di un paese che raramente arriva in sala.",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183/": {
-    "titolo": "Robert Pattinson e Nicholas Hoult completano i provini per James Bond",
-    "sommario": "Deadline rivela chi sono i due attori che hanno fatto il provino per interpretare il nuovo 007.",
-    "perche": "Pattinson lo hai visto due volte; alla regia di Bond c'è Villeneuve.",
-    "sezione": "notizia"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/camerimage-founder-marek-zydowicz-ai-aronofsky-cinematographers-1236749343/": {
-    "titolo": "Il fondatore di Camerimage: «I direttori della fotografia sono artisti, non tecnici»",
-    "sommario": "Marek Zydowicz parla di IA, di Aronofsky e di come il festival affronta le nuove tecnologie nel suo 34° anno.",
-    "perche": "Di Aronofsky hai visto un film: qui il festival che lo premia.",
-    "sezione": "approfondimento"
-  },
-  "https://www.slashfilm.com/2304550/project-hail-mary-author-andy-weir-movie-scenes-wanted-cut/": {
-    "titolo": "Andy Weir rivela le due scene che voleva tagliare da Project Hail Mary",
-    "sommario": "L'autore del romanzo racconta di aver suggerito di eliminare due scene molto amate del film con Ryan Gosling.",
-    "perche": "Gosling lo hai visto tre volte; curiosità dal romanzo all'adattamento.",
-    "sezione": "notizia"
-  },
-  "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review": {
-    "titolo": "Il gatto col cappello: Bill Hader funziona, ma il film d'animazione è troppo lungo",
-    "sommario": "Il Guardian giudica la nuova versione animata meglio del film del 2003, ma lunga e troppo aziendale.",
-    "perche": "Il film è in libreria: una recensione severa.",
-    "sezione": "approfondimento"
-  },
-  "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar": {
-    "titolo": "Michelle Yeoh: «La vita è come un battito»; il ruolo da robot in Blade Runner 2099",
-    "sommario": "L'attrice premio Oscar per Everything Everywhere All At Once racconta la carriera, i cliché sui ruoli e il matrimonio a 60 anni.",
-    "perche": "Per chi segue la serie Blade Runner 2099 e la carriera di Yeoh.",
-    "sezione": "notizia"
-  },
   "https://www.theguardian.com/film/2026/nov/04/callum-turner-favourite-new-james-bond-pierce-brosnan-endorses": {
     "titolo": "Callum Turner favorito per Bond; Pierce Brosnan lo sostiene",
     "sommario": "Le quote dei bookmaker scendono a 8/13 per l'attore britannico, dieci giorni dopo l'annuncio del processo di casting.",
     "perche": "Il Bond lo dirigerà Villeneuve, di cui hai visto tre film.",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247/": {
-    "titolo": "Fjord di Mungiu, Palma d'oro, vince il premio del pubblico a Giacarta",
-    "sommario": "Il film di Cristian Mungiu conquista il pubblico di Jakarta World Cinema, che si chiude con un horror thailandese di Banjong Pisanthanakun.",
-    "perche": "Segnala il film d'autore dell'anno da recuperare.",
     "sezione": "notizia"
   },
   "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations": {
@@ -323,28 +215,10 @@
     "perche": "Per chi ama il cinema d'autore da Cannes.",
     "sezione": "notizia"
   },
-  "https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189/": {
-    "titolo": "Il remake indonesiano di Invisible Guest: «È un thriller su come reagire»",
-    "sommario": "Danial Rifki racconta la paura dell'era Suharto nel rifacimento del thriller spagnolo, completato nel 2023.",
-    "perche": "Un caso di remake di un thriller spagnolo da conoscere.",
-    "sezione": "approfondimento"
-  },
   "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment": {
     "titolo": "Ava DuVernay: «Ho visto persone del mio quartiere tirate fuori dalle auto»",
     "sommario": "A dieci anni da 13th, la regista presenta un documentario sul 14° emendamento e sulle politiche dell'amministrazione Trump.",
     "perche": "Per chi vuole un cinema documentario politico, seguito di 13th.",
-    "sezione": "notizia"
-  },
-  "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/": {
-    "titolo": "L'IA potrebbe rendere il cinema più costoso dell'epoca della pellicola, avvertono i corean",
-    "sommario": "Al Taiwan Creative Content Fest produttori coreani indicano costi crescenti per token e revisioni nei lungometraggi.",
-    "perche": "Il dibattito sull'IA tocca il cinema che segui.",
-    "sezione": "notizia"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/hold-onto-me-cyprus-first-oscar-entry-father-daughter-film-1236747471/": {
-    "titolo": "Hold Onto Me, prima speranza di Cipro agli Oscar, è un dramma padre-figlia",
-    "sommario": "Il debutto di Myrsini Aristidou con Maria Petrova e Christos Passalis, attore di Dogtooth, racconta una bambina di 11 anni.",
-    "perche": "Un film d'esordio raro con un volto di Lanthimos.",
     "sezione": "notizia"
   },
   "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93": {
@@ -359,71 +233,11 @@
     "perche": "Per chi ama dietro le quinte del documentario.",
     "sezione": "curiosita"
   },
-  "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-tested-to-play-james-bond-1236749903/": {
-    "titolo": "Robert Pattinson ha fatto un provino per James Bond",
-    "sommario": "L'attore, già Batman, ha lavorato con Denis Villeneuve, che dirigerà Bond, nel terzo Dune.",
-    "perche": "Pattinson è in The Batman e in Dune, che hai visto.",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2287457/willy-wonka-and-the-chocolate-factory-river-scene-nightmare-shoot/": {
-    "titolo": "Una delle scene più celebri di Willy Wonka fu un incubo da girare",
-    "sommario": "Una sequenza del classico del 1971, tra le più inquietanti e disgustose, fu molto difficile da realizzare.",
-    "perche": "Curiosità di set su un classico.",
-    "sezione": "curiosita"
-  },
   "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies": {
     "titolo": "Muore Sebastián Lelio, regista di Una donna fantastica e Gloria, a 52 anni",
     "sommario": "Il cineasta cileno è morto nella sua casa di Santiago; ha diretto Florence Pugh, Julianne Moore e Rachel Weisz.",
     "perche": "Lelio ha diretto Florence Pugh, che segui.",
     "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2289205/sarah-michelle-gellar-passed-martin-scorsese-movie-buffy-the-vampire-slayer/": {
-    "titolo": "Sarah Michelle Gellar rinunciò a un film di Scorsese per Buffy",
-    "sommario": "L'attrice non poté lavorare con Martin Scorsese perché impegnata sul set della serie Buffy.",
-    "perche": "Aneddoto su Scorsese.",
-    "sezione": "curiosita"
-  },
-  "https://www.theguardian.com/film/2026/nov/07/johnny-depp-ebenezer-film-scrooge-hollywood": {
-    "titolo": "Hollywood scommette su Ebenezer per riportare Johnny Depp in primo piano",
-    "sommario": "Il Guardian: il personaggio di Dickens segna il primo grande ruolo da studio di Depp dopo anni di battaglie legali.",
-    "perche": "Il film su Scrooge è un caso del Natale in sala.",
-    "sezione": "notizia"
-  },
-  "https://deadline.com/2026/11/2026-sound-and-screen-film-lineup-schedule-1237211717/": {
-    "titolo": "Deadline lancia un film su musica e schermo per l'inizio degli awards",
-    "sommario": "Deadline presenta un evento dedicato al legame tra musica e cinema per aprire la stagione dei premi.",
-    "perche": "Musica e cinema.",
-    "sezione": "scarta"
-  },
-  "https://deadline.com/2026/11/heartstring-duet-liv-zander-movies-sony-development-1237215943/": {
-    "titolo": "La serie The Heartstring Duet di Liv Zander diventa un film Sony",
-    "sommario": "Sony Pictures ha acquisito i diritti della saga letteraria per l'adattamento cinematografico.",
-    "perche": "Nuovo adattamento in sviluppo.",
-    "sezione": "approfondimento"
-  },
-  "https://www.hollywoodreporter.com/movies/movie-news/poff-standing-with-ukraine-tallinn-2026-films-events-war-1236741671/": {
-    "titolo": "Il PÖFF di Tallinn con l'Ucraina: i film fatti nonostante la guerra",
-    "sommario": "Il festival estone mostra solidarietà all'Ucraina dall'invasione del 2022 con film, industry e altri programmi.",
-    "perche": "Cinema europeo di guerra e resistenza.",
-    "sezione": "notizia"
-  },
-  "https://www.slashfilm.com/2309713/elf-best-line-greatest-christmas-quote-ever/": {
-    "titolo": "Elf, 23 anni dopo: la battuta di Buddy resta la più celebre",
-    "sommario": "/Film ricorda il film di Jon Favreau e la frase che ne riassume lo spirito natalizio.",
-    "perche": "Natale in sala.",
-    "sezione": "curiosita"
-  },
-  "https://www.slashfilm.com/2298784/benedict-cumberbatch-the-power-of-the-dog-netflix-best-western-movie-5-year-anniversary/": {
-    "titolo": "Cinque anni fa Benedict Cumberbatch girava il miglior western di Netflix",
-    "sommario": "Il film con Cumberbatch, uscito nel 2021, è per /Film il miglior western originale della piattaforma.",
-    "perche": "Un western da recuperare in streaming.",
-    "sezione": "passato"
-  },
-  "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker": {
-    "titolo": "Sebastián Lelio, regista di grande passione e poesia",
-    "sommario": "Il Guardian ricorda il cileno di Gloria e Una donna fantastica, capace di unire personale e politico.",
-    "perche": "Ritratto di un regista appena scomparso.",
-    "sezione": "approfondimento"
   },
   "https://www.theguardian.com/film/2026/nov/06/disney-child-star-christy-carlson-romano-fame-family-freedom": {
     "titolo": "Christy Carlson Romano: «Mia madre mi spingeva a rifarmi il seno»",
@@ -436,12 +250,6 @@
     "sommario": "L'attrice risponde alle domande dei lettori su Traitors, Star Wars e il rapporto con la macchina da presa.",
     "perche": "Aneddoti su Star Wars.",
     "sezione": "curiosita"
-  },
-  "https://www.theguardian.com/film/2026/nov/05/syrian-family-10-year-journey-one-in-a-million-itab-azzam-and-jack-macinnes": {
-    "titolo": "Il viaggio di dieci anni di una famiglia siriana in fuga",
-    "sommario": "Due registi incontrarono nel 2015 Israa, undicenne in fuga da Aleppo, e la seguirono per dieci anni in Europa.",
-    "perche": "Un documentario che segue una storia in dieci anni.",
-    "sezione": "approfondimento"
   },
   "https://movieplayer.it/news/godzilla-minus-zero-trailer-svela-mostro-segreto-combattera-re-kaiju_171848/": {
     "titolo": "Il trailer di Godzilla Minus Zero svela un secondo kaiju",
@@ -527,12 +335,6 @@
     "perche": "Hai il film in libreria.",
     "sezione": "approfondimento"
   },
-  "https://www.screenweek.it/avengers-doomsday-sara-lultimo-film-del-grande-patrick-stewart/": {
-    "titolo": "Avengers: Doomsday sarà l'ultimo film di Patrick Stewart",
-    "sommario": "L'omaggio all'interprete di Professor X nel film Marvel.",
-    "perche": "Fantascienza.",
-    "sezione": "curiosita"
-  },
   "https://www.badtaste.it/articoli/election-day-jennifer-lawrence-cita-hunger-games-se-noi-bruciamo-voi-bruciate-con-noi-e-polemica": {
     "titolo": "Jennifer Lawrence cita Hunger Games per l'Election Day: polemica",
     "sommario": "L'attrice usa «se noi bruciamo, voi bruciate con noi» riferito alle elezioni USA 2026.",
@@ -568,12 +370,6 @@
     "sommario": "Grinding Gear Games presenta il trailer che chiude l'accesso anticipato.",
     "perche": "Videogiochi.",
     "sezione": "scarta"
-  },
-  "https://www.screenweek.it/martin-scorsese-e-il-cleopatra-con-angelina-jolie-cancellato/": {
-    "titolo": "Scorsese parla del Cleopatra con Angelina Jolie cancellato",
-    "sommario": "Il regista torna sul film accantonato per polemiche e hacker.",
-    "perche": "Scorsese e un film mai nato.",
-    "sezione": "notizia"
   },
   "https://www.cineblog.it/post/hunger-games-alba-sulla-mietitura-joseph-zada": {
     "titolo": "Hunger Games: L'alba sulla mietitura convince alle prime proiezioni",

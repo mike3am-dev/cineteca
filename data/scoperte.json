@@ -1,174 +1,72 @@
 {
-  "aggiornato": "2026-11-08T11:38:32.074Z",
-  "giorno": "2026-11-08",
+  "aggiornato": "2026-11-09T13:32:01.737Z",
+  "giorno": "2026-11-09",
   "film": [
     {
-      "tmdbId": 522518,
-      "imdbId": "tt8385474",
-      "title": "Qua la zampa 2 - Un amico è per sempre",
-      "originalTitle": "A Dog's Journey",
-      "release": "2020-07-01",
+      "tmdbId": 1263337,
+      "imdbId": "tt7526136",
+      "title": "Heart of the Beast - Nel profondo selvaggio",
+      "originalTitle": "Heart of the Beast",
+      "release": "2026-09-24",
       "releaseFonte": "IT",
       "genres": [
-        "Famiglia",
         "Avventura",
-        "Dramma"
+        "Thriller"
       ],
       "countries": [
-        "Cina",
-        "India",
         "USA"
       ],
-      "runtime": 109,
-      "plot": "Alcune amicizie trascendono le vite. In Qua la zampa 2 – Un amico è per sempre, il sequel del commovente successo mondiale Qua la zampa, l’amato cane Bailey trova il suo nuovo destino e forma un legame indissolubile che condurrà lui, e le persone che ama, in luoghi che non immaginavano.  Bailey sta facendo la bella vita nella fattoria del Michigan del suo “ragazzo” Ethan (Dennis Quaid) e di Hannah, moglie di Ethan (Marg Helgenberger). Ha anche un nuovo compagno di giochi: la nipotina di Ethan e Hannah, CJ. Il problema è che la madre di CJ, Gloria (Betty Gilpin), decide di portare via CJ. Mentr",
-      "tagline": "Alcune amicizie trascendono le vite.",
-      "poster": "/1FVBMtI4jU6Pmxm0JE0lRTFn0Kf.jpg",
-      "backdrop": "/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
-      "director": "Gail Mancuso",
+      "runtime": 95,
+      "plot": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
+      "tagline": "Solo insieme potranno sopravvivere.",
+      "poster": "/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+      "backdrop": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+      "director": "David Ayer",
       "cast": [
-        "Marg Helgenberger",
-        "Betty Gilpin",
-        "헨리",
-        "Kathryn Prescott",
-        "Dennis Quaid"
+        "Brad Pitt",
+        "J.K. Simmons",
+        "Anna Lambe",
+        "Justin Melnick",
+        "Shaun DeZern"
       ],
       "castDetail": [
         {
-          "name": "Marg Helgenberger",
-          "character": "Hannah Montgomery",
-          "profile": "/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
+          "name": "Brad Pitt",
+          "character": "James Belmont",
+          "profile": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
         },
         {
-          "name": "Betty Gilpin",
-          "character": "Gloria Mitchell",
-          "profile": "/bNY6pwoztA95dzFCcvDQCs7TbbF.jpg"
+          "name": "J.K. Simmons",
+          "character": "Watkins",
+          "profile": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
         },
         {
-          "name": "헨리",
-          "character": "Trent",
-          "profile": "/apbaSap49dGzaE6TcmUshTWN25q.jpg"
+          "name": "Anna Lambe",
+          "character": "Amber",
+          "profile": "/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
         },
         {
-          "name": "Kathryn Prescott",
-          "character": "Clarity June \"CJ\" Mitchell",
-          "profile": "/h4K970PqPapI69OBd84aP0GYIiF.jpg"
+          "name": "Justin Melnick",
+          "character": "Military Soldier",
+          "profile": "/sE5W8tononGWHKH2Z6GLeUHXeyP.jpg"
         },
         {
-          "name": "Dennis Quaid",
-          "character": "Ethan Montgomery",
-          "profile": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
-        },
-        {
-          "name": "Josh Gad",
-          "character": "Bailey / Molly / Big Dog / Max (voice)",
-          "profile": "/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg"
-        },
-        {
-          "name": "Abby Ryder Fortson",
-          "character": "Young CJ",
-          "profile": "/mNRZFVtAvj5P3HxM2PFM1YqXMAw.jpg"
-        },
-        {
-          "name": "Emma Volk",
-          "character": "Toddler CJ",
-          "profile": null
+          "name": "Shaun DeZern",
+          "character": "Military Soldier",
+          "profile": "/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
         }
       ],
-      "tmdbRating": 8.051,
-      "tmdbVotes": 1667,
-      "popularity": 5.9601,
-      "trailer": "https://www.youtube.com/watch?v=vGnxmwQDeYA",
-      "fonte": "avventura: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "avventura: il tuo terreno",
+      "tmdbRating": 7.283,
+      "tmdbVotes": 519,
+      "popularity": 410.9194,
+      "trailer": "https://www.youtube.com/watch?v=kS2XC1wx_Mc",
+      "fonte": "se ne parla adesso",
+      "categoria": "di tendenza",
+      "perche": "se ne parla adesso",
       "motivi": [
-        "avventura: il tuo terreno"
+        "se ne parla adesso"
       ],
-      "proposto": "2026-11-08"
-    },
-    {
-      "tmdbId": 939243,
-      "imdbId": "tt18259086",
-      "title": "Sonic 3: Il film",
-      "originalTitle": "Sonic the Hedgehog 3",
-      "release": "2025-01-01",
-      "releaseFonte": "IT",
-      "genres": [
-        "Azione",
-        "Fantascienza",
-        "Commedia",
-        "Famiglia"
-      ],
-      "countries": [
-        "USA",
-        "Giappone"
-      ],
-      "runtime": 110,
-      "plot": "Sonic, Knuckles e Tails si ritrovano a dover fronteggiare un nuovo e formidabile nemico:  Shadow, un misterioso villain con poteri incredibili mai visti prima. Con le loro abilità messe alla prova in ogni modo, il Team Sonic dovra cercare un'alleanza inaspettata per fermare Shadow e proteggere il pianeta.",
-      "tagline": "Cerca di tenere il passo.",
-      "poster": "/hArbAOlNZX0qfd2Udpr6RCTflpg.jpg",
-      "backdrop": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-      "director": "Jeff Fowler",
-      "cast": [
-        "Ben Schwartz",
-        "Jim Carrey",
-        "Keanu Reeves",
-        "Idris Elba",
-        "Colleen O'Shaughnessey"
-      ],
-      "castDetail": [
-        {
-          "name": "Ben Schwartz",
-          "character": "Sonic (voice)",
-          "profile": "/hWEQe66jXUAGVhbU5dy8s0IrrAQ.jpg"
-        },
-        {
-          "name": "Jim Carrey",
-          "character": "Ivo Robotnik / Gerald Robotnik",
-          "profile": "/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
-        },
-        {
-          "name": "Keanu Reeves",
-          "character": "Shadow (voice)",
-          "profile": "/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-        },
-        {
-          "name": "Idris Elba",
-          "character": "Knuckles (voice)",
-          "profile": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-        },
-        {
-          "name": "Colleen O'Shaughnessey",
-          "character": "Tails (voice)",
-          "profile": "/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
-        },
-        {
-          "name": "James Marsden",
-          "character": "Tom",
-          "profile": "/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
-        },
-        {
-          "name": "Tika Sumpter",
-          "character": "Maddie",
-          "profile": "/1zTXufyuQFPXVthryH7KVoZAfb7.jpg"
-        },
-        {
-          "name": "Lee Majdoub",
-          "character": "Agent Stone",
-          "profile": "/vpF3R2YRCGHseGevmDAhftmOPkO.jpg"
-        }
-      ],
-      "tmdbRating": 7.595,
-      "tmdbVotes": 3538,
-      "popularity": 19.2806,
-      "trailer": "https://www.youtube.com/watch?v=-z2GQdybr0U",
-      "fonte": "fantascienza: il tuo terreno",
-      "categoria": "il tuo genere",
-      "perche": "fantascienza: il tuo terreno",
-      "motivi": [
-        "fantascienza: il tuo terreno"
-      ],
-      "proposto": "2026-11-08"
+      "proposto": "2026-11-09"
     }
   ],
   "storico": {
@@ -484,6 +382,7 @@
     "1228710": "2026-09-23",
     "1239193": "2026-09-23",
     "1242898": "2026-10-04",
+    "1263337": "2026-11-09",
     "1288445": "2026-10-04",
     "1290821": "2026-10-03",
     "1302904": "2026-10-29",
