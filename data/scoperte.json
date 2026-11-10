@@ -1,74 +1,7 @@
 {
-  "aggiornato": "2026-11-09T13:32:01.737Z",
-  "giorno": "2026-11-09",
-  "film": [
-    {
-      "tmdbId": 1263337,
-      "imdbId": "tt7526136",
-      "title": "Heart of the Beast - Nel profondo selvaggio",
-      "originalTitle": "Heart of the Beast",
-      "release": "2026-09-24",
-      "releaseFonte": "IT",
-      "genres": [
-        "Avventura",
-        "Thriller"
-      ],
-      "countries": [
-        "USA"
-      ],
-      "runtime": 95,
-      "plot": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-      "tagline": "Solo insieme potranno sopravvivere.",
-      "poster": "/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-      "backdrop": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-      "director": "David Ayer",
-      "cast": [
-        "Brad Pitt",
-        "J.K. Simmons",
-        "Anna Lambe",
-        "Justin Melnick",
-        "Shaun DeZern"
-      ],
-      "castDetail": [
-        {
-          "name": "Brad Pitt",
-          "character": "James Belmont",
-          "profile": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
-        },
-        {
-          "name": "J.K. Simmons",
-          "character": "Watkins",
-          "profile": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
-        },
-        {
-          "name": "Anna Lambe",
-          "character": "Amber",
-          "profile": "/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
-        },
-        {
-          "name": "Justin Melnick",
-          "character": "Military Soldier",
-          "profile": "/sE5W8tononGWHKH2Z6GLeUHXeyP.jpg"
-        },
-        {
-          "name": "Shaun DeZern",
-          "character": "Military Soldier",
-          "profile": "/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
-        }
-      ],
-      "tmdbRating": 7.283,
-      "tmdbVotes": 519,
-      "popularity": 410.9194,
-      "trailer": "https://www.youtube.com/watch?v=kS2XC1wx_Mc",
-      "fonte": "se ne parla adesso",
-      "categoria": "di tendenza",
-      "perche": "se ne parla adesso",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "proposto": "2026-11-09"
-    }
-  ],
+  "aggiornato": "2026-11-10T13:10:59.376Z",
+  "giorno": "2026-11-10",
+  "film": [],
   "storico": {
     "11": "2026-10-03",
     "13": "2026-09-30",

@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-09T13:32:01.738Z",
+  "preparato": "2026-11-10T13:10:59.377Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -89,8 +89,8 @@
       "uscitaItalia": "2026-11-26",
       "regia": "David Fincher",
       "generi": [
-        "Dramma",
         "Commedia",
+        "Dramma",
         "Thriller"
       ],
       "paesi": [
@@ -300,10 +300,10 @@
       "durata": 201,
       "tagline": "La più grande storia dell'umanità arriva sul grande schermo",
       "cast": [
-        "रणबीर कपूर (Prince Ram / Parshuram / Lord Vishnu)",
+        "रणबीर कपूर (Prince Rama / Parshuram / Lord Vishnu)",
         "Yash (Ravana)",
         "Sai Pallavi (Sita)",
-        "Ravi Dubey (Lakshman)",
+        "Ravi Dubey (Lakshmana)",
         "अरुण गोविल (King Dashrath)",
         "लारा दत्ता (Kaikeyi)"
       ],
@@ -408,38 +408,6 @@
       "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
       "motivi": [],
       "impronta": "Come rapinare una banca|451|David Leitch"
-    },
-    {
-      "id": "tmdb-1263337",
-      "tmdbId": 1263337,
-      "imdbId": "tt7526136",
-      "origine": "scoperta",
-      "titolo": "Heart of the Beast - Nel profondo selvaggio",
-      "titoloOriginale": "Heart of the Beast",
-      "anno": "2026",
-      "uscitaItalia": "2026-09-24",
-      "regia": "David Ayer",
-      "generi": [
-        "Avventura",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 95,
-      "tagline": "Solo insieme potranno sopravvivere.",
-      "cast": [
-        "Brad Pitt (James Belmont)",
-        "J.K. Simmons (Watkins)",
-        "Anna Lambe (Amber)",
-        "Justin Melnick (Military Soldier)",
-        "Shaun DeZern (Military Soldier)"
-      ],
-      "tramaTmdb": "Dopo un drammatico incidente aereo, l’ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre più remote e inospitali dell’Alaska. Al suo fianco c’è solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l’uno all’altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verrà messo alla prova come mai prima d’ora.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Heart of the Beast - Nel profondo selvaggio|571|David Ayer"
     }
   ]
 }
