@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-10T13:10:59.377Z",
+  "preparato": "2026-11-11T12:19:52.907Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -164,7 +164,7 @@
         "USA"
       ],
       "durata": 165,
-      "tagline": null,
+      "tagline": "Incontra il tuo destino.",
       "cast": [
         "Robert Downey Jr. (Victor von Doom  / Doctor Doom)",
         "Chris Evans (Steve Rogers)",
@@ -178,6 +178,71 @@
         "fantascienza e avventura: il tuo terreno"
       ],
       "impronta": "Avengers: Doomsday|269|Joe Russo"
+    },
+    {
+      "id": "tmdb-1538497",
+      "tmdbId": 1538497,
+      "imdbId": "tt38077943",
+      "origine": "trailer",
+      "titolo": "Hexe - Il regno delle streghe",
+      "titoloOriginale": "Hexed",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "Jason Hand",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 103,
+      "tagline": null,
+      "cast": [
+        "Hailee Steinfeld (Billie Doe (voice))",
+        "Rashida Jones (Alice Doe (voice))",
+        "Jodie Foster (Queen Celeste (voice))",
+        "Walton Goggins (Beef Roger Crummchuk (voice))",
+        "Tracey Ullman (Ms. Quill (voice))",
+        "Stephen Fry (Elias Quire (voice))"
+      ],
+      "tramaTmdb": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
+      "motivi": [],
+      "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
+    },
+    {
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
+      "origine": "trailer",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker-in-Law",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
+      "generi": [
+        "Commedia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": null,
+      "cast": [
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
+      ],
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+      "motivi": [],
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
       "id": "tmdb-891621",
@@ -211,37 +276,6 @@
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
-      "id": "tmdb-1400336",
-      "tmdbId": 1400336,
-      "imdbId": "tt34966140",
-      "origine": "trailer",
-      "titolo": "Ti presento i Fotter",
-      "titoloOriginale": "Focker-in-Law",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "John Hamburg",
-      "generi": [
-        "Commedia",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": null,
-      "cast": [
-        "Ben Stiller (Greg Focker)",
-        "Robert De Niro (Jack Byrnes)",
-        "Ariana Grande (Olivia Jones)",
-        "Skyler Gisondo (Henry Focker)",
-        "Owen Wilson (Kevin Rawley)",
-        "Blythe Danner (Dina Byrnes)"
-      ],
-      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
-      "motivi": [],
-      "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
       "id": "tmdb-1117898",
@@ -300,7 +334,7 @@
       "durata": 201,
       "tagline": "La più grande storia dell'umanità arriva sul grande schermo",
       "cast": [
-        "रणबीर कपूर (Prince Rama / Parshuram / Lord Vishnu)",
+        "रणबीर कपूर (Prince Rama / Parashurama)",
         "Yash (Ravana)",
         "Sai Pallavi (Sita)",
         "Ravi Dubey (Lakshmana)",
@@ -335,79 +369,13 @@
         "Johnny Depp (Ebenezer Scrooge)",
         "Rupert Grint (Bob Cratchit)",
         "Daisy Ridley (Emily Cratchit)",
-        "Sam Claflin (Fred)",
         "Tramell Tillman (Ghost of Christmas Present)",
-        "Ian McKellen (Jacob Marley)"
+        "Ian McKellen (Jacob Marley)",
+        "Andrea Riseborough (Ghost of Christmas Past)"
       ],
       "tramaTmdb": null,
       "motivi": [],
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
-    },
-    {
-      "id": "tmdb-1538497",
-      "tmdbId": 1538497,
-      "imdbId": "tt38077943",
-      "origine": "trailer",
-      "titolo": "Hexe - Il regno delle streghe",
-      "titoloOriginale": "Hexed",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "Jason Hand",
-      "generi": [
-        "Avventura",
-        "Animazione",
-        "Famiglia",
-        "Fantasy",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 103,
-      "tagline": null,
-      "cast": [
-        "Hailee Steinfeld (Billie Doe (voice))",
-        "Rashida Jones (Alice Doe (voice))",
-        "Jodie Foster (Queen Celeste (voice))",
-        "Walton Goggins (Beef Roger Crummchuk (voice))",
-        "Tracey Ullman (Ms. Quill (voice))",
-        "Stephen Fry (Elias Quire (voice))"
-      ],
-      "tramaTmdb": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
-      "motivi": [],
-      "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
-    },
-    {
-      "id": "tmdb-1437511",
-      "tmdbId": 1437511,
-      "imdbId": "tt35866986",
-      "origine": "trailer",
-      "titolo": "Come rapinare una banca",
-      "titoloOriginale": "How to Rob a Bank",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "David Leitch",
-      "generi": [
-        "Azione",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 90,
-      "tagline": "Chi rapina chi?",
-      "cast": [
-        "Nicholas Hoult (Ryan)",
-        "Zoë Kravitz (Reagan Gardner)",
-        "Anna Sawai (Emi)",
-        "Rhenzy Feliz",
-        "Pete Davidson (Vince)",
-        "John C. Reilly (Agent West)"
-      ],
-      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
-      "motivi": [],
-      "impronta": "Come rapinare una banca|451|David Leitch"
     }
   ]
 }
