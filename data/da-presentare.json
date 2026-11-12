@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-11T12:19:52.907Z",
+  "preparato": "2026-11-12T13:29:32.005Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -7,7 +7,7 @@
       "Fantascienza (12)",
       "Thriller (10)",
       "Horror (9)",
-      "Azione (7)"
+      "Azione (8)"
     ],
     "registi": [
       "Denis Villeneuve (3)",
@@ -78,6 +78,39 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1452168",
+      "tmdbId": 1452168,
+      "imdbId": "tt36415529",
+      "origine": "trailer",
+      "titolo": "Behemoth! - Una vita. Da ricomporre.",
+      "titoloOriginale": "Behemoth!",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-02",
+      "regia": "Tony Gilroy",
+      "generi": [
+        "Musica",
+        "Dramma"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 127,
+      "tagline": null,
+      "cast": [
+        "Pedro Pascal (Alex Serian)",
+        "Olivia Wilde (Carol Spedding)",
+        "Eva Victor (Nadia Hynes)",
+        "Will Arnett (Andy Serian)",
+        "Hank Azaria (Peter Serian)",
+        "Alexa Swinton (Viviana Glenn)"
+      ],
+      "tramaTmdb": "Alex Serian (Pedro Pascal), un violoncellista di grande talento, torna a casa a Los Angeles dopo vent’anni trascorsi in tournée. La musica, che è stata il filo conduttore e la forza trainante della sua vita, inizia a trascinare Alex in un’avventura che lo cambierà per sempre.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Behemoth! - Una vita. Da ricomporre.|276|Tony Gilroy"
+    },
     {
       "id": "tmdb-1457866",
       "tmdbId": 1457866,
@@ -164,7 +197,7 @@
         "USA"
       ],
       "durata": 165,
-      "tagline": "Incontra il tuo destino.",
+      "tagline": null,
       "cast": [
         "Robert Downey Jr. (Victor von Doom  / Doctor Doom)",
         "Chris Evans (Steve Rogers)",
@@ -178,6 +211,71 @@
         "fantascienza e avventura: il tuo terreno"
       ],
       "impronta": "Avengers: Doomsday|269|Joe Russo"
+    },
+    {
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
+      "origine": "trailer",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": null,
+      "cast": [
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Parker Posey (Marge)"
+      ],
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+      "motivi": [],
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
+      "id": "tmdb-16859",
+      "tmdbId": 16859,
+      "imdbId": "tt0097814",
+      "origine": "trailer",
+      "titolo": "Kiki - Consegne a domicilio",
+      "titoloOriginale": "魔女の宅急便",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-03",
+      "regia": "Hayao Miyazaki",
+      "generi": [
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 99,
+      "tagline": "Ero scoraggiata, ma ora va meglio",
+      "cast": [
+        "Minami Takayama (Kiki / Ursula (voice))",
+        "Rei Sakuma (Jiji (voice))",
+        "Kappei Yamaguchi (Tombo (voice))",
+        "Keiko Toda (Osono (voice))",
+        "信澤三惠子 (Kokiri (voice))",
+        "三浦浩一 (Okino (voice))"
+      ],
+      "tramaTmdb": "Nella parabola della streghetta dagli umili abiti rivive il consueto viaggio iniziatico di Miyazaki, spesso condotto tra i cieli (in precedenza ne Il castello nel cielo, mentre Porco rosso innalzerà ai massimi livelli il feeling eroico con l'aria) e spesso con una ragazzina come protagonista. Kiki raggiunge la fatidica età di passaggio, quella dei quattordici anni, per abbandonare la dimora natia e scoprire la vecchia Europa, ancora una volta coacervo ideale di stilemi miyazakiani. Modellata su Stoccolma e Lisbona, la città in cui Kiki approda a cavallo della sua scopa volante è il luogo dello",
+      "motivi": [],
+      "impronta": "Kiki - Consegne a domicilio|600|Hayao Miyazaki"
     },
     {
       "id": "tmdb-1538497",
@@ -214,105 +312,6 @@
       "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
     },
     {
-      "id": "tmdb-1400336",
-      "tmdbId": 1400336,
-      "imdbId": "tt34966140",
-      "origine": "trailer",
-      "titolo": "Ti presento i Fotter",
-      "titoloOriginale": "Focker-in-Law",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "John Hamburg",
-      "generi": [
-        "Commedia",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": null,
-      "cast": [
-        "Ben Stiller (Greg Focker)",
-        "Robert De Niro (Jack Byrnes)",
-        "Ariana Grande (Olivia Jones)",
-        "Skyler Gisondo (Henry Focker)",
-        "Owen Wilson (Kevin Rawley)",
-        "Blythe Danner (Dina Byrnes)"
-      ],
-      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
-      "motivi": [],
-      "impronta": "Ti presento i Fotter|209|John Hamburg"
-    },
-    {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
-      "generi": [
-        "Commedia",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": null,
-      "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Parker Posey (Marge)"
-      ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
-      "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
-      "generi": [
-        "Animazione",
-        "Fantasy",
-        "Avventura",
-        "Famiglia",
-        "Commedia"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles (voice))",
-        "Quinta Brunson (Sherrie from HR (voice))",
-        "Bowen Yang (Gary (voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
       "id": "tmdb-656908",
       "tmdbId": 656908,
       "imdbId": "tt27988879",
@@ -346,6 +345,37 @@
       "impronta": "Ramayana - La nascita di una leggenda|266|Nitesh Tiwari"
     },
     {
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
+      "origine": "trailer",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker-in-Law",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
+      "generi": [
+        "Commedia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": null,
+      "cast": [
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
+      ],
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+      "motivi": [],
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
+    },
+    {
       "id": "tmdb-1567605",
       "tmdbId": 1567605,
       "imdbId": "tt38773219",
@@ -376,6 +406,40 @@
       "tramaTmdb": null,
       "motivi": [],
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
+    },
+    {
+      "id": "tmdb-940721",
+      "tmdbId": 940721,
+      "imdbId": "tt23289160",
+      "origine": "scoperta",
+      "titolo": "Godzilla Minus One",
+      "titoloOriginale": "ゴジラ-1.0",
+      "anno": "2023",
+      "uscitaItalia": "2023-12-01",
+      "regia": "Takashi Yamazaki",
+      "generi": [
+        "Fantascienza",
+        "Horror",
+        "Azione"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 125,
+      "tagline": "Il Giappone del dopoguerra. Da zero a meno.",
+      "cast": [
+        "Ryūnosuke Kamiki (Koichi Shikishima)",
+        "浜辺美波 (Noriko Oishi)",
+        "山田裕貴 (Shiro Mizushima)",
+        "Munetaka Aoki (Sosaku Tachibana)",
+        "吉岡秀隆 (Kenji Noda)",
+        "Sakura Ando (Sumiko Ota)"
+      ],
+      "tramaTmdb": "Dopo la Seconda guerra mondiale, il Giappone è stato ridotto in ginocchio e deve ripartire da zero. In questo contesto, Godzilla appare improvvisamente e fa precipitare il paese in uno stato ancora più negativo: è la situazione più disperata nella storia del Giappone.",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "impronta": "Godzilla Minus One|268|Takashi Yamazaki"
     }
   ]
 }

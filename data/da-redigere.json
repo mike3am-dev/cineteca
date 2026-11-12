@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-11T12:19:52.315Z",
+  "preparato": "2026-11-12T13:29:31.275Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -7,7 +7,7 @@
       "Fantascienza (12)",
       "Thriller (10)",
       "Horror (9)",
-      "Azione (7)"
+      "Azione (8)"
     ],
     "registi": [
       "Denis Villeneuve (3)",
@@ -77,73 +77,5 @@
       "Blade Runner 2049 (2017), Denis Villeneuve"
     ]
   },
-  "film": [
-    {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
-      "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-05-15",
-      "lista": "casa",
-      "regia": "Zach Lipovsky",
-      "generi": [
-        "Horror",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
-      "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
-      ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
-    },
-    {
-      "id": "tmdb-1022787",
-      "tmdbId": 1022787,
-      "imdbId": "tt4900148",
-      "titolo": "Elio",
-      "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-06-18",
-      "lista": "casa",
-      "regia": "Domee Shi",
-      "generi": [
-        "Animazione",
-        "Avventura",
-        "Fantascienza",
-        "Famiglia",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 98,
-      "tagline": "L'universo ha chiamato ...il numero sbagliato.",
-      "cast": [
-        "Yonas Kibreab (Elio / Other Elio (voice))",
-        "Remy Edgerly (Glordon (voice))",
-        "Zoe Saldaña (Olga Solís (voice))",
-        "Brad Garrett (Lord Grigon (voice))",
-        "Brandon Moon (Ambassador Helix (voice))",
-        "Jameela Jamil (Ambassador Questa (voice))",
-        "Young Dylan (Bryce (voice))",
-        "Jake T. Getman (Caleb (voice))"
-      ],
-      "tramaTmdb": "Elio, un piccolo fanatico dello spazio con un'immaginazione viva, si trova in una disavventura cosmica in cui deve creare nuovi legami con forme di vita aliene eccentriche, affrontare una crisi di proporzioni intergalattiche e in qualche modo scoprire chi è veramente destinato a essere.",
-      "impronta": "Elio|287|Domee Shi"
-    }
-  ]
+  "film": []
 }

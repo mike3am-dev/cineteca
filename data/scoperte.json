@@ -1,7 +1,90 @@
 {
-  "aggiornato": "2026-11-11T12:19:52.906Z",
-  "giorno": "2026-11-11",
-  "film": [],
+  "aggiornato": "2026-11-12T13:29:32.004Z",
+  "giorno": "2026-11-12",
+  "film": [
+    {
+      "tmdbId": 940721,
+      "imdbId": "tt23289160",
+      "title": "Godzilla Minus One",
+      "originalTitle": "ゴジラ-1.0",
+      "release": "2023-12-01",
+      "releaseFonte": "IT",
+      "genres": [
+        "Fantascienza",
+        "Horror",
+        "Azione"
+      ],
+      "countries": [
+        "Giappone"
+      ],
+      "runtime": 125,
+      "plot": "Dopo la Seconda guerra mondiale, il Giappone è stato ridotto in ginocchio e deve ripartire da zero. In questo contesto, Godzilla appare improvvisamente e fa precipitare il paese in uno stato ancora più negativo: è la situazione più disperata nella storia del Giappone.",
+      "tagline": "Il Giappone del dopoguerra. Da zero a meno.",
+      "poster": "/AhO2e2EWYYZk4zxxeynriCufixo.jpg",
+      "backdrop": "/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+      "director": "Takashi Yamazaki",
+      "cast": [
+        "Ryūnosuke Kamiki",
+        "浜辺美波",
+        "山田裕貴",
+        "Munetaka Aoki",
+        "吉岡秀隆"
+      ],
+      "castDetail": [
+        {
+          "name": "Ryūnosuke Kamiki",
+          "character": "Koichi Shikishima",
+          "profile": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+        },
+        {
+          "name": "浜辺美波",
+          "character": "Noriko Oishi",
+          "profile": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+        },
+        {
+          "name": "山田裕貴",
+          "character": "Shiro Mizushima",
+          "profile": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "Munetaka Aoki",
+          "character": "Sosaku Tachibana",
+          "profile": "/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+        },
+        {
+          "name": "吉岡秀隆",
+          "character": "Kenji Noda",
+          "profile": "/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+        },
+        {
+          "name": "Sakura Ando",
+          "character": "Sumiko Ota",
+          "profile": "/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+        },
+        {
+          "name": "Kuranosuke Sasaki",
+          "character": "Yoji Akitsu",
+          "profile": "/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
+        },
+        {
+          "name": "永谷咲笑",
+          "character": "Akiko",
+          "profile": "/tfHWenV2BLQ7qfr6mbHIeFrETFT.jpg"
+        }
+      ],
+      "tmdbRating": 7.6,
+      "tmdbVotes": 3644,
+      "popularity": 76.8869,
+      "trailer": "https://www.youtube.com/watch?v=JzLK94HAyzg",
+      "fonte": "se ne parla adesso",
+      "categoria": "di tendenza",
+      "perche": "se ne parla adesso",
+      "motivi": [
+        "se ne parla adesso"
+      ],
+      "proposto": "2026-11-12"
+    }
+  ],
   "storico": {
     "11": "2026-10-03",
     "13": "2026-09-30",
@@ -300,6 +383,7 @@
     "843847": "2026-09-13",
     "931285": "2026-10-06",
     "939243": "2026-11-08",
+    "940721": "2026-11-12",
     "950396": "2026-10-11",
     "961323": "2026-09-29",
     "965150": "2026-09-20",
