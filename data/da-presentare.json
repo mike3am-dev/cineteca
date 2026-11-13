@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-12T13:29:32.005Z",
+  "preparato": "2026-11-13T12:46:10.956Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -112,6 +112,42 @@
       "impronta": "Behemoth! - Una vita. Da ricomporre.|276|Tony Gilroy"
     },
     {
+      "id": "tmdb-1181107",
+      "tmdbId": 1181107,
+      "imdbId": "tt7967302",
+      "origine": "trailer",
+      "titolo": "Il re dei re - La più grande storia mai raccontata",
+      "titoloOriginale": "The King of Kings",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-03",
+      "regia": "장성호",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Corea del Sud",
+        "USA"
+      ],
+      "durata": 102,
+      "tagline": null,
+      "cast": [
+        "Oscar Isaac (Jesus Christ (voice))",
+        "Kenneth Branagh (Charles Dickens (voice))",
+        "Uma Thurman (Catherine Dickens (voice))",
+        "Pierce Brosnan (Pontius Pilate (voice))",
+        "Roman Griffin Davis (Walter Dickens (voice))",
+        "Forest Whitaker (Peter (voice))"
+      ],
+      "tramaTmdb": "Charles Dickens racconta al piccolo Walter la più grande storia mai narrata: quella che sembra una semplice favola della buonanotte si trasforma in un viaggio destinato a cambiargli la vita. Grazie alla sua vivida immaginazione, Walter si ritrova a camminare accanto a Gesù, assistendo ai suoi miracoli e condividendone le prove. Accompagnato dalla curiosa Willa, il giovane protagonista vive un’esperienza unica che gli permetterà di guardare quella incredibile storia con occhi nuovi ed entusiasti.",
+      "motivi": [
+        "c'è Oscar Isaac, che hai visto 2 volte"
+      ],
+      "impronta": "Il re dei re - La più grande storia mai raccontata|500|장성호"
+    },
+    {
       "id": "tmdb-1457866",
       "tmdbId": 1457866,
       "imdbId": "tt36408401",
@@ -213,6 +249,102 @@
       "impronta": "Avengers: Doomsday|269|Joe Russo"
     },
     {
+      "id": "tmdb-1437511",
+      "tmdbId": 1437511,
+      "imdbId": "tt35866986",
+      "origine": "trailer",
+      "titolo": "Come rapinare una banca",
+      "titoloOriginale": "How to Rob a Bank",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-12",
+      "regia": "David Leitch",
+      "generi": [
+        "Azione",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 122,
+      "tagline": "Chi rapina chi?",
+      "cast": [
+        "Nicholas Hoult (Ryan)",
+        "Zoë Kravitz (Reagan Gardner)",
+        "Anna Sawai (Emi)",
+        "Rhenzy Feliz (Hugo)",
+        "Pete Davidson (Vince)",
+        "John C. Reilly (Agent West)"
+      ],
+      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
+      "motivi": [],
+      "impronta": "Come rapinare una banca|451|David Leitch"
+    },
+    {
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
+      "origine": "trailer",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker-in-Law",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
+      "generi": [
+        "Commedia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": null,
+      "cast": [
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
+      ],
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+      "motivi": [],
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
+    },
+    {
+      "id": "tmdb-940009",
+      "tmdbId": 940009,
+      "imdbId": "tt18270542",
+      "origine": "trailer",
+      "titolo": "Ray Gunn",
+      "titoloOriginale": "Ray Gunn",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-02",
+      "regia": "Brad Bird",
+      "generi": [
+        "Animazione",
+        "Fantascienza",
+        "Crime",
+        "Mistero"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 119,
+      "tagline": null,
+      "cast": [
+        "Sam Rockwell (Raymond Gunn (voice))",
+        "Scarlett Johansson (Venus Nova (voice))",
+        "Tom Waits (Eye-Ra (voice))",
+        "Matt Berry (Francis 'Slugsy' Xavier (voice))",
+        "Kathryn Hunter (Vanzine Kaluta (voice))",
+        "Alan Tudyk (Barry Vogel (voice))"
+      ],
+      "tramaTmdb": "A Metropia, una gigantesca città in un futuro alternativo vista dal 1939, l'investigatore privato Raymond Gunn viene coinvolto in un caso che coinvolge alieni, omicidio e una star multimediale di nome Venus Nova.",
+      "motivi": [],
+      "impronta": "Ray Gunn|212|Brad Bird"
+    },
+    {
       "id": "tmdb-891621",
       "tmdbId": 891621,
       "imdbId": "tt15799564",
@@ -276,170 +408,6 @@
       "tramaTmdb": "Nella parabola della streghetta dagli umili abiti rivive il consueto viaggio iniziatico di Miyazaki, spesso condotto tra i cieli (in precedenza ne Il castello nel cielo, mentre Porco rosso innalzerà ai massimi livelli il feeling eroico con l'aria) e spesso con una ragazzina come protagonista. Kiki raggiunge la fatidica età di passaggio, quella dei quattordici anni, per abbandonare la dimora natia e scoprire la vecchia Europa, ancora una volta coacervo ideale di stilemi miyazakiani. Modellata su Stoccolma e Lisbona, la città in cui Kiki approda a cavallo della sua scopa volante è il luogo dello",
       "motivi": [],
       "impronta": "Kiki - Consegne a domicilio|600|Hayao Miyazaki"
-    },
-    {
-      "id": "tmdb-1538497",
-      "tmdbId": 1538497,
-      "imdbId": "tt38077943",
-      "origine": "trailer",
-      "titolo": "Hexe - Il regno delle streghe",
-      "titoloOriginale": "Hexed",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "Jason Hand",
-      "generi": [
-        "Avventura",
-        "Animazione",
-        "Famiglia",
-        "Fantasy",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 103,
-      "tagline": null,
-      "cast": [
-        "Hailee Steinfeld (Billie Doe (voice))",
-        "Rashida Jones (Alice Doe (voice))",
-        "Jodie Foster (Queen Celeste (voice))",
-        "Walton Goggins (Beef Roger Crummchuk (voice))",
-        "Tracey Ullman (Ms. Quill (voice))",
-        "Stephen Fry (Elias Quire (voice))"
-      ],
-      "tramaTmdb": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
-      "motivi": [],
-      "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
-    },
-    {
-      "id": "tmdb-656908",
-      "tmdbId": 656908,
-      "imdbId": "tt27988879",
-      "origine": "trailer",
-      "titolo": "Ramayana - La nascita di una leggenda",
-      "titoloOriginale": "रामायणम्",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-19",
-      "regia": "Nitesh Tiwari",
-      "generi": [
-        "Fantasy",
-        "Azione",
-        "Avventura"
-      ],
-      "paesi": [
-        "India",
-        "Regno Unito"
-      ],
-      "durata": 201,
-      "tagline": "La più grande storia dell'umanità arriva sul grande schermo",
-      "cast": [
-        "रणबीर कपूर (Prince Rama / Parashurama)",
-        "Yash (Ravana)",
-        "Sai Pallavi (Sita)",
-        "Ravi Dubey (Lakshmana)",
-        "अरुण गोविल (King Dashrath)",
-        "लारा दत्ता (Kaikeyi)"
-      ],
-      "tramaTmdb": "In un’epoca di dèi e re, il destino di interi mondi è in bilico. Rama, principe votato al dovere, al sacrificio e alla rettitudine, deve affrontare Ravana, sovrano immortale accecato dall’orgoglio e dalla sete di vendetta, tanto potente da poter frantumare il cosmo.",
-      "motivi": [],
-      "impronta": "Ramayana - La nascita di una leggenda|266|Nitesh Tiwari"
-    },
-    {
-      "id": "tmdb-1400336",
-      "tmdbId": 1400336,
-      "imdbId": "tt34966140",
-      "origine": "trailer",
-      "titolo": "Ti presento i Fotter",
-      "titoloOriginale": "Focker-in-Law",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "John Hamburg",
-      "generi": [
-        "Commedia",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": null,
-      "cast": [
-        "Ben Stiller (Greg Focker)",
-        "Robert De Niro (Jack Byrnes)",
-        "Ariana Grande (Olivia Jones)",
-        "Skyler Gisondo (Henry Focker)",
-        "Owen Wilson (Kevin Rawley)",
-        "Blythe Danner (Dina Byrnes)"
-      ],
-      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
-      "motivi": [],
-      "impronta": "Ti presento i Fotter|209|John Hamburg"
-    },
-    {
-      "id": "tmdb-1567605",
-      "tmdbId": 1567605,
-      "imdbId": "tt38773219",
-      "origine": "trailer",
-      "titolo": "Scrooge e gli spiriti del Natale",
-      "titoloOriginale": "Ebenezer",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Ti West",
-      "generi": [
-        "Fantasy",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 115,
-      "tagline": null,
-      "cast": [
-        "Johnny Depp (Ebenezer Scrooge)",
-        "Rupert Grint (Bob Cratchit)",
-        "Daisy Ridley (Emily Cratchit)",
-        "Tramell Tillman (Ghost of Christmas Present)",
-        "Ian McKellen (Jacob Marley)",
-        "Andrea Riseborough (Ghost of Christmas Past)"
-      ],
-      "tramaTmdb": null,
-      "motivi": [],
-      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
-    },
-    {
-      "id": "tmdb-940721",
-      "tmdbId": 940721,
-      "imdbId": "tt23289160",
-      "origine": "scoperta",
-      "titolo": "Godzilla Minus One",
-      "titoloOriginale": "ゴジラ-1.0",
-      "anno": "2023",
-      "uscitaItalia": "2023-12-01",
-      "regia": "Takashi Yamazaki",
-      "generi": [
-        "Fantascienza",
-        "Horror",
-        "Azione"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 125,
-      "tagline": "Il Giappone del dopoguerra. Da zero a meno.",
-      "cast": [
-        "Ryūnosuke Kamiki (Koichi Shikishima)",
-        "浜辺美波 (Noriko Oishi)",
-        "山田裕貴 (Shiro Mizushima)",
-        "Munetaka Aoki (Sosaku Tachibana)",
-        "吉岡秀隆 (Kenji Noda)",
-        "Sakura Ando (Sumiko Ota)"
-      ],
-      "tramaTmdb": "Dopo la Seconda guerra mondiale, il Giappone è stato ridotto in ginocchio e deve ripartire da zero. In questo contesto, Godzilla appare improvvisamente e fa precipitare il paese in uno stato ancora più negativo: è la situazione più disperata nella storia del Giappone.",
-      "motivi": [
-        "se ne parla adesso"
-      ],
-      "impronta": "Godzilla Minus One|268|Takashi Yamazaki"
     }
   ]
 }
