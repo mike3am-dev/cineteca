@@ -1,7 +1,90 @@
 {
-  "aggiornato": "2026-11-13T12:46:10.955Z",
-  "giorno": "2026-11-13",
-  "film": [],
+  "aggiornato": "2026-11-14T11:54:12.940Z",
+  "giorno": "2026-11-14",
+  "film": [
+    {
+      "tmdbId": 387,
+      "imdbId": "tt0082096",
+      "title": "U-Boot 96",
+      "originalTitle": "Das Boot",
+      "release": "1982-03-18",
+      "releaseFonte": "IT",
+      "genres": [
+        "Dramma",
+        "Storia",
+        "Guerra"
+      ],
+      "countries": [
+        "Germania"
+      ],
+      "runtime": 216,
+      "plot": "Nell'autunno 1941 dal porto di La Rochelle esce in missione un sottomarino tedesco, per attaccare e affondare i convogli provenienti dagli Stati Uniti con aiuti destinati agli Inglesi. Dopo aver subito due attacchi, riesce a rientrare a La Rochelle, ma un attacco aereo ne provoca l'affondamento definitivo e la morte di quasi tutto l'equipaggio.",
+      "tagline": "Quando il cacciatore diventa preda",
+      "poster": "/aeap7XPwCrFDwh1xQbH5FsYTbEw.jpg",
+      "backdrop": "/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+      "director": "Wolfgang Petersen",
+      "cast": [
+        "Jürgen Prochnow",
+        "Herbert Grönemeyer",
+        "Klaus Wennemann",
+        "Hubertus Bengsch",
+        "Martin Semmelrogge"
+      ],
+      "castDetail": [
+        {
+          "name": "Jürgen Prochnow",
+          "character": "Lieutenant 'Der Alte'",
+          "profile": "/4489XcYBPCY0CoqLHN04Bjz4A3q.jpg"
+        },
+        {
+          "name": "Herbert Grönemeyer",
+          "character": "Lieutenant Werner",
+          "profile": "/yxYKqI9CaIfbkiCRrmZtfhAYt9r.jpg"
+        },
+        {
+          "name": "Klaus Wennemann",
+          "character": "Chief Engineer",
+          "profile": "/xHF0akCqkKjIiiSOn79MquMuNMk.jpg"
+        },
+        {
+          "name": "Hubertus Bengsch",
+          "character": "First Watch Officer",
+          "profile": "/rAP0SMlDOsd6yxAepQWPom6N7kG.jpg"
+        },
+        {
+          "name": "Martin Semmelrogge",
+          "character": "Second Watch Officer",
+          "profile": "/w8UBZMC8SAX9ldIVaFkC1q0hNLo.jpg"
+        },
+        {
+          "name": "Bernd Tauber",
+          "character": "Kriechbaum",
+          "profile": "/i0LRTo2yBF9MPW72R7OdfCpLzfx.jpg"
+        },
+        {
+          "name": "Erwin Leder",
+          "character": "Johann 'Das Gespenst'",
+          "profile": "/4V6ewUr0KAMl8C2xvWvg8JPjsab.jpg"
+        },
+        {
+          "name": "Martin May",
+          "character": "Ullmann",
+          "profile": "/hRKrFHUZELmaPQz9uD2rnKEsXq2.jpg"
+        }
+      ],
+      "tmdbRating": 8.089,
+      "tmdbVotes": 2708,
+      "popularity": 7.5275,
+      "trailer": "https://www.youtube.com/watch?v=xfEidbzJjTI",
+      "fonte": "dramma: il tuo terreno",
+      "categoria": "il tuo genere",
+      "perche": "dramma: il tuo terreno",
+      "motivi": [
+        "dramma: il tuo terreno"
+      ],
+      "proposto": "2026-11-14"
+    }
+  ],
   "storico": {
     "11": "2026-10-03",
     "13": "2026-09-30",
@@ -54,6 +137,7 @@
     "346": "2026-10-06",
     "348": "2026-10-05",
     "350": "2026-09-13",
+    "387": "2026-11-14",
     "389": "2026-09-20",
     "393": "2026-10-07",
     "404": "2026-09-23",
