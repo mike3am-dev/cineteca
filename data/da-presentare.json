@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-14T11:54:12.941Z",
+  "preparato": "2026-11-15T12:25:44.859Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -284,6 +284,39 @@
       "impronta": "I Swear - È più forte di me|284|Kirk Jones"
     },
     {
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
+      "origine": "trailer",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": null,
+      "cast": [
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Parker Posey (Marge)"
+      ],
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+      "motivi": [],
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
       "id": "tmdb-1437511",
       "tmdbId": 1437511,
       "imdbId": "tt35866986",
@@ -347,39 +380,6 @@
       "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
-      "generi": [
-        "Commedia",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": null,
-      "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Parker Posey (Marge)"
-      ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
       "id": "tmdb-940009",
       "tmdbId": 940009,
       "imdbId": "tt18270542",
@@ -411,40 +411,6 @@
       "tramaTmdb": "A Metropia, una gigantesca città in un futuro alternativo vista dal 1939, l'investigatore privato Raymond Gunn viene coinvolto in un caso che coinvolge alieni, omicidio e una star multimediale di nome Venus Nova.",
       "motivi": [],
       "impronta": "Ray Gunn|212|Brad Bird"
-    },
-    {
-      "id": "tmdb-387",
-      "tmdbId": 387,
-      "imdbId": "tt0082096",
-      "origine": "scoperta",
-      "titolo": "U-Boot 96",
-      "titoloOriginale": "Das Boot",
-      "anno": "1982",
-      "uscitaItalia": "1982-03-18",
-      "regia": "Wolfgang Petersen",
-      "generi": [
-        "Dramma",
-        "Storia",
-        "Guerra"
-      ],
-      "paesi": [
-        "Germania"
-      ],
-      "durata": 216,
-      "tagline": "Quando il cacciatore diventa preda",
-      "cast": [
-        "Jürgen Prochnow (Lieutenant 'Der Alte')",
-        "Herbert Grönemeyer (Lieutenant Werner)",
-        "Klaus Wennemann (Chief Engineer)",
-        "Hubertus Bengsch (First Watch Officer)",
-        "Martin Semmelrogge (Second Watch Officer)",
-        "Bernd Tauber (Kriechbaum)"
-      ],
-      "tramaTmdb": "Nell'autunno 1941 dal porto di La Rochelle esce in missione un sottomarino tedesco, per attaccare e affondare i convogli provenienti dagli Stati Uniti con aiuti destinati agli Inglesi. Dopo aver subito due attacchi, riesce a rientrare a La Rochelle, ma un attacco aereo ne provoca l'affondamento definitivo e la morte di quasi tutto l'equipaggio.",
-      "motivi": [
-        "dramma: il tuo terreno"
-      ],
-      "impronta": "U-Boot 96|346|Wolfgang Petersen"
     }
   ]
 }
