@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-15T12:25:43.693Z",
+  "preparato": "2026-11-16T13:17:54.356Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,71 +79,6 @@
   },
   "film": [
     {
-      "id": "tmdb-1058424",
-      "tmdbId": 1058424,
-      "imdbId": "tt27369017",
-      "titolo": "Hope",
-      "titoloOriginale": null,
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "lista": "cinema",
-      "regia": "나홍진",
-      "generi": [
-        "Fantascienza",
-        "Mistero",
-        "Azione"
-      ],
-      "paesi": [
-        "Corea del Sud"
-      ],
-      "durata": 157,
-      "tagline": "È così che finisce?",
-      "cast": [
-        "황정민 (Go Bum-seok)",
-        "조인성 (Go Sung-ki)",
-        "정호연 (Lim Sung-ae)",
-        "Alicia Vikander (J'aur)",
-        "Michael Fassbender (Ma'veyyo)",
-        "Taylor Russell (Ai'dovor)",
-        "Cameron Britton (Va'migere)",
-        "이상희 (Nak-yeon)"
-      ],
-      "tramaTmdb": "Nel remoto villaggio sudcoreano di Hope Harbor, il capo della polizia Bum-seok e l'agente Sung-ae vengono chiamati a indagare su una creatura misteriosa che sta seminando il caos nella comunità. Tuttavia, non tutto è come sembra, e le percezioni possono essere fuorvianti. Ciò che si crede sia basato sull'ignoranza, semina il seme del disastro, che si trasforma attraverso il conflitto umano in una tragedia di proporzioni enormi.",
-      "impronta": "Hope|431|나홍진"
-    },
-    {
-      "id": "tmdb-574475",
-      "tmdbId": 574475,
-      "imdbId": "tt9619824",
-      "titolo": "Final Destination - Bloodlines",
-      "titoloOriginale": null,
-      "anno": "2025",
-      "uscitaItalia": "2025-05-15",
-      "lista": "casa",
-      "regia": "Zach Lipovsky",
-      "generi": [
-        "Horror",
-        "Mistero"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 110,
-      "tagline": "Una famiglia con la morte nel sangue.",
-      "cast": [
-        "Kaitlyn Santa Juana (Stefani Reyes)",
-        "Teo Briones (Charlie Reyes)",
-        "Rya Kihlstedt (Darlene Campbell)",
-        "Richard Harmon (Erik)",
-        "Owen Patrick Joyner (Bobby)",
-        "Anna Lore (Julia)",
-        "Alex Zahara (Uncle Howard)",
-        "April Telek (Aunt Brenda)"
-      ],
-      "tramaTmdb": "Tormentata da un violento incubo ricorrente, Stefanie torna a casa dal college per rintracciare l'unica persona in grado di interrompere un ciclo mortale che coinvolge i membri della sua famiglia, e salvarli dalla macabra fine che inevitabilmente li attende.",
-      "impronta": "Final Destination - Bloodlines|258|Zach Lipovsky"
-    },
-    {
       "id": "tmdb-1226863",
       "tmdbId": 1226863,
       "imdbId": "tt28650488",
@@ -152,7 +87,7 @@
       "anno": "2026",
       "uscitaItalia": "2026-04-01",
       "lista": "casa",
-      "regia": "Aaron Horvath",
+      "regia": "Michael Jelenic",
       "generi": [
         "Famiglia",
         "Commedia",
@@ -177,7 +112,7 @@
         "Glen Powell (Fox McCloud (voice))"
       ],
       "tramaTmdb": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
-      "impronta": "Super Mario Galaxy - Il film|521|Aaron Horvath"
+      "impronta": "Super Mario Galaxy - Il film|521|Michael Jelenic"
     }
   ]
 }
