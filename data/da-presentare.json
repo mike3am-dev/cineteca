@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-16T13:17:56.174Z",
+  "preparato": "2026-11-17T14:02:26.031Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -78,6 +78,42 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1181107",
+      "tmdbId": 1181107,
+      "imdbId": "tt7967302",
+      "origine": "trailer",
+      "titolo": "Il re dei re - La più grande storia mai raccontata",
+      "titoloOriginale": "The King of Kings",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-03",
+      "regia": "장성호",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Corea del Sud",
+        "USA"
+      ],
+      "durata": 102,
+      "tagline": null,
+      "cast": [
+        "Oscar Isaac (Jesus Christ (voice))",
+        "Kenneth Branagh (Charles Dickens (voice))",
+        "Uma Thurman (Catherine Dickens (voice))",
+        "Pierce Brosnan (Pontius Pilate (voice))",
+        "Roman Griffin Davis (Walter Dickens (voice))",
+        "Forest Whitaker (Peter (voice))"
+      ],
+      "tramaTmdb": "Charles Dickens racconta al piccolo Walter la più grande storia mai narrata: quella che sembra una semplice favola della buonanotte si trasforma in un viaggio destinato a cambiargli la vita. Grazie alla sua vivida immaginazione, Walter si ritrova a camminare accanto a Gesù, assistendo ai suoi miracoli e condividendone le prove. Accompagnato dalla curiosa Willa, il giovane protagonista vive un’esperienza unica che gli permetterà di guardare quella incredibile storia con occhi nuovi ed entusiasti.",
+      "motivi": [
+        "c'è Oscar Isaac, che hai visto 2 volte"
+      ],
+      "impronta": "Il re dei re - La più grande storia mai raccontata|500|장성호"
+    },
     {
       "id": "tmdb-1003596",
       "tmdbId": 1003596,
@@ -181,40 +217,35 @@
       "impronta": "Behemoth! - Una vita. Da ricomporre.|276|Tony Gilroy"
     },
     {
-      "id": "tmdb-1181107",
-      "tmdbId": 1181107,
-      "imdbId": "tt7967302",
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
       "origine": "trailer",
-      "titolo": "Il re dei re - La più grande storia mai raccontata",
-      "titoloOriginale": "The King of Kings",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker-in-Law",
       "anno": "2026",
-      "uscitaItalia": "2026-12-03",
-      "regia": "장성호",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
       "generi": [
-        "Avventura",
-        "Animazione",
-        "Famiglia",
-        "Fantasy"
+        "Commedia",
+        "Romance"
       ],
       "paesi": [
-        "Corea del Sud",
         "USA"
       ],
-      "durata": 102,
+      "durata": 105,
       "tagline": null,
       "cast": [
-        "Oscar Isaac (Jesus Christ (voice))",
-        "Kenneth Branagh (Charles Dickens (voice))",
-        "Uma Thurman (Catherine Dickens (voice))",
-        "Pierce Brosnan (Pontius Pilate (voice))",
-        "Roman Griffin Davis (Walter Dickens (voice))",
-        "Forest Whitaker (Peter (voice))"
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
       ],
-      "tramaTmdb": "Charles Dickens racconta al piccolo Walter la più grande storia mai narrata: quella che sembra una semplice favola della buonanotte si trasforma in un viaggio destinato a cambiargli la vita. Grazie alla sua vivida immaginazione, Walter si ritrova a camminare accanto a Gesù, assistendo ai suoi miracoli e condividendone le prove. Accompagnato dalla curiosa Willa, il giovane protagonista vive un’esperienza unica che gli permetterà di guardare quella incredibile storia con occhi nuovi ed entusiasti.",
-      "motivi": [
-        "c'è Oscar Isaac, che hai visto 2 volte"
-      ],
-      "impronta": "Il re dei re - La più grande storia mai raccontata|500|장성호"
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+      "motivi": [],
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
       "id": "tmdb-1437511",
@@ -260,7 +291,8 @@
       "regia": "Ti West",
       "generi": [
         "Fantasy",
-        "Commedia"
+        "Commedia",
+        "Horror"
       ],
       "paesi": [
         "USA",
@@ -271,10 +303,10 @@
       "cast": [
         "Johnny Depp (Ebenezer Scrooge)",
         "Rupert Grint (Bob Cratchit)",
+        "Daisy Ridley (Clara)",
         "Ian McKellen (Jacob Marley)",
         "Andrea Riseborough (Ghost of Christmas Past)",
-        "Sam Claflin (Fred)",
-        "Daisy Ridley (Clara)"
+        "Sam Claflin (Fred)"
       ],
       "tramaTmdb": null,
       "motivi": [],
@@ -312,37 +344,6 @@
       "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
       "motivi": [],
       "impronta": "Wild Horse Nine|206|Martin McDonagh"
-    },
-    {
-      "id": "tmdb-1400336",
-      "tmdbId": 1400336,
-      "imdbId": "tt34966140",
-      "origine": "trailer",
-      "titolo": "Ti presento i Fotter",
-      "titoloOriginale": "Focker-in-Law",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "John Hamburg",
-      "generi": [
-        "Commedia",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": null,
-      "cast": [
-        "Ben Stiller (Greg Focker)",
-        "Robert De Niro (Jack Byrnes)",
-        "Ariana Grande (Olivia Jones)",
-        "Skyler Gisondo (Henry Focker)",
-        "Owen Wilson (Kevin Rawley)",
-        "Blythe Danner (Dina Byrnes)"
-      ],
-      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
-      "motivi": [],
-      "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
       "id": "tmdb-940009",
