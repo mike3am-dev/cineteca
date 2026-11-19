@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-18T13:37:36.775Z",
+  "preparato": "2026-11-19T14:03:54.686Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -79,40 +79,37 @@
   },
   "film": [
     {
-      "id": "tmdb-1181107",
-      "tmdbId": 1181107,
-      "imdbId": "tt7967302",
+      "id": "tmdb-1452168",
+      "tmdbId": 1452168,
+      "imdbId": "tt36415529",
       "origine": "trailer",
-      "titolo": "Il re dei re - La più grande storia mai raccontata",
-      "titoloOriginale": "The King of Kings",
+      "titolo": "Behemoth! - Una vita. Da ricomporre.",
+      "titoloOriginale": "Behemoth!",
       "anno": "2026",
       "uscitaItalia": "2026-12-03",
-      "regia": "장성호",
+      "regia": "Tony Gilroy",
       "generi": [
-        "Avventura",
-        "Animazione",
-        "Famiglia",
-        "Fantasy"
+        "Musica",
+        "Dramma"
       ],
       "paesi": [
-        "Corea del Sud",
         "USA"
       ],
-      "durata": 102,
+      "durata": 127,
       "tagline": null,
       "cast": [
-        "Oscar Isaac (Jesus Christ (voice))",
-        "Kenneth Branagh (Charles Dickens (voice))",
-        "Uma Thurman (Catherine Dickens (voice))",
-        "Pierce Brosnan (Pontius Pilate (voice))",
-        "Roman Griffin Davis (Walter Dickens (voice))",
-        "Forest Whitaker (Peter (voice))"
+        "Pedro Pascal (Alex Serian)",
+        "Olivia Wilde (Carol Spedding)",
+        "Eva Victor (Nadia Hynes)",
+        "Will Arnett (Andy Serian)",
+        "Hank Azaria (Peter Serian)",
+        "Alexa Swinton (Viviana Glenn)"
       ],
-      "tramaTmdb": "Charles Dickens racconta al piccolo Walter la più grande storia mai narrata: quella che sembra una semplice favola della buonanotte si trasforma in un viaggio destinato a cambiargli la vita. Grazie alla sua vivida immaginazione, Walter si ritrova a camminare accanto a Gesù, assistendo ai suoi miracoli e condividendone le prove. Accompagnato dalla curiosa Willa, il giovane protagonista vive un’esperienza unica che gli permetterà di guardare quella incredibile storia con occhi nuovi ed entusiasti.",
+      "tramaTmdb": "Alex Serian (Pedro Pascal), un violoncellista di grande talento, torna a casa a Los Angeles dopo vent’anni trascorsi in tournée. La musica, che è stata il filo conduttore e la forza trainante della sua vita, inizia a trascinare Alex in un’avventura che lo cambierà per sempre.",
       "motivi": [
-        "c'è Oscar Isaac, che hai visto 2 volte"
+        "dramma, il tuo terreno"
       ],
-      "impronta": "Il re dei re - La più grande storia mai raccontata|500|장성호"
+      "impronta": "Behemoth! - Una vita. Da ricomporre.|276|Tony Gilroy"
     },
     {
       "id": "tmdb-1003596",
@@ -184,39 +181,6 @@
       "impronta": "Buddy|260|Casper Kelly"
     },
     {
-      "id": "tmdb-1452168",
-      "tmdbId": 1452168,
-      "imdbId": "tt36415529",
-      "origine": "trailer",
-      "titolo": "Behemoth! - Una vita. Da ricomporre.",
-      "titoloOriginale": "Behemoth!",
-      "anno": "2026",
-      "uscitaItalia": "2026-12-02",
-      "regia": "Tony Gilroy",
-      "generi": [
-        "Musica",
-        "Dramma"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 127,
-      "tagline": null,
-      "cast": [
-        "Pedro Pascal (Alex Serian)",
-        "Olivia Wilde (Carol Spedding)",
-        "Eva Victor (Nadia Hynes)",
-        "Will Arnett (Andy Serian)",
-        "Hank Azaria (Peter Serian)",
-        "Alexa Swinton (Viviana Glenn)"
-      ],
-      "tramaTmdb": "Alex Serian (Pedro Pascal), un violoncellista di grande talento, torna a casa a Los Angeles dopo vent’anni trascorsi in tournée. La musica, che è stata il filo conduttore e la forza trainante della sua vita, inizia a trascinare Alex in un’avventura che lo cambierà per sempre.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Behemoth! - Una vita. Da ricomporre.|276|Tony Gilroy"
-    },
-    {
       "id": "tmdb-1532610",
       "tmdbId": 1532610,
       "imdbId": "tt37967547",
@@ -253,6 +217,104 @@
       "impronta": "Ink|600|Danny Boyle"
     },
     {
+      "id": "tmdb-891621",
+      "tmdbId": 891621,
+      "imdbId": "tt15799564",
+      "origine": "trailer",
+      "titolo": "Wild Horse Nine",
+      "titoloOriginale": "Wild Horse Nine",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-05",
+      "regia": "Martin McDonagh",
+      "generi": [
+        "Commedia",
+        "Crime",
+        "Thriller"
+      ],
+      "paesi": [
+        "Regno Unito",
+        "USA"
+      ],
+      "durata": 117,
+      "tagline": null,
+      "cast": [
+        "John Malkovich (Chris)",
+        "Sam Rockwell (Lee)",
+        "Steve Buscemi (MJ)",
+        "Mariana di Girolamo (Monica)",
+        "Ailín Salas (Alicia)",
+        "Parker Posey (Marge)"
+      ],
+      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
+      "motivi": [],
+      "impronta": "Wild Horse Nine|206|Martin McDonagh"
+    },
+    {
+      "id": "tmdb-1461490",
+      "tmdbId": 1461490,
+      "imdbId": "tt17055444",
+      "origine": "trailer",
+      "titolo": "Hershey",
+      "titoloOriginale": "Hershey",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-25",
+      "regia": "Mark Waters",
+      "generi": [
+        "Dramma",
+        "Storia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": null,
+      "cast": [
+        "Finn Wittrock (Milton Hershey)",
+        "Alexandra Daddario (Kitty Hershey)",
+        "Alan Ruck (Henry Hershey)",
+        "Richard Kind (Joseph Royer)",
+        "David Costabile (Tobias Thornhill)",
+        "Heléne Yorke (Margaret)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [],
+      "impronta": "Hershey|0|Mark Waters"
+    },
+    {
+      "id": "tmdb-822653",
+      "tmdbId": 822653,
+      "imdbId": "tt14523706",
+      "origine": "trailer",
+      "titolo": "Puella Magi Madoka Magica the Movie - Il risveglio di Walpurgis",
+      "titoloOriginale": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-10",
+      "regia": "宮本幸裕",
+      "generi": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Fantasy"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 120,
+      "tagline": "Il mondo non potrà perdonarla.",
+      "cast": [
+        "Aoi Yuuki (Madoka Kaname (voice))",
+        "Chiwa Saitō (Homura Akemi (voice))",
+        "Eri Kitamura (Sayaka Miki (voice))",
+        "Ai Nonaka (Kyoko Sakura (voice))",
+        "Kaori Mizuhashi (Mami Tomoe (voice))",
+        "Kana Asumi (Nagisa Momoe (voice))"
+      ],
+      "tramaTmdb": "Ultimamente, una certa voce ha iniziato a circolare — sussurrata piano tra le ragazze di Mitakihara. Il “Telefono Lucertola” esaudisce i desideri — in cambio si deve combattere le maledizioni che affliggono questo mondo. Nel frattempo, una serie di anomalie aveva iniziato a manifestarsi: una “ragazza senza Soul Gem” stava dando la caccia ai Wraith. Homura osservava la scena con serena compostezza; regnando come un Demone di questo mondo, deteneva il dominio assoluto su ogni cosa. — O almeno, così avrebbe dovuto essere…",
+      "motivi": [],
+      "impronta": "Puella Magi Madoka Magica the Movie - Il risveglio di Walpurgis|524|宮本幸裕"
+    },
+    {
       "id": "tmdb-1400336",
       "tmdbId": 1400336,
       "imdbId": "tt34966140",
@@ -282,6 +344,39 @@
       "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
       "motivi": [],
       "impronta": "Ti presento i Fotter|209|John Hamburg"
+    },
+    {
+      "id": "tmdb-1545621",
+      "tmdbId": 1545621,
+      "imdbId": "tt39123115",
+      "origine": "trailer",
+      "titolo": "Detective Conan: L'angelo ribelle dell'autostrada",
+      "titoloOriginale": "名探偵コナン ハイウェイの堕天使",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-07",
+      "regia": "蓮井隆弘",
+      "generi": [
+        "Azione",
+        "Animazione",
+        "Mistero",
+        "Crime"
+      ],
+      "paesi": [
+        "Giappone"
+      ],
+      "durata": 109,
+      "tagline": null,
+      "cast": [
+        "Minami Takayama (Conan Edogawa (voice))",
+        "Miyuki Sawashiro (Chihaya Hagiwara (voice))",
+        "Wakana Yamazaki (Ran Mouri (voice))",
+        "Akio Ōtsuka (Jugo Yokomizo (voice))",
+        "Rikiya Koyama (Kogoro Mouri (voice))",
+        "Megumi Hayashibara (Ai Haibara (voice))"
+      ],
+      "tramaTmdb": "Quando si verifica una serie di incidenti stradali mortali, le indagini di Conan Edogawa suggeriscono che non si tratti di semplici fatalità, bensì di un piano orchestrato. Man mano che svela una cospirazione che coinvolge identità celate e tecnologie avanzate, il caso si trasforma in una frenetica corsa contro il tempo: Conan deve fermare una mente criminale calcolatrice prima che altre vite vadano perdute.",
+      "motivi": [],
+      "impronta": "Detective Conan: L'angelo ribelle dell'autostrada|411|蓮井隆弘"
     },
     {
       "id": "tmdb-1437511",
@@ -314,106 +409,6 @@
       "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
       "motivi": [],
       "impronta": "Come rapinare una banca|451|David Leitch"
-    },
-    {
-      "id": "tmdb-1117898",
-      "tmdbId": 1117898,
-      "imdbId": "tt2321555",
-      "origine": "trailer",
-      "titolo": "Il gatto col cappello",
-      "titoloOriginale": "The Cat in the Hat",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Erica Rivinoja",
-      "generi": [
-        "Animazione",
-        "Fantasy",
-        "Avventura",
-        "Famiglia",
-        "Commedia"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 91,
-      "tagline": "Qui gatto ci cova",
-      "cast": [
-        "Bill Hader (The Cat in the Hat (voice))",
-        "Xochitl Gomez (Gabby (voice))",
-        "Tiago Martinez (Sebastian (voice))",
-        "Matt Berry (Waffles (voice))",
-        "Quinta Brunson (Sherrie from HR (voice))",
-        "Bowen Yang (Gary (voice))"
-      ],
-      "tramaTmdb": "Scopri Il Gatto col Cappello come non l’hai mai visto prima! Dal meraviglioso e stravagante mondo di Dr. Seuss, Il Gatto col Cappello arriva per la prima volta sul grande schermo da protagonista di un film d’animazione: un’avventura epica, inedita e piena di brio, dove regnano magia, caos e tanta allegria. Facendo ciò che gli riesce meglio, il Gatto porta gioia ai bambini con il suo umorismo esilarante, unico e irriverente, trasportandoli in un viaggio fantastico verso un mondo mai visto prima.",
-      "motivi": [],
-      "impronta": "Il gatto col cappello|499|Erica Rivinoja"
-    },
-    {
-      "id": "tmdb-1567605",
-      "tmdbId": 1567605,
-      "imdbId": "tt38773219",
-      "origine": "trailer",
-      "titolo": "Scrooge e gli spiriti del Natale",
-      "titoloOriginale": "Ebenezer",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "Ti West",
-      "generi": [
-        "Fantasy",
-        "Commedia"
-      ],
-      "paesi": [
-        "USA",
-        "Regno Unito"
-      ],
-      "durata": 115,
-      "tagline": "Pensi di sapere cosa significa essere ghostati? Chiedilo a Scrooge.",
-      "cast": [
-        "Johnny Depp (Ebenezer Scrooge)",
-        "Rupert Grint (Bob Cratchit)",
-        "Daisy Ridley (Clara)",
-        "Ian McKellen (Jacob Marley)",
-        "Andrea Riseborough (Ghost of Christmas Past)",
-        "Sam Claflin (Fred)"
-      ],
-      "tramaTmdb": null,
-      "motivi": [],
-      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
-    },
-    {
-      "id": "tmdb-891621",
-      "tmdbId": 891621,
-      "imdbId": "tt15799564",
-      "origine": "trailer",
-      "titolo": "Wild Horse Nine",
-      "titoloOriginale": "Wild Horse Nine",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-05",
-      "regia": "Martin McDonagh",
-      "generi": [
-        "Commedia",
-        "Crime",
-        "Thriller"
-      ],
-      "paesi": [
-        "Regno Unito",
-        "USA"
-      ],
-      "durata": 117,
-      "tagline": null,
-      "cast": [
-        "John Malkovich (Chris)",
-        "Sam Rockwell (Lee)",
-        "Steve Buscemi (MJ)",
-        "Mariana di Girolamo (Monica)",
-        "Ailín Salas (Alicia)",
-        "Parker Posey (Marge)"
-      ],
-      "tramaTmdb": "Cile, 1973. Chris e Lee sono due agenti della CIA distaccati in Sud America, costretti ad affrontare un complicato viaggio da Santiago all'Isola di Pasqua che metterà a dura prova la loro fiducia reciproca.",
-      "motivi": [],
-      "impronta": "Wild Horse Nine|206|Martin McDonagh"
     }
   ]
 }
