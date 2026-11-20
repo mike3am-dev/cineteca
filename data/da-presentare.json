@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-19T14:03:54.686Z",
+  "preparato": "2026-11-20T13:46:07.135Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -78,6 +78,40 @@
     ]
   },
   "film": [
+    {
+      "id": "tmdb-1286656",
+      "tmdbId": 1286656,
+      "imdbId": "tt11995650",
+      "origine": "trailer",
+      "titolo": "Rocky sono io",
+      "titoloOriginale": "I Play Rocky",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-31",
+      "regia": "Peter Farrelly",
+      "generi": [
+        "Dramma",
+        "Storia"
+      ],
+      "paesi": [
+        "USA",
+        "Australia"
+      ],
+      "durata": 128,
+      "tagline": "Nessuno ci credeva. Tranne lui",
+      "cast": [
+        "Anthony Ippolito (Sylvester Stallone)",
+        "AnnaSophia Robb (Sasha Czack)",
+        "P.J. Byrne (Irwin Winkler)",
+        "Toby Kebbell (Robert Chartoff)",
+        "Jay Duplass (John Avildsen)",
+        "Tracy Letts (Sandy Maddox)"
+      ],
+      "tramaTmdb": "La vera e appassionante storia di un attore sconosciuto, Sylvester Stallone, convinto di non essere destinato solo a scrivere Rocky, ma a interpretare Rocky Balboa. Dopo aver ricevuto rifiuti a ogni passo, scommette tutto su se stesso e non cede sul desiderio di interpretare il protagonista, contro ogni previsione.",
+      "motivi": [
+        "dramma, il tuo terreno"
+      ],
+      "impronta": "Rocky sono io|316|Peter Farrelly"
+    },
     {
       "id": "tmdb-1452168",
       "tmdbId": 1452168,
@@ -181,40 +215,67 @@
       "impronta": "Buddy|260|Casper Kelly"
     },
     {
-      "id": "tmdb-1532610",
-      "tmdbId": 1532610,
-      "imdbId": "tt37967547",
+      "id": "tmdb-1567605",
+      "tmdbId": 1567605,
+      "imdbId": "tt38773219",
       "origine": "trailer",
-      "titolo": "Ink",
-      "titoloOriginale": "Ink",
+      "titolo": "Scrooge e gli spiriti del Natale",
+      "titoloOriginale": "Ebenezer",
       "anno": "2026",
-      "uscitaItalia": "2026-12-10",
-      "regia": "Danny Boyle",
+      "uscitaItalia": "2026-11-12",
+      "regia": "Ti West",
       "generi": [
-        "Dramma",
-        "Storia"
+        "Fantasy",
+        "Commedia"
       ],
       "paesi": [
-        "Regno Unito",
         "USA",
-        "Francia"
+        "Regno Unito"
       ],
-      "durata": 116,
+      "durata": 115,
+      "tagline": "Pensi di sapere cosa significa essere ghostati? Chiedilo a Scrooge.",
+      "cast": [
+        "Johnny Depp (Ebenezer Scrooge)",
+        "Rupert Grint (Bob Cratchit)",
+        "Daisy Ridley (Clara)",
+        "Ian McKellen (Jacob Marley)",
+        "Andrea Riseborough (Ghost of Christmas Past)",
+        "Sam Claflin (Fred)"
+      ],
+      "tramaTmdb": null,
+      "motivi": [],
+      "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
+    },
+    {
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
+      "origine": "trailer",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker-in-Law",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
+      "generi": [
+        "Commedia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 105,
       "tagline": null,
       "cast": [
-        "Jack O'Connell (Larry Lamb)",
-        "Guy Pearce (Rupert Murdoch)",
-        "Claire Foy (Jules Davies)",
-        "Blake Harrison (Ray Mills)",
-        "Patrick Kennedy (Bernard Shrimsley)",
-        "Angus Imrie (Beverley Goodway)"
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
       ],
-      "tramaTmdb": "Londra, 1969. Il giovane imprenditore Rupert Murdoch viene dall'Australia ed è deciso a conquistare il mercato britannico della carta stampata. Per questo motivo rileva il piccolo quotidiano The Sun e incontra a cena Larry Lamb, giovane e ambizioso giornalista, per affidargli la direzione. L'idea di Murdoch è reinventare il modo di fare informazione, con un approccio più vicino alla pancia dei lettori e dei metodi tanto pionieristici quanto privi di scrupoli morali. Lamb costruisce da zero quello che diventerà il tabloid per eccellenza, e assembla una squadra che comprende Jules Davies, colleg",
-      "motivi": [
-        "regia di Danny Boyle, di cui hai visto un film",
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Ink|600|Danny Boyle"
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+      "motivi": [],
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
       "id": "tmdb-891621",
@@ -315,37 +376,6 @@
       "impronta": "Puella Magi Madoka Magica the Movie - Il risveglio di Walpurgis|524|宮本幸裕"
     },
     {
-      "id": "tmdb-1400336",
-      "tmdbId": 1400336,
-      "imdbId": "tt34966140",
-      "origine": "trailer",
-      "titolo": "Ti presento i Fotter",
-      "titoloOriginale": "Focker-in-Law",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "John Hamburg",
-      "generi": [
-        "Commedia",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": null,
-      "cast": [
-        "Ben Stiller (Greg Focker)",
-        "Robert De Niro (Jack Byrnes)",
-        "Ariana Grande (Olivia Jones)",
-        "Skyler Gisondo (Henry Focker)",
-        "Owen Wilson (Kevin Rawley)",
-        "Blythe Danner (Dina Byrnes)"
-      ],
-      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
-      "motivi": [],
-      "impronta": "Ti presento i Fotter|209|John Hamburg"
-    },
-    {
       "id": "tmdb-1545621",
       "tmdbId": 1545621,
       "imdbId": "tt39123115",
@@ -379,36 +409,39 @@
       "impronta": "Detective Conan: L'angelo ribelle dell'autostrada|411|蓮井隆弘"
     },
     {
-      "id": "tmdb-1437511",
-      "tmdbId": 1437511,
-      "imdbId": "tt35866986",
-      "origine": "trailer",
-      "titolo": "Come rapinare una banca",
-      "titoloOriginale": "How to Rob a Bank",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-12",
-      "regia": "David Leitch",
+      "id": "tmdb-1084736",
+      "tmdbId": 1084736,
+      "imdbId": "tt26446278",
+      "origine": "scoperta",
+      "titolo": "Il conte di Montecristo",
+      "titoloOriginale": "Le Comte de Monte-Cristo",
+      "anno": "2024",
+      "uscitaItalia": "2024-06-28",
+      "regia": "Alexandre de La Patellière",
       "generi": [
+        "Avventura",
         "Azione",
-        "Crime",
-        "Thriller"
+        "Dramma"
       ],
       "paesi": [
-        "USA"
+        "Francia",
+        "Belgio"
       ],
-      "durata": 122,
-      "tagline": "Chi rapina chi?",
+      "durata": 178,
+      "tagline": "Questa non è vendetta, questa è giustizia.",
       "cast": [
-        "Nicholas Hoult (Ryan)",
-        "Zoë Kravitz (Reagan Gardner)",
-        "Pete Davidson (Vince)",
-        "John C. Reilly (Agent West)",
-        "Anna Sawai (Emi)",
-        "Rhenzy Feliz (Hugo)"
+        "Pierre Niney (Edmond Dantès / The Count of Monte Cristo)",
+        "Bastien Bouillon (Fernand de Morcerf)",
+        "Anaïs Demoustier (Mercédès Herrera)",
+        "Laurent Lafitte (Gérard de Villefort)",
+        "Pierfrancesco Favino (Abbé Faria)",
+        "Patrick Mille (Danglars)"
       ],
-      "tramaTmdb": "In \"Come rapinare una banca\", una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. Nonostante i due inseguitori siano sempre più vicini, il gruppo criminale si spinge oltre i propri limiti, mettendo in gioco tutto per le proprie convinzioni e per il loro colpo più ambizioso di sempre.",
-      "motivi": [],
-      "impronta": "Come rapinare una banca|451|David Leitch"
+      "tramaTmdb": "Il film racconta la storia di un giovane uomo, Edmond Dantes, che diviene il bersaglio di un sinistro complotto e viene arrestato il giorno del suo matrimonio per un crimine che non ha commesso. Dopo 14 anni trascorsi nella prigione dell'isola di Château d'If, riesce a fuggire rocambolescamente. Ora, ricco oltre ogni immaginazione, assume l'identità del Conte di Monte-Cristo ed esige la sua vendetta sui tre uomini che lo hanno tradito.",
+      "motivi": [
+        "avventura: il tuo terreno"
+      ],
+      "impronta": "Il conte di Montecristo|439|Alexandre de La Patellière"
     }
   ]
 }
