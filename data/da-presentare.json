@@ -1,5 +1,5 @@
 {
-  "preparato": "2026-11-20T13:46:07.135Z",
+  "preparato": "2026-11-21T13:12:05.144Z",
   "ritratto": {
     "generi": [
       "Avventura (14)",
@@ -78,40 +78,6 @@
     ]
   },
   "film": [
-    {
-      "id": "tmdb-1286656",
-      "tmdbId": 1286656,
-      "imdbId": "tt11995650",
-      "origine": "trailer",
-      "titolo": "Rocky sono io",
-      "titoloOriginale": "I Play Rocky",
-      "anno": "2026",
-      "uscitaItalia": "2026-12-31",
-      "regia": "Peter Farrelly",
-      "generi": [
-        "Dramma",
-        "Storia"
-      ],
-      "paesi": [
-        "USA",
-        "Australia"
-      ],
-      "durata": 128,
-      "tagline": "Nessuno ci credeva. Tranne lui",
-      "cast": [
-        "Anthony Ippolito (Sylvester Stallone)",
-        "AnnaSophia Robb (Sasha Czack)",
-        "P.J. Byrne (Irwin Winkler)",
-        "Toby Kebbell (Robert Chartoff)",
-        "Jay Duplass (John Avildsen)",
-        "Tracy Letts (Sandy Maddox)"
-      ],
-      "tramaTmdb": "La vera e appassionante storia di un attore sconosciuto, Sylvester Stallone, convinto di non essere destinato solo a scrivere Rocky, ma a interpretare Rocky Balboa. Dopo aver ricevuto rifiuti a ogni passo, scommette tutto su se stesso e non cede sul desiderio di interpretare il protagonista, contro ogni previsione.",
-      "motivi": [
-        "dramma, il tuo terreno"
-      ],
-      "impronta": "Rocky sono io|316|Peter Farrelly"
-    },
     {
       "id": "tmdb-1452168",
       "tmdbId": 1452168,
@@ -215,6 +181,103 @@
       "impronta": "Buddy|260|Casper Kelly"
     },
     {
+      "id": "tmdb-1400336",
+      "tmdbId": 1400336,
+      "imdbId": "tt34966140",
+      "origine": "trailer",
+      "titolo": "Ti presento i Fotter",
+      "titoloOriginale": "Focker In-Law",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "John Hamburg",
+      "generi": [
+        "Commedia",
+        "Romance"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 105,
+      "tagline": null,
+      "cast": [
+        "Ben Stiller (Greg Focker)",
+        "Robert De Niro (Jack Byrnes)",
+        "Ariana Grande (Olivia Jones)",
+        "Skyler Gisondo (Henry Focker)",
+        "Owen Wilson (Kevin Rawley)",
+        "Blythe Danner (Dina Byrnes)"
+      ],
+      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
+      "motivi": [],
+      "impronta": "Ti presento i Fotter|209|John Hamburg"
+    },
+    {
+      "id": "tmdb-1538497",
+      "tmdbId": 1538497,
+      "imdbId": "tt38077943",
+      "origine": "trailer",
+      "titolo": "Hexe - Il regno delle streghe",
+      "titoloOriginale": "Hexed",
+      "anno": "2026",
+      "uscitaItalia": "2026-11-26",
+      "regia": "Jason Hand",
+      "generi": [
+        "Avventura",
+        "Animazione",
+        "Famiglia",
+        "Fantasy",
+        "Commedia"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 103,
+      "tagline": null,
+      "cast": [
+        "Hailee Steinfeld (Billie Doe (voice))",
+        "Rashida Jones (Alice Doe (voice))",
+        "Jodie Foster (Queen Celeste (voice))",
+        "Walton Goggins (Beef Roger Crummchuk (voice))",
+        "Tracey Ullman (Ms. Quill (voice))",
+        "Stephen Fry (Elias Quire (voice))"
+      ],
+      "tramaTmdb": "Billie Doe, un'adolescente impulsiva e non convenzionale, scopre di avere abilità magiche che la portano dalla periferia a Hexe, un regno di streghe. Con la cauta madre Alice indaga sui segreti di famiglia legati al mondo delle streghe.",
+      "motivi": [],
+      "impronta": "Hexe - Il regno delle streghe|236|Jason Hand"
+    },
+    {
+      "id": "tmdb-1078446",
+      "tmdbId": 1078446,
+      "imdbId": "tt32432428",
+      "origine": "trailer",
+      "titolo": "Un'altra notte violenta e silenziosa",
+      "titoloOriginale": "Violent Night 2",
+      "anno": "2026",
+      "uscitaItalia": "2026-12-03",
+      "regia": "Tommy Wirkola",
+      "generi": [
+        "Azione",
+        "Commedia",
+        "Fantasy"
+      ],
+      "paesi": [
+        "USA"
+      ],
+      "durata": 110,
+      "tagline": "Babbo Natale è tornato",
+      "cast": [
+        "David Harbour (Santa Claus)",
+        "Kristen Bell (Mrs. Claus)",
+        "Daniela Melchior",
+        "Jared Harris",
+        "Joe Pantoliano",
+        "Maxwell Jacob Friedman"
+      ],
+      "tramaTmdb": "Il non proprio bonario San Nicola torna in azione per fermare uno spietato boss della criminalità che sta seminando il terrore tra i negozianti del centro commerciale Silver Bell Mall. Ma quando Babbo Natale perde di vista il vero spirito del Natale, si ritrova nel cuore di una vivace comunità che anima il centro commerciale e che ha disperatamente bisogno del suo aiuto. Privato dei suoi poteri magici, dovrà trovare un nuovo modo per affrontare i criminali che minacciano il mall, mentre il tempo stringe. Per riuscirci dovrà ritrovare la fiducia nella bontà delle persone e chiedere l'aiuto dell",
+      "motivi": [],
+      "impronta": "Un'altra notte violenta e silenziosa|600|Tommy Wirkola"
+    },
+    {
       "id": "tmdb-1567605",
       "tmdbId": 1567605,
       "imdbId": "tt38773219",
@@ -245,37 +308,6 @@
       "tramaTmdb": null,
       "motivi": [],
       "impronta": "Scrooge e gli spiriti del Natale|0|Ti West"
-    },
-    {
-      "id": "tmdb-1400336",
-      "tmdbId": 1400336,
-      "imdbId": "tt34966140",
-      "origine": "trailer",
-      "titolo": "Ti presento i Fotter",
-      "titoloOriginale": "Focker-in-Law",
-      "anno": "2026",
-      "uscitaItalia": "2026-11-26",
-      "regia": "John Hamburg",
-      "generi": [
-        "Commedia",
-        "Romance"
-      ],
-      "paesi": [
-        "USA"
-      ],
-      "durata": 105,
-      "tagline": null,
-      "cast": [
-        "Ben Stiller (Greg Focker)",
-        "Robert De Niro (Jack Byrnes)",
-        "Ariana Grande (Olivia Jones)",
-        "Skyler Gisondo (Henry Focker)",
-        "Owen Wilson (Kevin Rawley)",
-        "Blythe Danner (Dina Byrnes)"
-      ],
-      "tramaTmdb": "Un giovane di nome Henry, figlio di Greg e Pam Focker, si ritrova ad affrontare il caos familiare quando decide di sposare una donna volitiva che sembra essere completamente diversa dalla sua fidanzata ideale.",
-      "motivi": [],
-      "impronta": "Ti presento i Fotter|209|John Hamburg"
     },
     {
       "id": "tmdb-891621",
@@ -374,74 +406,6 @@
       "tramaTmdb": "Ultimamente, una certa voce ha iniziato a circolare — sussurrata piano tra le ragazze di Mitakihara. Il “Telefono Lucertola” esaudisce i desideri — in cambio si deve combattere le maledizioni che affliggono questo mondo. Nel frattempo, una serie di anomalie aveva iniziato a manifestarsi: una “ragazza senza Soul Gem” stava dando la caccia ai Wraith. Homura osservava la scena con serena compostezza; regnando come un Demone di questo mondo, deteneva il dominio assoluto su ogni cosa. — O almeno, così avrebbe dovuto essere…",
       "motivi": [],
       "impronta": "Puella Magi Madoka Magica the Movie - Il risveglio di Walpurgis|524|宮本幸裕"
-    },
-    {
-      "id": "tmdb-1545621",
-      "tmdbId": 1545621,
-      "imdbId": "tt39123115",
-      "origine": "trailer",
-      "titolo": "Detective Conan: L'angelo ribelle dell'autostrada",
-      "titoloOriginale": "名探偵コナン ハイウェイの堕天使",
-      "anno": "2026",
-      "uscitaItalia": "2026-12-07",
-      "regia": "蓮井隆弘",
-      "generi": [
-        "Azione",
-        "Animazione",
-        "Mistero",
-        "Crime"
-      ],
-      "paesi": [
-        "Giappone"
-      ],
-      "durata": 109,
-      "tagline": null,
-      "cast": [
-        "Minami Takayama (Conan Edogawa (voice))",
-        "Miyuki Sawashiro (Chihaya Hagiwara (voice))",
-        "Wakana Yamazaki (Ran Mouri (voice))",
-        "Akio Ōtsuka (Jugo Yokomizo (voice))",
-        "Rikiya Koyama (Kogoro Mouri (voice))",
-        "Megumi Hayashibara (Ai Haibara (voice))"
-      ],
-      "tramaTmdb": "Quando si verifica una serie di incidenti stradali mortali, le indagini di Conan Edogawa suggeriscono che non si tratti di semplici fatalità, bensì di un piano orchestrato. Man mano che svela una cospirazione che coinvolge identità celate e tecnologie avanzate, il caso si trasforma in una frenetica corsa contro il tempo: Conan deve fermare una mente criminale calcolatrice prima che altre vite vadano perdute.",
-      "motivi": [],
-      "impronta": "Detective Conan: L'angelo ribelle dell'autostrada|411|蓮井隆弘"
-    },
-    {
-      "id": "tmdb-1084736",
-      "tmdbId": 1084736,
-      "imdbId": "tt26446278",
-      "origine": "scoperta",
-      "titolo": "Il conte di Montecristo",
-      "titoloOriginale": "Le Comte de Monte-Cristo",
-      "anno": "2024",
-      "uscitaItalia": "2024-06-28",
-      "regia": "Alexandre de La Patellière",
-      "generi": [
-        "Avventura",
-        "Azione",
-        "Dramma"
-      ],
-      "paesi": [
-        "Francia",
-        "Belgio"
-      ],
-      "durata": 178,
-      "tagline": "Questa non è vendetta, questa è giustizia.",
-      "cast": [
-        "Pierre Niney (Edmond Dantès / The Count of Monte Cristo)",
-        "Bastien Bouillon (Fernand de Morcerf)",
-        "Anaïs Demoustier (Mercédès Herrera)",
-        "Laurent Lafitte (Gérard de Villefort)",
-        "Pierfrancesco Favino (Abbé Faria)",
-        "Patrick Mille (Danglars)"
-      ],
-      "tramaTmdb": "Il film racconta la storia di un giovane uomo, Edmond Dantes, che diviene il bersaglio di un sinistro complotto e viene arrestato il giorno del suo matrimonio per un crimine che non ha commesso. Dopo 14 anni trascorsi nella prigione dell'isola di Château d'If, riesce a fuggire rocambolescamente. Ora, ricco oltre ogni immaginazione, assume l'identità del Conte di Monte-Cristo ed esige la sua vendetta sui tre uomini che lo hanno tradito.",
-      "motivi": [
-        "avventura: il tuo terreno"
-      ],
-      "impronta": "Il conte di Montecristo|439|Alexandre de La Patellière"
     }
   ]
 }
